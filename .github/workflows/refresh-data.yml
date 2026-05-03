@@ -1,85 +1,46 @@
 name: Live Data Feed — Auto Refresh
 
-# ── 트리거 설정 ────────────────────────────────────────────────
 on:
   schedule:
-    # 15분마다 실행 (cron은 UTC 기준)
-    # GitHub Actions 무료 플랜: public repo 무제한, private repo 2,000분/월
     - cron: "*/15 * * * *"
-
-  # 수동 실행 버튼 (Actions 탭에서 클릭 가능)
   workflow_dispatch:
-    inputs:
-      force_refresh:
-        description: "강제 갱신 (캐시 무시)"
-        required: false
-        default: "false"
-        type: boolean
 
-# ── 권한 설정 ─────────────────────────────────────────────────
 permissions:
-  contents: write   # data.json 커밋을 위해 필요
+  contents: write
 
 jobs:
   refresh-data:
     name: Fetch & Commit Live Data
     runs-on: ubuntu-latest
-env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     timeout-minutes: 5
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
-      # 1. 리포 체크아웃
       - name: Checkout repository
-        uses: actions/checkout@v4.2.2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+        uses: actions/checkout@v4
 
-      # 2. Node.js 설정 (fetch 스크립트 실행용)
       - name: Setup Node.js
-        uses: actions/setup-node@v4.4.0
+        uses: actions/setup-node@v4
         with:
           node-version: "20"
 
-      # 3. 데이터 fetch 실행
-      # Workers가 배포되어 있으면 Workers URL에서 가져오고
-      # 없으면 직접 API 호출
       - name: Fetch live data
         env:
-          # GitHub Secrets에 등록한 키들
           EIA_API_KEY:       ${{ secrets.EIA_API_KEY }}
           NEWSAPI_KEY:       ${{ secrets.NEWSAPI_KEY }}
           FRED_API_KEY:      ${{ secrets.FRED_API_KEY }}
-          FREIGHTOS_API_KEY: ${{ secrets.FREIGHTOS_API_KEY }}
           WORKERS_URL:       ${{ secrets.WORKERS_URL }}
-          # 예: https://chokepoint-api.your-account.workers.dev
         run: node scripts/fetch-data.js
 
-      # 4. 변경사항 확인 후 커밋
       - name: Commit updated data.json
         run: |
           git config user.name  "chokepoint-bot"
           git config user.email "bot@chokepoint.io"
-
-          # data.json이 변경됐을 때만 커밋 (불필요한 커밋 방지)
           if git diff --quiet public/data.json; then
-            echo "데이터 변경 없음 — 커밋 생략"
+            echo "변경 없음"
           else
             git add public/data.json
             git commit -m "data: auto-refresh $(date -u '+%Y-%m-%d %H:%M') UTC"
             git push
-            echo "data.json 갱신 완료"
           fi
-
-      # 5. 실패 시 Slack 알림 (선택)
-      - name: Notify on failure
-        if: failure()
-        uses: slackapi/slack-github-action@v1.26.0
-        with:
-          payload: |
-            {
-              "text": "Chokepoint data refresh FAILED — ${{ github.run_id }}"
-            }
-        env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-        continue-on-error: true   # Slack 미설정 시 워크플로우 실패 방지
