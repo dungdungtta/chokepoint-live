@@ -1,0 +1,789 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Chokepoint · Live Maritime Risk Intelligence</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@300;400;500;600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet"/>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --black:#000;--bg:#080808;--bg2:#0f0f0f;--bg3:#141414;
+  --border:rgba(255,255,255,.07);--border2:rgba(255,255,255,.12);
+  --text:#fff;--muted:rgba(255,255,255,.45);--dim:rgba(255,255,255,.22);
+  --red:#ff4444;--red-bg:rgba(255,68,68,.1);--red-border:rgba(255,68,68,.25);
+  --amber:#f59e0b;--amber-bg:rgba(245,158,11,.1);--amber-border:rgba(245,158,11,.25);
+  --green:#22c55e;--green-bg:rgba(34,197,94,.1);--green-border:rgba(34,197,94,.25);
+  --blue:#3b82f6;
+  --panel:340px;
+  --top:48px;
+  --mono:'Geist Mono',monospace;
+  --sans:'Inter',sans-serif;
+}
+html,body{height:100%;overflow:hidden;font-family:var(--sans);background:var(--black);color:var(--text);font-size:13px}
+
+/* ── TOPBAR ──────────────────────── */
+#topbar{
+  position:fixed;top:0;left:0;right:0;height:var(--top);z-index:1000;
+  background:rgba(0,0,0,.85);border-bottom:1px solid var(--border);
+  backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);
+  display:flex;align-items:center;padding:0 16px;gap:0;
+}
+.logo{
+  font-family:var(--mono);font-size:13px;font-weight:600;
+  color:#fff;letter-spacing:-.3px;margin-right:16px;flex-shrink:0;
+  display:flex;align-items:center;gap:8px;
+}
+.logo-dot{
+  width:7px;height:7px;border-radius:50%;background:var(--red);
+  box-shadow:0 0 8px var(--red);
+  animation:livepulse 2s ease-in-out infinite;
+}
+@keyframes livepulse{0%,100%{opacity:1;box-shadow:0 0 8px var(--red)}50%{opacity:.5;box-shadow:0 0 3px var(--red)}}
+.top-sep{width:1px;height:24px;background:var(--border);margin:0 14px;flex-shrink:0}
+.top-stat{flex-shrink:0}
+.tsl{font-family:var(--mono);font-size:9px;color:var(--dim);letter-spacing:1.5px;text-transform:uppercase}
+.tsv{font-family:var(--mono);font-size:12px;font-weight:500}
+.tsv.danger{color:var(--red)}
+.tsv.warn{color:var(--amber)}
+.tsv.ok{color:var(--green)}
+.top-flex{flex:1}
+.top-pills{display:flex;gap:6px;align-items:center}
+.tpill{
+  font-family:var(--mono);font-size:9px;font-weight:500;letter-spacing:1.2px;text-transform:uppercase;
+  padding:4px 11px;border-radius:3px;cursor:pointer;border:1px solid var(--border);
+  color:var(--muted);background:transparent;transition:all .15s;
+}
+.tpill:hover{border-color:var(--border2);color:var(--text)}
+.tpill.active{border-color:rgba(255,255,255,.3);color:#fff;background:rgba(255,255,255,.05)}
+.tpill.live-route{border-color:var(--blue);color:#93c5fd;}
+.tpill.live-cascade{border-color:var(--green);color:#86efac;}
+
+/* ── MAP ────────────────────────── */
+#map{
+  position:fixed;top:var(--top);left:0;
+  right:var(--panel);bottom:0;
+  background:#000 !important;
+}
+.leaflet-container{background:#050505 !important}
+.leaflet-control-zoom{
+  border:1px solid var(--border) !important;
+  border-radius:4px !important;
+  overflow:hidden;
+  background:rgba(0,0,0,.8) !important;
+  backdrop-filter:blur(10px);
+}
+.leaflet-control-zoom a{
+  background:rgba(0,0,0,.0) !important;
+  color:var(--muted) !important;
+  border-bottom:1px solid var(--border) !important;
+  font-size:16px !important;
+}
+.leaflet-control-zoom a:hover{color:#fff !important;background:rgba(255,255,255,.05) !important}
+.leaflet-control-zoom-out{border-bottom:none !important}
+.leaflet-control-attribution{display:none}
+
+/* ── PULSE MARKERS ──────────────── */
+.mk-wrap{position:relative;display:flex;align-items:center;justify-content:center}
+.mk-core{
+  border-radius:50%;display:flex;align-items:center;justify-content:center;
+  font-family:var(--mono);font-size:10px;font-weight:700;
+  cursor:pointer;transition:transform .2s,box-shadow .2s;
+  border:1px solid rgba(255,255,255,.25);
+  position:relative;z-index:2;color:#fff;
+}
+.mk-core:hover{transform:scale(1.2)}
+.mk-ring{
+  position:absolute;border-radius:50%;border:1px solid;
+  opacity:0;animation:mkring 2.8s ease-out infinite;pointer-events:none;
+}
+.mk-ring2{animation-delay:.9s}
+.mk-ring3{animation-delay:1.8s}
+@keyframes mkring{0%{transform:scale(1);opacity:.5}100%{transform:scale(2.6);opacity:0}}
+.mk-label{
+  position:absolute;top:calc(100% + 8px);left:50%;transform:translateX(-50%);
+  white-space:nowrap;font-family:var(--mono);font-size:9px;font-weight:500;
+  background:rgba(0,0,0,.75);padding:2px 6px;border-radius:2px;
+  pointer-events:none;letter-spacing:.5px;
+}
+.mk-connected{
+  position:absolute;inset:-6px;border-radius:50%;
+  border:1px solid rgba(255,255,255,.35);
+  animation:connpulse 1s ease-in-out infinite;
+}
+@keyframes connpulse{0%,100%{opacity:.4;transform:scale(1)}50%{opacity:.9;transform:scale(1.1)}}
+
+/* ── SIDE PANEL ─────────────────── */
+#panel{
+  position:fixed;top:var(--top);right:0;width:var(--panel);bottom:0;
+  background:var(--bg);border-left:1px solid var(--border);
+  overflow-y:auto;overflow-x:hidden;z-index:900;
+  display:flex;flex-direction:column;
+}
+#panel::-webkit-scrollbar{width:3px}
+#panel::-webkit-scrollbar-thumb{background:var(--border2);border-radius:2px}
+
+/* Panel default */
+.pd{padding:20px;flex:1;display:flex;flex-direction:column;gap:0}
+.pd-head{margin-bottom:20px}
+.pd-title{font-family:var(--mono);font-size:18px;font-weight:600;color:#fff;line-height:1.2;margin-bottom:4px}
+.pd-sub{font-size:11px;color:var(--muted);line-height:1.65}
+.pd-rule{height:1px;background:var(--border);margin:16px 0}
+.pd-label{font-family:var(--mono);font-size:9px;font-weight:500;letter-spacing:2px;text-transform:uppercase;color:var(--dim);margin-bottom:10px}
+
+/* Live feed */
+.feed{display:flex;flex-direction:column;gap:0;margin-bottom:16px}
+.feed-item{
+  display:flex;align-items:flex-start;gap:10px;
+  padding:10px 0;border-bottom:1px solid var(--border);
+  cursor:pointer;transition:background .1s;
+}
+.feed-item:hover{background:rgba(255,255,255,.02);margin:0 -20px;padding:10px 20px}
+.feed-item:last-child{border-bottom:none}
+.feed-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0;margin-top:4px}
+.feed-dot.red{background:var(--red);box-shadow:0 0 5px var(--red)}
+.feed-dot.amber{background:var(--amber);box-shadow:0 0 5px var(--amber)}
+.feed-dot.green{background:var(--green);box-shadow:0 0 5px var(--green)}
+.feed-content{flex:1;min-width:0}
+.feed-name{font-size:12px;font-weight:500;color:#fff;margin-bottom:2px}
+.feed-meta{font-family:var(--mono);font-size:10px;color:var(--muted)}
+.feed-zone{font-family:var(--mono);font-size:9px;font-weight:600;letter-spacing:1px;text-transform:uppercase;margin-left:auto;flex-shrink:0;padding:2px 7px;border-radius:2px}
+.feed-zone.red{background:var(--red-bg);color:var(--red);border:1px solid var(--red-border)}
+.feed-zone.amber{background:var(--amber-bg);color:var(--amber);border:1px solid var(--amber-border)}
+.feed-zone.green{background:var(--green-bg);color:var(--green);border:1px solid var(--green-border)}
+
+/* Stat grid */
+.stat-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:16px}
+.stat-card{background:var(--bg3);border:1px solid var(--border);padding:12px 14px;border-radius:3px}
+.sc-label{font-family:var(--mono);font-size:8px;font-weight:500;letter-spacing:1.5px;text-transform:uppercase;color:var(--dim);margin-bottom:5px}
+.sc-val{font-family:var(--mono);font-size:20px;font-weight:600;color:#fff;line-height:1}
+.sc-note{font-size:10px;color:var(--muted);margin-top:3px}
+
+/* Legend */
+.legend{display:flex;flex-direction:column;gap:7px;margin-bottom:16px}
+.leg-item{display:flex;align-items:center;gap:9px;font-size:11px;color:var(--muted)}
+.leg-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+
+/* Panel detail */
+#detail{display:none;flex-direction:column;height:100%}
+.det-hero{
+  padding:18px 20px 14px;border-bottom:1px solid var(--border);
+  position:sticky;top:0;background:var(--bg);z-index:10;
+}
+.det-back{
+  font-family:var(--mono);font-size:9px;font-weight:500;letter-spacing:1.5px;text-transform:uppercase;
+  color:var(--dim);cursor:pointer;margin-bottom:14px;
+  background:none;border:none;display:flex;align-items:center;gap:5px;
+  transition:color .15s;padding:0;
+}
+.det-back:hover{color:var(--text)}
+.det-zone{
+  display:inline-flex;align-items:center;gap:6px;
+  font-family:var(--mono);font-size:9px;font-weight:600;letter-spacing:2px;text-transform:uppercase;
+  padding:3px 9px;border-radius:2px;margin-bottom:10px;
+}
+.det-zone.red{background:var(--red-bg);color:var(--red);border:1px solid var(--red-border)}
+.det-zone.amber{background:var(--amber-bg);color:var(--amber);border:1px solid var(--amber-border)}
+.det-zone.green{background:var(--green-bg);color:var(--green);border:1px solid var(--green-border)}
+.det-name{font-family:var(--mono);font-size:16px;font-weight:600;color:#fff;line-height:1.2;margin-bottom:3px}
+.det-sub{font-size:11px;color:var(--muted);margin-bottom:14px}
+.det-stat-row{display:grid;grid-template-columns:1fr 1fr;gap:7px}
+.det-stat{background:var(--bg2);border:1px solid var(--border);padding:9px 11px;border-radius:2px}
+.dsl{font-family:var(--mono);font-size:8px;font-weight:500;letter-spacing:1.5px;text-transform:uppercase;color:var(--dim);margin-bottom:4px}
+.dsv{font-family:var(--mono);font-size:15px;font-weight:600;color:#fff;line-height:1}
+.dsn{font-size:10px;color:var(--muted);margin-top:2px}
+
+.det-body{padding:16px 20px;flex:1;overflow-y:auto}
+.det-body::-webkit-scrollbar{width:3px}
+.det-body::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px}
+.det-sec{margin-bottom:18px}
+.det-sec-label{font-family:var(--mono);font-size:9px;font-weight:500;letter-spacing:2px;text-transform:uppercase;color:var(--dim);margin-bottom:8px;padding-bottom:7px;border-bottom:1px solid var(--border)}
+.det-text{font-size:12px;color:var(--muted);line-height:1.75}
+.det-text strong{color:var(--text);font-weight:500}
+
+/* Energy bar (orbital timeline style) */
+.energy-row{display:flex;justify-content:space-between;align-items:center;font-size:10px;color:var(--dim);margin-bottom:5px;font-family:var(--mono)}
+.energy-bar{height:3px;background:var(--border);border-radius:99px;overflow:hidden;margin-bottom:14px}
+.energy-fill{height:3px;border-radius:99px;transition:width .5s ease}
+
+/* Material list */
+.mat-list{display:flex;flex-direction:column;gap:5px}
+.mat-item{display:flex;justify-content:space-between;align-items:center;padding:7px 10px;background:var(--bg2);border:1px solid var(--border);border-radius:2px}
+.mat-name{font-size:11px;color:var(--text)}
+.mat-badge{font-family:var(--mono);font-size:8px;font-weight:600;letter-spacing:.5px;padding:2px 8px;border-radius:2px}
+.mb-red{background:var(--red-bg);color:var(--red);border:1px solid var(--red-border)}
+.mb-amber{background:var(--amber-bg);color:var(--amber);border:1px solid var(--amber-border)}
+.mb-green{background:var(--green-bg);color:var(--green);border:1px solid var(--green-border)}
+.mb-dim{background:rgba(255,255,255,.04);color:var(--muted);border:1px solid var(--border)}
+
+/* Connected nodes (orbital timeline pattern) */
+.conn-nodes{display:flex;flex-wrap:wrap;gap:5px;margin-top:8px}
+.conn-node{
+  font-size:10px;font-family:var(--mono);padding:4px 10px;
+  border:1px solid var(--border2);border-radius:2px;
+  color:var(--muted);background:transparent;cursor:pointer;
+  transition:all .15s;display:flex;align-items:center;gap:5px;
+}
+.conn-node:hover{border-color:rgba(255,255,255,.3);color:#fff;background:rgba(255,255,255,.04)}
+.conn-arrow{font-size:9px;color:var(--dim)}
+
+/* Action cards */
+.action-list{display:flex;flex-direction:column;gap:6px}
+.action-item{padding:10px 12px;border-radius:2px;background:var(--bg2);border-left:2px solid}
+.action-item.p1{border-left-color:var(--red)}
+.action-item.p2{border-left-color:var(--amber)}
+.action-item.p3{border-left-color:var(--green)}
+.ap-label{font-family:var(--mono);font-size:8px;font-weight:600;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:4px}
+.action-item.p1 .ap-label{color:var(--red)}
+.action-item.p2 .ap-label{color:var(--amber)}
+.action-item.p3 .ap-label{color:var(--green)}
+.ap-text{font-size:11px;color:var(--muted);line-height:1.6}
+.ap-text strong{color:var(--text);font-weight:500}
+.ap-trigger{margin-top:8px;padding:6px 9px;background:rgba(200,168,74,.06);border:1px solid rgba(200,168,74,.18);border-radius:2px;font-family:var(--mono);font-size:9px;color:var(--dim);line-height:1.5}
+.ap-trigger span{color:var(--amber)}
+
+/* Cascade panel */
+#cascade-panel{
+  position:fixed;bottom:20px;left:20px;
+  background:rgba(0,0,0,.92);border:1px solid var(--border);border-top:1px solid var(--green);
+  backdrop-filter:blur(20px);padding:14px 18px;
+  min-width:460px;z-index:900;display:none;
+  border-radius:3px;
+}
+#cascade-panel.show{display:block}
+.cp-title{font-family:var(--mono);font-size:8px;font-weight:500;letter-spacing:2px;text-transform:uppercase;color:var(--green);margin-bottom:14px;display:flex;align-items:center;gap:7px}
+.cp-title::before{content:'';width:5px;height:5px;border-radius:50%;background:var(--green);animation:livepulse 2s infinite;flex-shrink:0}
+.cascade-flow{display:flex;align-items:center;gap:0;overflow-x:auto}
+.cn{flex-shrink:0;text-align:center;min-width:76px}
+.cn-dot{
+  width:36px;height:36px;border-radius:50%;margin:0 auto 7px;
+  display:flex;align-items:center;justify-content:center;
+  font-family:var(--mono);font-size:8px;font-weight:700;color:#fff;
+  position:relative;
+}
+.cn-dot::after{content:'';position:absolute;inset:-3px;border-radius:50%;border:1px solid currentColor;opacity:.2}
+.cn-name{font-family:var(--mono);font-size:9px;font-weight:600;color:#fff;line-height:1.3}
+.cn-sub{font-size:8px;color:var(--dim);margin-top:2px}
+.cn-arrow{flex-shrink:0;font-family:var(--mono);font-size:14px;color:var(--dim);padding:0 6px;margin-bottom:22px;animation:arrarrow 1.5s ease-in-out infinite}
+@keyframes arrarrow{0%,100%{opacity:.15}50%{opacity:.7}}
+
+/* Map popup override */
+.leaflet-popup-content-wrapper{
+  background:rgba(0,0,0,.92) !important;border:1px solid var(--border) !important;
+  border-radius:3px !important;color:#fff !important;
+  font-family:var(--sans) !important;box-shadow:0 8px 32px rgba(0,0,0,.6) !important;
+  backdrop-filter:blur(20px) !important;padding:0 !important;
+}
+.leaflet-popup-content{margin:0 !important;font-family:var(--sans) !important}
+.leaflet-popup-tip{background:rgba(0,0,0,.92) !important}
+.leaflet-popup-close-button{color:var(--muted) !important;font-size:16px !important;top:8px !important;right:10px !important}
+.leaflet-popup-close-button:hover{color:#fff !important}
+.map-popup{padding:14px 16px;min-width:200px}
+.mp-zone{font-family:var(--mono);font-size:8px;font-weight:600;letter-spacing:2px;text-transform:uppercase;margin-bottom:6px;display:flex;align-items:center;gap:6px}
+.mp-name{font-family:var(--mono);font-size:14px;font-weight:600;color:#fff;margin-bottom:8px}
+.mp-stat{display:flex;justify-content:space-between;font-family:var(--mono);font-size:10px;color:var(--muted);padding:4px 0;border-bottom:1px solid var(--border)}
+.mp-stat:last-of-type{border-bottom:none;margin-bottom:10px}
+.mp-stat span:last-child{color:#fff;font-weight:500}
+.mp-open{
+  width:100%;font-family:var(--mono);font-size:9px;font-weight:600;letter-spacing:1.5px;text-transform:uppercase;
+  padding:8px;border:1px solid var(--border2);border-radius:2px;
+  background:rgba(255,255,255,.04);color:var(--text);cursor:pointer;
+  transition:all .15s;
+}
+.mp-open:hover{background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.25)}
+</style>
+</head>
+<body>
+
+<!-- TOPBAR -->
+<div id="topbar">
+  <div class="logo">
+    <div class="logo-dot"></div>
+    CHOKEPOINT
+  </div>
+  <div class="top-sep"></div>
+  <div class="top-stat"><div class="tsl">Brent</div><div class="tsv warn">$103</div></div>
+  <div class="top-sep"></div>
+  <div class="top-stat"><div class="tsl">Helium Buffer</div><div class="tsv danger">~45 days</div></div>
+  <div class="top-sep"></div>
+  <div class="top-stat"><div class="tsl">Active Blockades</div><div class="tsv danger">1</div></div>
+  <div class="top-sep"></div>
+  <div class="top-stat"><div class="tsl">Red Sea WRS</div><div class="tsv warn">1.8%</div></div>
+  <div class="top-flex"></div>
+  <div class="top-pills">
+    <button class="tpill active" onclick="filterZone('all',this)">All</button>
+    <button class="tpill" onclick="filterZone('red',this)">Red Zone</button>
+    <button class="tpill" onclick="filterZone('amber',this)">Amber Zone</button>
+    <button class="tpill live-route" onclick="toggleRoutes(this)" id="route-btn">Routes</button>
+    <button class="tpill live-cascade" onclick="toggleCascade()" id="cascade-btn">Cascade</button>
+  </div>
+</div>
+
+<!-- MAP -->
+<div id="map"></div>
+
+<!-- PANEL -->
+<div id="panel">
+  <!-- Default -->
+  <div id="panel-default" class="pd">
+    <div class="pd-head">
+      <div class="pd-title">Maritime Risk<br>Intelligence</div>
+      <div style="font-size:10px;color:var(--dim);font-family:var(--mono);margin-top:4px;margin-bottom:8px">April 2026 · Samsung DS Focus</div>
+      <div class="pd-sub">Six chokepoints. Three risk tiers. Click any marker or select below to see Samsung's material dependencies and action priorities.</div>
+    </div>
+
+    <div class="stat-grid">
+      <div class="stat-card">
+        <div class="sc-label">Helium Buffer</div>
+        <div class="sc-val" style="color:var(--red)">~45d</div>
+        <div class="sc-note">DS fab inventory</div>
+      </div>
+      <div class="stat-card">
+        <div class="sc-label">Oil +40%</div>
+        <div class="sc-val" style="color:var(--amber)">$103</div>
+        <div class="sc-note">Brent crude/bbl</div>
+      </div>
+      <div class="stat-card">
+        <div class="sc-label">Samsung Stock</div>
+        <div class="sc-val" style="color:var(--red)">-14%</div>
+        <div class="sc-note">Since Feb 28, 2026</div>
+      </div>
+      <div class="stat-card">
+        <div class="sc-label">Q1 Op. Profit</div>
+        <div class="sc-val" style="color:var(--green)">₩57T</div>
+        <div class="sc-note">Record all-time high</div>
+      </div>
+    </div>
+
+    <div class="pd-rule"></div>
+    <div class="pd-label">Risk Zones</div>
+    <div class="legend">
+      <div class="leg-item"><div class="leg-dot" style="background:var(--red);box-shadow:0 0 6px var(--red)"></div>Red — Active disruption or existential threat</div>
+      <div class="leg-item"><div class="leg-dot" style="background:var(--amber);box-shadow:0 0 6px var(--amber)"></div>Amber — Elevated / cascade risk</div>
+      <div class="leg-item"><div class="leg-dot" style="background:var(--green);box-shadow:0 0 6px var(--green)"></div>Yellow — Operational bottleneck</div>
+    </div>
+
+    <div class="pd-rule"></div>
+    <div class="pd-label">Live Chokepoints</div>
+    <div class="feed" id="cp-feed"></div>
+
+    <div class="pd-rule"></div>
+    <div class="pd-label">Commercial Usability Thresholds</div>
+    <div style="display:flex;flex-direction:column;gap:5px;margin-bottom:16px">
+      <div class="mat-item"><span class="mat-name">War Risk Surcharge</span><span class="mat-badge mb-red">Alert &gt;1.5%</span></div>
+      <div class="mat-item"><span class="mat-name">Helium / Neon Inventory</span><span class="mat-badge mb-red">Escalate &lt;30 days</span></div>
+      <div class="mat-item"><span class="mat-name">Lead-Time Variance</span><span class="mat-badge mb-amber">Unstable ±20%</span></div>
+      <div class="mat-item"><span class="mat-name">Carrier Slots</span><span class="mat-badge mb-amber">At risk &lt;3 carriers</span></div>
+    </div>
+  </div>
+
+  <!-- Detail -->
+  <div id="detail"></div>
+</div>
+
+<!-- CASCADE PANEL -->
+<div id="cascade-panel">
+  <div class="cp-title">Live 2026 Cascade — Hormuz → Korean Fab Input Risk</div>
+  <div class="cascade-flow" id="cascade-flow"></div>
+</div>
+
+<script>
+// ── DATA ──────────────────────────────────────────────────────
+const NODES = [
+  {
+    id:'hormuz', name:'Strait of Hormuz', sub:'Persian Gulf · Iran–Oman',
+    zone:'red', zoneLabel:'RED · Active', lat:26.6, lng:56.5, size:22,
+    energy:96,
+    relatedIds:['malacca','suez'],
+    stats:[
+      {l:'Daily Oil Flow',v:'20M bbl',n:'~25% global seaborne oil'},
+      {l:'Helium Buffer',v:'~45 days',n:'Korea fab inventory left'},
+      {l:'Brent Crude',v:'$103/bbl',n:'+40% vs. pre-war'},
+      {l:'LNG Share',v:'19%',n:'Global LNG trade'},
+    ],
+    assessment:'The most severe <strong>active</strong> disruption of 2026. Korea imports 70%+ of crude via Hormuz. Qatar\'s Ras Laffan facility — supplying 65% of Korean fab helium — was struck March 5 and remains offline. With no substitute for helium and ~45 days of fab inventory remaining, this is the single highest-urgency input risk in the global semiconductor industry today.',
+    materials:[
+      {n:'Semiconductor-grade helium',b:'mb-red',l:'Critical — No Substitute'},
+      {n:'LNG / energy supply',b:'mb-red',l:'Critical — 70% Dependency'},
+      {n:'Petrochemical derivatives',b:'mb-amber',l:'High — Photoresist inputs'},
+      {n:'Aluminium (EGA UAE)',b:'mb-amber',l:'Medium-High — +8% price'},
+    ],
+    actions:[
+      {p:'p1',l:'Immediate',t:'<strong>Audit helium inventory daily by fab.</strong> Activate US and Algerian supply agreements now. ~45-day window is closing.',tr:'Inventory &lt;30 days → executive escalation · &lt;14 days → throttle decision'},
+      {p:'p1',l:'Immediate',t:'<strong>Procure closed-loop helium recapture systems.</strong> 6–12 month install, 90% recapture rate. ROI is now unambiguous.',tr:'Begin immediately — cannot wait for ceasefire signal'},
+      {p:'p2',l:'30 Days',t:'<strong>Qualify bromine-free photoresist alternatives</strong> across DS and SDC fabs. 3–6 month re-qualification required.',tr:'Bromine spot price &gt;2× pre-war → escalate to strategic procurement'},
+    ],
+    src:'IEA · Reuters · Carnegie Endowment · CNBC · Fitch Ratings'
+  },
+  {
+    id:'taiwan', name:'Taiwan Strait', sub:'South China Sea · Taiwan–China',
+    zone:'red', zoneLabel:'RED · Future Critical', lat:24.5, lng:121.0, size:20,
+    energy:78,
+    relatedIds:['korea','malacca'],
+    stats:[
+      {l:'Annual Trade Value',v:'$2.45T',n:'>20% of global maritime trade'},
+      {l:'Closure Probability',v:'Rising',n:'PLA transits routine'},
+      {l:'Samsung Foundry Risk',v:'Existential',n:'TSMC dependency'},
+      {l:'Planning Horizon',v:'2–5 Yrs',n:'Multi-year lead time'},
+    ],
+    assessment:'The most consequential <strong>latent</strong> risk for the global technology industry. A Chinese quarantine would sever Samsung\'s access to TSMC foundry capacity, halt advanced substrate deliveries, and freeze OSAT logistics across Northeast Asia. Unlike Hormuz, there is no ceasefire mechanism with Beijing. Contingency planning requires multi-year lead times.',
+    materials:[
+      {n:'TSMC foundry access (Exynos)',b:'mb-red',l:'Existential — No Alternative'},
+      {n:'Advanced packaging substrates',b:'mb-red',l:'Critical — Taiwan-sourced'},
+      {n:'OSAT / assembly logistics',b:'mb-amber',l:'High — Full NE Asia freeze'},
+      {n:'Tech freight (regional)',b:'mb-amber',l:'High — Electronics flows'},
+    ],
+    actions:[
+      {p:'p3',l:'60–180 Days',t:'<strong>Accelerate Samsung Foundry self-sufficiency.</strong> Reduce TSMC dependency below 30% for all critical nodes.',tr:'PLA naval exercise within 50nm → mandatory executive war-game drill'},
+      {p:'p3',l:'Ongoing',t:'<strong>Map 100% of Taiwan-dependent Tier 2/3 suppliers.</strong> Every substrate and OSAT partner needs a secondary qualification.',tr:'Rising PLA transit frequency → update risk register quarterly'},
+    ],
+    src:'CSIS · Reuters · US DoD · RAND Corporation'
+  },
+  {
+    id:'malacca', name:'Strait of Malacca', sub:'Singapore–Indonesia–Malaysia',
+    zone:'amber', zoneLabel:'AMBER · Cascade Risk', lat:2.5, lng:101.5, size:18,
+    energy:55,
+    relatedIds:['hormuz','suez'],
+    stats:[
+      {l:'Annual Vessels',v:'102,500+',n:'280+ ships per day'},
+      {l:'Global Trade',v:'22%',n:'29% of maritime oil'},
+      {l:'Closure Probability',v:'Very Low',n:'Tri-state governance'},
+      {l:'Current Status',v:'Congested',n:'Hormuz cascade overflow'},
+    ],
+    assessment:'Malacca will not close by political decision — it is jointly governed by three states committed to toll-free passage. The risk is cascade-driven: <strong>when Suez or Hormuz fails, Malacca absorbs vessel overflow</strong>, creating severe Singapore port congestion. Middle Eastern petrochemical inputs, polymer films, and specialty gases all transit the Singapore hub. Current Hormuz cascade is increasing Malacca congestion 15–20%.',
+    materials:[
+      {n:'Specialty chemicals (CMP, polymer)',b:'mb-amber',l:'High — Via Singapore hub'},
+      {n:'Petrochemical derivatives',b:'mb-amber',l:'High — Middle East origin'},
+      {n:'General semiconductor inputs',b:'mb-amber',l:'High — Bulk materials'},
+      {n:'Finished goods (outbound)',b:'mb-green',l:'Moderate — Galaxy/Harman'},
+    ],
+    actions:[
+      {p:'p2',l:'30–60 Days',t:'<strong>Map all Tier 2/3 supplier inputs transiting Malacca.</strong> Build 30-day buffer stocks at Singapore bonded warehouse.',tr:'Singapore port dwell time &gt;5 days → activate buffer draw-down'},
+      {p:'p2',l:'60 Days',t:'<strong>Establish piracy risk monitoring.</strong> Historical data shows incidents spike during regional instability periods.',tr:'Security incident in corridor → re-route assessment'},
+    ],
+    src:'Reuters · Maritime Port Authority Singapore · IEA'
+  },
+  {
+    id:'suez', name:'Suez Canal / Red Sea', sub:'Egypt · Mediterranean–Red Sea',
+    zone:'amber', zoneLabel:'AMBER · Functionally Constrained', lat:30.5, lng:32.3, size:18,
+    energy:48,
+    relatedIds:['hormuz','malacca'],
+    stats:[
+      {l:'War Risk Surcharge',v:'1.8%',n:'Above 1.5% self-divert threshold'},
+      {l:'Cape Detour Add',v:'+21 days',n:'Added transit time'},
+      {l:'Carrier Diversion',v:'23+',n:'Major lines self-diverting'},
+      {l:'ASML Impact',v:'Active',n:'EUV tool delays confirmed'},
+    ],
+    assessment:'Suez rarely closes formally; it becomes commercially unusable as carriers self-divert. The Cape of Good Hope detour adds 14–21 transit days and is being priced as a permanent feature. For Samsung, Suez carries one irreplaceable input: <strong>ASML EUV lithography equipment from Veldhoven, Netherlands</strong>, which cannot be airfreighted at scale. A sustained diversion delays Samsung Foundry capacity expansion.',
+    materials:[
+      {n:'ASML EUV lithography tools',b:'mb-red',l:'Critical — Cannot airfreight'},
+      {n:'European specialty chemicals',b:'mb-amber',l:'High — +21 day delay'},
+      {n:'Neon gas (lithography)',b:'mb-amber',l:'High — Ukraine/EU origin'},
+      {n:'Precision optics (European)',b:'mb-amber',l:'Medium — Foundry equipment'},
+    ],
+    actions:[
+      {p:'p1',l:'Immediate',t:'<strong>Map every pending ASML EUV delivery against Cape timeline.</strong> Reset foundry expansion schedules. Renegotiate customer commitments now.',tr:'WRS &gt;1.5% → activate Cape timeline as permanent baseline'},
+      {p:'p2',l:'60 Days',t:'<strong>Establish European chemical pre-positioning</strong> at Rotterdam/Hamburg before shipping to reduce Red Sea exposure.',tr:'Lead-time variance &gt;±20% for 2 weeks → switch to air freight for critical chemicals'},
+    ],
+    src:"Suez Canal Authority · Lloyd's of London · Reuters · ASML IR"
+  },
+  {
+    id:'panama', name:'Panama Canal', sub:'Panama · Pacific–Atlantic',
+    zone:'green', zoneLabel:'YELLOW · Operational', lat:9.1, lng:-79.7, size:16,
+    energy:28,
+    relatedIds:['malacca'],
+    stats:[
+      {l:'Closure Probability',v:'Very Low',n:'Administrative rationing only'},
+      {l:'Panamax Slots',v:'Reduced',n:'March 2026 maintenance'},
+      {l:'Samsung Impact',v:'Moderate',n:'US-bound finished goods'},
+      {l:'Risk Type',v:'Rationing',n:'Drought + maintenance'},
+    ],
+    assessment:"Panama's risk is administrative and climate-driven, not geopolitical. The Canal Authority uses slot allocation and drought-based restrictions. For Samsung, Panama primarily affects <strong>US-bound finished goods (Galaxy devices, appliances) and data-centre hardware</strong> to the Eastern US. The rationing effect on delivery commitments is equivalent to closure — but escalates gradually, making it easy to neglect.",
+    materials:[
+      {n:'Galaxy/MX devices (US-bound)',b:'mb-amber',l:'Moderate — Key revenue lane'},
+      {n:'Home appliance exports (VD/DA)',b:'mb-amber',l:'Moderate — US market'},
+      {n:'Server/data-centre hardware',b:'mb-amber',l:'Moderate — B2B East US'},
+      {n:'Harman audio systems',b:'mb-green',l:'Low-Moderate — US OEM'},
+    ],
+    actions:[
+      {p:'p2',l:'30–60 Days',t:'<strong>Pre-position US-bound inventory at West Coast distribution centres</strong> to reduce Panama dependency for Eastern US delivery.',tr:'Panamax slot availability &lt;60% → activate West Coast pre-positioning'},
+      {p:'p3',l:'Ongoing',t:'<strong>Model US-Asia trade lane via Suez/Atlantic routing</strong> as contingency for East Coast customers.',tr:'Drought alert + maintenance overlap → immediate slot booking on alternative carriers'},
+    ],
+    src:'Panama Canal Authority (ACP) · Reuters · US Army Corps of Engineers'
+  },
+  {
+    id:'korea', name:'Korea Strait', sub:'Korea–Japan · East China Sea gateway',
+    zone:'green', zoneLabel:'YELLOW · Contingency', lat:34.5, lng:129.0, size:16,
+    energy:22,
+    relatedIds:['taiwan'],
+    stats:[
+      {l:'Closure Probability',v:'Low (Now)',n:'Rises with DPRK escalation'},
+      {l:'If Escalates',v:'High',n:'Samsung Korea home ops'},
+      {l:'DPRK Tests',v:'Active',n:'Programme ongoing 2026'},
+      {l:'US Deterrence',v:'Shifting',n:'Reduced forward presence'},
+    ],
+    assessment:"The Korea Strait is underanalysed because it lacks a single obvious controlling power. Its risk is specifically relevant to Samsung's home operations. The strait sits between Korea and Japan — two of Samsung's largest manufacturing and logistics corridors. <strong>DPRK missile programme and shifting US deterrence posture</strong> mean a Korean Peninsula escalation could disrupt regional shipping with very little warning.",
+    materials:[
+      {n:'Japanese specialty chemicals',b:'mb-amber',l:'High if escalates'},
+      {n:'Japanese precision equipment',b:'mb-amber',l:'High — Niche materials'},
+      {n:'Korean export lanes (all)',b:'mb-red',l:'Critical — Home base'},
+      {n:'Japan–Korea wafer logistics',b:'mb-amber',l:'High — Assembly flows'},
+    ],
+    actions:[
+      {p:'p3',l:'Ongoing',t:'<strong>Maintain 45-day buffer for all Japanese-sourced precision inputs.</strong> Low-cost insurance against a scenario that offers very little warning time.',tr:'DPRK ICBM test + US carrier withdrawal → activate contingency sourcing immediately'},
+      {p:'p3',l:'Ongoing',t:'<strong>Establish Korean fab continuity protocol.</strong> Coordinate with MOEF and MOTIE for emergency logistics corridors.',tr:'Korean Peninsula security alert → government liaison protocol activation'},
+    ],
+    src:'Reuters · US INDOPACOM · MOEF Korea'
+  }
+];
+
+const COLORS = {red:'#ff4444', amber:'#f59e0b', green:'#22c55e'};
+const CASCADE_NODES = [
+  {l:'TRIGGER',n:'Hormuz\nBlockade',s:'Active now',c:'#ff4444'},
+  {arrow:true},
+  {l:'1ST',n:'Vessel\nShortage',s:'Freight +40%',c:'#f59e0b'},
+  {arrow:true},
+  {l:'2ND',n:'Malacca\nCongested',s:'+5–12d delay',c:'#f59e0b'},
+  {arrow:true},
+  {l:'3RD',n:'Korea Input\nDelays',s:'Buffer ↓',c:'#fbbf24'},
+  {arrow:true},
+  {l:'END',n:'Production\nRisk',s:'DS impacted',c:'#ff4444'},
+];
+
+// Shipping routes
+const ROUTES = [
+  {n:'Middle East → Korea (Helium/Energy)',c:'#ff4444',w:2.5,o:.65,
+   pts:[[26.6,56.5],[18,57],[12,44],[8,50],[2.5,80],[2.5,101.5],[10,108],[25,119],[37,126.5]]},
+  {n:'Europe → Korea via Suez (ASML/EUV)',c:'#f59e0b',w:2,o:.6,
+   pts:[[52,4.5],[45,8],[38,12],[30.5,32.3],[15,42],[2.5,51],[2.5,101.5],[10,108],[25,119],[37,126.5]]},
+  {n:'Europe → Korea via Cape (Divert)',c:'#f59e0b',w:1.5,o:.3,dash:'5 5',
+   pts:[[52,4.5],[35,-8],[20,-20],[0,-15],[-34,18],[-20,60],[0,70],[2.5,80],[2.5,101.5],[10,108],[25,119],[37,126.5]]},
+  {n:'Korea → US West (Pacific)',c:'#3b82f6',w:2,o:.45,
+   pts:[[37,126.5],[35,140],[40,160],[45,180],[40,-160],[38,-122]]},
+  {n:'Korea → US East (via Panama)',c:'#3b82f6',w:1.5,o:.35,dash:'4 4',
+   pts:[[37,126.5],[10,108],[2.5,101.5],[1,103.8],[-5,80],[-34,18],[0,-40],[9.1,-79.7],[20,-85],[40,-74]]},
+  {n:'Taiwan–Korea Corridor',c:'#ff7a7a',w:1.5,o:.45,dash:'3 4',
+   pts:[[24.5,121],[28,124],[32,127],[37,126.5]]},
+];
+
+// ── MAP ────────────────────────────────────────────────────────
+const map = L.map('map',{center:[20,55],zoom:3,zoomControl:false,attributionControl:false,minZoom:2,maxZoom:8});
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png',{subdomains:'abcd',maxZoom:19}).addTo(map);
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_only_labels/{z}/{x}/{y}{r}.png',{subdomains:'abcd',maxZoom:19,opacity:.4}).addTo(map);
+L.control.zoom({position:'bottomleft'}).addTo(map);
+
+// ── ROUTES ──────────────────────────────────────────────────────
+const routeLayer = L.layerGroup();
+ROUTES.forEach(r=>{
+  L.polyline(r.pts,{color:r.c,weight:r.w,opacity:r.o,dashArray:r.dash||null,smoothFactor:2})
+   .bindTooltip(r.n,{sticky:true,className:''})
+   .addTo(routeLayer);
+});
+let routesOn=false;
+function toggleRoutes(btn){
+  routesOn=!routesOn;
+  routesOn?routeLayer.addTo(map):routeLayer.removeFrom(map);
+  btn.classList.toggle('active',routesOn);
+}
+
+// ── MARKERS ─────────────────────────────────────────────────────
+const leafletMarkers={};
+let activeId=null;
+
+function makeIcon(node, isConnected=false){
+  const c=COLORS[node.zone], s=node.size;
+  const rings=node.zone==='red'?3:node.zone==='amber'?2:1;
+  let rh='';
+  for(let i=0;i<rings;i++){
+    const w=s*2.2+i*4, top=(s*2.8-w)/2;
+    rh+=`<div class="mk-ring mk-ring${i+1}" style="width:${w}px;height:${w}px;top:${top}px;left:${top}px;border-color:${c}"></div>`;
+  }
+  const connRing=isConnected?`<div class="mk-connected"></div>`:'';
+  const sym=node.zone==='red'?'!':node.zone==='amber'?'▲':'●';
+  const totalW=s*2.8;
+  const coreW=s*1.15, coreTop=(totalW-coreW)/2;
+  return L.divIcon({
+    html:`<div class="mk-wrap" style="width:${totalW}px;height:${totalW+22}px">
+      ${rh}
+      ${connRing}
+      <div class="mk-core" style="width:${coreW}px;height:${coreW}px;top:${coreTop}px;left:${coreTop}px;position:absolute;background:${c};box-shadow:0 0 12px ${c}66">
+        <span>${sym}</span>
+      </div>
+      <div class="mk-label" style="color:${c}">${node.name.split(' ').slice(-1)}</div>
+    </div>`,
+    className:'',
+    iconSize:[totalW,totalW+22],
+    iconAnchor:[totalW/2,totalW/2],
+  });
+}
+
+NODES.forEach(node=>{
+  const m=L.marker([node.lat,node.lng],{icon:makeIcon(node)}).addTo(map);
+  m.on('click',()=>{
+    map.flyTo([node.lat,node.lng],5,{duration:1});
+    setTimeout(()=>showDetail(node.id),400);
+  });
+  leafletMarkers[node.id]=m;
+});
+
+function highlightConnected(id){
+  const node=NODES.find(n=>n.id===id);
+  if(!node)return;
+  NODES.forEach(n=>{
+    const isConn=node.relatedIds.includes(n.id);
+    leafletMarkers[n.id].setIcon(makeIcon(n,isConn));
+  });
+}
+function resetMarkers(){
+  NODES.forEach(n=>leafletMarkers[n.id].setIcon(makeIcon(n,false)));
+}
+
+// ── ZONE FILTER ─────────────────────────────────────────────────
+function filterZone(zone,btn){
+  document.querySelectorAll('.tpill:not(.live-route):not(.live-cascade)').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  NODES.forEach(n=>{
+    const m=leafletMarkers[n.id];
+    const show=zone==='all'||n.zone===zone;
+    show?(map.hasLayer(m)||map.addLayer(m)):(map.hasLayer(m)&&map.removeLayer(m));
+  });
+}
+
+// ── CASCADE ─────────────────────────────────────────────────────
+function buildCascade(){
+  const flow=document.getElementById('cascade-flow');
+  flow.innerHTML='';
+  CASCADE_NODES.forEach(n=>{
+    if(n.arrow){
+      const a=document.createElement('div');
+      a.className='cn-arrow';a.textContent='›';flow.appendChild(a);
+    } else {
+      const d=document.createElement('div');
+      d.className='cn';
+      d.innerHTML=`<div class="cn-dot" style="background:${n.c};color:${n.c}">
+        <span style="color:#fff;font-family:var(--mono);font-size:7px;font-weight:700">${n.l}</span>
+      </div>
+      <div class="cn-name">${n.n.replace('\n','<br>')}</div>
+      <div class="cn-sub">${n.s}</div>`;
+      flow.appendChild(d);
+    }
+  });
+}
+buildCascade();
+
+let cascadeOn=false;
+function toggleCascade(){
+  cascadeOn=!cascadeOn;
+  document.getElementById('cascade-panel').classList.toggle('show',cascadeOn);
+  document.getElementById('cascade-btn').classList.toggle('active',cascadeOn);
+}
+
+// ── FEED ────────────────────────────────────────────────────────
+function buildFeed(){
+  const feed=document.getElementById('cp-feed');
+  NODES.forEach(n=>{
+    const it=document.createElement('div');
+    it.className='feed-item';
+    it.innerHTML=`<div class="feed-dot ${n.zone}"></div>
+      <div class="feed-content">
+        <div class="feed-name">${n.name}</div>
+        <div class="feed-meta">${n.sub}</div>
+      </div>
+      <div class="feed-zone ${n.zone}">${n.zone.toUpperCase()}</div>`;
+    it.onclick=()=>{map.flyTo([n.lat,n.lng],5,{duration:1});setTimeout(()=>showDetail(n.id),400);};
+    feed.appendChild(it);
+  });
+}
+buildFeed();
+
+// ── DETAIL PANEL ────────────────────────────────────────────────
+function showDetail(id){
+  const n=NODES.find(x=>x.id===id);
+  if(!n)return;
+  activeId=id;
+  highlightConnected(id);
+
+  const c=COLORS[n.zone];
+  const statsH=n.stats.map(s=>`<div class="det-stat"><div class="dsl">${s.l}</div><div class="dsv">${s.v}</div><div class="dsn">${s.n}</div></div>`).join('');
+  const matsH=n.materials.map(m=>`<div class="mat-item"><span class="mat-name">${m.n}</span><span class="mat-badge ${m.b}">${m.l}</span></div>`).join('');
+  const actsH=n.actions.map(a=>`<div class="action-item ${a.p}"><div class="ap-label">${a.l}</div><div class="ap-text">${a.t}</div><div class="ap-trigger">Trigger: <span>${a.tr}</span></div></div>`).join('');
+
+  // Connected nodes (orbital timeline pattern)
+  const connNodes=NODES.filter(x=>n.relatedIds.includes(x.id));
+  const connH=connNodes.map(cn=>`<button class="conn-node" onclick="(function(){map.flyTo([${cn.lat},${cn.lng}],5,{duration:1});setTimeout(()=>showDetail('${cn.id}'),400);})()">
+    <span style="width:6px;height:6px;border-radius:50%;background:${COLORS[cn.zone]};box-shadow:0 0 5px ${COLORS[cn.zone]};flex-shrink:0;display:inline-block"></span>
+    ${cn.name.split(' ').slice(-2).join(' ')}<span class="conn-arrow">→</span>
+  </button>`).join('');
+
+  const det=document.getElementById('detail');
+  det.innerHTML=`
+    <div class="det-hero">
+      <button class="det-back" onclick="showDefault()">← All Chokepoints</button>
+      <div class="det-zone ${n.zone}">${n.zoneLabel}</div>
+      <div class="det-name">${n.name}</div>
+      <div class="det-sub">${n.sub}</div>
+      <div class="det-stat-row">${statsH}</div>
+    </div>
+    <div class="det-body">
+      <!-- Energy bar (orbital timeline) -->
+      <div class="det-sec">
+        <div class="det-sec-label">Risk Energy Level</div>
+        <div class="energy-row"><span>Disruption Intensity</span><span style="font-weight:600;color:${c}">${n.energy}%</span></div>
+        <div class="energy-bar"><div class="energy-fill" style="width:${n.energy}%;background:${c}"></div></div>
+      </div>
+
+      <div class="det-sec">
+        <div class="det-sec-label">Strategic Assessment — Technology &amp; Semiconductor Lens</div>
+        <div class="det-text">${n.assessment}</div>
+      </div>
+
+      ${connH?`<div class="det-sec">
+        <div class="det-sec-label">Connected Nodes — Cascade Relationships</div>
+        <div class="conn-nodes">${connH}</div>
+      </div>`:''}
+
+      <div class="det-sec">
+        <div class="det-sec-label">Samsung Material Dependencies at Risk</div>
+        <div class="mat-list">${matsH}</div>
+      </div>
+
+      <div class="det-sec">
+        <div class="det-sec-label">Priority Actions &amp; Trigger Thresholds</div>
+        <div class="action-list">${actsH}</div>
+      </div>
+
+      <div class="det-sec">
+        <div class="det-sec-label">Sources</div>
+        <div class="det-text">${n.src}</div>
+      </div>
+    </div>
+  `;
+
+  document.getElementById('panel-default').style.display='none';
+  det.style.display='flex';
+}
+
+function showDefault(){
+  activeId=null;
+  resetMarkers();
+  document.getElementById('panel-default').style.display='flex';
+  document.getElementById('detail').style.display='none';
+  map.flyTo([20,55],3,{duration:1.2});
+}
+
+map.on('click',e=>{
+  if(e.originalEvent.target.classList.contains('leaflet-container')){
+    showDefault();
+  }
+});
+
+// ── AUTO-OPEN HORMUZ ─────────────────────────────────────────────
+setTimeout(()=>{
+  map.flyTo([26.6,56.5],4,{duration:2});
+  setTimeout(()=>showDetail('hormuz'),2000);
+},800);
+</script>
+</body>
+</html>
