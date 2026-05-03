@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-03T06:58:05.273Z",
+    "generated_at": "2026-05-03T07:37:39.568Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
+        "title": "US warns shipping firms they could face sanctions over paying Iranian tolls in the Strait of Hormuz",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/us-warn-shipping-firms-sanctions-iranian-tolls-strait-hormuz-6095846",
+        "published": "2026-05-02T07:24:56Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US warns shipping firms they could face sanctions over paying Iranian tolls in the Strait of Hormuz",
+        "source": "seattlepi.com",
+        "url": "https://www.seattlepi.com/news/world/article/us-warns-shipping-firms-they-could-face-sanctions-22237804.php",
+        "published": "2026-05-02T07:21:07Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US warns shipping firms they could face sanctions over paying Iranian tolls in the Strait of Hormuz",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/companies/us-warns-shipping-firms-they-could-face-sanctions-over-paying-iranian-tolls-in-the-strait-of-hormuz-11777705811731.html",
+        "published": "2026-05-02T07:10:11Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The Iran war has turned the world’s shipping straits into a chessboard—and the U.S. aims to box out China from the Panama Canal to the Malacca Strait",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/05/02/us-cold-war-china-iran-strait-hormuz-piece-larger-puzzle/",
+        "published": "2026-05-02T07:08:00Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Strait of Hormuz closure reroutes shipping, boosts Panama Canal costs",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/strait-of-hormuz-closure-reroutes-shipping-boosts-panama-canal-costs/",
         "published": "2026-05-02T06:52:29Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Trump says 'not satisfied' with new Iran proposal",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/trump-says-not-satisfied-with-new-iran-proposal-221723",
-        "published": "2026-05-02T06:39:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "India-Linked Tanker Laden With Cooking Fuel Attempts Hormuz Exit",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/india-linked-tanker-laden-with-cooking-fuel-attempts-hormuz-exit",
-        "published": "2026-05-02T06:22:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Prices Hit Wartime High as Iran Conflict Escalates: Brent Crude Surges Past $126, Gas Prices Soar to $6 in California Amid Strait of Hormuz Blockade",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-05-02-oil-prices-hit-wartime-high-iran-conflict-escalates.html",
-        "published": "2026-05-02T06:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Libya boosts oil output amid Iran conflict, Strait of Hormuz disruptions persist",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/libya-boosts-oil-output-amid-iran-conflict-strait-of-hormuz-disruptions-persist/",
-        "published": "2026-05-02T05:51:35Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Iran war has turned the world’s shipping straits into a chessboard—and the U.S. aims to box out China from the Panama Canal to the Malacca Strait",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/05/02/us-cold-war-china-iran-strait-hormuz-piece-larger-puzzle/",
+        "published": "2026-05-02T07:08:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Taiwan lawmaker proposes Bitcoin reserve amid China tensions",
         "source": "Crypto Briefing",
@@ -89,13 +96,6 @@
         "source": "The Irish Times",
         "url": "https://www.irishtimes.com/business/economy/2026/05/01/ukraine-and-iran-use-economics-to-battle-military-superpowers/",
         "published": "2026-05-01T05:00:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Metals, PSU banks drag markets down amid currency weakness and global uncertainty",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/metals-psu-banks-drag-markets-down-amid-currency-weakness-and-global-uncertainty/articleshow/130661726.cms",
-        "published": "2026-05-01T00:48:09Z",
         "sentiment": "watch"
       }
     ],
