@@ -24,18 +24,20 @@ jobs:
   refresh-data:
     name: Fetch & Commit Live Data
     runs-on: ubuntu-latest
+env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     timeout-minutes: 5
 
     steps:
       # 1. 리포 체크아웃
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # 2. Node.js 설정 (fetch 스크립트 실행용)
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v4.4.0
         with:
           node-version: "20"
 
