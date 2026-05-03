@@ -1,0 +1,30 @@
+name = "chokepoint-api"
+main = "workers/index.js"
+compatibility_date = "2024-01-01"
+
+# 무료 플랜 Workers 설정
+# - 요청 100,000 건/일 무료
+# - CPU 10ms/요청 제한 (충분함)
+# - 전 세계 엣지 배포 자동
+
+[vars]
+# 비밀이 아닌 공개 설정값
+ENVIRONMENT = "production"
+
+# 비밀 키는 절대 이 파일에 넣지 않는다.
+# 대신: wrangler secret put EIA_API_KEY
+# 아래는 필요한 secret 목록 (문서화 목적)
+# 
+# EIA_API_KEY       — https://www.eia.gov/opendata/
+# NEWSAPI_KEY       — https://newsapi.org/
+# FRED_API_KEY      — https://fred.stlouisfed.org/docs/api/api_key.html
+# FREIGHTOS_API_KEY — https://fbx.freightos.com/ (선택, 무료 tier 있음)
+
+[triggers]
+# 일정 기반 자동 실행은 GitHub Actions로 처리 (아래 workflow 참고)
+# Workers Cron은 유료 플랜 필요
+
+[[routes]]
+# 커스텀 도메인 연결 시 사용 (예: api.chokepoint.io/*)
+# pattern = "api.chokepoint.io/*"
+# zone_name = "chokepoint.io"

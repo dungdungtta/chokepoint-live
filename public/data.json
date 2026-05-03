@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "generated_at": "2026-05-03T06:58:05.273Z",
+    "source": "direct",
+    "ttl_seconds": 900
+  },
+  "indicators": {
+    "brent": {
+      "price": 113.89,
+      "change_pct": 1.8,
+      "date": "2026-04-27",
+      "unit": "USD/bbl"
+    },
+    "freight": {
+      "freight_index": 174.3,
+      "change_pct": 1.4,
+      "date": "2026-03-01",
+      "unit": "index (WPU30 proxy)"
+    },
+    "helium": {
+      "price_index": 17.67,
+      "change_pct": 57.9,
+      "date": "2026-03-01",
+      "unit": "USD/MMBtu (EU nat-gas proxy)"
+    }
+  },
+  "news": {
+    "hormuz": [
+      {
+        "title": "Strait of Hormuz closure reroutes shipping, boosts Panama Canal costs",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/strait-of-hormuz-closure-reroutes-shipping-boosts-panama-canal-costs/",
+        "published": "2026-05-02T06:52:29Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump says 'not satisfied' with new Iran proposal",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/trump-says-not-satisfied-with-new-iran-proposal-221723",
+        "published": "2026-05-02T06:39:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "India-Linked Tanker Laden With Cooking Fuel Attempts Hormuz Exit",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/india-linked-tanker-laden-with-cooking-fuel-attempts-hormuz-exit",
+        "published": "2026-05-02T06:22:51Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Prices Hit Wartime High as Iran Conflict Escalates: Brent Crude Surges Past $126, Gas Prices Soar to $6 in California Amid Strait of Hormuz Blockade",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-05-02-oil-prices-hit-wartime-high-iran-conflict-escalates.html",
+        "published": "2026-05-02T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Libya boosts oil output amid Iran conflict, Strait of Hormuz disruptions persist",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/libya-boosts-oil-output-amid-iran-conflict-strait-of-hormuz-disruptions-persist/",
+        "published": "2026-05-02T05:51:35Z",
+        "sentiment": "watch"
+      }
+    ],
+    "taiwan": [
+      {
+        "title": "Taiwan lawmaker proposes Bitcoin reserve amid China tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/taiwan-lawmaker-proposes-bitcoin-reserve-amid-china-tensions/",
+        "published": "2026-05-02T04:25:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "This destination's 'unique' food and natural beauty is winning over Aussies",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-05-02/australians-travelling-to-taiwan-new-tourism-wave/106622154",
+        "published": "2026-05-01T21:00:53Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Shaheen, Coons, Ricketts, Colleagues Introduce Bipartisan Resolution Highlighting Chinese Threat to America's Strategic Interests",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/05/china-260501-sfrc01.htm",
+        "published": "2026-05-01T12:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Ukraine and Iran use economics to battle military superpowers",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/economy/2026/05/01/ukraine-and-iran-use-economics-to-battle-military-superpowers/",
+        "published": "2026-05-01T05:00:01Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Metals, PSU banks drag markets down amid currency weakness and global uncertainty",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/metals-psu-banks-drag-markets-down-amid-currency-weakness-and-global-uncertainty/articleshow/130661726.cms",
+        "published": "2026-05-01T00:48:09Z",
+        "sentiment": "watch"
+      }
+    ],
+    "malacca": [
+      {
+        "title": "‘Turbulent and dangerous’: How shipping is the new global battleground",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/1/turbulent-and-dangerous-how-shipping-is-the-new-global-battleground",
+        "published": "2026-05-01T13:18:33Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Eyes on the next global flashpoint: Why India is pouring billions into a remote island",
+        "source": "RT",
+        "url": "https://www.rt.com/india/639335-india-nicobar-island-development-plan/",
+        "published": "2026-05-01T12:13:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The U.S. Shouldn’t Rule the Seas Forever",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/04/27/iran-us-war-hormuz-strait-blockade-trade-maritime-navy-strategy/",
+        "published": "2026-04-27T21:16:50Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Immediately Restore Freedom of Navigation through Strait of Hormuz, Speakers Urge in Security Council Condemning Critical Waterway's Use as 'Bargaining Chip'",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260427-unsc02.htm",
+        "published": "2026-04-27T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Chokepoints and conflict: How the Hormuz crisis is exposing global shipping vulnerabilities",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260426-unnews01.htm",
+        "published": "2026-04-26T12:00:00Z",
+        "sentiment": "watch"
+      }
+    ]
+  },
+  "thresholds": {
+    "brent_alert": 110,
+    "wrs_alert": 1.5,
+    "helium_days_alert": 30
+  }
+}
