@@ -784,6 +784,138 @@ setTimeout(()=>{
   map.flyTo([26.6,56.5],4,{duration:2});
   setTimeout(()=>showDetail('hormuz'),2000);
 },800);
+
+// ── LIVE DATA FEED ────────────────────────────────────────────────
+async function loadLiveData(){
+  try{
+    // data.json은 GitHub Actions가 15분마다 자동 갱신
+    const res  = await fetch('./data.json?t='+Date.now());
+    if(!res.ok) throw new Error('data.json fetch failed');
+    const data = await res.json();
+    applyLiveData(data);
+    // 15분마다 자동 갱신
+    setTimeout(loadLiveData, 15*60*1000);
+  } catch(e){
+    console.warn('[LiveData] 로드 실패 — 정적 데이터 유지:', e.message);
+    setTimeout(loadLiveData, 5*60*1000); // 실패 시 5분 후 재시도
+  }
+}
+
+function applyLiveData(data){
+  const {indicators, news, thresholds, meta} = data;
+
+  // ── 상단 바 업데이트 ──────────────────────────────────────
+  const statEls = document.querySelectorAll('.top-stat');
+
+  // Brent 유가
+  if(indicators?.brent?.price){
+    const brent    = indicators.brent.price;
+    const change   = indicators.brent.change_pct;
+    const brentEl  = statEls[0]?.querySelector('.tsv');
+    if(brentEl){
+      brentEl.textContent = '$'+brent;
+      // 임계값 초과 시 빨간색으로
+      brentEl.className = 'tsv ' + (brent > thresholds?.brent_alert ? 'danger' : 'warn');
+    }
+  }
+
+  // Red Sea WRS (freight_index로 대리 표시)
+  if(indicators?.freight?.freight_index){
+    const wrsEl = statEls[3]?.querySelector('.tsv');
+    if(wrsEl) wrsEl.textContent = indicators.freight.freight_index.toFixed(0)+' idx';
+  }
+
+  // ── 마지막 갱신 시각 표시 ─────────────────────────────────
+  if(meta?.generated_at){
+    const ts  = new Date(meta.generated_at);
+    const ago = Math.round((Date.now()-ts)/60000);
+    const existing = document.getElementById('live-ts');
+    if(existing) existing.textContent = '갱신 '+ago+'분 전';
+    else {
+      const el = document.createElement('div');
+      el.id = 'live-ts';
+      el.style.cssText = 'font-size:9px;color:var(--dim);font-family:var(--mono);margin-left:8px;';
+      el.textContent = '갱신 '+ago+'분 전';
+      document.getElementById('topbar').appendChild(el);
+    }
+  }
+
+  // ── Brent 임계값 경보 배너 ────────────────────────────────
+  if(indicators?.brent?.price > (thresholds?.brent_alert||110)){
+    showAlertBanner('⚠ Brent $'+indicators.brent.price+' — $'+thresholds.brent_alert+' 경보 임계값 초과');
+  }
+
+  // ── 사이드 패널 stat 카드 업데이트 ───────────────────────
+  const scVals = document.querySelectorAll('.sc-val');
+  if(scVals[1] && indicators?.brent?.price){
+    scVals[1].textContent = '$'+indicators.brent.price;
+  }
+
+  // ── 뉴스 피드 업데이트 ───────────────────────────────────
+  if(news){
+    updateNewsFeed('hormuz',  news.hormuz);
+    updateNewsFeed('taiwan',  news.taiwan);
+    updateNewsFeed('malacca', news.malacca);
+  }
+
+  console.log('[LiveData] 적용 완료 — Brent $'+(indicators?.brent?.price||'?'));
+}
+
+function showAlertBanner(msg){
+  if(document.getElementById('alert-banner')) return;
+  const b = document.createElement('div');
+  b.id = 'alert-banner';
+  Object.assign(b.style,{
+    position:'fixed',top:'52px',left:'0',right:'var(--panel)',
+    background:'rgba(224,80,80,.15)',borderBottom:'1px solid rgba(224,80,80,.4)',
+    color:'#ff7a7a',padding:'7px 20px',fontSize:'11px',
+    fontFamily:'var(--mono)',zIndex:'999',textAlign:'center',
+  });
+  b.innerHTML = msg+' <span onclick="this.parentElement.remove()" style="cursor:pointer;margin-left:10px;opacity:.5">✕</span>';
+  document.body.prepend(b);
+}
+
+function updateNewsFeed(chokeId, articles){
+  if(!articles?.length) return;
+  // 현재 열린 detail 패널이 해당 초크포인트면 뉴스 업데이트
+  const detBody = document.querySelector('#detail .det-body');
+  if(!detBody) return;
+  // 뉴스 섹션 찾기
+  const secs = detBody.querySelectorAll('.det-sec');
+  secs.forEach(sec=>{
+    const label = sec.querySelector('.det-sec-label');
+    if(label && label.textContent.includes('Sources')){
+      // Sources 섹션 바로 위에 뉴스 섹션 삽입 (중복 방지)
+      if(!sec.previousElementSibling?.classList.contains('live-news-sec')){
+        const newsDiv = document.createElement('div');
+        newsDiv.className = 'det-sec live-news-sec';
+        newsDiv.innerHTML = '<div class="det-sec-label">Live News Feed</div>'+
+          articles.slice(0,4).map(a=>`
+            <div style="padding:7px 0;border-bottom:0.5px solid var(--border)">
+              <div style="font-size:11px;color:var(--text);margin-bottom:2px;line-height:1.45">${a.title}</div>
+              <div style="font-family:var(--mono);font-size:9px;color:var(--dim)">${a.source} · ${timeAgo(a.published)} 
+                <span style="padding:1px 5px;border-radius:2px;margin-left:4px;font-size:8px;
+                  background:${a.sentiment==='danger'?'var(--red-bg)':'rgba(255,255,255,.05)'};
+                  color:${a.sentiment==='danger'?'var(--red)':'var(--dim)'}">
+                  ${a.sentiment==='danger'?'위험':'주시'}
+                </span>
+              </div>
+            </div>`).join('');
+        sec.before(newsDiv);
+      }
+    }
+  });
+}
+
+function timeAgo(iso){
+  const diff = Math.round((Date.now()-new Date(iso))/60000);
+  if(diff<60)   return diff+'분 전';
+  if(diff<1440) return Math.round(diff/60)+'시간 전';
+  return Math.round(diff/1440)+'일 전';
+}
+
+// 페이지 로드 즉시 실행
+loadLiveData();
 </script>
 </body>
 </html>
