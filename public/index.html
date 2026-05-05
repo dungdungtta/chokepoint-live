@@ -3,31 +3,31 @@
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Chokepoint · Live Maritime Risk Intelligence</title>
+<title>ChokepointLive — 실시간 글로벌 해상 공급망 리스크 지도</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <link href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@300;400;500;600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet"/>
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 :root{
-  --black:#000;--bg:#080808;--bg2:#0f0f0f;--bg3:#141414;
-  --border:rgba(255,255,255,.07);--border2:rgba(255,255,255,.12);
-  --text:#fff;--muted:rgba(255,255,255,.45);--dim:rgba(255,255,255,.22);
-  --red:#ff4444;--red-bg:rgba(255,68,68,.1);--red-border:rgba(255,68,68,.25);
-  --amber:#f59e0b;--amber-bg:rgba(245,158,11,.1);--amber-border:rgba(245,158,11,.25);
-  --green:#22c55e;--green-bg:rgba(34,197,94,.1);--green-border:rgba(34,197,94,.25);
+  --black:#000;--bg:#0f1117;--bg2:#161b27;--bg3:#1c2333;
+  --border:rgba(255,255,255,.1);--border2:rgba(255,255,255,.18);
+  --text:#f0f2f7;--muted:rgba(240,242,247,.65);--dim:rgba(240,242,247,.38);
+  --red:#ff4444;--red-bg:rgba(255,68,68,.12);--red-border:rgba(255,68,68,.3);
+  --amber:#f59e0b;--amber-bg:rgba(245,158,11,.12);--amber-border:rgba(245,158,11,.3);
+  --green:#22c55e;--green-bg:rgba(34,197,94,.12);--green-border:rgba(34,197,94,.3);
   --blue:#3b82f6;
   --panel:340px;
-  --top:48px;
+  --top:52px;
   --mono:'Geist Mono',monospace;
   --sans:'Inter',sans-serif;
 }
-html,body{height:100%;overflow:hidden;font-family:var(--sans);background:var(--black);color:var(--text);font-size:13px}
+html,body{height:100%;overflow:hidden;font-family:var(--sans);background:#1a2035;color:var(--text);font-size:13px}
 
 /* ── TOPBAR ──────────────────────── */
 #topbar{
   position:fixed;top:0;left:0;right:0;height:var(--top);z-index:1000;
-  background:rgba(0,0,0,.85);border-bottom:1px solid var(--border);
+  background:rgba(15,20,35,.97);border-bottom:1px solid rgba(255,255,255,.12);
   backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);
   display:flex;align-items:center;padding:0 16px;gap:0;
 }
@@ -65,23 +65,23 @@ html,body{height:100%;overflow:hidden;font-family:var(--sans);background:var(--b
 #map{
   position:fixed;top:var(--top);left:0;
   right:var(--panel);bottom:0;
-  background:#000 !important;
+  background:#d4d8e0 !important;
 }
-.leaflet-container{background:#050505 !important}
+.leaflet-container{background:#d4d8e0 !important}
 .leaflet-control-zoom{
-  border:1px solid var(--border) !important;
+  border:1px solid rgba(0,0,0,.15) !important;
   border-radius:4px !important;
   overflow:hidden;
-  background:rgba(0,0,0,.8) !important;
+  background:rgba(255,255,255,.9) !important;
   backdrop-filter:blur(10px);
 }
 .leaflet-control-zoom a{
-  background:rgba(0,0,0,.0) !important;
-  color:var(--muted) !important;
-  border-bottom:1px solid var(--border) !important;
+  background:transparent !important;
+  color:#444 !important;
+  border-bottom:1px solid rgba(0,0,0,.1) !important;
   font-size:16px !important;
 }
-.leaflet-control-zoom a:hover{color:#fff !important;background:rgba(255,255,255,.05) !important}
+.leaflet-control-zoom a:hover{color:#111 !important;background:rgba(0,0,0,.05) !important}
 .leaflet-control-zoom-out{border-bottom:none !important}
 .leaflet-control-attribution{display:none}
 
@@ -104,9 +104,10 @@ html,body{height:100%;overflow:hidden;font-family:var(--sans);background:var(--b
 @keyframes mkring{0%{transform:scale(1);opacity:.5}100%{transform:scale(2.6);opacity:0}}
 .mk-label{
   position:absolute;top:calc(100% + 8px);left:50%;transform:translateX(-50%);
-  white-space:nowrap;font-family:var(--mono);font-size:9px;font-weight:500;
-  background:rgba(0,0,0,.75);padding:2px 6px;border-radius:2px;
-  pointer-events:none;letter-spacing:.5px;
+  white-space:nowrap;font-family:var(--mono);font-size:10px;font-weight:600;
+  background:rgba(10,15,30,.82);padding:3px 8px;border-radius:3px;
+  pointer-events:none;letter-spacing:.3px;
+  border:1px solid rgba(255,255,255,.12);
 }
 .mk-connected{
   position:absolute;inset:-6px;border-radius:50%;
@@ -118,7 +119,7 @@ html,body{height:100%;overflow:hidden;font-family:var(--sans);background:var(--b
 /* ── SIDE PANEL ─────────────────── */
 #panel{
   position:fixed;top:var(--top);right:0;width:var(--panel);bottom:0;
-  background:var(--bg);border-left:1px solid var(--border);
+  background:#0d1220;border-left:1px solid rgba(255,255,255,.12);
   overflow-y:auto;overflow-x:hidden;z-index:900;
   display:flex;flex-direction:column;
 }
@@ -301,7 +302,7 @@ html,body{height:100%;overflow:hidden;font-family:var(--sans);background:var(--b
 <div id="topbar">
   <div class="logo">
     <div class="logo-dot"></div>
-    CHOKEPOINT
+    ChokepointLive
   </div>
   <div class="top-sep"></div>
   <div class="top-stat"><div class="tsl">Brent</div><div class="tsv warn">$103</div></div>
@@ -393,7 +394,7 @@ html,body{height:100%;overflow:hidden;font-family:var(--sans);background:var(--b
 // ── DATA ──────────────────────────────────────────────────────
 const NODES = [
   {
-    id:'hormuz', name:'Strait of Hormuz', sub:'Persian Gulf · Iran–Oman',
+    id:'hormuz', name:'Strait of Hormuz', label:'Strait of Hormuz', sub:'Persian Gulf · Iran–Oman',
     zone:'red', zoneLabel:'RED · Active', lat:26.6, lng:56.5, size:22,
     energy:96,
     relatedIds:['malacca','suez'],
@@ -418,7 +419,7 @@ const NODES = [
     src:'IEA · Reuters · Carnegie Endowment · CNBC · Fitch Ratings'
   },
   {
-    id:'taiwan', name:'Taiwan Strait', sub:'South China Sea · Taiwan–China',
+    id:'taiwan', name:'Taiwan Strait', label:'Taiwan Strait', sub:'South China Sea · Taiwan–China',
     zone:'red', zoneLabel:'RED · Future Critical', lat:24.5, lng:121.0, size:20,
     energy:78,
     relatedIds:['korea','malacca'],
@@ -442,7 +443,7 @@ const NODES = [
     src:'CSIS · Reuters · US DoD · RAND Corporation'
   },
   {
-    id:'malacca', name:'Strait of Malacca', sub:'Singapore–Indonesia–Malaysia',
+    id:'malacca', name:'Strait of Malacca', label:'Strait of Malacca', sub:'Singapore–Indonesia–Malaysia',
     zone:'amber', zoneLabel:'AMBER · Cascade Risk', lat:2.5, lng:101.5, size:18,
     energy:55,
     relatedIds:['hormuz','suez'],
@@ -466,7 +467,7 @@ const NODES = [
     src:'Reuters · Maritime Port Authority Singapore · IEA'
   },
   {
-    id:'suez', name:'Suez Canal / Red Sea', sub:'Egypt · Mediterranean–Red Sea',
+    id:'suez', name:'Suez Canal / Red Sea', label:'Suez Canal', sub:'Egypt · Mediterranean–Red Sea',
     zone:'amber', zoneLabel:'AMBER · Functionally Constrained', lat:30.5, lng:32.3, size:18,
     energy:48,
     relatedIds:['hormuz','malacca'],
@@ -490,7 +491,7 @@ const NODES = [
     src:"Suez Canal Authority · Lloyd's of London · Reuters · ASML IR"
   },
   {
-    id:'panama', name:'Panama Canal', sub:'Panama · Pacific–Atlantic',
+    id:'panama', name:'Panama Canal', label:'Panama Canal', sub:'Panama · Pacific–Atlantic',
     zone:'green', zoneLabel:'YELLOW · Operational', lat:9.1, lng:-79.7, size:16,
     energy:28,
     relatedIds:['malacca'],
@@ -514,7 +515,7 @@ const NODES = [
     src:'Panama Canal Authority (ACP) · Reuters · US Army Corps of Engineers'
   },
   {
-    id:'korea', name:'Korea Strait', sub:'Korea–Japan · East China Sea gateway',
+    id:'korea', name:'Korea Strait', label:'Korea Strait', sub:'Korea–Japan · East China Sea gateway',
     zone:'green', zoneLabel:'YELLOW · Contingency', lat:34.5, lng:129.0, size:16,
     energy:22,
     relatedIds:['taiwan'],
@@ -570,8 +571,8 @@ const ROUTES = [
 
 // ── MAP ────────────────────────────────────────────────────────
 const map = L.map('map',{center:[20,55],zoom:3,zoomControl:false,attributionControl:false,minZoom:2,maxZoom:8});
-L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png',{subdomains:'abcd',maxZoom:19}).addTo(map);
-L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_only_labels/{z}/{x}/{y}{r}.png',{subdomains:'abcd',maxZoom:19,opacity:.4}).addTo(map);
+// CartoDB Voyager — 밝고 선명한 지도 (지명, 국경 모두 표시)
+L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png',{subdomains:'abcd',maxZoom:19}).addTo(map);
 L.control.zoom({position:'bottomleft'}).addTo(map);
 
 // ── ROUTES ──────────────────────────────────────────────────────
@@ -611,7 +612,7 @@ function makeIcon(node, isConnected=false){
       <div class="mk-core" style="width:${coreW}px;height:${coreW}px;top:${coreTop}px;left:${coreTop}px;position:absolute;background:${c};box-shadow:0 0 12px ${c}66">
         <span>${sym}</span>
       </div>
-      <div class="mk-label" style="color:${c}">${node.name.split(' ').slice(-1)}</div>
+      <div class="mk-label" style="color:${c};text-shadow:0 1px 3px rgba(0,0,0,.8),0 0 8px rgba(0,0,0,.6)">${node.label}</div>
     </div>`,
     className:'',
     iconSize:[totalW,totalW+22],
