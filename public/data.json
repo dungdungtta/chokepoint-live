@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-03T07:37:39.568Z",
+    "generated_at": "2026-05-05T06:41:50.142Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,75 +27,61 @@
   "news": {
     "hormuz": [
       {
-        "title": "US warns shipping firms they could face sanctions over paying Iranian tolls in the Strait of Hormuz",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/us-warn-shipping-firms-sanctions-iranian-tolls-strait-hormuz-6095846",
-        "published": "2026-05-02T07:24:56Z",
+        "title": "UAE says Iran has resumed attacks as the US moves to reopen the Strait of Hormuz",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/articles/ml--iran-us-063812096.html",
+        "published": "2026-05-04T06:38:12Z",
         "sentiment": "danger"
       },
       {
-        "title": "US warns shipping firms they could face sanctions over paying Iranian tolls in the Strait of Hormuz",
-        "source": "seattlepi.com",
-        "url": "https://www.seattlepi.com/news/world/article/us-warns-shipping-firms-they-could-face-sanctions-22237804.php",
-        "published": "2026-05-02T07:21:07Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US warns shipping firms they could face sanctions over paying Iranian tolls in the Strait of Hormuz",
-        "source": "Livemint",
-        "url": "https://www.livemint.com/companies/us-warns-shipping-firms-they-could-face-sanctions-over-paying-iranian-tolls-in-the-strait-of-hormuz-11777705811731.html",
-        "published": "2026-05-02T07:10:11Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The Iran war has turned the world’s shipping straits into a chessboard—and the U.S. aims to box out China from the Panama Canal to the Malacca Strait",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/05/02/us-cold-war-china-iran-strait-hormuz-piece-larger-puzzle/",
-        "published": "2026-05-02T07:08:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Strait of Hormuz closure reroutes shipping, boosts Panama Canal costs",
+        "title": "Iran threatens ceasefire breach amid US Hormuz escort plan launch",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/strait-of-hormuz-closure-reroutes-shipping-boosts-panama-canal-costs/",
-        "published": "2026-05-02T06:52:29Z",
+        "url": "https://cryptobriefing.com/iran-threatens-ceasefire-breach-amid-us-hormuz-escort-plan-launch/",
+        "published": "2026-05-04T06:24:42Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "European markets set to open lower as Trump threatens new auto tariffs",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/04/european-markets-stoxx-600-ftse-dax-cac-iran-latest-news.html",
+        "published": "2026-05-04T06:22:57Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Why is US escorting ships through Hormuz? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/why-is-us-escorting-ships-through-hormuz",
+        "published": "2026-05-04T06:03:40Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "The Iran war has turned the world’s shipping straits into a chessboard—and the U.S. aims to box out China from the Panama Canal to the Malacca Strait",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/05/02/us-cold-war-china-iran-strait-hormuz-piece-larger-puzzle/",
-        "published": "2026-05-02T07:08:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Taiwan lawmaker proposes Bitcoin reserve amid China tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/taiwan-lawmaker-proposes-bitcoin-reserve-amid-china-tensions/",
-        "published": "2026-05-02T04:25:25Z",
+        "title": "A Revolutionary Peace Offer to Iran, Israel and the World",
+        "source": "CounterPunch",
+        "url": "https://www.counterpunch.org/2026/05/04/a-revolutionary-peace-offer-to-iran-israel-and-the-world/",
+        "published": "2026-05-04T05:00:25Z",
         "sentiment": "watch"
       },
       {
-        "title": "This destination's 'unique' food and natural beauty is winning over Aussies",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-05-02/australians-travelling-to-taiwan-new-tourism-wave/106622154",
-        "published": "2026-05-01T21:00:53Z",
+        "title": "Corking the Front Door: Japan’s New Role in the Global Siege of China",
+        "source": "Antiwar.com",
+        "url": "https://original.antiwar.com/t-m-antonis/2026/05/03/corking-the-front-door-japans-new-role-in-the-global-siege-of-china/",
+        "published": "2026-05-04T00:00:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "Shaheen, Coons, Ricketts, Colleagues Introduce Bipartisan Resolution Highlighting Chinese Threat to America's Strategic Interests",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/05/china-260501-sfrc01.htm",
-        "published": "2026-05-01T12:00:00Z",
-        "sentiment": "danger"
+        "title": "Australia and Japan face a similar dilemma: how to be indispensable to the US without relying on it",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/australia-and-japan-face-a-similar-dilemma-how-to-be-indispensable-to-the-us-without-relying-on-it-281318",
+        "published": "2026-05-03T19:20:46Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Ukraine and Iran use economics to battle military superpowers",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/economy/2026/05/01/ukraine-and-iran-use-economics-to-battle-military-superpowers/",
-        "published": "2026-05-01T05:00:01Z",
+        "title": "It’s Way Too Early to Declare Defeat in Iran",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4377458/posts",
+        "published": "2026-05-03T10:52:46Z",
         "sentiment": "watch"
       }
     ],
