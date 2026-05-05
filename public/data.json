@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-05T06:41:50.142Z",
+    "generated_at": "2026-05-05T07:24:22.309Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "UAE says Iran has resumed attacks as the US moves to reopen the Strait of Hormuz",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/articles/ml--iran-us-063812096.html",
-        "published": "2026-05-04T06:38:12Z",
-        "sentiment": "danger"
+        "title": "U.S.-led task force tells ships to reroute on first day of new effort to reopen the Strait of Hormuz",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/us-led-task-force-tells-ships-reroute-day-132627213",
+        "published": "2026-05-04T07:13:17Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Iran threatens ceasefire breach amid US Hormuz escort plan launch",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-threatens-ceasefire-breach-amid-us-hormuz-escort-plan-launch/",
-        "published": "2026-05-04T06:24:42Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "European markets set to open lower as Trump threatens new auto tariffs",
+        "title": "CNBC Daily Open: As Gulf fatigue sets in, earnings take center stage",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/04/european-markets-stoxx-600-ftse-dax-cac-iran-latest-news.html",
-        "published": "2026-05-04T06:22:57Z",
+        "url": "https://www.cnbc.com/2026/05/04/cnbc-daily-open-as-gulf-fatigue-sets-in-earnings-take-center-stage-.html",
+        "published": "2026-05-04T06:58:03Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran tensions rise as Strait of Hormuz blockade impacts global oil supply",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-tensions-rise-as-strait-of-hormuz-blockade-impacts-global-oil-supply/",
+        "published": "2026-05-04T06:55:25Z",
         "sentiment": "danger"
       },
       {
-        "title": "Why is US escorting ships through Hormuz? #world",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/why-is-us-escorting-ships-through-hormuz",
-        "published": "2026-05-04T06:03:40Z",
+        "title": "Gulf proposals stabilize oil prices, WTI Crude unlikely to hit $150 by May 2026",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/gulf-proposals-stabilize-oil-prices-wti-crude-unlikely-to-hit-150-by-may-2026/",
+        "published": "2026-05-04T06:50:41Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Strait of Hormuz Crisis: US Launches 'Project Freedom' Escorts as Iran Warns of Ceasefire Breach Amid Attacks",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/strait-hormuz-crisis-us-launches-project-freedom-escorts-iran-warns-ceasefire-breach-amid-1868108",
+        "published": "2026-05-04T06:47:32Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
