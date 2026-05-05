@@ -1,7 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-05T07:24:22.309Z",
-    "source": "direct",
+    "generated_at": "2026-05-05T07:31:58.091Z",
     "ttl_seconds": 900
   },
   "indicators": {
@@ -12,123 +11,22 @@
       "unit": "USD/bbl"
     },
     "freight": {
-      "freight_index": 174.3,
-      "change_pct": 1.4,
-      "date": "2026-03-01",
-      "unit": "index (WPU30 proxy)"
+      "asia_europe": null,
+      "asia_us_wc": null,
+      "unit": "USD/FEU"
     },
     "helium": {
       "price_index": 17.67,
       "change_pct": 57.9,
       "date": "2026-03-01",
-      "unit": "USD/MMBtu (EU nat-gas proxy)"
+      "note": "FRED PNGASEUUSDM (EU nat-gas USD) — helium proxy via Qatar LNG correlation",
+      "unit": "USD/MMBtu (proxy)"
     }
   },
   "news": {
-    "hormuz": [
-      {
-        "title": "U.S.-led task force tells ships to reroute on first day of new effort to reopen the Strait of Hormuz",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/us-led-task-force-tells-ships-reroute-day-132627213",
-        "published": "2026-05-04T07:13:17Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "CNBC Daily Open: As Gulf fatigue sets in, earnings take center stage",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/04/cnbc-daily-open-as-gulf-fatigue-sets-in-earnings-take-center-stage-.html",
-        "published": "2026-05-04T06:58:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran tensions rise as Strait of Hormuz blockade impacts global oil supply",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-tensions-rise-as-strait-of-hormuz-blockade-impacts-global-oil-supply/",
-        "published": "2026-05-04T06:55:25Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Gulf proposals stabilize oil prices, WTI Crude unlikely to hit $150 by May 2026",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/gulf-proposals-stabilize-oil-prices-wti-crude-unlikely-to-hit-150-by-may-2026/",
-        "published": "2026-05-04T06:50:41Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Strait of Hormuz Crisis: US Launches 'Project Freedom' Escorts as Iran Warns of Ceasefire Breach Amid Attacks",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/strait-hormuz-crisis-us-launches-project-freedom-escorts-iran-warns-ceasefire-breach-amid-1868108",
-        "published": "2026-05-04T06:47:32Z",
-        "sentiment": "danger"
-      }
-    ],
-    "taiwan": [
-      {
-        "title": "A Revolutionary Peace Offer to Iran, Israel and the World",
-        "source": "CounterPunch",
-        "url": "https://www.counterpunch.org/2026/05/04/a-revolutionary-peace-offer-to-iran-israel-and-the-world/",
-        "published": "2026-05-04T05:00:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Corking the Front Door: Japan’s New Role in the Global Siege of China",
-        "source": "Antiwar.com",
-        "url": "https://original.antiwar.com/t-m-antonis/2026/05/03/corking-the-front-door-japans-new-role-in-the-global-siege-of-china/",
-        "published": "2026-05-04T00:00:45Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Australia and Japan face a similar dilemma: how to be indispensable to the US without relying on it",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/australia-and-japan-face-a-similar-dilemma-how-to-be-indispensable-to-the-us-without-relying-on-it-281318",
-        "published": "2026-05-03T19:20:46Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "It’s Way Too Early to Declare Defeat in Iran",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4377458/posts",
-        "published": "2026-05-03T10:52:46Z",
-        "sentiment": "watch"
-      }
-    ],
-    "malacca": [
-      {
-        "title": "‘Turbulent and dangerous’: How shipping is the new global battleground",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/1/turbulent-and-dangerous-how-shipping-is-the-new-global-battleground",
-        "published": "2026-05-01T13:18:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Eyes on the next global flashpoint: Why India is pouring billions into a remote island",
-        "source": "RT",
-        "url": "https://www.rt.com/india/639335-india-nicobar-island-development-plan/",
-        "published": "2026-05-01T12:13:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The U.S. Shouldn’t Rule the Seas Forever",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/04/27/iran-us-war-hormuz-strait-blockade-trade-maritime-navy-strategy/",
-        "published": "2026-04-27T21:16:50Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Immediately Restore Freedom of Navigation through Strait of Hormuz, Speakers Urge in Security Council Condemning Critical Waterway's Use as 'Bargaining Chip'",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260427-unsc02.htm",
-        "published": "2026-04-27T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Chokepoints and conflict: How the Hormuz crisis is exposing global shipping vulnerabilities",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260426-unnews01.htm",
-        "published": "2026-04-26T12:00:00Z",
-        "sentiment": "watch"
-      }
-    ]
+    "hormuz": [],
+    "taiwan": [],
+    "malacca": []
   },
   "thresholds": {
     "brent_alert": 110,
