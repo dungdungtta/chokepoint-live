@@ -4,13 +4,13 @@
   "description": "Live Data Feed — Chokepoint Intelligence",
   "type": "module",
   "scripts": {
-    "dev":          "node scripts/fetch-data.js --local",
-    "fetch":        "node scripts/fetch-data.js",
+    "dev": "node scripts/fetch-data.js --local",
+    "fetch": "node scripts/fetch-data.js",
     "deploy:worker": "wrangler deploy",
     "worker:secret": "wrangler secret put"
   },
   "devDependencies": {
-    "wrangler": "^3.0.0",
-    "dotenv":   "^16.0.0"
+    "dotenv": "^16.0.0",
+    "wrangler": "^4.87.0"
   }
 }
