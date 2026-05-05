@@ -698,6 +698,9 @@ function buildFeed(){
 }
 buildFeed();
 
+// ── LIVE NEWS 전역 저장소 ────────────────────────────────────────
+let liveNews = {};  // { hormuz:[], taiwan:[], malacca:[] }
+
 // ── DETAIL PANEL ────────────────────────────────────────────────
 function showDetail(id){
   const n=NODES.find(x=>x.id===id);
@@ -763,6 +766,32 @@ function showDetail(id){
 
   document.getElementById('panel-default').style.display='none';
   det.style.display='flex';
+
+  // ── 라이브 뉴스 주입 (저장된 뉴스가 있으면 바로 표시) ──
+  const articles = liveNews[id] || [];
+  if(articles.length){
+    const detBody = det.querySelector('.det-body');
+    const srcSec  = Array.from(detBody.querySelectorAll('.det-sec'))
+                        .find(s=>s.querySelector('.det-sec-label')?.textContent.includes('Sources'));
+    if(srcSec && !detBody.querySelector('.live-news-sec')){
+      const newsDiv = document.createElement('div');
+      newsDiv.className = 'det-sec live-news-sec';
+      newsDiv.innerHTML = '<div class="det-sec-label">Live News Feed</div>'+
+        articles.slice(0,4).map(a=>`
+          <div style="padding:7px 0;border-bottom:0.5px solid var(--border)">
+            <div style="font-size:11px;color:var(--text);margin-bottom:3px;line-height:1.5">${a.title}</div>
+            <div style="font-family:var(--mono);font-size:9px;color:var(--dim);display:flex;align-items:center;gap:6px">
+              <span>${a.source}</span><span>·</span><span>${timeAgo(a.published)}</span>
+              <span style="padding:1px 6px;border-radius:2px;font-size:8px;
+                background:${a.sentiment==='danger'?'rgba(224,80,80,.15)':'rgba(255,255,255,.05)'};
+                color:${a.sentiment==='danger'?'var(--red)':'var(--dim)'}">
+                ${a.sentiment==='danger'?'⚠ 위험':'주시'}
+              </span>
+            </div>
+          </div>`).join('');
+      srcSec.before(newsDiv);
+    }
+  }
 }
 
 function showDefault(){
@@ -851,11 +880,36 @@ function applyLiveData(data){
     scVals[1].textContent = '$'+indicators.brent.price;
   }
 
-  // ── 뉴스 피드 업데이트 ───────────────────────────────────
+  // ── 뉴스 전역 저장 + 현재 열린 패널에 바로 반영 ─────────
   if(news){
-    updateNewsFeed('hormuz',  news.hormuz);
-    updateNewsFeed('taiwan',  news.taiwan);
-    updateNewsFeed('malacca', news.malacca);
+    liveNews = news;
+    // 현재 detail 패널이 열려있으면 즉시 뉴스 주입
+    if(activeId && news[activeId]){
+      const detBody = document.querySelector('#detail .det-body');
+      if(detBody && !detBody.querySelector('.live-news-sec')){
+        const srcSec = Array.from(detBody.querySelectorAll('.det-sec'))
+                           .find(s=>s.querySelector('.det-sec-label')?.textContent.includes('Sources'));
+        if(srcSec){
+          const articles = news[activeId];
+          const newsDiv  = document.createElement('div');
+          newsDiv.className = 'det-sec live-news-sec';
+          newsDiv.innerHTML = '<div class="det-sec-label">Live News Feed</div>'+
+            articles.slice(0,4).map(a=>`
+              <div style="padding:7px 0;border-bottom:0.5px solid var(--border)">
+                <div style="font-size:11px;color:var(--text);margin-bottom:3px;line-height:1.5">${a.title}</div>
+                <div style="font-family:var(--mono);font-size:9px;color:var(--dim);display:flex;align-items:center;gap:6px">
+                  <span>${a.source}</span><span>·</span><span>${timeAgo(a.published)}</span>
+                  <span style="padding:1px 6px;border-radius:2px;font-size:8px;
+                    background:${a.sentiment==='danger'?'rgba(224,80,80,.15)':'rgba(255,255,255,.05)'};
+                    color:${a.sentiment==='danger'?'var(--red)':'var(--dim)'}">
+                    ${a.sentiment==='danger'?'⚠ 위험':'주시'}
+                  </span>
+                </div>
+              </div>`).join('');
+          srcSec.before(newsDiv);
+        }
+      }
+    }
   }
 
   console.log('[LiveData] 적용 완료 — Brent $'+(indicators?.brent?.price||'?'));
