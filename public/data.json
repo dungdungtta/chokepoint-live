@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-06T20:54:40.594Z",
+    "generated_at": "2026-05-06T23:37:55.807Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "US Army says ‘Project Freedom’ in blockaded Hormuz has ‘just begun’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/5/centcom-says-project-freedom-has-just-2",
-        "published": "2026-05-05T20:42:39Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S. Becomes World’s Biggest Oil Producer During Strait of Hormuz Crisis",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/05/05/u-s-becomes-worlds-biggest-oil-producer-during-strait-hormuz-crisis/",
-        "published": "2026-05-05T20:33:12Z",
+        "title": "Iran's mosquito fleet a 'weapon of mass disruption' in Strait of Hormuz",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-05-06/iran-mosquito-fleet-strait-of-hormuz-speedboat-attacks-blockade/106642208",
+        "published": "2026-05-05T23:31:41Z",
         "sentiment": "watch"
       },
       {
-        "title": "Who attacked UAE today, and what is Project Freedom? Iran denial, US Operation Freedom, Strait of Hormuz tensions explained",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/who-attacked-uae-today-and-what-is-project-freedom-iran-denial-us-operation-freedom-strait-of-hormuz-tensions-explained/articleshow/130838789.cms",
-        "published": "2026-05-05T20:29:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran Bombs UAE Oil Facility, Announces Plans to Take Control of Emirati Ports",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/economy/2026/05/05/iran-bombs-uae-oil-facility-announces-plans-to-take-control-of-emirati-ports/",
-        "published": "2026-05-05T20:24:56Z",
+        "title": "Naira dips amid rising FX demand",
+        "source": "The Punch",
+        "url": "https://punchng.com/naira-dips-amid-rising-fx-demand/",
+        "published": "2026-05-05T23:23:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran asserts permanent control over Strait of Hormuz amid US tensions",
+        "title": "33-Years-Owned 1937 Ariel Square Four",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1937-ariel-square-four-2/",
+        "published": "2026-05-05T23:20:15Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "DR Congo’s Cobalt Miners Pivot To Copper Amid Price Crash",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Metals/Commodities/DR-Congos-Cobalt-Miners-Pivot-To-Copper-Amid-Price-Crash.html",
+        "published": "2026-05-05T23:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran introduces permit system for Strait of Hormuz vessel transits",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-asserts-permanent-control-over-strait-of-hormuz-amid-us-tensions/",
-        "published": "2026-05-05T20:10:19Z",
+        "url": "https://cryptobriefing.com/iran-introduces-permit-system-for-strait-of-hormuz-vessel-transits/",
+        "published": "2026-05-05T22:58:24Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Rubio warns against ‘destabilizing’ acts on Taiwan before Trump China visit",
+        "source": "Digital Journal",
+        "url": "https://www.digitaljournal.com/world/rubio-warns-against-destabilizing-acts-on-taiwan-before-trump-china-visit/article",
+        "published": "2026-05-05T21:22:20Z",
+        "sentiment": "danger"
+      },
       {
         "title": "The method in Iran’s madness? Closure of Strait of Hormuz echoes a centuries-old Danish play − and is a tragedy for the world order",
         "source": "The Conversation Africa",
@@ -89,13 +96,6 @@
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/5/4/us-official-says-china-is-funding-iran-urges-beijing-to-help-open-hormuz",
         "published": "2026-05-04T15:55:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Chinese dragon’s double game: Xi Jinping awaits Trump in Beijing while keeping channels open with Iran",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/05/04/the-chinese-dragons-double-game-xi-jinping-awaits-trump-in-beijing-while-keeping-channels-open-with-iran/",
-        "published": "2026-05-04T14:13:02Z",
         "sentiment": "watch"
       }
     ],
