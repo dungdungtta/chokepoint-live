@@ -1,6 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-05T23:35:32.579Z",
+    "generated_at": "2026-05-06T11:21:08.375Z",
+    "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
@@ -11,22 +12,123 @@
       "unit": "USD/bbl"
     },
     "freight": {
-      "asia_europe": null,
-      "asia_us_wc": null,
-      "unit": "USD/FEU"
+      "freight_index": 174.3,
+      "change_pct": 1.4,
+      "date": "2026-03-01",
+      "unit": "index (WPU30 proxy)"
     },
     "helium": {
       "price_index": 17.67,
       "change_pct": 57.9,
       "date": "2026-03-01",
-      "note": "FRED PNGASEUUSDM (EU nat-gas USD) — helium proxy via Qatar LNG correlation",
-      "unit": "USD/MMBtu (proxy)"
+      "unit": "USD/MMBtu (EU nat-gas proxy)"
     }
   },
   "news": {
-    "hormuz": [],
-    "taiwan": [],
-    "malacca": []
+    "hormuz": [
+      {
+        "title": "The largest energy crisis in modern history is only beginning",
+        "source": "Semafor.com",
+        "url": "https://www.semafor.com/article/05/05/2026/the-largest-energy-crisis-in-modern-history-is-only-beginning",
+        "published": "2026-05-05T11:08:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump suggests Iran war could last ‘another two weeks,’ ‘maybe three weeks’",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/05/05/us-news/trump-suggests-iran-war-could-last-another-two-weeks-maybe-three-weeks/",
+        "published": "2026-05-05T11:07:01Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "I worked at the Department of Energy and I’m puzzled: the climate movement has been making the wrong case for 20 years",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/05/05/clean-energy-affordability-argument-climate-movement-david-crane/",
+        "published": "2026-05-05T11:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran War: Iran Targets US Warships, US Reports Small Successful Gulf Transit, Iran Hits UAE; Putin Call for Middle East to Be a WMD-Free Zone, Challenging Israel Nuclear Program; US Renewed Strikes Still Look Imminent",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/05/iran-war-iran-targets-us-warships-us-reports-small-successful-gulf-transit-iran-hits-uae-putin-call-for-middle-east-to-be-a-wmd-free-zone-challenging-israel-nuclear-program-us-renewed-strikes-st.html",
+        "published": "2026-05-05T10:54:18Z",
+        "sentiment": "danger"
+      }
+    ],
+    "taiwan": [
+      {
+        "title": "US official says China is ‘funding’ Iran, urges Beijing to help open Hormuz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/4/us-official-says-china-is-funding-iran-urges-beijing-to-help-open-hormuz",
+        "published": "2026-05-04T15:55:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Chinese dragon’s double game: Xi Jinping awaits Trump in Beijing while keeping channels open with Iran",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/05/04/the-chinese-dragons-double-game-xi-jinping-awaits-trump-in-beijing-while-keeping-channels-open-with-iran/",
+        "published": "2026-05-04T14:13:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Triangles and Chokepoints | Sinification: April 2026",
+        "source": "Sinocism.com",
+        "url": "https://sinocism.com/p/triangles-and-chokepoints-sinification",
+        "published": "2026-05-04T12:49:32Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Select Select Weekly Climate and Energy News Roundup #689",
+        "source": "Wattsupwiththat.com",
+        "url": "https://wattsupwiththat.com/2026/05/04/select-select-weekly-climate-and-energy-news-roundup-689/",
+        "published": "2026-05-04T09:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "A Revolutionary Peace Offer to Iran, Israel and the World",
+        "source": "CounterPunch",
+        "url": "https://www.counterpunch.org/2026/05/04/a-revolutionary-peace-offer-to-iran-israel-and-the-world/",
+        "published": "2026-05-04T05:00:25Z",
+        "sentiment": "watch"
+      }
+    ],
+    "malacca": [
+      {
+        "title": "‘Turbulent and dangerous’: How shipping is the new global battleground",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/1/turbulent-and-dangerous-how-shipping-is-the-new-global-battleground",
+        "published": "2026-05-01T13:18:33Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Eyes on the next global flashpoint: Why India is pouring billions into a remote island",
+        "source": "RT",
+        "url": "https://www.rt.com/india/639335-india-nicobar-island-development-plan/",
+        "published": "2026-05-01T12:13:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The U.S. Shouldn’t Rule the Seas Forever",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/04/27/iran-us-war-hormuz-strait-blockade-trade-maritime-navy-strategy/",
+        "published": "2026-04-27T21:16:50Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Immediately Restore Freedom of Navigation through Strait of Hormuz, Speakers Urge in Security Council Condemning Critical Waterway's Use as 'Bargaining Chip'",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260427-unsc02.htm",
+        "published": "2026-04-27T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Chokepoints and conflict: How the Hormuz crisis is exposing global shipping vulnerabilities",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260426-unnews01.htm",
+        "published": "2026-04-26T12:00:00Z",
+        "sentiment": "watch"
+      }
+    ]
   },
   "thresholds": {
     "brent_alert": 110,
