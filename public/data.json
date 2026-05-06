@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-06T11:30:13.899Z",
+    "generated_at": "2026-05-06T15:55:20.345Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -18,44 +18,58 @@
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
-      "price_index": null,
-      "change_pct": null,
-      "date": null,
+      "price_index": 17.67,
+      "change_pct": 57.9,
+      "date": "2026-03-01",
       "unit": "USD/MMBtu (EU nat-gas proxy)"
     }
   },
   "news": {
     "hormuz": [
       {
-        "title": "Trump and Hegseth Are Now Just Pretending We’re No Longer at War with Iran",
-        "source": "Jezebel",
-        "url": "https://www.jezebel.com/iran-war-renewed-hostilities-shooting-strait-of-hormuz-ships-attacked-escorts-trump-hegseth-lies",
-        "published": "2026-05-05T11:25:04Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US attempt to open Strait of Hormuz tests fragile Iran war ceasefire",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/us-attempt-open-strait-hormuz-tests-fragile-iran-132664459",
-        "published": "2026-05-05T11:22:30Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The largest energy crisis in modern history is only beginning",
-        "source": "Semafor.com",
-        "url": "https://www.semafor.com/article/05/05/2026/the-largest-energy-crisis-in-modern-history-is-only-beginning",
-        "published": "2026-05-05T11:08:40Z",
+        "title": "US job openings drop in March; hires increase sharply",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-job-openings-drop-in-march-hires-increase-sharply/articleshow/130833269.cms",
+        "published": "2026-05-05T15:42:07Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump suggests Iran war could last ‘another two weeks,’ ‘maybe three weeks’",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/05/05/us-news/trump-suggests-iran-war-could-last-another-two-weeks-maybe-three-weeks/",
-        "published": "2026-05-05T11:07:01Z",
-        "sentiment": "danger"
+        "title": "Hegseth Claims Iran Does Not Control The Strait Of Hormuz Despite All Evidence To The Contrary",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/pete-hegseth-iran-strait-of-hormuz_n_69f9f611e4b055e1a496e2c2",
+        "published": "2026-05-05T15:28:32Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Why US stock market Dow Jones, S&P 500 and Nasdaq are surging big today: Dow jumps 350 points, Nasdaq jumps 250 points as Intel hits all-time high driving the rally",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/why-us-stock-market-dow-jones-sp-500-and-nasdaq-are-surging-big-today-dow-jumps-350-points-nasdaq-jumps-250-points-as-intel-hits-all-time-high-driving-the-rally/articleshow/130832358.cms",
+        "published": "2026-05-05T15:20:21Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US and Bahrain push UN-backed action for Hormuz maritime coalition",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-and-bahrain-push-un-backed-action-for-hormuz-maritime-coalition/",
+        "published": "2026-05-05T15:16:50Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China Watch: The Rise of a New Global Order Amidst the Persian Gulf War",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/politics/china-watch-the-rise-of-a-new-global-order-amidst-the-persian-gulf-war/",
+        "published": "2026-05-05T13:59:55Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Secretary of State Marco Rubio Remarks to Press",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260505-state02.htm",
+        "published": "2026-05-05T12:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "US official says China is ‘funding’ Iran, urges Beijing to help open Hormuz",
         "source": "Al Jazeera English",
@@ -75,20 +89,6 @@
         "source": "Sinocism.com",
         "url": "https://sinocism.com/p/triangles-and-chokepoints-sinification",
         "published": "2026-05-04T12:49:32Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Select Select Weekly Climate and Energy News Roundup #689",
-        "source": "Wattsupwiththat.com",
-        "url": "https://wattsupwiththat.com/2026/05/04/select-select-weekly-climate-and-energy-news-roundup-689/",
-        "published": "2026-05-04T09:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "A Revolutionary Peace Offer to Iran, Israel and the World",
-        "source": "CounterPunch",
-        "url": "https://www.counterpunch.org/2026/05/04/a-revolutionary-peace-offer-to-iran-israel-and-the-world/",
-        "published": "2026-05-04T05:00:25Z",
         "sentiment": "watch"
       }
     ],
