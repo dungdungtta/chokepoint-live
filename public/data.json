@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-06T11:21:08.375Z",
+    "generated_at": "2026-05-06T11:30:13.899Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -18,14 +18,28 @@
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
-      "price_index": 17.67,
-      "change_pct": 57.9,
-      "date": "2026-03-01",
+      "price_index": null,
+      "change_pct": null,
+      "date": null,
       "unit": "USD/MMBtu (EU nat-gas proxy)"
     }
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Trump and Hegseth Are Now Just Pretending We’re No Longer at War with Iran",
+        "source": "Jezebel",
+        "url": "https://www.jezebel.com/iran-war-renewed-hostilities-shooting-strait-of-hormuz-ships-attacked-escorts-trump-hegseth-lies",
+        "published": "2026-05-05T11:25:04Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US attempt to open Strait of Hormuz tests fragile Iran war ceasefire",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/us-attempt-open-strait-hormuz-tests-fragile-iran-132664459",
+        "published": "2026-05-05T11:22:30Z",
+        "sentiment": "danger"
+      },
       {
         "title": "The largest energy crisis in modern history is only beginning",
         "source": "Semafor.com",
@@ -38,20 +52,6 @@
         "source": "New York Post",
         "url": "https://nypost.com/2026/05/05/us-news/trump-suggests-iran-war-could-last-another-two-weeks-maybe-three-weeks/",
         "published": "2026-05-05T11:07:01Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "I worked at the Department of Energy and I’m puzzled: the climate movement has been making the wrong case for 20 years",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/05/05/clean-energy-affordability-argument-climate-movement-david-crane/",
-        "published": "2026-05-05T11:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran War: Iran Targets US Warships, US Reports Small Successful Gulf Transit, Iran Hits UAE; Putin Call for Middle East to Be a WMD-Free Zone, Challenging Israel Nuclear Program; US Renewed Strikes Still Look Imminent",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/05/iran-war-iran-targets-us-warships-us-reports-small-successful-gulf-transit-iran-hits-uae-putin-call-for-middle-east-to-be-a-wmd-free-zone-challenging-israel-nuclear-program-us-renewed-strikes-st.html",
-        "published": "2026-05-05T10:54:18Z",
         "sentiment": "danger"
       }
     ],
