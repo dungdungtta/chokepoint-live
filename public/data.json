@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-07T09:18:37.259Z",
+    "generated_at": "2026-05-07T16:25:38.248Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "US suspends Strait of Hormuz ship guidance plan, shipowners seek alternatives",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-suspends-strait-of-hormuz-ship-guidance-plan-shipowners-seek-alternatives/",
-        "published": "2026-05-06T09:12:00Z",
+        "title": "Even if an Iran deal calms energy markets, one oil stock can still stand out",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/06/even-if-an-iran-deal-calms-energy-markets-one-oil-stock-can-still-stand-out-.html",
+        "published": "2026-05-06T16:20:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump Pauses Project Freedom for 'Short Period'",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/trump_pauses_project_freedom_for_short_period-06-may-2026-183618-article/",
-        "published": "2026-05-06T09:09:54Z",
+        "title": "Cenovus profits jump on higher prices, MEG acquisition",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/commodities/energy/oil-gas/cenovus-profits-jump-higher-prices-meg-acquisition",
+        "published": "2026-05-06T16:06:22Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran denies involvement in Korean vessel incident amid Strait of Hormuz tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-denies-involvement-in-korean-vessel-incident-amid-strait-of-hormuz-tensions/",
-        "published": "2026-05-06T09:07:31Z",
+        "title": "French carrier group moves south of Suez ahead of conditional UK-French Hormuz mission",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/french-carrier-group-moves-south-of-suez-ahead-of-conditional-uk-french-hormuz-mission/articleshow/130862446.cms",
+        "published": "2026-05-06T16:02:46Z",
         "sentiment": "watch"
       },
       {
-        "title": "6 in 10 Americans disapprove of how Trump is handling Iran, new poll finds",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/politics/6-in-10-americans-disapprove-of-how-trump-is-handling-iran-new-poll-finds",
-        "published": "2026-05-06T09:00:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Risks a Greater Catastrophe in the Iran Conflict",
-        "source": "Thenation.com",
-        "url": "https://www.thenation.com/?post_type=article&p=596477",
-        "published": "2026-05-06T09:00:00Z",
+        "title": "AMG Reports Better than Expected First Quarter 2026 Results",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/05/06/3289146/0/en/AMG-Reports-Better-than-Expected-First-Quarter-2026-Results.html",
+        "published": "2026-05-06T16:00:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The United States’ Korea Strategy Is Working Against Itself",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/05/06/china-us-south-korea-alliance-military-diplomacy/",
+        "published": "2026-05-06T15:05:14Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China and Japan Are Entering a More Dangerous Phase of Rivalry",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/05/china-and-japan-are-entering-a-more-dangerous-phase-of-rivalry/",
+        "published": "2026-05-06T14:32:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump Risks a Greater Catastrophe in the Iran Conflict",
         "source": "Thenation.com",
@@ -82,20 +89,6 @@
         "source": "Digital Journal",
         "url": "https://www.digitaljournal.com/world/rubio-warns-against-destabilizing-acts-on-taiwan-before-trump-china-visit/article",
         "published": "2026-05-05T21:22:20Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The method in Iran’s madness? Closure of Strait of Hormuz echoes a centuries-old Danish play − and is a tragedy for the world order",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/the-method-in-irans-madness-closure-of-strait-of-hormuz-echoes-a-centuries-old-danish-play-and-is-a-tragedy-for-the-world-order-281961",
-        "published": "2026-05-05T20:13:21Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "China Watch: The Rise of a New Global Order Amidst the Persian Gulf War",
-        "source": "Fair Observer",
-        "url": "https://www.fairobserver.com/politics/china-watch-the-rise-of-a-new-global-order-amidst-the-persian-gulf-war/",
-        "published": "2026-05-05T13:59:55Z",
         "sentiment": "danger"
       }
     ],
