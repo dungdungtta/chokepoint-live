@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-07T20:49:37.935Z",
+    "generated_at": "2026-05-08T00:09:00.692Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump administration sows confusion as it tries to reopen Strait of Hormuz",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/trump-administration-sows-confusion-reopen-strait-hormuz-132722397",
-        "published": "2026-05-06T20:40:01Z",
+        "title": "US fires on Iranian oil tanker—what happened? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/us-fires-on-iranian-oil-tanker-what-happened",
+        "published": "2026-05-07T00:04:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "How did Iran-US talks affect markets? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/how-did-iran-us-talks-affect-markets",
+        "published": "2026-05-07T00:04:16Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Here’s a Primer to Understand What’s Really Driving Prices in California.",
-        "source": "Streetsblog.org",
-        "url": "https://cal.streetsblog.org/2026/05/06/heres-a-primer-to-understand-whats-really-driving-prices-in-california",
-        "published": "2026-05-06T20:33:58Z",
+        "title": "U.S. Oil Exporters Under Scrutiny As Gas Prices Spike Across 50 States",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/US-Oil-Exporters-Under-Scrutiny-As-Gas-Prices-Spike-Across-50-States.html",
+        "published": "2026-05-07T00:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Cargo ship crews face attacks waiting the Gulf as Trump pauses two-day-old project to ‘guide’ ships",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/05/06/cargo-ship-crews-attacks-gulf-trump-pauses-project-guide/",
-        "published": "2026-05-06T20:23:30Z",
+        "title": "US-Iran war: FG rejects subsidy, price control return",
+        "source": "The Punch",
+        "url": "https://punchng.com/us-iran-war-fg-rejects-subsidy-price-control-return/",
+        "published": "2026-05-06T23:07:45Z",
         "sentiment": "danger"
       },
       {
-        "title": "Genco Shipping & Trading Limited Announces Q1 2026 Financial Results",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/05/06/3289409/37397/en/Genco-Shipping-Trading-Limited-Announces-Q1-2026-Financial-Results.html",
-        "published": "2026-05-06T20:17:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Sinks on Iran Peace Proposal",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_sinks_on_iran_peace_proposal-06-may-2026-183627-article/",
-        "published": "2026-05-06T20:10:15Z",
+        "title": "Oil falls 11% as US-Iran deal nears",
+        "source": "The Punch",
+        "url": "https://punchng.com/oil-falls-11-as-us-iran-deal-nears/",
+        "published": "2026-05-06T23:07:45Z",
         "sentiment": "watch"
       }
     ],
