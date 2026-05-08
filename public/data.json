@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-08T16:02:58.024Z",
+    "generated_at": "2026-05-08T20:15:41.690Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -12,9 +12,9 @@
       "unit": "USD/bbl"
     },
     "freight": {
-      "freight_index": 174.3,
-      "change_pct": 1.4,
-      "date": "2026-03-01",
+      "freight_index": null,
+      "change_pct": null,
+      "date": null,
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S. intelligence says Iran can outlast Trump's Hormuz blockade for months...",
-        "source": "Dnyuz.com",
-        "url": "https://dnyuz.com/2026/05/07/u-s-intelligence-says-iran-can-outlast-trumps-hormuz-blockade-for-months/",
-        "published": "2026-05-07T16:00:13Z",
+        "title": "‘Trust me bro’: Iran mocks Trump’s ‘Project Freedom’ amid wrestling over talks to end war",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/05/07/trust-me-bro-iran-mocks-trumps-project-freedom-amid-wrestling-over-talks-to-end-war/",
+        "published": "2026-05-07T20:15:23Z",
         "sentiment": "danger"
       },
       {
-        "title": "How Pakistan became the primary mediator between the US and Iran",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/how-pakistan-became-the-primary-mediator-between-the-us-and-iran-282342",
-        "published": "2026-05-07T15:27:35Z",
+        "title": "Scorpio Tankers Inc. Announces Proposed Reopening of 1.75% Convertible Senior Notes due 2031 and Concurrent Stock Repurchase",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/05/07/3290518/0/en/Scorpio-Tankers-Inc-Announces-Proposed-Reopening-of-1-75-Convertible-Senior-Notes-due-2031-and-Concurrent-Stock-Repurchase.html",
+        "published": "2026-05-07T20:01:00Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Adnoc LNG Tankers Go Dark to Get Gas Through Hormuz",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/adnoc_lng_tankers_go_dark_to_get_gas_through_hormuz-07-may-2026-183636-article/",
+        "published": "2026-05-07T20:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Strait of Hormuz Crisis: 22,500 mariners, 1,550 ships stranded as Iran tightens grip",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/strait-of-hormuz-crisis-22500-mariners-1550-ships-stranded-as-iran-tightens-grip/articleshow/130905673.cms",
-        "published": "2026-05-07T15:24:06Z",
-        "sentiment": "watch"
+        "title": "Shipping firms are being whipsawed by changing stances and risks as they wait for Hormuz to reopen",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/economy/shipping-firms-are-being-whipsawed-by-changing-stances-and-risks-as-they-wait-for-hormuz-to-reopen",
+        "published": "2026-05-07T19:58:25Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Conflicts In Far-Flung Hot Spots Are Driving Food Affordability Challenges",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/daneberhart/2026/05/07/conflicts-in-far-flung-hot-spots-are-driving-food-affordability-challenges/",
-        "published": "2026-05-07T15:22:10Z",
+        "title": "Iran Touts Control of Strait With Shipping Rules",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/388755/iran-touts-control-of-strait-with-shipping-rules.html",
+        "published": "2026-05-07T19:54:00Z",
         "sentiment": "watch"
       }
     ],
