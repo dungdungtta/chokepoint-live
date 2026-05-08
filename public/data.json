@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-08T20:15:41.690Z",
+    "generated_at": "2026-05-08T23:41:37.514Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -12,9 +12,9 @@
       "unit": "USD/bbl"
     },
     "freight": {
-      "freight_index": null,
-      "change_pct": null,
-      "date": null,
+      "freight_index": 174.3,
+      "change_pct": 1.4,
+      "date": "2026-03-01",
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "‘Trust me bro’: Iran mocks Trump’s ‘Project Freedom’ amid wrestling over talks to end war",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/05/07/trust-me-bro-iran-mocks-trumps-project-freedom-amid-wrestling-over-talks-to-end-war/",
-        "published": "2026-05-07T20:15:23Z",
+        "title": "Strait of Hormuz: U.S target ships, carry out military strikes on Iranian territory, claims Tehran, Donald Trump says ceasefire still in effect",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/strait-of-hormuz-u-s-target-ships-carry-out-military-strikes-on-iranian-territory-claims-tehran-donald-trump-says-ceasefire-still-in-effect/articleshow/130932895.cms",
+        "published": "2026-05-07T23:26:40Z",
         "sentiment": "danger"
       },
       {
-        "title": "Scorpio Tankers Inc. Announces Proposed Reopening of 1.75% Convertible Senior Notes due 2031 and Concurrent Stock Repurchase",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/05/07/3290518/0/en/Scorpio-Tankers-Inc-Announces-Proposed-Reopening-of-1-75-Convertible-Senior-Notes-due-2031-and-Concurrent-Stock-Repurchase.html",
-        "published": "2026-05-07T20:01:00Z",
-        "sentiment": "neutral"
+        "title": "US military intercepts Iranian attacks in Strait of Hormuz, raising doubts on peace efforts - The Boston Globe",
+        "source": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/05/07/world/iran-us-war/",
+        "published": "2026-05-07T23:07:42Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Adnoc LNG Tankers Go Dark to Get Gas Through Hormuz",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/adnoc_lng_tankers_go_dark_to_get_gas_through_hormuz-07-may-2026-183636-article/",
-        "published": "2026-05-07T20:00:00Z",
-        "sentiment": "watch"
+        "title": "Irish ferry companies 'closely monitoring' Iran war for impact on fuel prices",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/ferry-travel-oil-crisis-7031324-May2026/",
+        "published": "2026-05-07T23:05:04Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Shipping firms are being whipsawed by changing stances and risks as they wait for Hormuz to reopen",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/economy/shipping-firms-are-being-whipsawed-by-changing-stances-and-risks-as-they-wait-for-hormuz-to-reopen",
-        "published": "2026-05-07T19:58:25Z",
-        "sentiment": "neutral"
+        "title": "U.S. says it intercepted Iranian attacks on 3 navy ships in Strait of Hormuz",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/us-intercept-iran-attacks-strait-of-hormuz-9.7191876",
+        "published": "2026-05-07T22:55:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Iran Touts Control of Strait With Shipping Rules",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/388755/iran-touts-control-of-strait-with-shipping-rules.html",
-        "published": "2026-05-07T19:54:00Z",
-        "sentiment": "watch"
+        "title": "Iran accuses US of violating ceasefire after new attacks. Trump calls strikes a ‘love tap’",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/2026/05/07/iran-accuses-us-of-violating-ceasefire-following-new-attacks-on-ships-and-civilian-areas/",
+        "published": "2026-05-07T22:35:30Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Iran casts a long, dark shadow over Trump’s trip to China next week",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/05/07/us-news/iran-casts-a-long-dark-shadow-over-trumps-trip-to-china-next-week/",
+        "published": "2026-05-07T20:35:20Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China signals again that Taiwan is a priority ahead of Trump-Xi meeting",
         "source": "Abcnews.com",
@@ -90,13 +97,6 @@
         "url": "https://en.protothema.gr/2026/05/06/analysis-why-trump-wants-to-end-the-war-with-iran-here-and-now-the-chinese-factor-behind-the-pressure-for-a-deal/",
         "published": "2026-05-06T16:46:18Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "The United States’ Korea Strategy Is Working Against Itself",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/05/06/china-us-south-korea-alliance-military-diplomacy/",
-        "published": "2026-05-06T15:05:14Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
