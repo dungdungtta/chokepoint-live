@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-08T10:57:56.786Z",
+    "generated_at": "2026-05-08T16:02:58.024Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Prices Dip as World Awaits Iran's Response",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/388716/oil-prices-dip-as-world-awaits-irans-response.html",
-        "published": "2026-05-07T10:47:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What's at stake at the Trump-Xi summit",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/whats-at-stake-at-the-trump-xi-summit/article70950449.ece",
-        "published": "2026-05-07T10:45:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What are US proposals to end war, and will Iran agree to them?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/7/what-are-us-proposals-to-end-war-and-will-iran-agree-to-them",
-        "published": "2026-05-07T10:45:29Z",
+        "title": "U.S. intelligence says Iran can outlast Trump's Hormuz blockade for months...",
+        "source": "Dnyuz.com",
+        "url": "https://dnyuz.com/2026/05/07/u-s-intelligence-says-iran-can-outlast-trumps-hormuz-blockade-for-months/",
+        "published": "2026-05-07T16:00:13Z",
         "sentiment": "danger"
       },
       {
-        "title": "Marine Engines Market worth $16.92 billion by 2031 | MarketsandMarkets™",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/marine-engines-market-worth-16-92-billion-by-2031--marketsandmarkets-302765297.html",
-        "published": "2026-05-07T10:31:00Z",
+        "title": "How Pakistan became the primary mediator between the US and Iran",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/how-pakistan-became-the-primary-mediator-between-the-us-and-iran-282342",
+        "published": "2026-05-07T15:27:35Z",
         "sentiment": "watch"
       },
       {
-        "title": "UAE fertiliser giant warns of global food impact as it turns to trucks to bypass Hormuz",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/fertiglobe-ceo-ahmed-el-hoshy-fertiliser-iran-war-hormuz-disruption-6106826",
-        "published": "2026-05-07T10:31:00Z",
-        "sentiment": "danger"
+        "title": "Strait of Hormuz Crisis: 22,500 mariners, 1,550 ships stranded as Iran tightens grip",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/strait-of-hormuz-crisis-22500-mariners-1550-ships-stranded-as-iran-tightens-grip/articleshow/130905673.cms",
+        "published": "2026-05-07T15:24:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Conflicts In Far-Flung Hot Spots Are Driving Food Affordability Challenges",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/daneberhart/2026/05/07/conflicts-in-far-flung-hot-spots-are-driving-food-affordability-challenges/",
+        "published": "2026-05-07T15:22:10Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China signals again that Taiwan is a priority ahead of Trump-Xi meeting",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/china-signals-taiwan-priority-ahead-trump-xi-meeting-132735504",
+        "published": "2026-05-07T12:34:49Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Crisis-Weary Southeast Asia Gathers Amid Iran War Energy Shock",
         "source": "Financial Post",
@@ -89,13 +89,6 @@
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/05/06/china-us-south-korea-alliance-military-diplomacy/",
         "published": "2026-05-06T15:05:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China and Japan Are Entering a More Dangerous Phase of Rivalry",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/05/china-and-japan-are-entering-a-more-dangerous-phase-of-rivalry/",
-        "published": "2026-05-06T14:32:00Z",
         "sentiment": "watch"
       }
     ],
