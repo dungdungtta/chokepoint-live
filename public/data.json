@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-08T06:23:18.111Z",
+    "generated_at": "2026-05-08T10:57:56.786Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "K.M. and the blue group therapy, Dendias’ absence and Karamanlis’ audacity, from Kastanidis to Farantouris, Credia and NN",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/05/07/k-m-and-the-blue-group-therapy-dendias-absence-and-karamanlis-audacity-from-kastanidis-to-farantouris-credia-and-nn/",
-        "published": "2026-05-07T06:22:52Z",
+        "title": "Oil Prices Dip as World Awaits Iran's Response",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/388716/oil-prices-dip-as-world-awaits-irans-response.html",
+        "published": "2026-05-07T10:47:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "What happened in Trump-Iran peace talks? #world",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/what-happened-in-trump-iran-peace-talks",
-        "published": "2026-05-07T06:04:19Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Shell plc publishes first quarter 2026 press release",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/05/07/3289611/0/en/Shell-plc-publishes-first-quarter-2026-press-release.html",
-        "published": "2026-05-07T06:01:00Z",
+        "title": "What's at stake at the Trump-Xi summit",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/whats-at-stake-at-the-trump-xi-summit/article70950449.ece",
+        "published": "2026-05-07T10:45:35Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil steadies as Iran assesses fresh US proposal to end war",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/markets/2026/05/07/oil-steadies-as-iran-assesses-fresh-us-proposal-to-end-war/",
-        "published": "2026-05-07T06:00:41Z",
+        "title": "What are US proposals to end war, and will Iran agree to them?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/7/what-are-us-proposals-to-end-war-and-will-iran-agree-to-them",
+        "published": "2026-05-07T10:45:29Z",
         "sentiment": "danger"
       },
       {
-        "title": "Pakistan brokers fragile truce: U.S. and Iran edge toward 30-day ceasefire",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-05-07-pakistan-truce-iran-ceasefire.html",
-        "published": "2026-05-07T06:00:00Z",
+        "title": "Marine Engines Market worth $16.92 billion by 2031 | MarketsandMarkets™",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/marine-engines-market-worth-16-92-billion-by-2031--marketsandmarkets-302765297.html",
+        "published": "2026-05-07T10:31:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "UAE fertiliser giant warns of global food impact as it turns to trucks to bypass Hormuz",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/fertiglobe-ceo-ahmed-el-hoshy-fertiliser-iran-war-hormuz-disruption-6106826",
+        "published": "2026-05-07T10:31:00Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Crisis-Weary Southeast Asia Gathers Amid Iran War Energy Shock",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/crisis-weary-southeast-asia-gathers-amid-iran-war-energy-shock",
+        "published": "2026-05-07T06:41:54Z",
+        "sentiment": "danger"
+      },
       {
         "title": "The Folly of the US-Israeli Myth of a Quick Iranian Collapse",
         "source": "Juancole.com",
@@ -89,13 +96,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/05/china-and-japan-are-entering-a-more-dangerous-phase-of-rivalry/",
         "published": "2026-05-06T14:32:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Risks a Greater Catastrophe in the Iran Conflict",
-        "source": "Thenation.com",
-        "url": "https://www.thenation.com/?post_type=article&p=596477",
-        "published": "2026-05-06T09:00:00Z",
         "sentiment": "watch"
       }
     ],
