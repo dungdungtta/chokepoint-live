@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-08T00:09:00.692Z",
+    "generated_at": "2026-05-08T06:23:18.111Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "US fires on Iranian oil tanker—what happened? #world",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/us-fires-on-iranian-oil-tanker-what-happened",
-        "published": "2026-05-07T00:04:16Z",
+        "title": "K.M. and the blue group therapy, Dendias’ absence and Karamanlis’ audacity, from Kastanidis to Farantouris, Credia and NN",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/05/07/k-m-and-the-blue-group-therapy-dendias-absence-and-karamanlis-audacity-from-kastanidis-to-farantouris-credia-and-nn/",
+        "published": "2026-05-07T06:22:52Z",
         "sentiment": "watch"
       },
       {
-        "title": "How did Iran-US talks affect markets? #world",
+        "title": "What happened in Trump-Iran peace talks? #world",
         "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/how-did-iran-us-talks-affect-markets",
-        "published": "2026-05-07T00:04:16Z",
+        "url": "https://alltoc.com/world/what-happened-in-trump-iran-peace-talks",
+        "published": "2026-05-07T06:04:19Z",
         "sentiment": "neutral"
       },
       {
-        "title": "U.S. Oil Exporters Under Scrutiny As Gas Prices Spike Across 50 States",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/US-Oil-Exporters-Under-Scrutiny-As-Gas-Prices-Spike-Across-50-States.html",
-        "published": "2026-05-07T00:00:00Z",
+        "title": "Shell plc publishes first quarter 2026 press release",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/05/07/3289611/0/en/Shell-plc-publishes-first-quarter-2026-press-release.html",
+        "published": "2026-05-07T06:01:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US-Iran war: FG rejects subsidy, price control return",
-        "source": "The Punch",
-        "url": "https://punchng.com/us-iran-war-fg-rejects-subsidy-price-control-return/",
-        "published": "2026-05-06T23:07:45Z",
+        "title": "Oil steadies as Iran assesses fresh US proposal to end war",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/markets/2026/05/07/oil-steadies-as-iran-assesses-fresh-us-proposal-to-end-war/",
+        "published": "2026-05-07T06:00:41Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil falls 11% as US-Iran deal nears",
-        "source": "The Punch",
-        "url": "https://punchng.com/oil-falls-11-as-us-iran-deal-nears/",
-        "published": "2026-05-06T23:07:45Z",
-        "sentiment": "watch"
+        "title": "Pakistan brokers fragile truce: U.S. and Iran edge toward 30-day ceasefire",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-05-07-pakistan-truce-iran-ceasefire.html",
+        "published": "2026-05-07T06:00:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Folly of the US-Israeli Myth of a Quick Iranian Collapse",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/05/israeli-iranian-collapse.html",
+        "published": "2026-05-07T04:04:57Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Analysis: Why Trump wants to end the war with Iran “here and now”, the Chinese factor behind the pressure for a deal",
         "source": "Protothema.gr",
@@ -90,13 +97,6 @@
         "url": "https://www.thenation.com/?post_type=article&p=596477",
         "published": "2026-05-06T09:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "The Donald Can’t Reopen the Strait",
-        "source": "Antiwar.com",
-        "url": "https://original.antiwar.com/david_stockman/2026/05/05/the-donald-cant-reopen-the-strait/",
-        "published": "2026-05-06T00:00:10Z",
-        "sentiment": "neutral"
       }
     ],
     "malacca": [
