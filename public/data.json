@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-09T14:35:21.965Z",
+    "generated_at": "2026-05-09T17:37:56.734Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Aramco, Adnoc Sneak Oil Through Hormuz as Iran Menaces Strait",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/aramco-adnoc-sneak-oil-through-hormuz-as-iran-menaces-strait",
-        "published": "2026-05-08T14:03:37Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "ASEAN summit ends with only a push to fast-track oil share pact",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/articles/southeast-asian-leaders-seek-strategy-034219221.html",
-        "published": "2026-05-08T13:40:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Under-recovery for IOC, HPCL, BPCL touches ₹30,000 crore",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/under-recovery-for-ioc-hpcl-bpcl-touches-30000-crore/article70955451.ece",
-        "published": "2026-05-08T13:18:04Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "STA-BIL Fogging Oil for 2 & 4-Cycle Engines 12-oz. Can + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/STA-BIL-Fogging-Oil-for-2-4-Cycle-Engines-12-oz-Can-free-shipping-w-Prime/21826865.html",
-        "published": "2026-05-08T13:13:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Greenland Crisis Escalates as Trump Renews Push for US Control Amid Danish Military Buildup",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/greenland-crisis-escalates-trump-renews-push-us-control-amid-danish-military-buildup-1868427",
-        "published": "2026-05-08T13:07:09Z",
+        "title": "Iran launches military strikes on UAE, escalating regional tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-launches-military-strikes-on-uae-escalating-regional-tensions/",
+        "published": "2026-05-08T17:27:51Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "The CEO of Maersk, which ships 14% of everything you buy, said the Iran war is adding $500 million in monthly costs it’s trying not to pass down",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/05/08/maersk-ceo-iran-war-struggling-costs-500-monthly-expenses/",
+        "published": "2026-05-08T17:08:54Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "As Iran war continues, people across the US are feeling a strain from high gas prices",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Politics/after-months-war-iran-people-us-feeling-strain/story?id=132760039",
+        "published": "2026-05-08T17:08:38Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran Says It Seized Oil Tanker Listed by U.S. as Sanctions Violator",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4378337/posts",
+        "published": "2026-05-08T16:58:48Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Clashes reported between US, Iranian forces near Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/clashes-reported-between-us-iranian-forces-near-strait-of-hormuz/",
+        "published": "2026-05-08T16:34:54Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
