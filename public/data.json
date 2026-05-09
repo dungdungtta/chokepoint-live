@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-09T10:40:05.341Z",
+    "generated_at": "2026-05-09T14:35:21.965Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "UAE comes under attack from Iranian drones as oil prices go back up over $100 a barrel despite Trump insisting ceasefire is still on",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15800877/UAE-Iranian-drones-oil-prices-Trump-ceasefire-on.html",
-        "published": "2026-05-08T10:31:25Z",
+        "title": "Aramco, Adnoc Sneak Oil Through Hormuz as Iran Menaces Strait",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/aramco-adnoc-sneak-oil-through-hormuz-as-iran-menaces-strait",
+        "published": "2026-05-08T14:03:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "ASEAN summit ends with only a push to fast-track oil share pact",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/articles/southeast-asian-leaders-seek-strategy-034219221.html",
+        "published": "2026-05-08T13:40:58Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Under-recovery for IOC, HPCL, BPCL touches ₹30,000 crore",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/under-recovery-for-ioc-hpcl-bpcl-touches-30000-crore/article70955451.ece",
+        "published": "2026-05-08T13:18:04Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "STA-BIL Fogging Oil for 2 & 4-Cycle Engines 12-oz. Can + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/STA-BIL-Fogging-Oil-for-2-4-Cycle-Engines-12-oz-Can-free-shipping-w-Prime/21826865.html",
+        "published": "2026-05-08T13:13:35Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Greenland Crisis Escalates as Trump Renews Push for US Control Amid Danish Military Buildup",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/greenland-crisis-escalates-trump-renews-push-us-control-amid-danish-military-buildup-1868427",
+        "published": "2026-05-08T13:07:09Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Iran captures tanker in Gulf of Oman amid US maritime tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-captures-tanker-in-gulf-of-oman-amid-us-maritime-tensions/",
-        "published": "2026-05-08T10:20:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "India's oil companies bleed Rs 30,000 cr as fuel prices held steady despite global energy shock",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indias-oil-companies-bleed-rs-30000-cr-as-fuel-prices-held-steady-despite-global-energy-shock/articleshow/130956968.cms",
-        "published": "2026-05-08T10:20:41Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US, Iran exchange fire near Strait of Hormuz; latest scenario may further undermine trust, complicate phased agreement: Chinese expert",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260508-globaltimes01.htm",
-        "published": "2026-05-08T09:54:21Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "Ranking Member Shaheen, Senator Curtis Welcome Taiwan Legislative Yuan Approval of Supplementary Defense Budget",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260508-sfrc01.htm",
+        "published": "2026-05-08T12:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Aftermath: There Is No End to the War With Iran",
         "source": "The American Prospect",
@@ -83,13 +97,6 @@
         "url": "https://www.digitaljournal.com/world/where-are-the-flash-points-in-next-weeks-trump-xi-talks/article",
         "published": "2026-05-08T02:17:20Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Iran casts a long, dark shadow over Trump’s trip to China next week",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/05/07/us-news/iran-casts-a-long-dark-shadow-over-trumps-trip-to-china-next-week/",
-        "published": "2026-05-07T20:35:20Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
