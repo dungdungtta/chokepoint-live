@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-09T17:37:56.734Z",
+    "generated_at": "2026-05-09T20:07:35.587Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran launches military strikes on UAE, escalating regional tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-launches-military-strikes-on-uae-escalating-regional-tensions/",
-        "published": "2026-05-08T17:27:51Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The CEO of Maersk, which ships 14% of everything you buy, said the Iran war is adding $500 million in monthly costs it’s trying not to pass down",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/05/08/maersk-ceo-iran-war-struggling-costs-500-monthly-expenses/",
-        "published": "2026-05-08T17:08:54Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "As Iran war continues, people across the US are feeling a strain from high gas prices",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Politics/after-months-war-iran-people-us-feeling-strain/story?id=132760039",
-        "published": "2026-05-08T17:08:38Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran Says It Seized Oil Tanker Listed by U.S. as Sanctions Violator",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4378337/posts",
-        "published": "2026-05-08T16:58:48Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Clashes reported between US, Iranian forces near Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/clashes-reported-between-us-iranian-forces-near-strait-of-hormuz/",
-        "published": "2026-05-08T16:34:54Z",
+        "title": "Crude Settles Higher on Gulf Clashes",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/crude_settles_higher_on_gulf_clashes-08-may-2026-183651-article/",
+        "published": "2026-05-08T19:49:18Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Trump blockade squeezing Iran so hard regime may be dumping oil into Gulf, experts say",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/trump-blockade-squeezing-iran-so-hard-regime-may-dumping-oil-gulf-experts-say",
+        "published": "2026-05-08T19:42:28Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Britannia bets on ‘Many Indias’ strategy amid inflation, shifting consumer demand",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/britannia-bets-on-many-indias-strategy-amid-inflation-shifting-consumer-demand/articleshow/130966396.cms",
+        "published": "2026-05-08T19:27:20Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Washington waits on Iranian response to plan as exchanges continue in Gulf",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/europe/2026/05/08/washington-waits-on-iranian-response-to-plan-as-exchanges-continue-in-gulf/",
+        "published": "2026-05-08T19:25:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China confirms attack on oil tanker in Strait of Hormuz amid regional tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/china-confirms-attack-on-oil-tanker-in-strait-of-hormuz-amid-regional-tensions/",
+        "published": "2026-05-08T19:06:53Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
