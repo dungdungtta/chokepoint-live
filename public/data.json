@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-09T07:21:54.746Z",
+    "generated_at": "2026-05-09T10:40:05.341Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Could Russia Follow the “Hormuz Playbook” in the Baltic and Black Seas?",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/could-russia-follow-the-hormuz-playbook-in-the-baltic-and-black-seas/",
-        "published": "2026-05-08T07:15:22Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why are oil prices up today, and will Brent, US WTI crude futures continue to rise or fall in next few days? Full explainer on Gulf conflict, Strait of Hormuz risks and global markets",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-up-today-and-will-brent-us-wti-crude-futures-continue-to-rise-or-fall-in-next-few-days-full-explainer-on-gulf-conflict-strait-of-hormuz-risks-and-global-markets/articleshow/130952606.cms",
-        "published": "2026-05-08T07:15:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Toyota's profit fell 19% as US tariffs hit, though sales rose",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/toyota-japan-earnings-automaker-tariffs-iran-ea289972b7039304be7c99778d4eac07",
-        "published": "2026-05-08T07:11:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Israel-Iran war may make your sofa more expensive",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/paper-/-wood-/-glass/-plastic/-marbles/israel-iran-war-may-make-your-sofa-more-expensive-plywood-cost-shipping-home-centre-price-hike/articleshow/130952469.cms",
-        "published": "2026-05-08T07:09:04Z",
+        "title": "UAE comes under attack from Iranian drones as oil prices go back up over $100 a barrel despite Trump insisting ceasefire is still on",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15800877/UAE-Iranian-drones-oil-prices-Trump-ceasefire-on.html",
+        "published": "2026-05-08T10:31:25Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Iran captures tanker in Gulf of Oman amid US maritime tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-captures-tanker-in-gulf-of-oman-amid-us-maritime-tensions/",
+        "published": "2026-05-08T10:20:42Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "India's oil companies bleed Rs 30,000 cr as fuel prices held steady despite global energy shock",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indias-oil-companies-bleed-rs-30000-cr-as-fuel-prices-held-steady-despite-global-energy-shock/articleshow/130956968.cms",
+        "published": "2026-05-08T10:20:41Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US, Iran exchange fire near Strait of Hormuz; latest scenario may further undermine trust, complicate phased agreement: Chinese expert",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260508-globaltimes01.htm",
+        "published": "2026-05-08T09:54:21Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "Aftermath: There Is No End to the War With Iran",
+        "source": "The American Prospect",
+        "url": "http://prospect.org/2026/05/08/aftermath-no-end-to-war-with-iran/",
+        "published": "2026-05-08T09:30:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "What to watch for in high-stakes Trump-Xi meeting",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Politics/watch-high-stakes-trump-xi-meeting/story?id=132746582",
+        "published": "2026-05-08T09:06:03Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Why are oil prices up today, and will Brent, US WTI crude futures continue to rise or fall in next few days? Full explainer on Gulf conflict, Strait of Hormuz risks and global markets",
         "source": "The Times of India",
@@ -76,20 +90,6 @@
         "url": "https://nypost.com/2026/05/07/us-news/iran-casts-a-long-dark-shadow-over-trumps-trip-to-china-next-week/",
         "published": "2026-05-07T20:35:20Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "China signals again that Taiwan is a priority ahead of Trump-Xi meeting",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/china-signals-taiwan-priority-ahead-trump-xi-meeting-132735504",
-        "published": "2026-05-07T12:34:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Crisis-Weary Southeast Asia Gathers Amid Iran War Energy Shock",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/crisis-weary-southeast-asia-gathers-amid-iran-war-energy-shock",
-        "published": "2026-05-07T06:41:54Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
