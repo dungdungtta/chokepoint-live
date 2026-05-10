@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T17:38:49.450Z",
+    "generated_at": "2026-05-10T20:09:44.520Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump racing against the clock to avoid blundering major summit: analysis",
-        "source": "Raw Story",
-        "url": "https://www.rawstory.com/trump-2676873756/",
-        "published": "2026-05-09T17:38:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Ramco Cements: What should investors do?",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/the-ramco-cements-what-should-investors-do/article70954306.ece",
-        "published": "2026-05-09T16:52:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US strikes Iranian tankers, oil spill disrupts Strait of Hormuz shipping",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-strikes-iranian-tankers-oil-spill-disrupts-strait-of-hormuz-shipping/",
-        "published": "2026-05-09T16:19:59Z",
+        "title": "Fragile Iran ceasefire appears to hold as Iran warns the U.S. against attacks on its oil tankers and other ships",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/world/fragile-iran-ceasefire-appears-to-hold-as-iran-warns-the-u-s-against-attacks-on-its-oil-tankers-and-other-ships",
+        "published": "2026-05-09T20:07:45Z",
         "sentiment": "danger"
       },
       {
-        "title": "What they say on their India plans",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/what-they-say-on-their-india-plans/article70956568.ece",
-        "published": "2026-05-09T16:13:48Z",
+        "title": "Fragile Iran ceasefire appears to hold and Bahrain detains dozens over suspected Revolutionary Guard links",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/world/fragile-iran-ceasefire-appears-to-hold-and-bahrain-detains-dozens-over-suspected-revolutionary-guard-links",
+        "published": "2026-05-09T20:07:45Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "US and Iran no closer to ending war as Tehran yet to respond to latest proposals",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/05/09/us-and-iran-no-closer-to-ending-war-as-tehran-yet-to-respond-to-latest-proposals/",
+        "published": "2026-05-09T19:51:35Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Want to cross the Strait of Hormuz? Email the IRGC",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-05-10/iran-strait-of-hormuz-authority-for-ships-to-cross/106652970",
+        "published": "2026-05-09T18:39:38Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran ceasefire appears to hold, Bahrain detains dozens over suspected Revolutionary Guard links",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/iran-ceasefire-appears-to-hold-bahrain-detains-dozens-over-suspected-revolutionary-guard-links/articleshow/130980072.cms",
-        "published": "2026-05-09T15:17:33Z",
-        "sentiment": "neutral"
+        "title": "They graduate to six figure salaries, and grueling work",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4378495/posts",
+        "published": "2026-05-09T18:12:34Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
