@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T14:41:15.397Z",
+    "generated_at": "2026-05-10T17:38:49.450Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "British Royal Navy destroyer joining ‘freedom of navigation’ mission in Strait of Hormuz to unlock commercial shipping",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/05/09/world-news/hms-royal-joining-freedom-of-navigation-mission-in-strait-of-hormuz-to-unlock-commercial-shipping/",
-        "published": "2026-05-09T14:26:56Z",
+        "title": "Trump racing against the clock to avoid blundering major summit: analysis",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/trump-2676873756/",
+        "published": "2026-05-09T17:38:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "Inside the US military playbook to cripple Iran if nuclear talks collapse",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/inside-us-military-playbook-cripple-iran-nuclear-talks-collapse",
-        "published": "2026-05-09T14:13:53Z",
-        "sentiment": "neutral"
+        "title": "The Ramco Cements: What should investors do?",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/the-ramco-cements-what-should-investors-do/article70954306.ece",
+        "published": "2026-05-09T16:52:36Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Trump under pressure to launch major attack: ‘24 hours of strategic bombing’",
-        "source": "Raw Story",
-        "url": "https://www.rawstory.com/iran-war-2676873399/",
-        "published": "2026-05-09T14:07:43Z",
+        "title": "US strikes Iranian tankers, oil spill disrupts Strait of Hormuz shipping",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-strikes-iranian-tankers-oil-spill-disrupts-strait-of-hormuz-shipping/",
+        "published": "2026-05-09T16:19:59Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran War Is Draining World’s Oil Buffer at an Unprecedented Pace",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/iran-war-is-draining-worlds-oil-buffer-at-an-unprecedented-pace",
-        "published": "2026-05-09T12:58:35Z",
-        "sentiment": "danger"
+        "title": "What they say on their India plans",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/what-they-say-on-their-india-plans/article70956568.ece",
+        "published": "2026-05-09T16:13:48Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Qatar LNG Tanker Starts Hormuz Crossing as Trump Pushes Reopening",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/qatar-lng-tanker-starts-hormuz-crossing-as-trump-pushes-reopening",
-        "published": "2026-05-09T12:58:20Z",
+        "title": "Iran ceasefire appears to hold, Bahrain detains dozens over suspected Revolutionary Guard links",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/iran-ceasefire-appears-to-hold-bahrain-detains-dozens-over-suspected-revolutionary-guard-links/articleshow/130980072.cms",
+        "published": "2026-05-09T15:17:33Z",
         "sentiment": "neutral"
       }
     ],
