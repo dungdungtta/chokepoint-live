@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T07:35:16.054Z",
+    "generated_at": "2026-05-10T11:15:27.051Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "News24 | CIA report claims Iran can outlast US port blockade for 4 more months",
-        "source": "News24",
-        "url": "https://www.news24.com/world/cia-report-claims-iran-can-outlast-us-port-blockade-for-4-more-months-20260509-0432",
-        "published": "2026-05-09T07:30:56Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Turkmenistan approves construction of desalination plant for oil refinery complex",
-        "source": "Trend.az",
-        "url": "https://www.trend.az/business/4184264.html",
-        "published": "2026-05-09T07:05:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "UAE exits OPEC after nearly 59 years, escalating tensions with Saudi Arabia over oil production",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/uae-exits-opec-saudi-oil-tensions/",
-        "published": "2026-05-09T07:04:54Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Japan to send business delegation to Russia in late May",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/business/japan-to-send-business-delegation-to-russia-in-late-may-amid-ukraine-war",
-        "published": "2026-05-09T07:03:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US, Iran no closer to ending war as Gulf clashes flare",
+        "title": "US fire on Iran tankers sparks reprisals as deal hangs in balance",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/us-iran-no-closer-to-ending-war-as-gulf-clashes-flare/articleshow/130972618.cms",
-        "published": "2026-05-09T07:03:17Z",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-fire-on-iran-tankers-sparks-reprisals-as-deal-hangs-in-balance/articleshow/130975483.cms",
+        "published": "2026-05-09T10:29:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Marco Rubio sanctions Chinese entities over satellite imagery supplied to Iran",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/rubio-sanctions-chinese-entities-iran-satellite/",
+        "published": "2026-05-09T10:11:21Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "They graduate to six figure salaries, and grueling work",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/05/09/nx-s1-5789051/merchant-marine-sealift-jobs",
+        "published": "2026-05-09T10:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US, Iran no closer to ending war as Tehran's response awaited",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/us-iran-no-closer-ending-war-tehrans-response-awaited-6110971",
+        "published": "2026-05-09T08:44:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US and Iran no closer to ending war as Gulf clashes flare",
+        "source": "Independent.ie",
+        "url": "https://www.independent.ie/world-news/middle-east/us-and-iran-no-closer-to-ending-war-as-gulf-clashes-flare/a2131789708.html",
+        "published": "2026-05-09T08:00:00Z",
         "sentiment": "danger"
       }
     ],
