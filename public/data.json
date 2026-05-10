@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T20:09:44.520Z",
+    "generated_at": "2026-05-10T22:32:37.374Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump waits for answer from Iran on peace proposal, says ball is in Tehran’s court: ‘We may go back to Project Freedom’",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/05/09/world-news/trump-waits-for-answer-from-iran-on-peace-proposal-says-ball-is-in-tehrans-court/",
+        "published": "2026-05-09T22:22:08Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Strait of Hormuz remains blocked amid US-Iran naval skirmishes",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/strait-of-hormuz-remains-blocked-amid-us-iran-naval-skirmishes/",
+        "published": "2026-05-09T22:21:04Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Massive Oil Slick Spotted Off Iran’s Kharg Island, Cause Unknown",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4378524/posts",
+        "published": "2026-05-09T22:03:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S., Iran no closer to ending war as Qatari tanker sails toward Strait of Hormuz",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/us-iran-no-closer-to-ending-war-as-qatari-tanker-sails-toward-strait-of-hormuz",
+        "published": "2026-05-09T20:39:57Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Fragile Iran ceasefire appears to hold as Iran warns the U.S. against attacks on its oil tankers and other ships",
         "source": "PBS",
         "url": "https://www.pbs.org/newshour/world/fragile-iran-ceasefire-appears-to-hold-as-iran-warns-the-u-s-against-attacks-on-its-oil-tankers-and-other-ships",
         "published": "2026-05-09T20:07:45Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Fragile Iran ceasefire appears to hold and Bahrain detains dozens over suspected Revolutionary Guard links",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/world/fragile-iran-ceasefire-appears-to-hold-and-bahrain-detains-dozens-over-suspected-revolutionary-guard-links",
-        "published": "2026-05-09T20:07:45Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "US and Iran no closer to ending war as Tehran yet to respond to latest proposals",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/05/09/us-and-iran-no-closer-to-ending-war-as-tehran-yet-to-respond-to-latest-proposals/",
-        "published": "2026-05-09T19:51:35Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Want to cross the Strait of Hormuz? Email the IRGC",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-05-10/iran-strait-of-hormuz-authority-for-ships-to-cross/106652970",
-        "published": "2026-05-09T18:39:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "They graduate to six figure salaries, and grueling work",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4378495/posts",
-        "published": "2026-05-09T18:12:34Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
