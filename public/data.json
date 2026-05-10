@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T11:15:27.051Z",
+    "generated_at": "2026-05-10T14:41:15.397Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "US fire on Iran tankers sparks reprisals as deal hangs in balance",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/us-fire-on-iran-tankers-sparks-reprisals-as-deal-hangs-in-balance/articleshow/130975483.cms",
-        "published": "2026-05-09T10:29:00Z",
+        "title": "British Royal Navy destroyer joining ‘freedom of navigation’ mission in Strait of Hormuz to unlock commercial shipping",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/05/09/world-news/hms-royal-joining-freedom-of-navigation-mission-in-strait-of-hormuz-to-unlock-commercial-shipping/",
+        "published": "2026-05-09T14:26:56Z",
         "sentiment": "watch"
       },
       {
-        "title": "Marco Rubio sanctions Chinese entities over satellite imagery supplied to Iran",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/rubio-sanctions-chinese-entities-iran-satellite/",
-        "published": "2026-05-09T10:11:21Z",
-        "sentiment": "watch"
+        "title": "Inside the US military playbook to cripple Iran if nuclear talks collapse",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/inside-us-military-playbook-cripple-iran-nuclear-talks-collapse",
+        "published": "2026-05-09T14:13:53Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "They graduate to six figure salaries, and grueling work",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/05/09/nx-s1-5789051/merchant-marine-sealift-jobs",
-        "published": "2026-05-09T10:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US, Iran no closer to ending war as Tehran's response awaited",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/us-iran-no-closer-ending-war-tehrans-response-awaited-6110971",
-        "published": "2026-05-09T08:44:00Z",
+        "title": "Trump under pressure to launch major attack: ‘24 hours of strategic bombing’",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/iran-war-2676873399/",
+        "published": "2026-05-09T14:07:43Z",
         "sentiment": "danger"
       },
       {
-        "title": "US and Iran no closer to ending war as Gulf clashes flare",
-        "source": "Independent.ie",
-        "url": "https://www.independent.ie/world-news/middle-east/us-and-iran-no-closer-to-ending-war-as-gulf-clashes-flare/a2131789708.html",
-        "published": "2026-05-09T08:00:00Z",
+        "title": "Iran War Is Draining World’s Oil Buffer at an Unprecedented Pace",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/iran-war-is-draining-worlds-oil-buffer-at-an-unprecedented-pace",
+        "published": "2026-05-09T12:58:35Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Qatar LNG Tanker Starts Hormuz Crossing as Trump Pushes Reopening",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/qatar-lng-tanker-starts-hormuz-crossing-as-trump-pushes-reopening",
+        "published": "2026-05-09T12:58:20Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
