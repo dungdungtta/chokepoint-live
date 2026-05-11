@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-11T10:48:15.691Z",
+    "generated_at": "2026-05-11T18:04:25.423Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,65 +27,79 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran ceasefire tested as cargo ship hit off Qatar’s coast",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/iran-ceasefire-tested-as-cargo-ship-hit-off-qatars-coast-221988",
-        "published": "2026-05-10T10:30:53Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Surprise Post! Best of Sales!",
-        "source": "Sheaffertoldmeto.com",
-        "url": "https://sheaffertoldmeto.com/surprise-post-best-of-sales-2/",
-        "published": "2026-05-10T10:00:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Angry Words, But No Response Yet From Iran On US Peace Proposal",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260510-rferl01.htm",
-        "published": "2026-05-10T09:52:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Aramco CEO warns 1 billion barrels lost will slow oil market recovery",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/companies/aramco-ceo-warns-1-billion-barrels-lost-will-slow-oil-market-recovery/article70961982.ece",
-        "published": "2026-05-10T09:42:15Z",
+        "title": "Iran accuses Britain of 'escalating the crisis' in the Middle East by sending warship to protect tankers when Strait of Hormuz opens",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15805817/Iran-accuses-UK-escalating-crisis-warship-Navy-Middle-East.html",
+        "published": "2026-05-10T17:38:02Z",
         "sentiment": "danger"
       },
       {
-        "title": "Bulk carrier fire off Qatar heightens Strait of Hormuz tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/bulk-carrier-fire-off-qatar-heightens-strait-of-hormuz-tensions/",
-        "published": "2026-05-10T09:33:33Z",
+        "title": "Oil Giant's Profits Surge 25%",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/388862/oil-giants-profits-surge-25.html",
+        "published": "2026-05-10T17:30:00Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Saudi Aramco profits jump despite conflict in Middle East - The Guardian",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183174890",
+        "published": "2026-05-10T17:12:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump calls Iran's response to ceasefire proposal 'unacceptable'",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/world/trump-calls-irans-response-to-ceasefire-proposal-unacceptable",
+        "published": "2026-05-10T16:13:05Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Drones target Gulf nations as Iran responds to ceasefire proposal",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/world/drones-target-gulf-nations-as-iran-responds-to-ceasefire-proposal",
+        "published": "2026-05-10T16:13:05Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
       {
-        "title": "The weaponization of shipping channels",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/the-weaponization-of-shipping-channels/a-77108496",
-        "published": "2026-05-10T07:43:00Z",
+        "title": "China may not offer breakthroughs when Trump meets Xi because Beijing is ‘working backward from our midterm elections’",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/05/10/china-trump-xi-meeting-trade-deal-iran-war-midterm-elections/",
+        "published": "2026-05-10T14:26:24Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump–Xi: The meeting that could determine the next phase of the US–China confrontation",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/05/10/trump-xi-the-meeting-that-could-determine-the-next-phase-of-the-us-china-confrontation/",
+        "published": "2026-05-10T13:15:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "What does the Trump-Xi summit mean for the rest of us?",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/analysis-and-comment/2026/0510/1572446-donald-trump-xi-jinping/",
-        "published": "2026-05-10T06:10:12Z",
-        "sentiment": "watch"
+        "title": "FO Exclusive: US–Iran Double Blockade of Hormuz Threatens Global Economy",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/world-news/fo-exclusive-us-iran-double-blockade-of-hormuz-threatens-global-economy/",
+        "published": "2026-05-10T12:36:10Z",
+        "sentiment": "danger"
       },
       {
-        "title": "US experience fighting Iran offers lessons for China, experts say",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/05/09/china/us-experience-fighting-iran-lessons-china-intl-hnk-ml",
-        "published": "2026-05-10T02:16:01Z",
+        "title": "US Missile Moves in Philippines Raising Stakes Around Taiwan",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/us-missile-moves-philippines-raising-stakes-taiwan/5925772",
+        "published": "2026-05-10T12:11:59Z",
         "sentiment": "watch"
       }
     ],
     "malacca": [
+      {
+        "title": "The geopolitical weaponization of shipping channels",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/strait-of-hormuz-strait-of-malacca-taiwan-strait-iran-war-economy-shipping/a-77108496",
+        "published": "2026-05-10T07:43:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The weaponization of shipping channels",
         "source": "DW (English)",
@@ -112,13 +126,6 @@
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/04/27/iran-us-war-hormuz-strait-blockade-trade-maritime-navy-strategy/",
         "published": "2026-04-27T21:16:50Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Immediately Restore Freedom of Navigation through Strait of Hormuz, Speakers Urge in Security Council Condemning Critical Waterway's Use as 'Bargaining Chip'",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260427-unsc02.htm",
-        "published": "2026-04-27T12:00:00Z",
         "sentiment": "watch"
       }
     ]
