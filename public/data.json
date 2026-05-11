@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T22:32:37.374Z",
+    "generated_at": "2026-05-11T10:48:15.691Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,72 +27,72 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump waits for answer from Iran on peace proposal, says ball is in Tehran’s court: ‘We may go back to Project Freedom’",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/05/09/world-news/trump-waits-for-answer-from-iran-on-peace-proposal-says-ball-is-in-tehrans-court/",
-        "published": "2026-05-09T22:22:08Z",
+        "title": "Iran ceasefire tested as cargo ship hit off Qatar’s coast",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/iran-ceasefire-tested-as-cargo-ship-hit-off-qatars-coast-221988",
+        "published": "2026-05-10T10:30:53Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Surprise Post! Best of Sales!",
+        "source": "Sheaffertoldmeto.com",
+        "url": "https://sheaffertoldmeto.com/surprise-post-best-of-sales-2/",
+        "published": "2026-05-10T10:00:26Z",
         "sentiment": "watch"
       },
       {
-        "title": "Strait of Hormuz remains blocked amid US-Iran naval skirmishes",
+        "title": "Angry Words, But No Response Yet From Iran On US Peace Proposal",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260510-rferl01.htm",
+        "published": "2026-05-10T09:52:58Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Aramco CEO warns 1 billion barrels lost will slow oil market recovery",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/companies/aramco-ceo-warns-1-billion-barrels-lost-will-slow-oil-market-recovery/article70961982.ece",
+        "published": "2026-05-10T09:42:15Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Bulk carrier fire off Qatar heightens Strait of Hormuz tensions",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/strait-of-hormuz-remains-blocked-amid-us-iran-naval-skirmishes/",
-        "published": "2026-05-09T22:21:04Z",
+        "url": "https://cryptobriefing.com/bulk-carrier-fire-off-qatar-heightens-strait-of-hormuz-tensions/",
+        "published": "2026-05-10T09:33:33Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Massive Oil Slick Spotted Off Iran’s Kharg Island, Cause Unknown",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4378524/posts",
-        "published": "2026-05-09T22:03:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S., Iran no closer to ending war as Qatari tanker sails toward Strait of Hormuz",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/us-iran-no-closer-to-ending-war-as-qatari-tanker-sails-toward-strait-of-hormuz",
-        "published": "2026-05-09T20:39:57Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Fragile Iran ceasefire appears to hold as Iran warns the U.S. against attacks on its oil tankers and other ships",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/world/fragile-iran-ceasefire-appears-to-hold-as-iran-warns-the-u-s-against-attacks-on-its-oil-tankers-and-other-ships",
-        "published": "2026-05-09T20:07:45Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
       {
-        "title": "Ranking Member Shaheen, Senator Curtis Welcome Taiwan Legislative Yuan Approval of Supplementary Defense Budget",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260508-sfrc01.htm",
-        "published": "2026-05-08T12:00:00Z",
+        "title": "The weaponization of shipping channels",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/the-weaponization-of-shipping-channels/a-77108496",
+        "published": "2026-05-10T07:43:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Aftermath: There Is No End to the War With Iran",
-        "source": "The American Prospect",
-        "url": "http://prospect.org/2026/05/08/aftermath-no-end-to-war-with-iran/",
-        "published": "2026-05-08T09:30:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "What to watch for in high-stakes Trump-Xi meeting",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Politics/watch-high-stakes-trump-xi-meeting/story?id=132746582",
-        "published": "2026-05-08T09:06:03Z",
+        "title": "What does the Trump-Xi summit mean for the rest of us?",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/analysis-and-comment/2026/0510/1572446-donald-trump-xi-jinping/",
+        "published": "2026-05-10T06:10:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "Why are oil prices up today, and will Brent, US WTI crude futures continue to rise or fall in next few days? Full explainer on Gulf conflict, Strait of Hormuz risks and global markets",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-up-today-and-will-brent-us-wti-crude-futures-continue-to-rise-or-fall-in-next-few-days-full-explainer-on-gulf-conflict-strait-of-hormuz-risks-and-global-markets/articleshow/130952606.cms",
-        "published": "2026-05-08T07:15:13Z",
+        "title": "US experience fighting Iran offers lessons for China, experts say",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/05/09/china/us-experience-fighting-iran-lessons-china-intl-hnk-ml",
+        "published": "2026-05-10T02:16:01Z",
         "sentiment": "watch"
       }
     ],
     "malacca": [
+      {
+        "title": "The weaponization of shipping channels",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/the-weaponization-of-shipping-channels/a-77108496",
+        "published": "2026-05-10T07:43:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "‘Turbulent and dangerous’: How shipping is the new global battleground",
         "source": "Al Jazeera English",
@@ -119,13 +119,6 @@
         "source": "Globalsecurity.org",
         "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260427-unsc02.htm",
         "published": "2026-04-27T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Chokepoints and conflict: How the Hormuz crisis is exposing global shipping vulnerabilities",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260426-unnews01.htm",
-        "published": "2026-04-26T12:00:00Z",
         "sentiment": "watch"
       }
     ]
