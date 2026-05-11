@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-11T18:04:25.423Z",
+    "generated_at": "2026-05-11T22:17:46.474Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,69 +27,69 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran accuses Britain of 'escalating the crisis' in the Middle East by sending warship to protect tankers when Strait of Hormuz opens",
+        "title": "Here’s the biggest news you missed this weekend",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-may-10-rcna344141",
+        "published": "2026-05-10T22:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump blasts Iran for 'playing games' over peace deal as he rebuffs latest offer with ferocious barb",
         "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15805817/Iran-accuses-UK-escalating-crisis-warship-Navy-Middle-East.html",
-        "published": "2026-05-10T17:38:02Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Giant's Profits Surge 25%",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/388862/oil-giants-profits-surge-25.html",
-        "published": "2026-05-10T17:30:00Z",
+        "url": "https://www.dailymail.com/news/article-15806271/Trump-Iran-playing-games-peace-deal-rebuffs-offer.html",
+        "published": "2026-05-10T21:33:53Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudi Aramco profits jump despite conflict in Middle East - The Guardian",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183174890",
-        "published": "2026-05-10T17:12:29Z",
+        "title": "Iran responds to US ceasefire proposal but Trump rejects it as 'unacceptable'",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/iran-responds-to-us-ceasefire-proposal-but-trump-rejects-it-as-unacceptable-222010",
+        "published": "2026-05-10T21:32:43Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Trump calls Iran's response to U.S. peace proposal 'unacceptable'",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/trump-calls-iran%27s-response-to-us-peace-proposal-%27unacceptable%27",
+        "published": "2026-05-10T21:17:27Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump calls Iran's response to ceasefire proposal 'unacceptable'",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/world/trump-calls-irans-response-to-ceasefire-proposal-unacceptable",
-        "published": "2026-05-10T16:13:05Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Drones target Gulf nations as Iran responds to ceasefire proposal",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/world/drones-target-gulf-nations-as-iran-responds-to-ceasefire-proposal",
-        "published": "2026-05-10T16:13:05Z",
-        "sentiment": "neutral"
+        "title": "Trump calls Iran's response to US peace proposal 'unacceptable'",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/trump-calls-irans-response-us-peace-proposal-unacceptable-6112436",
+        "published": "2026-05-10T21:13:01Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China’s undersea cable threat raises $10T fears as Trump-Xi talks loom",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/chinas-undersea-cable-threat-raises-10t-fears-trump-xi-talks-loom",
+        "published": "2026-05-10T22:05:51Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump to discuss Iran with Xi Jinping during China visit: Officials",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/10/trump-to-discuss-iran-with-xi-jinping-during-china-visit-officials",
+        "published": "2026-05-10T21:12:50Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" May 10, 2026",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-05-10-2026/",
+        "published": "2026-05-10T18:50:26Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China may not offer breakthroughs when Trump meets Xi because Beijing is ‘working backward from our midterm elections’",
         "source": "Fortune",
         "url": "https://fortune.com/2026/05/10/china-trump-xi-meeting-trade-deal-iran-war-midterm-elections/",
         "published": "2026-05-10T14:26:24Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Trump–Xi: The meeting that could determine the next phase of the US–China confrontation",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/05/10/trump-xi-the-meeting-that-could-determine-the-next-phase-of-the-us-china-confrontation/",
-        "published": "2026-05-10T13:15:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "FO Exclusive: US–Iran Double Blockade of Hormuz Threatens Global Economy",
-        "source": "Fair Observer",
-        "url": "https://www.fairobserver.com/world-news/fo-exclusive-us-iran-double-blockade-of-hormuz-threatens-global-economy/",
-        "published": "2026-05-10T12:36:10Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US Missile Moves in Philippines Raising Stakes Around Taiwan",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/us-missile-moves-philippines-raising-stakes-taiwan/5925772",
-        "published": "2026-05-10T12:11:59Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
