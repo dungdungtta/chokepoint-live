@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-11T22:17:46.474Z",
+    "generated_at": "2026-05-12T08:13:21.380Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,68 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "Here’s the biggest news you missed this weekend",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-may-10-rcna344141",
-        "published": "2026-05-10T22:00:00Z",
+        "title": "‘I don’t like it… totally unacceptable’ - says Trump but Iran describes its proposal to end war with US as generous",
+        "source": "Independent.ie",
+        "url": "https://www.independent.ie/world-news/middle-east/i-dont-like-it-totally-unacceptable-says-trump-but-iran-describes-its-proposal-to-end-war-with-us-as-generous/a1435406078.html",
+        "published": "2026-05-11T08:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Seoul Condemns Strike on Vessel in Strait of Hormuz as Probe Continues",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/05/11/869277.htm",
+        "published": "2026-05-11T07:47:34Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "After winning poll battles, Modi has picked up a new fight",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/economy/policy/after-winning-poll-battles-modi-has-picked-up-a-new-fight/articleshow/131007459.cms",
+        "published": "2026-05-11T07:46:50Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump blasts Iran for 'playing games' over peace deal as he rebuffs latest offer with ferocious barb",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15806271/Trump-Iran-playing-games-peace-deal-rebuffs-offer.html",
-        "published": "2026-05-10T21:33:53Z",
+        "title": "Geospatial Intelligence Expert Y. Nithiyanandam on Why the Hormuz Strait is No Longer a Neutral Global Common",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/05/geospatial-intelligence-expert-y-nithiyanandam-on-why-the-hormuz-strait-is-no-longer-a-neutral-global-common/",
+        "published": "2026-05-11T07:44:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran responds to US ceasefire proposal but Trump rejects it as 'unacceptable'",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/iran-responds-to-us-ceasefire-proposal-but-trump-rejects-it-as-unacceptable-222010",
-        "published": "2026-05-10T21:32:43Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Trump calls Iran's response to U.S. peace proposal 'unacceptable'",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/trump-calls-iran%27s-response-to-us-peace-proposal-%27unacceptable%27",
-        "published": "2026-05-10T21:17:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump calls Iran's response to US peace proposal 'unacceptable'",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/trump-calls-irans-response-us-peace-proposal-unacceptable-6112436",
-        "published": "2026-05-10T21:13:01Z",
-        "sentiment": "watch"
+        "title": "Ship Signals Erratic as Hormuz Tensions Escalate",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/ship_signals_erratic_as_hormuz_tensions_escalate-11-may-2026-183653-article/",
+        "published": "2026-05-11T07:40:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Beijing revives dialogue with Taiwan opposition, but impact on policy and tensions limited",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/east-asia/china-taiwan-kuomintang-xi-jinping-cheng-li-wun-strait-ties-6109321",
+        "published": "2026-05-11T05:55:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Donald Trump acknowledges the limits of Jacksonism, by Thierry Meyssan",
+        "source": "Red Voltaire",
+        "url": "https://www.voltairenet.org/article224467.html",
+        "published": "2026-05-11T03:45:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan to be key issue at Trump's summit with China's President Xi",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/taiwan-trump-summit-china-xi-jinping/",
+        "published": "2026-05-11T01:09:43Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Board Of Trade, Ahoy!",
+        "source": "Substack.com",
+        "url": "https://chinaarticles.substack.com/p/board-of-trade-ahoy",
+        "published": "2026-05-11T00:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China’s undersea cable threat raises $10T fears as Trump-Xi talks loom",
         "source": "Fox News",
         "url": "https://www.foxnews.com/world/chinas-undersea-cable-threat-raises-10t-fears-trump-xi-talks-loom",
         "published": "2026-05-10T22:05:51Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump to discuss Iran with Xi Jinping during China visit: Officials",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/10/trump-to-discuss-iran-with-xi-jinping-during-china-visit-officials",
-        "published": "2026-05-10T21:12:50Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" May 10, 2026",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-05-10-2026/",
-        "published": "2026-05-10T18:50:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China may not offer breakthroughs when Trump meets Xi because Beijing is ‘working backward from our midterm elections’",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/05/10/china-trump-xi-meeting-trade-deal-iran-war-midterm-elections/",
-        "published": "2026-05-10T14:26:24Z",
         "sentiment": "danger"
       }
     ],
