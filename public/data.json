@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-12T08:13:21.380Z",
+    "generated_at": "2026-05-12T16:37:09.116Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -18,85 +18,85 @@
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
-      "price_index": 17.67,
-      "change_pct": 57.9,
-      "date": "2026-03-01",
+      "price_index": null,
+      "change_pct": null,
+      "date": null,
       "unit": "USD/MMBtu (EU nat-gas proxy)"
     }
   },
   "news": {
     "hormuz": [
       {
-        "title": "‘I don’t like it… totally unacceptable’ - says Trump but Iran describes its proposal to end war with US as generous",
-        "source": "Independent.ie",
-        "url": "https://www.independent.ie/world-news/middle-east/i-dont-like-it-totally-unacceptable-says-trump-but-iran-describes-its-proposal-to-end-war-with-us-as-generous/a1435406078.html",
-        "published": "2026-05-11T08:00:00Z",
-        "sentiment": "danger"
+        "title": "US-Iran ceasefire 'on life support' with energy woes to continue in 2027",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-05-12/us-iran-reach-stalemate-in-war-negotiations/106668284",
+        "published": "2026-05-11T16:21:31Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Seoul Condemns Strike on Vessel in Strait of Hormuz as Probe Continues",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/05/11/869277.htm",
-        "published": "2026-05-11T07:47:34Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "After winning poll battles, Modi has picked up a new fight",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/policy/after-winning-poll-battles-modi-has-picked-up-a-new-fight/articleshow/131007459.cms",
-        "published": "2026-05-11T07:46:50Z",
+        "title": "Why does Modi want Indians to curb their gold obsession?",
+        "source": "RT",
+        "url": "https://www.rt.com/india/639865-why-does-modi-wants-indians/",
+        "published": "2026-05-11T16:20:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "Geospatial Intelligence Expert Y. Nithiyanandam on Why the Hormuz Strait is No Longer a Neutral Global Common",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/05/geospatial-intelligence-expert-y-nithiyanandam-on-why-the-hormuz-strait-is-no-longer-a-neutral-global-common/",
-        "published": "2026-05-11T07:44:00Z",
-        "sentiment": "watch"
+        "title": "Trump says Iran ceasefire is 'on life support' after rejecting Tehran's counter proposal",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/11/trump-iran-war-ceasefire-life-support.html",
+        "published": "2026-05-11T16:17:26Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Ship Signals Erratic as Hormuz Tensions Escalate",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/ship_signals_erratic_as_hormuz_tensions_escalate-11-may-2026-183653-article/",
-        "published": "2026-05-11T07:40:00Z",
-        "sentiment": "danger"
+        "title": "Trump Says US-Iran Ceasefire on ‘Massive Life Support’",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/trump-says-us-iran-ceasefire-on-massive-life-support",
+        "published": "2026-05-11T16:14:00Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Jet Fuel Shortage Deepens Pressure on Global Airlines",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Jet-Fuel-Shortage-Deepens-Pressure-on-Global-Airlines.html",
+        "published": "2026-05-11T16:00:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "Beijing revives dialogue with Taiwan opposition, but impact on policy and tensions limited",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/east-asia/china-taiwan-kuomintang-xi-jinping-cheng-li-wun-strait-ties-6109321",
-        "published": "2026-05-11T05:55:44Z",
+        "title": "Trump Has Gone From Unpredictable to Unreliable",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/national-security/2026/05/trump-has-gone-unpredictable-unreliable/687129/",
+        "published": "2026-05-11T13:30:31Z",
         "sentiment": "watch"
       },
       {
-        "title": "Donald Trump acknowledges the limits of Jacksonism, by Thierry Meyssan",
-        "source": "Red Voltaire",
-        "url": "https://www.voltairenet.org/article224467.html",
-        "published": "2026-05-11T03:45:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan to be key issue at Trump's summit with China's President Xi",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/taiwan-trump-summit-china-xi-jinping/",
-        "published": "2026-05-11T01:09:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Board Of Trade, Ahoy!",
-        "source": "Substack.com",
-        "url": "https://chinaarticles.substack.com/p/board-of-trade-ahoy",
-        "published": "2026-05-11T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China’s undersea cable threat raises $10T fears as Trump-Xi talks loom",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/chinas-undersea-cable-threat-raises-10t-fears-trump-xi-talks-loom",
-        "published": "2026-05-10T22:05:51Z",
+        "title": "Iran war could make Trump's trip to China a bit chillier than his first-term visit",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/iran-war-make-trumps-trip-china-bit-chillier-132823234",
+        "published": "2026-05-11T13:13:21Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "When titans talk: What’s at stake for Trump’s China visit?",
+        "source": "RT",
+        "url": "https://www.rt.com/news/639861-trump-xi-summit-explainer/",
+        "published": "2026-05-11T13:10:21Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "ICYMI: Ranking Member Shaheen, Senator Curtis Pen Economist Op-Ed Defending U.S. Commitments in the Indo-Pacific Ahead of Trump-Xi Summit",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/05/china-260511-sfrc01.htm",
+        "published": "2026-05-11T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Why Iran Can’t Be Bombed, Invaded, or Nuked Into Submission",
+        "source": "Activistpost.com",
+        "url": "https://www.activistpost.com/why-iran-cant-be-bombed-invaded-or-nuked-into-submission/",
+        "published": "2026-05-11T10:00:00Z",
+        "sentiment": "watch"
       }
     ],
     "malacca": [
