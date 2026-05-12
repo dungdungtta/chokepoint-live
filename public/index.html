@@ -18,7 +18,7 @@
   --green:#22c55e;--green-bg:rgba(34,197,94,.12);--green-border:rgba(34,197,94,.3);
   --blue:#3b82f6;
   --panel:340px;
-  --top:52px;
+  --top:92px;
   --mono:'Geist Mono',monospace;
   --sans:'Inter',sans-serif;
 }
@@ -147,6 +147,7 @@ html,body{height:100%;overflow:hidden;font-family:var(--sans);background:#1a2035
 .feed-dot.red{background:var(--red);box-shadow:0 0 5px var(--red)}
 .feed-dot.amber{background:var(--amber);box-shadow:0 0 5px var(--amber)}
 .feed-dot.green{background:var(--green);box-shadow:0 0 5px var(--green)}
+.feed-dot.yellow{background:#eab308;box-shadow:0 0 5px #eab308}
 .feed-content{flex:1;min-width:0}
 .feed-name{font-size:12px;font-weight:500;color:#fff;margin-bottom:2px}
 .feed-meta{font-family:var(--mono);font-size:10px;color:var(--muted)}
@@ -154,6 +155,7 @@ html,body{height:100%;overflow:hidden;font-family:var(--sans);background:#1a2035
 .feed-zone.red{background:var(--red-bg);color:var(--red);border:1px solid var(--red-border)}
 .feed-zone.amber{background:var(--amber-bg);color:var(--amber);border:1px solid var(--amber-border)}
 .feed-zone.green{background:var(--green-bg);color:var(--green);border:1px solid var(--green-border)}
+.feed-zone.yellow{background:rgba(234,179,8,.12);color:#fde047;border:1px solid rgba(234,179,8,.3)}
 
 /* Stat grid */
 .stat-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:16px}
@@ -188,6 +190,7 @@ html,body{height:100%;overflow:hidden;font-family:var(--sans);background:#1a2035
 .det-zone.red{background:var(--red-bg);color:var(--red);border:1px solid var(--red-border)}
 .det-zone.amber{background:var(--amber-bg);color:var(--amber);border:1px solid var(--amber-border)}
 .det-zone.green{background:var(--green-bg);color:var(--green);border:1px solid var(--green-border)}
+.det-zone.yellow{background:rgba(234,179,8,.12);color:#fde047;border:1px solid rgba(234,179,8,.3)}
 .det-name{font-family:var(--mono);font-size:16px;font-weight:600;color:#fff;line-height:1.2;margin-bottom:3px}
 .det-sub{font-size:11px;color:var(--muted);margin-bottom:14px}
 .det-stat-row{display:grid;grid-template-columns:1fr 1fr;gap:7px}
@@ -270,7 +273,30 @@ html,body{height:100%;overflow:hidden;font-family:var(--sans);background:#1a2035
 .cn-arrow{flex-shrink:0;font-family:var(--mono);font-size:14px;color:var(--dim);padding:0 6px;margin-bottom:22px;animation:arrarrow 1.5s ease-in-out infinite}
 @keyframes arrarrow{0%,100%{opacity:.15}50%{opacity:.7}}
 
-/* ── CALCULATOR ──────────────────────────────────────────────── */
+/* ── INDUSTRY TABS ───────────────── */
+.ind-tab{
+  font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:.5px;
+  padding:5px 14px;border-radius:3px;cursor:pointer;
+  border:1px solid var(--border);color:var(--muted);
+  background:transparent;white-space:nowrap;transition:all .15s;flex-shrink:0;
+}
+.ind-tab:hover{border-color:var(--border2);color:var(--text);}
+.ind-tab.active{color:#fff;border-color:rgba(255,255,255,.35);background:rgba(255,255,255,.08);}
+.ind-tab[data-ind="semi"].active   {border-color:#3b82f6;color:#93c5fd;background:rgba(59,130,246,.12);}
+.ind-tab[data-ind="auto"].active   {border-color:#f59e0b;color:#fcd34d;background:rgba(245,158,11,.12);}
+.ind-tab[data-ind="ship"].active   {border-color:#22c55e;color:#86efac;background:rgba(34,197,94,.12);}
+.ind-tab[data-ind="chem"].active   {border-color:#ff4444;color:#fca5a5;background:rgba(255,68,68,.12);}
+
+/* ── INDUSTRY BANNER ─────────────── */
+#ind-banner{
+  position:fixed;top:92px;left:0;right:var(--panel);
+  padding:8px 20px;font-size:12px;line-height:1.5;
+  z-index:800;display:none;
+  border-bottom:1px solid var(--border);
+  backdrop-filter:blur(10px);
+}
+
+/* ── CALCULATOR ───────────────────── */
 .cp-step{
   font-family:var(--mono);font-size:9px;font-weight:600;letter-spacing:1.5px;
   padding:5px 12px;border-radius:2px;border:1px solid var(--border);
@@ -347,29 +373,44 @@ html,body{height:100%;overflow:hidden;font-family:var(--sans);background:#1a2035
 
 <!-- TOPBAR -->
 <div id="topbar">
-  <div class="logo">
-    <div class="logo-dot"></div>
-    ChokepointLive
+  <!-- Row 1: Logo + Live stats + tools -->
+  <div style="height:52px;display:flex;align-items:center;padding:0 16px;gap:0;border-bottom:1px solid var(--border)">
+    <div class="logo">
+      <div class="logo-dot"></div>
+      ChokepointLive
+    </div>
+    <div class="top-sep"></div>
+    <div class="top-stat"><div class="tsl">브렌트유</div><div class="tsv warn" id="stat-brent">$103</div></div>
+    <div class="top-sep"></div>
+    <div class="top-stat"><div class="tsl">헬륨 재고</div><div class="tsv danger" id="stat-helium">~45일</div></div>
+    <div class="top-sep"></div>
+    <div class="top-stat"><div class="tsl">봉쇄 현황</div><div class="tsv danger">1건 활성</div></div>
+    <div class="top-sep"></div>
+    <div class="top-stat"><div class="tsl">홍해 WRS</div><div class="tsv warn">1.8%</div></div>
+    <div class="top-flex"></div>
+    <div class="top-pills">
+      <button class="tpill active" onclick="filterZone('all',this)">전체</button>
+      <button class="tpill" onclick="filterZone('red',this)">적색지역</button>
+      <button class="tpill" onclick="filterZone('amber',this)">황색지역</button>
+      <button class="tpill live-route" onclick="toggleRoutes(this)" id="route-btn">물류 루트</button>
+      <button class="tpill live-cascade" onclick="toggleCascade()" id="cascade-btn">연쇄 흐름</button>
+      <div style="width:1px;height:24px;background:var(--border);margin:0 4px;flex-shrink:0"></div>
+      <button class="tpill" id="calc-btn" onclick="openCalculator()" style="border-color:rgba(139,92,246,.5);color:#c4b5fd;background:rgba(139,92,246,.08);font-weight:600">⚡ 리스크 계산기</button>
+    </div>
   </div>
-  <div class="top-sep"></div>
-  <div class="top-stat"><div class="tsl">Brent</div><div class="tsv warn">$103</div></div>
-  <div class="top-sep"></div>
-  <div class="top-stat"><div class="tsl">Helium Buffer</div><div class="tsv danger">~45 days</div></div>
-  <div class="top-sep"></div>
-  <div class="top-stat"><div class="tsl">Active Blockades</div><div class="tsv danger">1</div></div>
-  <div class="top-sep"></div>
-  <div class="top-stat"><div class="tsl">Red Sea WRS</div><div class="tsv warn">1.8%</div></div>
-  <div class="top-flex"></div>
-  <div class="top-pills">
-    <button class="tpill active" onclick="filterZone('all',this)">All</button>
-    <button class="tpill" onclick="filterZone('red',this)">Red Zone</button>
-    <button class="tpill" onclick="filterZone('amber',this)">Amber Zone</button>
-    <button class="tpill live-route" onclick="toggleRoutes(this)" id="route-btn">Routes</button>
-    <button class="tpill live-cascade" onclick="toggleCascade()" id="cascade-btn">Cascade</button>
-    <div style="width:1px;height:24px;background:var(--border);margin:0 4px;flex-shrink:0"></div>
-    <button class="tpill" id="calc-btn" onclick="openCalculator()" style="border-color:rgba(139,92,246,.5);color:#c4b5fd;background:rgba(139,92,246,.08);font-weight:600">⚡ Risk Calculator</button>
+  <!-- Row 2: Industry tabs -->
+  <div style="height:40px;display:flex;align-items:center;padding:0 16px;gap:6px;overflow-x:auto">
+    <div style="font-family:var(--mono);font-size:9px;font-weight:500;letter-spacing:1.5px;text-transform:uppercase;color:var(--dim);white-space:nowrap;margin-right:6px">업종 선택</div>
+    <button class="ind-tab active" data-ind="all"    onclick="switchIndustry('all',this)">🌐 전체 보기</button>
+    <button class="ind-tab"        data-ind="semi"   onclick="switchIndustry('semi',this)">🔬 반도체</button>
+    <button class="ind-tab"        data-ind="auto"   onclick="switchIndustry('auto',this)">🚗 자동차</button>
+    <button class="ind-tab"        data-ind="ship"   onclick="switchIndustry('ship',this)">🚢 조선</button>
+    <button class="ind-tab"        data-ind="chem"   onclick="switchIndustry('chem',this)">⚗️ 석유화학</button>
   </div>
 </div>
+
+<!-- Industry banner -->
+<div id="ind-banner"></div>
 
 <!-- ═══ COMPANY EXPOSURE CALCULATOR OVERLAY ═══════════════════ -->
 <div id="calc-overlay" style="display:none;position:fixed;inset:0;z-index:2000;background:rgba(5,8,16,.92);backdrop-filter:blur(16px);overflow-y:auto;">
@@ -595,7 +636,7 @@ html,body{height:100%;overflow:hidden;font-family:var(--sans);background:#1a2035
     <div class="legend">
       <div class="leg-item"><div class="leg-dot" style="background:var(--red);box-shadow:0 0 6px var(--red)"></div>Red — Active disruption or existential threat</div>
       <div class="leg-item"><div class="leg-dot" style="background:var(--amber);box-shadow:0 0 6px var(--amber)"></div>Amber — Elevated / cascade risk</div>
-      <div class="leg-item"><div class="leg-dot" style="background:var(--green);box-shadow:0 0 6px var(--green)"></div>Yellow — Operational bottleneck</div>
+      <div class="leg-item"><div class="leg-dot" style="background:#eab308;box-shadow:0 0 6px #eab308"></div>Yellow — Operational bottleneck</div>
     </div>
 
     <div class="pd-rule"></div>
@@ -772,7 +813,7 @@ const NODES = [
   }
 ];
 
-const COLORS = {red:'#ff4444', amber:'#f59e0b', green:'#22c55e'};
+const COLORS = {red:'#ff4444', amber:'#f59e0b', green:'#22c55e', yellow:'#eab308'};
 const CASCADE_NODES = [
   {l:'TRIGGER',n:'Hormuz\nBlockade',s:'Active now',c:'#ff4444'},
   {arrow:true},
@@ -1455,6 +1496,192 @@ function timeAgo(iso){
 
 // 페이지 로드 즉시 실행
 loadLiveData();
+
+// ── INDUSTRY CONFIGURATION ──────────────────────────────────────
+const INDUSTRIES = {
+  all: {
+    name:'전체 보기', banner:null, nodeWeights:{},
+    panelTitle:'글로벌 해상 공급망 리스크',
+    panelSub:'6개 초크포인트 전체. 마커 클릭 시 상세 분석.',
+    materials:[], insight:null,
+  },
+  semi: {
+    name:'반도체', color:'#3b82f6',
+    banner:'🔬 <strong style="color:#93c5fd">반도체 업종 뷰</strong> — 삼성전자·SK하이닉스 기준. 헬륨(카타르→호르무즈) · 브로민(이스라엘→수에즈) · ASML(네덜란드→수에즈) 의존도 반영.',
+    bannerBg:'rgba(59,130,246,.1)', bannerBorder:'rgba(59,130,246,.25)',
+    nodeWeights:{hormuz:1.5,suez:1.3,malacca:1.1,taiwan:1.2,panama:0.7,korea:0.9},
+    panelTitle:'반도체 공급망 리스크',
+    panelSub:'헬륨·브로민·ASML 경로 중심. 호르무즈·수에즈 최우선.',
+    materials:[
+      {name:'헬륨 (카타르산)', status:'🔴 공급 차단', note:'재고 ~45일'},
+      {name:'브로민 (이스라엘)', status:'🟡 위험 상승', note:'대체재 검토 중'},
+      {name:'ASML EUV (네덜란드)', status:'🟡 우회 운송', note:'+21일 지연'},
+      {name:'DRAM ASP', status:'🟢 +55% QoQ', note:'가격 상승 지속'},
+    ],
+    topChokepoints:['hormuz','suez'],
+    insight:'단기 DRAM 가격 상승으로 DS 실적은 호조이나, 헬륨 재고 소진 시 생산 중단 위험. 지금이 대체 공급선 계약 골든타임.',
+  },
+  auto: {
+    name:'자동차', color:'#f59e0b',
+    banner:'🚗 <strong style="color:#fcd34d">자동차 업종 뷰</strong> — 현대·기아·현대모비스 기준. 알루미늄(UAE→호르무즈) · 희토류(중국→말라카) · 유럽 부품(수에즈) 의존도 반영.',
+    bannerBg:'rgba(245,158,11,.1)', bannerBorder:'rgba(245,158,11,.25)',
+    nodeWeights:{hormuz:1.2,suez:1.1,malacca:1.3,taiwan:0.8,panama:1.0,korea:1.1},
+    panelTitle:'자동차 공급망 리스크',
+    panelSub:'알루미늄·희토류·유럽 부품 경로 중심. 말라카·호르무즈 모니터링.',
+    materials:[
+      {name:'알루미늄 (UAE산)', status:'🔴 +8% 급등', note:'EGA 시설 피격'},
+      {name:'희토류 (중국산)', status:'🟡 수출 통제', note:'영구자석 영향'},
+      {name:'반도체 부품 (대만)', status:'🟡 납기 지연', note:'차량용 MCU'},
+      {name:'전동화 배터리', status:'🟡 투자 지연', note:'OEM 계획 보류'},
+    ],
+    topChokepoints:['malacca','hormuz'],
+    insight:'유가 상승으로 소비자 구매심리 위축. 알루미늄 원가 상승이 OEM 마진 압박. 전동화 플랫폼 투자 결정 지연 → 전장 수주 일정 불확실.',
+  },
+  ship: {
+    name:'조선', color:'#22c55e',
+    banner:'🚢 <strong style="color:#86efac">조선 업종 뷰</strong> — HD현대·삼성중공업·한화오션 기준. <span style="color:#fca5a5">⚠ 위험</span>: 후판 원가↑ / <span style="color:#86efac">🟢 기회</span>: LNG 운반선 수주 급증. 역설적 수혜 구조.',
+    bannerBg:'rgba(34,197,94,.08)', bannerBorder:'rgba(34,197,94,.2)',
+    nodeWeights:{hormuz:0.6,suez:1.0,malacca:1.1,taiwan:0.7,panama:0.9,korea:1.2},
+    panelTitle:'조선 업종 — 위험과 기회',
+    panelSub:'호르무즈 봉쇄 = LNG선 수요 급증. 후판 원가 상승은 리스크.',
+    materials:[
+      {name:'LNG 운반선 수주', status:'🟢 급증 중', note:'대체 수송 수요↑'},
+      {name:'후판 (열연강판)', status:'🟡 원가↑', note:'철강사 협상 중'},
+      {name:'선박 보험료', status:'🔴 급등', note:'WRS 1.8% 초과'},
+      {name:'VLCC·LNG선 운임', status:'🟢 급등', note:'발주 문의 급증'},
+    ],
+    topChokepoints:['korea','malacca'],
+    insight:'⚠ 위험: 후판 원가 상승, 중동 OEM 선주 신규 발주 지연.\n🟢 기회: 호르무즈 우회로 LNG 운반선 추가 수요 폭발. 카타르·호주 LNG 우회선 수요 급증. 지금이 장기 수주 확보 적기.',
+  },
+  chem: {
+    name:'석유화학', color:'#ff4444',
+    banner:'⚗️ <strong style="color:#fca5a5">석유화학 업종 뷰</strong> — LG화학·롯데케미칼·금호석유 기준. 나프타 원료의 95%+ 중동 의존. 호르무즈 봉쇄 직격 업종.',
+    bannerBg:'rgba(255,68,68,.1)', bannerBorder:'rgba(255,68,68,.25)',
+    nodeWeights:{hormuz:1.8,suez:1.0,malacca:1.3,taiwan:0.5,panama:0.6,korea:0.8},
+    panelTitle:'석유화학 공급망 리스크',
+    panelSub:'나프타 중동 의존 95%. 호르무즈가 최고 위험 요소.',
+    materials:[
+      {name:'나프타 (중동산)', status:'🔴 공급 차질', note:'호르무즈 직격'},
+      {name:'에틸렌 스프레드', status:'🔴 급락', note:'원가↑ 수요↓'},
+      {name:'프로필렌', status:'🔴 원가 급등', note:'PP 마진 압박'},
+      {name:'MEG (에틸렌글리콜)', status:'🟡 공급 타이트', note:'중국발 수요 감소'},
+    ],
+    topChokepoints:['hormuz','malacca'],
+    insight:'5개 업종 중 가장 직접적 피해. 나프타 원가가 제품 원가의 80%+. 호르무즈 봉쇄 1개월 지속 시 에틸렌 크래커 가동률 조정 불가피. 중동 직도입 계약 비중 축소 검토 필요.',
+  },
+};
+
+let currentIndustry = 'all';
+
+function switchIndustry(indId, btn){
+  currentIndustry = indId;
+  document.querySelectorAll('.ind-tab').forEach(t=>t.classList.remove('active'));
+  if(btn) btn.classList.add('active');
+
+  const ind = INDUSTRIES[indId];
+  if(!ind) return;
+
+  // Banner
+  const banner = document.getElementById('ind-banner');
+  if(ind.banner){
+    banner.style.cssText = `display:block;position:fixed;top:92px;left:0;right:var(--panel);padding:7px 20px;font-size:12px;line-height:1.5;z-index:800;background:${ind.bannerBg};border-bottom:1px solid ${ind.bannerBorder};backdrop-filter:blur(10px);`;
+    banner.innerHTML = ind.banner + `<button onclick="switchIndustry('all',document.querySelector('.ind-tab[data-ind=all]'))" style="float:right;font-family:var(--mono);font-size:9px;padding:2px 8px;border-radius:2px;border:1px solid var(--border);background:transparent;color:var(--dim);cursor:pointer;">✕ 초기화</button>`;
+    document.getElementById('map').style.top = '128px';
+    document.getElementById('panel').style.top = '128px';
+    if(document.getElementById('cascade-panel')) document.getElementById('cascade-panel').style.bottom = '20px';
+  } else {
+    banner.style.display = 'none';
+    document.getElementById('map').style.top = 'var(--top)';
+    document.getElementById('panel').style.top = 'var(--top)';
+  }
+
+  // Panel title
+  const pdTitle = document.querySelector('.pd-title');
+  const pdSub   = document.querySelector('.pd-sub');
+  if(pdTitle) pdTitle.textContent = ind.panelTitle || 'ChokepointLive';
+  if(pdSub)   pdSub.textContent   = ind.panelSub   || '';
+
+  // Reset to default view
+  showDefault();
+
+  // Markers
+  resetMarkers();
+  if(indId !== 'all' && ind.nodeWeights){
+    NODES.forEach(n=>{
+      const weight  = ind.nodeWeights[n.id] || 1.0;
+      const opacity = weight >= 0.9 ? 1 : 0.3;
+      const c = COLORS[n.zone];
+      const size = n.size;
+      const totalW = size * 2.8;
+      const coreW  = Math.round(size * 1.15 * Math.min(weight, 1.4));
+      const coreTop = (totalW - coreW) / 2;
+      const sym = n.zone==='red'?'!':n.zone==='amber'?'▲':'●';
+      const rings = (n.zone==='red'?3:n.zone==='amber'?2:1);
+      let rh = '';
+      for(let i=0;i<rings;i++){
+        const w=size*2.2+i*4, t=(size*2.8-w)/2;
+        rh+=`<div class="mk-ring mk-ring${i+1}" style="width:${w}px;height:${w}px;top:${t}px;left:${t}px;border-color:${c};opacity:${weight>=1.0?1:0.3}"></div>`;
+      }
+      const icon = L.divIcon({
+        html:`<div class="mk-wrap" style="width:${totalW}px;height:${totalW+28}px;opacity:${opacity}">
+          ${rh}
+          <div class="mk-core" style="width:${coreW}px;height:${coreW}px;top:${coreTop}px;left:${coreTop}px;position:absolute;background:${c};box-shadow:0 0 ${weight>=1.3?'16px':'8px'} ${c}${weight>=1.3?'99':'44'}">
+            <span>${sym}</span>
+          </div>
+          <div class="mk-label" style="color:${c};text-shadow:0 1px 3px rgba(0,0,0,.9)">${n.label}</div>
+        </div>`,
+        className:'',
+        iconSize:[totalW,totalW+28],
+        iconAnchor:[totalW/2,totalW/2],
+      });
+      leafletMarkers[n.id].setIcon(icon);
+    });
+  }
+
+  // Material panel
+  const exMat = document.getElementById('material-panel');
+  if(exMat) exMat.remove();
+  if(ind.materials && ind.materials.length){
+    const pdRule = document.querySelector('.pd-rule');
+    if(pdRule){
+      const div = document.createElement('div');
+      div.id = 'material-panel'; div.style.marginBottom = '16px';
+      div.innerHTML = `<div class="pd-label">주요 원료·지표 현황</div>
+        <div style="display:flex;flex-direction:column;gap:5px">
+          ${ind.materials.map(m=>`
+            <div style="display:flex;justify-content:space-between;align-items:center;padding:7px 10px;background:var(--bg3);border:1px solid var(--border);border-radius:2px">
+              <span style="font-size:11px;color:var(--text)">${m.name}</span>
+              <div style="text-align:right">
+                <div style="font-size:10px;font-weight:500;font-family:var(--mono)">${m.status}</div>
+                <div style="font-size:9px;color:var(--dim)">${m.note}</div>
+              </div>
+            </div>`).join('')}
+        </div>`;
+      pdRule.before(div);
+    }
+  }
+
+  // Insight panel
+  const exIns = document.getElementById('insight-panel');
+  if(exIns) exIns.remove();
+  if(ind.insight){
+    const pdRules = document.querySelectorAll('.pd-rule');
+    const target  = pdRules[pdRules.length-1];
+    if(target){
+      const div = document.createElement('div');
+      div.id = 'insight-panel'; div.style.marginBottom = '16px';
+      div.innerHTML = `<div class="pd-label">업종 인사이트</div>
+        <div style="font-size:12px;color:var(--muted);line-height:1.75;white-space:pre-line;padding:10px 12px;background:var(--bg3);border:1px solid var(--border);border-radius:2px">${ind.insight}</div>`;
+      target.before(div);
+    }
+  }
+}
+
+// ── AUTO-OPEN HORMUZ ─────────────────────────────────────────────
+setTimeout(()=>{
+  map.flyTo([26.6,56.5],4,{duration:2});
+  setTimeout(()=>showDetail('hormuz'),2000);
+},800);
 </script>
 </body>
 </html>
