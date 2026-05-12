@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-12T16:37:09.116Z",
+    "generated_at": "2026-05-12T21:47:22.105Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -18,84 +18,84 @@
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
-      "price_index": null,
-      "change_pct": null,
-      "date": null,
+      "price_index": 17.67,
+      "change_pct": 57.9,
+      "date": "2026-03-01",
       "unit": "USD/MMBtu (EU nat-gas proxy)"
     }
   },
   "news": {
     "hormuz": [
       {
-        "title": "US-Iran ceasefire 'on life support' with energy woes to continue in 2027",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-05-12/us-iran-reach-stalemate-in-war-negotiations/106668284",
-        "published": "2026-05-11T16:21:31Z",
+        "title": "Trump says Iran ceasefire is 'on life support' as hopes for a deal fade",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/trump-says-iran-ceasefire-is-%27on-life-support%27-as-hopes-for-a-deal-fade",
+        "published": "2026-05-11T21:30:30Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Why does Modi want Indians to curb their gold obsession?",
-        "source": "RT",
-        "url": "https://www.rt.com/india/639865-why-does-modi-wants-indians/",
-        "published": "2026-05-11T16:20:18Z",
+        "title": "Iran’s ‘unacceptable’ deal means US must open the Strait of Hormuz by force",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/05/11/opinion/irans-unacceptable-deal-means-us-must-open-the-strait-of-hormuz-by-force/",
+        "published": "2026-05-11T21:22:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump says Iran ceasefire is 'on life support' after rejecting Tehran's counter proposal",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/11/trump-iran-war-ceasefire-life-support.html",
-        "published": "2026-05-11T16:17:26Z",
-        "sentiment": "neutral"
+        "title": "Aramco CEO forecasts oil market recovery extending to 2027 amid disruptions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/aramco-ceo-forecasts-oil-market-recovery-extending-to-2027-amid-disruptions/",
+        "published": "2026-05-11T21:05:12Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Trump Says US-Iran Ceasefire on ‘Massive Life Support’",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/trump-says-us-iran-ceasefire-on-massive-life-support",
-        "published": "2026-05-11T16:14:00Z",
-        "sentiment": "neutral"
+        "title": "Oil rises, stocks mostly higher on US-Iran deadlock",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/stocks-oil-price-us-china-meeting-iran-war-peace-proposal-6114571",
+        "published": "2026-05-11T21:04:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Jet Fuel Shortage Deepens Pressure on Global Airlines",
+        "title": "Who’s Going To Fold First In The U.S.–Iran High Stakes Game?",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Jet-Fuel-Shortage-Deepens-Pressure-on-Global-Airlines.html",
-        "published": "2026-05-11T16:00:00Z",
+        "url": "https://oilprice.com/Energy/Energy-General/Whos-Going-To-Fold-First-In-The-USIran-High-Stakes-Game.html",
+        "published": "2026-05-11T21:00:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
+        "title": "This week Bitcoin faces as a new fed chair colliding with inflation in its biggest macro test of the year",
+        "source": "CryptoSlate",
+        "url": "https://cryptoslate.com/bitcoin-faces-its-biggest-scheduled-macro-test-of-2026-as-new-fed-chair-collides-with-inflation/",
+        "published": "2026-05-11T19:15:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Mediator Pakistan allowed Iran to park military aircraft on its airfields",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/pakistan-iran-military-aircraft-on-its-airfields-us-mediator-role/",
+        "published": "2026-05-11T18:58:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump and Xi may meet 4 times in the next 8 months as Air Force One heads to Beijing",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/05/11/trump-and-xi-may-meet-4-times-in-the-next-8-months-as-air-force-one-heads-to-beijing/",
+        "published": "2026-05-11T17:29:05Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump prepares for Beijing visit to negotiate with Xi on grand bargain",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-beijing-visit-xi-grand-bargain/",
+        "published": "2026-05-11T16:38:34Z",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Trump Has Gone From Unpredictable to Unreliable",
         "source": "The Atlantic",
         "url": "https://www.theatlantic.com/national-security/2026/05/trump-has-gone-unpredictable-unreliable/687129/",
         "published": "2026-05-11T13:30:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran war could make Trump's trip to China a bit chillier than his first-term visit",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/iran-war-make-trumps-trip-china-bit-chillier-132823234",
-        "published": "2026-05-11T13:13:21Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "When titans talk: What’s at stake for Trump’s China visit?",
-        "source": "RT",
-        "url": "https://www.rt.com/news/639861-trump-xi-summit-explainer/",
-        "published": "2026-05-11T13:10:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "ICYMI: Ranking Member Shaheen, Senator Curtis Pen Economist Op-Ed Defending U.S. Commitments in the Indo-Pacific Ahead of Trump-Xi Summit",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/05/china-260511-sfrc01.htm",
-        "published": "2026-05-11T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why Iran Can’t Be Bombed, Invaded, or Nuked Into Submission",
-        "source": "Activistpost.com",
-        "url": "https://www.activistpost.com/why-iran-cant-be-bombed-invaded-or-nuked-into-submission/",
-        "published": "2026-05-11T10:00:00Z",
         "sentiment": "watch"
       }
     ],
