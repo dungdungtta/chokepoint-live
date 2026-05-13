@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-13T08:21:55.670Z",
+    "generated_at": "2026-05-13T16:41:22.787Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -12,9 +12,9 @@
       "unit": "USD/bbl"
     },
     "freight": {
-      "freight_index": 174.3,
-      "change_pct": 1.4,
-      "date": "2026-03-01",
+      "freight_index": 183.2,
+      "change_pct": 4.5,
+      "date": "2026-04-01",
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
@@ -27,76 +27,76 @@
   "news": {
     "hormuz": [
       {
-        "title": "Why are oil prices up today, and will Brent crude futures and US WTI rates rise sharply in near future? Oil rises as supply fears return",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-up-today-and-will-brent-crude-futures-and-us-wti-rates-rise-sharply-in-near-future-oil-rises-as-supply-fears-return/articleshow/131033133.cms",
-        "published": "2026-05-12T08:18:14Z",
+        "title": "Kuwait says it foils infiltration operation by Iran’s IRGC",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/12/kuwait-says-it-foils-infiltration-operation-by-irans-irgc",
+        "published": "2026-05-12T16:26:35Z",
         "sentiment": "watch"
       },
       {
-        "title": "Calbee chips switch to black-and-white packaging thanks to Middle East supply disruptions",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/05/12/asia/calbee-chips-japan-packaging-middle-east-war-intl-hnk",
-        "published": "2026-05-12T08:07:48Z",
+        "title": "U.S. indicts 2 companies, ship employee for deadly 2024 Baltimore bridge collapse",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/us-baltimore-dali-scott-key-bridge-indictments-maryland-9.7196470",
+        "published": "2026-05-12T16:21:10Z",
         "sentiment": "watch"
       },
       {
-        "title": "Missiles over Dubai rattle the Gulf’s billion-dollar money machine",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/uae/missiles-over-dubai-rattle-the-gulfs-billion-dollar-money-machine-dubai-property-uae-deal-ipo-market/articleshow/131031967.cms",
-        "published": "2026-05-12T08:00:40Z",
+        "title": "Q4 Results Today Highlights: MobiKwik Q4 profit dips q-o-q, Tata Power, Dr Reddy's, Torrent Power, Dixon Tech, Max Financial, Berger Paints, Pfizer, Sagility, MTAR Tech, V-Guard, Inox India, Nazara, Texmaco Rail announce Q4 results",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/q4-results-today-highlights-tata-power-dr-reddys-torrent-power-dixon-max-financial-berger-pfizer-sagility-mtar-nazara-texmaco-inox-canara-bank-jsw-jbm-nuvama-results-12-may-2026/article70968213.ece",
+        "published": "2026-05-12T16:17:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "Petroleum coke shortage may hit aluminium production outside Gulf too: JP Morgan",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/petroleum-coke-shortage-may-hit-aluminium-production-outside-gulf-too-jp-morgan/articleshow/131032035.cms",
-        "published": "2026-05-12T07:36:39Z",
+        "title": "Kazakh CPC Oil Exports to Drop as Europe Faces Tight Supplies",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/kazakh-cpc-oil-exports-to-drop-as-europe-faces-tight-supplies",
+        "published": "2026-05-12T16:12:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "Global Markets | Australian shares fall for third day as banks weigh ahead of federal budget",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-fall-for-third-day-as-banks-weigh-ahead-of-federal-budget/articleshow/131032053.cms",
-        "published": "2026-05-12T07:34:39Z",
+        "title": "Iran Butters Up China as Trump Flies to Beijing",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/05/12/iran-butters-up-china-as-trump-flies-to-beijing/",
+        "published": "2026-05-12T16:03:54Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "As Trump and Xi meet in Beijing, the biggest 'win' may be the summit itself",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/trump-xi-china-visit-9.7195663",
-        "published": "2026-05-12T08:00:00Z",
+        "title": "Trump-Xi meeting: Could China, US form a ‘G2’?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/12/trump-xi-meeting-could-china-us-form-a-g2",
+        "published": "2026-05-12T14:14:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "What to know about Trump-Xi summit with trade, Taiwan and Iran on the agenda",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/trump-xi-summit-trade-taiwan-iran-agenda-132866731",
-        "published": "2026-05-12T06:18:11Z",
+        "title": "Trump-Xi summit: High stakes for the US, China and the world",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/trump-xi-summit-high-stakes-for-the-us-china-and-the-world/a-77134255",
+        "published": "2026-05-12T14:02:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Five things to watch in Asia as Trump prepares to meet China's Xi this week",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/12/tump-xi-china-summit-taiwan-iran-trade.html",
-        "published": "2026-05-12T02:47:29Z",
+        "title": "US-China summit could reshape global power",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/us-china-trump-xi-geopolitics-trade-economy-iran-war-strait-of-hormuz-taiwan/a-77134255",
+        "published": "2026-05-12T14:02:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump heads to Beijing to confront Xi over Iran arms transfers",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-beijing-xi-iran-arms-transfers/",
-        "published": "2026-05-12T02:44:16Z",
+        "title": "Greene, Ingraham alarmed at potential Trump-Xi $1 trillion investment deal",
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/administration/5873799-trump-china-deal-concerns/",
+        "published": "2026-05-12T13:52:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Iran War And The Coming Global Struggle",
-        "source": "Civitasinstitute.org",
-        "url": "https://www.civitasinstitute.org/research/the-iran-war-and-the-coming-global-struggle",
-        "published": "2026-05-12T00:00:00Z",
-        "sentiment": "danger"
+        "title": "Iran, Taiwan, And Trade Tensions: What To Expect At The Trump-Xi Summit",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/05/china-260512-rferl01.htm",
+        "published": "2026-05-12T12:00:00Z",
+        "sentiment": "watch"
       }
     ],
     "malacca": [
