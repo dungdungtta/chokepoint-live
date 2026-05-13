@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-05-13T16:41:22.787Z",
+    "generated_at": "2026-05-13T21:55:53.660Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 118.26,
-      "change_pct": -4.8,
-      "date": "2026-05-01",
+      "price": 111.37,
+      "change_pct": 5,
+      "date": "2026-05-12",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,75 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "Kuwait says it foils infiltration operation by Iran’s IRGC",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/12/kuwait-says-it-foils-infiltration-operation-by-irans-irgc",
-        "published": "2026-05-12T16:26:35Z",
+        "title": "Hegseth gets bipartisan grilling on rising costs of the Iran war and Trump's end game",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/hegseth-is-facing-a-new-round-of-questioning-from-congress-on-the-iran-war-and-more",
+        "published": "2026-05-12T21:37:06Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Saudi Arabia launched numerous covert attacks on Iran as war expands, sources say",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/05/12/world-news/saudi-arabia-launched-covert-attacks-on-iran-as-war-expands-sources-say/",
+        "published": "2026-05-12T21:30:20Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump Shrugs Off Americans’ “Financial Situation” After Inflation Report Release",
+        "source": "Truthout",
+        "url": "https://truthout.org/articles/trump-shrugs-off-americans-financial-situation-after-inflation-report-release/",
+        "published": "2026-05-12T21:09:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "U.S. indicts 2 companies, ship employee for deadly 2024 Baltimore bridge collapse",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/us-baltimore-dali-scott-key-bridge-indictments-maryland-9.7196470",
-        "published": "2026-05-12T16:21:10Z",
+        "title": "Searing U.S. energy prices are driving the hottest inflation in years",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/cpi-inflation-iran-war-gas-prices-energy/",
+        "published": "2026-05-12T20:19:57Z",
         "sentiment": "watch"
       },
       {
-        "title": "Q4 Results Today Highlights: MobiKwik Q4 profit dips q-o-q, Tata Power, Dr Reddy's, Torrent Power, Dixon Tech, Max Financial, Berger Paints, Pfizer, Sagility, MTAR Tech, V-Guard, Inox India, Nazara, Texmaco Rail announce Q4 results",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/q4-results-today-highlights-tata-power-dr-reddys-torrent-power-dixon-max-financial-berger-pfizer-sagility-mtar-nazara-texmaco-inox-canara-bank-jsw-jbm-nuvama-results-12-may-2026/article70968213.ece",
-        "published": "2026-05-12T16:17:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Kazakh CPC Oil Exports to Drop as Europe Faces Tight Supplies",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/kazakh-cpc-oil-exports-to-drop-as-europe-faces-tight-supplies",
-        "published": "2026-05-12T16:12:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran Butters Up China as Trump Flies to Beijing",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/05/12/iran-butters-up-china-as-trump-flies-to-beijing/",
-        "published": "2026-05-12T16:03:54Z",
-        "sentiment": "watch"
+        "title": "Ship operators fears fuel shortages as Iran war squeezes supply",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/economy/ship-operators-fears-fuel-shortages-as-iran-war-squeezes-supply",
+        "published": "2026-05-12T20:18:01Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
       {
-        "title": "Trump-Xi meeting: Could China, US form a ‘G2’?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/12/trump-xi-meeting-could-china-us-form-a-g2",
-        "published": "2026-05-12T14:14:11Z",
+        "title": "Asia Isn’t as Peaceful as It Seems",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/05/12/trump-xi-iran-asia-indo-pacific/",
+        "published": "2026-05-12T19:07:57Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump-Xi summit: High stakes for the US, China and the world",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/trump-xi-summit-high-stakes-for-the-us-china-and-the-world/a-77134255",
-        "published": "2026-05-12T14:02:00Z",
+        "title": "Can China's Xi rescue Trump from a bruising West Asia war?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/can-chinas-xi-rescue-trump-from-a-bruising-west-asia-war/articleshow/131047575.cms",
+        "published": "2026-05-12T18:17:02Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Port of LA Chief Says Shipping Confidence in Strait of Hormuz ‘Not There Yet’",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/port-of-los-angeles-april-cargo-volumes-iran-war-1238951660/",
+        "published": "2026-05-12T18:10:04Z",
         "sentiment": "watch"
       },
       {
-        "title": "US-China summit could reshape global power",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/us-china-trump-xi-geopolitics-trade-economy-iran-war-strait-of-hormuz-taiwan/a-77134255",
-        "published": "2026-05-12T14:02:00Z",
+        "title": "Trump’s China policy is nearly the exact opposite of what everyone expected",
+        "source": "Vox",
+        "url": "https://www.vox.com/politics/488386/trumps-china-policy-is-nearly-the-exact-opposite-of-what-everyone-expected",
+        "published": "2026-05-12T17:32:23Z",
         "sentiment": "watch"
       },
       {
-        "title": "Greene, Ingraham alarmed at potential Trump-Xi $1 trillion investment deal",
-        "source": "The Hill",
-        "url": "https://thehill.com/homenews/administration/5873799-trump-china-deal-concerns/",
-        "published": "2026-05-12T13:52:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran, Taiwan, And Trade Tensions: What To Expect At The Trump-Xi Summit",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/05/china-260512-rferl01.htm",
-        "published": "2026-05-12T12:00:00Z",
+        "title": "Hormuz deadlock pushes oil prices higher as hopes for peace deal dwindle",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/05/12/hormuz-deadlock-pushes-oil-prices-higher-as-hopes-for-peace-deal-dwindle/",
+        "published": "2026-05-12T17:25:00Z",
         "sentiment": "watch"
       }
     ],
