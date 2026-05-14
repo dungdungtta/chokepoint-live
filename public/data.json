@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-13T21:55:53.660Z",
+    "generated_at": "2026-05-14T08:11:41.493Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,75 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "Hegseth gets bipartisan grilling on rising costs of the Iran war and Trump's end game",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/hegseth-is-facing-a-new-round-of-questioning-from-congress-on-the-iran-war-and-more",
-        "published": "2026-05-12T21:37:06Z",
+        "title": "Iran war day 75: Trump-Xi talks loom in Beijing as tensions rise in Gulf",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/13/iran-war-day-75-trump-xi-talks-loom-in-beijing-as-tensions-rise-in-gulf",
+        "published": "2026-05-13T07:45:44Z",
         "sentiment": "danger"
       },
       {
-        "title": "Saudi Arabia launched numerous covert attacks on Iran as war expands, sources say",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/05/12/world-news/saudi-arabia-launched-covert-attacks-on-iran-as-war-expands-sources-say/",
-        "published": "2026-05-12T21:30:20Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump Shrugs Off Americans’ “Financial Situation” After Inflation Report Release",
-        "source": "Truthout",
-        "url": "https://truthout.org/articles/trump-shrugs-off-americans-financial-situation-after-inflation-report-release/",
-        "published": "2026-05-12T21:09:00Z",
+        "title": "US State Department offers $15 million bounty for insights on Iran's IRGC funding networks",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-state-department-offers-15-million-bounty-for-insights-on-irans-irgc-funding-networks/articleshow/131058682.cms",
+        "published": "2026-05-13T07:44:20Z",
         "sentiment": "watch"
       },
       {
-        "title": "Searing U.S. energy prices are driving the hottest inflation in years",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/cpi-inflation-iran-war-gas-prices-energy/",
-        "published": "2026-05-12T20:19:57Z",
+        "title": "Pakistan’s New Logic of Limited War May Not Keep War Limited",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/pakistans-new-logic-of-limited-war-may-not-keep-war-limited/",
+        "published": "2026-05-13T07:15:11Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump and Xi to meet in Beijing: The key issues shaping the China summit",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/5/13/trump-and-xi-to-meet-in-beijing-the-key-issues-shaping-the-china-summit",
+        "published": "2026-05-13T07:08:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "Ship operators fears fuel shortages as Iran war squeezes supply",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/economy/ship-operators-fears-fuel-shortages-as-iran-war-squeezes-supply",
-        "published": "2026-05-12T20:18:01Z",
-        "sentiment": "danger"
+        "title": "TORM plc Q1 2026 Results, Dividend Distribution, and Financial Outlook 2026",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/torm-plc-q1-2026-results-dividend-distribution-and-financial-outlook-2026-302770620.html",
+        "published": "2026-05-13T07:04:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "Asia Isn’t as Peaceful as It Seems",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/05/12/trump-xi-iran-asia-indo-pacific/",
-        "published": "2026-05-12T19:07:57Z",
+        "title": "The agenda at the Xi–Trump meeting: The semi-closed Strait of Hormuz, pressure on the White House, and China as the “responsible player”",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/05/13/the-agenda-at-the-xi-trump-meeting-the-semi-closed-strait-of-hormuz-pressure-on-the-white-house-and-china-as-the-responsible-player/",
+        "published": "2026-05-13T07:51:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Can China's Xi rescue Trump from a bruising West Asia war?",
+        "title": "China’s Xi expected to press Trump on Taiwan, tariffs during summit",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/13/chinas-xi-to-press-trump-on-taiwan-tariffs-during-summit",
+        "published": "2026-05-13T07:48:54Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Missing Navies: The Hormuz Crisis and the Limits of America’s Indo-Pacific Partnerships",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/the-missing-navies-the-hormuz-crisis-and-the-limits-of-americas-indo-pacific-partnerships/",
+        "published": "2026-05-13T07:30:28Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump and Xi to meet in Beijing: The key issues shaping the China summit",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/5/13/trump-and-xi-to-meet-in-beijing-the-key-issues-shaping-the-china-summit",
+        "published": "2026-05-13T07:08:18Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump-Xi summit: What to expect as US-China ties, Trade, Taiwan and Iran on the agenda",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/can-chinas-xi-rescue-trump-from-a-bruising-west-asia-war/articleshow/131047575.cms",
-        "published": "2026-05-12T18:17:02Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Port of LA Chief Says Shipping Confidence in Strait of Hormuz ‘Not There Yet’",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/port-of-los-angeles-april-cargo-volumes-iran-war-1238951660/",
-        "published": "2026-05-12T18:10:04Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump’s China policy is nearly the exact opposite of what everyone expected",
-        "source": "Vox",
-        "url": "https://www.vox.com/politics/488386/trumps-china-policy-is-nearly-the-exact-opposite-of-what-everyone-expected",
-        "published": "2026-05-12T17:32:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hormuz deadlock pushes oil prices higher as hopes for peace deal dwindle",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/05/12/hormuz-deadlock-pushes-oil-prices-higher-as-hopes-for-peace-deal-dwindle/",
-        "published": "2026-05-12T17:25:00Z",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-xi-summit-what-to-expect-as-us-china-ties-trade-taiwan-and-iran-on-the-agenda/articleshow/131055979.cms",
+        "published": "2026-05-13T05:56:34Z",
         "sentiment": "watch"
       }
     ],
