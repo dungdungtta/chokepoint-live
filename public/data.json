@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-14T16:21:58.936Z",
+    "generated_at": "2026-05-14T20:59:55.746Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,68 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran seeks India’s role in West Asia peace efforts ahead of BRICS meet; plans new Hormuz shipping framework",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/india/iran-seeks-indias-role-in-west-asia-peace-efforts-ahead-of-brics-meet-plans-new-hormuz-shipping-framework/articleshow/131070482.cms",
-        "published": "2026-05-13T16:11:38Z",
+        "title": "472 Hemi–Powered, 31-Years-Owned 1966 Plymouth Satellite Hardtop",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1966-plymouth-satellite-14-2/",
+        "published": "2026-05-13T20:27:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "Gas-Powered Car Sales in China Have Collapsed Amid Rising Fuel Costs",
-        "source": "Gizmodo.com",
-        "url": "https://gizmodo.com/gas-powered-car-sales-in-china-have-collapsed-amid-rising-fuel-costs-2000758098",
-        "published": "2026-05-13T15:50:00Z",
+        "title": "Middle East conflict closes Strait of Hormuz, spikes crude oil prices",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/middle-east-conflict-closes-strait-of-hormuz-spikes-crude-oil-prices/",
+        "published": "2026-05-13T20:26:25Z",
         "sentiment": "watch"
       },
       {
-        "title": "Wholesale inflation surges 6% — biggest increase since 2022: ‘Alarm bells at the Fed’",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/05/13/business/wholesale-inflation-surges-6-biggest-increase-since-2022-alarm-bells-at-the-fed/",
-        "published": "2026-05-13T15:17:07Z",
+        "title": "Okeanis Eco Tankers Corp. Reports Financial Results for the First Quarter of 2026",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/05/13/3294455/0/en/Okeanis-Eco-Tankers-Corp-Reports-Financial-Results-for-the-First-Quarter-of-2026.html",
+        "published": "2026-05-13T20:15:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Russia and the China-US Summit",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/05/russia-and-the-china-us-summit/",
-        "published": "2026-05-13T15:12:00Z",
+        "title": "UK deploys HMS Dragon to Strait of Hormuz amid rising tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/uk-deploys-hms-dragon-to-strait-of-hormuz-amid-rising-tensions-2/",
+        "published": "2026-05-13T20:04:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "TANVI RATNA: Europe says Trump made America unreliable. The truth is tougher",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/tanvi-ratna-europe-says-trump-made-america-unreliable-truth-tougher",
-        "published": "2026-05-13T14:45:55Z",
+        "title": "Iran Makes Hormuz Passage a Case-by-Case Deal",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Iran-Makes-Hormuz-Passage-a-Case-by-Case-Deal.html",
+        "published": "2026-05-13T20:00:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "WATCH LIVE: Trump and Xi hold meeting as China state visit begins",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/world/watch-live-trump-and-xi-hold-meeting-as-china-state-visit-begins",
-        "published": "2026-05-13T15:27:34Z",
-        "sentiment": "watch"
+        "title": "Navy SEAL veteran warns China, Russia are watching US-Iran war to gauge American military strength",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/media/navy-seal-veteran-warns-china-russia-watching-us-iran-war-gauge-american-military-strength",
+        "published": "2026-05-13T20:47:08Z",
+        "sentiment": "danger"
       },
       {
-        "title": "10 Key Things to Know About Trump-Xi Summit in Beijing as High-Stakes Talks Begin",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/trump-xi-beijing-summit-trade-tech-tensions-1868752",
-        "published": "2026-05-13T15:23:55Z",
+        "title": "The Irish Times view on the Trump/Xi summit: Iran war hangs over vital talks",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/opinion/editorials/2026/05/13/the-irish-times-view-on-the-trumpxi-summit-iran-war-hangs-over-vital-talks/",
+        "published": "2026-05-13T19:52:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US-China talks in Beijing expose fragile balance of global power",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/us-china-talks-in-beijing-expose-fragile-balance-of-global-power/articleshow/131075960.cms",
+        "published": "2026-05-13T19:12:25Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Russia and the China-US Summit",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/05/russia-and-the-china-us-summit/",
-        "published": "2026-05-13T15:12:00Z",
+        "title": "Trump asks Xi to ‘open up’ China so that ‘brilliant people can work their magic’",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/05/13/trump-asks-xi-to-open-up-china-so-that-brilliant-people-can-work-their-magic/",
+        "published": "2026-05-13T17:38:25Z",
         "sentiment": "watch"
       },
       {
-        "title": "Taiwan Thanks US For Military Aid Amid Trump’s China Summit",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/05/13/taiwan-us-trump-china-xi-summit/",
-        "published": "2026-05-13T14:36:46Z",
+        "title": "Trump-Xi summit: China’s help in Iran may require US concessions",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/13/trump-xi-summit-chinas-help-in-iran-may-require-us-concessions",
+        "published": "2026-05-13T17:27:09Z",
         "sentiment": "watch"
       }
     ],
