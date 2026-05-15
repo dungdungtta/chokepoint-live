@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-14T20:59:55.746Z",
+    "generated_at": "2026-05-15T00:13:58.450Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,63 @@
   "news": {
     "hormuz": [
       {
-        "title": "472 Hemi–Powered, 31-Years-Owned 1966 Plymouth Satellite Hardtop",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1966-plymouth-satellite-14-2/",
-        "published": "2026-05-13T20:27:24Z",
+        "title": "The Iran Stalemate",
+        "source": "Substack.com",
+        "url": "https://niallferguson.substack.com/p/the-iran-stalemate",
+        "published": "2026-05-14T00:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Middle East conflict closes Strait of Hormuz, spikes crude oil prices",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/middle-east-conflict-closes-strait-of-hormuz-spikes-crude-oil-prices/",
-        "published": "2026-05-13T20:26:25Z",
+        "title": "Kuwait Accuses Iran of Attacking Island with Chinese-Funded Port",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/05/13/kuwait-accuses-iran-of-attacking-island-with-chinese-funded-port/",
+        "published": "2026-05-13T23:06:39Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Nikkiso Signs Agreement With Maran Tankers Management to Provide Aftermarket Service Support",
+        "source": "Antaranews.com",
+        "url": "https://en.antaranews.com/news/415689/nikkiso-signs-agreement-with-maran-tankers-management-to-provide-aftermarket-service-support",
+        "published": "2026-05-13T22:41:29Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "You can make an app for that",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution",
+        "published": "2026-05-13T22:01:56Z",
         "sentiment": "watch"
       },
       {
-        "title": "Okeanis Eco Tankers Corp. Reports Financial Results for the First Quarter of 2026",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/05/13/3294455/0/en/Okeanis-Eco-Tankers-Corp-Reports-Financial-Results-for-the-First-Quarter-of-2026.html",
-        "published": "2026-05-13T20:15:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "UK deploys HMS Dragon to Strait of Hormuz amid rising tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/uk-deploys-hms-dragon-to-strait-of-hormuz-amid-rising-tensions-2/",
-        "published": "2026-05-13T20:04:18Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran Makes Hormuz Passage a Case-by-Case Deal",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Iran-Makes-Hormuz-Passage-a-Case-by-Case-Deal.html",
-        "published": "2026-05-13T20:00:00Z",
+        "title": "Chinese Supertanker Transits Strait of Hormuz with Two Million Barrels of Iraqi Crude",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/asia/2026/05/13/chinese-supertanker-transits-strait-of-hormuz-with-two-million-barrels-of-iraqi-crude/",
+        "published": "2026-05-13T21:49:35Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Xi Jinping Wants Taiwan For Free Trump Must Hold The Line",
+        "source": "Unherd.com",
+        "url": "http://unherd.com/2026/05/xi-jinping-wants-taiwain-for-free/?edition=us",
+        "published": "2026-05-14T00:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump’s China strategy is closer to Kissinger than Biden",
+        "source": "RT",
+        "url": "https://www.rt.com/news/639958-trumps-china-strategy/",
+        "published": "2026-05-13T22:26:32Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil edges up ahead of Trump-Xi meeting in Beijing",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/oil-price-trump-xi-summit-china-us-6117306",
+        "published": "2026-05-13T21:05:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Navy SEAL veteran warns China, Russia are watching US-Iran war to gauge American military strength",
         "source": "Fox News",
@@ -76,27 +97,6 @@
         "url": "https://www.irishtimes.com/opinion/editorials/2026/05/13/the-irish-times-view-on-the-trumpxi-summit-iran-war-hangs-over-vital-talks/",
         "published": "2026-05-13T19:52:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "US-China talks in Beijing expose fragile balance of global power",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/us-china-talks-in-beijing-expose-fragile-balance-of-global-power/articleshow/131075960.cms",
-        "published": "2026-05-13T19:12:25Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Trump asks Xi to ‘open up’ China so that ‘brilliant people can work their magic’",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/05/13/trump-asks-xi-to-open-up-china-so-that-brilliant-people-can-work-their-magic/",
-        "published": "2026-05-13T17:38:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump-Xi summit: China’s help in Iran may require US concessions",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/13/trump-xi-summit-chinas-help-in-iran-may-require-us-concessions",
-        "published": "2026-05-13T17:27:09Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
