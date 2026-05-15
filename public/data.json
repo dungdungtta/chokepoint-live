@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-15T20:42:36.812Z",
+    "generated_at": "2026-05-15T23:41:21.303Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,63 @@
   "news": {
     "hormuz": [
       {
-        "title": "Chinese vessels exit Strait of Hormuz amid Beijing’s opposition to Iranian tolls",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/chinese-vessels-exit-strait-of-hormuz-amid-beijings-opposition-to-iranian-tolls/",
-        "published": "2026-05-14T20:38:04Z",
+        "title": "Oil prices ease as Hormuz shipping resumes",
+        "source": "The Punch",
+        "url": "https://punchng.com/oil-prices-ease-as-hormuz-shipping-resumes/",
+        "published": "2026-05-14T23:40:03Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "PurolatorONE Advanced Engine Protection Spin-On Oil Filter for Select Cars $2.75",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19521354-purolatorone-advanced-engine-protection-spin-on-oil-filter-for-select-cars-2-75",
+        "published": "2026-05-14T23:37:20Z",
         "sentiment": "watch"
       },
       {
-        "title": "‘A net positive’: Chinese supertanker glides through Hormuz blockade as White House touts ‘good’ talks in Beijing",
-        "source": "Wnd.com",
-        "url": "https://www.wnd.com/2026/05/net-positive-chinese-supertanker-glides-through-hormuz-blockade/",
-        "published": "2026-05-14T20:37:59Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Bipartisan Event Sounds Alarm About Long-Term Energy Aftershocks From Iran War",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/05/14/bipartisan-event-sounds-alarm-long-term-energy-aftershocks-from-iran-war/",
-        "published": "2026-05-14T20:33:57Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Polestar says ‘pump anxiety’ has replaced range anxiety. Its balance sheet tells a more complicated story.",
-        "source": "The Next Web",
-        "url": "https://thenextweb.com/news/polestar-pump-anxiety-ev-demand-iran-oil-crisis/",
-        "published": "2026-05-14T20:20:47Z",
+        "title": "CENTCOM Chief: Iran’s Forces ‘Severely Degraded,’ Terror Proxies ‘Cut Off’ — ‘Every Objective for Epic Fury Met’",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/05/14/centcom-chief-irans-forces-severely-degraded-terror-proxies-cut-off-every-objective-for-epic-fury-met/",
+        "published": "2026-05-14T23:26:35Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran is threatening undersea cables. The world’s ‘digital chokepoints’ have never been more vulnerable",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/iran-is-threatening-undersea-cables-the-worlds-digital-chokepoints-have-never-been-more-vulnerable-282425",
-        "published": "2026-05-14T20:09:54Z",
-        "sentiment": "danger"
+        "title": "Hormuz crisis shows clean energy is key to reducing the economic cost of fossil fuel dependence",
+        "source": "PR Newswire UK",
+        "url": "https://www.prnewswire.co.uk/news-releases/hormuz-crisis-shows-clean-energy-is-key-to-reducing-the-economic-cost-of-fossil-fuel-dependence-302772817.html",
+        "published": "2026-05-14T23:01:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Hormuz crisis shows clean energy is key to reducing the economic cost of fossil fuel dependence",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/hormuz-crisis-shows-clean-energy-is-key-to-reducing-the-economic-cost-of-fossil-fuel-dependence-302772817.html",
+        "published": "2026-05-14T23:01:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump Lavishes Praise On China’s Xi As Taiwan Hangs In The Balance",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/trump-china-taiwan_n_6a05f82ce4b0ee716970914d",
+        "published": "2026-05-14T21:30:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump Announces Chinese Investment in American Industry",
+        "source": "Daily Signal",
+        "url": "https://www.dailysignal.com/2026/05/14/trump-chinese-invest-us-industry/",
+        "published": "2026-05-14T20:49:45Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "White House: Trump and Xi Agreed on Trade, Energy, and Iran",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/asia/2026/05/14/white-house-trump-and-xi-agreed-on-trade-energy-and-iran/",
+        "published": "2026-05-14T20:46:44Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Day 1 of Beijing Summit Produces No Big Wins for Trump",
         "source": "Foreign Policy",
@@ -76,27 +97,6 @@
         "url": "https://www.dailymail.com/news/article-15817517/Marco-Rubio-reveals-Trump-Xi-meeting.html",
         "published": "2026-05-14T19:23:13Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Behind summit smiles, Xi gives blunt warning to Trump of 'clashes' and 'conflicts'",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/behind-summit-smiles-xi-gives-blunt-warning-trump-clashes-conflicts",
-        "published": "2026-05-14T19:10:39Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Xi tells Trump U.S. and China could clash over Taiwan",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/world/xi-tells-trump-u-s-and-china-could-clash-over-taiwan",
-        "published": "2026-05-14T18:31:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump praises strong Xi ties as Beijing trip wraps up",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/trump-praises-strong-xi-ties-as-beijing-trip-wraps-up/live-77140304",
-        "published": "2026-05-14T17:28:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
