@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-15T00:13:58.450Z",
+    "generated_at": "2026-05-15T10:03:00.841Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,76 +27,69 @@
   "news": {
     "hormuz": [
       {
-        "title": "The Iran Stalemate",
-        "source": "Substack.com",
-        "url": "https://niallferguson.substack.com/p/the-iran-stalemate",
-        "published": "2026-05-14T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Kuwait Accuses Iran of Attacking Island with Chinese-Funded Port",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/05/13/kuwait-accuses-iran-of-attacking-island-with-chinese-funded-port/",
-        "published": "2026-05-13T23:06:39Z",
+        "title": "Iran’s Hormuz closure threatens global trade, raises hunger crisis fears",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/irans-hormuz-closure-threatens-global-trade-raises-hunger-crisis-fears/",
+        "published": "2026-05-14T09:54:25Z",
         "sentiment": "danger"
       },
       {
-        "title": "Nikkiso Signs Agreement With Maran Tankers Management to Provide Aftermarket Service Support",
-        "source": "Antaranews.com",
-        "url": "https://en.antaranews.com/news/415689/nikkiso-signs-agreement-with-maran-tankers-management-to-provide-aftermarket-service-support",
-        "published": "2026-05-13T22:41:29Z",
-        "sentiment": "neutral"
+        "title": "Black Sea: The silent escalation threatening international shipping",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/05/14/black-sea-the-silent-escalation-threatening-international-shipping/",
+        "published": "2026-05-14T09:30:55Z",
+        "sentiment": "danger"
       },
       {
-        "title": "You can make an app for that",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution",
-        "published": "2026-05-13T22:01:56Z",
-        "sentiment": "watch"
+        "title": "Malaysia Warns of Surge in Iranian Ship-to-Ship Oil Transfers",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Malaysia-Warns-of-Surge-in-Iranian-Ship-to-Ship-Oil-Transfers.html",
+        "published": "2026-05-14T09:30:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Chinese Supertanker Transits Strait of Hormuz with Two Million Barrels of Iraqi Crude",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/asia/2026/05/13/chinese-supertanker-transits-strait-of-hormuz-with-two-million-barrels-of-iraqi-crude/",
-        "published": "2026-05-13T21:49:35Z",
-        "sentiment": "watch"
+        "title": "\"These Are So Tasty, I Look Forward To Having Them Every Day,\" Top 5 Gundry MD Mighty Reds Reviews 2026",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/these-are-so-tasty-i-look-forward-to-having-them-every-day-top-5-gundry-md-mighty-reds-reviews-2026-302772095.html",
+        "published": "2026-05-14T09:29:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Two India-bound LPG tankers transit through Strait of Hormuz amid US-Iran war",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/two-india-bound-lpg-tankers-transit-through-strait-of-hormuz/articleshow/131088639.cms",
+        "published": "2026-05-14T09:28:39Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
       {
-        "title": "Xi Jinping Wants Taiwan For Free Trump Must Hold The Line",
-        "source": "Unherd.com",
-        "url": "http://unherd.com/2026/05/xi-jinping-wants-taiwain-for-free/?edition=us",
-        "published": "2026-05-14T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump’s China strategy is closer to Kissinger than Biden",
-        "source": "RT",
-        "url": "https://www.rt.com/news/639958-trumps-china-strategy/",
-        "published": "2026-05-13T22:26:32Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil edges up ahead of Trump-Xi meeting in Beijing",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/oil-price-trump-xi-summit-china-us-6117306",
-        "published": "2026-05-13T21:05:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Navy SEAL veteran warns China, Russia are watching US-Iran war to gauge American military strength",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/media/navy-seal-veteran-warns-china-russia-watching-us-iran-war-gauge-american-military-strength",
-        "published": "2026-05-13T20:47:08Z",
+        "title": "Beijing Summit: Xi Issues Warning On Taiwan As Trump Praises ‘Great Leader’ (Live Updates)",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/05/14/beijing-summit-xi-issues-warning-on-taiwan-as-trump-praises-great-leader-live-updates/",
+        "published": "2026-05-14T09:56:16Z",
         "sentiment": "danger"
       },
       {
-        "title": "The Irish Times view on the Trump/Xi summit: Iran war hangs over vital talks",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/opinion/editorials/2026/05/13/the-irish-times-view-on-the-trumpxi-summit-iran-war-hangs-over-vital-talks/",
-        "published": "2026-05-13T19:52:00Z",
-        "sentiment": "danger"
+        "title": "President Xi Jinping Holds Talks with U.S. President Donald J. Trump",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/05/china-260514-prc-mofa01.htm",
+        "published": "2026-05-14T09:54:54Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Chinese officer goes viral for standing like a robot as Air Force One passes just a few meters away, internet has questions",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/chinese-officer-goes-viral-for-standing-like-a-robot-as-air-force-one-passes-just-a-few-meters-away-internet-has-questions/articleshow/131088838.cms",
+        "published": "2026-05-14T09:32:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan says no surprises from Trump-Xi summit, China should end military pressure",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/05/14/us-news/taiwan-says-no-surprises-from-trump-xi-summit-china-should-end-military-pressure/",
+        "published": "2026-05-14T09:23:29Z",
+        "sentiment": "watch"
       }
     ],
     "malacca": [
