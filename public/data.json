@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-15T16:29:45.517Z",
+    "generated_at": "2026-05-15T20:42:36.812Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,68 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "Pakistan is shaping up an idea that can worry India",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/islamic-nato-pakistan-saudi-pact-qatar-turkey-muslim-military-alliance-gulf-security-india-risks-middle-east-bloc-2026/articleshow/131097893.cms",
-        "published": "2026-05-14T16:15:48Z",
+        "title": "Chinese vessels exit Strait of Hormuz amid Beijing’s opposition to Iranian tolls",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/chinese-vessels-exit-strait-of-hormuz-amid-beijings-opposition-to-iranian-tolls/",
+        "published": "2026-05-14T20:38:04Z",
         "sentiment": "watch"
       },
       {
-        "title": "2k-Mile 2014 Honda CB1100 at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2014-honda-cb1100-11/",
-        "published": "2026-05-14T16:00:14Z",
+        "title": "‘A net positive’: Chinese supertanker glides through Hormuz blockade as White House touts ‘good’ talks in Beijing",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/05/net-positive-chinese-supertanker-glides-through-hormuz-blockade/",
+        "published": "2026-05-14T20:37:59Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Bipartisan Event Sounds Alarm About Long-Term Energy Aftershocks From Iran War",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/05/14/bipartisan-event-sounds-alarm-long-term-energy-aftershocks-from-iran-war/",
+        "published": "2026-05-14T20:33:57Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Polestar says ‘pump anxiety’ has replaced range anxiety. Its balance sheet tells a more complicated story.",
+        "source": "The Next Web",
+        "url": "https://thenextweb.com/news/polestar-pump-anxiety-ev-demand-iran-oil-crisis/",
+        "published": "2026-05-14T20:20:47Z",
         "sentiment": "watch"
       },
       {
-        "title": "Top Business & Market Headlines Today — BL Morning Report, May 15, 2026",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/multimedia/audio/bl-morning-report-may-15-2026/article70978848.ece",
-        "published": "2026-05-14T15:58:28Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Aisslro Waterproof Silicone Under Sink Mats: (22' x 19\") $8.50, (25\" x 19\") $12.60",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19509639-aisslro-waterproof-silicone-under-sink-mats-22-x-19-8-50-25-x-19-12-60",
-        "published": "2026-05-14T15:17:08Z",
-        "sentiment": "watch"
+        "title": "Iran is threatening undersea cables. The world’s ‘digital chokepoints’ have never been more vulnerable",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/iran-is-threatening-undersea-cables-the-worlds-digital-chokepoints-have-never-been-more-vulnerable-282425",
+        "published": "2026-05-14T20:09:54Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
       {
-        "title": "Trump says Xi Jinping offered to help broker deal with Iran during high-stakes Beijing talks",
+        "title": "Day 1 of Beijing Summit Produces No Big Wins for Trump",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/05/14/trump-xi-jinping-china-summit-taiwan-iran-trade-beef/",
+        "published": "2026-05-14T20:33:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Marco Rubio warns China of 'repercussions' as he reveals what really happened during closed-door Trump and Xi meeting",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15817517/Marco-Rubio-reveals-Trump-Xi-meeting.html",
+        "published": "2026-05-14T19:23:13Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Behind summit smiles, Xi gives blunt warning to Trump of 'clashes' and 'conflicts'",
         "source": "Fox News",
-        "url": "https://www.foxnews.com/media/trump-says-xi-jinping-offered-help-broker-deal-iran-high-stakes-beijing-talks",
-        "published": "2026-05-14T16:28:57Z",
-        "sentiment": "neutral"
+        "url": "https://www.foxnews.com/politics/behind-summit-smiles-xi-gives-blunt-warning-trump-clashes-conflicts",
+        "published": "2026-05-14T19:10:39Z",
+        "sentiment": "danger"
       },
       {
-        "title": "WATCH -- Star-Spangled Banner in China: America’s National Anthem Played During Trump’s Visit",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/05/14/watch-star-spangled-banner-in-china-americas-national-anthem-played-during-trumps-visit/",
-        "published": "2026-05-14T16:19:55Z",
+        "title": "Xi tells Trump U.S. and China could clash over Taiwan",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/world/xi-tells-trump-u-s-and-china-could-clash-over-taiwan",
+        "published": "2026-05-14T18:31:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "Xi tells Trump that mishandling of Taiwan could spark conflict",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/xi-tells-trump-that-mishandling-of-taiwan-could-spark-conflict/articleshow/131098104.cms",
-        "published": "2026-05-14T16:13:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China’s Iran ties complicate Trump-Xi summit as tensions test US leverage",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/chinas-iran-ties-complicate-trump-xi-summit-tensions-test-us-leverage",
-        "published": "2026-05-14T16:00:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Xi: Standoff Over Taiwan Could Create “A Very Dangerous Situation”",
-        "source": "Shtfplan.com",
-        "url": "https://www.shtfplan.com/member-exclusive/xi-standoff-over-taiwan-could-create-a-very-dangerous-situation",
-        "published": "2026-05-14T15:00:38Z",
+        "title": "Trump praises strong Xi ties as Beijing trip wraps up",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/trump-praises-strong-xi-ties-as-beijing-trip-wraps-up/live-77140304",
+        "published": "2026-05-14T17:28:00Z",
         "sentiment": "watch"
       }
     ],
