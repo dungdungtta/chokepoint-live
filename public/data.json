@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-16T11:32:07.056Z",
+    "generated_at": "2026-05-16T15:36:56.402Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,76 +27,62 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Prices Surge as Hormuz Shutdown Keeps Supply Fears Alive",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Surge-as-Hormuz-Shutdown-Keeps-Supply-Fears-Alive.html",
-        "published": "2026-05-15T11:30:00Z",
+        "title": "How China and U.S. eased the Middle East oil shock and kept prices from spiking even higher",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/15/china-us-oil-iran-war-strait-hormuz-trump-xi.html",
+        "published": "2026-05-15T14:58:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Netanyahu’s Coalition Fractures as Israel Edges Toward Early Elections",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Netanyahus-Coalition-Fractures-as-Israel-Edges-Toward-Early-Elections.html",
-        "published": "2026-05-15T11:30:00Z",
+        "title": "US redirects 75 ships in Strait of Hormuz amid escalating tensions with Iran",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-redirects-75-ships-in-strait-of-hormuz-amid-escalating-tensions-with-iran/",
+        "published": "2026-05-15T14:29:46Z",
         "sentiment": "danger"
       },
       {
-        "title": "Hormuz open to all except those at war with Iran: Iranian FM Abbas Araghchi",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/hormuz-open-to-all-except-those-at-war-with-iran-iranian-fm-abbas-araghchi/article70982865.ece",
-        "published": "2026-05-15T11:21:36Z",
-        "sentiment": "danger"
+        "title": "US Industrial Production Rises by Most in Over a Year",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/us-industrial-production-rises-by-most-in-over-a-year",
+        "published": "2026-05-15T14:16:28Z",
+        "sentiment": "watch"
       },
       {
-        "title": "USA EIA Reveals Latest Oil Price Forecasts",
+        "title": "UAE to Double Oil Export Capacity Bypassing Hormuz by 2027",
         "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/usa_eia_reveals_latest_oil_price_forecasts-15-may-2026-183699-article/",
-        "published": "2026-05-15T11:14:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "'It's insane': Gas prices are poised to stay high all summer, upending budgets and travel",
-        "source": "National Observer",
-        "url": "https://www.nationalobserver.com/2026/05/15/news/its-insane-gas-prices-are-poised-stay-high-all-summer-upending-budgets-travel",
-        "published": "2026-05-15T10:41:20Z",
+        "url": "https://www.rigzone.com/news/wire/uae_to_double_oil_export_capacity_bypassing_hormuz_by_2027-15-may-2026-183702-article/",
+        "published": "2026-05-15T14:13:29Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "Netanyahu’s Coalition Fractures as Israel Edges Toward Early Elections",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Netanyahus-Coalition-Fractures-as-Israel-Edges-Toward-Early-Elections.html",
-        "published": "2026-05-15T11:30:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump - Xi Jinping: simmering tensions",
-        "source": "Gossiplankanews.com",
-        "url": "https://english.gossiplankanews.com/2026/05/trump-xi-jinping-simmering-tensions.html",
-        "published": "2026-05-15T10:35:23Z",
+        "title": "Trump-Xi summit: China, US disagree on what they agreed on",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/15/trump-xi-summit-china-us-disagree-on-what-they-agreed-on",
+        "published": "2026-05-15T13:39:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran War: Trump in China, Ship Seized in the Strait, War Powers Vote Comes This Close",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/05/iran-war-trump-xi-china-ships-strait-war-powers-vote.html",
-        "published": "2026-05-15T10:30:59Z",
+        "title": "US-China summit exposes Trump's limits on Iran war, Taiwan",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/us-china-summit-exposes-trumps-limits-on-iran-war-taiwan/a-77171942",
+        "published": "2026-05-15T13:12:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump and Xi move towards business-first relationship after Beijing summit",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/trump-and-xi-move-towards-business-first-relationship-after-beijing-summit",
-        "published": "2026-05-15T09:46:56Z",
+        "title": "US-China summit exposes Trump's limits on Iran war, Taiwan",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/us-china-summit-exposes-trumps-limits-on-iran-war-taiwan/a-77171942",
+        "published": "2026-05-15T13:12:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "“It was an incredible visit”: Few victories, one warning, and plenty of flattery in the two-day Trump–Xi meeting",
+        "title": "Trump: I would be fine with suspending Iran’s nuclear program for 20 years – What he said about Taiwan, tariffs and Hormuz",
         "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/05/15/it-was-an-incredible-visit-few-victories-one-warning-and-plenty-of-flattery-in-the-two-day-trump-xi-meeting/",
-        "published": "2026-05-15T09:20:00Z",
-        "sentiment": "danger"
+        "url": "https://en.protothema.gr/2026/05/15/trump-i-would-be-fine-with-suspending-irans-nuclear-program-for-20-years-what-he-said-about-taiwan-tariffs-and-hormuz/",
+        "published": "2026-05-15T12:48:44Z",
+        "sentiment": "watch"
       }
     ],
     "malacca": [
