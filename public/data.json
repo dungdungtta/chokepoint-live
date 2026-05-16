@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-15T23:41:21.303Z",
+    "generated_at": "2026-05-16T07:30:46.532Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,76 +27,76 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil prices ease as Hormuz shipping resumes",
-        "source": "The Punch",
-        "url": "https://punchng.com/oil-prices-ease-as-hormuz-shipping-resumes/",
-        "published": "2026-05-14T23:40:03Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "PurolatorONE Advanced Engine Protection Spin-On Oil Filter for Select Cars $2.75",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19521354-purolatorone-advanced-engine-protection-spin-on-oil-filter-for-select-cars-2-75",
-        "published": "2026-05-14T23:37:20Z",
+        "title": "Petrol, diesel prices hiked by Rs 3/litre: Here’s what top economists have to say",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/petrol-diesel-prices-hiked-by-rs-3/litre-heres-what-top-economists-have-to-say/articleshow/131110907.cms",
+        "published": "2026-05-15T07:18:23Z",
         "sentiment": "watch"
       },
       {
-        "title": "CENTCOM Chief: Iran’s Forces ‘Severely Degraded,’ Terror Proxies ‘Cut Off’ — ‘Every Objective for Epic Fury Met’",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/05/14/centcom-chief-irans-forces-severely-degraded-terror-proxies-cut-off-every-objective-for-epic-fury-met/",
-        "published": "2026-05-14T23:26:35Z",
+        "title": "Grifty Colossus Strikes Again and Again and...",
+        "source": "Common Dreams",
+        "url": "https://www.commondreams.org/further/grifty-colossus-strikes-again-and-again-and",
+        "published": "2026-05-15T07:13:49Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Purolator PurolatorBOSS Maximum Engine Protection Spin On Oil Filter for $4 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Purolator-Purolator-BOSS-Maximum-Engine-Protection-Spin-On-Oil-Filter-for-4-free-shipping-w-Prime/21833055.html",
+        "published": "2026-05-15T07:13:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "Hormuz crisis shows clean energy is key to reducing the economic cost of fossil fuel dependence",
-        "source": "PR Newswire UK",
-        "url": "https://www.prnewswire.co.uk/news-releases/hormuz-crisis-shows-clean-energy-is-key-to-reducing-the-economic-cost-of-fossil-fuel-dependence-302772817.html",
-        "published": "2026-05-14T23:01:00Z",
+        "title": "Trump Departs Beijing After Cordial Xi Summit but Deep Rifts on Taiwan and Trade Linger",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/trump-china-visit-symbolic-gestures-unresolved-tensions-1868856",
+        "published": "2026-05-15T07:08:55Z",
         "sentiment": "watch"
       },
       {
-        "title": "Hormuz crisis shows clean energy is key to reducing the economic cost of fossil fuel dependence",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/hormuz-crisis-shows-clean-energy-is-key-to-reducing-the-economic-cost-of-fossil-fuel-dependence-302772817.html",
-        "published": "2026-05-14T23:01:00Z",
+        "title": "Fuel prices today: Centre raised petrol, diesel prices by Rs 3 after weeks of no change - key details",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/fuel-prices-today-why-centre-raised-petrol-diesel-prices-by-rs-3-after-weeks-of-no-change/articleshow/131110029.cms",
+        "published": "2026-05-15T07:01:19Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "Trump Lavishes Praise On China’s Xi As Taiwan Hangs In The Balance",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/trump-china-taiwan_n_6a05f82ce4b0ee716970914d",
-        "published": "2026-05-14T21:30:40Z",
+        "title": "Xi-Trump summit: reset for US-Chinese relations but tension over Taiwan remains",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/xi-trump-summit-reset-for-us-chinese-relations-but-tension-over-taiwan-remains-282992",
+        "published": "2026-05-15T07:11:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump Announces Chinese Investment in American Industry",
-        "source": "Daily Signal",
-        "url": "https://www.dailysignal.com/2026/05/14/trump-chinese-invest-us-industry/",
-        "published": "2026-05-14T20:49:45Z",
+        "title": "Trump says he and China's Xi agree Iran cannot have nuclear weapons",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/trump-says-he-and-chinas-xi-agree-iran-cannot-have-nuclear-weapons/articleshow/131110398.cms",
+        "published": "2026-05-15T06:44:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "White House: Trump and Xi Agreed on Trade, Energy, and Iran",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/asia/2026/05/14/white-house-trump-and-xi-agreed-on-trade-energy-and-iran/",
-        "published": "2026-05-14T20:46:44Z",
+        "title": "Why is Taiwan the elephant in every room between the US and China?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/why-is-taiwan-the-elephant-in-every-room-between-the-us-and-china/articleshow/131109427.cms",
+        "published": "2026-05-15T06:09:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "Day 1 of Beijing Summit Produces No Big Wins for Trump",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/05/14/trump-xi-jinping-china-summit-taiwan-iran-trade-beef/",
-        "published": "2026-05-14T20:33:46Z",
-        "sentiment": "watch"
+        "title": "Trump Says Xi Pledged No Military Aid to Iran During Beijing Talks",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-05-15-trump-xi-pledged-no-military-aid-iran.html",
+        "published": "2026-05-15T06:00:00Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Marco Rubio warns China of 'repercussions' as he reveals what really happened during closed-door Trump and Xi meeting",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15817517/Marco-Rubio-reveals-Trump-Xi-meeting.html",
-        "published": "2026-05-14T19:23:13Z",
-        "sentiment": "danger"
+        "title": "Why Trump’s China Humility Reveals America’s Weakness: China Holds All the Cards",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-05-15-why-trumps-china-humility-reveals-americas-weakness.html",
+        "published": "2026-05-15T06:00:00Z",
+        "sentiment": "watch"
       }
     ],
     "malacca": [
