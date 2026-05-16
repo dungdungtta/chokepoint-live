@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-16T18:42:32.647Z",
+    "generated_at": "2026-05-16T21:35:37.960Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,75 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trader alleges ₹7.16L fraud in China import deal",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/city/surat/trader-alleges-7-16l-fraud-in-china-import-deal/articleshow/131126000.cms",
-        "published": "2026-05-15T18:32:17Z",
+        "title": "Iran, Rattled by Trump-Xi Lovefest, Knocks Pete Hegseth as 'Failed TV Host'",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/05/15/iran-rattled-by-trump-xi-lovefest-knocks-pete-hegseth-as-failed-tv-host/",
+        "published": "2026-05-15T21:34:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "Tensions flare near Strait of Hormuz as one ship is seized and another is sunk",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/world/tensions-flare-near-strait-of-hormuz-as-one-ship-is-seized-and-another-is-sunk",
-        "published": "2026-05-15T18:31:02Z",
+        "title": "Trump Says He Didn't Ask Xi to Pressure Iran on Strait",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/trump_says_he_didnt_ask_xi_to_pressure_iran_on_strait-15-may-2026-183703-article/",
+        "published": "2026-05-15T21:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "As Britain And France Try Prying Hormuz Open With Their Own Crowbars, Uncle Sam Forms New Coalition",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/05/15/uk-france-us-hormuz-strait-nato-coalition-gasoline-oil/",
+        "published": "2026-05-15T20:58:42Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump says he is losing patience with Iran, did not ask China for favors",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/trump-says-he-is-losing-patience-with-iran-did-not-ask-china-for-favors",
+        "published": "2026-05-15T20:48:48Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump warns against Taiwan independence after China visit",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/trump-warns-against-taiwan-independence-after-china-visit-7041313-May2026/",
+        "published": "2026-05-15T20:43:53Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "1979 Yamaha DT175 Enduro at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1979-yamaha-dt175-enduro-3/",
-        "published": "2026-05-15T18:13:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump left China with little clarity #world",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/trump-left-china-with-little-clarity",
-        "published": "2026-05-15T18:04:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump’s China Visit Yields Few Answers on Future of Trade",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/trade/trump-xi-china-summit-beijing-trade-tariffs-strait-of-hormuz-taiwan-1238956431/",
-        "published": "2026-05-15T17:44:23Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China Celebrates Trump and Xi’s Mutual 'Vision’ on Bilateral Ties",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/asia/2026/05/15/china-celebrates-trump-and-xis-mutual-vision-on-bilateral-ties/",
+        "published": "2026-05-15T21:06:32Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump warns against Taiwan independence after China visit",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/trump-warns-against-taiwan-independence-after-china-visit-7041313-May2026/",
+        "published": "2026-05-15T20:43:53Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "What did Trump and Xi achieve in Beijing?",
+        "source": "RT",
+        "url": "https://www.rt.com/news/640055-xi-trump-results-summit/",
+        "published": "2026-05-15T20:24:27Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Chinese undersea device found near Bali may be part of something bigger",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-05-16/undersea-monitoring-device-indonesia-china-maritime-strategy/106670896",
+        "published": "2026-05-15T19:38:41Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump leaves Beijing with few wins but warm words for Xi",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-leaves-beijing-with-few-wins-but-warm-words-for-xi/articleshow/131125896.cms",
         "published": "2026-05-15T18:28:49Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Israel and Lebanon agree to extend ceasefire by 45 days, US State Dept says",
-        "source": "Independent.ie",
-        "url": "https://www.independent.ie/world-news/north-america/israel-and-lebanon-agree-to-extend-ceasefire-by-45-days-us-state-dept-says/a504808806.html",
-        "published": "2026-05-15T18:00:00Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "‘Woah — You Bait and Switched!’ House Democrat Admonishes CNN’s Boris Sanchez in Testy Moment",
-        "source": "Mediaite",
-        "url": "https://www.mediaite.com/media/news/woah-you-bait-and-switched-house-democrat-admonishes-cnns-boris-sanchez-in-testy-moment/",
-        "published": "2026-05-15T17:55:18Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump departs China touting deals, but little clarity on Iran or Taiwan",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/trump-departs-china-touting-deals-but-little-clarity-on-iran-or-taiwan",
-        "published": "2026-05-15T17:46:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump warns against Taiwan independence after China visit",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-warns-against-taiwan-independence-after-china-visit/articleshow/131123750.cms",
-        "published": "2026-05-15T17:16:15Z",
         "sentiment": "danger"
       }
     ],
