@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-16T07:30:46.532Z",
+    "generated_at": "2026-05-16T11:32:07.056Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,76 +27,76 @@
   "news": {
     "hormuz": [
       {
-        "title": "Petrol, diesel prices hiked by Rs 3/litre: Here’s what top economists have to say",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/petrol-diesel-prices-hiked-by-rs-3/litre-heres-what-top-economists-have-to-say/articleshow/131110907.cms",
-        "published": "2026-05-15T07:18:23Z",
+        "title": "Oil Prices Surge as Hormuz Shutdown Keeps Supply Fears Alive",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Surge-as-Hormuz-Shutdown-Keeps-Supply-Fears-Alive.html",
+        "published": "2026-05-15T11:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Grifty Colossus Strikes Again and Again and...",
-        "source": "Common Dreams",
-        "url": "https://www.commondreams.org/further/grifty-colossus-strikes-again-and-again-and",
-        "published": "2026-05-15T07:13:49Z",
+        "title": "Netanyahu’s Coalition Fractures as Israel Edges Toward Early Elections",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Netanyahus-Coalition-Fractures-as-Israel-Edges-Toward-Early-Elections.html",
+        "published": "2026-05-15T11:30:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Purolator PurolatorBOSS Maximum Engine Protection Spin On Oil Filter for $4 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Purolator-Purolator-BOSS-Maximum-Engine-Protection-Spin-On-Oil-Filter-for-4-free-shipping-w-Prime/21833055.html",
-        "published": "2026-05-15T07:13:34Z",
+        "title": "Hormuz open to all except those at war with Iran: Iranian FM Abbas Araghchi",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/hormuz-open-to-all-except-those-at-war-with-iran-iranian-fm-abbas-araghchi/article70982865.ece",
+        "published": "2026-05-15T11:21:36Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "USA EIA Reveals Latest Oil Price Forecasts",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/usa_eia_reveals_latest_oil_price_forecasts-15-may-2026-183699-article/",
+        "published": "2026-05-15T11:14:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump Departs Beijing After Cordial Xi Summit but Deep Rifts on Taiwan and Trade Linger",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/trump-china-visit-symbolic-gestures-unresolved-tensions-1868856",
-        "published": "2026-05-15T07:08:55Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Fuel prices today: Centre raised petrol, diesel prices by Rs 3 after weeks of no change - key details",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/fuel-prices-today-why-centre-raised-petrol-diesel-prices-by-rs-3-after-weeks-of-no-change/articleshow/131110029.cms",
-        "published": "2026-05-15T07:01:19Z",
+        "title": "'It's insane': Gas prices are poised to stay high all summer, upending budgets and travel",
+        "source": "National Observer",
+        "url": "https://www.nationalobserver.com/2026/05/15/news/its-insane-gas-prices-are-poised-stay-high-all-summer-upending-budgets-travel",
+        "published": "2026-05-15T10:41:20Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "Xi-Trump summit: reset for US-Chinese relations but tension over Taiwan remains",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/xi-trump-summit-reset-for-us-chinese-relations-but-tension-over-taiwan-remains-282992",
-        "published": "2026-05-15T07:11:18Z",
+        "title": "Netanyahu’s Coalition Fractures as Israel Edges Toward Early Elections",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Netanyahus-Coalition-Fractures-as-Israel-Edges-Toward-Early-Elections.html",
+        "published": "2026-05-15T11:30:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump - Xi Jinping: simmering tensions",
+        "source": "Gossiplankanews.com",
+        "url": "https://english.gossiplankanews.com/2026/05/trump-xi-jinping-simmering-tensions.html",
+        "published": "2026-05-15T10:35:23Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump says he and China's Xi agree Iran cannot have nuclear weapons",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/trump-says-he-and-chinas-xi-agree-iran-cannot-have-nuclear-weapons/articleshow/131110398.cms",
-        "published": "2026-05-15T06:44:24Z",
-        "sentiment": "watch"
+        "title": "Iran War: Trump in China, Ship Seized in the Strait, War Powers Vote Comes This Close",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/05/iran-war-trump-xi-china-ships-strait-war-powers-vote.html",
+        "published": "2026-05-15T10:30:59Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Why is Taiwan the elephant in every room between the US and China?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/why-is-taiwan-the-elephant-in-every-room-between-the-us-and-china/articleshow/131109427.cms",
-        "published": "2026-05-15T06:09:24Z",
-        "sentiment": "watch"
+        "title": "Trump and Xi move towards business-first relationship after Beijing summit",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/15/trump-and-xi-move-towards-business-first-relationship-after-beijing-summit",
+        "published": "2026-05-15T09:46:56Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Trump Says Xi Pledged No Military Aid to Iran During Beijing Talks",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-05-15-trump-xi-pledged-no-military-aid-iran.html",
-        "published": "2026-05-15T06:00:00Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Why Trump’s China Humility Reveals America’s Weakness: China Holds All the Cards",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-05-15-why-trumps-china-humility-reveals-americas-weakness.html",
-        "published": "2026-05-15T06:00:00Z",
-        "sentiment": "watch"
+        "title": "“It was an incredible visit”: Few victories, one warning, and plenty of flattery in the two-day Trump–Xi meeting",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/05/15/it-was-an-incredible-visit-few-victories-one-warning-and-plenty-of-flattery-in-the-two-day-trump-xi-meeting/",
+        "published": "2026-05-15T09:20:00Z",
+        "sentiment": "danger"
       }
     ],
     "malacca": [
