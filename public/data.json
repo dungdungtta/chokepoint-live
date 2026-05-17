@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T07:41:56.945Z",
+    "generated_at": "2026-05-17T11:42:14.405Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,76 +27,69 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump says Xi agrees Iran must open Hormuz strait, China says ‘no reason’ to continue war",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/us/2026/05/16/trump-says-xi-agrees-iran-must-open-hormuz-strait-china-says-no-reason-to-continue-war/",
-        "published": "2026-05-16T07:41:51Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump says Xi agrees Iran must open strait, China says war shouldn't have started",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/articles/trump-says-xi-agrees-iran-071302260.html",
-        "published": "2026-05-16T07:13:02Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "UPSC Prelims 2026 Revision Checklist: Top 25 places in news aspirants shouldn’t miss",
-        "source": "The Indian Express",
-        "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-prelims-2026-revision-checklist-25-places-in-news-mapping-10689378/",
-        "published": "2026-05-16T06:58:48Z",
+        "title": "UAE to store up to 30 million barrels in India’s Strategic Petroleum Reserve after PM Modi’s visit: FS Vikram Misri",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/uae-to-store-up-to-30-million-barrels-in-indias-strategic-petroleum-reserve-after-pm-modis-visit-fs-vikram-misri/article70986851.ece",
+        "published": "2026-05-16T11:30:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "India's monthly household basket may feel the heat of rising fuel costs",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/indias-monthly-household-basket-to-get-costlier-due-to-petrol-diesel-price-hikes-by-rs3/articleshow/131132579.cms",
-        "published": "2026-05-16T06:28:34Z",
+        "title": "Links 5/16/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/05/links-5-16-2026.html",
+        "published": "2026-05-16T10:59:54Z",
         "sentiment": "watch"
       },
       {
-        "title": "India's monthly household basket may feel the heat of rising fuel costs",
+        "title": "Iran plans new Hormuz transit mechanism, says only cooperating nations will benefit",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/indias-monthly-household-basket-to-get-costlier-due-to-petrol-diesel-price-hikes-by-rs3/articleshow/131132821.cms",
-        "published": "2026-05-16T06:28:34Z",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-plans-new-hormuz-transit-mechanism-says-only-cooperating-nations-will-benefit/articleshow/131135550.cms",
+        "published": "2026-05-16T10:35:45Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Electric Shoe Buffer and Polisher Kit for $17 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Electric-Shoe-Buffer-and-Polisher-Kit-for-17-free-shipping-w-Prime/21833333.html",
+        "published": "2026-05-16T10:06:37Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "Trump's second meeting with China's Xi in a year steers the U.S. away from Taiwan again",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html",
-        "published": "2026-05-16T07:23:16Z",
+        "title": "BROADCAST BIAS: Networks spin Trump’s Xi meeting as weakness despite strategic gain",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/opinion/broadcast-bias-networks-spin-trumps-xi-meeting-weakness-despite-strategic-gain",
+        "published": "2026-05-16T11:00:59Z",
         "sentiment": "watch"
       },
       {
-        "title": "UPSC Prelims 2026 Revision Checklist: Top 25 places in news aspirants shouldn’t miss",
-        "source": "The Indian Express",
-        "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-prelims-2026-revision-checklist-25-places-in-news-mapping-10689378/",
-        "published": "2026-05-16T06:58:48Z",
+        "title": "Links 5/16/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/05/links-5-16-2026.html",
+        "published": "2026-05-16T10:59:54Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump’s trip to China ends with no major breakthrough on Iran conflict",
-        "source": "Independent.ie",
-        "url": "https://www.independent.ie/world-news/north-america/trumps-trip-to-china-ends-with-no-major-breakthrough-on-iran-conflict/a836324995.html",
-        "published": "2026-05-16T04:30:00Z",
+        "title": "Trump told Taiwan not to separate from China after meeting Xi Jinping.",
+        "source": "Gossiplankanews.com",
+        "url": "https://english.gossiplankanews.com/2026/05/trump-told-taiwan-not-to-separate-from.html",
+        "published": "2026-05-16T10:35:13Z",
         "sentiment": "watch"
       },
       {
-        "title": "China and Trump’s Business-first Framework",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/articles/2026/05/china_and_trump_s_business_first_framework.html",
-        "published": "2026-05-16T04:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Grey-Zone Warfare: Geopolitical Experimentation of China’s Military Coercion",
-        "source": "Khabarhub.com",
-        "url": "https://english.khabarhub.com/2026/16/548820/",
-        "published": "2026-05-16T00:15:52Z",
+        "title": "Trump warns Taiwan not to declare itself independent from China after meeting Xi Jinping as island demands US keeps sending it weapons to defend itself",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15823213/Trump-warns-Taiwan-not-declare-independent-China.html",
+        "published": "2026-05-16T10:19:31Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "U.S. Taiwan policy unchanged after China visit: Trump",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260516-cna01.htm",
+        "published": "2026-05-16T10:06:15Z",
+        "sentiment": "watch"
       }
     ],
     "malacca": [
