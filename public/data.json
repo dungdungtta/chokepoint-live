@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-16T21:35:37.960Z",
+    "generated_at": "2026-05-17T07:41:56.945Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,75 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran, Rattled by Trump-Xi Lovefest, Knocks Pete Hegseth as 'Failed TV Host'",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/05/15/iran-rattled-by-trump-xi-lovefest-knocks-pete-hegseth-as-failed-tv-host/",
-        "published": "2026-05-15T21:34:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Says He Didn't Ask Xi to Pressure Iran on Strait",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/trump_says_he_didnt_ask_xi_to_pressure_iran_on_strait-15-may-2026-183703-article/",
-        "published": "2026-05-15T21:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "As Britain And France Try Prying Hormuz Open With Their Own Crowbars, Uncle Sam Forms New Coalition",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/05/15/uk-france-us-hormuz-strait-nato-coalition-gasoline-oil/",
-        "published": "2026-05-15T20:58:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump says he is losing patience with Iran, did not ask China for favors",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/trump-says-he-is-losing-patience-with-iran-did-not-ask-china-for-favors",
-        "published": "2026-05-15T20:48:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump warns against Taiwan independence after China visit",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/trump-warns-against-taiwan-independence-after-china-visit-7041313-May2026/",
-        "published": "2026-05-15T20:43:53Z",
+        "title": "Trump says Xi agrees Iran must open Hormuz strait, China says ‘no reason’ to continue war",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/us/2026/05/16/trump-says-xi-agrees-iran-must-open-hormuz-strait-china-says-no-reason-to-continue-war/",
+        "published": "2026-05-16T07:41:51Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Trump says Xi agrees Iran must open strait, China says war shouldn't have started",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/articles/trump-says-xi-agrees-iran-071302260.html",
+        "published": "2026-05-16T07:13:02Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "UPSC Prelims 2026 Revision Checklist: Top 25 places in news aspirants shouldn’t miss",
+        "source": "The Indian Express",
+        "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-prelims-2026-revision-checklist-25-places-in-news-mapping-10689378/",
+        "published": "2026-05-16T06:58:48Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "India's monthly household basket may feel the heat of rising fuel costs",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/indias-monthly-household-basket-to-get-costlier-due-to-petrol-diesel-price-hikes-by-rs3/articleshow/131132579.cms",
+        "published": "2026-05-16T06:28:34Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "India's monthly household basket may feel the heat of rising fuel costs",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/indias-monthly-household-basket-to-get-costlier-due-to-petrol-diesel-price-hikes-by-rs3/articleshow/131132821.cms",
+        "published": "2026-05-16T06:28:34Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "China Celebrates Trump and Xi’s Mutual 'Vision’ on Bilateral Ties",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/asia/2026/05/15/china-celebrates-trump-and-xis-mutual-vision-on-bilateral-ties/",
-        "published": "2026-05-15T21:06:32Z",
+        "title": "Trump's second meeting with China's Xi in a year steers the U.S. away from Taiwan again",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html",
+        "published": "2026-05-16T07:23:16Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump warns against Taiwan independence after China visit",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/trump-warns-against-taiwan-independence-after-china-visit-7041313-May2026/",
-        "published": "2026-05-15T20:43:53Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "What did Trump and Xi achieve in Beijing?",
-        "source": "RT",
-        "url": "https://www.rt.com/news/640055-xi-trump-results-summit/",
-        "published": "2026-05-15T20:24:27Z",
+        "title": "UPSC Prelims 2026 Revision Checklist: Top 25 places in news aspirants shouldn’t miss",
+        "source": "The Indian Express",
+        "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-prelims-2026-revision-checklist-25-places-in-news-mapping-10689378/",
+        "published": "2026-05-16T06:58:48Z",
         "sentiment": "watch"
       },
       {
-        "title": "Chinese undersea device found near Bali may be part of something bigger",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-05-16/undersea-monitoring-device-indonesia-china-maritime-strategy/106670896",
-        "published": "2026-05-15T19:38:41Z",
+        "title": "Trump’s trip to China ends with no major breakthrough on Iran conflict",
+        "source": "Independent.ie",
+        "url": "https://www.independent.ie/world-news/north-america/trumps-trip-to-china-ends-with-no-major-breakthrough-on-iran-conflict/a836324995.html",
+        "published": "2026-05-16T04:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump leaves Beijing with few wins but warm words for Xi",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-leaves-beijing-with-few-wins-but-warm-words-for-xi/articleshow/131125896.cms",
-        "published": "2026-05-15T18:28:49Z",
+        "title": "China and Trump’s Business-first Framework",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/articles/2026/05/china_and_trump_s_business_first_framework.html",
+        "published": "2026-05-16T04:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Grey-Zone Warfare: Geopolitical Experimentation of China’s Military Coercion",
+        "source": "Khabarhub.com",
+        "url": "https://english.khabarhub.com/2026/16/548820/",
+        "published": "2026-05-16T00:15:52Z",
         "sentiment": "danger"
       }
     ],
