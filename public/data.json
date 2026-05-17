@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T11:42:14.405Z",
+    "generated_at": "2026-05-17T15:41:35.927Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "UAE to store up to 30 million barrels in India’s Strategic Petroleum Reserve after PM Modi’s visit: FS Vikram Misri",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/uae-to-store-up-to-30-million-barrels-in-indias-strategic-petroleum-reserve-after-pm-modis-visit-fs-vikram-misri/article70986851.ece",
-        "published": "2026-05-16T11:30:09Z",
+        "title": "Iran signals transit normalization through Hormuz tied to security conditions after Trump’s China visit",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-hormuz-transit-normalization-security/",
+        "published": "2026-05-16T15:09:55Z",
         "sentiment": "watch"
       },
       {
-        "title": "Links 5/16/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/05/links-5-16-2026.html",
-        "published": "2026-05-16T10:59:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran plans new Hormuz transit mechanism, says only cooperating nations will benefit",
+        "title": "Trump returns from China with little progress on reopening Hormuz",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-plans-new-hormuz-transit-mechanism-says-only-cooperating-nations-will-benefit/articleshow/131135550.cms",
-        "published": "2026-05-16T10:35:45Z",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-returns-from-china-with-little-progress-on-reopening-hormuz/articleshow/131139878.cms",
+        "published": "2026-05-16T15:07:48Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Trump says Xi agrees Iran must open strait, but no sign China will weigh in",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-says-xi-agrees-iran-must-open-strait-but-no-sign-china-will-weigh-in/articleshow/131140048.cms",
+        "published": "2026-05-16T15:04:26Z",
         "sentiment": "watch"
       },
       {
-        "title": "Electric Shoe Buffer and Polisher Kit for $17 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Electric-Shoe-Buffer-and-Polisher-Kit-for-17-free-shipping-w-Prime/21833333.html",
-        "published": "2026-05-16T10:06:37Z",
+        "title": "The Fertilizer Shock That Could Trigger a Global Food Crisis",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/The-Fertilizer-Shock-That-Could-Trigger-a-Global-Food-Crisis.html",
+        "published": "2026-05-16T15:00:00Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Trump Returns From China With Little Progress to Reopen Hormuz",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/trump-returns-from-china-with-little-progress-to-reopen-hormuz",
+        "published": "2026-05-16T14:04:08Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "How China framed Donald Trump through the Thucydides Trap",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/opinion/online-views/china-outmaneuvers-donald-trump-thucydides-trap-global-power-shift-11778920563427.html",
+        "published": "2026-05-16T12:01:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump-Xi Summit Reveals China's Careful Balancing Act On Iran",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260516-rferl02.htm",
+        "published": "2026-05-16T12:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "BROADCAST BIAS: Networks spin Trump’s Xi meeting as weakness despite strategic gain",
         "source": "Fox News",
@@ -75,20 +96,6 @@
         "source": "Gossiplankanews.com",
         "url": "https://english.gossiplankanews.com/2026/05/trump-told-taiwan-not-to-separate-from.html",
         "published": "2026-05-16T10:35:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump warns Taiwan not to declare itself independent from China after meeting Xi Jinping as island demands US keeps sending it weapons to defend itself",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15823213/Trump-warns-Taiwan-not-declare-independent-China.html",
-        "published": "2026-05-16T10:19:31Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S. Taiwan policy unchanged after China visit: Trump",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260516-cna01.htm",
-        "published": "2026-05-16T10:06:15Z",
         "sentiment": "watch"
       }
     ],
