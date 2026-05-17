@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T15:41:35.927Z",
+    "generated_at": "2026-05-17T19:50:17.651Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran signals transit normalization through Hormuz tied to security conditions after Trump’s China visit",
+        "title": "Trump threatens military escalation against Iran, dismisses peace offer",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-hormuz-transit-normalization-security/",
-        "published": "2026-05-16T15:09:55Z",
+        "url": "https://cryptobriefing.com/trump-iran-military-escalation-crypto-impact/",
+        "published": "2026-05-16T19:20:19Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US and Israel preparing to renew attack on Iran next week – NYT",
+        "source": "RT",
+        "url": "https://www.rt.com/news/640079-us-israel-attack-iran/",
+        "published": "2026-05-16T18:55:07Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "I reckon Asha Sharma wants to give Xbox its exclusive games back — but these PlayStation comments reveal why Microsoft probably won't let her",
+        "source": "Windows Central",
+        "url": "https://www.windowscentral.com/gaming/xbox/i-reckon-asha-sharma-wants-to-give-xbox-its-exclusive-games-back-but-these-playstation-comments-reveal-why-microsoft-probably-wont-let-her",
+        "published": "2026-05-16T18:32:59Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump returns from China with little progress on reopening Hormuz",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-returns-from-china-with-little-progress-on-reopening-hormuz/articleshow/131139878.cms",
-        "published": "2026-05-16T15:07:48Z",
+        "title": "Iran state TV says European countries in talks with Tehran for Hormuz transit",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/iran-state-tv-says-european-countries-in-talks-tehran-hormuz-transit-6125961",
+        "published": "2026-05-16T16:46:00Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Trump says Xi agrees Iran must open strait, but no sign China will weigh in",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-says-xi-agrees-iran-must-open-strait-but-no-sign-china-will-weigh-in/articleshow/131140048.cms",
-        "published": "2026-05-16T15:04:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Fertilizer Shock That Could Trigger a Global Food Crisis",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/The-Fertilizer-Shock-That-Could-Trigger-a-Global-Food-Crisis.html",
-        "published": "2026-05-16T15:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Returns From China With Little Progress to Reopen Hormuz",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/trump-returns-from-china-with-little-progress-to-reopen-hormuz",
-        "published": "2026-05-16T14:04:08Z",
+        "title": "European countries in talks with Tehran for Hormuz transit: Iran state TV",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/european-countries-in-talks-tehran-hormuz-transit-iran-state-tv-6125961",
+        "published": "2026-05-16T16:46:00Z",
         "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "In response to Trump, Taiwan says it is ‘sovereign and independent’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/in-response-to-trump-taiwan-says-it-is-sovereign-and-independent",
+        "published": "2026-05-16T19:44:47Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump departs Beijing summit with Xi Jinping without breakthroughs",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-xi-beijing-summit-no-breakthroughs/",
+        "published": "2026-05-16T18:56:14Z",
+        "sentiment": "watch"
+      },
       {
         "title": "How China framed Donald Trump through the Thucydides Trap",
         "source": "Livemint",
@@ -82,20 +96,6 @@
         "source": "Fox News",
         "url": "https://www.foxnews.com/opinion/broadcast-bias-networks-spin-trumps-xi-meeting-weakness-despite-strategic-gain",
         "published": "2026-05-16T11:00:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Links 5/16/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/05/links-5-16-2026.html",
-        "published": "2026-05-16T10:59:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump told Taiwan not to separate from China after meeting Xi Jinping.",
-        "source": "Gossiplankanews.com",
-        "url": "https://english.gossiplankanews.com/2026/05/trump-told-taiwan-not-to-separate-from.html",
-        "published": "2026-05-16T10:35:13Z",
         "sentiment": "watch"
       }
     ],
