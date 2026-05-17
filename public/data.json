@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T19:50:17.651Z",
+    "generated_at": "2026-05-17T23:14:22.138Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump threatens military escalation against Iran, dismisses peace offer",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-military-escalation-crypto-impact/",
-        "published": "2026-05-16T19:20:19Z",
-        "sentiment": "danger"
+        "title": "U.S., Iran stall on Hormuz reopening as oil supplies tighten",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/05/16/us-trump-iran-war-ceasefire-strait-of-hormuz-reopening-oil-supplies-china-summit/",
+        "published": "2026-05-16T23:03:53Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "US and Israel preparing to renew attack on Iran next week – NYT",
-        "source": "RT",
-        "url": "https://www.rt.com/news/640079-us-israel-attack-iran/",
-        "published": "2026-05-16T18:55:07Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "I reckon Asha Sharma wants to give Xbox its exclusive games back — but these PlayStation comments reveal why Microsoft probably won't let her",
-        "source": "Windows Central",
-        "url": "https://www.windowscentral.com/gaming/xbox/i-reckon-asha-sharma-wants-to-give-xbox-its-exclusive-games-back-but-these-playstation-comments-reveal-why-microsoft-probably-wont-let-her",
-        "published": "2026-05-16T18:32:59Z",
+        "title": "Beijing’s Silence Is Fueling the Hormuz Crisis",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Beijings-Silence-Is-Fueling-the-Hormuz-Crisis.html",
+        "published": "2026-05-16T23:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran state TV says European countries in talks with Tehran for Hormuz transit",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/iran-state-tv-says-european-countries-in-talks-tehran-hormuz-transit-6125961",
-        "published": "2026-05-16T16:46:00Z",
-        "sentiment": "neutral"
+        "title": "US Treasury allows sanctions waiver on Russian seaborne oil to lapse",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-treasury-russian-oil-sanctions-waiver-lapse/",
+        "published": "2026-05-16T22:46:39Z",
+        "sentiment": "watch"
       },
       {
-        "title": "European countries in talks with Tehran for Hormuz transit: Iran state TV",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/european-countries-in-talks-tehran-hormuz-transit-iran-state-tv-6125961",
-        "published": "2026-05-16T16:46:00Z",
-        "sentiment": "neutral"
+        "title": "427-Powered 1967 Chevrolet Corvette Convertible 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1967-chevrolet-corvette-convertible-323/",
+        "published": "2026-05-16T22:00:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Global inventory race intensifies amid fears of energy crunch from Iran war",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/global-inventory-race-iran-war-energy-crunch/",
+        "published": "2026-05-16T20:39:16Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Beijing’s Silence Is Fueling the Hormuz Crisis",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Beijings-Silence-Is-Fueling-the-Hormuz-Crisis.html",
+        "published": "2026-05-16T23:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan remains committed to status quo after Trump's China trip",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-05-17/taiwan-asserts-its-independence-after-trump-visits-china/106689078",
+        "published": "2026-05-16T21:30:04Z",
+        "sentiment": "watch"
+      },
       {
         "title": "In response to Trump, Taiwan says it is ‘sovereign and independent’",
         "source": "Al Jazeera English",
@@ -82,20 +96,6 @@
         "source": "Livemint",
         "url": "https://www.livemint.com/opinion/online-views/china-outmaneuvers-donald-trump-thucydides-trap-global-power-shift-11778920563427.html",
         "published": "2026-05-16T12:01:44Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump-Xi Summit Reveals China's Careful Balancing Act On Iran",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260516-rferl02.htm",
-        "published": "2026-05-16T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "BROADCAST BIAS: Networks spin Trump’s Xi meeting as weakness despite strategic gain",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/broadcast-bias-networks-spin-trumps-xi-meeting-weakness-despite-strategic-gain",
-        "published": "2026-05-16T11:00:59Z",
         "sentiment": "watch"
       }
     ],
