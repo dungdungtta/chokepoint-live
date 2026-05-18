@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T23:14:22.138Z",
+    "generated_at": "2026-05-18T12:48:58.996Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,75 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S., Iran stall on Hormuz reopening as oil supplies tighten",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/05/16/us-trump-iran-war-ceasefire-strait-of-hormuz-reopening-oil-supplies-china-summit/",
-        "published": "2026-05-16T23:03:53Z",
+        "title": "India may have to ‘bilaterally negotiate transit corridors with Iran,’ says Moody",
+        "source": "The Indian Express",
+        "url": "https://indianexpress.com/article/india/moodys-india-gdp-growth-estimate-cut-strait-of-hormuz-oil-supply-crisis-10694109/",
+        "published": "2026-05-17T12:06:23Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Beijing’s Silence Is Fueling the Hormuz Crisis",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Beijings-Silence-Is-Fueling-the-Hormuz-Crisis.html",
-        "published": "2026-05-16T23:00:00Z",
+        "title": "HORMUZ TRACKER: Gridlock Persists While Blocked Tanker Sails On",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/hormuz-tracker-gridlock-persists-while-blocked-tanker-sails-on",
+        "published": "2026-05-17T10:57:19Z",
         "sentiment": "watch"
       },
       {
-        "title": "US Treasury allows sanctions waiver on Russian seaborne oil to lapse",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-treasury-russian-oil-sanctions-waiver-lapse/",
-        "published": "2026-05-16T22:46:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "427-Powered 1967 Chevrolet Corvette Convertible 4-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1967-chevrolet-corvette-convertible-323/",
-        "published": "2026-05-16T22:00:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Global inventory race intensifies amid fears of energy crunch from Iran war",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/global-inventory-race-iran-war-energy-crunch/",
-        "published": "2026-05-16T20:39:16Z",
+        "title": "US Lets Russian Oil Waiver Linked To Iran War Expire, Reimposing Sanctions",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/05/russia-260517-rferl02.htm",
+        "published": "2026-05-17T10:51:18Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Iran Explores Massive Undersea Gas Fields Beneath Strait of Hormuz in Energy Power Play",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/iran-gas-exploration-strait-hormuz-1869016",
+        "published": "2026-05-17T09:53:23Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Vietnam’s Largest Refinery Sees ‘Stable’ Operations Through June",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/vietnams-largest-refinery-sees-stable-operations-through-june",
+        "published": "2026-05-17T09:50:58Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "Beijing’s Silence Is Fueling the Hormuz Crisis",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Beijings-Silence-Is-Fueling-the-Hormuz-Crisis.html",
-        "published": "2026-05-16T23:00:00Z",
+        "title": "Chill coming from Trump’s summit with Xi is proof of a new Cold War with China",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/opinion/chill-coming-trumps-summit-xi-proof-new-cold-war-china",
+        "published": "2026-05-17T12:00:19Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Lai says Taiwan will not be 'sacrificed or traded away' after Trump remarks",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260517-cna01.htm",
+        "published": "2026-05-17T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Taiwan remains committed to status quo after Trump's China trip",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-05-17/taiwan-asserts-its-independence-after-trump-visits-china/106689078",
-        "published": "2026-05-16T21:30:04Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "In response to Trump, Taiwan says it is ‘sovereign and independent’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/16/in-response-to-trump-taiwan-says-it-is-sovereign-and-independent",
-        "published": "2026-05-16T19:44:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump departs Beijing summit with Xi Jinping without breakthroughs",
+        "title": "Trump advisers warn of heightened risk of China invading Taiwan in next 5 years",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-xi-beijing-summit-no-breakthroughs/",
-        "published": "2026-05-16T18:56:14Z",
+        "url": "https://cryptobriefing.com/trump-advisers-china-taiwan-invasion-risk/",
+        "published": "2026-05-17T11:09:26Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iranian Speaker Ghalibaf declares 'new world order' led by the Global South",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iranian-speaker-ghalibaf-declares-new-world-order-led-by-the-global-south/articleshow/131149431.cms",
+        "published": "2026-05-17T05:43:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "How China framed Donald Trump through the Thucydides Trap",
-        "source": "Livemint",
-        "url": "https://www.livemint.com/opinion/online-views/china-outmaneuvers-donald-trump-thucydides-trap-global-power-shift-11778920563427.html",
-        "published": "2026-05-16T12:01:44Z",
+        "title": "Trump’s Cleanup Crescendo",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/articles/2026/05/trump_s_cleanup_crescendo.html",
+        "published": "2026-05-17T04:00:00Z",
         "sentiment": "watch"
       }
     ],
