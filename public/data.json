@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-18T19:13:57.733Z",
+    "generated_at": "2026-05-18T22:39:47.394Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "UAE slams 'dangerous escalation' after drone hits near nuclear plant",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-05-18/drone-strike-in-uae-nuclear-station/106690388",
-        "published": "2026-05-17T18:51:31Z",
+        "title": "Oil Climbs as Iran War Shows No Sign of Ending: Markets Wrap",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/oil-climbs-as-iran-war-shows-no-sign-of-ending-markets-wrap",
+        "published": "2026-05-17T22:34:36Z",
         "sentiment": "danger"
       },
       {
-        "title": "‘The clock is ticking’: Trump issues fresh threat against Iran",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/05/17/the-clock-is-ticking-trump-issues-fresh-threat-against-iran/",
-        "published": "2026-05-17T17:27:40Z",
-        "sentiment": "danger"
+        "title": "Auto Repair Shops Report Lubricant Shortages",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/149250.php",
+        "published": "2026-05-17T22:20:26Z",
+        "sentiment": "watch"
       },
       {
-        "title": "US & Israel Prepare To Attack Iran Next Week",
-        "source": "Shtfplan.com",
-        "url": "https://www.shtfplan.com/war/us-israel-prepare-to-attack-iran-next-week",
-        "published": "2026-05-17T17:00:25Z",
-        "sentiment": "danger"
+        "title": "Why Japan’s Naphtha Shortage is Creating Supply Bottlenecks",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/149249.php",
+        "published": "2026-05-17T22:08:40Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Strait of Hormuz deadlock deepens? Drone strike at nuclear power plant in UAE",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/strait-of-hormuz-deadlock-deepens-drone-strike-at-nuclear-power-plant-in-uae/articleshow/131157636.cms",
-        "published": "2026-05-17T16:05:31Z",
-        "sentiment": "danger"
+        "title": "Logistics Managers’ Index transportation prices surge 5.6 points in April, hitting second-highest level ever",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/lmi-transportation-prices-surge-april/",
+        "published": "2026-05-17T21:41:01Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
