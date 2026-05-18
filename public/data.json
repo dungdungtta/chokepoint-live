@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-18T12:48:58.996Z",
+    "generated_at": "2026-05-18T19:13:57.733Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,76 +27,69 @@
   "news": {
     "hormuz": [
       {
-        "title": "India may have to ‘bilaterally negotiate transit corridors with Iran,’ says Moody",
-        "source": "The Indian Express",
-        "url": "https://indianexpress.com/article/india/moodys-india-gdp-growth-estimate-cut-strait-of-hormuz-oil-supply-crisis-10694109/",
-        "published": "2026-05-17T12:06:23Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "HORMUZ TRACKER: Gridlock Persists While Blocked Tanker Sails On",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/hormuz-tracker-gridlock-persists-while-blocked-tanker-sails-on",
-        "published": "2026-05-17T10:57:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Lets Russian Oil Waiver Linked To Iran War Expire, Reimposing Sanctions",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/05/russia-260517-rferl02.htm",
-        "published": "2026-05-17T10:51:18Z",
+        "title": "UAE slams 'dangerous escalation' after drone hits near nuclear plant",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-05-18/drone-strike-in-uae-nuclear-station/106690388",
+        "published": "2026-05-17T18:51:31Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran Explores Massive Undersea Gas Fields Beneath Strait of Hormuz in Energy Power Play",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/iran-gas-exploration-strait-hormuz-1869016",
-        "published": "2026-05-17T09:53:23Z",
-        "sentiment": "watch"
+        "title": "‘The clock is ticking’: Trump issues fresh threat against Iran",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/05/17/the-clock-is-ticking-trump-issues-fresh-threat-against-iran/",
+        "published": "2026-05-17T17:27:40Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Vietnam’s Largest Refinery Sees ‘Stable’ Operations Through June",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/vietnams-largest-refinery-sees-stable-operations-through-june",
-        "published": "2026-05-17T09:50:58Z",
-        "sentiment": "watch"
+        "title": "US & Israel Prepare To Attack Iran Next Week",
+        "source": "Shtfplan.com",
+        "url": "https://www.shtfplan.com/war/us-israel-prepare-to-attack-iran-next-week",
+        "published": "2026-05-17T17:00:25Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Strait of Hormuz deadlock deepens? Drone strike at nuclear power plant in UAE",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/strait-of-hormuz-deadlock-deepens-drone-strike-at-nuclear-power-plant-in-uae/articleshow/131157636.cms",
+        "published": "2026-05-17T16:05:31Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
       {
-        "title": "Chill coming from Trump’s summit with Xi is proof of a new Cold War with China",
+        "title": "Taiwan’s president says the U.S. arms sales that Trump called a bargaining chip with China are ‘the most important deterrent’ of regional conflict",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/05/17/taiwan-president-us-arms-sales-trump-china-bargaining-chip-deterrent-regional-conflict/",
+        "published": "2026-05-17T18:13:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" May 17, 2026",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-05-17-2026/",
+        "published": "2026-05-17T18:00:27Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan's president defends U.S. arms purchases after Trump sowed doubts following visit to China",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/world/taiwans-president-defends-u-s-arms-purchases-after-trumps-visit-to-china",
+        "published": "2026-05-17T16:42:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan's president says island 'will never be sacrificed or traded' in stern rebuke of China",
         "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/chill-coming-trumps-summit-xi-proof-new-cold-war-china",
-        "published": "2026-05-17T12:00:19Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Lai says Taiwan will not be 'sacrificed or traded away' after Trump remarks",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260517-cna01.htm",
-        "published": "2026-05-17T12:00:00Z",
+        "url": "https://www.foxnews.com/us/taiwans-president-says-island-never-sacrificed-traded-stern-rebuke-china",
+        "published": "2026-05-17T16:35:22Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump advisers warn of heightened risk of China invading Taiwan in next 5 years",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-advisers-china-taiwan-invasion-risk/",
-        "published": "2026-05-17T11:09:26Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iranian Speaker Ghalibaf declares 'new world order' led by the Global South",
+        "title": "\"Taiwan no pushover\": Chinese Studies Expert Srikanth Kondapalli warns Beijing faces catastrophic casualties in event of invasion",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/iranian-speaker-ghalibaf-declares-new-world-order-led-by-the-global-south/articleshow/131149431.cms",
-        "published": "2026-05-17T05:43:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump’s Cleanup Crescendo",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/articles/2026/05/trump_s_cleanup_crescendo.html",
-        "published": "2026-05-17T04:00:00Z",
-        "sentiment": "watch"
+        "url": "https://economictimes.indiatimes.com/news/defence/taiwan-no-pushover-chinese-studies-expert-srikanth-kondapalli-warns-beijing-faces-catastrophic-casualties-in-event-of-invasion/articleshow/131156643.cms",
+        "published": "2026-05-17T16:04:35Z",
+        "sentiment": "danger"
       }
     ],
     "malacca": [
