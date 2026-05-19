@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-18T22:39:47.394Z",
+    "generated_at": "2026-05-19T10:49:30.089Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,68 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Climbs as Iran War Shows No Sign of Ending: Markets Wrap",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-climbs-as-iran-war-shows-no-sign-of-ending-markets-wrap",
-        "published": "2026-05-17T22:34:36Z",
+        "title": "Greece of 10.3 million people that “rules” the seas with a $134 billion fleet (pic)",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/05/18/greece-of-10-3-million-people-that-rules-the-seas-with-a-134-billion-fleet-pic/",
+        "published": "2026-05-18T10:49:03Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran War Saddles Global Companies With $25 Billion Bill – and Counting",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/05/18/870299.htm",
+        "published": "2026-05-18T10:35:43Z",
         "sentiment": "danger"
       },
       {
-        "title": "Auto Repair Shops Report Lubricant Shortages",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/149250.php",
-        "published": "2026-05-17T22:20:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why Japan’s Naphtha Shortage is Creating Supply Bottlenecks",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/149249.php",
-        "published": "2026-05-17T22:08:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Logistics Managers’ Index transportation prices surge 5.6 points in April, hitting second-highest level ever",
+        "title": "G7 meets in Paris as Iran plans Strait of Hormuz transit fees amid tensions",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/lmi-transportation-prices-surge-april/",
-        "published": "2026-05-17T21:41:01Z",
+        "url": "https://cryptobriefing.com/g7-meets-in-paris-as-iran-plans-strait-of-hormuz-transit-fees-amid-tensions/",
+        "published": "2026-05-18T10:34:54Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "[S&S]$14.20: 5-Qt Castrol GTX High Mileage 5W-20 Synthetic Blend Motor Oil at Amazon (0 replies)",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19534227-s-s-14-20-5-qt-castrol-gtx-high-mileage-5w-20-synthetic-blend-motor-oil-at-amazon",
+        "published": "2026-05-18T10:10:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Shipbroking Industry Strategic Business Report 2026-2032: Surge in Global Trade Volumes, Driven by Increased Consumption, Industrialization, and Economic Growth in Emerging Markets Fuels Demand",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/05/18/3296410/28124/en/Shipbroking-Industry-Strategic-Business-Report-2026-2032-Surge-in-Global-Trade-Volumes-Driven-by-Increased-Consumption-Industrialization-and-Economic-Growth-in-Emerging-Markets-Fue.html",
+        "published": "2026-05-18T10:03:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "Taiwan’s president says the U.S. arms sales that Trump called a bargaining chip with China are ‘the most important deterrent’ of regional conflict",
+        "title": "Transcript: Trump Rages Wildly at Journo—and Exposes Big Iran Blunder",
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/article/210551/transcript-trump-rages-wildly-journo-and-exposes-big-iran-blunder",
+        "published": "2026-05-18T10:47:55Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "President Trump says the White House’s dealmaking era ends with him: ‘It’s not going to happen again’",
         "source": "Fortune",
-        "url": "https://fortune.com/2026/05/17/taiwan-president-us-arms-sales-trump-china-bargaining-chip-deterrent-regional-conflict/",
-        "published": "2026-05-17T18:13:40Z",
+        "url": "https://fortune.com/2026/05/18/trump-exclusive-interview-deals-ai-china-inflation-interest-rates/",
+        "published": "2026-05-18T10:45:27Z",
         "sentiment": "watch"
       },
       {
-        "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" May 17, 2026",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-05-17-2026/",
-        "published": "2026-05-17T18:00:27Z",
+        "title": "Is Trump’s China ‘win’ real or just pomp? The hidden trade-offs for the US",
+        "source": "The Indian Express",
+        "url": "https://indianexpress.com/article/opinion/columns/trump-china-trade-offs-for-the-us-tariff-xi-jinping-10695757/",
+        "published": "2026-05-18T09:59:26Z",
         "sentiment": "watch"
       },
       {
-        "title": "Taiwan's president defends U.S. arms purchases after Trump sowed doubts following visit to China",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/world/taiwans-president-defends-u-s-arms-purchases-after-trumps-visit-to-china",
-        "published": "2026-05-17T16:42:13Z",
+        "title": "Taiwan defends US arms sales as ‘deterrent’ against Beijing",
+        "source": "RT",
+        "url": "https://www.rt.com/news/640112-taiwan-defends-us-arms-sales/",
+        "published": "2026-05-18T08:19:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "Taiwan's president says island 'will never be sacrificed or traded' in stern rebuke of China",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/us/taiwans-president-says-island-never-sacrificed-traded-stern-rebuke-china",
-        "published": "2026-05-17T16:35:22Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "\"Taiwan no pushover\": Chinese Studies Expert Srikanth Kondapalli warns Beijing faces catastrophic casualties in event of invasion",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/taiwan-no-pushover-chinese-studies-expert-srikanth-kondapalli-warns-beijing-faces-catastrophic-casualties-in-event-of-invasion/articleshow/131156643.cms",
-        "published": "2026-05-17T16:04:35Z",
+        "title": "Beijing’s War Dividend: China’s Asymmetric Gains from the US-Israeli Campaign Against Iran",
+        "source": "Smallwarsjournal.com",
+        "url": "https://smallwarsjournal.com/2026/05/18/beijing-war-dividend-us-iran-war-asymmetric-gains/",
+        "published": "2026-05-18T06:00:55Z",
         "sentiment": "danger"
       }
     ],
