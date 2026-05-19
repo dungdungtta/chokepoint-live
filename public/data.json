@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-19T18:19:08.123Z",
+    "generated_at": "2026-05-19T22:47:32.150Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,63 @@
   "news": {
     "hormuz": [
       {
-        "title": "Treasury Extends Russian Oil Sanctions Relief Hormuz Crisis Tightens Global Supplies",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/treasury-extends-russian-oil-waiver-as-hormuz-crisis-tightens-global-supplies/",
-        "published": "2026-05-18T17:51:46Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Iran Moves Toward Formal Strait of Hormuz Toll System",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/iran-formal-strait-of-hormuz-tolls-transit-fees-pgsa-persian-gulf-insurance-1238971323/",
-        "published": "2026-05-18T17:39:52Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "European markets start week on positive note",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/2026/05/18/european-markets-start-week-on-positive-note/",
-        "published": "2026-05-18T17:33:01Z",
+        "title": "5.07-Oz Fation Nosca9 Deep Pore Cleansing Foam for Sensitive Skin $7.20 w/ S&S",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19518942-fation-nosca9-deep-pore-cleansing-foam-8-free-shipping-w-prime-or-orders-35",
+        "published": "2026-05-18T22:18:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "Markets start the week on a positive note",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/2026/05/18/markets-start-the-week-on-a-positive-note/",
-        "published": "2026-05-18T17:33:01Z",
+        "title": "Airline execs brace for more Spirit-like collapses amid Trump-triggered 'Armageddon'",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/trump-spirit-2676910376/",
+        "published": "2026-05-18T22:07:40Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran Warns The US: Gulf Of Oman Could Become A “Graveyard”",
-        "source": "Shtfplan.com",
-        "url": "https://www.shtfplan.com/member-exclusive/iran-warns-the-us-gulf-of-oman-could-become-a-graveyard",
-        "published": "2026-05-18T17:30:39Z",
+        "title": "Commentary: Will UAE’s OPEC exit be another risk for Singapore’s refineries?",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/commentary/uae-opec-exit-impact-singapore-refinery-oil-petrochemical-6127936",
+        "published": "2026-05-18T21:59:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Breitbart Business Digest: Warsh’s Supply-Side Case for Cutting Rates",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/economy/2026/05/18/breitbart-business-digest-warshs-supply-side-case-for-cutting-rates/",
+        "published": "2026-05-18T21:41:43Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Nasdaq leads equity losses with oil, borrowing costs in focus",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/companies-markets/nasdaq-leads-equity-losses-with-oil-borrowing-costs-in-focus",
+        "published": "2026-05-18T21:32:54Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "President Trump’s China summit: Letters to the Editor — May 19, 2026",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/05/18/opinion/president-trumps-china-summit-letters/",
+        "published": "2026-05-18T22:03:04Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump’s Taiwan ‘negotiating chip’ remark sparks alarm over how far he'd shift US-China policy",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/trumps-taiwan-negotiating-chip-remark-sparks-alarm-over-how-far-hed-shift-us-china-policy",
+        "published": "2026-05-18T19:15:30Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Xi Jinping's 'Thucydides Trap' warning: Is China outsmarting the US without engaging in actual conflict?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/xi-jinpings-thucydides-trap-warning-is-china-outsmarting-the-us-without-a-fight/articleshow/131183654.cms",
+        "published": "2026-05-18T18:29:28Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Did Trump Trade Taiwan To China To End The Iran And Russia Wars?",
         "source": "OilPrice.com",
@@ -75,27 +96,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/05/whats-on-the-agenda-for-the-3rd-lee-takaichi-summit/",
         "published": "2026-05-18T16:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How China became the new master of Russia's economy",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/how-china-became-the-new-master-of-russias-economy/a-77193402",
-        "published": "2026-05-18T15:34:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Going beyond the optics",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/opinion/going-beyond-the-optics/article70994018.ece",
-        "published": "2026-05-18T14:58:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran Could Be Trump’s Greatest Failure",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/05/18/iran-war-trump-foreign-policy-failure-energy-crisis-military/",
-        "published": "2026-05-18T14:52:06Z",
         "sentiment": "watch"
       }
     ],
