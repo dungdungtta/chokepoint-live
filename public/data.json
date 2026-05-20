@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-20T19:33:59.543Z",
+    "generated_at": "2026-05-20T23:56:18.291Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Japan and South Korea Split on Energy Conservation",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/149277.php",
-        "published": "2026-05-19T19:31:11Z",
+        "title": "Putin meets Xi: Why Russia and China need each other",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/19/putin-meets-xi-why-russia-and-china-need-each-other",
+        "published": "2026-05-19T23:07:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump voter turns on president during call to MAGA network: 'I'm being lied to'",
-        "source": "Raw Story",
-        "url": "https://www.rawstory.com/maga-caller-turns-on-trump/",
-        "published": "2026-05-19T18:58:50Z",
+        "title": "U.S. intel assessment says military identified at least 10 mines in Strait of Hormuz",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/u-s-intel-assessment-said-military-identified-at-least-10-mines-in-strait-of-hormuz/",
+        "published": "2026-05-19T22:11:56Z",
         "sentiment": "watch"
       },
       {
-        "title": "Alberta's timeline for West Coast pipeline 'best-case scenario': CIBC analysts",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/canada/edmonton/alberta-west-coast-pipeline-9.7204537",
-        "published": "2026-05-19T18:14:04Z",
+        "title": "USA Lawmakers Plan New $130 Fee for EV Owners",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/usa_lawmakers_plan_new_130_fee_for_ev_owners-19-may-2026-183728-article/",
+        "published": "2026-05-19T21:00:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump delays military strike on Iran amid ongoing negotiations",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-delays-iran-military-strike-negotiations/",
-        "published": "2026-05-19T18:02:58Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Virginia Transformer Announces Plan to Further Expand With New Greenfield Plant in Muscle Shoals, Alabama, Bringing 1,100 High-Paying Jobs to the Region",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/virginia-transformer-announces-plan-to-further-expand-with-new-greenfield-plant-in-muscle-shoals-alabama-bringing-1-100-high-paying-jobs-to-the-region-302776563.html",
-        "published": "2026-05-19T17:31:00Z",
+        "title": "Brent, WTI Slip In Volatile Trade",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/brent_wti_slip_in_volatile_trade-19-may-2026-183729-article/",
+        "published": "2026-05-19T20:32:28Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Demining the Strait of Hormuz: Q&A with Scott Savitz",
+        "source": "Rand.org",
+        "url": "https://www.rand.org/pubs/commentary/2026/05/demining-the-strait-of-hormuz-qa-with-scott-savitz.html",
+        "published": "2026-05-19T20:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Weaponised dependency: Chinese mercantilism is more damaging to global trade than Trump tariffs",
         "source": "The Times of India",
@@ -90,13 +90,6 @@
         "url": "https://www.news24.com/world/trump-says-iran-attack-on-hold-what-we-know-about-latest-negotiations-20260519-0823",
         "published": "2026-05-19T13:43:28Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "What does China want from Putin?",
-        "source": "The Week Magazine",
-        "url": "https://theweek.com/world-news/what-does-china-want-from-putin",
-        "published": "2026-05-19T13:34:49Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
