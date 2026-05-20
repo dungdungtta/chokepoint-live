@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-19T22:47:32.150Z",
+    "generated_at": "2026-05-20T10:36:20.562Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,75 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "5.07-Oz Fation Nosca9 Deep Pore Cleansing Foam for Sensitive Skin $7.20 w/ S&S",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19518942-fation-nosca9-deep-pore-cleansing-foam-8-free-shipping-w-prime-or-orders-35",
-        "published": "2026-05-18T22:18:39Z",
+        "title": "West Asia crisis, weather headwinds to moderate India’s FY27 growth: Rating agencies",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/west-asia-crisis-weather-headwinds-to-moderate-indias-fy27-growth-rating-agencies/article70997617.ece",
+        "published": "2026-05-19T10:33:55Z",
         "sentiment": "watch"
       },
       {
-        "title": "Airline execs brace for more Spirit-like collapses amid Trump-triggered 'Armageddon'",
-        "source": "Raw Story",
-        "url": "https://www.rawstory.com/trump-spirit-2676910376/",
-        "published": "2026-05-18T22:07:40Z",
+        "title": "News24 | Putin visits ‘dear friend’ Xi Jinping in show of strong ties between Russia and China",
+        "source": "News24",
+        "url": "https://www.news24.com/world/putin-visits-dear-friend-xi-jinping-in-show-of-strong-ties-between-russia-and-china-20260519-0343",
+        "published": "2026-05-19T10:32:49Z",
         "sentiment": "watch"
       },
       {
-        "title": "Commentary: Will UAE’s OPEC exit be another risk for Singapore’s refineries?",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/commentary/uae-opec-exit-impact-singapore-refinery-oil-petrochemical-6127936",
-        "published": "2026-05-18T21:59:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Breitbart Business Digest: Warsh’s Supply-Side Case for Cutting Rates",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/economy/2026/05/18/breitbart-business-digest-warshs-supply-side-case-for-cutting-rates/",
-        "published": "2026-05-18T21:41:43Z",
+        "title": "Oil slides nearly 2% after Trump delays planned strike on Iran",
+        "source": "Advfn.com",
+        "url": "https://investorshub.advfn.com/market-news/article/28615/oil-slides-nearly-2-after-trump-delays-planned-strike-on-iran",
+        "published": "2026-05-19T10:30:16Z",
         "sentiment": "danger"
       },
       {
-        "title": "Nasdaq leads equity losses with oil, borrowing costs in focus",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/companies-markets/nasdaq-leads-equity-losses-with-oil-borrowing-costs-in-focus",
-        "published": "2026-05-18T21:32:54Z",
+        "title": "Why Emkay is seeing Nifty at 29,000 by March 2027 despite oil shock, West Asia tensions",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-emkay-is-seeing-nifty-at-29000-by-march-2027-despite-oil-shock-west-asia-tensions/articleshow/131197606.cms",
+        "published": "2026-05-19T10:23:53Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Can Middle East Oil Producers Meaningfully Bypass the Strait?",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/can_middle_east_oil_producers_meaningfully_bypass_the_strait-19-may-2026-183721-article/",
+        "published": "2026-05-19T10:19:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "President Trump’s China summit: Letters to the Editor — May 19, 2026",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/05/18/opinion/president-trumps-china-summit-letters/",
-        "published": "2026-05-18T22:03:04Z",
+        "title": "‘China holds the cards’: Why Putin’s visit to Beijing after Trump matters",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/5/19/neutral-superpower-china-why-putin-visit-to-beijing-after-trump-matters",
+        "published": "2026-05-19T09:15:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump’s Taiwan ‘negotiating chip’ remark sparks alarm over how far he'd shift US-China policy",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/trumps-taiwan-negotiating-chip-remark-sparks-alarm-over-how-far-hed-shift-us-china-policy",
-        "published": "2026-05-18T19:15:30Z",
-        "sentiment": "neutral"
+        "title": "Did Xi Really Trade Iran for Taiwan?",
+        "source": "CounterPunch",
+        "url": "https://www.counterpunch.org/2026/05/19/did-xi-really-trade-iran-for-taiwan/",
+        "published": "2026-05-19T06:00:09Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Xi Jinping's 'Thucydides Trap' warning: Is China outsmarting the US without engaging in actual conflict?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/xi-jinpings-thucydides-trap-warning-is-china-outsmarting-the-us-without-a-fight/articleshow/131183654.cms",
-        "published": "2026-05-18T18:29:28Z",
-        "sentiment": "danger"
+        "title": "Putin and Xi deepen strategic alliance as China balances ties with Trump",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-05-19-putin-xi-strategic-alliance-china-trump.html",
+        "published": "2026-05-19T06:00:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Did Trump Trade Taiwan To China To End The Iran And Russia Wars?",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Geopolitics/International/Did-Trump-Trade-Taiwan-To-China-To-End-The-Iran-And-Russia-Wars.html",
-        "published": "2026-05-18T17:00:00Z",
-        "sentiment": "danger"
+        "title": "Donald Trump Considers Backtracking to Xi Jinping, by Thierry Meyssan",
+        "source": "Red Voltaire",
+        "url": "https://www.voltairenet.org/article224529.html",
+        "published": "2026-05-19T05:58:07Z",
+        "sentiment": "watch"
       },
       {
-        "title": "What’s on the Agenda for the 3rd Lee-Takaichi Summit?",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/05/whats-on-the-agenda-for-the-3rd-lee-takaichi-summit/",
-        "published": "2026-05-18T16:30:00Z",
+        "title": "How China became Russia's economic lifeline",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/china-russia-economy-trade-sanctions-iran-strait-of-hormuz-technology-oil/a-77193402",
+        "published": "2026-05-19T04:43:00Z",
         "sentiment": "watch"
       }
     ],
