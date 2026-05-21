@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-21T18:30:05.306Z",
+    "generated_at": "2026-05-21T22:51:41.508Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,68 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "Norway’s Offshore Oil Production Beats Forecasts in April",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Norways-Offshore-Oil-Production-Beats-Forecasts-in-April.html",
-        "published": "2026-05-20T17:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "War in Middle East: latest developments",
-        "source": "Digital Journal",
-        "url": "https://www.digitaljournal.com/world/war-in-middle-east-latest-developments-5/article",
-        "published": "2026-05-20T17:17:20Z",
+        "title": "Iran Warns Will Take The War “Beyond The Region” If Trump Restarts Attacks",
+        "source": "Shtfplan.com",
+        "url": "https://www.shtfplan.com/war/iran-warns-will-take-the-war-beyond-the-region-if-trump-restarts-attacks",
+        "published": "2026-05-20T22:30:29Z",
         "sentiment": "danger"
       },
       {
-        "title": "Memory makers brace for hydrogen fluoride pricing shock as Hormuz blockade impacts supply chain — key etching and cleaning material faces sharp cost increase amid trade disruption",
-        "source": "Tom's Hardware UK",
-        "url": "https://www.tomshardware.com/tech-industry/memory-makers-brace-for-hydrogen-fluoride-pricing-shock-as-hormuz-blockade-impacts-supply-chain-key-etching-and-cleaning-material-faces-sharp-cost-increase-amid-trade-disruption",
-        "published": "2026-05-20T17:07:22Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "JODI: Saudi Arabia Crude Exports Sink To Record Lows",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/JODI-Saudi-Arabia-Crude-Exports-Sink-To-Record-Lows.html",
-        "published": "2026-05-20T16:55:00Z",
+        "title": "Trump says willing to wait for a few days to get 'right answer' on Iran peace deal",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/iran-war-trump-wait-right-answer-peace-deal-6132091",
+        "published": "2026-05-20T22:23:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Original-Owner 2003 Honda Valkyrie at No Reserve",
+        "title": "1965 Chevrolet Corvette Convertible L76 327/365 4-Speed",
         "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2003-honda-valkyrie-3/",
-        "published": "2026-05-20T16:40:17Z",
+        "url": "https://bringatrailer.com/listing/1965-chevrolet-corvette-convertible-266/",
+        "published": "2026-05-20T22:15:12Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "U.S. intel community analyzing how Cuba might respond to military action",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/u-s-intel-community-analyzing-how-cuba-might-respond-to-military-action/",
+        "published": "2026-05-20T22:14:52Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S. military boards Iranian-flagged oil tanker suspected of trying to breach blockade",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/world/u-s-military-boards-iranian-flagged-oil-tanker-suspected-of-trying-to-breach-blockade",
+        "published": "2026-05-20T22:05:52Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Xi, Putin rap Japan for 'accelerated remilitarization'",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/politics/update3-chinese-russian-leaders-rap-japan-for-accelerated-remilitarization",
+        "published": "2026-05-20T21:46:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S. test fires mobile rocket system near Mount Fuji in rapid 'shoot and scoot' drill",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/national/us-test-fires-mobile-rocket-system-near-mount-fuji-in-rapid-%27shoot-and-scoot%27-drill",
+        "published": "2026-05-20T21:38:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump to speak with Taiwan’s president, challenging US-China relations",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-taiwan-call-us-china-relations/",
+        "published": "2026-05-20T20:40:54Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "News24 | Trump to speak with Taiwan's president in a new challenge for US-China relations",
+        "source": "News24",
+        "url": "https://www.news24.com/world/trump-to-speak-with-taiwans-president-in-a-new-challenge-for-us-china-relations-20260520-1015",
+        "published": "2026-05-20T19:07:29Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump to speak with Taiwan's president in a new challenge for US-China relations",
         "source": "Yahoo Entertainment",
         "url": "https://www.yahoo.com/news/articles/trump-says-speak-taiwans-president-140438756.html",
         "published": "2026-05-20T16:20:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Xi plays a masterful hand amid Trump’s chaos and Putin’s decline",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/xi-plays-a-masterful-hand-amid-trumps-chaos-and-putins-decline-golden-dome-beijing-moscow-oil-deal/articleshow/131230813.cms",
-        "published": "2026-05-20T16:17:22Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump’s Iran War: America Loss Is China’s Win",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/podcasts/2026/05/david-frum-show-phillis-obrien-iran-war-china/687234/",
-        "published": "2026-05-20T16:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "America's Greatest Strategic Blunder: The Imprisonment of Qian Xuesen",
-        "source": "Weblog.lol",
-        "url": "https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen",
-        "published": "2026-05-20T13:19:36Z",
         "sentiment": "watch"
       }
     ],
