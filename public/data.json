@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-22T10:35:13.321Z",
+    "generated_at": "2026-05-22T17:28:01.607Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,68 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "India to prioritise releasing stranded vessels in Hormuz, may resume tanker loading when conditions improve, says official",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/india/india-to-prioritise-releasing-stranded-vessels-in-hormuz-may-resume-tanker-loading-when-conditions-improve-says-official/articleshow/131244872.cms",
-        "published": "2026-05-21T10:23:35Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Iran war accelerates depletion of global oil stocks ahead of travel season",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-war-oil-stocks-depletion-travel-season/",
-        "published": "2026-05-21T10:15:07Z",
+        "title": "FG targets war-risk delisting, records four-year zero piracy — Minister",
+        "source": "The Punch",
+        "url": "https://punchng.com/fg-targets-war-risk-delisting-records-four-year-zero-piracy-minister/",
+        "published": "2026-05-21T17:23:23Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran-U.S. diplomacy intensifies as Trump seeks ‘right answers,’ Tehran signals gaps ‘reduced’",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/iran-us-talks-trump-tehran-gaps-nuclear-deal-pakistan-war-rcna346258",
-        "published": "2026-05-21T09:52:15Z",
+        "title": "OPEC+ to approve 188,000 bpd oil output quota hike at June 7 meeting",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/opec-plus-oil-output-hike-june-meeting/",
+        "published": "2026-05-21T17:00:41Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran War: Trump-Netanyahu Dust-Up Over Negotiations – Bona Fide or Deception? Oil Speculators Cheer Three Supertankers Leaving Gulf, as Continued Bond and Financial Market Decline Seems Likely",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/05/iran-war-trump-netanyahu-dust-up-over-negotiations-bona-fide-or-deception-oil-speculators-cheer-three-supertankers-leaving-gulf-as-continued-bond-and-financial-market-decline-seems-likely.html",
-        "published": "2026-05-21T09:17:45Z",
-        "sentiment": "danger"
+        "title": "Iran in Talks With Oman Over Permanent Toll System for Hormuz",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/05/21/870974.htm",
+        "published": "2026-05-21T15:58:46Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Iran forms PGSA, tightens control over Strait of Hormuz vessel permits",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-forms-pgsa-tightens-control-over-strait-of-hormuz-vessel-permits/",
+        "published": "2026-05-21T15:52:53Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Inside Hormuz: RT gets rare look at gridlock in vital shipping lane (VIDEO)",
+        "source": "RT",
+        "url": "https://www.rt.com/news/640347-rt-hormuz-gridlock-video/",
+        "published": "2026-05-21T15:44:15Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "China reportedly blocks Pentagon visit amid $14B Taiwan arms deal talks",
+        "title": "Trump says he’ll speak to Taiwan’s leader: Why that is significant",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/21/trump-says-hell-speak-to-taiwans-leader-why-that-is-significant",
+        "published": "2026-05-21T16:31:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Gauging the Xi-Trump summit and its geopolitical implications",
+        "source": "Freethoughtblogs.com",
+        "url": "https://freethoughtblogs.com/singham/2026/05/21/gauging-the-xi-trump-summit-and-its-geopolitical-implications/",
+        "published": "2026-05-21T16:22:19Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan welcomes potential call between President Lai and Trump, raising stakes for crypto markets",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/china-blocks-pentagon-visit-taiwan-arms-deal/",
-        "published": "2026-05-21T09:04:31Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Taiwan welcomes idea of Trump talking to its president, which would be a major break in protocol",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/taiwan/trump-says-will-speak-taiwan-president-major-break-protocol-rcna346259",
-        "published": "2026-05-21T07:57:45Z",
+        "url": "https://cryptobriefing.com/taiwan-trump-call-crypto-implications/",
+        "published": "2026-05-21T12:10:54Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump says he’s willing to talk to Taiwan’s leader",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/05/21/asia/trump-taiwan-china-lai-call-intl-hnk",
-        "published": "2026-05-21T07:13:56Z",
+        "title": "INTERVIEW / Top U.S. envoy affirms Taiwan commitments despite Trump's remarks",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260521-cna02.htm",
+        "published": "2026-05-21T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Three key takeaways from Putin's Beijing trip — and what they reveal about China-Russia ties",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/21/china-russia-putin-xi-jinping-ties-deals-energy-siberia-pipeline-trump-visits-.html",
-        "published": "2026-05-21T05:34:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Oldest U.S. Navy Supercarrier Is Now Operating In The Caribbean",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/petersuciu/2026/05/20/the-oldest-us-navy-supercarrier-is-now-operating-in-the-caribbean/",
-        "published": "2026-05-21T02:10:46Z",
+        "title": "Trump plans to speak with Taiwan’s President Lai Ching-te in unprecedented diplomatic shift",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-taiwan-call-diplomatic-shift-crypto/",
+        "published": "2026-05-21T11:40:23Z",
         "sentiment": "watch"
       }
     ],
