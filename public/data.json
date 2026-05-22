@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-22T17:28:01.607Z",
+    "generated_at": "2026-05-22T21:45:45.393Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "FG targets war-risk delisting, records four-year zero piracy — Minister",
-        "source": "The Punch",
-        "url": "https://punchng.com/fg-targets-war-risk-delisting-records-four-year-zero-piracy-minister/",
-        "published": "2026-05-21T17:23:23Z",
+        "title": "Geologic Hydrogen Could Produce Clean Fuel for Less Than $1 Per Kilogram",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Geologic-Hydrogen-Could-Produce-Clean-Fuel-for-Less-Than-1-Per-Kilogram.html",
+        "published": "2026-05-21T21:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran’s Hormuz authority claims control over UAE and Oman ports, draws sharp rebuke and introduces Bitcoin tolls",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-hormuz-authority-bitcoin-tolls-uae/",
+        "published": "2026-05-21T20:31:51Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Israeli Minister’s Taunting of Detained Flotilla Activists Sparks Foreign Backlash",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/05/21/ben-gvir-video-israel-detained-activists-global-sumud-flotilla/",
+        "published": "2026-05-21T20:15:05Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Rubio warns Iran’s Hormuz tolling system would kill diplomatic deal as Tehran collects fees in Bitcoin and USDT",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/rubio-iran-hormuz-tolling-crypto/",
+        "published": "2026-05-21T20:09:05Z",
         "sentiment": "danger"
       },
       {
-        "title": "OPEC+ to approve 188,000 bpd oil output quota hike at June 7 meeting",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/opec-plus-oil-output-hike-june-meeting/",
-        "published": "2026-05-21T17:00:41Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran in Talks With Oman Over Permanent Toll System for Hormuz",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/05/21/870974.htm",
-        "published": "2026-05-21T15:58:46Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Iran forms PGSA, tightens control over Strait of Hormuz vessel permits",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-forms-pgsa-tightens-control-over-strait-of-hormuz-vessel-permits/",
-        "published": "2026-05-21T15:52:53Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Inside Hormuz: RT gets rare look at gridlock in vital shipping lane (VIDEO)",
-        "source": "RT",
-        "url": "https://www.rt.com/news/640347-rt-hormuz-gridlock-video/",
-        "published": "2026-05-21T15:44:15Z",
+        "title": "Lunavelle Sleep Patches Claims Evaluated: Most Effective Melatonin-Free Patches for Deeper Rest with Time-Tested Ingredients Proven To Work",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/05/21/3299729/0/en/Lunavelle-Sleep-Patches-Claims-Evaluated-Most-Effective-Melatonin-Free-Patches-for-Deeper-Rest-with-Time-Tested-Ingredients-Proven-To-Work.html",
+        "published": "2026-05-21T20:05:00Z",
         "sentiment": "watch"
       }
     ],
