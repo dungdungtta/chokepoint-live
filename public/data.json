@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-23T15:46:44.356Z",
+    "generated_at": "2026-05-23T20:09:53.359Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "US or Iran: Who will win the Hormuz endurance game?",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/us-or-iran-who-will-win-the-hormuz-endurance-game/a-77211690",
-        "published": "2026-05-22T15:38:00Z",
+        "title": "Shadowy ‘ghost fleet’ tanker hit with $6.4m cocaine bust in LA port",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/05/22/us-news/500-pounds-of-cocaine-seized-on-tanker-in-port-of-los-angeles/",
+        "published": "2026-05-22T20:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Americans have shelled out $45B in extra fuel costs since Iran war — as $5 gas looms: researchers",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/05/22/business/americans-said-to-shell-out-45b-in-extra-fuel-costs-from-iran-war-as-5-gas-looms/",
-        "published": "2026-05-22T15:16:18Z",
-        "sentiment": "danger"
+        "title": "Hengli Group faces US sanctions over Iranian oil purchases, sending shockwaves through energy and prediction markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/hengli-group-us-sanctions-iranian-oil/",
+        "published": "2026-05-22T19:51:05Z",
+        "sentiment": "watch"
       },
       {
-        "title": "In the Wake of the Attempted Missile Strike on Moscow. What Next?",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/approach-strikes-ukraine-changed-attempted-raid-moscow/5927184",
-        "published": "2026-05-22T15:02:01Z",
-        "sentiment": "danger"
+        "title": "1966 Chevrolet Corvette Convertible 427/425 L72 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1966-chevrolet-corvette-convertible-305/",
+        "published": "2026-05-22T19:22:28Z",
+        "sentiment": "watch"
       },
       {
-        "title": "EU moves to sanction Iran over Hormuz blockade",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/eu-sanction-iran-hormuz-strait-blockade-6136446",
-        "published": "2026-05-22T14:49:00Z",
-        "sentiment": "danger"
+        "title": "Pakistan’s army chief in Iran as US’s Rubio says ‘slight progress’ in talks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/22/pakistans-army-chief-in-iran-as-uss-rubio-says-slight-progress-in-talks",
+        "published": "2026-05-22T19:11:05Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "High gas prices, cost of living send US consumer sentiment to all-time low | CNN Business",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/05/22/economy/consumer-sentiment-final-may",
-        "published": "2026-05-22T14:14:09Z",
+        "title": "The Memorial Day Sales Our Editors Are Actually Shopping This Weekend",
+        "source": "thechalkboardmag.com",
+        "url": "https://thechalkboardmag.com/best-memorial-day-sales-editors-shopping-now/",
+        "published": "2026-05-22T17:55:05Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan Says It Was Left Out In Cold On US Decision To Freeze Key Arms Shipment Amid Iran War",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/05/22/taiwan-never-notified-frozen-arms-shipment-amid-iran-war/",
+        "published": "2026-05-22T19:51:05Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Japan’s Frigate Diplomacy — and What It Could Mean for Taiwan",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/05/japans-frigate-diplomacy-and-what-it-could-mean-for-taiwan/",
+        "published": "2026-05-22T18:52:23Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Xi-Trump Summit in Beijing Was Great Theater, Little Substance",
         "source": "Fair Observer",
@@ -83,13 +97,6 @@
         "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260522-sfrc01.htm",
         "published": "2026-05-22T12:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "US Pauses $14B Taiwan Arms Deal Amid Iran War",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/389651/us-pauses-14b-taiwan-arms-deal-amid-iran-war.html",
-        "published": "2026-05-22T11:36:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
