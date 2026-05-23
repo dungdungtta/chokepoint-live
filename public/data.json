@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-23T20:09:53.359Z",
+    "generated_at": "2026-05-23T23:42:13.696Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Shadowy ‘ghost fleet’ tanker hit with $6.4m cocaine bust in LA port",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/05/22/us-news/500-pounds-of-cocaine-seized-on-tanker-in-port-of-los-angeles/",
-        "published": "2026-05-22T20:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hengli Group faces US sanctions over Iranian oil purchases, sending shockwaves through energy and prediction markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/hengli-group-us-sanctions-iranian-oil/",
-        "published": "2026-05-22T19:51:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "1966 Chevrolet Corvette Convertible 427/425 L72 4-Speed",
+        "title": "2014 KTM 1190 Adventure R at No Reserve",
         "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1966-chevrolet-corvette-convertible-305/",
-        "published": "2026-05-22T19:22:28Z",
+        "url": "https://bringatrailer.com/listing/2014-ktm-1190-adventure-3-2/",
+        "published": "2026-05-22T23:35:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "Pakistan’s army chief in Iran as US’s Rubio says ‘slight progress’ in talks",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/22/pakistans-army-chief-in-iran-as-uss-rubio-says-slight-progress-in-talks",
-        "published": "2026-05-22T19:11:05Z",
-        "sentiment": "neutral"
+        "title": "Bitcoin 'Pizza Day' was 16 years ago, here's how much that BTC is worth today",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/bitcoin-pizza-day-those-10k-btc-worth-today",
+        "published": "2026-05-22T23:16:38Z",
+        "sentiment": "watch"
       },
       {
-        "title": "The Memorial Day Sales Our Editors Are Actually Shopping This Weekend",
-        "source": "thechalkboardmag.com",
-        "url": "https://thechalkboardmag.com/best-memorial-day-sales-editors-shopping-now/",
-        "published": "2026-05-22T17:55:05Z",
+        "title": "These aren't ants but shipping containers escaping on a massive breakaway iceberg",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-05-23/tasmania-iceberg-breaks-away-with-shipping-containers-on-board/106710726",
+        "published": "2026-05-22T22:44:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Colombia's Natural Gas Crisis Deepens as Strait of Hormuz Closure Cuts Supply",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Colombias-Natural-Gas-Crisis-Deepens-as-Strait-of-Hormuz-Closure-Cuts-Supply.html",
+        "published": "2026-05-22T22:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Will This Be the Coldest Summer of the Rest of Your Life?",
+        "source": "Freethoughtblogs.com",
+        "url": "https://freethoughtblogs.com/oceanoxia/2026/05/22/will-this-be-the-coldest-summer-of-the-rest-of-your-life/",
+        "published": "2026-05-22T21:53:33Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "US postpones $14B arms sales to Taiwan, raising semiconductor supply chain fears for crypto miners",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-taiwan-arms-delay-crypto-mining-impact/",
+        "published": "2026-05-22T21:50:05Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US pauses $14B arms sale to Taiwan to prioritize Iran operations",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-pauses-14b-taiwan-arms-sale-iran/",
+        "published": "2026-05-22T21:11:25Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan Says It Was Left Out In Cold On US Decision To Freeze Key Arms Shipment Amid Iran War",
         "source": "The Daily Caller",
@@ -82,20 +96,6 @@
         "source": "Fair Observer",
         "url": "https://www.fairobserver.com/united-states/xi-trump-summit-in-beijing-was-great-theater-little-substance/",
         "published": "2026-05-22T13:57:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China Watch: Trump in Beijing",
-        "source": "Fair Observer",
-        "url": "https://www.fairobserver.com/united-states/china-watch-trump-in-beijing/",
-        "published": "2026-05-22T13:57:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Shaheen, Tillis, Coons, Collins Introduce Bipartisan Resolution Reaffirming U.S. Support for Taiwan",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260522-sfrc01.htm",
-        "published": "2026-05-22T12:00:00Z",
         "sentiment": "watch"
       }
     ],
