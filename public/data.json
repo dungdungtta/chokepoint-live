@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-23T07:41:59.312Z",
+    "generated_at": "2026-05-23T11:44:56.170Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S. and Iran signal peace progress — but remain at odds over uranium enrichment, Strait of Hormuz",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/22/iran-war-strait-of-hormuz-tolls-trump.html",
-        "published": "2026-05-22T07:32:54Z",
+        "title": "Iran asserts control over UAE, Oman waters in Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-asserts-control-over-uae-oman-waters-in-strait-of-hormuz/",
+        "published": "2026-05-22T11:27:53Z",
         "sentiment": "watch"
       },
       {
-        "title": "Asian shares track Wall Street gains and oil prices climb on uncertainty over the Iran war",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/business/asian-shares-track-wall-street-gains-and-oil-prices-climb-on-uncertainty-over-the-iran-war",
-        "published": "2026-05-22T07:32:33Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Castrol GTX High Mileage 5W-20 Synthetic Blend 5-Quart Motor Oil for $15 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Castrol-GTX-High-Mileage-5-W-20-Synthetic-Blend-5-Quart-Motor-Oil-for-15-free-shipping-w-Prime/21834744.html",
-        "published": "2026-05-22T07:16:59Z",
+        "title": "Can Venezuelan oil save India amid the Hormuz energy crisis?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/22/can-venezuelan-oil-save-india-amid-the-hormuz-energy-crisis",
+        "published": "2026-05-22T11:11:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "There’s A Rare BMW Hartge 323i RS M20 Engine For Sale",
-        "source": "Silodrome.com",
-        "url": "https://silodrome.com/bmw-hartge-323i-rs-m20-engine/",
-        "published": "2026-05-22T06:30:41Z",
+        "title": "Sensex today | Stock Market Highlights: Sensex rises 231 pts, Nifty ends at 23,719 led by banks, positive global cues",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-22nd-may-2026/article71006112.ece",
+        "published": "2026-05-22T10:56:47Z",
         "sentiment": "watch"
       },
       {
-        "title": "Rubio embarks on another mission to ease tensions with allies during NATO meeting",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/rubio-embarks-mission-ease-tensions-allies-nato-meeting-133209850",
-        "published": "2026-05-22T06:22:17Z",
+        "title": "Iran approves transit of 35 ships through Strait of Hormuz in 24 hours",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-approves-transit-of-35-ships-through-strait-of-hormuz-in-24-hours/",
+        "published": "2026-05-22T10:50:50Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Report: Iran, Oman Weigh Shipping Tolls in Strait of Hormuz",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/389622/report-iran-oman-weigh-shipping-tolls-in-strait-of-hormuz.html",
+        "published": "2026-05-22T10:12:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "US Pauses $14B Taiwan Arms Deal Amid Iran War",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/389651/us-pauses-14b-taiwan-arms-deal-amid-iran-war.html",
+        "published": "2026-05-22T11:36:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Shoot-and-scoot: Mobile missile launchers play key role in US Pacific deterrence strategy",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/politics/articles/shoot-scoot-mobile-missile-launchers-101202765.html",
+        "published": "2026-05-22T10:12:02Z",
+        "sentiment": "watch"
+      },
       {
         "title": "NATO welcomes US pledge to send 5,000 troops to Poland",
         "source": "RTE",
@@ -75,27 +89,6 @@
         "source": "Bitsandpieces.us",
         "url": "https://bitsandpieces.us/2026/05/22/friday-firesmith-trumpty-dumpty/",
         "published": "2026-05-22T06:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Came to Beijing Hat in Hand, Leaves with a Handshake from Xi",
-        "source": "CounterPunch",
-        "url": "https://www.counterpunch.org/2026/05/22/trump-came-to-beijing-hat-in-hand-leaves-with-a-handshake-from-xi/",
-        "published": "2026-05-22T05:52:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump says he’ll speak to Taiwan’s leader: Why that is significant",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/21/trump-says-hell-speak-to-taiwans-leader-why-that-is-significant",
-        "published": "2026-05-21T16:31:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Gauging the Xi-Trump summit and its geopolitical implications",
-        "source": "Freethoughtblogs.com",
-        "url": "https://freethoughtblogs.com/singham/2026/05/21/gauging-the-xi-trump-summit-and-its-geopolitical-implications/",
-        "published": "2026-05-21T16:22:19Z",
         "sentiment": "watch"
       }
     ],
