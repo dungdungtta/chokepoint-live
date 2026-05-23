@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-22T21:45:45.393Z",
+    "generated_at": "2026-05-23T07:41:59.312Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,63 @@
   "news": {
     "hormuz": [
       {
-        "title": "Geologic Hydrogen Could Produce Clean Fuel for Less Than $1 Per Kilogram",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Geologic-Hydrogen-Could-Produce-Clean-Fuel-for-Less-Than-1-Per-Kilogram.html",
-        "published": "2026-05-21T21:00:00Z",
+        "title": "U.S. and Iran signal peace progress — but remain at odds over uranium enrichment, Strait of Hormuz",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/22/iran-war-strait-of-hormuz-tolls-trump.html",
+        "published": "2026-05-22T07:32:54Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran’s Hormuz authority claims control over UAE and Oman ports, draws sharp rebuke and introduces Bitcoin tolls",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-hormuz-authority-bitcoin-tolls-uae/",
-        "published": "2026-05-21T20:31:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Israeli Minister’s Taunting of Detained Flotilla Activists Sparks Foreign Backlash",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/05/21/ben-gvir-video-israel-detained-activists-global-sumud-flotilla/",
-        "published": "2026-05-21T20:15:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Rubio warns Iran’s Hormuz tolling system would kill diplomatic deal as Tehran collects fees in Bitcoin and USDT",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/rubio-iran-hormuz-tolling-crypto/",
-        "published": "2026-05-21T20:09:05Z",
+        "title": "Asian shares track Wall Street gains and oil prices climb on uncertainty over the Iran war",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/business/asian-shares-track-wall-street-gains-and-oil-prices-climb-on-uncertainty-over-the-iran-war",
+        "published": "2026-05-22T07:32:33Z",
         "sentiment": "danger"
       },
       {
-        "title": "Lunavelle Sleep Patches Claims Evaluated: Most Effective Melatonin-Free Patches for Deeper Rest with Time-Tested Ingredients Proven To Work",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/05/21/3299729/0/en/Lunavelle-Sleep-Patches-Claims-Evaluated-Most-Effective-Melatonin-Free-Patches-for-Deeper-Rest-with-Time-Tested-Ingredients-Proven-To-Work.html",
-        "published": "2026-05-21T20:05:00Z",
+        "title": "Castrol GTX High Mileage 5W-20 Synthetic Blend 5-Quart Motor Oil for $15 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Castrol-GTX-High-Mileage-5-W-20-Synthetic-Blend-5-Quart-Motor-Oil-for-15-free-shipping-w-Prime/21834744.html",
+        "published": "2026-05-22T07:16:59Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "There’s A Rare BMW Hartge 323i RS M20 Engine For Sale",
+        "source": "Silodrome.com",
+        "url": "https://silodrome.com/bmw-hartge-323i-rs-m20-engine/",
+        "published": "2026-05-22T06:30:41Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Rubio embarks on another mission to ease tensions with allies during NATO meeting",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/rubio-embarks-mission-ease-tensions-allies-nato-meeting-133209850",
+        "published": "2026-05-22T06:22:17Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "NATO welcomes US pledge to send 5,000 troops to Poland",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/2026/0522/1574664-trump-nato/",
+        "published": "2026-05-22T07:19:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "friday firesmith – trumpty dumpty",
+        "source": "Bitsandpieces.us",
+        "url": "https://bitsandpieces.us/2026/05/22/friday-firesmith-trumpty-dumpty/",
+        "published": "2026-05-22T06:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump Came to Beijing Hat in Hand, Leaves with a Handshake from Xi",
+        "source": "CounterPunch",
+        "url": "https://www.counterpunch.org/2026/05/22/trump-came-to-beijing-hat-in-hand-leaves-with-a-handshake-from-xi/",
+        "published": "2026-05-22T05:52:59Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump says he’ll speak to Taiwan’s leader: Why that is significant",
         "source": "Al Jazeera English",
@@ -75,27 +96,6 @@
         "source": "Freethoughtblogs.com",
         "url": "https://freethoughtblogs.com/singham/2026/05/21/gauging-the-xi-trump-summit-and-its-geopolitical-implications/",
         "published": "2026-05-21T16:22:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan welcomes potential call between President Lai and Trump, raising stakes for crypto markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/taiwan-trump-call-crypto-implications/",
-        "published": "2026-05-21T12:10:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "INTERVIEW / Top U.S. envoy affirms Taiwan commitments despite Trump's remarks",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260521-cna02.htm",
-        "published": "2026-05-21T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump plans to speak with Taiwan’s President Lai Ching-te in unprecedented diplomatic shift",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-taiwan-call-diplomatic-shift-crypto/",
-        "published": "2026-05-21T11:40:23Z",
         "sentiment": "watch"
       }
     ],
