@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-24T19:57:42.298Z",
+    "generated_at": "2026-05-24T23:43:19.831Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,25 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran, Pakistan propose deal to US to open Strait of Hormuz: Reuters",
+        "title": "UK prepares to deploy warship to Strait of Hormuz amid Iran tensions",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-pakistan-propose-deal-to-us-to-open-strait-of-hormuz-reuters/",
-        "published": "2026-05-23T19:20:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump administration and Iran inch toward peace deal as wording disputes linger",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-peace-deal-wording-issues/",
-        "published": "2026-05-23T19:15:21Z",
+        "url": "https://cryptobriefing.com/uk-prepares-to-deploy-warship-to-strait-of-hormuz-amid-iran-tensions/",
+        "published": "2026-05-23T23:07:14Z",
         "sentiment": "danger"
       },
       {
-        "title": "Bitcoin Pizza Day: A $41 Experiment Now Worth Billions",
-        "source": "Bitcoinist",
-        "url": "https://bitcoinist.com/bitcoin-pizza-day-a-41-experiment-now-worth-billions/",
-        "published": "2026-05-23T17:30:25Z",
+        "title": "Sarbananda Sonowal stresses role of youth in building self-reliant India at Rozgar Mela",
+        "source": "Thehillstimes.in",
+        "url": "https://thehillstimes.in/assam/sarbananda-sonowal-stresses-role-of-youth-in-building-self-reliant-india-at-rozgar-mela",
+        "published": "2026-05-23T22:50:00Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "U.S. reaches limit of sanctions power in targeting Iran’s economy",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/05/23/us-limit-sanctions-power-iran-war-economic-fury-naval-blockade/",
+        "published": "2026-05-23T22:49:20Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump says Iran deal largely negotiated, includes Strait of Hormuz reopening",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-iran-deal-strait-of-hormuz/",
+        "published": "2026-05-23T22:47:54Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
