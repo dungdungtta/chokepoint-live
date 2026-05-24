@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-23T23:42:13.696Z",
+    "generated_at": "2026-05-24T09:09:08.714Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,75 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "2014 KTM 1190 Adventure R at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2014-ktm-1190-adventure-3-2/",
-        "published": "2026-05-22T23:35:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Bitcoin 'Pizza Day' was 16 years ago, here's how much that BTC is worth today",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/bitcoin-pizza-day-those-10k-btc-worth-today",
-        "published": "2026-05-22T23:16:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "These aren't ants but shipping containers escaping on a massive breakaway iceberg",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-05-23/tasmania-iceberg-breaks-away-with-shipping-containers-on-board/106710726",
-        "published": "2026-05-22T22:44:02Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Colombia's Natural Gas Crisis Deepens as Strait of Hormuz Closure Cuts Supply",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Colombias-Natural-Gas-Crisis-Deepens-as-Strait-of-Hormuz-Closure-Cuts-Supply.html",
-        "published": "2026-05-22T22:00:00Z",
+        "title": "Gulf countries maintain credit ratings and stable outlooks amid Iran war uncertainties | The National",
+        "source": "Thenationalnews.com",
+        "url": "https://www.thenationalnews.com/business/economy/2026/05/23/gulf-countries-maintain-credit-ratings-and-stable-outlooks-amid-iran-war-uncertainties/",
+        "published": "2026-05-23T07:40:41Z",
         "sentiment": "danger"
       },
       {
-        "title": "Will This Be the Coldest Summer of the Rest of Your Life?",
-        "source": "Freethoughtblogs.com",
-        "url": "https://freethoughtblogs.com/oceanoxia/2026/05/22/will-this-be-the-coldest-summer-of-the-rest-of-your-life/",
-        "published": "2026-05-22T21:53:33Z",
+        "title": "Oil prices settle higher on slow progress in US-Iran peace talks",
+        "source": "The Daily Star",
+        "url": "https://www.thedailystar.net/business/news/oil-prices-settle-higher-slow-progress-us-iran-peace-talks-4182536",
+        "published": "2026-05-23T07:07:56Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Iran war day 85: Tehran says major gaps remain in US talks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/23/iran-war-day-85-tehran-says-major-gaps-remain-in-us-talks",
+        "published": "2026-05-23T06:51:45Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "What is the Strait of Hormuz crisis? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/what-is-the-strait-of-hormuz-crisis",
+        "published": "2026-05-23T06:03:34Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Gold on track for second weekly loss as rising oil prices drive up rate hike bets",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/gold-on-track-for-second-weekly-loss-as-rising-oil-prices-drive-up-rate-hike-bets/articleshow/131272874.cms",
+        "published": "2026-05-23T05:51:52Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
+        "title": "Shoot-and-scoot: Mobile missile launchers play key role in U.S. Pacific deterrence strategy",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/national/shoot-and-scoot-mobile-missile-launchers-play-key-role-in-us-pacific-deterrence-strategy",
+        "published": "2026-05-23T07:33:58Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan detects 16 sorties of Chinese military aircraft, 8 vessels around itself",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/taiwan-detects-16-sorties-of-chinese-military-aircraft-8-vessels-around-itself/articleshow/131273053.cms",
+        "published": "2026-05-23T06:09:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan Signals Willingness for Direct Talks With Trump, Breaking Decades-Old Protocol",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-05-23-taiwan-willing-talk-with-trump-breaking-protocol.html",
+        "published": "2026-05-23T06:00:00Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Some fear US-Philippines war games are drawing conflict closer to home",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/23/some-fear-us-philippines-war-games-are-drawing-conflict-closer-to-home",
+        "published": "2026-05-23T03:19:47Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "US postpones $14B arms sales to Taiwan, raising semiconductor supply chain fears for crypto miners",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/us-taiwan-arms-delay-crypto-mining-impact/",
         "published": "2026-05-22T21:50:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US pauses $14B arms sale to Taiwan to prioritize Iran operations",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-pauses-14b-taiwan-arms-sale-iran/",
-        "published": "2026-05-22T21:11:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan Says It Was Left Out In Cold On US Decision To Freeze Key Arms Shipment Amid Iran War",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/05/22/taiwan-never-notified-frozen-arms-shipment-amid-iran-war/",
-        "published": "2026-05-22T19:51:05Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Japan’s Frigate Diplomacy — and What It Could Mean for Taiwan",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/05/japans-frigate-diplomacy-and-what-it-could-mean-for-taiwan/",
-        "published": "2026-05-22T18:52:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Xi-Trump Summit in Beijing Was Great Theater, Little Substance",
-        "source": "Fair Observer",
-        "url": "https://www.fairobserver.com/united-states/xi-trump-summit-in-beijing-was-great-theater-little-substance/",
-        "published": "2026-05-22T13:57:21Z",
         "sentiment": "watch"
       }
     ],
