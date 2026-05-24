@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-24T09:09:08.714Z",
+    "generated_at": "2026-05-24T12:14:59.610Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Gulf countries maintain credit ratings and stable outlooks amid Iran war uncertainties | The National",
-        "source": "Thenationalnews.com",
-        "url": "https://www.thenationalnews.com/business/economy/2026/05/23/gulf-countries-maintain-credit-ratings-and-stable-outlooks-amid-iran-war-uncertainties/",
-        "published": "2026-05-23T07:40:41Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices settle higher on slow progress in US-Iran peace talks",
-        "source": "The Daily Star",
-        "url": "https://www.thedailystar.net/business/news/oil-prices-settle-higher-slow-progress-us-iran-peace-talks-4182536",
-        "published": "2026-05-23T07:07:56Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Iran war day 85: Tehran says major gaps remain in US talks",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/23/iran-war-day-85-tehran-says-major-gaps-remain-in-us-talks",
-        "published": "2026-05-23T06:51:45Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "What is the Strait of Hormuz crisis? #world",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/what-is-the-strait-of-hormuz-crisis",
-        "published": "2026-05-23T06:03:34Z",
+        "title": "Iran implements tiered system for vessel passage through Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-implements-tiered-system-for-vessel-passage-through-strait-of-hormuz/",
+        "published": "2026-05-23T12:09:16Z",
         "sentiment": "watch"
       },
       {
-        "title": "Gold on track for second weekly loss as rising oil prices drive up rate hike bets",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/gold-on-track-for-second-weekly-loss-as-rising-oil-prices-drive-up-rate-hike-bets/articleshow/131272874.cms",
-        "published": "2026-05-23T05:51:52Z",
+        "title": "Iran implements tiered system for vessel passage through Strait of Hormuz, accepts Bitcoin for fees",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-strait-hormuz-tiered-system-bitcoin-fees/",
+        "published": "2026-05-23T12:08:48Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "What did Trump do with Iran talks? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/what-did-trump-do-with-iran-talks",
+        "published": "2026-05-23T12:04:20Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "IRGC Navy says 25 ships passed through Strait of Hormuz in 24 hours",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260523-presstv12.htm",
+        "published": "2026-05-23T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Gifts for Dads & Grads 2026: Unique Father’s Day and Graduation Picks From Small Businesses",
+        "source": "Themomedit.com",
+        "url": "https://themomedit.com/unique-fathers-day-graduation-gifts-2026/",
+        "published": "2026-05-23T12:00:00Z",
         "sentiment": "watch"
       }
     ],
