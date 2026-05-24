@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-24T15:51:22.306Z",
+    "generated_at": "2026-05-24T19:57:42.298Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,24 @@
   "news": {
     "hormuz": [
       {
-        "title": "US Reaches Limit of Sanctions Power in Targeting Iran’s Economy",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/us-reaches-limit-of-sanctions-power-in-targeting-irans-economy",
-        "published": "2026-05-23T15:49:03Z",
+        "title": "Iran, Pakistan propose deal to US to open Strait of Hormuz: Reuters",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-pakistan-propose-deal-to-us-to-open-strait-of-hormuz-reuters/",
+        "published": "2026-05-23T19:20:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran shuts western airspace as US weighs fresh strikes; Rubio in Delhi flags ‘progress’ in Tehran talks",
-        "source": "The Indian Express",
-        "url": "https://indianexpress.com/article/world/us-news/iran-closes-airspace-trump-cancels-plans-us-military-strikes-rubio-india-10704692/",
-        "published": "2026-05-23T15:35:57Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US redirects 100 vessels amid Iran port blockade, impacting Hormuz transit",
+        "title": "Trump administration and Iran inch toward peace deal as wording disputes linger",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-redirects-100-vessels-amid-iran-port-blockade-impacting-hormuz-transit/",
-        "published": "2026-05-23T14:12:47Z",
+        "url": "https://cryptobriefing.com/trump-iran-peace-deal-wording-issues/",
+        "published": "2026-05-23T19:15:21Z",
         "sentiment": "danger"
       },
       {
-        "title": "Rising global costs threaten Mexico’s production costs and food stability",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/5/23/rising-global-costs-threaten-mexicos-production-costs-and-food-stability",
-        "published": "2026-05-23T14:11:23Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "India’s next freedom must be the freedom to produce",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/indias-next-freedom-must-be-the-freedom-to-produce/article71014742.ece",
-        "published": "2026-05-23T14:07:13Z",
+        "title": "Bitcoin Pizza Day: A $41 Experiment Now Worth Billions",
+        "source": "Bitcoinist",
+        "url": "https://bitcoinist.com/bitcoin-pizza-day-a-41-experiment-now-worth-billions/",
+        "published": "2026-05-23T17:30:25Z",
         "sentiment": "watch"
       }
     ],
