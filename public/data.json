@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-24T23:43:19.831Z",
+    "generated_at": "2026-05-25T12:48:03.636Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "UK prepares to deploy warship to Strait of Hormuz amid Iran tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/uk-prepares-to-deploy-warship-to-strait-of-hormuz-amid-iran-tensions/",
-        "published": "2026-05-23T23:07:14Z",
+        "title": "What is inside the US-Iran ceasefire framework? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/what-is-inside-the-us-iran-ceasefire-framework",
+        "published": "2026-05-24T12:03:47Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "India-Bound LNG Tanker Exits Strait Of Hormuz In First Such Voyage Since Iran War Began",
+        "source": "Swarajya",
+        "url": "https://swarajyamag.com/business/india-bound-lng-tanker-exits-strait-of-hormuz-in-first-such-voyage-since-iran-war-began",
+        "published": "2026-05-24T11:43:14Z",
         "sentiment": "danger"
       },
       {
-        "title": "Sarbananda Sonowal stresses role of youth in building self-reliant India at Rozgar Mela",
-        "source": "Thehillstimes.in",
-        "url": "https://thehillstimes.in/assam/sarbananda-sonowal-stresses-role-of-youth-in-building-self-reliant-india-at-rozgar-mela",
-        "published": "2026-05-23T22:50:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. reaches limit of sanctions power in targeting Iran’s economy",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/05/23/us-limit-sanctions-power-iran-war-economic-fury-naval-blockade/",
-        "published": "2026-05-23T22:49:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump says Iran deal largely negotiated, includes Strait of Hormuz reopening",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-deal-strait-of-hormuz/",
-        "published": "2026-05-23T22:47:54Z",
+        "title": "Trump Says Peace Deal 'Largely Negotiated,' But Iranians Hit Back At Hormuz Claim",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260524-rferl01.htm",
+        "published": "2026-05-24T11:37:17Z",
         "sentiment": "neutral"
+      },
+      {
+        "title": "Britain's Royal Navy Prepares to Clear Mines in Strait of Hormuz After Peace Deal Inked",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/europe/2026/05/24/32878221britains-royal-navy-prepares-to-clear-mines-in-strait-of-hormuz-after-peace-deal-inked/",
+        "published": "2026-05-24T11:32:23Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "India, US discuss Middle East, trade as Rubio cites progress on Iran conflict",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/asia/india-us-discuss-iran-war-trade-marco-rubio-6138936",
+        "published": "2026-05-24T10:45:16Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
