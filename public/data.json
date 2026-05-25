@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-25T12:48:03.636Z",
+    "generated_at": "2026-05-25T18:23:35.704Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "What is inside the US-Iran ceasefire framework? #world",
+        "title": "What’s in the emerging US-Iran ceasefire deal? #world",
         "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/what-is-inside-the-us-iran-ceasefire-framework",
-        "published": "2026-05-24T12:03:47Z",
+        "url": "https://alltoc.com/world/whats-in-the-emerging-us-iran-ceasefire-deal",
+        "published": "2026-05-24T18:03:57Z",
         "sentiment": "neutral"
       },
       {
-        "title": "India-Bound LNG Tanker Exits Strait Of Hormuz In First Such Voyage Since Iran War Began",
-        "source": "Swarajya",
-        "url": "https://swarajyamag.com/business/india-bound-lng-tanker-exits-strait-of-hormuz-in-first-such-voyage-since-iran-war-began",
-        "published": "2026-05-24T11:43:14Z",
+        "title": "Carrot, Meet Stick: New US-Iran Deal Lifts Sanctions, Troops Stay 30 Days",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4380788/posts",
+        "published": "2026-05-24T17:47:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Axios: Iran Agreed to Discuss Surrendering Its Uranium Stocks; UPDATE: Trump Responds",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-bloggers/4380780/posts",
+        "published": "2026-05-24T17:30:51Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump Says There Is No Rush for Iran Deal, US Blockade Stays",
+        "source": "Daily Signal",
+        "url": "https://www.dailysignal.com/2026/05/24/trump-no-rush-iran-deal/",
+        "published": "2026-05-24T17:23:53Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump Says Peace Deal 'Largely Negotiated,' But Iranians Hit Back At Hormuz Claim",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260524-rferl01.htm",
-        "published": "2026-05-24T11:37:17Z",
+        "title": "Negotiations as Strategy: Moscow’s Window of Opportunity in Ukraine",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/region/europe/negotiations-as-strategy-moscows-window-of-opportunity-in-ukraine/",
+        "published": "2026-05-24T16:22:14Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Britain's Royal Navy Prepares to Clear Mines in Strait of Hormuz After Peace Deal Inked",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/europe/2026/05/24/32878221britains-royal-navy-prepares-to-clear-mines-in-strait-of-hormuz-after-peace-deal-inked/",
-        "published": "2026-05-24T11:32:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "India, US discuss Middle East, trade as Rubio cites progress on Iran conflict",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/asia/india-us-discuss-iran-war-trade-marco-rubio-6138936",
-        "published": "2026-05-24T10:45:16Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
