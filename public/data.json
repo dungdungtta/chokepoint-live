@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-25T18:23:35.704Z",
+    "generated_at": "2026-05-25T22:18:29.124Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "What’s in the emerging US-Iran ceasefire deal? #world",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/whats-in-the-emerging-us-iran-ceasefire-deal",
-        "published": "2026-05-24T18:03:57Z",
+        "title": "Trump says 'not to rush into a deal' as potential Iran agreement emerges",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-05-25/us-iran-deal-emerges-but-trump-says-don-t-rush/106716862",
+        "published": "2026-05-24T21:08:01Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Carrot, Meet Stick: New US-Iran Deal Lifts Sanctions, Troops Stay 30 Days",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4380788/posts",
-        "published": "2026-05-24T17:47:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Axios: Iran Agreed to Discuss Surrendering Its Uranium Stocks; UPDATE: Trump Responds",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-bloggers/4380780/posts",
-        "published": "2026-05-24T17:30:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Says There Is No Rush for Iran Deal, US Blockade Stays",
-        "source": "Daily Signal",
-        "url": "https://www.dailysignal.com/2026/05/24/trump-no-rush-iran-deal/",
-        "published": "2026-05-24T17:23:53Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Negotiations as Strategy: Moscow’s Window of Opportunity in Ukraine",
-        "source": "Fair Observer",
-        "url": "https://www.fairobserver.com/region/europe/negotiations-as-strategy-moscows-window-of-opportunity-in-ukraine/",
-        "published": "2026-05-24T16:22:14Z",
+        "title": "Mass tanker blackout rattles Gulf ahead of 1.35M-barrel oil transfer amid US-Iran talks: firm",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/mass-tanker-blackout-rattles-gulf-ahead-1-35m-barrel-oil-transfer-amid-us-iran-talks-firm",
+        "published": "2026-05-24T20:11:58Z",
         "sentiment": "neutral"
+      },
+      {
+        "title": "Trump tempers expectations of a Middle East deal with Iran",
+        "source": "The Punch",
+        "url": "https://punchng.com/trump-tempers-expectations-of-a-middle-east-deal-with-iran/",
+        "published": "2026-05-24T19:36:20Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump says not to rush as U.S. nears potential Iran deal",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/world/trump-says-not-to-rush-as-u-s-nears-potential-iran-deal",
+        "published": "2026-05-24T19:18:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S. close to reaching an Iran deal as Trump says not to rush",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/world/u-s-close-to-reaching-an-iran-deal-as-trump-says-not-to-rush",
+        "published": "2026-05-24T19:18:12Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
