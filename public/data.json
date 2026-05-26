@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T19:29:34.622Z",
+    "generated_at": "2026-05-26T23:43:33.099Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "FLOW Motion Activated Single-Handle Pull-Down Sprayer Kitchen Faucet, Chrome or oil rubbed bronze, $67, FS, Home Depot (2 replies)",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19559994-flow-motion-activated-single-handle-pull-down-sprayer-kitchen-faucet-chrome-or-oil-rubbed-bronze-67-fs-home-depot",
-        "published": "2026-05-25T18:59:44Z",
+        "title": "Israel and US strike Iranian boats near Larak Island, killing three amid crypto-funded toll war",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/israel-us-larak-island-strike-crypto-tolls/",
+        "published": "2026-05-25T23:39:56Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Japan Scrambles to Reshape Energy Imports",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/149377.php",
+        "published": "2026-05-25T23:10:54Z",
         "sentiment": "watch"
       },
       {
-        "title": "Jason H. Campbell: US Is Taking The ‘Least Bad’ Option In Iran Conflict",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/iran-us-conflict-peace-deal/33764611.html",
-        "published": "2026-05-25T18:55:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Europe’s Gas Prices Drop 5% On Renewed U.S.-Iran Talks Optimism",
+        "title": "India Cuts Fuel Demand Growth Projections By 40% Amid Austerity DriveIndia Cuts",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Gas-Prices-Drop-5-On-Renewed-US-Iran-Talks-Optimism.html",
-        "published": "2026-05-25T18:30:00Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Government assures 78 days of oil amid MPs' concerns",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/government-assures-78-days-of-oil-amid-mps-concerns/articleshow/131315814.cms",
-        "published": "2026-05-25T18:22:08Z",
+        "url": "https://oilprice.com/Energy/Crude-Oil/India-Cuts-Fuel-Demand-Growth-Projections-By-40-Amid-Austerity-DriveIndia-Cuts.html",
+        "published": "2026-05-25T23:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "What caused the U.S.-Iran peace talks delay? #world",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/what-caused-the-u-s-iran-peace-talks-delay",
-        "published": "2026-05-25T18:03:50Z",
+        "title": "Dow futures jump 440 points as oil prices drop on US-Iran deal hopes",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/dow-futures-jump-oil-drop-iran-deal/",
+        "published": "2026-05-25T22:36:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran Says U.S. Peace Talks Hit “Consensus” On Many Issues, But No Final Deal Yet",
+        "source": "Shtfplan.com",
+        "url": "https://www.shtfplan.com/headline-news/iran-says-u-s-peace-talks-hit-consensus-on-many-issues-but-no-final-deal-yet",
+        "published": "2026-05-25T22:30:27Z",
         "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "US warns Japan of severe delays in Tomahawk missile deliveries due to Iran war",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-japan-tomahawk-missile-delay-iran/",
+        "published": "2026-05-25T23:08:07Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Will China Really Invade Taiwan in the Next Five Years?",
+        "source": "Daily Signal",
+        "url": "https://www.dailysignal.com/2026/05/25/china-invade-taiwan-five-years/",
+        "published": "2026-05-25T21:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Will China Really Invade Taiwan In The Next Five Years?",
         "source": "The Daily Caller",
@@ -82,13 +96,6 @@
         "source": "Nakedcapitalism.com",
         "url": "https://www.nakedcapitalism.com/2026/05/links-5-25-2026.html",
         "published": "2026-05-25T10:58:55Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Sensitive Words and Censored Content Related to the Recent Sino-American Summit",
-        "source": "Chinadigitaltimes.net",
-        "url": "https://chinadigitaltimes.net/2026/05/sensitive-words-and-censored-content-related-to-the-recent-sino-american-summit/",
-        "published": "2026-05-25T04:40:46Z",
         "sentiment": "watch"
       }
     ],
