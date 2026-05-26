@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-25T22:18:29.124Z",
+    "generated_at": "2026-05-26T19:29:34.622Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,75 +27,68 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump says 'not to rush into a deal' as potential Iran agreement emerges",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-05-25/us-iran-deal-emerges-but-trump-says-don-t-rush/106716862",
-        "published": "2026-05-24T21:08:01Z",
+        "title": "FLOW Motion Activated Single-Handle Pull-Down Sprayer Kitchen Faucet, Chrome or oil rubbed bronze, $67, FS, Home Depot (2 replies)",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19559994-flow-motion-activated-single-handle-pull-down-sprayer-kitchen-faucet-chrome-or-oil-rubbed-bronze-67-fs-home-depot",
+        "published": "2026-05-25T18:59:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Jason H. Campbell: US Is Taking The ‘Least Bad’ Option In Iran Conflict",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/iran-us-conflict-peace-deal/33764611.html",
+        "published": "2026-05-25T18:55:15Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Europe’s Gas Prices Drop 5% On Renewed U.S.-Iran Talks Optimism",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Gas-Prices-Drop-5-On-Renewed-US-Iran-Talks-Optimism.html",
+        "published": "2026-05-25T18:30:00Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Mass tanker blackout rattles Gulf ahead of 1.35M-barrel oil transfer amid US-Iran talks: firm",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/mass-tanker-blackout-rattles-gulf-ahead-1-35m-barrel-oil-transfer-amid-us-iran-talks-firm",
-        "published": "2026-05-24T20:11:58Z",
+        "title": "Government assures 78 days of oil amid MPs' concerns",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/government-assures-78-days-of-oil-amid-mps-concerns/articleshow/131315814.cms",
+        "published": "2026-05-25T18:22:08Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "What caused the U.S.-Iran peace talks delay? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/what-caused-the-u-s-iran-peace-talks-delay",
+        "published": "2026-05-25T18:03:50Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Trump tempers expectations of a Middle East deal with Iran",
-        "source": "The Punch",
-        "url": "https://punchng.com/trump-tempers-expectations-of-a-middle-east-deal-with-iran/",
-        "published": "2026-05-24T19:36:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump says not to rush as U.S. nears potential Iran deal",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/world/trump-says-not-to-rush-as-u-s-nears-potential-iran-deal",
-        "published": "2026-05-24T19:18:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. close to reaching an Iran deal as Trump says not to rush",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/world/u-s-close-to-reaching-an-iran-deal-as-trump-says-not-to-rush",
-        "published": "2026-05-24T19:18:12Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "Shoot-and-scoot: Mobile missile launchers play key role in U.S. Pacific deterrence strategy",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/national/shoot-and-scoot-mobile-missile-launchers-play-key-role-in-us-pacific-deterrence-strategy",
-        "published": "2026-05-23T07:33:58Z",
+        "title": "Will China Really Invade Taiwan In The Next Five Years?",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/05/25/will-china-really-invade-taiwan-in-the-next-five-years/",
+        "published": "2026-05-25T13:34:42Z",
         "sentiment": "watch"
       },
       {
-        "title": "Taiwan detects 16 sorties of Chinese military aircraft, 8 vessels around itself",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/taiwan-detects-16-sorties-of-chinese-military-aircraft-8-vessels-around-itself/articleshow/131273053.cms",
-        "published": "2026-05-23T06:09:38Z",
+        "title": "Foreign minister calls for non-partisan diplomacy ahead of KMT chair's U.S. trip",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260525-cna02.htm",
+        "published": "2026-05-25T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Taiwan Signals Willingness for Direct Talks With Trump, Breaking Decades-Old Protocol",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-05-23-taiwan-willing-talk-with-trump-breaking-protocol.html",
-        "published": "2026-05-23T06:00:00Z",
-        "sentiment": "neutral"
+        "title": "Links 5/25/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/05/links-5-25-2026.html",
+        "published": "2026-05-25T10:58:55Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Some fear US-Philippines war games are drawing conflict closer to home",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/23/some-fear-us-philippines-war-games-are-drawing-conflict-closer-to-home",
-        "published": "2026-05-23T03:19:47Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US postpones $14B arms sales to Taiwan, raising semiconductor supply chain fears for crypto miners",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-taiwan-arms-delay-crypto-mining-impact/",
-        "published": "2026-05-22T21:50:05Z",
+        "title": "Sensitive Words and Censored Content Related to the Recent Sino-American Summit",
+        "source": "Chinadigitaltimes.net",
+        "url": "https://chinadigitaltimes.net/2026/05/sensitive-words-and-censored-content-related-to-the-recent-sino-american-summit/",
+        "published": "2026-05-25T04:40:46Z",
         "sentiment": "watch"
       }
     ],
