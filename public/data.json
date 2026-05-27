@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-27T12:32:33.688Z",
+    "generated_at": "2026-05-27T20:35:19.923Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,75 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "Tanker explosion near Oman raises concerns over Strait of Hormuz security",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/tanker-explosion-near-oman-raises-concerns-over-strait-of-hormuz-security/",
-        "published": "2026-05-26T12:30:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Marco Rubio Says Iran Deal Could Take Days After U.S. Launches Fresh Strikes",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/marco-rubio-iran-deal-could-take-days-after-us-launches-fresh-strikes_n_6a158fbbe4b0457678e46f1a",
-        "published": "2026-05-26T12:28:46Z",
+        "title": "The Iran War Has Remade the Gulf",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/05/26/iran-war-persian-gulf-uae-saudi-trump-usa/",
+        "published": "2026-05-26T20:16:36Z",
         "sentiment": "danger"
       },
       {
-        "title": "How is the U.S.-Iran peace deal progressing? #world",
+        "title": "US stocks today: S&P 500 hits record closing high on AI optimism, Micron joins $1 trillion club",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-hits-record-closing-high-on-ai-optimism-micron-joins-1-trillion-club/articleshow/131337183.cms",
+        "published": "2026-05-26T20:08:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Piper Sandler says Strait of Hormuz to remain closed for months and oil to hit new highs",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/26/piper-sandler-says-strait-of-hormuz-to-remain-closed-for-months-and-oil-to-hit-new-highs.html",
+        "published": "2026-05-26T19:43:54Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "No Matter Who Wins the Iran War, the Global Economy Is Losing",
+        "source": "Responsiblestatecraft.org",
+        "url": "https://responsiblestatecraft.org/economy-iran-war/",
+        "published": "2026-05-26T18:44:38Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "How does Camp David Iran meeting affect deal? #world",
         "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/how-is-the-u-s-iran-peace-deal-progressing",
-        "published": "2026-05-26T12:04:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "IRGC Navy: 25 ships transited Strait of Hormuz in past 24 hours under its protection",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260526-presstv01.htm",
-        "published": "2026-05-26T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Explosion On Tanker Off Oman Coast, British Maritime Monitor Says",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260526-rferl04.htm",
-        "published": "2026-05-26T12:00:00Z",
+        "url": "https://alltoc.com/world/how-does-camp-david-iran-meeting-affect-deal",
+        "published": "2026-05-26T18:04:03Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "Iran may transfer near-weapons-grade uranium to China under ceasefire deal, and crypto markets are watching",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-uranium-china-ceasefire-crypto-impact/",
-        "published": "2026-05-26T11:34:38Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Sensex today | Stock Market Highlights: Sensex falls 479 points, Nifty slips below 23,950 as rupee weakens",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-26th-may-2026/article71021798.ece",
-        "published": "2026-05-26T11:00:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US warns Japan of severe delays in Tomahawk missile deliveries due to Iran war",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-japan-tomahawk-missile-delay-iran/",
-        "published": "2026-05-25T23:08:07Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Will China Really Invade Taiwan in the Next Five Years?",
-        "source": "Daily Signal",
-        "url": "https://www.dailysignal.com/2026/05/25/china-invade-taiwan-five-years/",
-        "published": "2026-05-25T21:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Will China Really Invade Taiwan In The Next Five Years?",
+        "title": "Taiwan Scrambles Fighter Jets As China Encroaches With Combat Patrols",
         "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/05/25/will-china-really-invade-taiwan-in-the-next-five-years/",
-        "published": "2026-05-25T13:34:42Z",
+        "url": "https://dailycaller.com/2026/05/26/taiwan-scrambles-fighter-jets-as-china-encroaches-with-combat-patrols/",
+        "published": "2026-05-26T19:03:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Xi Ascendant",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/05/26/xi-trump-china-united-states-summit-power/",
+        "published": "2026-05-26T18:37:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China’s New Type 054B Frigate Joins Liaoning Carrier Group for First Time in Western Pacific",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/05/chinas-new-type-054b-frigate-joins-liaoning-carrier-group-for-first-time-in-western-pacific/",
+        "published": "2026-05-26T16:23:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Nifty, Sensex tumble even as Mid-cap scales new peak",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/stock-markets/nifty-sensex-tumble-even-as-mid-cap-scales-new-peak/article71024839.ece",
+        "published": "2026-05-26T14:32:01Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Will China really invade Taiwan in the next five years?",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/05/will-china-really-invade-taiwan-next-five-years/",
+        "published": "2026-05-26T12:58:11Z",
         "sentiment": "watch"
       }
     ],
