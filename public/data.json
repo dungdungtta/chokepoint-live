@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T23:43:33.099Z",
+    "generated_at": "2026-05-27T12:32:33.688Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Israel and US strike Iranian boats near Larak Island, killing three amid crypto-funded toll war",
+        "title": "Tanker explosion near Oman raises concerns over Strait of Hormuz security",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/israel-us-larak-island-strike-crypto-tolls/",
-        "published": "2026-05-25T23:39:56Z",
+        "url": "https://cryptobriefing.com/tanker-explosion-near-oman-raises-concerns-over-strait-of-hormuz-security/",
+        "published": "2026-05-26T12:30:30Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Marco Rubio Says Iran Deal Could Take Days After U.S. Launches Fresh Strikes",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/marco-rubio-iran-deal-could-take-days-after-us-launches-fresh-strikes_n_6a158fbbe4b0457678e46f1a",
+        "published": "2026-05-26T12:28:46Z",
         "sentiment": "danger"
       },
       {
-        "title": "Japan Scrambles to Reshape Energy Imports",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/149377.php",
-        "published": "2026-05-25T23:10:54Z",
+        "title": "How is the U.S.-Iran peace deal progressing? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/how-is-the-u-s-iran-peace-deal-progressing",
+        "published": "2026-05-26T12:04:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "India Cuts Fuel Demand Growth Projections By 40% Amid Austerity DriveIndia Cuts",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/India-Cuts-Fuel-Demand-Growth-Projections-By-40-Amid-Austerity-DriveIndia-Cuts.html",
-        "published": "2026-05-25T23:00:00Z",
+        "title": "IRGC Navy: 25 ships transited Strait of Hormuz in past 24 hours under its protection",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260526-presstv01.htm",
+        "published": "2026-05-26T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Dow futures jump 440 points as oil prices drop on US-Iran deal hopes",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/dow-futures-jump-oil-drop-iran-deal/",
-        "published": "2026-05-25T22:36:00Z",
+        "title": "Explosion On Tanker Off Oman Coast, British Maritime Monitor Says",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260526-rferl04.htm",
+        "published": "2026-05-26T12:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran Says U.S. Peace Talks Hit “Consensus” On Many Issues, But No Final Deal Yet",
-        "source": "Shtfplan.com",
-        "url": "https://www.shtfplan.com/headline-news/iran-says-u-s-peace-talks-hit-consensus-on-many-issues-but-no-final-deal-yet",
-        "published": "2026-05-25T22:30:27Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "Iran may transfer near-weapons-grade uranium to China under ceasefire deal, and crypto markets are watching",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-uranium-china-ceasefire-crypto-impact/",
+        "published": "2026-05-26T11:34:38Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Sensex today | Stock Market Highlights: Sensex falls 479 points, Nifty slips below 23,950 as rupee weakens",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-26th-may-2026/article71021798.ece",
+        "published": "2026-05-26T11:00:09Z",
+        "sentiment": "watch"
+      },
       {
         "title": "US warns Japan of severe delays in Tomahawk missile deliveries due to Iran war",
         "source": "Crypto Briefing",
@@ -82,20 +96,6 @@
         "source": "The Daily Caller",
         "url": "https://dailycaller.com/2026/05/25/will-china-really-invade-taiwan-in-the-next-five-years/",
         "published": "2026-05-25T13:34:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Foreign minister calls for non-partisan diplomacy ahead of KMT chair's U.S. trip",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260525-cna02.htm",
-        "published": "2026-05-25T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Links 5/25/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/05/links-5-25-2026.html",
-        "published": "2026-05-25T10:58:55Z",
         "sentiment": "watch"
       }
     ],
