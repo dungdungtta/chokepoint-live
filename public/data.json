@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-05-28T12:54:17.828Z",
+    "generated_at": "2026-05-28T21:17:15.906Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 116.73,
-      "change_pct": 2.4,
-      "date": "2026-05-18",
+      "price": 102.75,
+      "change_pct": -3.9,
+      "date": "2026-05-26",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Energy shock starts to bite in Europe: UK household bills set for 'deeply unwelcome' 2-year high",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/27/uk-energy-bills-price-cap-ofgem-iran-war-oil-shock.html",
-        "published": "2026-05-27T12:41:54Z",
+        "title": "CMA CGM Profits Sink as Freight Rate Hangover Hits Q1",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/cma-cgm-freight-rates-container-shipping-strait-of-hormuz-iran-war-q1-earnings-1238983930/",
+        "published": "2026-05-27T21:08:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US-Iran draft MOU may ease tensions, boost Strait of Hormuz ship transits",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-draft-mou-may-ease-tensions-boost-strait-of-hormuz-ship-transits/",
-        "published": "2026-05-27T12:37:59Z",
+        "title": "Canada seals first European LNG deal — but economic and climate hazards loom",
+        "source": "National Observer",
+        "url": "https://www.nationalobserver.com/2026/05/27/news/canada-seals-first-european-lng-deal-economic-climate-hazards-loom",
+        "published": "2026-05-27T20:50:35Z",
         "sentiment": "watch"
       },
       {
-        "title": "US forces to withdraw from Iran's vicinity, lift naval blockade, says state media citing draft deal",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/us-forces-to-withdraw-from-irans-vicinity-lift-naval-blockade-says-state-media-citing-draft-deal/articleshow/131350960.cms",
-        "published": "2026-05-27T12:28:39Z",
+        "title": "Trump appears to threaten Oman over Strait of Hormuz impasse",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse",
+        "published": "2026-05-27T20:38:11Z",
         "sentiment": "danger"
       },
       {
-        "title": "India's top airlines cut domestic flights between 5-22%",
+        "title": "US stocks today: Dow posts closing record high, S&P 500, Nasdaq muted as AI rally pauses",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-cuts-domestic-flights-by-22-amidst-surging-fuel-prices-indigo-reduces-capacity-by-up-to-17/articleshow/131350708.cms",
-        "published": "2026-05-27T12:22:50Z",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-posts-closing-record-high-sp-500-nasdaq-muted-as-ai-rally-pauses/articleshow/131358814.cms",
+        "published": "2026-05-27T20:06:41Z",
         "sentiment": "watch"
       },
       {
-        "title": "US Denies Iranian TV Report On Draft Framework Deal",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260527-rferl05.htm",
-        "published": "2026-05-27T12:00:00Z",
-        "sentiment": "watch"
+        "title": "Middle East Crisis Accelerates U.S.-Thailand LNG Supply Talks",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Middle-East-Crisis-Accelerates-US-Thailand-LNG-Supply-Talks.html",
+        "published": "2026-05-27T20:00:00Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "U.S. will need years to replenish stockpiles of advanced weapons used in Iran war, new analysis finds",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/world/u-s-will-need-years-to-replenish-stockpiles-of-advanced-weapons-used-in-iran-war-new-analysis-finds",
+        "published": "2026-05-27T20:56:32Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "HP Inc. Reports Fiscal 2026 Second Quarter Results",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/05/27/3302394/0/en/HP-Inc-Reports-Fiscal-2026-Second-Quarter-Results.html",
+        "published": "2026-05-27T20:15:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China’s Y-20 Tanker Intercepted while Refueling J-16 Fighters Near Taiwan",
         "source": "Theaviationist.com",
@@ -83,20 +97,6 @@
         "url": "https://www.forbes.com/sites/steveforbes/2026/05/27/warning-to-trump-negotiating-with-iran-is-a-fools-errand/",
         "published": "2026-05-27T10:00:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "China Added to Oil Stockpiles in April Despite Sharp Import Decline",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-05-27-china-oil-stockpiles-april-sharp-import-decline.html",
-        "published": "2026-05-27T06:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan Scrambles Fighter Jets As China Encroaches With Combat Patrols",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/05/26/taiwan-scrambles-fighter-jets-as-china-encroaches-with-combat-patrols/",
-        "published": "2026-05-26T19:03:13Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
