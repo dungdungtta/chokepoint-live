@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-27T20:35:19.923Z",
+    "generated_at": "2026-05-28T00:16:13.467Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "The Iran War Has Remade the Gulf",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/05/26/iran-war-persian-gulf-uae-saudi-trump-usa/",
-        "published": "2026-05-26T20:16:36Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US stocks today: S&P 500 hits record closing high on AI optimism, Micron joins $1 trillion club",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-hits-record-closing-high-on-ai-optimism-micron-joins-1-trillion-club/articleshow/131337183.cms",
-        "published": "2026-05-26T20:08:10Z",
+        "title": "Oil price jumps amid renewed US-Iran tensions",
+        "source": "The Punch",
+        "url": "https://punchng.com/oil-price-jumps-amid-renewed-us-iran-tensions/",
+        "published": "2026-05-27T00:05:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "Piper Sandler says Strait of Hormuz to remain closed for months and oil to hit new highs",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/26/piper-sandler-says-strait-of-hormuz-to-remain-closed-for-months-and-oil-to-hit-new-highs.html",
-        "published": "2026-05-26T19:43:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "No Matter Who Wins the Iran War, the Global Economy Is Losing",
-        "source": "Responsiblestatecraft.org",
-        "url": "https://responsiblestatecraft.org/economy-iran-war/",
-        "published": "2026-05-26T18:44:38Z",
+        "title": "China’s counter-sanctions shield: How Beijing is turning the Iran war into a petroyuan test",
+        "source": "Activistpost.com",
+        "url": "https://www.activistpost.com/chinas-counter-sanctions-shield-how-beijing-is-turning-the-iran-war-into-a-petroyuan-test/",
+        "published": "2026-05-27T00:05:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "How does Camp David Iran meeting affect deal? #world",
+        "title": "How did US- Iran ceasefire get shaken? #world",
         "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/how-does-camp-david-iran-meeting-affect-deal",
-        "published": "2026-05-26T18:04:03Z",
+        "url": "https://alltoc.com/world/how-did-us-iran-ceasefire-get-shaken",
+        "published": "2026-05-27T00:04:18Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The OSS Sabotage Manual Became Corporate Best Practice",
+        "source": "Alephic.com",
+        "url": "https://www.alephic.com/sabotage",
+        "published": "2026-05-26T23:55:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US Strategic Petroleum Reserve sends first oil cargo to Asia since 2022",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-spr-oil-cargo-asia-philippines/",
+        "published": "2026-05-26T22:17:50Z",
         "sentiment": "watch"
       }
     ],
