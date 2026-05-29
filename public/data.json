@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-28T21:17:15.906Z",
+    "generated_at": "2026-05-29T10:56:32.455Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,76 +27,62 @@
   "news": {
     "hormuz": [
       {
-        "title": "CMA CGM Profits Sink as Freight Rate Hangover Hits Q1",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/cma-cgm-freight-rates-container-shipping-strait-of-hormuz-iran-war-q1-earnings-1238983930/",
-        "published": "2026-05-27T21:08:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Canada seals first European LNG deal — but economic and climate hazards loom",
-        "source": "National Observer",
-        "url": "https://www.nationalobserver.com/2026/05/27/news/canada-seals-first-european-lng-deal-economic-climate-hazards-loom",
-        "published": "2026-05-27T20:50:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump appears to threaten Oman over Strait of Hormuz impasse",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse",
-        "published": "2026-05-27T20:38:11Z",
+        "title": "Oil markets are betting on a swift end to the Iran war. Investors may regret it",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/28/oil-prices-iran-war-us-trump-strait-hormuz-energy-inflation-investors.html",
+        "published": "2026-05-28T10:44:36Z",
         "sentiment": "danger"
       },
       {
-        "title": "US stocks today: Dow posts closing record high, S&P 500, Nasdaq muted as AI rally pauses",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-posts-closing-record-high-sp-500-nasdaq-muted-as-ai-rally-pauses/articleshow/131358814.cms",
-        "published": "2026-05-27T20:06:41Z",
+        "title": "Iran targets U.S. airbase as both sides exchange periodic strikes",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/iran-war-day-90-9.7214747",
+        "published": "2026-05-28T10:38:07Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "BRP REPORTS FISCAL YEAR 2027 FIRST QUARTER RESULTS",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/brp-reports-fiscal-year-2027-first-quarter-results-302783768.html",
+        "published": "2026-05-28T10:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Middle East Crisis Accelerates U.S.-Thailand LNG Supply Talks",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Middle-East-Crisis-Accelerates-US-Thailand-LNG-Supply-Talks.html",
-        "published": "2026-05-27T20:00:00Z",
-        "sentiment": "neutral"
+        "title": "Calfrac Announces Normal Course Issuer Bid",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/05/28/3302608/0/en/Calfrac-Announces-Normal-Course-Issuer-Bid.html",
+        "published": "2026-05-28T10:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil prices rise as US and Iran exchange strikes, putting peace deal in doubt",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oil-prices-rise-us-iran-strikes-crypto/",
+        "published": "2026-05-28T09:54:52Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
       {
-        "title": "U.S. will need years to replenish stockpiles of advanced weapons used in Iran war, new analysis finds",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/world/u-s-will-need-years-to-replenish-stockpiles-of-advanced-weapons-used-in-iran-war-new-analysis-finds",
-        "published": "2026-05-27T20:56:32Z",
+        "title": "Asia Pacific can ‘no longer be classified as fully at peace’ amid growing security threats: IISS report",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/asia-pacific-security-threats-region-conflict-iiss-shangri-la-dialogue-6146661",
+        "published": "2026-05-28T09:10:45Z",
         "sentiment": "danger"
       },
       {
-        "title": "HP Inc. Reports Fiscal 2026 Second Quarter Results",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/05/27/3302394/0/en/HP-Inc-Reports-Fiscal-2026-Second-Quarter-Results.html",
-        "published": "2026-05-27T20:15:00Z",
+        "title": "Japan woos visiting Philippine leader during state visit with arms sales and China in mind",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/japan-woos-visiting-philippine-leader-state-visit-arms-133371539",
+        "published": "2026-05-28T06:11:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "China’s Y-20 Tanker Intercepted while Refueling J-16 Fighters Near Taiwan",
-        "source": "Theaviationist.com",
-        "url": "https://theaviationist.com/2026/05/27/china-y-20-intercepted-refueling-j-16s-near-taiwan/",
-        "published": "2026-05-27T11:43:11Z",
+        "title": "No, Iran and China Are Not 'Winning'",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4381257/posts",
+        "published": "2026-05-28T04:24:45Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "US 'begging' for deal with Iran: IRGC Navy official",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260527-presstv01.htm",
-        "published": "2026-05-27T11:08:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Warning To Trump: Negotiating With Iran Is A Fool’s Errand",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/steveforbes/2026/05/27/warning-to-trump-negotiating-with-iran-is-a-fools-errand/",
-        "published": "2026-05-27T10:00:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
