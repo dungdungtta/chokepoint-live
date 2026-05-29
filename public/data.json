@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-29T10:56:32.455Z",
+    "generated_at": "2026-05-29T19:54:57.748Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil markets are betting on a swift end to the Iran war. Investors may regret it",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/28/oil-prices-iran-war-us-trump-strait-hormuz-energy-inflation-investors.html",
-        "published": "2026-05-28T10:44:36Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran targets U.S. airbase as both sides exchange periodic strikes",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/iran-war-day-90-9.7214747",
-        "published": "2026-05-28T10:38:07Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "BRP REPORTS FISCAL YEAR 2027 FIRST QUARTER RESULTS",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/brp-reports-fiscal-year-2027-first-quarter-results-302783768.html",
-        "published": "2026-05-28T10:00:00Z",
+        "title": "TWO Peter Thomas Roth Retinol Fusion PM Serums for $20.98 shipped (Reg. $65!), plus more!",
+        "source": "Moneysavingmom.com",
+        "url": "https://moneysavingmom.com/peter-thomas-roth-skincare-deals/",
+        "published": "2026-05-28T19:50:59Z",
         "sentiment": "watch"
       },
       {
-        "title": "Calfrac Announces Normal Course Issuer Bid",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/05/28/3302608/0/en/Calfrac-Announces-Normal-Course-Issuer-Bid.html",
-        "published": "2026-05-28T10:00:00Z",
+        "title": "US-Iran Peace Deal Won’t Eliminate Security Risks",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/michaelpdempsey/2026/05/28/us-iran-peace-deal-wont-eliminate-security-risks/",
+        "published": "2026-05-28T19:31:36Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil prices rise as US and Iran exchange strikes, putting peace deal in doubt",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-prices-rise-us-iran-strikes-crypto/",
-        "published": "2026-05-28T09:54:52Z",
+        "title": "Dollar Falls Against Major Peers on Report of US-Iran Deal",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/dollar-falls-against-major-peers-on-report-of-us-iran-deal",
+        "published": "2026-05-28T18:30:59Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil prices bounce higher after new US strikes on Iran",
+        "source": "Digital Journal",
+        "url": "https://www.digitaljournal.com/business/oil-prices-bounce-higher-after-new-us-strikes-on-iran/article",
+        "published": "2026-05-28T18:15:27Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "How did Iran war affect US inflation? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/how-did-iran-war-affect-us-inflation",
+        "published": "2026-05-28T18:03:31Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "China’s Navy Is Shifting Pressure Beyond the Taiwan Strait",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/05/chinas-navy-is-shifting-pressure-beyond-the-taiwan-strait/",
+        "published": "2026-05-28T13:29:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Israel the lonely",
+        "source": "Www.nrc.nl",
+        "url": "https://www.nrc.nl/nieuws/2026/05/28/israel-the-lonely-a4928445",
+        "published": "2026-05-28T13:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Asia Pacific can ‘no longer be classified as fully at peace’ amid growing security threats: IISS report",
         "source": "CNA",
@@ -75,13 +89,6 @@
         "source": "Abcnews.com",
         "url": "https://abcnews.com/International/wireStory/japan-woos-visiting-philippine-leader-state-visit-arms-133371539",
         "published": "2026-05-28T06:11:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "No, Iran and China Are Not 'Winning'",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4381257/posts",
-        "published": "2026-05-28T04:24:45Z",
         "sentiment": "watch"
       }
     ],
