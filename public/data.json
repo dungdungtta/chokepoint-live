@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-30T18:48:45.446Z",
+    "generated_at": "2026-05-30T22:33:30.967Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Show HN: Simple news aggregator with source bias meters",
-        "source": "Unbiasthenews.com",
-        "url": "https://unbiasthenews.com",
-        "published": "2026-05-29T18:21:24Z",
+        "title": "Groupon Automotive Deals + shipping varies",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Groupon-Automotive-Deals-shipping-varies/21836450.html",
+        "published": "2026-05-29T21:40:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "What is happening in U.S.-Iran talks for ceasefire? #world",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/what-is-happening-in-u-s-iran-talks-for-ceasefire",
-        "published": "2026-05-29T18:03:17Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Trump says he will decide imminently whether to accept Iran ceasefire deal - but Tehran already cast doubt",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15859225/Trump-decide-imminently-Iran-ceasefire-deal.html",
-        "published": "2026-05-29T17:46:45Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "A look at Trump's claim that he is making food more affordable",
-        "source": "WSB Radio",
-        "url": "https://www.wsbradio.com/news/business/trump-claims-hes/UP5WVPTS346JFPQGH7H4D5OL74/",
-        "published": "2026-05-29T17:34:39Z",
+        "title": "Oil falls, stocks mixed on US-Iran truce prospects",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/oil-prices-stocks-market-us-iran-deal-6150796",
+        "published": "2026-05-29T21:36:19Z",
         "sentiment": "watch"
       },
       {
-        "title": "CENTCOM warns of military operations near Strait of Hormuz amid US-Iran tensions",
+        "title": "Trump says he will soon decide on Iran deal, says Hormuz Strait must open",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/trump-says-will-soon-decide-on-iran-deal-says-hormuz-strait-must-open",
+        "published": "2026-05-29T21:24:32Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran conflict triggers major energy crisis, disrupts Strait of Hormuz shipping",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/centcom-warns-of-military-operations-near-strait-of-hormuz-amid-us-iran-tensions/",
-        "published": "2026-05-29T17:32:27Z",
-        "sentiment": "danger"
+        "url": "https://cryptobriefing.com/iran-conflict-triggers-major-energy-crisis-disrupts-strait-of-hormuz-shipping/",
+        "published": "2026-05-29T21:01:37Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "U.N. Blacklists Israel, Russia for Sexual Violence in Conflict",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/05/29/israel-russia-sexual-violence-un-report-guterres/",
+        "published": "2026-05-29T20:49:26Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China 'firmly' opposed to Canadian warship's Taiwan Strait crossing",
+        "source": "National Post",
+        "url": "https://nationalpost.com/news/world/china-firmly-opposed-to-canadian-warships-taiwan-strait-crossing",
+        "published": "2026-05-29T19:09:41Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Show HN: Simple news aggregator with source bias meters",
         "source": "Unbiasthenews.com",
@@ -82,20 +89,6 @@
         "source": "DW (English)",
         "url": "https://www.dw.com/en/south-korea-pushes-nuclear-powered-submarine-plan/a-77348692",
         "published": "2026-05-29T13:34:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Smart tech is making war a dumber choice",
-        "source": "Www.nrc.nl",
-        "url": "https://www.nrc.nl/nieuws/2026/05/29/smart-tech-is-making-war-a-dumber-choice-a4928904",
-        "published": "2026-05-29T13:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Asia defense summit opens amid doubts over U.S. priorities",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/05/29/g-s1-124788/asia-defense-summit-opens-amid-doubts-over-u-s-priorities",
-        "published": "2026-05-29T12:57:25Z",
         "sentiment": "watch"
       }
     ],
