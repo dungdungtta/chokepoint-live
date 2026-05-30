@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-30T00:15:42.962Z",
+    "generated_at": "2026-05-30T09:06:10.603Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "What deal did US and Iran negotiators reach? #politics",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/politics/what-deal-did-us-and-iran-negotiators-reach",
-        "published": "2026-05-29T00:02:27Z",
+        "title": "Trump's Oman outburst throws 'Switzerland of the Middle East' into the spotlight",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/29/oman-trump-sanctions-iran-war-bessent.html",
+        "published": "2026-05-29T08:44:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "CRC Ultra Screwloose Super Penetrant 11-oz. Penetrating Oil + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/CRC-Ultra-Screwloose-Super-Penetrant-11-oz-Penetrating-Oil-free-shipping-w-Prime/21836228.html",
+        "published": "2026-05-29T08:06:48Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US and Iran reach preliminary deal to extend ceasefire by 60 days, Bitcoin reacts",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-ceasefire-deal-bitcoin-impact/",
+        "published": "2026-05-29T07:23:57Z",
         "sentiment": "neutral"
       },
       {
-        "title": "U.S. Crude Exports Surge To All-Time Highs Amid SPR Releases",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/US-Crude-Exports-Surge-To-All-Time-Highs-Amid-SPR-Releases.html",
-        "published": "2026-05-29T00:00:00Z",
+        "title": "Iran, US Tentatively Agree to Renew Truce for 60 Days",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/iran_us_tentatively_agree_to_renew_truce_for_60_days-29-may-2026-183804-article/",
+        "published": "2026-05-29T07:10:56Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil prices slide as US-Iran ceasefire talks progress",
-        "source": "The Punch",
-        "url": "https://punchng.com/oil-prices-slide-as-us-iran-ceasefire-talks-progress/",
-        "published": "2026-05-28T23:54:16Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "1969 Chevrolet Corvette Convertible L88 427/430 4-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1969-chevrolet-corvette-convertible-93/",
-        "published": "2026-05-28T23:50:04Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "No, Iran and China are not ‘winning’",
-        "source": "Wnd.com",
-        "url": "https://www.wnd.com/2026/05/no-iran-china-are-not-winning/",
-        "published": "2026-05-28T23:01:16Z",
-        "sentiment": "watch"
+        "title": "What’s happening on Iran war day 91 as US, Iran near 60-day deal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/29/whats-happening-on-iran-war-day-91-as-us-iran-near-60-day-deal",
+        "published": "2026-05-29T07:04:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Asia’s defense summit opens with China and doubts about US priorities topping concerns",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/asias-defense-summit-opens-china-doubts-us-priorities-133407647",
+        "published": "2026-05-29T06:19:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Asia’s defense summit opens with China and doubts about U.S. priorities topping concerns",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/asia%E2%80%99s-defense-summit-opens-with-china-and-doubts-about-us-priorities-topping-concerns",
+        "published": "2026-05-29T03:34:49Z",
+        "sentiment": "watch"
+      },
       {
         "title": "No, Iran and China are not ‘winning’",
         "source": "Wnd.com",
@@ -83,20 +97,6 @@
         "url": "https://thediplomat.com/2026/05/chinas-navy-is-shifting-pressure-beyond-the-taiwan-strait/",
         "published": "2026-05-28T13:29:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Israel the lonely",
-        "source": "Www.nrc.nl",
-        "url": "https://www.nrc.nl/nieuws/2026/05/28/israel-the-lonely-a4928445",
-        "published": "2026-05-28T13:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Asia Pacific can ‘no longer be classified as fully at peace’ amid growing security threats: IISS report",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/asia-pacific-security-threats-region-conflict-iiss-shangri-la-dialogue-6146661",
-        "published": "2026-05-28T09:10:45Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
