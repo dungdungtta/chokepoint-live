@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-29T19:54:57.748Z",
+    "generated_at": "2026-05-30T00:15:42.962Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "TWO Peter Thomas Roth Retinol Fusion PM Serums for $20.98 shipped (Reg. $65!), plus more!",
-        "source": "Moneysavingmom.com",
-        "url": "https://moneysavingmom.com/peter-thomas-roth-skincare-deals/",
-        "published": "2026-05-28T19:50:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US-Iran Peace Deal Won’t Eliminate Security Risks",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/michaelpdempsey/2026/05/28/us-iran-peace-deal-wont-eliminate-security-risks/",
-        "published": "2026-05-28T19:31:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Dollar Falls Against Major Peers on Report of US-Iran Deal",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/dollar-falls-against-major-peers-on-report-of-us-iran-deal",
-        "published": "2026-05-28T18:30:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil prices bounce higher after new US strikes on Iran",
-        "source": "Digital Journal",
-        "url": "https://www.digitaljournal.com/business/oil-prices-bounce-higher-after-new-us-strikes-on-iran/article",
-        "published": "2026-05-28T18:15:27Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "How did Iran war affect US inflation? #world",
+        "title": "What deal did US and Iran negotiators reach? #politics",
         "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/how-did-iran-war-affect-us-inflation",
-        "published": "2026-05-28T18:03:31Z",
-        "sentiment": "danger"
+        "url": "https://alltoc.com/politics/what-deal-did-us-and-iran-negotiators-reach",
+        "published": "2026-05-29T00:02:27Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "U.S. Crude Exports Surge To All-Time Highs Amid SPR Releases",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/US-Crude-Exports-Surge-To-All-Time-Highs-Amid-SPR-Releases.html",
+        "published": "2026-05-29T00:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil prices slide as US-Iran ceasefire talks progress",
+        "source": "The Punch",
+        "url": "https://punchng.com/oil-prices-slide-as-us-iran-ceasefire-talks-progress/",
+        "published": "2026-05-28T23:54:16Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "1969 Chevrolet Corvette Convertible L88 427/430 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1969-chevrolet-corvette-convertible-93/",
+        "published": "2026-05-28T23:50:04Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "No, Iran and China are not ‘winning’",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/05/no-iran-china-are-not-winning/",
+        "published": "2026-05-28T23:01:16Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "No, Iran and China are not ‘winning’",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/05/no-iran-china-are-not-winning/",
+        "published": "2026-05-28T23:01:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Japan woos Philippine leader during state visit with arms sales and China in mind",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/politics/japan-woos-visiting-philippine-leader-during-state-visit-with-arms-sales-and-china-in-mind",
+        "published": "2026-05-28T21:33:34Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China’s Navy Is Shifting Pressure Beyond the Taiwan Strait",
         "source": "The Diplomat",
@@ -83,13 +97,6 @@
         "url": "https://www.channelnewsasia.com/world/asia-pacific-security-threats-region-conflict-iiss-shangri-la-dialogue-6146661",
         "published": "2026-05-28T09:10:45Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Japan woos visiting Philippine leader during state visit with arms sales and China in mind",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/japan-woos-visiting-philippine-leader-state-visit-arms-133371539",
-        "published": "2026-05-28T06:11:58Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
