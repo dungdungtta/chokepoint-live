@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-30T14:48:58.982Z",
+    "generated_at": "2026-05-30T18:48:45.446Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "US negotiators near preliminary deal with Iran, awaiting Trump approval",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-deal-bitcoin-market-impact/",
-        "published": "2026-05-29T14:46:30Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "US-Iran ceasefire agreement has yet to be approved by Trump",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/05/29/us-iran-ceasefire-agreement-has-yet-to-be-approved-by-trump/",
-        "published": "2026-05-29T14:36:06Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Of Course It’s a War",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/05/29/trump-constitution-iran-war-congress-blockade-ceasefire/",
-        "published": "2026-05-29T14:10:36Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Gold gains on US-Iran ceasefire optimism, but still set for monthly drop",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/gold-gains-iran-ceasefire-monthly-drop/",
-        "published": "2026-05-29T14:05:04Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Georgia's Iran Embrace Is Costing It Washington",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/georgia-iran-relations-washington-sanctions-hudson/33768300.html",
-        "published": "2026-05-29T13:53:01Z",
+        "title": "Show HN: Simple news aggregator with source bias meters",
+        "source": "Unbiasthenews.com",
+        "url": "https://unbiasthenews.com",
+        "published": "2026-05-29T18:21:24Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "What is happening in U.S.-Iran talks for ceasefire? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/what-is-happening-in-u-s-iran-talks-for-ceasefire",
+        "published": "2026-05-29T18:03:17Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Trump says he will decide imminently whether to accept Iran ceasefire deal - but Tehran already cast doubt",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15859225/Trump-decide-imminently-Iran-ceasefire-deal.html",
+        "published": "2026-05-29T17:46:45Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "A look at Trump's claim that he is making food more affordable",
+        "source": "WSB Radio",
+        "url": "https://www.wsbradio.com/news/business/trump-claims-hes/UP5WVPTS346JFPQGH7H4D5OL74/",
+        "published": "2026-05-29T17:34:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "CENTCOM warns of military operations near Strait of Hormuz amid US-Iran tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/centcom-warns-of-military-operations-near-strait-of-hormuz-amid-us-iran-tensions/",
+        "published": "2026-05-29T17:32:27Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Show HN: Simple news aggregator with source bias meters",
+        "source": "Unbiasthenews.com",
+        "url": "https://unbiasthenews.com",
+        "published": "2026-05-29T18:21:24Z",
+        "sentiment": "watch"
+      },
       {
         "title": "No Enemies, Stronger Army: Kazakhstan’s Strategic Bet",
         "source": "The Diplomat",
@@ -89,13 +96,6 @@
         "source": "NPR",
         "url": "https://www.npr.org/2026/05/29/g-s1-124788/asia-defense-summit-opens-amid-doubts-over-u-s-priorities",
         "published": "2026-05-29T12:57:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China and Maritime Chokepoints: Hormuz, Malacca, and Indo-Pacific Vulnerability",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/05/china-and-maritime-chokepoints-hormuz-malacca-and-indo-pacific-vulnerability/",
-        "published": "2026-05-29T12:48:00Z",
         "sentiment": "watch"
       }
     ],
