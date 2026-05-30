@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-30T09:06:10.603Z",
+    "generated_at": "2026-05-30T14:48:58.982Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,79 +27,86 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump's Oman outburst throws 'Switzerland of the Middle East' into the spotlight",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/29/oman-trump-sanctions-iran-war-bessent.html",
-        "published": "2026-05-29T08:44:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "CRC Ultra Screwloose Super Penetrant 11-oz. Penetrating Oil + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/CRC-Ultra-Screwloose-Super-Penetrant-11-oz-Penetrating-Oil-free-shipping-w-Prime/21836228.html",
-        "published": "2026-05-29T08:06:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US and Iran reach preliminary deal to extend ceasefire by 60 days, Bitcoin reacts",
+        "title": "US negotiators near preliminary deal with Iran, awaiting Trump approval",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-ceasefire-deal-bitcoin-impact/",
-        "published": "2026-05-29T07:23:57Z",
+        "url": "https://cryptobriefing.com/us-iran-deal-bitcoin-market-impact/",
+        "published": "2026-05-29T14:46:30Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Iran, US Tentatively Agree to Renew Truce for 60 Days",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/iran_us_tentatively_agree_to_renew_truce_for_60_days-29-may-2026-183804-article/",
-        "published": "2026-05-29T07:10:56Z",
-        "sentiment": "watch"
+        "title": "US-Iran ceasefire agreement has yet to be approved by Trump",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/05/29/us-iran-ceasefire-agreement-has-yet-to-be-approved-by-trump/",
+        "published": "2026-05-29T14:36:06Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "What’s happening on Iran war day 91 as US, Iran near 60-day deal",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/29/whats-happening-on-iran-war-day-91-as-us-iran-near-60-day-deal",
-        "published": "2026-05-29T07:04:00Z",
+        "title": "Of Course It’s a War",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/05/29/trump-constitution-iran-war-congress-blockade-ceasefire/",
+        "published": "2026-05-29T14:10:36Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Gold gains on US-Iran ceasefire optimism, but still set for monthly drop",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/gold-gains-iran-ceasefire-monthly-drop/",
+        "published": "2026-05-29T14:05:04Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Georgia's Iran Embrace Is Costing It Washington",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/georgia-iran-relations-washington-sanctions-hudson/33768300.html",
+        "published": "2026-05-29T13:53:01Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "Asia’s defense summit opens with China and doubts about US priorities topping concerns",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/asias-defense-summit-opens-china-doubts-us-priorities-133407647",
-        "published": "2026-05-29T06:19:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Asia’s defense summit opens with China and doubts about U.S. priorities topping concerns",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/asia%E2%80%99s-defense-summit-opens-with-china-and-doubts-about-us-priorities-topping-concerns",
-        "published": "2026-05-29T03:34:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "No, Iran and China are not ‘winning’",
-        "source": "Wnd.com",
-        "url": "https://www.wnd.com/2026/05/no-iran-china-are-not-winning/",
-        "published": "2026-05-28T23:01:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Japan woos Philippine leader during state visit with arms sales and China in mind",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/politics/japan-woos-visiting-philippine-leader-during-state-visit-with-arms-sales-and-china-in-mind",
-        "published": "2026-05-28T21:33:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China’s Navy Is Shifting Pressure Beyond the Taiwan Strait",
+        "title": "No Enemies, Stronger Army: Kazakhstan’s Strategic Bet",
         "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/05/chinas-navy-is-shifting-pressure-beyond-the-taiwan-strait/",
-        "published": "2026-05-28T13:29:00Z",
+        "url": "https://thediplomat.com/2026/05/no-enemies-stronger-army-kazakhstans-strategic-bet/",
+        "published": "2026-05-29T14:06:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "South Korea pushes nuclear-powered submarine plan",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/south-korea-pushes-nuclear-powered-submarine-plan/a-77348692",
+        "published": "2026-05-29T13:34:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Smart tech is making war a dumber choice",
+        "source": "Www.nrc.nl",
+        "url": "https://www.nrc.nl/nieuws/2026/05/29/smart-tech-is-making-war-a-dumber-choice-a4928904",
+        "published": "2026-05-29T13:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Asia defense summit opens amid doubts over U.S. priorities",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/05/29/g-s1-124788/asia-defense-summit-opens-amid-doubts-over-u-s-priorities",
+        "published": "2026-05-29T12:57:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China and Maritime Chokepoints: Hormuz, Malacca, and Indo-Pacific Vulnerability",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/05/china-and-maritime-chokepoints-hormuz-malacca-and-indo-pacific-vulnerability/",
+        "published": "2026-05-29T12:48:00Z",
         "sentiment": "watch"
       }
     ],
     "malacca": [
+      {
+        "title": "China and Maritime Chokepoints: Hormuz, Malacca, and Indo-Pacific Vulnerability",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/05/china-and-maritime-chokepoints-hormuz-malacca-and-indo-pacific-vulnerability/",
+        "published": "2026-05-29T12:48:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Empires of Flow Control",
         "source": "The New York Review of Books",
@@ -126,13 +133,6 @@
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/5/1/turbulent-and-dangerous-how-shipping-is-the-new-global-battleground",
         "published": "2026-05-01T13:18:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Eyes on the next global flashpoint: Why India is pouring billions into a remote island",
-        "source": "RT",
-        "url": "https://www.rt.com/india/639335-india-nicobar-island-development-plan/",
-        "published": "2026-05-01T12:13:36Z",
         "sentiment": "watch"
       }
     ]
