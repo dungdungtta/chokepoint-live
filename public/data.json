@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-31T19:51:02.022Z",
+    "generated_at": "2026-05-31T23:46:22.870Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Sunday shows preview: Will Trump greenlight a new Iran deal?",
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/sunday-talk-shows/5902687-sunday-shows-preview-trump-iran-deal/",
+        "published": "2026-05-30T21:39:55Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran reasserts control over Hormuz Strait amid US tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-reasserts-control-over-hormuz-strait-amid-us-tensions/",
+        "published": "2026-05-30T20:18:42Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "The Iran Conflict's Gathering Storm: World Braces for Economic Contagion",
         "source": "Blogspot.com",
         "url": "https://i-epikaira.blogspot.com/2026/05/the-iran-conflicts-gathering-storm.html",
@@ -45,20 +59,6 @@
         "source": "Lloydslist.com",
         "url": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
         "published": "2026-05-30T18:19:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Q4 results highlights today: IREDA, Triveni Engg, Gujarat Energy profit dips, Zara India revenue slips; Tilaknagar, Genesys, Univastu and Veranda Learning shine",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/stock-markets/q4-results-highlights-today-live-updates-linde-india-patanjali-foods-gujarat-gas-ptc-ind-jupiter-wagons-titagarh-rail-systems-jindal-poly-films-steelcast-easy-trip-planners-results-results-30-may-2026/article71040136.ece",
-        "published": "2026-05-30T16:49:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Where to invest when inflation is spiking",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/where-to-invest-when-inflation-is-spiking/article71037095.ece",
-        "published": "2026-05-30T16:01:40Z",
         "sentiment": "watch"
       }
     ],
