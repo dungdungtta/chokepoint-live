@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-31T09:38:06.558Z",
+    "generated_at": "2026-05-31T15:03:31.038Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,68 +27,68 @@
   "news": {
     "hormuz": [
       {
-        "title": "What is oil price prediction for Monday? Oil prices fall as US-Iran ceasefire talks support market sentiment",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/what-is-oil-price-prediction-for-monday-oil-prices-fall-as-us-iran-ceasefire-talks-support-market-sentiment/articleshow/131406928.cms",
-        "published": "2026-05-30T09:32:38Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Knowledge Nugget | India’s LPG Crisis: Why strategic reserves are critical after strait of hormuz disruptions",
-        "source": "The Indian Express",
-        "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-upsc-strategic-lpg-reserve-30-days-sprs-energy-10715453/",
-        "published": "2026-05-30T09:17:37Z",
+        "title": "U.S. says deals with Iran for safe Hormuz transit are prohibited",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/05/30/us-treasury-ofac-deals-iran-safe-passage-strait-hormuz-irgc/",
+        "published": "2026-05-30T14:42:15Z",
         "sentiment": "watch"
       },
       {
-        "title": "What is gold and silver price prediction for Monday? Gold rebounds on US-Iran ceasefire hopes, silver holds steady",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/what-is-gold-and-silver-price-prediction-for-monday-gold-rebounds-on-us-iran-ceasefire-hopes-silver-holds-steady/articleshow/131406384.cms",
-        "published": "2026-05-30T09:10:31Z",
-        "sentiment": "neutral"
+        "title": "No, Iran and China Are Not ‘Winning’",
+        "source": "Daily Signal",
+        "url": "https://www.dailysignal.com/2026/05/30/china-iran-not-winning/",
+        "published": "2026-05-30T14:00:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "[SnS, AC] $18.56* | 12-Pack 5-Oz Genova Premium Yellowfin Tuna in Olive Oil at Amazon (2 replies)",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19576710-sns-ac-18-56-12-pack-5-oz-genova-premium-yellowfin-tuna-in-olive-oil-at-amazon",
-        "published": "2026-05-30T09:01:11Z",
+        "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "published": "2026-05-30T13:59:45Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Gold price prediction: What is expected Gold rate in near term?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-what-to-expect-gold-rate-in-near-term/articleshow/131410420.cms",
+        "published": "2026-05-30T13:41:28Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "Pentagon chief says US seeks 'stable equilibrium' with China in Asia",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/pentagon-chief-says-us-seeks-stable-equilibrium-with-china-in-asia-222679",
-        "published": "2026-05-30T06:28:02Z",
+        "title": "No, Iran and China Are Not ‘Winning’",
+        "source": "Daily Signal",
+        "url": "https://www.dailysignal.com/2026/05/30/china-iran-not-winning/",
+        "published": "2026-05-30T14:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US won't let China impose 'hegemony' in Asia, Hegseth says",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-05-30/pete-hegseth-us-will-prevent-china-hegemony-shangri-la-dialogue/106740596",
-        "published": "2026-05-30T04:19:53Z",
+        "title": "Secretary of War Pete Hegseth Holds a Press Availability at the U.S. Embassy in Singapore",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260530-dod01.htm",
+        "published": "2026-05-30T12:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Hegseth Raps Europe, Hails Ties With China and Asian Allies",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/hegseth-raps-europe-hails-ties-with-china-and-asian-allies",
+        "published": "2026-05-30T11:47:35Z",
         "sentiment": "watch"
       },
       {
-        "title": "Pentagon chief hits measured tone on China at Asia defence meet",
-        "source": "Digital Journal",
-        "url": "https://www.digitaljournal.com/world/pentagon-chief-hits-measured-tone-on-china-at-asia-defence-meet/article",
-        "published": "2026-05-30T02:42:20Z",
+        "title": "What Hegseth’s comments at Shangri-La Dialogue say about US foreign policy",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/30/what-hegseths-comments-at-shangri-la-dialogue-say-about-us-foreign-policy",
+        "published": "2026-05-30T11:07:52Z",
         "sentiment": "watch"
       },
       {
-        "title": "Asia defense summit opens with China and doubts about U.S. priorities topping concerns",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/world/asia-defense-summit-opens-with-china-and-doubts-about-u-s-priorities-topping-concerns",
-        "published": "2026-05-30T00:11:46Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump call with Taiwanese president on hold",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/trump-call-with-taiwanese-president-on-hold/",
-        "published": "2026-05-29T23:29:47Z",
+        "title": "Hegseth Knocks Europe While Hailing Ties With China, Asia Allies",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/hegseth-knocks-europe-while-hailing-ties-with-china-asia-allies",
+        "published": "2026-05-30T11:01:46Z",
         "sentiment": "watch"
       }
     ],
