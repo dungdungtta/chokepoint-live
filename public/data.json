@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-31T15:03:31.038Z",
+    "generated_at": "2026-05-31T19:51:02.022Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S. says deals with Iran for safe Hormuz transit are prohibited",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/05/30/us-treasury-ofac-deals-iran-safe-passage-strait-hormuz-irgc/",
-        "published": "2026-05-30T14:42:15Z",
+        "title": "The Iran Conflict's Gathering Storm: World Braces for Economic Contagion",
+        "source": "Blogspot.com",
+        "url": "https://i-epikaira.blogspot.com/2026/05/the-iran-conflicts-gathering-storm.html",
+        "published": "2026-05-30T19:47:40Z",
         "sentiment": "watch"
       },
       {
-        "title": "No, Iran and China Are Not ‘Winning’",
-        "source": "Daily Signal",
-        "url": "https://www.dailysignal.com/2026/05/30/china-iran-not-winning/",
-        "published": "2026-05-30T14:00:00Z",
+        "title": "US enforces blockade in Gulf of Oman, disables Gambia-flagged vessel",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-enforces-blockade-in-gulf-of-oman-disables-gambia-flagged-vessel/",
+        "published": "2026-05-30T18:26:51Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
+        "source": "Lloydslist.com",
+        "url": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
+        "published": "2026-05-30T18:19:23Z",
         "sentiment": "watch"
       },
       {
-        "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "published": "2026-05-30T13:59:45Z",
+        "title": "Q4 results highlights today: IREDA, Triveni Engg, Gujarat Energy profit dips, Zara India revenue slips; Tilaknagar, Genesys, Univastu and Veranda Learning shine",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/stock-markets/q4-results-highlights-today-live-updates-linde-india-patanjali-foods-gujarat-gas-ptc-ind-jupiter-wagons-titagarh-rail-systems-jindal-poly-films-steelcast-easy-trip-planners-results-results-30-may-2026/article71040136.ece",
+        "published": "2026-05-30T16:49:51Z",
         "sentiment": "watch"
       },
       {
-        "title": "Gold price prediction: What is expected Gold rate in near term?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-what-to-expect-gold-rate-in-near-term/articleshow/131410420.cms",
-        "published": "2026-05-30T13:41:28Z",
+        "title": "Where to invest when inflation is spiking",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/where-to-invest-when-inflation-is-spiking/article71037095.ece",
+        "published": "2026-05-30T16:01:40Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Debunking 3 Myths From the Trump-Xi Summit",
+        "source": "Daily Signal",
+        "url": "https://www.dailysignal.com/2026/05/30/trump-xi-myths/",
+        "published": "2026-05-30T18:30:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "No, Iran and China Are Not ‘Winning’",
         "source": "Daily Signal",
@@ -82,13 +96,6 @@
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/5/30/what-hegseths-comments-at-shangri-la-dialogue-say-about-us-foreign-policy",
         "published": "2026-05-30T11:07:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hegseth Knocks Europe While Hailing Ties With China, Asia Allies",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/hegseth-knocks-europe-while-hailing-ties-with-china-asia-allies",
-        "published": "2026-05-30T11:01:46Z",
         "sentiment": "watch"
       }
     ],
