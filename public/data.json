@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-02T13:01:33.803Z",
+    "generated_at": "2026-06-02T17:50:29.581Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,75 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "WATCH: Preview of 'History's Greatest Machines'",
+        "title": "Trump says he has not heard from Iran that they are suspending talks, NBC News reports",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/trump-unaware-of-iran-suspending-talks-says-silence-could-be-beneficial/articleshow/131447737.cms",
+        "published": "2026-06-01T17:45:05Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "WATCH: No Doubt at the Las Vegas Sphere",
         "source": "Abcnews.com",
-        "url": "https://abcnews.com/video/133480948/",
-        "published": "2026-06-01T12:56:19Z",
+        "url": "https://abcnews.com/video/133490681/",
+        "published": "2026-06-01T17:41:35Z",
         "sentiment": "watch"
       },
       {
-        "title": "Current price of oil as of June 1, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-06-01-2026/",
-        "published": "2026-06-01T12:29:57Z",
+        "title": "Trump promised cheap gas and no new wars. Thanks, MAGA!",
+        "source": "Boing Boing",
+        "url": "https://boingboing.net/2026/06/01/trump-promised-cheap-gas-and-no-new-wars-thanks-maga.html",
+        "published": "2026-06-01T17:39:39Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Rystad: U.S.-Iran Re-Escalation Could Drive Oil To $180 By August",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Rystad-US-Iran-Re-Escalation-Could-Drive-Oil-To-180-By-August.html",
+        "published": "2026-06-01T17:30:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump Says Deal Will ‘Work Out Well’ Even as US, Iran Clash",
+        "source": "Military.com",
+        "url": "https://military.com/trump-says-deal-will-work-out-well-even-as-us-iran-clash",
+        "published": "2026-06-01T17:22:15Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "How are US and Iran strikes affecting talks? #world",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/how-are-us-and-iran-strikes-affecting-talks",
-        "published": "2026-06-01T12:03:45Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US Conducts New Round Of 'Self-Defense' Attacks On Iran; Tehran Fires Back At Kuwait",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260601-rferl02.htm",
-        "published": "2026-06-01T12:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Day 1,559 of WW3. Moscow adds air-defense vehicles to its skyline for purely aesthetic reasons. France intercepts a shadow fleet tanker in the Atlantic, and Lickspittle Luka rattles his toy saber at Ukraine. This is your Monday Ukraine War thread [News]",
-        "source": "Fark.com",
-        "url": "https://www.fark.com/comments/14085142/Day-1559-of-WW3-Moscow-adds-air-defense-vehicles-to-its-skyline-for-purely-aesthetic-reasons-France-intercepts-a-shadow-fleet-tanker-in-Atlantic-Lickspittle-Luka-rattles-his-toy-saber-at-Ukraine-This-is-your-Monday-Ukraine-War-thread",
-        "published": "2026-06-01T12:00:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
       {
-        "title": "Taiwan opposition leader heads to US",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/taiwan-opposition-leader-heads-to-us/a-77375444",
-        "published": "2026-06-01T10:56:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan opposition leader heads to US",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/taiwan-opposition-leader-heads-to-us/a-77375444",
-        "published": "2026-06-01T10:56:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Deterring Russia Beneath the Waves: Securing NATO’s Critical Undersea Infrastructure",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/deterring-russia-beneath-the-waves-securing-natos-critical-undersea-infrastructure/",
-        "published": "2026-06-01T07:15:28Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Iran War Is Prelude to the Fifth War",
-        "source": "Hoover.org",
-        "url": "https://www.hoover.org/research/iran-war-prelude-fifth-war",
-        "published": "2026-06-01T00:00:00Z",
+        "title": "The Crisis of American Hegemony: Fascism, World War, and the Struggle Within the Ruling Class",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/fascism-world-war-ruling-class/5928337",
+        "published": "2026-06-01T14:12:38Z",
         "sentiment": "danger"
       },
       {
-        "title": "Chinese Missile Might Have Been Used to Shoot Down F-15E in Iran – U.S. Officials",
-        "source": "Theaviationist.com",
-        "url": "https://theaviationist.com/2026/05/31/chinese-missile-used-to-shoot-down-f-15e/",
-        "published": "2026-05-31T19:58:29Z",
+        "title": "Selected Articles: Living in the World of the Shipwrecked, the Abandoned, the Trapped, the Vanishing",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/selected-articles-shipwrecked-abandoned-trapped-vanishing/5928362",
+        "published": "2026-06-01T14:04:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Canada, Netherlands Engage in Naval Standoffs with China, On Behalf of Washington? The Taiwan Strait, the East and South China Seas",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/canada-netherlands-engage-in-naval-standoffs-with-china-on-behalf-of-washington-the-taiwan-strait-the-east-and-south-china-seas/5928369",
+        "published": "2026-06-01T13:16:57Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan opposition leader heads to US",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/taiwan-opposition-leader-heads-to-us/a-77375444",
+        "published": "2026-06-01T10:56:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan opposition leader heads to US",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/taiwan-opposition-leader-heads-to-us/a-77375444",
+        "published": "2026-06-01T10:56:00Z",
         "sentiment": "watch"
       }
     ],
@@ -126,13 +126,6 @@
         "source": "DW (English)",
         "url": "https://www.dw.com/en/the-weaponization-of-shipping-channels/a-77108496",
         "published": "2026-05-10T07:43:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "‘Turbulent and dangerous’: How shipping is the new global battleground",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/1/turbulent-and-dangerous-how-shipping-is-the-new-global-battleground",
-        "published": "2026-05-01T13:18:33Z",
         "sentiment": "watch"
       }
     ]
