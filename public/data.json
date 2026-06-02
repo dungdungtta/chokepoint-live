@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-02T21:19:20.620Z",
+    "generated_at": "2026-06-02T23:17:25.092Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "WATCH: Boston meteor lights up sky, sparks search surge",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/video/133496940/",
+        "published": "2026-06-01T22:24:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "60-Piece Acrylic Paint Brush Set + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/60-Piece-Acrylic-Paint-Brush-Set-free-shipping-w-Prime/21836929.html",
+        "published": "2026-06-01T21:49:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "236-Mile 2022 Royal Enfield INT650 120th Anniversary Edition",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/2022-royal-enfield-int-650-120th-anniversary-edition-17-30/",
+        "published": "2026-06-01T21:35:05Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Why are oil prices up today and will Brent and US WTI crude futures continue to drop or rise again? Oil prices surge as Iran talks stall and supply concerns return",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-up-today-and-will-brent-and-us-wti-crude-futures-continue-to-drop-or-rise-again-oil-prices-surge-as-iran-talks-stall-and-supply-concerns-return/articleshow/131450108.cms",
@@ -39,27 +60,6 @@
         "url": "https://bringatrailer.com/listing/1966-plymouth-satellite-22/",
         "published": "2026-06-01T21:00:11Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Crude Surges on Iran Tensions",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/crude_surges_on_iran_tensions-01-jun-2026-183824-article/",
-        "published": "2026-06-01T20:09:32Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Heidmar Maritime Holdings Corp. Announces Transition in Chief Financial Officer Role",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/06/01/3304709/0/en/Heidmar-Maritime-Holdings-Corp-Announces-Transition-in-Chief-Financial-Officer-Role.html",
-        "published": "2026-06-01T20:05:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump's Iran war opens up on terrifying new front as regime threatens the 'Strait of Tears': Oil prices to DOUBLE, analyst warns",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15865071/Trumps-Iran-war-opens-terrifying-new-regime-threatens-Strait-Tears-Oil-prices-DOUBLE-analyst-warns.html",
-        "published": "2026-06-01T19:46:53Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
