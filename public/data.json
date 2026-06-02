@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-01T19:30:28.192Z",
+    "generated_at": "2026-06-02T00:01:59.397Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran says it does not trust U.S. as Trump toughens terms",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/trump-says-iran-has-agreed-to-no-nuclear-weapons",
+        "published": "2026-05-31T21:22:45Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Iran War’s First 90 Days Upended Energy Markets",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/The-Iran-Wars-First-90-Days-Upended-Energy-Markets.html",
+        "published": "2026-05-31T21:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "A rare ‘super’ El Niño is looking more likely. Here’s what to expect",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/05/31/rare-super-el-nino-forecast-drought-flooding-climate-change/",
+        "published": "2026-05-31T20:49:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Mumbai port’s future-ready focus",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/logistics/mumbai-ports-future-ready-focus/article71045880.ece",
+        "published": "2026-05-31T19:32:19Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "What is Trump’s Iran deal “key concession”? #world",
         "source": "Alltoc.com",
         "url": "https://alltoc.com/world/what-is-trumps-iran-deal-key-concession",
         "published": "2026-05-31T18:03:48Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "What did Trump say about Iran deal signoff? #politics",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/politics/what-did-trump-say-about-iran-deal-signoff",
-        "published": "2026-05-31T18:02:41Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran says it does not trust US as Trump toughens terms",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/0531/1576145-iran-us/",
-        "published": "2026-05-31T17:40:18Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran says US not trustworthy as nuclear talks stall over Trump proposal",
-        "source": "The Punch",
-        "url": "https://punchng.com/iran-says-us-not-trustworthy-as-nuclear-talks-stall-over-trump-proposal/",
-        "published": "2026-05-31T17:35:47Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "May rewired global energy markets",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/sectors/energy/articles/may-rewired-global-energy-markets-163050787.html",
-        "published": "2026-05-31T16:30:50Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Iran War Is Prelude to the Fifth War",
+        "source": "Hoover.org",
+        "url": "https://www.hoover.org/research/iran-war-prelude-fifth-war",
+        "published": "2026-06-01T00:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Chinese Missile Might Have Been Used to Shoot Down F-15E in Iran – U.S. Officials",
+        "source": "Theaviationist.com",
+        "url": "https://theaviationist.com/2026/05/31/chinese-missile-used-to-shoot-down-f-15e/",
+        "published": "2026-05-31T19:58:29Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Opinion - The peril of transactional deterrence: How the US unwittingly shifted Taiwan’s timeline",
         "source": "The Hill",
@@ -82,20 +96,6 @@
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/05/31/top-shangri-la-dialogue-2026-quotes-defense-multilateralism-asia.html",
         "published": "2026-05-31T13:07:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Pete Hegseth’s silence on Taiwan is exactly what Xi Jinping wants",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/pete-hegseths-silence-on-taiwan-is-exactly-what-xi-jinping-wants/articleshow/131422227.cms",
-        "published": "2026-05-31T11:32:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Defense spending, China in Asia and lessons from Ukraine: Takeways from the 2026 IISS Shangri-La Dialogue",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/31/takeways-from-the-2026-shangri-la-dialogue-.html",
-        "published": "2026-05-31T08:38:13Z",
         "sentiment": "watch"
       }
     ],
