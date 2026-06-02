@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-02T17:50:29.581Z",
+    "generated_at": "2026-06-02T21:19:20.620Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump says he has not heard from Iran that they are suspending talks, NBC News reports",
+        "title": "Why are oil prices up today and will Brent and US WTI crude futures continue to drop or rise again? Oil prices surge as Iran talks stall and supply concerns return",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/trump-unaware-of-iran-suspending-talks-says-silence-could-be-beneficial/articleshow/131447737.cms",
-        "published": "2026-06-01T17:45:05Z",
+        "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-up-today-and-will-brent-and-us-wti-crude-futures-continue-to-drop-or-rise-again-oil-prices-surge-as-iran-talks-stall-and-supply-concerns-return/articleshow/131450108.cms",
+        "published": "2026-06-01T21:11:03Z",
         "sentiment": "neutral"
       },
       {
-        "title": "WATCH: No Doubt at the Las Vegas Sphere",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/video/133490681/",
-        "published": "2026-06-01T17:41:35Z",
+        "title": "514 Hemi–Powered 1966 Plymouth Satellite Hardtop",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1966-plymouth-satellite-22/",
+        "published": "2026-06-01T21:00:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump promised cheap gas and no new wars. Thanks, MAGA!",
-        "source": "Boing Boing",
-        "url": "https://boingboing.net/2026/06/01/trump-promised-cheap-gas-and-no-new-wars-thanks-maga.html",
-        "published": "2026-06-01T17:39:39Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Rystad: U.S.-Iran Re-Escalation Could Drive Oil To $180 By August",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Rystad-US-Iran-Re-Escalation-Could-Drive-Oil-To-180-By-August.html",
-        "published": "2026-06-01T17:30:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump Says Deal Will ‘Work Out Well’ Even as US, Iran Clash",
-        "source": "Military.com",
-        "url": "https://military.com/trump-says-deal-will-work-out-well-even-as-us-iran-clash",
-        "published": "2026-06-01T17:22:15Z",
+        "title": "Crude Surges on Iran Tensions",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/crude_surges_on_iran_tensions-01-jun-2026-183824-article/",
+        "published": "2026-06-01T20:09:32Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Heidmar Maritime Holdings Corp. Announces Transition in Chief Financial Officer Role",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/06/01/3304709/0/en/Heidmar-Maritime-Holdings-Corp-Announces-Transition-in-Chief-Financial-Officer-Role.html",
+        "published": "2026-06-01T20:05:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump's Iran war opens up on terrifying new front as regime threatens the 'Strait of Tears': Oil prices to DOUBLE, analyst warns",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15865071/Trumps-Iran-war-opens-terrifying-new-regime-threatens-Strait-Tears-Oil-prices-DOUBLE-analyst-warns.html",
+        "published": "2026-06-01T19:46:53Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
