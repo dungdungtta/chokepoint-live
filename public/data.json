@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-02T00:01:59.397Z",
+    "generated_at": "2026-06-02T13:01:33.803Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,63 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran says it does not trust U.S. as Trump toughens terms",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/trump-says-iran-has-agreed-to-no-nuclear-weapons",
-        "published": "2026-05-31T21:22:45Z",
+        "title": "WATCH: Preview of 'History's Greatest Machines'",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/video/133480948/",
+        "published": "2026-06-01T12:56:19Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Iran War’s First 90 Days Upended Energy Markets",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/The-Iran-Wars-First-90-Days-Upended-Energy-Markets.html",
-        "published": "2026-05-31T21:00:00Z",
+        "title": "Current price of oil as of June 1, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-06-01-2026/",
+        "published": "2026-06-01T12:29:57Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "How are US and Iran strikes affecting talks? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/how-are-us-and-iran-strikes-affecting-talks",
+        "published": "2026-06-01T12:03:45Z",
         "sentiment": "danger"
       },
       {
-        "title": "A rare ‘super’ El Niño is looking more likely. Here’s what to expect",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/05/31/rare-super-el-nino-forecast-drought-flooding-climate-change/",
-        "published": "2026-05-31T20:49:25Z",
-        "sentiment": "watch"
+        "title": "US Conducts New Round Of 'Self-Defense' Attacks On Iran; Tehran Fires Back At Kuwait",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260601-rferl02.htm",
+        "published": "2026-06-01T12:00:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Mumbai port’s future-ready focus",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/logistics/mumbai-ports-future-ready-focus/article71045880.ece",
-        "published": "2026-05-31T19:32:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What is Trump’s Iran deal “key concession”? #world",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/what-is-trumps-iran-deal-key-concession",
-        "published": "2026-05-31T18:03:48Z",
-        "sentiment": "watch"
+        "title": "Day 1,559 of WW3. Moscow adds air-defense vehicles to its skyline for purely aesthetic reasons. France intercepts a shadow fleet tanker in the Atlantic, and Lickspittle Luka rattles his toy saber at Ukraine. This is your Monday Ukraine War thread [News]",
+        "source": "Fark.com",
+        "url": "https://www.fark.com/comments/14085142/Day-1559-of-WW3-Moscow-adds-air-defense-vehicles-to-its-skyline-for-purely-aesthetic-reasons-France-intercepts-a-shadow-fleet-tanker-in-Atlantic-Lickspittle-Luka-rattles-his-toy-saber-at-Ukraine-This-is-your-Monday-Ukraine-War-thread",
+        "published": "2026-06-01T12:00:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan opposition leader heads to US",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/taiwan-opposition-leader-heads-to-us/a-77375444",
+        "published": "2026-06-01T10:56:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan opposition leader heads to US",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/taiwan-opposition-leader-heads-to-us/a-77375444",
+        "published": "2026-06-01T10:56:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Deterring Russia Beneath the Waves: Securing NATO’s Critical Undersea Infrastructure",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/deterring-russia-beneath-the-waves-securing-natos-critical-undersea-infrastructure/",
+        "published": "2026-06-01T07:15:28Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Iran War Is Prelude to the Fifth War",
         "source": "Hoover.org",
@@ -75,27 +96,6 @@
         "source": "Theaviationist.com",
         "url": "https://theaviationist.com/2026/05/31/chinese-missile-used-to-shoot-down-f-15e/",
         "published": "2026-05-31T19:58:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Opinion - The peril of transactional deterrence: How the US unwittingly shifted Taiwan’s timeline",
-        "source": "The Hill",
-        "url": "https://thehill.com/opinion/international/5901958-us-china-strategic-shift-taiwan/",
-        "published": "2026-05-31T17:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hegseth seeks to convince allies U.S. should stay quiet on Taiwan",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/05/31/defense-secretary-pete-hegseth-asia-allies-us-policy-taiwan-shangri-la/",
-        "published": "2026-05-31T15:35:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Best quotes from the 2026 IISS Shangri-La Dialogue: Defense spending, multilateralism and the future of the Asia-Pacific",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/31/top-shangri-la-dialogue-2026-quotes-defense-multilateralism-asia.html",
-        "published": "2026-05-31T13:07:59Z",
         "sentiment": "watch"
       }
     ],
