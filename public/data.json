@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-03T02:10:48.306Z",
+    "generated_at": "2026-06-03T07:15:26.602Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,63 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Price Today (June 2): Crude oil at $95 per barrel amid conflicting Iran war signals. What are experts saying?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-june-2-crude-oil-at-95-per-barrel-amid-conflicting-iran-war-signals-what-are-experts-saying/articleshow/131452905.cms",
-        "published": "2026-06-02T02:05:48Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Holds Biggest Gain in a Month on Standoff in US-Iran Talks",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-holds-biggest-gain-in-a-month-on-standoff-in-us-iran-talks-3",
-        "published": "2026-06-02T01:35:08Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Oil steadies as uncertainty over US-Iran talks keeps markets on edge",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-steadies-as-uncertainty-over-us-iran-talks-keeps-markets-on-edge/articleshow/131452577.cms",
-        "published": "2026-06-02T00:58:46Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "10.2-Oz Garnier Fructis Sleek & Shine Leave-In Conditioning Cream w/ Plant Keratin & Argan Oil $2.75 w/ S&S + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19584942-10-2-oz-garnier-fructis-sleek-shine-leave-in-conditioning-cream-w-plant-keratin-argan-oil-2-75-w-s-s-free-shipping-w-prime-or-on-35",
-        "published": "2026-06-02T00:57:43Z",
+        "title": "Aegean Shipping Management enters new growth phase",
+        "source": "Naftemporiki.gr",
+        "url": "https://www.naftemporiki.gr/english/2118173/aegean-shipping-management-enters-new-growth-phase/",
+        "published": "2026-06-02T06:55:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil steadies as uncertainty over US-Iran talks keeps markets on edge",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-steadies-uncertainty-over-us-iran-talks-keeps-markets-edge-6155341",
-        "published": "2026-06-02T00:42:49Z",
+        "title": "Oil slips after Trump says talks with Iran are ongoing",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/news/oil-steadies-uncertainty-over-us-004249480.html",
+        "published": "2026-06-02T06:55:25Z",
         "sentiment": "neutral"
+      },
+      {
+        "title": "The Iran war is pushing the global gas trade into the shadows",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/strait-of-hormuz-lng-prices-the-iran-war-is-pushing-the-global-gas-trade-into-the-shadows/articleshow/131457203.cms",
+        "published": "2026-06-02T06:49:42Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The Holy Spirit should lend a hand: Nikos A. makes Tsipras leader of the opposition, the MPs who are waving goodbye, and the Autumn celebration",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/06/02/the-holy-spirit-should-lend-a-hand-nikos-a-makes-tsipras-leader-of-the-opposition-the-mps-who-are-waving-goodbye-and-the-autumn-celebration/",
+        "published": "2026-06-02T06:09:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "What caused U.S. action against Iranian sites? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/what-caused-u-s-action-against-iranian-sites",
+        "published": "2026-06-02T06:03:59Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "C Raja Mohan writes | Japan’s new military doctrine is about balancing Trump’s America and Xi’s China. There are lessons for India",
+        "source": "The Indian Express",
+        "url": "https://indianexpress.com/article/opinion/columns/c-raja-mohan-japan-military-doctrine-trump-america-and-xi-china-10719609/",
+        "published": "2026-06-02T05:46:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil rally may fuel stagflation concerns, though AI remains market's key driver: Arnab Das",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/oil-rally-may-fuel-stagflation-concerns-though-ai-remains-markets-key-driver-arnab-das/articleshow/131455094.cms",
+        "published": "2026-06-02T05:02:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Next Challenge Facing the US-Philippine Alliance, and How They Plan to Overcome It",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/06/the-next-challenge-facing-the-us-philippine-alliance-and-how-they-plan-to-overcome-it/",
+        "published": "2026-06-02T02:32:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Crisis of American Hegemony: Fascism, World War, and the Struggle Within the Ruling Class",
         "source": "Globalresearch.ca",
@@ -75,27 +96,6 @@
         "source": "Globalresearch.ca",
         "url": "https://www.globalresearch.ca/selected-articles-shipwrecked-abandoned-trapped-vanishing/5928362",
         "published": "2026-06-01T14:04:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Canada, Netherlands Engage in Naval Standoffs with China, On Behalf of Washington? The Taiwan Strait, the East and South China Seas",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/canada-netherlands-engage-in-naval-standoffs-with-china-on-behalf-of-washington-the-taiwan-strait-the-east-and-south-china-seas/5928369",
-        "published": "2026-06-01T13:16:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan opposition leader heads to US",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/taiwan-opposition-leader-heads-to-us/a-77375444",
-        "published": "2026-06-01T10:56:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan opposition leader heads to US",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/taiwan-opposition-leader-heads-to-us/a-77375444",
-        "published": "2026-06-01T10:56:00Z",
         "sentiment": "watch"
       }
     ],
