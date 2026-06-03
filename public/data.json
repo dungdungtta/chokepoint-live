@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-03T12:22:15.887Z",
+    "generated_at": "2026-06-03T17:29:06.891Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,63 @@
   "news": {
     "hormuz": [
       {
-        "title": "Current price of oil as of June 2, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-06-02-2026/",
-        "published": "2026-06-02T12:21:37Z",
+        "title": "Rubio says Iran's Khamenei alive and 'increasingly engaging'",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/rubio-says-irans-khamenei-alive-and-increasingly-engaging-222809",
+        "published": "2026-06-02T16:52:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "The ceasefires in Gaza, Lebanon and Iran are stretching the term's meaning",
+        "title": "6-in-1 Multitool Mini Hammer & Screwdriver Set + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/6-in-1-Multitool-Mini-Hammer-Screwdriver-Set-free-shipping-w-Prime/21837188.html",
+        "published": "2026-06-02T16:41:47Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Rubio says Mojtaba Khamenei alive and 'increasingly engaging'",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/the-ceasefires-in-gaza-lebanon-and-iran-are-stretching-the-terms-meaning/articleshow/131463540.cms",
-        "published": "2026-06-02T12:08:17Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "IRGC Navy: 24 vessels passed through Strait of Hormuz under its coordination",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260602-presstv05.htm",
-        "published": "2026-06-02T12:00:00Z",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/rubio-confirms-mojtaba-khamenei-alive-and-actively-engaging-amid-ongoing-middle-east-crisis/articleshow/131467686.cms",
+        "published": "2026-06-02T16:36:33Z",
         "sentiment": "watch"
       },
       {
-        "title": "Former Senior Trump NSC Official Says Diplomacy 'Alive' As US, Iran, Battle For Leverage",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260602-rferl02.htm",
-        "published": "2026-06-02T12:00:00Z",
+        "title": "Japan’s Takaichi Urges Passage of Vessels in Call With Iran",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/japans-takaichi-urges-passage-of-vessels-in-call-with-iran-2",
+        "published": "2026-06-02T16:33:35Z",
         "sentiment": "watch"
       },
       {
-        "title": "Rubio Urges China Not To Block UN Resolution On Hormuz",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260602-rferl03.htm",
-        "published": "2026-06-02T12:00:00Z",
+        "title": "Takaichi Pledges Boosts Chemical Supply Chain",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/149490.php",
+        "published": "2026-06-02T16:18:26Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan unveils armed robot dogs (VIDEO)",
+        "source": "RT",
+        "url": "https://www.rt.com/news/640879-taiwan-armed-robot-dogs/",
+        "published": "2026-06-02T17:19:59Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Mainland Chinese exhibitors reportedly locked out of Computex 2026, as Taiwan entry permits stall — parties complain applications left pending or hit with last-minute documentation requests",
+        "source": "Tom's Hardware UK",
+        "url": "https://www.tomshardware.com/tech-industry/mainland-chinese-exhibitors-locked-out-of-computex-2026",
+        "published": "2026-06-02T15:43:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Beyond China and the US: How Japan is Incrementally Rebalancing Its Foreign Policy",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/06/beyond-china-and-the-us-how-japan-is-incrementally-rebalancing-its-foreign-policy/",
+        "published": "2026-06-02T13:20:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Strategic Stability, Structural Strain | Sinification: May 2026",
         "source": "Sinocism.com",
@@ -75,27 +96,6 @@
         "source": "Nakedcapitalism.com",
         "url": "https://www.nakedcapitalism.com/2026/06/links-6-2-2026.html",
         "published": "2026-06-02T10:59:32Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan's Lai: Status quo is key to secure tech supply chains",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/taiwans-lai-status-quo-is-key-to-secure-tech-supply-chains/a-77386453",
-        "published": "2026-06-02T10:41:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Spain defends its rejection of Trump’s ‘law of the jungle’ approach to foreign policy",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/europe/2026/06/02/spain-defends-its-rejection-of-trumps-law-of-the-jungle-approach-to-foreign-policy/",
-        "published": "2026-06-02T10:34:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Between Beijing and the Budget: The Domestic Realities of Taiwan’s Defense Spending Drama",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/between-beijing-and-the-budget-the-domestic-realities-of-taiwans-defense-spending-drama/",
-        "published": "2026-06-02T07:30:03Z",
         "sentiment": "watch"
       }
     ],
