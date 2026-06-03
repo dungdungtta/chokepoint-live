@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-03T20:40:16.025Z",
+    "generated_at": "2026-06-03T22:54:01.847Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Banana Boat Sport Ultra 3-oz. SPF 30 Sunscreen Twin Pack + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Banana-Boat-Sport-Ultra-3-oz-SPF-30-Sunscreen-Twin-Pack-free-shipping-w-Prime/21837253.html",
-        "published": "2026-06-02T19:59:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "CSG Compressors Becomes Authorized Stocking Distributor for BITZER US, Inc.",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/csg-compressors-becomes-authorized-stocking-distributor-for-bitzer-us-inc-302789182.html",
-        "published": "2026-06-02T19:53:00Z",
-        "sentiment": "watch"
-      },
-      {
         "title": "Oil Swings Higher as Traders Weigh Prospects of US-Iran Deal",
         "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-swings-higher-as-traders-weigh-prospects-of-us-iran-deal",
-        "published": "2026-06-02T19:52:57Z",
+        "url": "https://financialpost.com/pmn/business-pmn/oil-swings-higher-as-traders-weigh-prospects-of-us-iran-deal-2",
+        "published": "2026-06-02T22:50:52Z",
         "sentiment": "watch"
       },
       {
-        "title": "Why are oil prices up today, and will Brent futures and US WTI crude prices continue to rise or decline again? Iran war, Strait of Hormuz disruption and falling oil stockpiles drive market",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-up-today-and-will-brent-futures-and-us-wti-crude-prices-continue-to-rise-or-decline-again-iran-war-strait-of-hormuz-disruption-and-falling-oil-stockpiles-drive-market/articleshow/131471038.cms",
-        "published": "2026-06-02T19:36:31Z",
+        "title": "Iran studying deal to halt war, as Trump says talks going on continuously",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/iran-studying-deal-to-halt-war-as-trump-says-talks-going-on-continuously",
+        "published": "2026-06-02T21:41:05Z",
         "sentiment": "danger"
       },
       {
-        "title": "Enormous ship en route to pick up world's largest electric ferry",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-06-03/mv-black-marlin-en-route-hobart-incat-china-zorrilla/106748842",
-        "published": "2026-06-02T19:33:13Z",
+        "title": "US Central Command steps up Gulf enforcement as naval blockade targets Iranian oil tankers",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/centcom-disables-tankers-iran-blockade/",
+        "published": "2026-06-02T21:25:07Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "There are supposed to be ceasefires across the Middle East. The fighting is worsening",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/world/there-are-supposed-to-be-ceasefires-across-the-middle-east-the-fighting-is-worsening",
+        "published": "2026-06-02T21:07:11Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Moen Spring Savings Tub and Shower Faucet Deals + free shipping w/ $300",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Moen-Spring-Savings-Tub-and-Shower-Faucet-Deals-free-shipping-w-300/21837265.html",
+        "published": "2026-06-02T20:51:25Z",
         "sentiment": "watch"
       }
     ],
