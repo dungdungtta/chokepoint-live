@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T13:50:02.491Z",
+    "generated_at": "2026-06-04T17:15:35.090Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Erdoğan says Türkiye energy hub in region",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/erdogan-says-turkiye-energy-hub-in-region-222860",
-        "published": "2026-06-03T13:17:48Z",
+        "title": "Canada’s ‘major projects’ should not come at the cost of the environment",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/canadas-major-projects-should-not-come-at-the-cost-of-the-environment-284174",
+        "published": "2026-06-03T16:59:41Z",
         "sentiment": "watch"
       },
       {
-        "title": "Current price of oil as of June 3, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-06-03-2026/",
-        "published": "2026-06-03T12:45:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Reliance on US multinational tax take ‘poses risks’, European Commission warns",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/economy/2026/06/03/reliance-on-us-multinational-tax-take-poses-risks-european-commission-warns/",
-        "published": "2026-06-03T12:09:10Z",
+        "title": "Marco Rubio declares Iran war over, citing victory in Operation Epic Fury",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/rubio-declares-iran-war-over-epic-fury/",
+        "published": "2026-06-03T16:49:31Z",
         "sentiment": "danger"
       },
       {
-        "title": "Why did Iran attack Kuwait airport again? #world",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/why-did-iran-attack-kuwait-airport-again",
-        "published": "2026-06-03T12:03:26Z",
+        "title": "IMF says prolonged Iran war could weigh on Saudi Arabia's medium-term outlook | The National",
+        "source": "Thenationalnews.com",
+        "url": "https://www.thenationalnews.com/business/economy/2026/06/03/imf-says-prolonged-iran-war-could-weigh-on-saudi-arabias-medium-term-outlook/",
+        "published": "2026-06-03T16:30:19Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Kuwait Says Oil Output Won't Recover for 10-12 Weeks After Hormuz Reopens",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Kuwait-Says-Oil-Output-Wont-Recover-for-10-12-Weeks-After-Hormuz-Reopens.html",
+        "published": "2026-06-03T16:30:00Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "The U.S. and Taiwanese Militaries Can’t Really Fight Together",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/06/03/taiwan-china-us-invasion-war-military-arms-weapons/",
+        "published": "2026-06-03T15:36:39Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Remarks on \"Dagger in Heart of Asia\" Is Intensive Manifestation of U.S. Hegemonism and Cold War Mentality",
         "source": "Globalsecurity.org",
@@ -82,13 +89,6 @@
         "source": "RT",
         "url": "https://www.rt.com/news/640879-taiwan-armed-robot-dogs/",
         "published": "2026-06-02T17:19:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Mainland Chinese exhibitors reportedly locked out of Computex 2026, as Taiwan entry permits stall — parties complain applications left pending or hit with last-minute documentation requests",
-        "source": "Tom's Hardware UK",
-        "url": "https://www.tomshardware.com/tech-industry/mainland-chinese-exhibitors-locked-out-of-computex-2026",
-        "published": "2026-06-02T15:43:37Z",
         "sentiment": "watch"
       }
     ],
