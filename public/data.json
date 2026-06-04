@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-03T22:54:01.847Z",
+    "generated_at": "2026-06-04T01:46:38.988Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Swings Higher as Traders Weigh Prospects of US-Iran Deal",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-swings-higher-as-traders-weigh-prospects-of-us-iran-deal-2",
-        "published": "2026-06-02T22:50:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran studying deal to halt war, as Trump says talks going on continuously",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/iran-studying-deal-to-halt-war-as-trump-says-talks-going-on-continuously",
-        "published": "2026-06-02T21:41:05Z",
+        "title": "US launches attack on island in Strait of Hormuz as Trump tries to forge peace deal with Iran",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15869215/US-launches-attack-island-Strait-Hormuz-Trump-tries-forge-peace-deal-Iran.html",
+        "published": "2026-06-03T01:37:17Z",
         "sentiment": "danger"
       },
       {
-        "title": "US Central Command steps up Gulf enforcement as naval blockade targets Iranian oil tankers",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/centcom-disables-tankers-iran-blockade/",
-        "published": "2026-06-02T21:25:07Z",
+        "title": "US military says it has 'defeated' Iran missile, drone attacks in Gulf",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-military-says-it-has-defeated-iran-missile-drone-attacks-in-gulf/articleshow/131473773.cms",
+        "published": "2026-06-03T01:13:06Z",
         "sentiment": "danger"
       },
       {
-        "title": "There are supposed to be ceasefires across the Middle East. The fighting is worsening",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/world/there-are-supposed-to-be-ceasefires-across-the-middle-east-the-fighting-is-worsening",
-        "published": "2026-06-02T21:07:11Z",
-        "sentiment": "neutral"
+        "title": "Iran war: Hostilities flare again, talks at a stalemate",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/iran-war-hostilities-flare-again-talks-at-a-stalemate/articleshow/131473658.cms",
+        "published": "2026-06-03T00:39:12Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Moen Spring Savings Tub and Shower Faucet Deals + free shipping w/ $300",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Moen-Spring-Savings-Tub-and-Shower-Faucet-Deals-free-shipping-w-300/21837265.html",
-        "published": "2026-06-02T20:51:25Z",
-        "sentiment": "watch"
+        "title": "Hostilities flare again in Iran war, talks at a stalemate",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/iran-war-us-hostilities-talks-stalemate-6157716",
+        "published": "2026-06-03T00:37:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US military says it has 'defeated' Iran strikes in Gulf",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/0603/1576476-us-iran/",
+        "published": "2026-06-03T00:21:47Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
