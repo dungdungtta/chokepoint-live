@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T06:50:54.326Z",
+    "generated_at": "2026-06-04T10:42:02.046Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Crude, LPG supply to India smoothens in May after two glitchy months; LNG supply beats pre-war levels",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/crude-lpg-supply-to-india-smoothens-in-may-after-two-glitchy-months-lng-supply-beats-pre-war-levels/articleshow/131477429.cms",
-        "published": "2026-06-03T06:19:05Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Vietnam Posts Record Trade Deficit as US Renews Tariff Risks",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/vietnam-posts-record-trade-deficit-as-us-renews-tariff-risks",
-        "published": "2026-06-03T06:13:56Z",
+        "title": "BW LPG Sees YoY Increase in Shipping Revenue",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/bw_lpg_sees_yoy_increase_in_shipping_revenue-03-jun-2026-183839-article/",
+        "published": "2026-06-03T10:13:22Z",
         "sentiment": "watch"
       },
       {
-        "title": "US Treasury issues sanctions on Iran, targets 4 crypto exchanges",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/us-sanctions-irans-top-crypto-exchange-as-war-rages-on",
-        "published": "2026-06-03T06:12:44Z",
+        "title": "US Forces Intercept Iranian Missiles, Drones",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260603-rferl01.htm",
+        "published": "2026-06-03T10:06:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "Drone strike damages Kuwait airport terminal amid regional chaos",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/drone-strike-damages-kuwait-airport-terminal-amid-regional-chaos-222830",
-        "published": "2026-06-03T06:06:20Z",
+        "title": "Oil Trading Higher for Third Consecutive Session",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/oil_trading_higher_for_third_consecutive_session-03-jun-2026-183838-article/",
+        "published": "2026-06-03T09:45:52Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran attacks Kuwait's international airport and fires missiles at Bahrain while US strikes island in Strait of Hormuz as Trump tries to forge peace deal",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15869929/Iran-attacks-Kuwaits-international-airport-fires-missiles-Bahrain-US-strikes-island-Strait-Hormuz-Trump-tries-forge-peace-deal.html",
+        "published": "2026-06-03T09:16:29Z",
         "sentiment": "danger"
       },
       {
-        "title": "What happened in Iran war negotiations? #world",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/what-happened-in-iran-war-negotiations",
-        "published": "2026-06-03T06:04:12Z",
+        "title": "Iranian drone hits Kuwait’s main airport after US strikes Qeshm Island",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/3/iranian-drone-hits-kuwaits-main-airport-after-us-strikes-qeshm-island",
+        "published": "2026-06-03T08:39:47Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Remarks on \"Dagger in Heart of Asia\" Is Intensive Manifestation of U.S. Hegemonism and Cold War Mentality",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260603-kcna01.htm",
+        "published": "2026-06-03T10:06:08Z",
+        "sentiment": "danger"
+      },
       {
         "title": "After America",
         "source": "CounterPunch",
@@ -89,13 +96,6 @@
         "source": "Tom's Hardware UK",
         "url": "https://www.tomshardware.com/tech-industry/mainland-chinese-exhibitors-locked-out-of-computex-2026",
         "published": "2026-06-02T15:43:37Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Beyond China and the US: How Japan is Incrementally Rebalancing Its Foreign Policy",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/06/beyond-china-and-the-us-how-japan-is-incrementally-rebalancing-its-foreign-policy/",
-        "published": "2026-06-02T13:20:00Z",
         "sentiment": "watch"
       }
     ],
