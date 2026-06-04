@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T01:46:38.988Z",
+    "generated_at": "2026-06-04T06:50:54.326Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "US launches attack on island in Strait of Hormuz as Trump tries to forge peace deal with Iran",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15869215/US-launches-attack-island-Strait-Hormuz-Trump-tries-forge-peace-deal-Iran.html",
-        "published": "2026-06-03T01:37:17Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US military says it has 'defeated' Iran missile, drone attacks in Gulf",
+        "title": "Crude, LPG supply to India smoothens in May after two glitchy months; LNG supply beats pre-war levels",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/us-military-says-it-has-defeated-iran-missile-drone-attacks-in-gulf/articleshow/131473773.cms",
-        "published": "2026-06-03T01:13:06Z",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/crude-lpg-supply-to-india-smoothens-in-may-after-two-glitchy-months-lng-supply-beats-pre-war-levels/articleshow/131477429.cms",
+        "published": "2026-06-03T06:19:05Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran war: Hostilities flare again, talks at a stalemate",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/iran-war-hostilities-flare-again-talks-at-a-stalemate/articleshow/131473658.cms",
-        "published": "2026-06-03T00:39:12Z",
+        "title": "Vietnam Posts Record Trade Deficit as US Renews Tariff Risks",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/vietnam-posts-record-trade-deficit-as-us-renews-tariff-risks",
+        "published": "2026-06-03T06:13:56Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US Treasury issues sanctions on Iran, targets 4 crypto exchanges",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/us-sanctions-irans-top-crypto-exchange-as-war-rages-on",
+        "published": "2026-06-03T06:12:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Drone strike damages Kuwait airport terminal amid regional chaos",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/drone-strike-damages-kuwait-airport-terminal-amid-regional-chaos-222830",
+        "published": "2026-06-03T06:06:20Z",
         "sentiment": "danger"
       },
       {
-        "title": "Hostilities flare again in Iran war, talks at a stalemate",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/iran-war-us-hostilities-talks-stalemate-6157716",
-        "published": "2026-06-03T00:37:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US military says it has 'defeated' Iran strikes in Gulf",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/0603/1576476-us-iran/",
-        "published": "2026-06-03T00:21:47Z",
+        "title": "What happened in Iran war negotiations? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/what-happened-in-iran-war-negotiations",
+        "published": "2026-06-03T06:04:12Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "After America",
+        "source": "CounterPunch",
+        "url": "https://www.counterpunch.org/2026/06/03/after-america/",
+        "published": "2026-06-03T06:00:21Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US Petro-State Fades: Will China’s Electrostate Rise?",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/06/petro-chinas-electrostate.html",
+        "published": "2026-06-03T04:04:47Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan unveils armed robot dogs (VIDEO)",
         "source": "RT",
@@ -82,20 +96,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/06/beyond-china-and-the-us-how-japan-is-incrementally-rebalancing-its-foreign-policy/",
         "published": "2026-06-02T13:20:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Strategic Stability, Structural Strain | Sinification: May 2026",
-        "source": "Sinocism.com",
-        "url": "https://sinocism.com/p/strategic-stability-structural-strain",
-        "published": "2026-06-02T11:45:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Links 6/2/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/06/links-6-2-2026.html",
-        "published": "2026-06-02T10:59:32Z",
         "sentiment": "watch"
       }
     ],
