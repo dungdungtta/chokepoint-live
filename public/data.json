@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T21:19:02.126Z",
+    "generated_at": "2026-06-04T22:53:56.276Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran Launches Deadly Attack on Kuwait’s Main Airport",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/06/03/iran-attack-kuwait-airport-us-war-cease-fire-talks-oecd/",
-        "published": "2026-06-03T20:38:14Z",
+        "title": "Trump Downplays Threats of Hormuz Mines, Touts Alternate Route",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/trump-downplays-threats-of-hormuz-mines-touts-alternate-route-2",
+        "published": "2026-06-03T22:36:04Z",
         "sentiment": "danger"
       },
       {
-        "title": "US Fed says Iran war driving 'moderate-to-strong' inflation",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-says-iran-war-driving-moderate-to-strong-inflation/articleshow/131492008.cms",
-        "published": "2026-06-03T20:14:55Z",
+        "title": "House defies Trump admin and approves war powers resolution to halt military action against Iran",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/06/03/us-news/house-defies-trump-admin-and-approves-war-powers-resolution-to-halt-military-action-against-iran/",
+        "published": "2026-06-03T22:07:07Z",
         "sentiment": "danger"
       },
       {
-        "title": "WATCH LIVE: House expected to vote on Iran war powers bill",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/politics/watch-live-house-expected-to-vote-on-iran-war-powers-bill",
-        "published": "2026-06-03T20:08:49Z",
+        "title": "Iran hits Kuwait; U.S. strikes near Hormuz in Gulf flare-up",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/iran-hits-kuwait-us-strikes-near-hormuz-in-gulf-flare-up",
+        "published": "2026-06-03T21:46:36Z",
         "sentiment": "danger"
       },
       {
-        "title": "House again considers war powers resolution to halt military action against Iran",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/house-considers-war-powers-resolution-halt-military-action-133564036",
-        "published": "2026-06-03T20:05:36Z",
+        "title": "House defies Trump and approves war powers resolution to halt military action against Iran",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/house-again-considers-war-powers-resolution-to-halt-military-action-against-iran",
+        "published": "2026-06-03T21:45:40Z",
         "sentiment": "danger"
       },
       {
-        "title": "Vicwe PVC Gaming Chair Mat + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Vicwe-PVC-Gaming-Chair-Mat-free-shipping/21837619.html",
-        "published": "2026-06-03T20:00:07Z",
-        "sentiment": "watch"
+        "title": "Republicans defy Trump in shock move, passing resolution in Congress to limit Iran war powers",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/06/03/trump-iran-war-powers-resolution-senate-republicans-defiance/",
+        "published": "2026-06-03T21:39:48Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
