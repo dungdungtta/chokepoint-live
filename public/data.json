@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T10:42:02.046Z",
+    "generated_at": "2026-06-04T13:50:02.491Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "BW LPG Sees YoY Increase in Shipping Revenue",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/bw_lpg_sees_yoy_increase_in_shipping_revenue-03-jun-2026-183839-article/",
-        "published": "2026-06-03T10:13:22Z",
+        "title": "Erdoğan says Türkiye energy hub in region",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/erdogan-says-turkiye-energy-hub-in-region-222860",
+        "published": "2026-06-03T13:17:48Z",
         "sentiment": "watch"
       },
       {
-        "title": "US Forces Intercept Iranian Missiles, Drones",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260603-rferl01.htm",
-        "published": "2026-06-03T10:06:08Z",
+        "title": "Current price of oil as of June 3, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-06-03-2026/",
+        "published": "2026-06-03T12:45:15Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Trading Higher for Third Consecutive Session",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/oil_trading_higher_for_third_consecutive_session-03-jun-2026-183838-article/",
-        "published": "2026-06-03T09:45:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran attacks Kuwait's international airport and fires missiles at Bahrain while US strikes island in Strait of Hormuz as Trump tries to forge peace deal",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15869929/Iran-attacks-Kuwaits-international-airport-fires-missiles-Bahrain-US-strikes-island-Strait-Hormuz-Trump-tries-forge-peace-deal.html",
-        "published": "2026-06-03T09:16:29Z",
+        "title": "Reliance on US multinational tax take ‘poses risks’, European Commission warns",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/economy/2026/06/03/reliance-on-us-multinational-tax-take-poses-risks-european-commission-warns/",
+        "published": "2026-06-03T12:09:10Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iranian drone hits Kuwait’s main airport after US strikes Qeshm Island",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/3/iranian-drone-hits-kuwaits-main-airport-after-us-strikes-qeshm-island",
-        "published": "2026-06-03T08:39:47Z",
+        "title": "Why did Iran attack Kuwait airport again? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/why-did-iran-attack-kuwait-airport-again",
+        "published": "2026-06-03T12:03:26Z",
         "sentiment": "danger"
       }
     ],
