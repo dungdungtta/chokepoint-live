@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T17:15:35.090Z",
+    "generated_at": "2026-06-04T19:38:04.954Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Canada’s ‘major projects’ should not come at the cost of the environment",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/canadas-major-projects-should-not-come-at-the-cost-of-the-environment-284174",
-        "published": "2026-06-03T16:59:41Z",
+        "title": "'Space smoothies' may help astronauts stomach long missions",
+        "source": "New Atlas",
+        "url": "https://newatlas.com/space-systems/space-smoothies-astronauts-nutrition/",
+        "published": "2026-06-03T19:02:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "Marco Rubio declares Iran war over, citing victory in Operation Epic Fury",
+        "title": "WATCH: Rubio scorches claim Trump weighed finances in Iran decisions: ‘Not even for a millisecond’",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/rubio-scorches-trump-finance-claim-fiery-hearing-exchange-even-millisecond",
+        "published": "2026-06-03T18:43:49Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "How did Iran war threaten African food shortages? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/how-did-iran-war-threaten-african-food-shortages",
+        "published": "2026-06-03T18:03:44Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Ukrainian drones strike oil terminal in St. Petersburg during major economic forum",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/rubio-declares-iran-war-over-epic-fury/",
-        "published": "2026-06-03T16:49:31Z",
+        "url": "https://cryptobriefing.com/ukraine-drones-strike-oil-terminal-st-petersburg/",
+        "published": "2026-06-03T17:21:15Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "IMF says prolonged Iran war could weigh on Saudi Arabia's medium-term outlook | The National",
-        "source": "Thenationalnews.com",
-        "url": "https://www.thenationalnews.com/business/economy/2026/06/03/imf-says-prolonged-iran-war-could-weigh-on-saudi-arabias-medium-term-outlook/",
-        "published": "2026-06-03T16:30:19Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Kuwait Says Oil Output Won't Recover for 10-12 Weeks After Hormuz Reopens",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Kuwait-Says-Oil-Output-Wont-Recover-for-10-12-Weeks-After-Hormuz-Reopens.html",
-        "published": "2026-06-03T16:30:00Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
