@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T19:38:04.954Z",
+    "generated_at": "2026-06-04T21:19:02.126Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "'Space smoothies' may help astronauts stomach long missions",
-        "source": "New Atlas",
-        "url": "https://newatlas.com/space-systems/space-smoothies-astronauts-nutrition/",
-        "published": "2026-06-03T19:02:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "WATCH: Rubio scorches claim Trump weighed finances in Iran decisions: ‘Not even for a millisecond’",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/rubio-scorches-trump-finance-claim-fiery-hearing-exchange-even-millisecond",
-        "published": "2026-06-03T18:43:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How did Iran war threaten African food shortages? #world",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/how-did-iran-war-threaten-african-food-shortages",
-        "published": "2026-06-03T18:03:44Z",
+        "title": "Iran Launches Deadly Attack on Kuwait’s Main Airport",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/06/03/iran-attack-kuwait-airport-us-war-cease-fire-talks-oecd/",
+        "published": "2026-06-03T20:38:14Z",
         "sentiment": "danger"
       },
       {
-        "title": "Ukrainian drones strike oil terminal in St. Petersburg during major economic forum",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/ukraine-drones-strike-oil-terminal-st-petersburg/",
-        "published": "2026-06-03T17:21:15Z",
+        "title": "US Fed says Iran war driving 'moderate-to-strong' inflation",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-says-iran-war-driving-moderate-to-strong-inflation/articleshow/131492008.cms",
+        "published": "2026-06-03T20:14:55Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "WATCH LIVE: House expected to vote on Iran war powers bill",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-house-expected-to-vote-on-iran-war-powers-bill",
+        "published": "2026-06-03T20:08:49Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "House again considers war powers resolution to halt military action against Iran",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/house-considers-war-powers-resolution-halt-military-action-133564036",
+        "published": "2026-06-03T20:05:36Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Vicwe PVC Gaming Chair Mat + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Vicwe-PVC-Gaming-Chair-Mat-free-shipping/21837619.html",
+        "published": "2026-06-03T20:00:07Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
