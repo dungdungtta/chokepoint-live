@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-05T22:36:19.771Z",
+    "generated_at": "2026-06-05T23:52:02.372Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran demands access to frozen assets in US negotiations over sanctions relief",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-frozen-assets-us-sanctions-negotiations/",
+        "published": "2026-06-04T23:06:50Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Oil Steadies After First Drop This Week on Peace Talk Optimism",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/oil-steadies-after-first-drop-this-week-on-peace-talk-optimism",
+        "published": "2026-06-04T23:06:47Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Hezbollah rejection clouds Lebanon ceasefire and prospects for ending Iran war",
         "source": "Japan Today",
         "url": "https://japantoday.com/category/world/hezbollah-rejection-clouds-lebanon-ceasefire-and-prospects-for-ending-iran-war2",
@@ -38,20 +52,6 @@
         "source": "Bringatrailer.com",
         "url": "https://bringatrailer.com/listing/1968-plymouth-barracuda-51/",
         "published": "2026-06-04T21:05:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hezbollah rejects Lebanon ceasefire as Israeli strikes kill four",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-06-05/hezbollah-rejects-latest-lebanon-israel-ceasefire-agreement/106762184",
-        "published": "2026-06-04T20:40:38Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Retreats on Truce Optimism",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_retreats_on_truce_optimism-04-jun-2026-183857-article/",
-        "published": "2026-06-04T20:04:38Z",
         "sentiment": "watch"
       }
     ],
