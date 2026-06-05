@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-05T21:09:46.867Z",
+    "generated_at": "2026-06-05T22:36:19.771Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Hezbollah rejection clouds Lebanon ceasefire and prospects for ending Iran war",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/hezbollah-rejection-clouds-lebanon-ceasefire-and-prospects-for-ending-iran-war2",
+        "published": "2026-06-04T21:41:07Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "426 Hemi–Powered 1968 Plymouth Barracuda Fastback",
         "source": "Bringatrailer.com",
         "url": "https://bringatrailer.com/listing/1968-plymouth-barracuda-51/",
@@ -45,13 +52,6 @@
         "source": "Rigzone",
         "url": "https://www.rigzone.com/news/wire/oil_retreats_on_truce_optimism-04-jun-2026-183857-article/",
         "published": "2026-06-04T20:04:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Approves $700 Million in Bid to Revive US Coal Industry",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/trump-approves-700-million-in-bid-to-revive-us-coal-industry",
-        "published": "2026-06-04T19:58:11Z",
         "sentiment": "watch"
       }
     ],
