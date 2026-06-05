@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-05T15:36:38.829Z",
+    "generated_at": "2026-06-05T17:33:06.662Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Two-thirds of outbound tankers are ‘going dark’ to squeeze through Strait of Hormuz: analysts",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/06/04/world-news/two-thirds-of-tankers-going-dark-to-pass-through-strait-of-hormuz-analysts/",
+        "published": "2026-06-04T17:27:41Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S. Chairman of the Joint Chiefs of Staff Visits Venezuela",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/latin-america/2026/06/04/chairman-of-the-joint-chiefs-of-staff-visits-venezuela-five-months-after-maduro-capture/",
+        "published": "2026-06-04T17:10:55Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Little-Known Shipping ETF Turns $100K Into $2.1M in 1 Year",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/06/04/little-known-shipping-etf-turns-100k-into-2-1m-in-1-year/",
+        "published": "2026-06-04T16:35:54Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Innisfree Energy Sheet Mask: Free",
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/Innisfree-Energy-Sheet-Mask-Free/21838131.html",
@@ -39,30 +60,16 @@
         "url": "https://www.businessinsider.com/stock-market-correction-oil-price-shock-bond-yields-iran-war-2026-6",
         "published": "2026-06-04T14:32:50Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Are tariffs still impacting your favorite products’ prices? Experts explain",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/select/shopping/tariffs-consumer-prices-2026-rcna348279",
-        "published": "2026-06-04T14:04:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Clearance FRAM Filters at Advance Auto Parts: Up to 75% off + free store pickup",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Clearance-FRAM-Filters-at-Advance-Auto-Parts-Up-to-75-off-free-store-pickup/21838118.html",
-        "published": "2026-06-04T14:03:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hezbollah Rejects Latest Ceasefire Agreement as Israeli Strikes Kill 4 in Lebanon",
-        "source": "Military.com",
-        "url": "https://military.com/hezbollah-rejects-latest-ceasefire-agreement-as-israeli-strikes-kill-4-in-lebanon",
-        "published": "2026-06-04T14:00:42Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "China Is Too Big for Shangri-La",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/06/04/china-shangri-la-dong-jun-defense-minister/",
+        "published": "2026-06-04T17:17:03Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan Beefs up Anti-Ship Missile Arsenal to Counter Threat of Chinese Invasion",
         "source": "gcaptain.com",
@@ -90,13 +97,6 @@
         "url": "https://economictimes.indiatimes.com/news/defence/taiwan-beefs-up-anti-ship-missile-arsenal-to-counter-threat-of-chinese-invasion/articleshow/131498424.cms",
         "published": "2026-06-04T06:36:47Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Faultlines in a New Epoch of Crisis",
-        "source": "CounterPunch",
-        "url": "https://www.counterpunch.org/2026/06/04/faultlines-in-a-new-epoch-of-crisis/",
-        "published": "2026-06-04T05:50:15Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
