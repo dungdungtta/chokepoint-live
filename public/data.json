@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-05T08:50:42.643Z",
+    "generated_at": "2026-06-05T12:16:03.408Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Govt sets up 6 sector-specific groups to identify products to boost manufacturing, cut imports",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/policy/govt-sets-up-6-sector-specific-groups-to-identify-products-to-boost-manufacturing-cut-imports/articleshow/131500852.cms",
-        "published": "2026-06-04T08:39:42Z",
+        "title": "From food lines in Somalia to clinics in Afghanistan, Hormuz crisis sends shockwaves through global aid networks",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260604-unnews01.htm",
+        "published": "2026-06-04T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Govt sets up 6 sector-specific groups to identify products to boost mfg, cut imports",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/govt-sets-up-6-sector-specific-groups-to-identify-products-to-boost-mfg-cut-imports/article71060321.ece",
-        "published": "2026-06-04T08:29:05Z",
+        "title": "Mixed Signals Suggest US-Iran Crisis Is Far From Over, Says Security Analyst Jake Sotiriadis",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260604-rferl03.htm",
+        "published": "2026-06-04T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "CoinEx Monthly | Derisking Above, Building Below",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/06/04/3306558/0/en/CoinEx-Monthly-Derisking-Above-Building-Below.html",
-        "published": "2026-06-04T08:18:00Z",
+        "title": "US Sanctions On Iran's Largest Cryptocurrency Platform Could Hurt Ordinary Iranians, Experts Say",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260604-rferl02.htm",
+        "published": "2026-06-04T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "RBI MPC: A problem Shaktikanta Das had contained may be returning to haunt Sanjay Malhotra & Co",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-mpc-a-problem-shaktikanta-das-had-contained-may-be-returning-to-haunt-sanjay-malhotra-co-repo-rate-inflation-oil/articleshow/131500405.cms",
-        "published": "2026-06-04T08:09:12Z",
+        "title": "Who is the Indian guru Venezuelan acting President Delcy Rodriguez follows?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/4/who-is-the-indian-guru-venezuelan-acting-president-delcy-rodriguez-follows",
+        "published": "2026-06-04T11:04:16Z",
         "sentiment": "watch"
       },
       {
-        "title": "Higher oil and gas prices coming soon, industry and analysts warn",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/business/higher-oil-gas-prices-industry-analysts-9.7222066",
-        "published": "2026-06-04T08:00:00Z",
-        "sentiment": "danger"
+        "title": "Stuck on oil: Can Hawaii power itself?",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/stuck-on-oil-can-hawaii-power-itself/a-76967079",
+        "published": "2026-06-04T10:54:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Tokyo-Manila EEZ talks aim to counter China: FM",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260604-cna01.htm",
+        "published": "2026-06-04T12:00:00Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Proposed arms sale to Taiwan under review, not 'paused': Rubio",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260604-cna01.htm",
+        "published": "2026-06-04T11:55:02Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan beefs up anti-ship missile arsenal to counter threat of Chinese invasion",
         "source": "The Times of India",
@@ -83,20 +97,6 @@
         "url": "https://english.khabarhub.com/2026/04/551936/",
         "published": "2026-06-03T23:42:08Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "The U.S. and Taiwanese Militaries Can’t Really Fight Together",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/06/03/taiwan-china-us-invasion-war-military-arms-weapons/",
-        "published": "2026-06-03T15:36:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Remarks on \"Dagger in Heart of Asia\" Is Intensive Manifestation of U.S. Hegemonism and Cold War Mentality",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260603-kcna01.htm",
-        "published": "2026-06-03T10:06:08Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
