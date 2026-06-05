@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-05T19:24:27.934Z",
+    "generated_at": "2026-06-05T21:09:46.867Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -18,47 +18,40 @@
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
-      "price_index": 17.67,
-      "change_pct": 57.9,
-      "date": "2026-03-01",
+      "price_index": 15.9,
+      "change_pct": 3.3,
+      "date": "2026-05-01",
       "unit": "USD/MMBtu (EU nat-gas proxy)"
     }
   },
   "news": {
     "hormuz": [
       {
-        "title": "Venezuela’s Debt Overhaul Faces New Controversy",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Venezuelas-Debt-Overhaul-Faces-New-Controversy.html",
-        "published": "2026-06-04T19:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "1975 Norton Commando Roadster at No Reserve",
+        "title": "426 Hemi–Powered 1968 Plymouth Barracuda Fastback",
         "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1975-norton-commando-15/",
-        "published": "2026-06-04T18:59:24Z",
+        "url": "https://bringatrailer.com/listing/1968-plymouth-barracuda-51/",
+        "published": "2026-06-04T21:05:33Z",
         "sentiment": "watch"
       },
       {
-        "title": "Ships stranded in Persian Gulf quietly coordinate with U.S. Navy to exit Hormuz",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/04/iran-war-strait-hormuz-persian-gulf-oil-tanker-transit.html",
-        "published": "2026-06-04T18:54:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What happens when fuel excise cuts end on June 30?",
+        "title": "Hezbollah rejects Lebanon ceasefire as Israeli strikes kill four",
         "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-06-05/the-fuel-excise-is-ending-in-a-month-will-prices-go-up/106744302",
-        "published": "2026-06-04T18:44:21Z",
+        "url": "https://www.abc.net.au/news/2026-06-05/hezbollah-rejects-latest-lebanon-israel-ceasefire-agreement/106762184",
+        "published": "2026-06-04T20:40:38Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil Retreats on Truce Optimism",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_retreats_on_truce_optimism-04-jun-2026-183857-article/",
+        "published": "2026-06-04T20:04:38Z",
         "sentiment": "watch"
       },
       {
-        "title": "Kallas proposes EU naval mission for Hormuz",
-        "source": "RT",
-        "url": "https://www.rt.com/news/640972-eu-hormuz-naval-mission/",
-        "published": "2026-06-04T17:37:10Z",
+        "title": "Trump Approves $700 Million in Bid to Revive US Coal Industry",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/trump-approves-700-million-in-bid-to-revive-us-coal-industry",
+        "published": "2026-06-04T19:58:11Z",
         "sentiment": "watch"
       }
     ],
