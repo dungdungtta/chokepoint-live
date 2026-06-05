@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-05T00:16:26.894Z",
+    "generated_at": "2026-06-05T04:59:16.938Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Valvoline High Mileage SAE 5W-30 Motor Oil 5-Quart Jug for $20 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Valvoline-High-Mileage-SAE-5-W-30-Motor-Oil-5-Quart-Jug-for-20-free-shipping-w-Prime/21837923.html",
-        "published": "2026-06-04T00:14:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Custom 1982 Honda CBX Super Sport at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1982-honda-cbx-24/",
-        "published": "2026-06-03T23:50:41Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Major blow to Trump as House passes war powers resolution to halt Pentagon from further strikes on Iran",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15872285/House-restrict-Trump-war-Iran.html",
-        "published": "2026-06-03T23:37:10Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump Downplays Threats of Hormuz Mines, Touts Alternate Route",
+        "title": "Oil Drops as Israel and Lebanon Agree to Conditional Ceasefire",
         "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/trump-downplays-threats-of-hormuz-mines-touts-alternate-route-2",
-        "published": "2026-06-03T22:36:04Z",
+        "url": "https://financialpost.com/pmn/business-pmn/oil-drops-as-israel-and-lebanon-agree-to-conditional-ceasefire",
+        "published": "2026-06-04T04:51:20Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "IndiGo shares crack nearly 30% from peak. Will Iran war, soaring oil prices cause more turbulence?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-shares-crack-nearly-30-from-peak-will-iran-war-soaring-oil-prices-cause-more-turbulence/articleshow/131496557.cms",
+        "published": "2026-06-04T04:33:45Z",
         "sentiment": "danger"
       },
       {
-        "title": "House defies Trump admin and approves war powers resolution to halt military action against Iran",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/06/03/us-news/house-defies-trump-admin-and-approves-war-powers-resolution-to-halt-military-action-against-iran/",
-        "published": "2026-06-03T22:07:07Z",
+        "title": "Israel and Lebanon agree to implement conditional truce",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/0604/1576682-middle-east-lebanon-israel/",
+        "published": "2026-06-04T04:25:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Threat of Unrest Is Decarbonizing the Global South",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/06/04/iran-war-decarbonizing-global-south/",
+        "published": "2026-06-04T04:17:26Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Could Israel’s Wars Throw the Whole World into Chaos?",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/06/could-israels-throw.html",
+        "published": "2026-06-04T04:15:40Z",
         "sentiment": "danger"
       }
     ],
