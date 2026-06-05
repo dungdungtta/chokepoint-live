@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-05T04:59:16.938Z",
+    "generated_at": "2026-06-05T08:50:42.643Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Drops as Israel and Lebanon Agree to Conditional Ceasefire",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-drops-as-israel-and-lebanon-agree-to-conditional-ceasefire",
-        "published": "2026-06-04T04:51:20Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "IndiGo shares crack nearly 30% from peak. Will Iran war, soaring oil prices cause more turbulence?",
+        "title": "Govt sets up 6 sector-specific groups to identify products to boost manufacturing, cut imports",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-shares-crack-nearly-30-from-peak-will-iran-war-soaring-oil-prices-cause-more-turbulence/articleshow/131496557.cms",
-        "published": "2026-06-04T04:33:45Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Israel and Lebanon agree to implement conditional truce",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/0604/1576682-middle-east-lebanon-israel/",
-        "published": "2026-06-04T04:25:02Z",
+        "url": "https://economictimes.indiatimes.com/news/economy/policy/govt-sets-up-6-sector-specific-groups-to-identify-products-to-boost-manufacturing-cut-imports/articleshow/131500852.cms",
+        "published": "2026-06-04T08:39:42Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Threat of Unrest Is Decarbonizing the Global South",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/06/04/iran-war-decarbonizing-global-south/",
-        "published": "2026-06-04T04:17:26Z",
-        "sentiment": "danger"
+        "title": "Govt sets up 6 sector-specific groups to identify products to boost mfg, cut imports",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/govt-sets-up-6-sector-specific-groups-to-identify-products-to-boost-mfg-cut-imports/article71060321.ece",
+        "published": "2026-06-04T08:29:05Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Could Israel’s Wars Throw the Whole World into Chaos?",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/06/could-israels-throw.html",
-        "published": "2026-06-04T04:15:40Z",
+        "title": "CoinEx Monthly | Derisking Above, Building Below",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/06/04/3306558/0/en/CoinEx-Monthly-Derisking-Above-Building-Below.html",
+        "published": "2026-06-04T08:18:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "RBI MPC: A problem Shaktikanta Das had contained may be returning to haunt Sanjay Malhotra & Co",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-mpc-a-problem-shaktikanta-das-had-contained-may-be-returning-to-haunt-sanjay-malhotra-co-repo-rate-inflation-oil/articleshow/131500405.cms",
+        "published": "2026-06-04T08:09:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Higher oil and gas prices coming soon, industry and analysts warn",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/business/higher-oil-gas-prices-industry-analysts-9.7222066",
+        "published": "2026-06-04T08:00:00Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan beefs up anti-ship missile arsenal to counter threat of Chinese invasion",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/taiwan-beefs-up-anti-ship-missile-arsenal-to-counter-threat-of-chinese-invasion/articleshow/131498424.cms",
+        "published": "2026-06-04T06:36:47Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Faultlines in a New Epoch of Crisis",
+        "source": "CounterPunch",
+        "url": "https://www.counterpunch.org/2026/06/04/faultlines-in-a-new-epoch-of-crisis/",
+        "published": "2026-06-04T05:50:15Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Beyond the Trump–Xi Summit: Arrival of the Emerging Global Order",
         "source": "Khabarhub.com",
@@ -83,20 +97,6 @@
         "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260603-kcna01.htm",
         "published": "2026-06-03T10:06:08Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "After America",
-        "source": "CounterPunch",
-        "url": "https://www.counterpunch.org/2026/06/03/after-america/",
-        "published": "2026-06-03T06:00:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Petro-State Fades: Will China’s Electrostate Rise?",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/06/petro-chinas-electrostate.html",
-        "published": "2026-06-03T04:04:47Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
