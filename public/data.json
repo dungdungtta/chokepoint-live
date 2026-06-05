@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T22:53:56.276Z",
+    "generated_at": "2026-06-05T00:16:26.894Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Valvoline High Mileage SAE 5W-30 Motor Oil 5-Quart Jug for $20 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Valvoline-High-Mileage-SAE-5-W-30-Motor-Oil-5-Quart-Jug-for-20-free-shipping-w-Prime/21837923.html",
+        "published": "2026-06-04T00:14:47Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Custom 1982 Honda CBX Super Sport at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1982-honda-cbx-24/",
+        "published": "2026-06-03T23:50:41Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Major blow to Trump as House passes war powers resolution to halt Pentagon from further strikes on Iran",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15872285/House-restrict-Trump-war-Iran.html",
+        "published": "2026-06-03T23:37:10Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Trump Downplays Threats of Hormuz Mines, Touts Alternate Route",
         "source": "Financial Post",
         "url": "https://financialpost.com/pmn/business-pmn/trump-downplays-threats-of-hormuz-mines-touts-alternate-route-2",
@@ -39,30 +60,16 @@
         "url": "https://nypost.com/2026/06/03/us-news/house-defies-trump-admin-and-approves-war-powers-resolution-to-halt-military-action-against-iran/",
         "published": "2026-06-03T22:07:07Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Iran hits Kuwait; U.S. strikes near Hormuz in Gulf flare-up",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/iran-hits-kuwait-us-strikes-near-hormuz-in-gulf-flare-up",
-        "published": "2026-06-03T21:46:36Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "House defies Trump and approves war powers resolution to halt military action against Iran",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/house-again-considers-war-powers-resolution-to-halt-military-action-against-iran",
-        "published": "2026-06-03T21:45:40Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Republicans defy Trump in shock move, passing resolution in Congress to limit Iran war powers",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/03/trump-iran-war-powers-resolution-senate-republicans-defiance/",
-        "published": "2026-06-03T21:39:48Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Beyond the Trump–Xi Summit: Arrival of the Emerging Global Order",
+        "source": "Khabarhub.com",
+        "url": "https://english.khabarhub.com/2026/04/551936/",
+        "published": "2026-06-03T23:42:08Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The U.S. and Taiwanese Militaries Can’t Really Fight Together",
         "source": "Foreign Policy",
@@ -89,13 +96,6 @@
         "source": "Juancole.com",
         "url": "https://www.juancole.com/2026/06/petro-chinas-electrostate.html",
         "published": "2026-06-03T04:04:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan unveils armed robot dogs (VIDEO)",
-        "source": "RT",
-        "url": "https://www.rt.com/news/640879-taiwan-armed-robot-dogs/",
-        "published": "2026-06-02T17:19:59Z",
         "sentiment": "watch"
       }
     ],
