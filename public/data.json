@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T11:11:33.733Z",
+    "generated_at": "2026-06-06T12:45:54.355Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Links 6/5/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/06/links-6-5-2026.html",
-        "published": "2026-06-05T10:57:55Z",
+        "title": "Strategic Greek–Chinese cooperation in Artificial Intelligence",
+        "source": "Naftemporiki.gr",
+        "url": "https://www.naftemporiki.gr/english/2120165/strategic-greek-chinese-cooperation-in-artificial-intelligence/",
+        "published": "2026-06-05T12:17:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "Middle East conflict pushing millions into hunger, WFP says",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/articles/middle-east-conflict-pushing-millions-085941809.html",
-        "published": "2026-06-05T10:27:27Z",
+        "title": "Iran declares support for Hizbullah with wider peace deal in doubt",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/06/05/iran-declares-support-for-hizbullah-with-wider-peace-deal-in-doubt/",
+        "published": "2026-06-05T12:10:54Z",
         "sentiment": "watch"
       },
       {
-        "title": "No signs of aircraft fuel shortage in Europe in the coming months, says Tzitzikostas",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/06/05/no-signs-of-aircraft-fuel-shortage-in-europe-in-the-coming-months-says-tzitzikostas/",
-        "published": "2026-06-05T09:29:08Z",
+        "title": "Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260605-treasury01.htm",
+        "published": "2026-06-05T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "May jobs report expected to show growth in an economy squeezed by inflation",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/business/economy/may-jobs-report-inflation-rcna348020",
-        "published": "2026-06-05T09:00:00Z",
-        "sentiment": "watch"
+        "title": "US-Israeli war against Iran pushing millions into hunger: WFP",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260605-presstv07.htm",
+        "published": "2026-06-05T12:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US destroyers flee Sea of Oman after Iran Navy's warning shots",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260605-presstv04.htm",
+        "published": "2026-06-05T12:00:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
