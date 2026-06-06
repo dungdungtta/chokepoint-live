@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T04:11:37.428Z",
+    "generated_at": "2026-06-06T07:26:03.310Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oman halts crude loading at Mina Al Fahal after suspected drone attack",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oman-halts-crude-loading-at-mina-al-fahal-after-suspected-drone-attack/",
-        "published": "2026-06-05T03:00:13Z",
+        "title": "Oil prices edge up on US-Iran deal uncertainty",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0605/1576880-world-oil-prices/",
+        "published": "2026-06-05T07:16:55Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Stagflation risks rise as oil prices threaten global growth outlook: Peter Cardillo",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/stagflation-risks-rise-as-oil-prices-threaten-global-growth-outlook-peter-cardillo/articleshow/131523749.cms",
+        "published": "2026-06-05T06:30:35Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil Price Today (June 5): Crude oil holds ground as Iran peace deal uncertainty lingers. Where are prices headed?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-june-5-crude-oil-holds-ground-as-iran-peace-deal-uncertainty-lingers-where-are-prices-headed/articleshow/131519567.cms",
-        "published": "2026-06-05T02:12:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil little changed on uncertainty over US-Iran peace deal",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-little-changed-on-uncertainty-over-us-iran-peace-deal/articleshow/131519184.cms",
-        "published": "2026-06-05T01:14:22Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "A Regional Crisis or a Protracted International Disorder?",
-        "source": "Antiwar.com",
-        "url": "https://original.antiwar.com/dan_steinbock/2026/06/04/a-regional-crisis-or-a-protracted-international-disorder/",
-        "published": "2026-06-05T00:00:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran demands access to frozen assets in US negotiations over sanctions relief",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-frozen-assets-us-sanctions-negotiations/",
-        "published": "2026-06-04T23:06:50Z",
+        "title": "Turkish, Qatari foreign ministers discuss Iran-US talks",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/turkish-qatari-foreign-ministers-discuss-iran-us-talks-222923",
+        "published": "2026-06-05T05:52:24Z",
         "sentiment": "neutral"
+      },
+      {
+        "title": "Markets tumble as AI rally pauses and US-Iran peace talks stall",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/markets/2026/06/05/markets-tumble-as-ai-rally-pauses-and-us-iran-peace-talks-stall/",
+        "published": "2026-06-05T05:19:29Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "BPCL, Wipro, ITC among list of 15 high dividend yield stocks. Do you own any?",
+        "source": "Economictimes.com",
+        "url": "https://m.economictimes.com/markets/stocks/news/bpcl-wipro-itc-among-list-of-15-high-dividend-yield-stocks-do-you-own-any/solid-payouts/slideshow/131522435.cms",
+        "published": "2026-06-05T05:14:41Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
