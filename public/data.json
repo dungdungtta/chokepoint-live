@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T21:38:38.032Z",
+    "generated_at": "2026-06-06T22:45:14.560Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "1985 BMW R80 at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1985-bmw-r80g-s-2/",
+        "published": "2026-06-05T22:00:18Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Zelensky’s Pen Pal Diplomacy",
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/06/05/russia-ukraine-zelensky-open-letter-putin-peace-talks-st-petersburg/",
@@ -52,13 +59,6 @@
         "source": "The Punch",
         "url": "https://punchng.com/committee-renews-call-for-nigerian-coast-guard-to-boost-maritime-security/",
         "published": "2026-06-05T16:52:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "13 Environmentally Conscious Packing Tips for Your Next Vacation",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/environmentally-conscious-packing-tips/",
-        "published": "2026-06-05T16:00:00Z",
         "sentiment": "watch"
       }
     ],
