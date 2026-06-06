@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T16:13:33.481Z",
+    "generated_at": "2026-06-06T17:36:49.096Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Committee renews call for Nigerian Coast Guard to boost maritime security",
+        "source": "The Punch",
+        "url": "https://punchng.com/committee-renews-call-for-nigerian-coast-guard-to-boost-maritime-security/",
+        "published": "2026-06-05T16:52:49Z",
+        "sentiment": "watch"
+      },
       {
         "title": "13 Environmentally Conscious Packing Tips for Your Next Vacation",
         "source": "Wired",
@@ -53,13 +60,6 @@
         "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/july-rollout-of-india-us-trade-interim-pact-likely-as-two-move-to-seal-vibrant-1st-phase-piyush-goyal/articleshow/131535132.cms",
         "published": "2026-06-05T15:14:38Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Volodymyr Zelenskyy proposes direct peace talks with Vladimir Putin in open letter",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/zelenskyy-proposes-peace-talks-putin/",
-        "published": "2026-06-05T14:52:05Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
