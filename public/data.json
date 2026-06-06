@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T17:36:49.096Z",
+    "generated_at": "2026-06-06T18:56:15.291Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Freight Rates Are Climbing Fast as Peak Shipping Season Kicks Off Early",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/freight-rates-early-peak-shipping-season-june-container-shipping-msc-drewry-1238997327/",
+        "published": "2026-06-05T17:54:53Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Committee renews call for Nigerian Coast Guard to boost maritime security",
         "source": "The Punch",
         "url": "https://punchng.com/committee-renews-call-for-nigerian-coast-guard-to-boost-maritime-security/",
@@ -52,13 +59,6 @@
         "source": "New York Post",
         "url": "https://nypost.com/2026/06/05/world-news/iran-declares-support-for-hezbollah-with-us-peace-deal-in-doubt/",
         "published": "2026-06-05T15:19:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "July rollout of India, US trade interim pact likely as two move to seal 'vibrant’ 1st phase: Piyush Goyal",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/july-rollout-of-india-us-trade-interim-pact-likely-as-two-move-to-seal-vibrant-1st-phase-piyush-goyal/articleshow/131535132.cms",
-        "published": "2026-06-05T15:14:38Z",
         "sentiment": "watch"
       }
     ],
