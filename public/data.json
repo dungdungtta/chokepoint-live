@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T12:45:54.355Z",
+    "generated_at": "2026-06-06T14:49:05.042Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Strategic Greek–Chinese cooperation in Artificial Intelligence",
-        "source": "Naftemporiki.gr",
-        "url": "https://www.naftemporiki.gr/english/2120165/strategic-greek-chinese-cooperation-in-artificial-intelligence/",
-        "published": "2026-06-05T12:17:09Z",
+        "title": "Hyper Tough 0.6-Gallon Wall-Mount Air Compressor for $119 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Hyper-Tough-0-6-Gallon-Wall-Mount-Air-Compressor-for-119-free-shipping/21838454.html",
+        "published": "2026-06-05T14:17:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran declares support for Hizbullah with wider peace deal in doubt",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/06/05/iran-declares-support-for-hizbullah-with-wider-peace-deal-in-doubt/",
-        "published": "2026-06-05T12:10:54Z",
+        "title": "Hyper Tough 0.6-Gallon Wall-Mount Air Compressor for $119 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Hyper-Tough-0-6-Gallon-Wall-Mount-Air-Compressor-for-119-free-shipping/21838454.html",
+        "published": "2026-06-05T14:17:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260605-treasury01.htm",
-        "published": "2026-06-05T12:00:00Z",
+        "title": "Hyper Tough 0.6-Gallon Wall-Mount Air Compressor for $119 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Hyper-Tough-0-6-Gallon-Wall-Mount-Air-Compressor-for-119-free-shipping/21838454.html",
+        "published": "2026-06-05T14:17:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US-Israeli war against Iran pushing millions into hunger: WFP",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260605-presstv07.htm",
-        "published": "2026-06-05T12:00:00Z",
-        "sentiment": "danger"
+        "title": "Critical Thinking in an Age of Global Peril: Why Journalism Matters More Than Ever",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/critical-thinking-journalism-matters/5928848",
+        "published": "2026-06-05T13:58:43Z",
+        "sentiment": "watch"
       },
       {
-        "title": "US destroyers flee Sea of Oman after Iran Navy's warning shots",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260605-presstv04.htm",
-        "published": "2026-06-05T12:00:00Z",
-        "sentiment": "danger"
+        "title": "Will Iran be Europe’s Zeitenwende?",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/politics/will-iran-be-europes-zeitenwende/",
+        "published": "2026-06-05T13:48:58Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Why tensions between the US and its allies are now so critical: Reflections on competing coalition dynamics ahead of the G7 summit",
+        "source": "Europa.eu",
+        "url": "https://www.iss.europa.eu/publications/commentary/why-tensions-between-us-and-its-allies-are-now-so-critical-reflections",
+        "published": "2026-06-05T13:21:03Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Washington Is Testing Singapore’s Patience",
         "source": "Foreign Policy",
@@ -90,16 +97,16 @@
         "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260604-cna01.htm",
         "published": "2026-06-04T12:00:00Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Proposed arms sale to Taiwan under review, not 'paused': Rubio",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260604-cna01.htm",
-        "published": "2026-06-04T11:55:02Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
+      {
+        "title": "How the US naval blockade has bled Iran of nearly $6bn in oil revenues",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/5/how-the-us-naval-blockade-has-bled-iran-of-nearly-6bn-in-oil-revenues",
+        "published": "2026-06-05T13:18:18Z",
+        "sentiment": "danger"
+      },
       {
         "title": "China and Maritime Chokepoints: Hormuz, Malacca, and Indo-Pacific Vulnerability",
         "source": "The Diplomat",
