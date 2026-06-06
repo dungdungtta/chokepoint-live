@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T18:56:15.291Z",
+    "generated_at": "2026-06-06T20:17:07.726Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "US Forces See Nearly 1,000 Hormuz Crossings Since Ceasefire",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/us-forces-see-nearly-1000-hormuz-crossings-since-ceasefire",
+        "published": "2026-06-05T19:57:36Z",
+        "sentiment": "neutral"
+      },
       {
         "title": "Freight Rates Are Climbing Fast as Peak Shipping Season Kicks Off Early",
         "source": "WWD",
@@ -53,13 +60,6 @@
         "url": "https://dailycaller.com/2026/06/05/opinion-oil-price-spike-chevron-exxon-david-blackmon/",
         "published": "2026-06-05T15:34:07Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Iran declares Hezbollah support, demands Israel leave Southern Lebanon — as US peace deal in is doubt",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/06/05/world-news/iran-declares-support-for-hezbollah-with-us-peace-deal-in-doubt/",
-        "published": "2026-06-05T15:19:52Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -90,13 +90,6 @@
         "url": "https://gcaptain.com/taiwan-beefs-up-anti-ship-missile-arsenal-to-counter-threat-of-chinese-invasion/",
         "published": "2026-06-04T14:05:42Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Tokyo-Manila EEZ talks aim to counter China: FM",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260604-cna01.htm",
-        "published": "2026-06-04T12:00:00Z",
-        "sentiment": "neutral"
       }
     ],
     "malacca": [
