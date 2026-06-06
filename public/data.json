@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T07:26:03.310Z",
+    "generated_at": "2026-06-06T09:35:16.494Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil prices edge up on US-Iran deal uncertainty",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/0605/1576880-world-oil-prices/",
-        "published": "2026-06-05T07:16:55Z",
+        "title": "No signs of aircraft fuel shortage in Europe in the coming months, says Tzitzikostas",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/06/05/no-signs-of-aircraft-fuel-shortage-in-europe-in-the-coming-months-says-tzitzikostas/",
+        "published": "2026-06-05T09:29:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "Stagflation risks rise as oil prices threaten global growth outlook: Peter Cardillo",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/stagflation-risks-rise-as-oil-prices-threaten-global-growth-outlook-peter-cardillo/articleshow/131523749.cms",
-        "published": "2026-06-05T06:30:35Z",
+        "title": "May jobs report expected to show growth in an economy squeezed by inflation",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/business/economy/may-jobs-report-inflation-rcna348020",
+        "published": "2026-06-05T09:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "From Iran To Ukraine: How Asymmetric Warfare Is Challenging Conventional Military Power",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/drones-iran-ukraine-russia-houthis-hezbollah/33772693.html",
+        "published": "2026-06-05T08:52:16Z",
         "sentiment": "danger"
       },
       {
-        "title": "Turkish, Qatari foreign ministers discuss Iran-US talks",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/turkish-qatari-foreign-ministers-discuss-iran-us-talks-222923",
-        "published": "2026-06-05T05:52:24Z",
-        "sentiment": "neutral"
+        "title": "Norway Averts Offshore Strike as Workers and Industry Reach Deal",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Norway-Averts-Offshore-Strike-as-Workers-and-Industry-Reach-Deal.html",
+        "published": "2026-06-05T08:30:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Markets tumble as AI rally pauses and US-Iran peace talks stall",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/markets/2026/06/05/markets-tumble-as-ai-rally-pauses-and-us-iran-peace-talks-stall/",
-        "published": "2026-06-05T05:19:29Z",
+        "title": "Stocks drop as US-Iran peace talks stall, AI rally cools",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/stocks-drop-us-iran-peace-talks-stall-ai-rally-cools-6163656",
+        "published": "2026-06-05T08:29:50Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "BPCL, Wipro, ITC among list of 15 high dividend yield stocks. Do you own any?",
-        "source": "Economictimes.com",
-        "url": "https://m.economictimes.com/markets/stocks/news/bpcl-wipro-itc-among-list-of-15-high-dividend-yield-stocks-do-you-own-any/solid-payouts/slideshow/131522435.cms",
-        "published": "2026-06-05T05:14:41Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Washington Is Testing Singapore’s Patience",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/06/05/singapore-trump-tariffs-trade-forced-labor-china-geopolitics/",
+        "published": "2026-06-05T09:34:02Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China Is Too Big for Shangri-La",
         "source": "Foreign Policy",
@@ -90,13 +97,6 @@
         "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260604-cna01.htm",
         "published": "2026-06-04T11:55:02Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan beefs up anti-ship missile arsenal to counter threat of Chinese invasion",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/taiwan-beefs-up-anti-ship-missile-arsenal-to-counter-threat-of-chinese-invasion/articleshow/131498424.cms",
-        "published": "2026-06-04T06:36:47Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
