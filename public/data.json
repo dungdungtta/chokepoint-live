@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T20:17:07.726Z",
+    "generated_at": "2026-06-06T21:38:38.032Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Zelensky’s Pen Pal Diplomacy",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/06/05/russia-ukraine-zelensky-open-letter-putin-peace-talks-st-petersburg/",
+        "published": "2026-06-05T20:23:57Z",
+        "sentiment": "watch"
+      },
       {
         "title": "US Forces See Nearly 1,000 Hormuz Crossings Since Ceasefire",
         "source": "Financial Post",
@@ -53,13 +60,6 @@
         "url": "https://www.wired.com/story/environmentally-conscious-packing-tips/",
         "published": "2026-06-05T16:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Exxon, Chevron Warn Another Oil Price Spike Coming Soon",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/06/05/opinion-oil-price-spike-chevron-exxon-david-blackmon/",
-        "published": "2026-06-05T15:34:07Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
