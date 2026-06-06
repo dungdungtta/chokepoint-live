@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-05T23:52:02.372Z",
+    "generated_at": "2026-06-06T04:11:37.428Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oman halts crude loading at Mina Al Fahal after suspected drone attack",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oman-halts-crude-loading-at-mina-al-fahal-after-suspected-drone-attack/",
+        "published": "2026-06-05T03:00:13Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil Price Today (June 5): Crude oil holds ground as Iran peace deal uncertainty lingers. Where are prices headed?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-june-5-crude-oil-holds-ground-as-iran-peace-deal-uncertainty-lingers-where-are-prices-headed/articleshow/131519567.cms",
+        "published": "2026-06-05T02:12:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil little changed on uncertainty over US-Iran peace deal",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-little-changed-on-uncertainty-over-us-iran-peace-deal/articleshow/131519184.cms",
+        "published": "2026-06-05T01:14:22Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "A Regional Crisis or a Protracted International Disorder?",
+        "source": "Antiwar.com",
+        "url": "https://original.antiwar.com/dan_steinbock/2026/06/04/a-regional-crisis-or-a-protracted-international-disorder/",
+        "published": "2026-06-05T00:00:12Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran demands access to frozen assets in US negotiations over sanctions relief",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/iran-frozen-assets-us-sanctions-negotiations/",
         "published": "2026-06-04T23:06:50Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Oil Steadies After First Drop This Week on Peace Talk Optimism",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-steadies-after-first-drop-this-week-on-peace-talk-optimism",
-        "published": "2026-06-04T23:06:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hezbollah rejection clouds Lebanon ceasefire and prospects for ending Iran war",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/hezbollah-rejection-clouds-lebanon-ceasefire-and-prospects-for-ending-iran-war2",
-        "published": "2026-06-04T21:41:07Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "426 Hemi–Powered 1968 Plymouth Barracuda Fastback",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1968-plymouth-barracuda-51/",
-        "published": "2026-06-04T21:05:33Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
