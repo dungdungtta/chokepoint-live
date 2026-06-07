@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-07T04:59:09.002Z",
+    "generated_at": "2026-06-07T08:28:15.746Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Turkish-flagged fishing boat is attacked in the Black Sea, leaving a sailor dead",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/turkish-flagged-fishing-boat-attacked-black-sea-leaving-133640267",
-        "published": "2026-06-06T04:40:35Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices fall on mounting hopes for de-escalation in US-Iran War",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-fall-on-mounting-hopes-for-de-escalation-in-us-iran-war/articleshow/131544214.cms",
-        "published": "2026-06-06T04:09:39Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S. attacks Iranian sites after Iran launches drones, in latest Gulf flare-up",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/us-attacks-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up",
-        "published": "2026-06-06T03:59:27Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US attacks Iranian sites after Iran launches drones, in latest Gulf flare-up",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/articles/us-attacks-iranian-coastal-sites-000159581.html",
-        "published": "2026-06-06T02:34:12Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "India aims to triple seafood exports to $30 billion by 2031, says Piyush Goyal",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/agri-business/india-aims-to-triple-seafood-exports-to-30-billion-by-2031-says-piyush-goyal/article71068342.ece",
-        "published": "2026-06-06T02:18:11Z",
+        "title": "ICC Secretary General: The Hormuz clock that matters isn’t diplomatic — it’s agricultural",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/06/06/hormuz-strait-closure-fertilizer-food-crisis-agriculture-john-denton/",
+        "published": "2026-06-06T07:00:00Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "More economic safeguards on the cards as West Asia conflict persists: Report",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/economy/policy/more-economic-safeguards-on-the-cards-as-west-asia-conflict-persists-report/articleshow/131546346.cms",
+        "published": "2026-06-06T06:59:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "As hot summer, blackouts loom, Iraq looks to solar power",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/as-hot-summer-blackouts-loom-iraq-looks-to-solar-power/a-77438162",
+        "published": "2026-06-06T06:15:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "How did US-Iran drone clashes escalate? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/how-did-us-iran-drone-clashes-escalate",
+        "published": "2026-06-06T06:03:17Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump Downplays Iranian Attacks on U.S. Bases in Kuwait and Bahrain, Cites Provocation",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-06-06-trump-downplays-iranian-attacks-bases-kuwait-bahrain.html",
+        "published": "2026-06-06T06:00:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
