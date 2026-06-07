@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-07T00:12:44.469Z",
+    "generated_at": "2026-06-07T04:59:09.002Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Banks face N100m penalty for forex violations",
-        "source": "The Punch",
-        "url": "https://punchng.com/banks-face-n100m-penalty-for-forex-violations/",
-        "published": "2026-06-06T00:10:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US carries out another ‘defensive’ strike on Iranian island",
-        "source": "RT",
-        "url": "https://www.rt.com/news/641107-us-iran-qeshm-island-strike/",
-        "published": "2026-06-06T00:05:50Z",
+        "title": "Turkish-flagged fishing boat is attacked in the Black Sea, leaving a sailor dead",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/turkish-flagged-fishing-boat-attacked-black-sea-leaving-133640267",
+        "published": "2026-06-06T04:40:35Z",
         "sentiment": "danger"
       },
       {
-        "title": "1985 BMW R80 at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1985-bmw-r80g-s-2/",
-        "published": "2026-06-05T22:00:18Z",
-        "sentiment": "watch"
+        "title": "Oil prices fall on mounting hopes for de-escalation in US-Iran War",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-fall-on-mounting-hopes-for-de-escalation-in-us-iran-war/articleshow/131544214.cms",
+        "published": "2026-06-06T04:09:39Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Zelensky’s Pen Pal Diplomacy",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/06/05/russia-ukraine-zelensky-open-letter-putin-peace-talks-st-petersburg/",
-        "published": "2026-06-05T20:23:57Z",
+        "title": "U.S. attacks Iranian sites after Iran launches drones, in latest Gulf flare-up",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/us-attacks-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up",
+        "published": "2026-06-06T03:59:27Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US attacks Iranian sites after Iran launches drones, in latest Gulf flare-up",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/articles/us-attacks-iranian-coastal-sites-000159581.html",
+        "published": "2026-06-06T02:34:12Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "India aims to triple seafood exports to $30 billion by 2031, says Piyush Goyal",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/agri-business/india-aims-to-triple-seafood-exports-to-30-billion-by-2031-says-piyush-goyal/article71068342.ece",
+        "published": "2026-06-06T02:18:11Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "News Summary-Intelligence Report 6/5/2026*Newsdump Friday*Israeli Troops Kill Seven-Month-Old*Iran War Sparks*NASDAQ Led Wall Street Drop*Illinois Governor Data Center*War Lebanon*Drone Explosion Romania*US Sanctions Cuban Pres*Guilty Plea Chinese...*",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-bloggers/4382535/posts",
+        "published": "2026-06-06T03:46:13Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Why tensions between the US and its allies are now so critical: Reflections on competing coalition dynamics ahead of the G7 summit",
         "source": "Europa.eu",
@@ -76,13 +90,6 @@
         "url": "http://foreignpolicy.com/2026/06/04/china-shangri-la-dong-jun-defense-minister/",
         "published": "2026-06-04T17:17:03Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan Beefs up Anti-Ship Missile Arsenal to Counter Threat of Chinese Invasion",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/taiwan-beefs-up-anti-ship-missile-arsenal-to-counter-threat-of-chinese-invasion/",
-        "published": "2026-06-04T14:05:42Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
