@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-07T14:30:25.229Z",
+    "generated_at": "2026-06-07T16:01:02.324Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Air Lubrication For Ships Is Real. The Air Still Isn’t Free.",
+        "source": "CleanTechnica",
+        "url": "https://cleantechnica.com/2026/06/06/ship-air-lubrication-air-isnt-free/",
+        "published": "2026-06-06T15:53:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Why oil’s not at $200 after the biggest supply shock in history",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/06/06/oil-prices-biggest-supply-shock-history-china-imports-inventories-us-exports/",
+        "published": "2026-06-06T15:26:48Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Why oil’s not at $200 after the biggest supply shock in history",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/business/why-oils-not-at-200-after-the-biggest-supply-shock-in-history/articleshow/131554223.cms",
+        "published": "2026-06-06T14:50:07Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US strikes Iranian sites after Iran launches drones, in latest Gulf flare-up",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/defence/us-strikes-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up/articleshow/131553553.cms",
@@ -38,27 +59,6 @@
         "source": "Space Daily",
         "url": "https://spacedaily.com/k-a-single-cotton-t-shirt-requires-approximately-2700-litres-of-water-to-produce-the-equivalent-of-one-persons-drinking-water-for-two-and-a-half-years-and-the-global-fashion-industry-now-consumes-ap/",
         "published": "2026-06-06T13:00:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Asia-to-US Container Rates Spike 109% Since Iran War Started",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/asia-to-us-container-rates-spike-109-since-iran-war-started",
-        "published": "2026-06-06T12:51:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Why Oil’s Not at $200 After the Biggest Supply Shock in History",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/why-oils-not-at-200-after-the-biggest-supply-shock-in-history",
-        "published": "2026-06-06T12:21:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump tariffs changed taste of foods in U.S? Label checking reveals shocking details",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/trump-tariffs-changed-taste-of-foods-in-u-s-label-checking-reveals-shocking-details/articleshow/131551636.cms",
-        "published": "2026-06-06T12:19:14Z",
         "sentiment": "watch"
       }
     ],
