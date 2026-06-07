@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-07T08:28:15.746Z",
+    "generated_at": "2026-06-07T10:54:02.361Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
+        "title": "Purolator PBL20195 PurolatorBOSS Maximum Engine Protection Spin On Oil Filter $4 + Free Shipping w/ Prime or on orders over $35 (1 replies)",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19600056-purolator-pbl20195-purolatorboss-maximum-engine-protection-spin-on-oil-filter-4-free-shipping-w-prime-or-on-orders-over-35",
+        "published": "2026-06-06T10:37:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Russia's oil major says US companies benefit from the closure of the Strait of Hormuz",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/business/russias-oil-major-says-us-companies-benefit-from-the-closure-of-the-strait-of-hormuz/articleshow/131547190.cms",
+        "published": "2026-06-06T09:58:53Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "PM Modi chairs key meet with Economic Advisory Council to asses impact of West Asia war",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/india/pm-modi-chairs-key-meet-with-economic-advisory-council-to-asses-impact-of-west-asia-war/articleshow/131548109.cms",
+        "published": "2026-06-06T08:54:06Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "News24 | Botswana says US-disabled oil tanker was flying false flag",
+        "source": "News24",
+        "url": "https://www.news24.com/business/economy/botswana-says-us-disabled-oil-tanker-was-flying-false-flag-20260606-0506",
+        "published": "2026-06-06T08:39:27Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "ICC Secretary General: The Hormuz clock that matters isn’t diplomatic — it’s agricultural",
         "source": "Fortune",
         "url": "https://fortune.com/2026/06/06/hormuz-strait-closure-fertilizer-food-crisis-agriculture-john-denton/",
         "published": "2026-06-06T07:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "More economic safeguards on the cards as West Asia conflict persists: Report",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/policy/more-economic-safeguards-on-the-cards-as-west-asia-conflict-persists-report/articleshow/131546346.cms",
-        "published": "2026-06-06T06:59:10Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "As hot summer, blackouts loom, Iraq looks to solar power",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/as-hot-summer-blackouts-loom-iraq-looks-to-solar-power/a-77438162",
-        "published": "2026-06-06T06:15:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How did US-Iran drone clashes escalate? #world",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/how-did-us-iran-drone-clashes-escalate",
-        "published": "2026-06-06T06:03:17Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump Downplays Iranian Attacks on U.S. Bases in Kuwait and Bahrain, Cites Provocation",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-06-06-trump-downplays-iranian-attacks-bases-kuwait-bahrain.html",
-        "published": "2026-06-06T06:00:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Iran targets Bahrain and Kuwait after renewed US strikes",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/iran-targets-bahrain-and-kuwait-after-renewed-us-strikes/articleshow/131548737.cms",
+        "published": "2026-06-06T09:52:34Z",
+        "sentiment": "danger"
+      },
       {
         "title": "News Summary-Intelligence Report 6/5/2026*Newsdump Friday*Israeli Troops Kill Seven-Month-Old*Iran War Sparks*NASDAQ Led Wall Street Drop*Illinois Governor Data Center*War Lebanon*Drone Explosion Romania*US Sanctions Cuban Pres*Guilty Plea Chinese...*",
         "source": "Freerepublic.com",
@@ -82,13 +89,6 @@
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/06/05/singapore-trump-tariffs-trade-forced-labor-china-geopolitics/",
         "published": "2026-06-05T09:34:02Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China Is Too Big for Shangri-La",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/06/04/china-shangri-la-dong-jun-defense-minister/",
-        "published": "2026-06-04T17:17:03Z",
         "sentiment": "watch"
       }
     ],
