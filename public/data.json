@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-07T18:58:39.264Z",
+    "generated_at": "2026-06-07T20:21:45.896Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trader Joe's shoppers frantically snatch up household essentials as summer price hikes loom",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/yourmoney/article-15870721/trader-joes-shoppers-summer-price-hikes.html",
+        "published": "2026-06-06T19:36:55Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "CSP Elite Baseball Development Podcast – Pinch Hit Friday #81: Joint Hypermobility, Psychosocial Stress, and Joint Loading",
         "source": "Ericcressey.com",
         "url": "https://ericcressey.com/csp-elite-baseball-development-podcast-pinch-hit-friday-81-joint-hypermobility-psychosocial-stress-joint-loading/",
@@ -52,13 +59,6 @@
         "source": "Bringatrailer.com",
         "url": "https://bringatrailer.com/listing/1968-chevrolet-camaro-430/",
         "published": "2026-06-06T16:40:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Air Lubrication For Ships Is Real. The Air Still Isn’t Free.",
-        "source": "CleanTechnica",
-        "url": "https://cleantechnica.com/2026/06/06/ship-air-lubrication-air-isnt-free/",
-        "published": "2026-06-06T15:53:36Z",
         "sentiment": "watch"
       }
     ],
