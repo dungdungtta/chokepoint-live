@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-07T10:54:02.361Z",
+    "generated_at": "2026-06-07T12:24:02.889Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Purolator PBL20195 PurolatorBOSS Maximum Engine Protection Spin On Oil Filter $4 + Free Shipping w/ Prime or on orders over $35 (1 replies)",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19600056-purolator-pbl20195-purolatorboss-maximum-engine-protection-spin-on-oil-filter-4-free-shipping-w-prime-or-on-orders-over-35",
-        "published": "2026-06-06T10:37:37Z",
+        "title": "Why Oil’s Not at $200 After the Biggest Supply Shock in History",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/why-oils-not-at-200-after-the-biggest-supply-shock-in-history",
+        "published": "2026-06-06T12:21:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "Russia's oil major says US companies benefit from the closure of the Strait of Hormuz",
+        "title": "Trump tariffs changed taste of foods in U.S? Label checking reveals shocking details",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/business/russias-oil-major-says-us-companies-benefit-from-the-closure-of-the-strait-of-hormuz/articleshow/131547190.cms",
-        "published": "2026-06-06T09:58:53Z",
+        "url": "https://economictimes.indiatimes.com/news/international/us/trump-tariffs-changed-taste-of-foods-in-u-s-label-checking-reveals-shocking-details/articleshow/131551636.cms",
+        "published": "2026-06-06T12:19:14Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "What caused US drone strikes near Hormuz? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/what-caused-us-drone-strikes-near-hormuz",
+        "published": "2026-06-06T12:03:25Z",
         "sentiment": "danger"
       },
       {
-        "title": "PM Modi chairs key meet with Economic Advisory Council to asses impact of West Asia war",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/india/pm-modi-chairs-key-meet-with-economic-advisory-council-to-asses-impact-of-west-asia-war/articleshow/131548109.cms",
-        "published": "2026-06-06T08:54:06Z",
+        "title": "Iran urges UN to stop repeated US violations of ceasefire after attack on radar facilities",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260606-presstv04.htm",
+        "published": "2026-06-06T12:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "News24 | Botswana says US-disabled oil tanker was flying false flag",
-        "source": "News24",
-        "url": "https://www.news24.com/business/economy/botswana-says-us-disabled-oil-tanker-was-flying-false-flag-20260606-0506",
-        "published": "2026-06-06T08:39:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "ICC Secretary General: The Hormuz clock that matters isn’t diplomatic — it’s agricultural",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/06/hormuz-strait-closure-fertilizer-food-crisis-agriculture-john-denton/",
-        "published": "2026-06-06T07:00:00Z",
-        "sentiment": "watch"
+        "title": "Turkish fishing boat attacked off Crimea, leaving one dead",
+        "source": "RT",
+        "url": "https://www.rt.com/news/641116-turkish-boat-attacked-crimea/",
+        "published": "2026-06-06T11:49:25Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
