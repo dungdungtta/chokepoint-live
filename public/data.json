@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-07T21:46:25.534Z",
+    "generated_at": "2026-06-07T23:13:29.411Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "US eyes Iranian assets for Gulf reconstruction - sources",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/0607/1577148-iran-us-talks/",
+        "published": "2026-06-06T23:04:34Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Market Flying Blind as Dark Tanker Traffic Surges in Hormuz",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Oil-Market-Flying-Blind-as-Dark-Tanker-Traffic-Surges-in-Hormuz.html",
+        "published": "2026-06-06T23:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "President Trump: A second Obama?",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/428223",
+        "published": "2026-06-06T22:25:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US forces board sanctioned tanker Davina in Indian Ocean as crypto sanctions tighten on Iran",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/us-boards-sanctioned-tanker-davina-iran-crypto/",
@@ -39,27 +60,6 @@
         "url": "https://www.dailymail.com/yourmoney/article-15870721/trader-joes-shoppers-summer-price-hikes.html",
         "published": "2026-06-06T19:36:55Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "CSP Elite Baseball Development Podcast – Pinch Hit Friday #81: Joint Hypermobility, Psychosocial Stress, and Joint Loading",
-        "source": "Ericcressey.com",
-        "url": "https://ericcressey.com/csp-elite-baseball-development-podcast-pinch-hit-friday-81-joint-hypermobility-psychosocial-stress-joint-loading/",
-        "published": "2026-06-06T18:57:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran Fires Ballistic Missiles, Drones at Arab States as Conflict Approaches 100-Day Mark",
-        "source": "Legalinsurrection.com",
-        "url": "https://legalinsurrection.com/2026/06/iran-fires-ballistic-missiles-drones-at-arab-states-as-conflict-approaches-100-day-mark/",
-        "published": "2026-06-06T18:00:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "100 days into the war on Iran, Trump fails to rally US support",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support",
-        "published": "2026-06-06T17:04:38Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
