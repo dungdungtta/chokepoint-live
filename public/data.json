@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T22:45:14.560Z",
+    "generated_at": "2026-06-07T00:12:44.469Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Banks face N100m penalty for forex violations",
+        "source": "The Punch",
+        "url": "https://punchng.com/banks-face-n100m-penalty-for-forex-violations/",
+        "published": "2026-06-06T00:10:52Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US carries out another ‘defensive’ strike on Iranian island",
+        "source": "RT",
+        "url": "https://www.rt.com/news/641107-us-iran-qeshm-island-strike/",
+        "published": "2026-06-06T00:05:50Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "1985 BMW R80 at No Reserve",
         "source": "Bringatrailer.com",
         "url": "https://bringatrailer.com/listing/1985-bmw-r80g-s-2/",
@@ -38,27 +52,6 @@
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/06/05/russia-ukraine-zelensky-open-letter-putin-peace-talks-st-petersburg/",
         "published": "2026-06-05T20:23:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Forces See Nearly 1,000 Hormuz Crossings Since Ceasefire",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/us-forces-see-nearly-1000-hormuz-crossings-since-ceasefire",
-        "published": "2026-06-05T19:57:36Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Freight Rates Are Climbing Fast as Peak Shipping Season Kicks Off Early",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/freight-rates-early-peak-shipping-season-june-container-shipping-msc-drewry-1238997327/",
-        "published": "2026-06-05T17:54:53Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Committee renews call for Nigerian Coast Guard to boost maritime security",
-        "source": "The Punch",
-        "url": "https://punchng.com/committee-renews-call-for-nigerian-coast-guard-to-boost-maritime-security/",
-        "published": "2026-06-05T16:52:49Z",
         "sentiment": "watch"
       }
     ],
