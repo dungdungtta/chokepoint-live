@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-07T17:41:35.116Z",
+    "generated_at": "2026-06-07T18:58:39.264Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "CSP Elite Baseball Development Podcast – Pinch Hit Friday #81: Joint Hypermobility, Psychosocial Stress, and Joint Loading",
+        "source": "Ericcressey.com",
+        "url": "https://ericcressey.com/csp-elite-baseball-development-podcast-pinch-hit-friday-81-joint-hypermobility-psychosocial-stress-joint-loading/",
+        "published": "2026-06-06T18:57:14Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran Fires Ballistic Missiles, Drones at Arab States as Conflict Approaches 100-Day Mark",
+        "source": "Legalinsurrection.com",
+        "url": "https://legalinsurrection.com/2026/06/iran-fires-ballistic-missiles-drones-at-arab-states-as-conflict-approaches-100-day-mark/",
+        "published": "2026-06-06T18:00:31Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "100 days into the war on Iran, Trump fails to rally US support",
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support",
@@ -45,20 +59,6 @@
         "source": "CleanTechnica",
         "url": "https://cleantechnica.com/2026/06/06/ship-air-lubrication-air-isnt-free/",
         "published": "2026-06-06T15:53:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why oil’s not at $200 after the biggest supply shock in history",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/06/oil-prices-biggest-supply-shock-history-china-imports-inventories-us-exports/",
-        "published": "2026-06-06T15:26:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why oil’s not at $200 after the biggest supply shock in history",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/business/why-oils-not-at-200-after-the-biggest-supply-shock-in-history/articleshow/131554223.cms",
-        "published": "2026-06-06T14:50:07Z",
         "sentiment": "watch"
       }
     ],
