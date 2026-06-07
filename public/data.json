@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-07T16:01:02.324Z",
+    "generated_at": "2026-06-07T17:41:35.116Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "100 days into the war on Iran, Trump fails to rally US support",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support",
+        "published": "2026-06-06T17:04:38Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "396-Powered 1968 Chevrolet Camaro 5-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1968-chevrolet-camaro-430/",
+        "published": "2026-06-06T16:40:08Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Air Lubrication For Ships Is Real. The Air Still Isn’t Free.",
         "source": "CleanTechnica",
         "url": "https://cleantechnica.com/2026/06/06/ship-air-lubrication-air-isnt-free/",
@@ -45,20 +59,6 @@
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/international/business/why-oils-not-at-200-after-the-biggest-supply-shock-in-history/articleshow/131554223.cms",
         "published": "2026-06-06T14:50:07Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US strikes Iranian sites after Iran launches drones, in latest Gulf flare-up",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/us-strikes-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up/articleshow/131553553.cms",
-        "published": "2026-06-06T14:05:12Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "A single cotton T-shirt requires approximately 2,700 litres of water to produce, the equivalent of one person’s drinking water for two and a half years, and the global fashion industry now consumes approximately 79 billion cubic metres of fresh water annually, much of it drawn from regions already facing severe drought.",
-        "source": "Space Daily",
-        "url": "https://spacedaily.com/k-a-single-cotton-t-shirt-requires-approximately-2700-litres-of-water-to-produce-the-equivalent-of-one-persons-drinking-water-for-two-and-a-half-years-and-the-global-fashion-industry-now-consumes-ap/",
-        "published": "2026-06-06T13:00:34Z",
         "sentiment": "watch"
       }
     ],
