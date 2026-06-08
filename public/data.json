@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-08T15:00:17.026Z",
+    "generated_at": "2026-06-08T18:07:27.583Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "OPEC plans oil output hike despite Hormuz closure #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/opec-plans-oil-output-hike-despite-hormuz-closure",
+        "published": "2026-06-07T18:03:42Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump says he will press Israel to hold back after Iran retaliates for Beirut attack",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/trump-israel-iran-retaliate-beirut-attack-netanyahu-hold-back-6167551",
+        "published": "2026-06-07T17:14:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Pro Grade 5-Piece Paint Brush Set for $8 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/products/Pro-Grade-5-Piece-Paint-Brush-Set/328697.html",
+        "published": "2026-06-07T15:48:43Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran launches drones toward Strait of Hormuz as US shoots down four, Bitcoin slides below $73K",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/iran-drones-hormuz-bitcoin-drops/",
@@ -38,27 +59,6 @@
         "source": "NBC News",
         "url": "https://www.nbcnews.com/politics/donald-trump/fact-checking-trump-interview-meet-press-june-2026-rcna348518",
         "published": "2026-06-07T13:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Mideast conflict reaches 100th day, casting shadow over global economy",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260607-pdo01.htm",
-        "published": "2026-06-07T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ships paying up to $2 million under new maritime services plan in Hormuz: Report",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260607-presstv09.htm",
-        "published": "2026-06-07T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "It's one of the world's most isolated islands. Here come the bulldozers",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/06/07/g-s1-125586/island-isolated-india-great-nicobar-china-development",
-        "published": "2026-06-07T11:51:18Z",
         "sentiment": "watch"
       }
     ],
