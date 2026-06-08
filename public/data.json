@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-08T11:27:37.274Z",
+    "generated_at": "2026-06-08T15:00:17.026Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "US-Iran conflict marks 100th day with no end in sight",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/us-iran-conflict-marks-100th-day-with-no-end-in-sight-222985",
-        "published": "2026-06-07T11:06:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "My 10 early Prime Day beauty deal picks hit better than a good hair day",
-        "source": "New York Post",
-        "url": "https://nypost.com/shopping/early-prime-day-2026-beauty-deals/",
-        "published": "2026-06-07T10:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Shipping Professionals Eye Relocation From Dubai to Greece Amid Gulf Conflict",
-        "source": "Activistpost.com",
-        "url": "https://www.activistpost.com/shipping-professionals-eye-relocation-from-dubai-to-greece-amid-gulf-conflict/",
-        "published": "2026-06-07T10:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How have countries around the world responded to the US-Israel war on Iran?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/7/how-have-countries-around-the-world-responded-to-the-us-israel-war-on-iran",
-        "published": "2026-06-07T09:35:31Z",
+        "title": "Iran launches drones toward Strait of Hormuz as US shoots down four, Bitcoin slides below $73K",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-drones-hormuz-bitcoin-drops/",
+        "published": "2026-06-07T14:21:13Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran after 100 days of war: The triumph of survival",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/opinions/2026/6/7/iran-after-100-days-of-war-the-triumph-of-survival",
-        "published": "2026-06-07T08:52:20Z",
-        "sentiment": "danger"
+        "title": "Fact-checking Trump’s interview with NBC News’ ‘Meet the Press’",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/donald-trump/fact-checking-trump-interview-meet-press-june-2026-rcna348518",
+        "published": "2026-06-07T13:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Mideast conflict reaches 100th day, casting shadow over global economy",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260607-pdo01.htm",
+        "published": "2026-06-07T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Ships paying up to $2 million under new maritime services plan in Hormuz: Report",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260607-presstv09.htm",
+        "published": "2026-06-07T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "It's one of the world's most isolated islands. Here come the bulldozers",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/06/07/g-s1-125586/island-isolated-india-great-nicobar-china-development",
+        "published": "2026-06-07T11:51:18Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
