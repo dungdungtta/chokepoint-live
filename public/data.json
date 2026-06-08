@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-08T06:24:48.444Z",
+    "generated_at": "2026-06-08T11:27:37.274Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S. Treasury Sanctions Iran’s Nobitex Crypto Exchange Amid Regional Conflict",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-06-07-us-treasury-sanctions-iran-nobitex-crypto-exchange.html",
-        "published": "2026-06-07T06:00:00Z",
+        "title": "US-Iran conflict marks 100th day with no end in sight",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/us-iran-conflict-marks-100th-day-with-no-end-in-sight-222985",
+        "published": "2026-06-07T11:06:48Z",
         "sentiment": "watch"
       },
       {
-        "title": "By the numbers: 100 days of the US-Israel war on Iran",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/7/by-the-numbers-100-days-of-the-us-israel-war-on-iran",
-        "published": "2026-06-07T05:30:52Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US downs Iranian drones threatening maritime traffic in Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-downs-iranian-drones-threatening-maritime-traffic-in-strait-of-hormuz/",
-        "published": "2026-06-07T05:27:32Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "100 days of the Iran war: How global markets and the economy have been affected, in charts",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/07/iran-war-100-days-trump-stocks-sp500-bonds-oil.html",
-        "published": "2026-06-07T05:00:01Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "How many times were the US and Iran on the verge of a deal?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal",
-        "published": "2026-06-07T04:51:02Z",
+        "title": "My 10 early Prime Day beauty deal picks hit better than a good hair day",
+        "source": "New York Post",
+        "url": "https://nypost.com/shopping/early-prime-day-2026-beauty-deals/",
+        "published": "2026-06-07T10:30:00Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Shipping Professionals Eye Relocation From Dubai to Greece Amid Gulf Conflict",
+        "source": "Activistpost.com",
+        "url": "https://www.activistpost.com/shipping-professionals-eye-relocation-from-dubai-to-greece-amid-gulf-conflict/",
+        "published": "2026-06-07T10:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "How have countries around the world responded to the US-Israel war on Iran?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/7/how-have-countries-around-the-world-responded-to-the-us-israel-war-on-iran",
+        "published": "2026-06-07T09:35:31Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran after 100 days of war: The triumph of survival",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/6/7/iran-after-100-days-of-war-the-triumph-of-survival",
+        "published": "2026-06-07T08:52:20Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
