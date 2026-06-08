@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-08T18:07:27.583Z",
+    "generated_at": "2026-06-08T20:35:49.094Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Govt hikes domestic LPG prices by Rs 29 per cylinder",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/govt-hikes-domestic-lpg-prices-by-rs-29-per-cylinder/articleshow/131573729.cms",
+        "published": "2026-06-07T19:50:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US Central Command intercepts Iranian missiles, strikes radar sites in Strait of Hormuz escalation",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-missile-strikes-bitcoin-impact/",
+        "published": "2026-06-07T18:41:13Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "OPEC plans oil output hike despite Hormuz closure #world",
         "source": "Alltoc.com",
         "url": "https://alltoc.com/world/opec-plans-oil-output-hike-despite-hormuz-closure",
@@ -45,20 +59,6 @@
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/products/Pro-Grade-5-Piece-Paint-Brush-Set/328697.html",
         "published": "2026-06-07T15:48:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran launches drones toward Strait of Hormuz as US shoots down four, Bitcoin slides below $73K",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-drones-hormuz-bitcoin-drops/",
-        "published": "2026-06-07T14:21:13Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Fact-checking Trump’s interview with NBC News’ ‘Meet the Press’",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/donald-trump/fact-checking-trump-interview-meet-press-june-2026-rcna348518",
-        "published": "2026-06-07T13:00:00Z",
         "sentiment": "watch"
       }
     ],
