@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-08T22:16:36.479Z",
+    "generated_at": "2026-06-08T23:48:43.507Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Markets face triple threat of Iran war reigniting, AI bubble popping, and Fed rates rising while epic SpaceX IPO could fuel even more chaos",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/06/07/stock-market-today-dow-futures-iran-war-ai-bubble-fed-rates-spacex-ipo/",
+        "published": "2026-06-07T22:43:39Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Ukraine launches drone barrage on St. Petersburg after Putin rejects talks",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/ukraine-drone-strikes-st-petersburg-putin-rejects-talks/",
+        "published": "2026-06-07T22:41:23Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Oil prices climb more than $3 after Israeli strikes on Lebanon",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-prices-climb-more-3-after-israeli-strikes-lebanon-6167906",
+        "published": "2026-06-07T22:31:06Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Commentary: Iran war has raised inflation risks. Why are Asian economies still growing?",
         "source": "CNA",
         "url": "https://www.channelnewsasia.com/commentary/iran-war-stagflation-asia-economies-export-boom-ai-electronics-6164221",
@@ -39,30 +60,16 @@
         "url": "https://www.huffpost.com/entry/trump-demands-israel-hold-retaliation-iran-strikes-lebanon_n_6a25cde5e4b012c51770eb88",
         "published": "2026-06-07T21:54:31Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Iran launches multiple drones towards Strait of Hormuz as US shoots down four, rattling crypto markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-drones-strait-hormuz-crypto-impact/",
-        "published": "2026-06-07T21:27:28Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Israel strikes Beirut despite truce, prompting retaliation attempt from Iran",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/israel-strikes-beirut-despite-truce-prompting-retaliation-attempt-from-iran",
-        "published": "2026-06-07T21:26:19Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Govt hikes domestic LPG prices by Rs 29 per cylinder",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/govt-hikes-domestic-lpg-prices-by-rs-29-per-cylinder/articleshow/131573729.cms",
-        "published": "2026-06-07T19:50:17Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Revealed: Just how defenceless we would be if Putin DID attack Britain",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15881521/defenceless-Putin-attack-Britain-military-spending-Defence-Investment-Plan.html",
+        "published": "2026-06-07T23:26:17Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Taiwan coast guard 'expels' Chinese ships from restricted waters",
         "source": "Japan Today",
@@ -83,13 +90,6 @@
         "url": "https://freerepublic.com/focus/f-bloggers/4382535/posts",
         "published": "2026-06-06T03:46:13Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Why tensions between the US and its allies are now so critical: Reflections on competing coalition dynamics ahead of the G7 summit",
-        "source": "Europa.eu",
-        "url": "https://www.iss.europa.eu/publications/commentary/why-tensions-between-us-and-its-allies-are-now-so-critical-reflections",
-        "published": "2026-06-05T13:21:03Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
