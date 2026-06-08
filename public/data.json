@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-08T01:36:20.435Z",
+    "generated_at": "2026-06-08T06:24:48.444Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US weighs seizing Iranian assets to rebuild Gulf states hit by Tehran's attacks",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-weighs-seizing-iranian-assets-to-rebuild-gulf-states-hit-by-tehrans-attacks/articleshow/131560888.cms",
-        "published": "2026-06-07T00:34:11Z",
+        "title": "U.S. Treasury Sanctions Iran’s Nobitex Crypto Exchange Amid Regional Conflict",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-06-07-us-treasury-sanctions-iran-nobitex-crypto-exchange.html",
+        "published": "2026-06-07T06:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "By the numbers: 100 days of the US-Israel war on Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/7/by-the-numbers-100-days-of-the-us-israel-war-on-iran",
+        "published": "2026-06-07T05:30:52Z",
         "sentiment": "danger"
       },
       {
-        "title": "US Treasury sanctions network smuggling Iranian LPG to Asia",
+        "title": "US downs Iranian drones threatening maritime traffic in Strait of Hormuz",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-treasury-sanctions-iranian-lpg-smuggling-network/",
-        "published": "2026-06-07T00:10:18Z",
-        "sentiment": "watch"
+        "url": "https://cryptobriefing.com/us-downs-iranian-drones-threatening-maritime-traffic-in-strait-of-hormuz/",
+        "published": "2026-06-07T05:27:32Z",
+        "sentiment": "danger"
       },
       {
-        "title": "How did US respond to Iran missile drones? #world",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/how-did-us-respond-to-iran-missile-drones",
-        "published": "2026-06-07T00:03:29Z",
-        "sentiment": "watch"
+        "title": "100 days of the Iran war: How global markets and the economy have been affected, in charts",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/07/iran-war-100-days-trump-stocks-sp500-bonds-oil.html",
+        "published": "2026-06-07T05:00:01Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Marketing collateral key to customer satisfaction — Gift Imagination boss",
-        "source": "The Punch",
-        "url": "https://punchng.com/marketing-collateral-key-to-customer-satisfaction-gift-imagination-boss/",
-        "published": "2026-06-06T23:54:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Treasury designates network facilitating Iranian LPG smuggling to Asia",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/treasury-designates-iranian-lpg-smuggling-network/",
-        "published": "2026-06-06T23:22:02Z",
+        "title": "How many times were the US and Iran on the verge of a deal?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal",
+        "published": "2026-06-07T04:51:02Z",
         "sentiment": "watch"
       }
     ],
