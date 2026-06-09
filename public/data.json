@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-09T16:49:43.115Z",
+    "generated_at": "2026-06-09T19:23:05.145Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "US military disables vessel that violated Iran port blockade",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/us-military-disables-vessel-that-violated-iran-port-blockade/articleshow/131592500.cms",
-        "published": "2026-06-08T16:43:58Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US forces disable oil tanker M/T Marivex in Gulf of Oman amid tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-forces-disable-oil-tanker-mt-marivex-in-gulf-of-oman-amid-tensions/",
-        "published": "2026-06-08T16:35:33Z",
+        "title": "Israel and Iran end latest outbreak of fighting",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/06/08/israel-and-iran-end-latest-outbreak-of-fighting/",
+        "published": "2026-06-08T19:22:44Z",
         "sentiment": "watch"
       },
       {
-        "title": "Ship with Indian crew sinking off Oman after being hit by projectile – media",
-        "source": "RT",
-        "url": "https://www.rt.com/india/641263-ship-indian-crew-sinking/",
-        "published": "2026-06-08T16:29:37Z",
+        "title": "Trump vs. Iran: The one deal that he cannot make",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/428331",
+        "published": "2026-06-08T19:14:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "[SnS] $14.20 | 5-Qt Castrol GTX High Mileage 5W-20 Synthetic Blend Motor Oil at Amazon",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19606407-sns-14-20-5-qt-castrol-gtx-high-mileage-5w-20-synthetic-blend-motor-oil-at-amazon",
-        "published": "2026-06-08T16:29:02Z",
+        "title": "Fuel-Injected 1966 Dodge Charger 383",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1966-dodge-charger-55/",
+        "published": "2026-06-08T19:10:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump's Middle Eastern Ceasefire: Fiery But Mostly Peaceful",
-        "source": "Reason",
-        "url": "https://reason.com/2026/06/08/trumps-middle-eastern-ceasefire-fiery-but-mostly-peaceful/",
-        "published": "2026-06-08T15:56:07Z",
-        "sentiment": "neutral"
+        "title": "Shipping was a murky world, now it's gone 'dark' to cross the Strait of Hormuz",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-06-09/ships-crossing-strait-of-hormuz-iran-us-war/106749220",
+        "published": "2026-06-08T18:56:24Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "1966 Chevrolet Corvette Convertible L72 427/425 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1966-chevrolet-corvette-convertible-308/",
+        "published": "2026-06-08T18:55:21Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The AI superpower with no seat at the table",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-06-09/taiwan-artificial-intelligence-china-japan-nvidia/106772162",
+        "published": "2026-06-08T19:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Beijing’s Military Shadow Looms Large Over Key Taiwan Tech Conference",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/06/08/beijings-military-shadow-looms-large-over-computex-taipei-conference/",
+        "published": "2026-06-08T17:52:07Z",
+        "sentiment": "watch"
+      },
       {
         "title": "News24 | Taiwan labels Chinese Coast Guard patrols ‘provocative act’ as tensions escalate",
         "source": "News24",
@@ -82,20 +96,6 @@
         "source": "Globalsecurity.org",
         "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260608-rfa01.htm",
         "published": "2026-06-08T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Revealed: Just how defenceless we would be if Putin DID attack Britain",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15881521/defenceless-Putin-attack-Britain-military-spending-Defence-Investment-Plan.html",
-        "published": "2026-06-07T23:26:17Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Taiwan coast guard 'expels' Chinese ships from restricted waters",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/taiwan-coast-guard-%27expels%27-chinese-ships-from-restricted-waters",
-        "published": "2026-06-07T21:27:30Z",
         "sentiment": "watch"
       }
     ],
