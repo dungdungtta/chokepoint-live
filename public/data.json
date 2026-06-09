@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-09T08:04:34.454Z",
+    "generated_at": "2026-06-09T11:31:56.438Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Crude Oil Surges 4.3% to $94.39 as Geopolitical Tensions Boost Energy Markets",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/crude-oil-prices-surge-geopolitical-tensions-supply-concerns-1870306",
-        "published": "2026-06-08T06:28:08Z",
+        "title": "India says fire reported on oil tanker with 24 Indian sailors, all crew safe",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/india-says-fire-reported-on-oil-tanker-with-24-indian-sailors-all-crew-safe/article71076350.ece",
+        "published": "2026-06-08T11:19:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "From trickle to torrent: Hormuz reopening may trigger a global oil flood",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/hormuz-strait-reopening-oil-surge-looms-as-supply-restarts-post-war/articleshow/131579416.cms",
-        "published": "2026-06-08T06:27:22Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Oil market calm masks a host of unknowns",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-market-calm-masks-a-host-of-unknowns/articleshow/131580107.cms",
-        "published": "2026-06-08T06:18:08Z",
+        "title": "Houthis to Impose ‘Complete Ban’ on Israeli Ships in Red Sea",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/06/08/872860.htm",
+        "published": "2026-06-08T11:04:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil prices climb over $3 after Israeli strikes on Lebanon",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/0608/1577272-world-oil-prices/",
-        "published": "2026-06-08T06:13:15Z",
+        "title": "The U.S. Can’t Exclude China From Latin America",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/06/08/latin-america-us-china-national-security-strategic-displacement/",
+        "published": "2026-06-08T11:00:55Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Rupee slumps as elevated crude, Treasury yields support dollar",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slumps-as-elevated-crude-treasury-yields-support-dollar/articleshow/131586144.cms",
+        "published": "2026-06-08T10:55:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran War: Iran Launches New Strikes on Israel After Netanyahu Humiliated Trump by Ignoring Demand to Stand Pat; Ansar Allah Attacks Israel and Saudi Base, Makes Red Sea Threat; South Korea Swoon Adds to AI Meltdown",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/06/iran-war-iran-launches-new-strikes-on-israel-after-netanyahu-humiliated-trump-by-ignoring-demand-to-stand-pat-ansar-allah-attacks-israel-and-saudi-base-makes-red-sea-threat-south-korea-swoon-adds.html",
+        "published": "2026-06-08T10:54:01Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Why your takeaway coffee costs more than it did a few years ago",
-        "source": "RTE",
-        "url": "https://www.rte.ie/brainstorm/2026/0608/1576587-takeaway-coffee-price-supply-chain-economics-climate-change-inflation-vietnam/",
-        "published": "2026-06-08T06:08:37Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
