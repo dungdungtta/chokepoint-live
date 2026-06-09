@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-08T23:48:43.507Z",
+    "generated_at": "2026-06-09T04:15:12.537Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Markets face triple threat of Iran war reigniting, AI bubble popping, and Fed rates rising while epic SpaceX IPO could fuel even more chaos",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/07/stock-market-today-dow-futures-iran-war-ai-bubble-fed-rates-spacex-ipo/",
-        "published": "2026-06-07T22:43:39Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Ukraine launches drone barrage on St. Petersburg after Putin rejects talks",
+        "title": "US forces intercept Iranian missiles and drones near Strait of Hormuz, rattling global markets",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/ukraine-drone-strikes-st-petersburg-putin-rejects-talks/",
-        "published": "2026-06-07T22:41:23Z",
-        "sentiment": "neutral"
+        "url": "https://cryptobriefing.com/us-intercepts-iranian-missiles-strait-hormuz/",
+        "published": "2026-06-08T03:51:43Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Oil prices climb more than $3 after Israeli strikes on Lebanon",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-prices-climb-more-3-after-israeli-strikes-lebanon-6167906",
-        "published": "2026-06-07T22:31:06Z",
+        "title": "The Latest: Israel launches airstrikes on central and western Iran after Iranian missiles fired",
+        "source": "WJXT News4JAX",
+        "url": "https://www.news4jax.com/news/world/2026/06/08/the-latest-israel-launches-airstrikes-on-central-and-western-iran-after-iranian-missiles-fired/",
+        "published": "2026-06-08T03:23:40Z",
         "sentiment": "danger"
       },
       {
-        "title": "Commentary: Iran war has raised inflation risks. Why are Asian economies still growing?",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/commentary/iran-war-stagflation-asia-economies-export-boom-ai-electronics-6164221",
-        "published": "2026-06-07T22:00:00Z",
+        "title": "Iran demands $24B in frozen assets as US intercepts missiles and sanctions its largest crypto exchange",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-demands-24b-frozen-assets-crypto-sanctions/",
+        "published": "2026-06-08T03:03:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Israel strikes Iran despite Trump urging Netanyahu to hold off",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/israel-strikes-iran-despite-trump-urging-netanyahu-to-hold-off/article71075041.ece",
+        "published": "2026-06-08T03:02:02Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump Reportedly Demands Israel Hold Back Revenge Amid Iran's 'Warning' Strikes For Beirut",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/trump-demands-israel-hold-retaliation-iran-strikes-lebanon_n_6a25cde5e4b012c51770eb88",
-        "published": "2026-06-07T21:54:31Z",
+        "title": "Israel hits Iran with new strikes despite Trump admonition",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/israel-strikes-targets-in-iran-tehran-6168186",
+        "published": "2026-06-08T03:01:00Z",
         "sentiment": "danger"
       }
     ],
