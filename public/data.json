@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-09T14:07:06.099Z",
+    "generated_at": "2026-06-09T16:49:43.115Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "India says fire reported on oil tanker with 24 Indian sailors, all crew safe",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/logistics/india-says-fire-reported-on-oil-tanker-with-24-indian-sailors-all-crew-safe/article71076350.ece",
-        "published": "2026-06-08T13:54:59Z",
-        "sentiment": "watch"
+        "title": "US military disables vessel that violated Iran port blockade",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-military-disables-vessel-that-violated-iran-port-blockade/articleshow/131592500.cms",
+        "published": "2026-06-08T16:43:58Z",
+        "sentiment": "danger"
       },
       {
-        "title": "OPEC+ plans small oil output quota hike for July, but the Strait of Hormuz makes it mostly symbolic",
+        "title": "US forces disable oil tanker M/T Marivex in Gulf of Oman amid tensions",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/opec-plus-oil-output-quota-hike-july/",
-        "published": "2026-06-08T13:52:10Z",
+        "url": "https://cryptobriefing.com/us-forces-disable-oil-tanker-mt-marivex-in-gulf-of-oman-amid-tensions/",
+        "published": "2026-06-08T16:35:33Z",
         "sentiment": "watch"
       },
       {
-        "title": "Current price of oil as of June 8, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-06-08-2026/",
-        "published": "2026-06-08T13:11:21Z",
+        "title": "Ship with Indian crew sinking off Oman after being hit by projectile – media",
+        "source": "RT",
+        "url": "https://www.rt.com/india/641263-ship-indian-crew-sinking/",
+        "published": "2026-06-08T16:29:37Z",
         "sentiment": "watch"
       },
       {
-        "title": "Brent Climbs to $94 as Houthis Target Israeli Vessels in Red Sea",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Climbs-to-94-as-Houthis-Target-Israeli-Vessels-in-Red-Sea.html",
-        "published": "2026-06-08T12:30:00Z",
+        "title": "[SnS] $14.20 | 5-Qt Castrol GTX High Mileage 5W-20 Synthetic Blend Motor Oil at Amazon",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19606407-sns-14-20-5-qt-castrol-gtx-high-mileage-5w-20-synthetic-blend-motor-oil-at-amazon",
+        "published": "2026-06-08T16:29:02Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran, Israel exchange fire in first clash since truce",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/iran-israel-exchange-fire-in-first-clash-since-truce-223036",
-        "published": "2026-06-08T12:19:00Z",
-        "sentiment": "watch"
+        "title": "Trump's Middle Eastern Ceasefire: Fiery But Mostly Peaceful",
+        "source": "Reason",
+        "url": "https://reason.com/2026/06/08/trumps-middle-eastern-ceasefire-fiery-but-mostly-peaceful/",
+        "published": "2026-06-08T15:56:07Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
