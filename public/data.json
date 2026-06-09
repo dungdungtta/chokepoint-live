@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-09T21:20:12.422Z",
+    "generated_at": "2026-06-09T23:01:19.623Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "[SnS, AC] $10.96* | 8-Pk 5-Oz Genova Premium Wild Caught Yellowfin Canned Tuna (Olive Oil) at Amazon (3 replies)",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19607259-sns-ac-10-96-8-pk-5-oz-genova-premium-wild-caught-yellowfin-canned-tuna-olive-oil-at-amazon",
-        "published": "2026-06-08T20:33:19Z",
+        "title": "Risks to Red Sea Oil Exports Could Roil Oil Market Further",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Risks-to-Red-Sea-Oil-Exports-Could-Roil-Oil-Market-Further.html",
+        "published": "2026-06-08T23:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US carriers spent $6.5B on fuel in April; global profit forecast is cut nearly in half",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/us-carriers-spent-65b-fuel-april-global-profit-133692687",
-        "published": "2026-06-08T20:19:27Z",
+        "title": "Why Coles and Woodside shares are being tipped as buys",
+        "source": "Motley Fool Australia",
+        "url": "https://www.fool.com.au/2026/06/09/why-coles-and-woodside-shares-are-being-tipped-as-buys/",
+        "published": "2026-06-08T22:58:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "US airline fuel bill spikes 78% as global profit outlook is slashed",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/jet-fuel-airlines-iran-war-fbcdb0882feaf57045555a586a1a3d8b",
-        "published": "2026-06-08T20:05:26Z",
+        "title": "Iran-Backed Houthi Terrorists Threaten to ‘Ban’ Israel from Red Sea",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/06/08/iran-backed-houthi-terrorists-threaten-to-ban-israel-from-red-sea/",
+        "published": "2026-06-08T22:42:06Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "1964 Jaguar XKE Series 1 3.8 Roadster",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1964-jaguar-e-type-series-1-roadster-7/",
+        "published": "2026-06-08T22:27:23Z",
         "sentiment": "watch"
       },
       {
-        "title": "Castrol GTX High Mileage 5W-20 Synthetic Blend 5-Qt. Motor Oil for $14 via Sub & Save + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/products/Castrol/GTX-High-Mileage-5-W-20-Synthetic-Blend-5-Qt-Motor-Oil/499078.html",
-        "published": "2026-06-08T20:01:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Climbs as Israel, Iran Pause",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_climbs_as_israel_iran_pause-08-jun-2026-183880-article/",
-        "published": "2026-06-08T19:58:07Z",
+        "title": "Save your skin, protect your wallet: 7 SPF early Prime Day deals",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/06/08/shopping/save-on-sunscreen-7-deals-were-shopping-before-prime-day/",
+        "published": "2026-06-08T22:11:07Z",
         "sentiment": "watch"
       }
     ],
