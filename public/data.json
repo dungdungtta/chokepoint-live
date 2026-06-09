@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-09T11:31:56.438Z",
+    "generated_at": "2026-06-09T14:07:06.099Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -29,40 +29,61 @@
       {
         "title": "India says fire reported on oil tanker with 24 Indian sailors, all crew safe",
         "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/india-says-fire-reported-on-oil-tanker-with-24-indian-sailors-all-crew-safe/article71076350.ece",
-        "published": "2026-06-08T11:19:18Z",
+        "url": "https://www.thehindubusinessline.com/economy/logistics/india-says-fire-reported-on-oil-tanker-with-24-indian-sailors-all-crew-safe/article71076350.ece",
+        "published": "2026-06-08T13:54:59Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthis to Impose ‘Complete Ban’ on Israeli Ships in Red Sea",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/06/08/872860.htm",
-        "published": "2026-06-08T11:04:21Z",
+        "title": "OPEC+ plans small oil output quota hike for July, but the Strait of Hormuz makes it mostly symbolic",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/opec-plus-oil-output-quota-hike-july/",
+        "published": "2026-06-08T13:52:10Z",
         "sentiment": "watch"
       },
       {
-        "title": "The U.S. Can’t Exclude China From Latin America",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/06/08/latin-america-us-china-national-security-strategic-displacement/",
-        "published": "2026-06-08T11:00:55Z",
+        "title": "Current price of oil as of June 8, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-06-08-2026/",
+        "published": "2026-06-08T13:11:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "Rupee slumps as elevated crude, Treasury yields support dollar",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slumps-as-elevated-crude-treasury-yields-support-dollar/articleshow/131586144.cms",
-        "published": "2026-06-08T10:55:31Z",
+        "title": "Brent Climbs to $94 as Houthis Target Israeli Vessels in Red Sea",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Climbs-to-94-as-Houthis-Target-Israeli-Vessels-in-Red-Sea.html",
+        "published": "2026-06-08T12:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran War: Iran Launches New Strikes on Israel After Netanyahu Humiliated Trump by Ignoring Demand to Stand Pat; Ansar Allah Attacks Israel and Saudi Base, Makes Red Sea Threat; South Korea Swoon Adds to AI Meltdown",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/06/iran-war-iran-launches-new-strikes-on-israel-after-netanyahu-humiliated-trump-by-ignoring-demand-to-stand-pat-ansar-allah-attacks-israel-and-saudi-base-makes-red-sea-threat-south-korea-swoon-adds.html",
-        "published": "2026-06-08T10:54:01Z",
-        "sentiment": "danger"
+        "title": "Iran, Israel exchange fire in first clash since truce",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/iran-israel-exchange-fire-in-first-clash-since-truce-223036",
+        "published": "2026-06-08T12:19:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "News24 | Taiwan labels Chinese Coast Guard patrols ‘provocative act’ as tensions escalate",
+        "source": "News24",
+        "url": "https://www.news24.com/world/taiwan-labels-chinese-coast-guard-patrols-provocative-act-as-tensions-escalate-20260608-0357",
+        "published": "2026-06-08T12:41:14Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Joint media statement - Australia-Germany 2+2 Ministerial Consultations",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/australia/2026/australia-260608-aumfa01.htm",
+        "published": "2026-06-08T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Report: China's maritime outposts could distract Taiwan's allies if Beijing invades",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260608-rfa01.htm",
+        "published": "2026-06-08T12:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Revealed: Just how defenceless we would be if Putin DID attack Britain",
         "source": "Dailymail.com",
@@ -76,20 +97,6 @@
         "url": "https://japantoday.com/category/world/taiwan-coast-guard-%27expels%27-chinese-ships-from-restricted-waters",
         "published": "2026-06-07T21:27:30Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran targets Bahrain and Kuwait after renewed US strikes",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/iran-targets-bahrain-and-kuwait-after-renewed-us-strikes/articleshow/131548737.cms",
-        "published": "2026-06-06T09:52:34Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "News Summary-Intelligence Report 6/5/2026*Newsdump Friday*Israeli Troops Kill Seven-Month-Old*Iran War Sparks*NASDAQ Led Wall Street Drop*Illinois Governor Data Center*War Lebanon*Drone Explosion Romania*US Sanctions Cuban Pres*Guilty Plea Chinese...*",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-bloggers/4382535/posts",
-        "published": "2026-06-06T03:46:13Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
