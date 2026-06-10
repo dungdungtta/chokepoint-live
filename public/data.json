@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-10T22:17:47.374Z",
+    "generated_at": "2026-06-10T23:58:38.659Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "Cuba Poised for Biggest US Fuel Shipment Since Cold War Embargo",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/cuba-poised-for-biggest-us-fuel-shipment-since-cold-war-embargo",
+        "published": "2026-06-09T23:52:48Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US strikes Iranian radar sites as crypto markets brace for more volatility",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-strikes-iran-radar-crypto-volatility/",
+        "published": "2026-06-09T23:19:17Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US EIA warns oil inventories are approaching multi-decade lows",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/eia-warns-oil-inventories-multi-decade-lows/",
+        "published": "2026-06-09T23:16:18Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US airstrikes target Iranian naval bases and missile sites as crypto markets reel",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-airstrikes-iran-crypto-market-impact/",
+        "published": "2026-06-09T23:00:37Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Commentary: Renewed hostilities in the Middle East is a question of when, not if",
         "source": "CNA",
         "url": "https://www.channelnewsasia.com/commentary/iran-war-israel-strikes-hezbollah-donald-trump-peace-deal-6171031",
         "published": "2026-06-09T21:59:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How the Iran war could drive conflicts in countries thousands of miles away",
-        "source": "Vox",
-        "url": "https://www.vox.com/politics/491389/food-fuel-price-shocks-instability-protests-riots",
-        "published": "2026-06-09T21:50:20Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump Says Iran Downed Apache Helicopter, US Must React",
-        "source": "Daily Signal",
-        "url": "https://www.dailysignal.com/2026/06/09/trump-says-iran-downed-apache-helicopter-us-must-react/",
-        "published": "2026-06-09T21:42:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US crude falls 3% to $88.20 per barrel as Middle East tensions ease",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-crude-falls-oil-price-crypto-impact/",
-        "published": "2026-06-09T21:30:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump says Iran downed Apache helicopter, U.S. must react",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/trump-says-iran-downed-apache-helicopter-us-must-react2",
-        "published": "2026-06-09T21:27:29Z",
         "sentiment": "watch"
       }
     ],
