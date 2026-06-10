@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-10T19:59:52.777Z",
+    "generated_at": "2026-06-10T22:17:47.374Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Futures Volatility Returns",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_futures_volatility_returns-09-jun-2026-183888-article/",
-        "published": "2026-06-09T19:47:29Z",
+        "title": "Commentary: Renewed hostilities in the Middle East is a question of when, not if",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/commentary/iran-war-israel-strikes-hezbollah-donald-trump-peace-deal-6171031",
+        "published": "2026-06-09T21:59:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "UK urges swift US-Iran deal to fully reopen Strait of Hormuz without tolls",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/uk-us-iran-strait-hormuz-bitcoin-tolls/",
-        "published": "2026-06-09T19:08:04Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Marivex crew issues distress call after US missile strike off Oman",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/marivex-us-missile-strike-oman-iran-blockade/",
-        "published": "2026-06-09T18:55:48Z",
+        "title": "How the Iran war could drive conflicts in countries thousands of miles away",
+        "source": "Vox",
+        "url": "https://www.vox.com/politics/491389/food-fuel-price-shocks-instability-protests-riots",
+        "published": "2026-06-09T21:50:20Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump vows response after Iran shoots down US helicopter",
-        "source": "The Punch",
-        "url": "https://punchng.com/trump-vows-response-after-iran-shoots-down-us-helicopter/",
-        "published": "2026-06-09T18:51:59Z",
+        "title": "Trump Says Iran Downed Apache Helicopter, US Must React",
+        "source": "Daily Signal",
+        "url": "https://www.dailysignal.com/2026/06/09/trump-says-iran-downed-apache-helicopter-us-must-react/",
+        "published": "2026-06-09T21:42:49Z",
         "sentiment": "watch"
       },
       {
-        "title": "Prime Members: 360-Count LitBear Day & Night Acne Pimple Patches $4.04 w/ S&S + Free Shipping",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19610643-prime-members-360-count-litbear-day-night-acne-pimple-patches-4-04-w-s-s-free-shipping",
-        "published": "2026-06-09T18:16:47Z",
+        "title": "US crude falls 3% to $88.20 per barrel as Middle East tensions ease",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-crude-falls-oil-price-crypto-impact/",
+        "published": "2026-06-09T21:30:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump says Iran downed Apache helicopter, U.S. must react",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/trump-says-iran-downed-apache-helicopter-us-must-react2",
+        "published": "2026-06-09T21:27:29Z",
         "sentiment": "watch"
       }
     ],
