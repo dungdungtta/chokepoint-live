@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-10T01:32:20.088Z",
+    "generated_at": "2026-06-10T06:07:34.417Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Anduril CEO Brian Schimpf says economic warfare is the ‘new normal’ for military conflicts—and the U.S. needs to get serious",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/08/anduril-ceo-brian-schimpf-economic-warfare-brainstorm-tech-iran/",
-        "published": "2026-06-09T00:03:21Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Netanyahu Defies Trump and Strikes Back at Iran – But Can He Take on Tehran Without the US?",
-        "source": "Antiwar.com",
-        "url": "https://original.antiwar.com/trita-parsi/2026/06/08/netanyahu-defies-trump-and-strikes-back-at-iran-but-can-he-take-on-tehran-without-the-us/",
-        "published": "2026-06-09T00:00:18Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Global Trade Chokepoints From An Ocean Carrier’s Perspective",
-        "source": "Hoover.org",
-        "url": "https://www.hoover.org/research/global-trade-chokepoints-ocean-carriers-perspective",
-        "published": "2026-06-09T00:00:00Z",
+        "title": "Why were U.S. pilots said to be fine #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/why-were-u-s-pilots-said-to-be-fine",
+        "published": "2026-06-09T06:03:29Z",
         "sentiment": "watch"
       },
       {
-        "title": "Is India A Hinge State?",
-        "source": "Hoover.org",
-        "url": "https://www.hoover.org/research/india-hinge-state",
-        "published": "2026-06-09T00:00:00Z",
+        "title": "Trump says in 'final throes' of reaching Middle East peace deal",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/trump-iran-middle-east-peace-deal-final-throes-6170706",
+        "published": "2026-06-09T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Freedom Of Navigation In An Age Of Precision Disruption",
-        "source": "Hoover.org",
-        "url": "https://www.hoover.org/research/freedom-navigation-age-precision-disruption",
-        "published": "2026-06-09T00:00:00Z",
+        "title": "Vance declares U.S. will pursue Iran nuclear deal with or without Israel’s approval",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-06-09-vance-iran-nuclear-deal-israel-approval.html",
+        "published": "2026-06-09T06:00:00Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Restore Whale Pastures. Bring Whales Back. Keep Them Safe. Empower their herds to grow back to historic health and abundance. Do it now!",
+        "source": "Linkedin.com",
+        "url": "https://www.linkedin.com/pulse/restore-whale-pastures-bring-whales-back-keep-them-safe-russ-george-rxmyc",
+        "published": "2026-06-09T05:57:03Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump Says Peace Talks on Track After Israel-Iran Clashes End",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/sectors/energy/articles/trump-says-peace-talks-track-055623805.html",
+        "published": "2026-06-09T05:56:23Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
@@ -90,13 +90,6 @@
         "url": "https://www.news24.com/world/taiwan-labels-chinese-coast-guard-patrols-provocative-act-as-tensions-escalate-20260608-0357",
         "published": "2026-06-08T12:41:14Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Joint media statement - Australia-Germany 2+2 Ministerial Consultations",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/australia/2026/australia-260608-aumfa01.htm",
-        "published": "2026-06-08T12:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
