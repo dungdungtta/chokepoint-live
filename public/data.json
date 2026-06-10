@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-06-10T14:04:09.834Z",
+    "generated_at": "2026-06-10T17:36:59.544Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 98.29,
-      "change_pct": 5.8,
-      "date": "2026-06-01",
+      "price": 97.46,
+      "change_pct": 0.2,
+      "date": "2026-06-08",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "US missile strike on Marivex escalates tensions in Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-missile-strike-on-marivex-escalates-tensions-in-strait-of-hormuz/",
-        "published": "2026-06-09T13:52:56Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Cape Breton business leaders dream of reviving dormant rail line. Can the math work?",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/canada/nova-scotia/cape-breton-business-leaders-dream-of-reviving-dormant-rail-line-9.7228192",
-        "published": "2026-06-09T13:49:46Z",
+        "title": "Record petroleum exports help to shrink US trade deficit in April",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/economy/policy/articles/us-trade-deficit-narrows-april-124152789.html",
+        "published": "2026-06-09T17:09:23Z",
         "sentiment": "watch"
       },
       {
-        "title": "Why Europe Will Pay the Price for a US–Iran Escalation",
-        "source": "Fair Observer",
-        "url": "https://www.fairobserver.com/economics/why-europe-will-pay-the-price-for-a-us-iran-escalation/",
-        "published": "2026-06-09T13:46:05Z",
+        "title": "Trump suddenly finds himself in a perfect storm. Can he survive it?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-suddenly-finds-himself-in-a-perfect-storm-can-he-survive-it/articleshow/131615965.cms",
+        "published": "2026-06-09T17:09:14Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump blames Iran for Apache helicopter attack, says US must respond \"of necessity\"",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/trump-blames-iran-for-apache-helicopter-attack-says-us-must-respond-of-necessity/articleshow/131616050.cms",
+        "published": "2026-06-09T16:59:01Z",
         "sentiment": "danger"
       },
       {
-        "title": "Kuwait Offers Oil to Asian Buyers for First Time Since War",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/kuwait-offers-oil-to-asian-buyers-for-first-time-since-war/",
-        "published": "2026-06-09T13:20:52Z",
-        "sentiment": "danger"
+        "title": "THE SULTANATE OF OMAN CONSOLIDATES ITS POSITION AS A STABLE DESTINATION FOR GLOBAL CAPITAL",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/the-sultanate-of-oman-consolidates-its-position-as-a-stable-destination-for-global-capital-302795593.html",
+        "published": "2026-06-09T16:56:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "BP restructures into upstream and downstream units under new CEO",
-        "source": "Quartz India",
-        "url": "https://qz.com/bp-restructuring-upstream-downstream-units-new-ceo-060926",
-        "published": "2026-06-09T13:19:17Z",
+        "title": "Certified Refurb EcoFlow River 2 256Wh + 110W Solar Panel Solar Generator for $199 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Certified-Refurb-Eco-Flow-River-2-256-Wh-110-W-Solar-Panel-Solar-Generator-for-199-free-shipping/21839412.html",
+        "published": "2026-06-09T16:55:05Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "【6月10日】看軍聞學英語",
+        "source": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/6%E6%9C%8810%E6%97%A5-%E7%9C%8B%E8%BB%8D%E8%81%9E%E5%AD%B8%E8%8B%B1%E8%AA%9E-163000859.html",
+        "published": "2026-06-09T16:30:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Sensex today | Stock Market Highlights: Sensex gains 395 pts, Nifty rises to 23,242; Indigo, SBI top gainers",
         "source": "BusinessLine",
@@ -82,13 +89,6 @@
         "source": "Hoover.org",
         "url": "https://www.hoover.org/research/freedom-navigation-age-precision-disruption",
         "published": "2026-06-09T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The AI superpower with no seat at the table",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-06-09/taiwan-artificial-intelligence-china-japan-nvidia/106772162",
-        "published": "2026-06-08T19:00:00Z",
         "sentiment": "watch"
       }
     ],
