@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-10T06:07:34.417Z",
+    "generated_at": "2026-06-10T10:34:52.171Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Why were U.S. pilots said to be fine #world",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/why-were-u-s-pilots-said-to-be-fine",
-        "published": "2026-06-09T06:03:29Z",
+        "title": "Revival Einkorn Reintroduces The World’s First And Most Functional Wheat Back To American Diets",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/andrewwatman/2026/06/09/revival-einkorn-reintroduces-the-worlds-first-and-most-functional-wheat-back-to-american-diets/",
+        "published": "2026-06-09T10:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump says in 'final throes' of reaching Middle East peace deal",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/trump-iran-middle-east-peace-deal-final-throes-6170706",
-        "published": "2026-06-09T06:00:00Z",
+        "title": "Rupee gains as oil retreat soothes, inflow expectations erode weakening bias",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-gains-as-oil-retreat-soothes-inflow-expectations-erode-weakening-bias/articleshow/131608231.cms",
+        "published": "2026-06-09T10:25:23Z",
         "sentiment": "watch"
       },
       {
-        "title": "Vance declares U.S. will pursue Iran nuclear deal with or without Israel’s approval",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-06-09-vance-iran-nuclear-deal-israel-approval.html",
-        "published": "2026-06-09T06:00:00Z",
+        "title": "Rupee gains as oil retreat soothes, inflow expectations erode weakening bias",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/forex/rupee-gains-as-oil-retreat-soothes-inflow-expectations-erode-weakening-bias/article71080254.ece",
+        "published": "2026-06-09T10:17:40Z",
         "sentiment": "watch"
       },
       {
-        "title": "Restore Whale Pastures. Bring Whales Back. Keep Them Safe. Empower their herds to grow back to historic health and abundance. Do it now!",
-        "source": "Linkedin.com",
-        "url": "https://www.linkedin.com/pulse/restore-whale-pastures-bring-whales-back-keep-them-safe-russ-george-rxmyc",
-        "published": "2026-06-09T05:57:03Z",
+        "title": "Russia sanctions having an impact, top Irish diplomat says amid Aughinish Alumina pressure",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/politics/2026/06/09/russia-sanctions-having-an-impact-top-irish-diplomat-says-amid-alumina-pressure/",
+        "published": "2026-06-09T10:06:55Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Trump Says Peace Talks on Track After Israel-Iran Clashes End",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/sectors/energy/articles/trump-says-peace-talks-track-055623805.html",
-        "published": "2026-06-09T05:56:23Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "Sensex today | Stock Market Highlights: Sensex gains 395 pts, Nifty rises to 23,242; Indigo, SBI top gainers",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-9th-june-2026/article71076430.ece",
+        "published": "2026-06-09T10:30:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "American Power Is Wrung Out",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/06/09/iran-war-trump-china-united-states-military-defense-weapons-geopolitics-strategy-taiwan/",
+        "published": "2026-06-09T10:00:38Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Freedom Of Navigation In An Age Of Precision Disruption",
         "source": "Hoover.org",
@@ -76,20 +83,6 @@
         "url": "https://www.abc.net.au/news/2026-06-09/taiwan-artificial-intelligence-china-japan-nvidia/106772162",
         "published": "2026-06-08T19:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Beijing’s Military Shadow Looms Large Over Key Taiwan Tech Conference",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/06/08/beijings-military-shadow-looms-large-over-computex-taipei-conference/",
-        "published": "2026-06-08T17:52:07Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "News24 | Taiwan labels Chinese Coast Guard patrols ‘provocative act’ as tensions escalate",
-        "source": "News24",
-        "url": "https://www.news24.com/world/taiwan-labels-chinese-coast-guard-patrols-provocative-act-as-tensions-escalate-20260608-0357",
-        "published": "2026-06-08T12:41:14Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
