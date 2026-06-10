@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-10T10:34:52.171Z",
+    "generated_at": "2026-06-10T14:04:09.834Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Revival Einkorn Reintroduces The World’s First And Most Functional Wheat Back To American Diets",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/andrewwatman/2026/06/09/revival-einkorn-reintroduces-the-worlds-first-and-most-functional-wheat-back-to-american-diets/",
-        "published": "2026-06-09T10:30:00Z",
+        "title": "US missile strike on Marivex escalates tensions in Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-missile-strike-on-marivex-escalates-tensions-in-strait-of-hormuz/",
+        "published": "2026-06-09T13:52:56Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Cape Breton business leaders dream of reviving dormant rail line. Can the math work?",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/canada/nova-scotia/cape-breton-business-leaders-dream-of-reviving-dormant-rail-line-9.7228192",
+        "published": "2026-06-09T13:49:46Z",
         "sentiment": "watch"
       },
       {
-        "title": "Rupee gains as oil retreat soothes, inflow expectations erode weakening bias",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-gains-as-oil-retreat-soothes-inflow-expectations-erode-weakening-bias/articleshow/131608231.cms",
-        "published": "2026-06-09T10:25:23Z",
-        "sentiment": "watch"
+        "title": "Why Europe Will Pay the Price for a US–Iran Escalation",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/economics/why-europe-will-pay-the-price-for-a-us-iran-escalation/",
+        "published": "2026-06-09T13:46:05Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Rupee gains as oil retreat soothes, inflow expectations erode weakening bias",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/forex/rupee-gains-as-oil-retreat-soothes-inflow-expectations-erode-weakening-bias/article71080254.ece",
-        "published": "2026-06-09T10:17:40Z",
-        "sentiment": "watch"
+        "title": "Kuwait Offers Oil to Asian Buyers for First Time Since War",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/kuwait-offers-oil-to-asian-buyers-for-first-time-since-war/",
+        "published": "2026-06-09T13:20:52Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Russia sanctions having an impact, top Irish diplomat says amid Aughinish Alumina pressure",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/politics/2026/06/09/russia-sanctions-having-an-impact-top-irish-diplomat-says-amid-alumina-pressure/",
-        "published": "2026-06-09T10:06:55Z",
+        "title": "BP restructures into upstream and downstream units under new CEO",
+        "source": "Quartz India",
+        "url": "https://qz.com/bp-restructuring-upstream-downstream-units-new-ceo-060926",
+        "published": "2026-06-09T13:19:17Z",
         "sentiment": "watch"
       }
     ],
