@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-11T17:02:32.108Z",
+    "generated_at": "2026-06-11T19:46:41.233Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Chaotic co-op, cozy bug collecting, and a brutal bullet hell: these 5 ID@Xbox titles have dominated my gaming sessions this month (and they should take over yours, too!)",
-        "source": "Windows Central",
-        "url": "https://www.windowscentral.com/gaming/indies-idxbox/id-xbox-indie-june-roundup-2026",
-        "published": "2026-06-10T16:57:58Z",
+        "title": "Trump keeps saying an Iran deal is close. Markets keep believing it",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/10/trump-iran-deal-oil-markets-stocks.html",
+        "published": "2026-06-10T19:24:48Z",
         "sentiment": "watch"
       },
       {
-        "title": "First Seafarer Casualties Reported in U.S. Iran Blockade Enforcement Campaign",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/first-seafarer-casualties-reported-in-u-s-iran-blockade-enforcement-campaign/",
-        "published": "2026-06-10T16:57:38Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump vows fresh Iran strikes after 'playing us for suckers'",
+        "title": "India summons US diplomat over ship strike off near Oman",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/trump-vows-fresh-iran-strikes-after-playing-us-for-suckers/articleshow/131640284.cms",
-        "published": "2026-06-10T16:50:32Z",
+        "url": "https://economictimes.indiatimes.com/news/india/india-summons-us-diplomat-over-ship-strike-off-near-oman/articleshow/131643550.cms",
+        "published": "2026-06-10T19:05:22Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil Tankers Go Dark to Sneak More Barrels of Oil Through Hormuz",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/06/10/873286.htm",
-        "published": "2026-06-10T16:47:53Z",
+        "title": "Brazil ready to ramp up crude supplies to India as Iran war disrupts gulf flows",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/brazil-ready-to-ramp-up-crude-supplies-to-india-as-iran-war-disrupts-gulf-flows/articleshow/131642959.cms",
+        "published": "2026-06-10T18:48:05Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "‘I love the inflation’: Trump is ‘not concerned’ about inflation hitting 4% for the first time since 2023. ‘The numbers were great’",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/06/10/trump-inflation-love-the-numbers-iran-war/",
+        "published": "2026-06-10T18:44:40Z",
         "sentiment": "watch"
       },
       {
-        "title": "Walmart Motor Oil Savings for From $5 + free shipping w/ $35",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Walmart-Motor-Oil-Savings-for-From-5-free-shipping-w-35/21839708.html",
-        "published": "2026-06-10T16:47:30Z",
+        "title": "Analysts expected oil to surge above $200 but China has quietly kept prices half of that—and can’t for much longer",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/06/10/oil-prices-stable-china-imports-strait-of-hormuz-iran-war/",
+        "published": "2026-06-10T18:10:50Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Joint Statement from UK and Australia on the Australia-UK Ministerial Consultations: 10 June 2026",
+        "source": "Www.gov.uk",
+        "url": "https://www.gov.uk/government/news/joint-statement-from-uk-and-australia-on-the-australia-uk-ministerial-consultations-10-june-2026",
+        "published": "2026-06-10T19:25:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan test-fires rockets in China’s direction from US-supplied mobile launching system | CNN",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/06/10/asia/taiwan-test-fires-rockets-china-intl-latam",
+        "published": "2026-06-10T19:01:16Z",
+        "sentiment": "watch"
+      },
       {
         "title": "News24 | Taiwan takes aim at China with HIMARS in asymmetric warfare drill",
         "source": "News24",
@@ -82,20 +96,6 @@
         "source": "NPR",
         "url": "https://www.npr.org/2026/06/10/g-s1-127253/taiwan-drills-with-us-rocket-system-firing-in-chinas-direction",
         "published": "2026-06-10T15:29:24Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Joint Statement from UK and Australia on the Australia-UK Ministerial Consultations: 10 June 2026",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/uk/2026/uk-260610-ukmod01.htm",
-        "published": "2026-06-10T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Sensex today | Stock Market Highlights: Sensex, Nifty end flat as early gains fade; gold prices slide sharply",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-10th-june-2026/article71081121.ece",
-        "published": "2026-06-10T10:37:18Z",
         "sentiment": "watch"
       }
     ],
