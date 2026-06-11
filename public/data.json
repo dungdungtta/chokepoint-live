@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-11T19:46:41.233Z",
+    "generated_at": "2026-06-11T22:07:36.172Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump keeps saying an Iran deal is close. Markets keep believing it",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/10/trump-iran-deal-oil-markets-stocks.html",
-        "published": "2026-06-10T19:24:48Z",
+        "title": "Trump has new take on higher cost of living: 'I love the inflation'",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/trump-has-a-new-surprising-take-on-the-higher-cost-of-living-%27i-love-the-inflation%27",
+        "published": "2026-06-10T21:31:52Z",
         "sentiment": "watch"
       },
       {
-        "title": "India summons US diplomat over ship strike off near Oman",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/india/india-summons-us-diplomat-over-ship-strike-off-near-oman/articleshow/131643550.cms",
-        "published": "2026-06-10T19:05:22Z",
+        "title": "Trump threatens to attack Iran 'very hard' following latest hostilities",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/trump-threatens-to-attack-iran-%27very-hard%27-following-latest-hostilities",
+        "published": "2026-06-10T21:30:22Z",
         "sentiment": "danger"
       },
       {
-        "title": "Brazil ready to ramp up crude supplies to India as Iran war disrupts gulf flows",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/brazil-ready-to-ramp-up-crude-supplies-to-india-as-iran-war-disrupts-gulf-flows/articleshow/131642959.cms",
-        "published": "2026-06-10T18:48:05Z",
+        "title": "Trump Says More Strikes on Iran Are Coming",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/06/10/trump-us-strikes-iran-apache-helicopter-negotiations/",
+        "published": "2026-06-10T21:10:51Z",
         "sentiment": "danger"
       },
       {
-        "title": "‘I love the inflation’: Trump is ‘not concerned’ about inflation hitting 4% for the first time since 2023. ‘The numbers were great’",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/10/trump-inflation-love-the-numbers-iran-war/",
-        "published": "2026-06-10T18:44:40Z",
+        "title": "Trump has a new, surprising take on the higher cost of living: 'I love the inflation'",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/trump-new-surprising-higher-cost-living-love-inflation-133762568",
+        "published": "2026-06-10T21:07:40Z",
         "sentiment": "watch"
       },
       {
-        "title": "Analysts expected oil to surge above $200 but China has quietly kept prices half of that—and can’t for much longer",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/10/oil-prices-stable-china-imports-strait-of-hormuz-iran-war/",
-        "published": "2026-06-10T18:10:50Z",
+        "title": "Trump embraces inflation after a new report shows it's spiking",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/trump-love-inflation-democrats-affordability-midterms-603791c93c785221dae8be6df14d807d",
+        "published": "2026-06-10T20:53:20Z",
         "sentiment": "watch"
       }
     ],
