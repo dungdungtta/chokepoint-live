@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-11T13:03:27.792Z",
+    "generated_at": "2026-06-11T17:02:32.108Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -12,9 +12,9 @@
       "unit": "USD/bbl"
     },
     "freight": {
-      "freight_index": 183.2,
-      "change_pct": 4.5,
-      "date": "2026-04-01",
+      "freight_index": 185.4,
+      "change_pct": 1.9,
+      "date": "2026-05-01",
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
@@ -27,35 +27,63 @@
   "news": {
     "hormuz": [
       {
-        "title": "Is Iran plotting something big in U.S., Europe? Details here",
+        "title": "Chaotic co-op, cozy bug collecting, and a brutal bullet hell: these 5 ID@Xbox titles have dominated my gaming sessions this month (and they should take over yours, too!)",
+        "source": "Windows Central",
+        "url": "https://www.windowscentral.com/gaming/indies-idxbox/id-xbox-indie-june-roundup-2026",
+        "published": "2026-06-10T16:57:58Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "First Seafarer Casualties Reported in U.S. Iran Blockade Enforcement Campaign",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/first-seafarer-casualties-reported-in-u-s-iran-blockade-enforcement-campaign/",
+        "published": "2026-06-10T16:57:38Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump vows fresh Iran strikes after 'playing us for suckers'",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/is-iran-plotting-something-big-in-u-s-europe-details-here/articleshow/131636383.cms",
-        "published": "2026-06-10T13:02:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "New Red Sea Threats ‘Would Not Change Much for Freight’",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/red-sea-houthis-threats-strait-of-hormuz-iran-war-container-shipping-israeli-ban-1239003846/",
-        "published": "2026-06-10T13:00:00Z",
+        "url": "https://economictimes.indiatimes.com/news/defence/trump-vows-fresh-iran-strikes-after-playing-us-for-suckers/articleshow/131640284.cms",
+        "published": "2026-06-10T16:50:32Z",
         "sentiment": "danger"
       },
       {
-        "title": "Inflation rises to 3-year high on spiking gas prices, grocery costs",
-        "source": "Boston Herald",
-        "url": "https://www.bostonherald.com/2026/06/10/inflation-gas-prices-may/",
-        "published": "2026-06-10T12:52:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Two Crew Missing After Suspected US Strike on Tanker off Oman",
+        "title": "Oil Tankers Go Dark to Sneak More Barrels of Oil Through Hormuz",
         "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/06/10/873184.htm",
-        "published": "2026-06-10T12:31:07Z",
-        "sentiment": "danger"
+        "url": "https://www.insurancejournal.com/news/international/2026/06/10/873286.htm",
+        "published": "2026-06-10T16:47:53Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Walmart Motor Oil Savings for From $5 + free shipping w/ $35",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Walmart-Motor-Oil-Savings-for-From-5-free-shipping-w-35/21839708.html",
+        "published": "2026-06-10T16:47:30Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "News24 | Taiwan takes aim at China with HIMARS in asymmetric warfare drill",
+        "source": "News24",
+        "url": "https://www.news24.com/world/taiwan-takes-aim-at-china-with-himars-in-asymmetric-warfare-drill-20260610-0992",
+        "published": "2026-06-10T16:32:55Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Taiwan fires battle-tested rockets in anti-invasion drill",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/06/10/world-news/taiwan-fires-battle-tested-rockets-in-anti-invasion-drill/",
+        "published": "2026-06-10T15:35:48Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan drills with U.S. rocket system, firing in China's direction",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/06/10/g-s1-127253/taiwan-drills-with-us-rocket-system-firing-in-chinas-direction",
+        "published": "2026-06-10T15:29:24Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Joint Statement from UK and Australia on the Australia-UK Ministerial Consultations: 10 June 2026",
         "source": "Globalsecurity.org",
@@ -68,27 +96,6 @@
         "source": "BusinessLine",
         "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-10th-june-2026/article71081121.ece",
         "published": "2026-06-10T10:37:18Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan fires rockets in China's direction from a US-supplied mobile launching system in drill",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Technology/wireStory/taiwan-fires-rockets-chinas-direction-us-supplied-mobile-133739379",
-        "published": "2026-06-10T10:34:02Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan fires rockets in China's direction from a U.S.-supplied mobile launching system in drill",
-        "source": "seattlepi.com",
-        "url": "https://www.seattlepi.com/news/world/article/taiwan-fires-rockets-in-china-s-direction-from-a-22298937.php",
-        "published": "2026-06-10T09:36:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan fires US-supplied HIMARS into waters facing China in first live-fire test",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/taiwan-fires-himars-china-strait/",
-        "published": "2026-06-10T09:21:16Z",
         "sentiment": "watch"
       }
     ],
