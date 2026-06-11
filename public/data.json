@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-11T09:17:23.276Z",
+    "generated_at": "2026-06-11T13:03:27.792Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,68 +27,68 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran targets US bases in Jordan and the Gulf after Trump orders strikes near Hormuz",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/06/10/world-news/iran-targets-us-bases-in-jordan-and-the-gulf-after-trump-orders-strikes-near-hormuz/",
-        "published": "2026-06-10T08:59:50Z",
+        "title": "Is Iran plotting something big in U.S., Europe? Details here",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/is-iran-plotting-something-big-in-u-s-europe-details-here/articleshow/131636383.cms",
+        "published": "2026-06-10T13:02:57Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "New Red Sea Threats ‘Would Not Change Much for Freight’",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/red-sea-houthis-threats-strait-of-hormuz-iran-war-container-shipping-israeli-ban-1239003846/",
+        "published": "2026-06-10T13:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil steady as investors weigh renewed US-Iran fighting",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/0610/1577695-world-oil-prices/",
-        "published": "2026-06-10T08:57:11Z",
+        "title": "Inflation rises to 3-year high on spiking gas prices, grocery costs",
+        "source": "Boston Herald",
+        "url": "https://www.bostonherald.com/2026/06/10/inflation-gas-prices-may/",
+        "published": "2026-06-10T12:52:48Z",
         "sentiment": "watch"
       },
       {
-        "title": "Suez Canal oil tanker crossings surge nearly 30% in April as Hormuz crisis reshapes global shipping",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/suez-canal-oil-tanker-crossings-surge-april/",
-        "published": "2026-06-10T08:51:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Norway Core Inflation Hits Four-Month High, Backing Hiking",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/norway-core-inflation-hits-four-month-high-backing-hiking",
-        "published": "2026-06-10T08:48:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Suez Canal Gets Oil-Tanker Boost Amid Hormuz Strait Shutdown",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/suez-canal-gets-oil-tanker-boost-amid-hormuz-strait-shutdown",
-        "published": "2026-06-10T08:47:37Z",
-        "sentiment": "watch"
+        "title": "Two Crew Missing After Suspected US Strike on Tanker off Oman",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/06/10/873184.htm",
+        "published": "2026-06-10T12:31:07Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
       {
-        "title": "Taiwan test-fires US-supplied HIMARS missile launchers into waters facing China",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/taiwan-fires-us-himars-missiles-china/",
-        "published": "2026-06-10T07:07:58Z",
+        "title": "Joint Statement from UK and Australia on the Australia-UK Ministerial Consultations: 10 June 2026",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/uk/2026/uk-260610-ukmod01.htm",
+        "published": "2026-06-10T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "【6月10日】看軍聞學英語",
-        "source": "Yahoo Entertainment",
-        "url": "https://tw.news.yahoo.com/6%E6%9C%8810%E6%97%A5-%E7%9C%8B%E8%BB%8D%E8%81%9E%E5%AD%B8%E8%8B%B1%E8%AA%9E-163000859.html",
-        "published": "2026-06-09T16:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Sensex today | Stock Market Highlights: Sensex gains 395 pts, Nifty rises to 23,242; Indigo, SBI top gainers",
+        "title": "Sensex today | Stock Market Highlights: Sensex, Nifty end flat as early gains fade; gold prices slide sharply",
         "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-9th-june-2026/article71076430.ece",
-        "published": "2026-06-09T10:30:31Z",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-10th-june-2026/article71081121.ece",
+        "published": "2026-06-10T10:37:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "American Power Is Wrung Out",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/06/09/iran-war-trump-china-united-states-military-defense-weapons-geopolitics-strategy-taiwan/",
-        "published": "2026-06-09T10:00:38Z",
+        "title": "Taiwan fires rockets in China's direction from a US-supplied mobile launching system in drill",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Technology/wireStory/taiwan-fires-rockets-chinas-direction-us-supplied-mobile-133739379",
+        "published": "2026-06-10T10:34:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan fires rockets in China's direction from a U.S.-supplied mobile launching system in drill",
+        "source": "seattlepi.com",
+        "url": "https://www.seattlepi.com/news/world/article/taiwan-fires-rockets-in-china-s-direction-from-a-22298937.php",
+        "published": "2026-06-10T09:36:57Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan fires US-supplied HIMARS into waters facing China in first live-fire test",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/taiwan-fires-himars-china-strait/",
+        "published": "2026-06-10T09:21:16Z",
         "sentiment": "watch"
       }
     ],
