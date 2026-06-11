@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-10T23:58:38.659Z",
+    "generated_at": "2026-06-11T04:54:30.610Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Cuba Poised for Biggest US Fuel Shipment Since Cold War Embargo",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/cuba-poised-for-biggest-us-fuel-shipment-since-cold-war-embargo",
-        "published": "2026-06-09T23:52:48Z",
+        "title": "Inflation likely reached 3-year high last month as Iran war spikes gas prices",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/inflation-reached-3-year-high-month-iran-war-133735013",
+        "published": "2026-06-10T04:46:10Z",
         "sentiment": "danger"
       },
       {
-        "title": "US strikes Iranian radar sites as crypto markets brace for more volatility",
+        "title": "Inflation likely reached 3-year high last month as Iran war spikes gas prices",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/inflation-reached-3-year-high-month-iran-war-133735019",
+        "published": "2026-06-10T04:46:05Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Higher gasoline prices likely pushed up US consumer inflation again in May",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/higher-gasoline-prices-likely-pushed-up-us-consumer-inflation-again-in-may/articleshow/131624828.cms",
+        "published": "2026-06-10T04:31:56Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil rises nearly 1% as US launches strikes against Iran, rattling energy and crypto markets",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-strikes-iran-radar-crypto-volatility/",
-        "published": "2026-06-09T23:19:17Z",
+        "url": "https://cryptobriefing.com/oil-rises-us-strikes-iran-crypto/",
+        "published": "2026-06-10T04:24:19Z",
         "sentiment": "danger"
       },
       {
-        "title": "US EIA warns oil inventories are approaching multi-decade lows",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/eia-warns-oil-inventories-multi-decade-lows/",
-        "published": "2026-06-09T23:16:18Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US airstrikes target Iranian naval bases and missile sites as crypto markets reel",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-airstrikes-iran-crypto-market-impact/",
-        "published": "2026-06-09T23:00:37Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Commentary: Renewed hostilities in the Middle East is a question of when, not if",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/commentary/iran-war-israel-strikes-hezbollah-donald-trump-peace-deal-6171031",
-        "published": "2026-06-09T21:59:00Z",
+        "title": "Inflation increases stretch into 3rd month with gas prices driving costs higher",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/consumer-prices-inflation-war-gas-878f6759c93fcb078aeefffe19d4dfa5",
+        "published": "2026-06-10T04:00:06Z",
         "sentiment": "watch"
       }
     ],
