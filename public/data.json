@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-11T04:54:30.610Z",
+    "generated_at": "2026-06-11T09:17:23.276Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Inflation likely reached 3-year high last month as Iran war spikes gas prices",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/inflation-reached-3-year-high-month-iran-war-133735013",
-        "published": "2026-06-10T04:46:10Z",
+        "title": "Iran targets US bases in Jordan and the Gulf after Trump orders strikes near Hormuz",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/06/10/world-news/iran-targets-us-bases-in-jordan-and-the-gulf-after-trump-orders-strikes-near-hormuz/",
+        "published": "2026-06-10T08:59:50Z",
         "sentiment": "danger"
       },
       {
-        "title": "Inflation likely reached 3-year high last month as Iran war spikes gas prices",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/inflation-reached-3-year-high-month-iran-war-133735019",
-        "published": "2026-06-10T04:46:05Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Higher gasoline prices likely pushed up US consumer inflation again in May",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/higher-gasoline-prices-likely-pushed-up-us-consumer-inflation-again-in-may/articleshow/131624828.cms",
-        "published": "2026-06-10T04:31:56Z",
+        "title": "Oil steady as investors weigh renewed US-Iran fighting",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0610/1577695-world-oil-prices/",
+        "published": "2026-06-10T08:57:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil rises nearly 1% as US launches strikes against Iran, rattling energy and crypto markets",
+        "title": "Suez Canal oil tanker crossings surge nearly 30% in April as Hormuz crisis reshapes global shipping",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-rises-us-strikes-iran-crypto/",
-        "published": "2026-06-10T04:24:19Z",
-        "sentiment": "danger"
+        "url": "https://cryptobriefing.com/suez-canal-oil-tanker-crossings-surge-april/",
+        "published": "2026-06-10T08:51:34Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Inflation increases stretch into 3rd month with gas prices driving costs higher",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/consumer-prices-inflation-war-gas-878f6759c93fcb078aeefffe19d4dfa5",
-        "published": "2026-06-10T04:00:06Z",
+        "title": "Norway Core Inflation Hits Four-Month High, Backing Hiking",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/norway-core-inflation-hits-four-month-high-backing-hiking",
+        "published": "2026-06-10T08:48:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Suez Canal Gets Oil-Tanker Boost Amid Hormuz Strait Shutdown",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/suez-canal-gets-oil-tanker-boost-amid-hormuz-strait-shutdown",
+        "published": "2026-06-10T08:47:37Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan test-fires US-supplied HIMARS missile launchers into waters facing China",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/taiwan-fires-us-himars-missiles-china/",
+        "published": "2026-06-10T07:07:58Z",
+        "sentiment": "watch"
+      },
       {
         "title": "【6月10日】看軍聞學英語",
         "source": "Yahoo Entertainment",
@@ -82,13 +89,6 @@
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/06/09/iran-war-trump-china-united-states-military-defense-weapons-geopolitics-strategy-taiwan/",
         "published": "2026-06-09T10:00:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Freedom Of Navigation In An Age Of Precision Disruption",
-        "source": "Hoover.org",
-        "url": "https://www.hoover.org/research/freedom-navigation-age-precision-disruption",
-        "published": "2026-06-09T00:00:00Z",
         "sentiment": "watch"
       }
     ],
