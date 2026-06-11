@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-11T22:07:36.172Z",
+    "generated_at": "2026-06-11T23:54:54.556Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump has new take on higher cost of living: 'I love the inflation'",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/trump-has-a-new-surprising-take-on-the-higher-cost-of-living-%27i-love-the-inflation%27",
-        "published": "2026-06-10T21:31:52Z",
+        "title": "US inflation climbs to 4.2% and hits 3-year high amid rising fuel costs",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/us-inflation-climbs-to-42-and-hits-3-year-high-amid-rising-fuel-costs/article71087119.ece",
+        "published": "2026-06-10T23:49:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump threatens to attack Iran 'very hard' following latest hostilities",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/trump-threatens-to-attack-iran-%27very-hard%27-following-latest-hostilities",
-        "published": "2026-06-10T21:30:22Z",
+        "title": "WSJ warns Trump he's 'dancing to Iran's tune' and needs a strategy shakeup",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/trump-iran-2677025211/",
+        "published": "2026-06-10T23:47:54Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump Says More Strikes on Iran Are Coming",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/06/10/trump-us-strikes-iran-apache-helicopter-negotiations/",
-        "published": "2026-06-10T21:10:51Z",
+        "title": "US Central Command refutes Iranian claims of Strait of Hormuz closure",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/centcom-refutes-iran-strait-hormuz-closure/",
+        "published": "2026-06-10T23:43:33Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump has a new, surprising take on the higher cost of living: 'I love the inflation'",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/trump-new-surprising-higher-cost-living-love-inflation-133762568",
-        "published": "2026-06-10T21:07:40Z",
-        "sentiment": "watch"
+        "title": "Trump threatens to escalate strikes against Iran if no agreement is reached, rattling crypto markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-iran-strikes-threat-crypto-markets/",
+        "published": "2026-06-10T23:36:07Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Trump embraces inflation after a new report shows it's spiking",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/trump-love-inflation-democrats-affordability-midterms-603791c93c785221dae8be6df14d807d",
-        "published": "2026-06-10T20:53:20Z",
-        "sentiment": "watch"
+        "title": "US military launches fresh strikes on Iran as Trump warns of further escalation",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/us-military-launches-fresh-strikes-on-iran-as-trump-warns-of-further-escalation/article71086729.ece",
+        "published": "2026-06-10T23:30:02Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan deploys American-made Altius-600 drones against maritime targets during drills",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/taiwan-altius-600-drone-maritime-drills/",
+        "published": "2026-06-10T22:19:18Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Joint Statement from UK and Australia on the Australia-UK Ministerial Consultations: 10 June 2026",
         "source": "Www.gov.uk",
@@ -89,13 +96,6 @@
         "source": "New York Post",
         "url": "https://nypost.com/2026/06/10/world-news/taiwan-fires-battle-tested-rockets-in-anti-invasion-drill/",
         "published": "2026-06-10T15:35:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan drills with U.S. rocket system, firing in China's direction",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/06/10/g-s1-127253/taiwan-drills-with-us-rocket-system-firing-in-chinas-direction",
-        "published": "2026-06-10T15:29:24Z",
         "sentiment": "watch"
       }
     ],
