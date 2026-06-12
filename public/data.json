@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-12T15:58:14.163Z",
+    "generated_at": "2026-06-12T18:17:20.396Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "US Central Command confirms third strike on Indian-crewed tankers this week",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-strikes-indian-crewed-tankers-iran-blockade/",
-        "published": "2026-06-11T15:51:08Z",
+        "title": "U.S. Iran strikes: what happened second day? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/u-s-iran-strikes-what-happened-second-day",
+        "published": "2026-06-11T18:03:41Z",
         "sentiment": "danger"
       },
       {
-        "title": "Will increase seafarer repatriations if needed: Shipping Ministry’s Mukesh Mangal",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/will-increase-seafarer-repatriations-if-needed-shipping-ministrys-mukesh-mangal/articleshow/131663427.cms",
-        "published": "2026-06-11T15:48:58Z",
+        "title": "What is Kharg Island and why target it? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/what-is-kharg-island-and-why-target-it",
+        "published": "2026-06-11T18:03:41Z",
         "sentiment": "watch"
       },
       {
-        "title": "How Taiwan is balancing between American and Chinese visions of energy dominance",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/how-taiwan-is-balancing-between-american-and-chinese-visions-of-energy-dominance-284701",
-        "published": "2026-06-11T15:44:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US forces strike Guinea-Bissau-flagged oil tanker in Gulf of Oman, ninth since blockade began",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-strikes-oil-tanker-gulf-oman/",
-        "published": "2026-06-11T15:43:05Z",
+        "title": "Why did Trump cancel Iran strike Thursday? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/why-did-trump-cancel-iran-strike-thursday",
+        "published": "2026-06-11T18:03:41Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran closes Strait of Hormuz, blocking over 3,200 ships in major escalation",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-blocking-over-3200-ships-in-major-escalation/",
-        "published": "2026-06-11T15:30:35Z",
+        "title": "A Point-by-Point Breakdown of Trump’s Failed Iran War Objectives",
+        "source": "The Intercept",
+        "url": "https://theintercept.com/2026/06/11/trump-iran-war-claims-failures/",
+        "published": "2026-06-11T18:02:47Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US President Trump says he called off strikes against Iran and hints that a deal is nearly ready — follow DW for more",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/iran-war-trump-calls-off-planned-strikes-says-deal-nearly-done/live-77498305",
+        "published": "2026-06-11T17:44:00Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan opposition leader says Xi meeting avoided 'reunification' talk",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/06/11/g-s1-127478/taiwan-opposition-leader-says-xi-meeting-avoided-reunification-talk",
+        "published": "2026-06-11T16:53:25Z",
+        "sentiment": "watch"
+      },
       {
         "title": "How Taiwan is balancing between American and Chinese visions of energy dominance",
         "source": "The Conversation Africa",
@@ -90,13 +97,6 @@
         "url": "https://www.nakedcapitalism.com/2026/06/links-6-11-2026.html",
         "published": "2026-06-11T10:57:12Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "The Chain of Peace: Do Supply Chain Chokepoints Deter War?",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/the-chain-of-peace-do-supply-chain-chokepoints-deter-war/",
-        "published": "2026-06-11T07:30:57Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
