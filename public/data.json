@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-12T04:51:29.185Z",
+    "generated_at": "2026-06-12T09:06:08.512Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "\"US controls Strait of Hormuz\": Pete Hegseth amid escalating tension with Iran",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/us-controls-strait-of-hormuz-pete-hegseth-amid-escalating-tension-with-iran/article71087480.ece",
-        "published": "2026-06-11T04:39:37Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US and Iran trade attacks for a second day, undermining shaky ceasefire",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-and-iran-trade-attacks-for-a-second-day-undermining-shaky-ceasefire/articleshow/131649112.cms",
-        "published": "2026-06-11T04:39:02Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "IT drags D-Street lower as investors turn cautious on West Asia tensions, US inflation data, oil spike",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/it-drags-d-street-lower-as-investors-turn-cautious-on-west-asia-tensions-us-inflation-data-oil-spike/article71087604.ece",
-        "published": "2026-06-11T04:29:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran closes Strait of Hormuz in response to US attacks, sending oil and crypto markets into turmoil",
+        "title": "Houthis impose partial blockade of Red Sea, threatening global oil shipping routes",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-crypto-impact/",
-        "published": "2026-06-11T03:55:04Z",
+        "url": "https://cryptobriefing.com/houthis-red-sea-blockade-oil-shipping/",
+        "published": "2026-06-11T09:00:32Z",
         "sentiment": "danger"
       },
       {
-        "title": "Why are oil prices up now and will Brent futures and US WTI crude prices continue to rise or decline again? Oil market reacts to US-Iran escalation and Strait of Hormuz closure",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-up-now-and-will-brent-futures-and-us-wti-crude-prices-continue-to-rise-or-decline-again-oil-market-reacts-to-us-iran-escalation-and-strait-of-hormuz-closure/articleshow/131648198.cms",
-        "published": "2026-06-11T03:31:21Z",
+        "title": "U.S. Launches Second Day Of Strikes On Iran And Tehran Fires Back At Gulf States And Jordan",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/iran-us-trade-attacks_n_6a2a6596e4b02d9edc7fc168",
+        "published": "2026-06-11T08:58:55Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Houthis announce partial Red Sea blockade, threatening key oil shipping route",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/houthis-announce-partial-red-sea-blockade-threatening-key-oil-shipping-route/",
+        "published": "2026-06-11T08:58:20Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US and Iran exchange fire for second day, undermining ceasefire and rattling crypto markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-fire-ceasefire-crypto-markets/",
+        "published": "2026-06-11T08:54:10Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Chain of Peace: Do Supply Chain Chokepoints Deter War?",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/the-chain-of-peace-do-supply-chain-chokepoints-deter-war/",
+        "published": "2026-06-11T07:30:57Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "North Korea, China claim wins from Xi visit, but limits remain",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/xi-jinpings-historic-visit-to-north-korea-kim-jong-un-strengthens-ties-with-china-amidst-global-tensions/articleshow/131651207.cms",
+        "published": "2026-06-11T06:29:38Z",
+        "sentiment": "watch"
+      },
       {
         "title": "How could Taiwan change AI chip exports to China? #world",
         "source": "Alltoc.com",
@@ -83,23 +90,16 @@
         "url": "https://www.gov.uk/government/news/joint-statement-from-uk-and-australia-on-the-australia-uk-ministerial-consultations-10-june-2026",
         "published": "2026-06-10T19:25:38Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan test-fires rockets in China’s direction from US-supplied mobile launching system | CNN",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/06/10/asia/taiwan-test-fires-rockets-china-intl-latam",
-        "published": "2026-06-10T19:01:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "News24 | Taiwan takes aim at China with HIMARS in asymmetric warfare drill",
-        "source": "News24",
-        "url": "https://www.news24.com/world/taiwan-takes-aim-at-china-with-himars-in-asymmetric-warfare-drill-20260610-0992",
-        "published": "2026-06-10T16:32:55Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
+      {
+        "title": "The Singapore Strait funnels roughly a third of the world’s traded goods through a channel narrowing to about 3 kilometres wide near Phillip Channel, making it one of the busiest and most pirate-prone waterways on Earth, where ships sometimes queue for days awaiting passage",
+        "source": "Space Daily",
+        "url": "https://spacedaily.com/j-the-singapore-strait-funnels-roughly-a-third-of-the-worlds-traded-goods-through-a-channel-narrowing-to-about-3-kilometres-wide-near-phillip-channel-making-it-one-of-the-busiest-and-most-pirate-prone/",
+        "published": "2026-06-11T08:23:40Z",
+        "sentiment": "watch"
+      },
       {
         "title": "How the US naval blockade has bled Iran of nearly $6bn in oil revenues",
         "source": "Al Jazeera English",
@@ -119,20 +119,6 @@
         "source": "The New York Review of Books",
         "url": "https://www.nybooks.com/online/2026/05/14/empires-of-flow-control-hormuz/",
         "published": "2026-05-14T11:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The geopolitical weaponization of shipping channels",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/strait-of-hormuz-strait-of-malacca-taiwan-strait-iran-war-economy-shipping/a-77108496",
-        "published": "2026-05-10T07:43:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The weaponization of shipping channels",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/the-weaponization-of-shipping-channels/a-77108496",
-        "published": "2026-05-10T07:43:00Z",
         "sentiment": "watch"
       }
     ]
