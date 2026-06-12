@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-12T09:06:08.512Z",
+    "generated_at": "2026-06-12T12:33:13.003Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Houthis impose partial blockade of Red Sea, threatening global oil shipping routes",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/houthis-red-sea-blockade-oil-shipping/",
-        "published": "2026-06-11T09:00:32Z",
+        "title": "Iran warns Mideast truce 'practically meaningless' after US strikes",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/iran-warns-mideast-truce-practically-meaningless-after-us-strikes/articleshow/131659479.cms",
+        "published": "2026-06-11T12:31:38Z",
         "sentiment": "danger"
       },
       {
-        "title": "U.S. Launches Second Day Of Strikes On Iran And Tehran Fires Back At Gulf States And Jordan",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/iran-us-trade-attacks_n_6a2a6596e4b02d9edc7fc168",
-        "published": "2026-06-11T08:58:55Z",
+        "title": "Did US sneak 100 million barrels of oil out of Hormuz, as Trump claims?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/11/did-us-sneak-100-million-barrels-of-oil-out-of-hormuz-as-trump-claims",
+        "published": "2026-06-11T12:25:21Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US Central Command strikes Iranian military assets as hostilities escalate, rattling crypto markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-strikes-crypto-markets-impact-2/",
+        "published": "2026-06-11T12:18:03Z",
         "sentiment": "danger"
       },
       {
-        "title": "Houthis announce partial Red Sea blockade, threatening key oil shipping route",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/houthis-announce-partial-red-sea-blockade-threatening-key-oil-shipping-route/",
-        "published": "2026-06-11T08:58:20Z",
+        "title": "US military confirms attack on third Indian-crewed tanker off Gulf of Oman",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-military-confirms-attack-on-indian-crewed-tanker-off-gulf-of-oman/articleshow/131658607.cms",
+        "published": "2026-06-11T12:06:55Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "US and Iran exchange fire for second day, undermining ceasefire and rattling crypto markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-fire-ceasefire-crypto-markets/",
-        "published": "2026-06-11T08:54:10Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "Links 6/11/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/06/links-6-11-2026.html",
+        "published": "2026-06-11T10:57:12Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Chain of Peace: Do Supply Chain Chokepoints Deter War?",
         "source": "War on the Rocks",
@@ -82,13 +89,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/taiwan-altius-600-drone-maritime-drills/",
         "published": "2026-06-10T22:19:18Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Joint Statement from UK and Australia on the Australia-UK Ministerial Consultations: 10 June 2026",
-        "source": "Www.gov.uk",
-        "url": "https://www.gov.uk/government/news/joint-statement-from-uk-and-australia-on-the-australia-uk-ministerial-consultations-10-june-2026",
-        "published": "2026-06-10T19:25:38Z",
         "sentiment": "watch"
       }
     ],
