@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-12T18:17:20.396Z",
+    "generated_at": "2026-06-12T20:37:51.512Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S. Iran strikes: what happened second day? #world",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/u-s-iran-strikes-what-happened-second-day",
-        "published": "2026-06-11T18:03:41Z",
+        "title": "Trump says ‘great’ settlement of war with Iran to be signed within days, triggering reopening of Strait of Hormuz",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/06/11/trump-says-great-settlement-of-war-with-iran-to-be-signed-within-days-triggering-reopening-of-strait-of-hormuz/",
+        "published": "2026-06-11T20:34:32Z",
         "sentiment": "danger"
       },
       {
-        "title": "What is Kharg Island and why target it? #world",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/what-is-kharg-island-and-why-target-it",
-        "published": "2026-06-11T18:03:41Z",
+        "title": "Trump administration sanctions Cuba’s national oil company, blasts Castros",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/11/trump-administration-sanctions-cubas-national-oil-company-blasts-castros",
+        "published": "2026-06-11T20:21:55Z",
         "sentiment": "watch"
       },
       {
-        "title": "Why did Trump cancel Iran strike Thursday? #world",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/why-did-trump-cancel-iran-strike-thursday",
-        "published": "2026-06-11T18:03:41Z",
+        "title": "Iran deal approved by Supreme Leader as Trump confirms US blockade lift",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-deal-trump-blockade-lift-crypto/",
+        "published": "2026-06-11T20:08:25Z",
         "sentiment": "danger"
       },
       {
-        "title": "A Point-by-Point Breakdown of Trump’s Failed Iran War Objectives",
-        "source": "The Intercept",
-        "url": "https://theintercept.com/2026/06/11/trump-iran-war-claims-failures/",
-        "published": "2026-06-11T18:02:47Z",
-        "sentiment": "danger"
+        "title": "Oil Falls to April Lows on Trump Signals",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_falls_to_april_lows_on_trump_signals-11-jun-2026-183908-article/",
+        "published": "2026-06-11T19:54:15Z",
+        "sentiment": "watch"
       },
       {
-        "title": "US President Trump says he called off strikes against Iran and hints that a deal is nearly ready — follow DW for more",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/iran-war-trump-calls-off-planned-strikes-says-deal-nearly-done/live-77498305",
-        "published": "2026-06-11T17:44:00Z",
-        "sentiment": "danger"
+        "title": "Trump expects Strait of Hormuz to reopen quickly upon deal signing",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-strait-hormuz-reopen-deal/",
+        "published": "2026-06-11T19:40:42Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
