@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-12T12:33:13.003Z",
+    "generated_at": "2026-06-12T15:58:14.163Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,63 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran warns Mideast truce 'practically meaningless' after US strikes",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/iran-warns-mideast-truce-practically-meaningless-after-us-strikes/articleshow/131659479.cms",
-        "published": "2026-06-11T12:31:38Z",
+        "title": "US Central Command confirms third strike on Indian-crewed tankers this week",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-strikes-indian-crewed-tankers-iran-blockade/",
+        "published": "2026-06-11T15:51:08Z",
         "sentiment": "danger"
       },
       {
-        "title": "Did US sneak 100 million barrels of oil out of Hormuz, as Trump claims?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/11/did-us-sneak-100-million-barrels-of-oil-out-of-hormuz-as-trump-claims",
-        "published": "2026-06-11T12:25:21Z",
+        "title": "Will increase seafarer repatriations if needed: Shipping Ministry’s Mukesh Mangal",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/will-increase-seafarer-repatriations-if-needed-shipping-ministrys-mukesh-mangal/articleshow/131663427.cms",
+        "published": "2026-06-11T15:48:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "US Central Command strikes Iranian military assets as hostilities escalate, rattling crypto markets",
+        "title": "How Taiwan is balancing between American and Chinese visions of energy dominance",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/how-taiwan-is-balancing-between-american-and-chinese-visions-of-energy-dominance-284701",
+        "published": "2026-06-11T15:44:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US forces strike Guinea-Bissau-flagged oil tanker in Gulf of Oman, ninth since blockade began",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-strikes-crypto-markets-impact-2/",
-        "published": "2026-06-11T12:18:03Z",
+        "url": "https://cryptobriefing.com/us-strikes-oil-tanker-gulf-oman/",
+        "published": "2026-06-11T15:43:05Z",
         "sentiment": "danger"
       },
       {
-        "title": "US military confirms attack on third Indian-crewed tanker off Gulf of Oman",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/us-military-confirms-attack-on-indian-crewed-tanker-off-gulf-of-oman/articleshow/131658607.cms",
-        "published": "2026-06-11T12:06:55Z",
+        "title": "Iran closes Strait of Hormuz, blocking over 3,200 ships in major escalation",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-blocking-over-3200-ships-in-major-escalation/",
+        "published": "2026-06-11T15:30:35Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "How Taiwan is balancing between American and Chinese visions of energy dominance",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/how-taiwan-is-balancing-between-american-and-chinese-visions-of-energy-dominance-284701",
+        "published": "2026-06-11T15:44:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Washington’s Asian Allies Need a Backup Plan",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/06/11/trump-asia-strategy-rethink/",
+        "published": "2026-06-11T14:57:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "How Drone Warfare Is Rewiring Geopolitics and Rewriting the Age of Superpowers",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/more/science/how-drone-warfare-is-rewiring-geopolitics-and-rewriting-the-age-of-superpowers/",
+        "published": "2026-06-11T13:47:53Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Links 6/11/2026",
         "source": "Nakedcapitalism.com",
@@ -69,30 +97,16 @@
         "url": "https://warontherocks.com/the-chain-of-peace-do-supply-chain-chokepoints-deter-war/",
         "published": "2026-06-11T07:30:57Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "North Korea, China claim wins from Xi visit, but limits remain",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/xi-jinpings-historic-visit-to-north-korea-kim-jong-un-strengthens-ties-with-china-amidst-global-tensions/articleshow/131651207.cms",
-        "published": "2026-06-11T06:29:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How could Taiwan change AI chip exports to China? #world",
-        "source": "Alltoc.com",
-        "url": "https://alltoc.com/world/how-could-taiwan-change-ai-chip-exports-to-china",
-        "published": "2026-06-11T00:04:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan deploys American-made Altius-600 drones against maritime targets during drills",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/taiwan-altius-600-drone-maritime-drills/",
-        "published": "2026-06-10T22:19:18Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
+      {
+        "title": "The Strait of Malacca and Singapore Strait grow so shallow in places that fully laden supertankers carrying a quarter of the world’s seaborne oil are required to keep at least three and a half metres of water beneath their keels — about the height of a one-storey room — and squat and swell can quietly shave even that",
+        "source": "Space Daily",
+        "url": "https://spacedaily.com/j-the-strait-of-malacca-and-singapore-strait-grow-so-shallow-in-places-that-fully-laden-supertankers-carrying-a-quarter-of-the-worlds-seaborne-oil-are-required-to-keep-at-least-three-and-a-half-metr/",
+        "published": "2026-06-11T13:45:05Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Singapore Strait funnels roughly a third of the world’s traded goods through a channel narrowing to about 3 kilometres wide near Phillip Channel, making it one of the busiest and most pirate-prone waterways on Earth, where ships sometimes queue for days awaiting passage",
         "source": "Space Daily",
