@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-11T23:54:54.556Z",
+    "generated_at": "2026-06-12T04:51:29.185Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "US inflation climbs to 4.2% and hits 3-year high amid rising fuel costs",
+        "title": "\"US controls Strait of Hormuz\": Pete Hegseth amid escalating tension with Iran",
         "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/us-inflation-climbs-to-42-and-hits-3-year-high-amid-rising-fuel-costs/article71087119.ece",
-        "published": "2026-06-10T23:49:24Z",
+        "url": "https://www.thehindubusinessline.com/news/world/us-controls-strait-of-hormuz-pete-hegseth-amid-escalating-tension-with-iran/article71087480.ece",
+        "published": "2026-06-11T04:39:37Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US and Iran trade attacks for a second day, undermining shaky ceasefire",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-and-iran-trade-attacks-for-a-second-day-undermining-shaky-ceasefire/articleshow/131649112.cms",
+        "published": "2026-06-11T04:39:02Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "IT drags D-Street lower as investors turn cautious on West Asia tensions, US inflation data, oil spike",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/it-drags-d-street-lower-as-investors-turn-cautious-on-west-asia-tensions-us-inflation-data-oil-spike/article71087604.ece",
+        "published": "2026-06-11T04:29:31Z",
         "sentiment": "watch"
       },
       {
-        "title": "WSJ warns Trump he's 'dancing to Iran's tune' and needs a strategy shakeup",
-        "source": "Raw Story",
-        "url": "https://www.rawstory.com/trump-iran-2677025211/",
-        "published": "2026-06-10T23:47:54Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US Central Command refutes Iranian claims of Strait of Hormuz closure",
+        "title": "Iran closes Strait of Hormuz in response to US attacks, sending oil and crypto markets into turmoil",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/centcom-refutes-iran-strait-hormuz-closure/",
-        "published": "2026-06-10T23:43:33Z",
+        "url": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-crypto-impact/",
+        "published": "2026-06-11T03:55:04Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump threatens to escalate strikes against Iran if no agreement is reached, rattling crypto markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-strikes-threat-crypto-markets/",
-        "published": "2026-06-10T23:36:07Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US military launches fresh strikes on Iran as Trump warns of further escalation",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/us-military-launches-fresh-strikes-on-iran-as-trump-warns-of-further-escalation/article71086729.ece",
-        "published": "2026-06-10T23:30:02Z",
+        "title": "Why are oil prices up now and will Brent futures and US WTI crude prices continue to rise or decline again? Oil market reacts to US-Iran escalation and Strait of Hormuz closure",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-up-now-and-will-brent-futures-and-us-wti-crude-prices-continue-to-rise-or-decline-again-oil-market-reacts-to-us-iran-escalation-and-strait-of-hormuz-closure/articleshow/131648198.cms",
+        "published": "2026-06-11T03:31:21Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "How could Taiwan change AI chip exports to China? #world",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/how-could-taiwan-change-ai-chip-exports-to-china",
+        "published": "2026-06-11T00:04:21Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan deploys American-made Altius-600 drones against maritime targets during drills",
         "source": "Crypto Briefing",
@@ -90,13 +97,6 @@
         "url": "https://www.news24.com/world/taiwan-takes-aim-at-china-with-himars-in-asymmetric-warfare-drill-20260610-0992",
         "published": "2026-06-10T16:32:55Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Taiwan fires battle-tested rockets in anti-invasion drill",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/06/10/world-news/taiwan-fires-battle-tested-rockets-in-anti-invasion-drill/",
-        "published": "2026-06-10T15:35:48Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
