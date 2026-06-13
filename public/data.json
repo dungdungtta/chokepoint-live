@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-12T22:16:11.793Z",
+    "generated_at": "2026-06-13T00:02:38.888Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Even The Mainstream Media Is Admitting That The Coming Global Food Crisis Has Now Arrived",
-        "source": "Theeconomiccollapseblog.com",
-        "url": "http://theeconomiccollapseblog.com/even-the-mainstream-media-is-admitting-that-the-coming-global-food-crisis-has-now-arrived/",
-        "published": "2026-06-11T22:15:33Z",
+        "title": "Three missing Indian seafarers onboard MT Settebello confirmed dead: Sonowal",
+        "source": "Thehillstimes.in",
+        "url": "https://thehillstimes.in/assam/three-missing-indian-seafarers-onboard-mt-settebello-confirmed-dead-sonowal",
+        "published": "2026-06-11T23:40:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iraq's Energy Sector Faces Its Most Important Test in Decades",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Iraqs-Energy-Sector-Faces-Its-Most-Important-Test-in-Decades.html",
-        "published": "2026-06-11T22:00:00Z",
+        "title": "Iran says deal not finalised, Trump hopes to sign soon",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/0612/1578042-iran-trump-us/",
+        "published": "2026-06-11T23:33:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "US Central Command investigates reports of strikes hitting water facility in Iran",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-centcom-investigates-iran-water-facility-strikes/",
-        "published": "2026-06-11T21:49:00Z",
+        "title": "Iran says deal not finalised, Trump hopes to sign soon",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/0612/1578042-iran-says-deal-not-finalised-trump-hopes-to-sign-soon/",
+        "published": "2026-06-11T23:33:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Drops to Two-Month Low as Trump Says Deal With Iran Is Close",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/oil-drops-to-two-month-low-as-trump-says-deal-with-iran-is-close",
+        "published": "2026-06-11T23:08:54Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "These strikes must stop, asserts Delhi",
+        "source": "Thehillstimes.in",
+        "url": "https://thehillstimes.in/national/these-strikes-must-stop-asserts-delhi",
+        "published": "2026-06-11T23:00:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Trump says U.S., Iran could sign peace deal as soon as this weekend",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/trump-says-us-iran-could-sign-peace-deal-as-soon-as-this-weekend",
-        "published": "2026-06-11T21:42:41Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What energy insiders in DC are saying about oil prices and a possible Iran deal",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/11/what-energy-insiders-in-dc-are-saying-about-oil-prices-and-a-possible-iran-deal.html",
-        "published": "2026-06-11T21:29:14Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
