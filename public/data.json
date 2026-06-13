@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T21:39:30.758Z",
+    "generated_at": "2026-06-13T22:46:53.609Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Select Accounts: 8-Pk 5-oz Genova Premium Yellowfin Canned Tuna (Olive Oil) $10.50 w/ S&S",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19607259-select-amazon-accts-8-pk-5oz-genova-premium-yellowfin-canned-tuna-olive-oil-10-95-w-s-s",
-        "published": "2026-06-12T21:37:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Pakistan PM Sharif confirms US-Iran peace deal text agreed",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/pakistan-us-iran-peace-deal-agreed/",
-        "published": "2026-06-12T20:39:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Biggest Shipment of US Fuel to Cuba Since 1960 Is Off as Blacklist Expands",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/biggest-shipment-of-us-fuel-to-cuba-since-1960-is-off-as-blacklist-expands",
-        "published": "2026-06-12T20:19:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "41-Years-Owned Modified 1980 Lambretta Jet 200 at No Reserve",
+        "title": "1967 Chevrolet Corvette Convertible L79 327/350 4-Speed",
         "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1980-lambretta-scooter-jet-200/",
-        "published": "2026-06-12T19:50:09Z",
+        "url": "https://bringatrailer.com/listing/1967-chevrolet-corvette-convertible-336/",
+        "published": "2026-06-12T22:38:06Z",
         "sentiment": "watch"
       },
       {
-        "title": "US Official Says 'High-Stakes' Iran Deal Nearly Finalized",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/us-trump-iran-deal-israel/33779306.html",
-        "published": "2026-06-12T19:45:57Z",
+        "title": "Donald Trump proposes step-by-step approach for Iran deal, with crypto sanctions lurking in the background",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-iran-deal-step-by-step-crypto-sanctions/",
+        "published": "2026-06-12T22:35:30Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "2024 Harley-Davidson Road Glide",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/2024-harley-davidson-road-glide-4/",
+        "published": "2026-06-12T22:33:43Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump says ceasefire deal 'close', but it could be on Iran's terms",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-06-13/trump-says-ceasefire-is-close-but-it-could-be-on-irans-terms/106793394",
+        "published": "2026-06-12T22:12:07Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "1973 Triumph Bonneville T140V at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1973-triumph-bonneville-t140v-11/",
+        "published": "2026-06-12T22:09:15Z",
         "sentiment": "watch"
       }
     ],
