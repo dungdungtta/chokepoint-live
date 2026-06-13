@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T20:04:51.393Z",
+    "generated_at": "2026-06-13T21:39:30.758Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Select Accounts: 8-Pk 5-oz Genova Premium Yellowfin Canned Tuna (Olive Oil) $10.50 w/ S&S",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19607259-select-amazon-accts-8-pk-5oz-genova-premium-yellowfin-canned-tuna-olive-oil-10-95-w-s-s",
+        "published": "2026-06-12T21:37:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Pakistan PM Sharif confirms US-Iran peace deal text agreed",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/pakistan-us-iran-peace-deal-agreed/",
+        "published": "2026-06-12T20:39:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Biggest Shipment of US Fuel to Cuba Since 1960 Is Off as Blacklist Expands",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/biggest-shipment-of-us-fuel-to-cuba-since-1960-is-off-as-blacklist-expands",
+        "published": "2026-06-12T20:19:17Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "41-Years-Owned Modified 1980 Lambretta Jet 200 at No Reserve",
         "source": "Bringatrailer.com",
         "url": "https://bringatrailer.com/listing/1980-lambretta-scooter-jet-200/",
@@ -38,27 +59,6 @@
         "source": "Radio Free Europe/ Radio Liberty",
         "url": "https://www.rferl.org/a/us-trump-iran-deal-israel/33779306.html",
         "published": "2026-06-12T19:45:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Report: Trump paused 'extreme risk' commando raid inside Iran over fear of high casualties",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/428560",
-        "published": "2026-06-12T19:33:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. Confirms Third Strike on Indian-Crewed Tankers near Strait of Hormuz",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/06/12/u-s-confirms-third-strike-on-indian-crewed-tankers-near-strait-of-hormuz/",
-        "published": "2026-06-12T19:20:46Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Inflation Is Not Going Away",
-        "source": "Activistpost.com",
-        "url": "https://www.activistpost.com/inflation-is-not-going-away/",
-        "published": "2026-06-12T18:59:00Z",
         "sentiment": "watch"
       }
     ],
