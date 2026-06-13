@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T18:16:05.123Z",
+    "generated_at": "2026-06-13T20:04:51.393Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Philips Norelco 5000 Series 18-Piece Trimmer Set for $45 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/products/Norelco/Philips-Norelco-5000-Series-18-Piece-Trimmer-Set/499193.html",
-        "published": "2026-06-12T17:56:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US military rushed to prepare ground mission to capture Iran uranium, but president paused...",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/06/12/politics/us-military-plan-uranium-iran-ground-troops",
-        "published": "2026-06-12T17:43:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran says peace with US has 'never been closer'",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-06-13/iran-says-peace-with-us-never-been-closer/106793476",
-        "published": "2026-06-12T17:37:32Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "1963 Maserati Sebring Series I Project",
+        "title": "41-Years-Owned Modified 1980 Lambretta Jet 200 at No Reserve",
         "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1963-maserati-3500-gti-sebring-2/",
-        "published": "2026-06-12T17:15:08Z",
+        "url": "https://bringatrailer.com/listing/1980-lambretta-scooter-jet-200/",
+        "published": "2026-06-12T19:50:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US Official Says 'High-Stakes' Iran Deal Nearly Finalized",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/us-trump-iran-deal-israel/33779306.html",
+        "published": "2026-06-12T19:45:57Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Report: Trump paused 'extreme risk' commando raid inside Iran over fear of high casualties",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/428560",
+        "published": "2026-06-12T19:33:15Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S. Confirms Third Strike on Indian-Crewed Tankers near Strait of Hormuz",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/06/12/u-s-confirms-third-strike-on-indian-crewed-tankers-near-strait-of-hormuz/",
+        "published": "2026-06-12T19:20:46Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Inflation Is Not Going Away",
+        "source": "Activistpost.com",
+        "url": "https://www.activistpost.com/inflation-is-not-going-away/",
+        "published": "2026-06-12T18:59:00Z",
         "sentiment": "watch"
       }
     ],
