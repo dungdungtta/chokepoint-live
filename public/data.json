@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T10:59:18.269Z",
+    "generated_at": "2026-06-13T12:55:38.464Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "European Bonds Surge as Trump Touts Progress on Iran Deal",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/european-bonds-surge-as-trump-touts-progress-on-iran-deal",
-        "published": "2026-06-12T10:33:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "India summons US diplomat for second protest over strikes on vessels with Indian crew",
+        "title": "India summons US diplomat after attacks on commercial vessels kill three Indian sailors",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/india-summons-us-diplomat-gulf-strikes/",
-        "published": "2026-06-12T10:33:05Z",
+        "url": "https://cryptobriefing.com/india-summons-us-diplomat-gulf-oman-attacks/",
+        "published": "2026-06-12T12:54:31Z",
         "sentiment": "danger"
       },
       {
-        "title": "Gundry MD Introduces \"Everyday Essentials\" -- A Curated Line of 14 Foundational Wellness Supplements",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/gundry-md-introduces-everyday-essentials--a-curated-line-of-14-foundational-wellness-supplements-302798637.html",
-        "published": "2026-06-12T10:30:00Z",
+        "title": "Current price of oil as of June 12, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-06-12-2026/",
+        "published": "2026-06-12T12:52:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "More details emerge as Iran-US deal nears",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/428538",
-        "published": "2026-06-12T10:17:00Z",
+        "title": "Iran faces growing pressure from US blockade as oil revenue evaporates and crypto becomes a lifeline",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-us-blockade-oil-revenue-crypto/",
+        "published": "2026-06-12T12:31:13Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "So you want to buy a gaming handheld PC",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/games/947469/best-handheld-gaming-pc",
+        "published": "2026-06-12T12:30:31Z",
         "sentiment": "watch"
       },
       {
-        "title": "'Armed theft, maritime piracy': Iran condemns US attacks on Indian-crewed ships off Oman",
+        "title": "June 12: Iran says MoU with US nearing completion, while reaffirming red lines and military readiness",
         "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260612-presstv01.htm",
-        "published": "2026-06-12T10:09:35Z",
-        "sentiment": "danger"
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260612-presstv04.htm",
+        "published": "2026-06-12T12:00:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "KMT chair exchanges views with U.S. lawmakers, experts on Taiwan security",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260612-cna01.htm",
+        "published": "2026-06-12T12:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan fires dozens of U.S.-supplied rockets toward China in historic live-fire exercise",
         "source": "Naturalnews.com",
@@ -90,13 +97,6 @@
         "url": "http://foreignpolicy.com/2026/06/11/trump-asia-strategy-rethink/",
         "published": "2026-06-11T14:57:44Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "How Drone Warfare Is Rewiring Geopolitics and Rewriting the Age of Superpowers",
-        "source": "Fair Observer",
-        "url": "https://www.fairobserver.com/more/science/how-drone-warfare-is-rewiring-geopolitics-and-rewriting-the-age-of-superpowers/",
-        "published": "2026-06-11T13:47:53Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
