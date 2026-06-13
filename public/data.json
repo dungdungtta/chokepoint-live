@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T16:49:23.038Z",
+    "generated_at": "2026-06-13T18:16:05.123Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,24 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Pakistan confirms final text of peace deal reached between Iran and US",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/pakistan-confirms-iran-us-peace-deal/",
-        "published": "2026-06-12T16:30:45Z",
+        "title": "Philips Norelco 5000 Series 18-Piece Trimmer Set for $45 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/products/Norelco/Philips-Norelco-5000-Series-18-Piece-Trimmer-Set/499193.html",
+        "published": "2026-06-12T17:56:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "US and Iran inch toward deal to reopen Strait of Hormuz, with Bitcoin playing a surprising role",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-strait-hormuz-bitcoin-deal/",
-        "published": "2026-06-12T16:08:47Z",
-        "sentiment": "danger"
+        "title": "US military rushed to prepare ground mission to capture Iran uranium, but president paused...",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/06/12/politics/us-military-plan-uranium-iran-ground-troops",
+        "published": "2026-06-12T17:43:36Z",
+        "sentiment": "watch"
       },
       {
-        "title": "China controls 90% of rare-earth processing — now a $204 million US investment in France aims to change that",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/commodities/articles/china-controls-90-rare-earth-160500367.html",
-        "published": "2026-06-12T16:05:00Z",
+        "title": "Iran says peace with US has 'never been closer'",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-06-13/iran-says-peace-with-us-never-been-closer/106793476",
+        "published": "2026-06-12T17:37:32Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "1963 Maserati Sebring Series I Project",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1963-maserati-3500-gti-sebring-2/",
+        "published": "2026-06-12T17:15:08Z",
         "sentiment": "watch"
       }
     ],
