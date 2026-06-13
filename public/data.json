@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T08:28:13.958Z",
+    "generated_at": "2026-06-13T10:59:18.269Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Is India's economic growth real? Raghuram Rajan says something is off",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/policy/is-indias-economic-growth-real-raghuram-rajan-says-something-is-off/articleshow/131676593.cms",
-        "published": "2026-06-12T08:20:21Z",
+        "title": "European Bonds Surge as Trump Touts Progress on Iran Deal",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/european-bonds-surge-as-trump-touts-progress-on-iran-deal",
+        "published": "2026-06-12T10:33:19Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump Claims Iran Deal Close in Uturn",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/trump_claims_iran_deal_close_in_uturn-12-jun-2026-183909-article/",
-        "published": "2026-06-12T08:02:02Z",
+        "title": "India summons US diplomat for second protest over strikes on vessels with Indian crew",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/india-summons-us-diplomat-gulf-strikes/",
+        "published": "2026-06-12T10:33:05Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Gundry MD Introduces \"Everyday Essentials\" -- A Curated Line of 14 Foundational Wellness Supplements",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/gundry-md-introduces-everyday-essentials--a-curated-line-of-14-foundational-wellness-supplements-302798637.html",
+        "published": "2026-06-12T10:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US-Iran ceasefire? Not for Indian sailors being killed in Hormuz",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/12/us-iran-ceasefire-not-for-indian-sailors-being-killed-in-hormuz",
-        "published": "2026-06-12T07:49:29Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Why are oil, gold and silver prices down today, and will Brent futures, US WTI crude and precious metals prices continue to drop or rise again? Market reacts to Iran peace deal hopes and rate concerns",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-gold-and-silver-prices-down-today-and-will-brent-futures-us-wti-crude-and-precious-metals-prices-continue-to-drop-or-rise-again-market-reacts-to-iran-peace-deal-hopes-and-rate-concerns/articleshow/131677366.cms",
-        "published": "2026-06-12T07:31:08Z",
+        "title": "More details emerge as Iran-US deal nears",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/428538",
+        "published": "2026-06-12T10:17:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "C-17s fly to Europe for Vance as Trump claims 'great settlement' with Iran",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4383441/posts",
-        "published": "2026-06-12T06:58:32Z",
-        "sentiment": "watch"
+        "title": "'Armed theft, maritime piracy': Iran condemns US attacks on Indian-crewed ships off Oman",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260612-presstv01.htm",
+        "published": "2026-06-12T10:09:35Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
