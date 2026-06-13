@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T12:55:38.464Z",
+    "generated_at": "2026-06-13T15:04:31.114Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "India summons US diplomat after attacks on commercial vessels kill three Indian sailors",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/india-summons-us-diplomat-gulf-oman-attacks/",
-        "published": "2026-06-12T12:54:31Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Current price of oil as of June 12, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-06-12-2026/",
-        "published": "2026-06-12T12:52:11Z",
+        "title": "Analysis: Iran's stranglehold on Strait of Hormuz loosens as Gulf Arab oil reaches market",
+        "source": "seattlepi.com",
+        "url": "https://www.seattlepi.com/news/world/article/analysis-iran-s-stranglehold-on-strait-of-hormuz-22302575.php",
+        "published": "2026-06-12T14:40:53Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran faces growing pressure from US blockade as oil revenue evaporates and crypto becomes a lifeline",
+        "title": "US Energy Secretary Wright warns military action may restore product flow through Strait of Hormuz",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-us-blockade-oil-revenue-crypto/",
-        "published": "2026-06-12T12:31:13Z",
+        "url": "https://cryptobriefing.com/wright-military-strait-hormuz-energy-crypto/",
+        "published": "2026-06-12T14:28:23Z",
         "sentiment": "danger"
       },
       {
-        "title": "So you want to buy a gaming handheld PC",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/games/947469/best-handheld-gaming-pc",
-        "published": "2026-06-12T12:30:31Z",
-        "sentiment": "watch"
+        "title": "Trump calls Iranian drone attack on Indian ships totally unacceptable as crypto markets react to Strait of Hormuz tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-iran-drone-attack-indian-ships-crypto/",
+        "published": "2026-06-12T14:10:43Z",
+        "sentiment": "danger"
       },
       {
-        "title": "June 12: Iran says MoU with US nearing completion, while reaffirming red lines and military readiness",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260612-presstv04.htm",
-        "published": "2026-06-12T12:00:00Z",
+        "title": "India protests use of ‘deadly force’ by US on commercial shipping that killed three",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/india-protests-use-of-deadly-force-by-us-on-commercial-shipping-that-killed-three/article71093989.ece",
+        "published": "2026-06-12T14:01:41Z",
         "sentiment": "watch"
       }
     ],
