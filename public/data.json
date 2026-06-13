@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T15:04:31.114Z",
+    "generated_at": "2026-06-13T16:49:23.038Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,24 @@
   "news": {
     "hormuz": [
       {
-        "title": "Analysis: Iran's stranglehold on Strait of Hormuz loosens as Gulf Arab oil reaches market",
-        "source": "seattlepi.com",
-        "url": "https://www.seattlepi.com/news/world/article/analysis-iran-s-stranglehold-on-strait-of-hormuz-22302575.php",
-        "published": "2026-06-12T14:40:53Z",
+        "title": "Pakistan confirms final text of peace deal reached between Iran and US",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/pakistan-confirms-iran-us-peace-deal/",
+        "published": "2026-06-12T16:30:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "US Energy Secretary Wright warns military action may restore product flow through Strait of Hormuz",
+        "title": "US and Iran inch toward deal to reopen Strait of Hormuz, with Bitcoin playing a surprising role",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/wright-military-strait-hormuz-energy-crypto/",
-        "published": "2026-06-12T14:28:23Z",
+        "url": "https://cryptobriefing.com/us-iran-strait-hormuz-bitcoin-deal/",
+        "published": "2026-06-12T16:08:47Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump calls Iranian drone attack on Indian ships totally unacceptable as crypto markets react to Strait of Hormuz tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-drone-attack-indian-ships-crypto/",
-        "published": "2026-06-12T14:10:43Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "India protests use of ‘deadly force’ by US on commercial shipping that killed three",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/india-protests-use-of-deadly-force-by-us-on-commercial-shipping-that-killed-three/article71093989.ece",
-        "published": "2026-06-12T14:01:41Z",
+        "title": "China controls 90% of rare-earth processing — now a $204 million US investment in France aims to change that",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/commodities/articles/china-controls-90-rare-earth-160500367.html",
+        "published": "2026-06-12T16:05:00Z",
         "sentiment": "watch"
       }
     ],
