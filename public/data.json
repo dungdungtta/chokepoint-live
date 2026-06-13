@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T04:53:22.908Z",
+    "generated_at": "2026-06-13T08:28:13.958Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Sensex, Nifty up over 1% on softer crude, easing West Asia tensions; L&T, IndiGo lead Nifty 50 gainers",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty-up-over-1-on-softer-crude-easing-west-asia-tensions-lt-indigo-lead-nifty-50-gainers/article71092234.ece",
-        "published": "2026-06-12T04:32:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "UN chief condemns attack on tanker that killed three Indian seafarers: spokesperson",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/un-chief-condemns-attack-on-tanker-that-killed-three-indian-seafarers-spokesperson/article71092166.ece",
-        "published": "2026-06-12T04:18:36Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Gaza Genocide, Inc.: The Permanent-Conflict Industry",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/06/genocide-permanent-conflict.html",
-        "published": "2026-06-12T04:06:04Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why is market rising today? Sensex zooms 1,000 points, Nifty above 23,400. 4 key factors powering the rally",
+        "title": "Is India's economic growth real? Raghuram Rajan says something is off",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-zooms-1000-points-nifty-above-23400-4-key-factors-powering-the-rally/articleshow/131673189.cms",
-        "published": "2026-06-12T03:59:46Z",
+        "url": "https://economictimes.indiatimes.com/news/economy/policy/is-indias-economic-growth-real-raghuram-rajan-says-something-is-off/articleshow/131676593.cms",
+        "published": "2026-06-12T08:20:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "US-Iran MoU to reopen Strait of Hormuz, extend ceasefire for 60 days, and what it means for crypto",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-mou-hormuz-ceasefire-crypto/",
-        "published": "2026-06-12T03:37:33Z",
+        "title": "Trump Claims Iran Deal Close in Uturn",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/trump_claims_iran_deal_close_in_uturn-12-jun-2026-183909-article/",
+        "published": "2026-06-12T08:02:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US-Iran ceasefire? Not for Indian sailors being killed in Hormuz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/12/us-iran-ceasefire-not-for-indian-sailors-being-killed-in-hormuz",
+        "published": "2026-06-12T07:49:29Z",
         "sentiment": "neutral"
+      },
+      {
+        "title": "Why are oil, gold and silver prices down today, and will Brent futures, US WTI crude and precious metals prices continue to drop or rise again? Market reacts to Iran peace deal hopes and rate concerns",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-gold-and-silver-prices-down-today-and-will-brent-futures-us-wti-crude-and-precious-metals-prices-continue-to-drop-or-rise-again-market-reacts-to-iran-peace-deal-hopes-and-rate-concerns/articleshow/131677366.cms",
+        "published": "2026-06-12T07:31:08Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "C-17s fly to Europe for Vance as Trump claims 'great settlement' with Iran",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4383441/posts",
+        "published": "2026-06-12T06:58:32Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan fires dozens of U.S.-supplied rockets toward China in historic live-fire exercise",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-06-12-taiwan-fires-dozens-of-u-s-supplied-rockets-toward-china-in-historic-live-fire-exercise.html",
+        "published": "2026-06-12T06:00:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Taiwan opposition leader says Xi meeting avoided 'reunification' talk",
         "source": "NPR",
@@ -90,13 +97,6 @@
         "url": "https://www.fairobserver.com/more/science/how-drone-warfare-is-rewiring-geopolitics-and-rewriting-the-age-of-superpowers/",
         "published": "2026-06-11T13:47:53Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Links 6/11/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/06/links-6-11-2026.html",
-        "published": "2026-06-11T10:57:12Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
