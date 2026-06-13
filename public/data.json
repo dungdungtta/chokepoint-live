@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T00:02:38.888Z",
+    "generated_at": "2026-06-13T04:53:22.908Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Three missing Indian seafarers onboard MT Settebello confirmed dead: Sonowal",
-        "source": "Thehillstimes.in",
-        "url": "https://thehillstimes.in/assam/three-missing-indian-seafarers-onboard-mt-settebello-confirmed-dead-sonowal",
-        "published": "2026-06-11T23:40:00Z",
+        "title": "Sensex, Nifty up over 1% on softer crude, easing West Asia tensions; L&T, IndiGo lead Nifty 50 gainers",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty-up-over-1-on-softer-crude-easing-west-asia-tensions-lt-indigo-lead-nifty-50-gainers/article71092234.ece",
+        "published": "2026-06-12T04:32:49Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran says deal not finalised, Trump hopes to sign soon",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/0612/1578042-iran-trump-us/",
-        "published": "2026-06-11T23:33:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran says deal not finalised, Trump hopes to sign soon",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/0612/1578042-iran-says-deal-not-finalised-trump-hopes-to-sign-soon/",
-        "published": "2026-06-11T23:33:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Drops to Two-Month Low as Trump Says Deal With Iran Is Close",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-drops-to-two-month-low-as-trump-says-deal-with-iran-is-close",
-        "published": "2026-06-11T23:08:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "These strikes must stop, asserts Delhi",
-        "source": "Thehillstimes.in",
-        "url": "https://thehillstimes.in/national/these-strikes-must-stop-asserts-delhi",
-        "published": "2026-06-11T23:00:00Z",
+        "title": "UN chief condemns attack on tanker that killed three Indian seafarers: spokesperson",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/un-chief-condemns-attack-on-tanker-that-killed-three-indian-seafarers-spokesperson/article71092166.ece",
+        "published": "2026-06-12T04:18:36Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Gaza Genocide, Inc.: The Permanent-Conflict Industry",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/06/genocide-permanent-conflict.html",
+        "published": "2026-06-12T04:06:04Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Why is market rising today? Sensex zooms 1,000 points, Nifty above 23,400. 4 key factors powering the rally",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-zooms-1000-points-nifty-above-23400-4-key-factors-powering-the-rally/articleshow/131673189.cms",
+        "published": "2026-06-12T03:59:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US-Iran MoU to reopen Strait of Hormuz, extend ceasefire for 60 days, and what it means for crypto",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-mou-hormuz-ceasefire-crypto/",
+        "published": "2026-06-12T03:37:33Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
