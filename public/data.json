@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T16:58:36.841Z",
+    "generated_at": "2026-06-14T18:20:34.590Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran to open Strait of Hormuz under new agreement, with crypto toll payments in the mix",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-strait-hormuz-crypto-toll-payments/",
-        "published": "2026-06-13T16:52:45Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "China's Dalian Airport Isn't A Building - It's An Artificial Island",
-        "source": "BGR",
-        "url": "https://www.bgr.com/2190744/china-dalian-airport-artificial-island-explained/",
-        "published": "2026-06-13T16:47:00Z",
+        "title": "5-Qt Castrol GTX High Mileage 5W-20 Synthetic Blend Motor Oil $14.20 w/ S&S + Free Shipping w/ Prime or on $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19625934-5-qt-castrol-gtx-high-mileage-5w-20-synthetic-blend-motor-oil-14-20-w-s-s-free-shipping-w-prime-or-on-35",
+        "published": "2026-06-13T18:13:10Z",
         "sentiment": "watch"
       },
       {
-        "title": "US tells India violation of its Hormuz blockade will not be tolerated",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/us-tells-india-violation-of-its-hormuz-blockade-will-not-be-tolerated/article71098340.ece",
-        "published": "2026-06-13T15:19:29Z",
-        "sentiment": "danger"
+        "title": "426 Hemi–Powered 1966 Plymouth Belvedere II Hardtop",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1966-plymouth-belvedere-ii-21/",
+        "published": "2026-06-13T18:05:05Z",
+        "sentiment": "watch"
       },
       {
-        "title": "A deal to the end the U.S.-Iran war could be finalized within 24 hours. Tehran wants to charge ships crossing Hormuz ‘for services rendered’",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/13/us-iran-war-peace-deal-ships-strait-of-hormuz-services-rendered-fee/",
-        "published": "2026-06-13T14:28:17Z",
-        "sentiment": "danger"
+        "title": "Jaishankar tells Rubio killing of Indian mariners by US forces 'cannot be justified'",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/india/jaishankar-tells-rubio-killing-of-indian-mariners-by-us-forces-cannot-be-justified/articleshow/131710288.cms",
+        "published": "2026-06-13T18:04:29Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Pakistan brokers Iran-US peace deal with electronic MoU signing set for Sunday",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/pakistan-iran-us-mou-signing-sunday/",
-        "published": "2026-06-13T14:18:20Z",
+        "title": "US-Iran deal scheduled to be signed on Sunday, says Trump",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvglmn49xz0o",
+        "published": "2026-06-13T18:03:51Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S.-Iran Peace Deal Expected To Be Signed Sunday, Trump Says",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/13/us-iran-peace-deal-expected-to-be-signed-sunday-trump-says/",
+        "published": "2026-06-13T17:33:03Z",
         "sentiment": "watch"
       }
     ],
