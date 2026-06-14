@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T15:27:01.702Z",
+    "generated_at": "2026-06-14T16:58:36.841Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran to open Strait of Hormuz under new agreement, with crypto toll payments in the mix",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-strait-hormuz-crypto-toll-payments/",
+        "published": "2026-06-13T16:52:45Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "China's Dalian Airport Isn't A Building - It's An Artificial Island",
+        "source": "BGR",
+        "url": "https://www.bgr.com/2190744/china-dalian-airport-artificial-island-explained/",
+        "published": "2026-06-13T16:47:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US tells India violation of its Hormuz blockade will not be tolerated",
         "source": "BusinessLine",
         "url": "https://www.thehindubusinessline.com/news/world/us-tells-india-violation-of-its-hormuz-blockade-will-not-be-tolerated/article71098340.ece",
@@ -45,20 +59,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/pakistan-iran-us-mou-signing-sunday/",
         "published": "2026-06-13T14:18:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Wholesale inflation is back in focus. Here’s what PPI means for your money and Bitcoin",
-        "source": "CryptoSlate",
-        "url": "https://cryptoslate.com/wholesale-inflation-is-back-in-focus-heres-what-ppi-means-for-your-money-and-bitcoin/",
-        "published": "2026-06-13T14:15:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "‘Comply with US forces in Hormuz immediately,’ Rubio tells Jaishankar amid row over Indian sailors",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/comply-with-us-forces-in-hormuz-immediately-rubio-tells-jaishankar-amid-row-over-indian-sailors/articleshow/131705764.cms",
-        "published": "2026-06-13T13:42:51Z",
         "sentiment": "watch"
       }
     ],
