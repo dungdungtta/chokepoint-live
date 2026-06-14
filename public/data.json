@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T05:17:24.691Z",
+    "generated_at": "2026-06-14T08:53:58.290Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "India eyes global bio-energy leadership with unified push on capital, missions and SAF exports",
+        "title": "Indian seafarers' deaths, disputed attacks and a widening US-Iran blame game",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/india/india-eyes-global-bio-energy-leadership-with-unified-push-on-capital-missions-and-saf-exports/articleshow/131698084.cms",
-        "published": "2026-06-13T05:12:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "News Summary-Intelligence Report 6/12/2026*Newsdump Friday*Epstein Ties Controversy*Iran Deal Spin*DOJ Sues Virginia Mask Law*US Biolab Funding 30+ Nations*China Arrests American Spy Suspect*Ukraine Drones Attack Moscow*China Oil Reserves Keep Prices...*",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-bloggers/4383559/posts",
-        "published": "2026-06-13T04:05:03Z",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/indian-seafarers-deaths-disputed-attacks-and-a-widening-us-iran-blame-game/articleshow/131700203.cms",
+        "published": "2026-06-13T08:46:47Z",
         "sentiment": "danger"
       },
       {
-        "title": "Why has Trump has backed away from renewed war with Iran?",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/06/trump-backed-renewed.html",
-        "published": "2026-06-13T04:04:39Z",
+        "title": "US forces shoot down Iranian attack drones near Strait of Hormuz, Bitcoin drops below $73K",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-shoots-down-iran-drones-bitcoin-drops/",
+        "published": "2026-06-13T06:28:50Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump's seven objectives that remain unfulfilled as officials say Iran war could soon end",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/trumps-seven-objectives-that-remain-unfulfilled-as-officials-say-iran-war-could-soon-end/articleshow/131697146.cms",
-        "published": "2026-06-13T03:37:19Z",
-        "sentiment": "danger"
+        "title": "US–Iran Agreement Near Final Stage: What It Includes for the Strait of Hormuz, While Uranium Stockpiles Remain a Sticking Point",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/06/13/us-iran-agreement-near-final-stage-what-it-includes-for-the-strait-of-hormuz-while-uranium-stockpiles-remain-a-sticking-point/",
+        "published": "2026-06-13T06:26:00Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "India Foreign Minister Expresses Protest to Rubio Over US Strikes on Ships in Gulf of Oman",
-        "source": "Sputnikglobe.com",
-        "url": "https://sputnikglobe.com/20260613/india-foreign-minister-expresses-protest-to-rubio-over-us-strikes-on-ships-in-gulf-of-oman-1124305210.html",
-        "published": "2026-06-13T03:37:00Z",
+        "title": "Iranian paper: Strait of Hormuz won’t reopen via US diplomacy",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iranian-paper-strait-of-hormuz-wont-reopen-via-us-diplomacy/",
+        "published": "2026-06-13T06:18:05Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "UAE and Iran hold historic face-to-face meeting amid gulf tensions: A calculated shift in the shadow of war",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-06-13-uae-iraq-face-to-face-meeting.html",
+        "published": "2026-06-13T06:00:00Z",
         "sentiment": "danger"
       }
     ],
