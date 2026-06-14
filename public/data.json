@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T08:53:58.290Z",
+    "generated_at": "2026-06-14T11:34:39.597Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Indian seafarers' deaths, disputed attacks and a widening US-Iran blame game",
+        "title": "US Downs Iranian Attack Drones, Even As Momentum For Deal Builds",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260613-rferl01.htm",
+        "published": "2026-06-13T11:23:37Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Pakistan PM Shehbaz Sharif says US-Iran peace deal signing expected within 24 hours",
+        "source": "The Indian Express",
+        "url": "https://indianexpress.com/article/world/pakistan-pm-shehbaz-sharif-says-us-iran-peace-deal-signing-expected-within-24-hours-10737969/",
+        "published": "2026-06-13T11:20:47Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Pakistan PM says US-Iran peace deal signing expected within 24 hours",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/indian-seafarers-deaths-disputed-attacks-and-a-widening-us-iran-blame-game/articleshow/131700203.cms",
-        "published": "2026-06-13T08:46:47Z",
-        "sentiment": "danger"
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-pm-says-us-iran-peace-deal-signing-expected-within-24-hours/articleshow/131703039.cms",
+        "published": "2026-06-13T11:15:48Z",
+        "sentiment": "watch"
       },
       {
-        "title": "US forces shoot down Iranian attack drones near Strait of Hormuz, Bitcoin drops below $73K",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-shoots-down-iran-drones-bitcoin-drops/",
-        "published": "2026-06-13T06:28:50Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US–Iran Agreement Near Final Stage: What It Includes for the Strait of Hormuz, While Uranium Stockpiles Remain a Sticking Point",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/06/13/us-iran-agreement-near-final-stage-what-it-includes-for-the-strait-of-hormuz-while-uranium-stockpiles-remain-a-sticking-point/",
-        "published": "2026-06-13T06:26:00Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Iranian paper: Strait of Hormuz won’t reopen via US diplomacy",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iranian-paper-strait-of-hormuz-wont-reopen-via-us-diplomacy/",
-        "published": "2026-06-13T06:18:05Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "UAE and Iran hold historic face-to-face meeting amid gulf tensions: A calculated shift in the shadow of war",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-06-13-uae-iraq-face-to-face-meeting.html",
-        "published": "2026-06-13T06:00:00Z",
-        "sentiment": "danger"
+        "title": "Links 6/13/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/06/links-6-13-2026.html",
+        "published": "2026-06-13T10:59:53Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
