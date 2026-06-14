@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T11:34:39.597Z",
+    "generated_at": "2026-06-14T13:19:31.742Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iranian drones downed in Hormuz – US",
+        "source": "RT",
+        "url": "https://www.rt.com/news/641489-iran-us-drones-hormuz/",
+        "published": "2026-06-13T12:30:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "What we know about a possible deal to end the Iran war",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/what-we-know-about-a-possible-deal-to-end-the-iran-war/articleshow/131703618.cms",
+        "published": "2026-06-13T11:50:28Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran-U. S war, Strait of Hormuz reopen deal between Tehran and Washington: Is the conflict finally ending?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/iran-u-s-war-strait-of-hormuz-reopen-deal-between-tehran-and-washington-is-the-conflict-finally-ending/articleshow/131703403.cms",
+        "published": "2026-06-13T11:38:10Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "US Downs Iranian Attack Drones, Even As Momentum For Deal Builds",
         "source": "Globalsecurity.org",
         "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260613-rferl01.htm",
@@ -39,23 +60,16 @@
         "url": "https://indianexpress.com/article/world/pakistan-pm-shehbaz-sharif-says-us-iran-peace-deal-signing-expected-within-24-hours-10737969/",
         "published": "2026-06-13T11:20:47Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Pakistan PM says US-Iran peace deal signing expected within 24 hours",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-pm-says-us-iran-peace-deal-signing-expected-within-24-hours/articleshow/131703039.cms",
-        "published": "2026-06-13T11:15:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Links 6/13/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/06/links-6-13-2026.html",
-        "published": "2026-06-13T10:59:53Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "KMT chair seeks direct communication channel with U.S. on defense issues",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260613-cna02.htm",
+        "published": "2026-06-13T12:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Pivot to Beijing: How Xi Jinping Became the World’s Indispensable Leader",
         "source": "Khabarhub.com",
@@ -83,13 +97,6 @@
         "url": "https://www.naturalnews.com/2026-06-12-taiwan-fires-dozens-of-u-s-supplied-rockets-toward-china-in-historic-live-fire-exercise.html",
         "published": "2026-06-12T06:00:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Taiwan opposition leader says Xi meeting avoided 'reunification' talk",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/06/11/g-s1-127478/taiwan-opposition-leader-says-xi-meeting-avoided-reunification-talk",
-        "published": "2026-06-11T16:53:25Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
