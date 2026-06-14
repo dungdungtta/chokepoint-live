@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T22:46:53.609Z",
+    "generated_at": "2026-06-14T00:16:57.423Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "The U.S. and Iran Might Actually Have a Deal",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/national-security/2026/06/us-iran-war-deal-trump/687543/",
+        "published": "2026-06-12T23:10:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "India summons US charge d’affaires over strikes on merchant ships with Indian crew",
+        "source": "Thehillstimes.in",
+        "url": "https://thehillstimes.in/national/india-summons-us-charge-daffaires-over-strikes-on-merchant-ships-with-indian-crew",
+        "published": "2026-06-12T23:10:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "27-Years-Owned 1967 Dodge Charger 383",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1967-dodge-charger-31/",
+        "published": "2026-06-12T23:00:12Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "1967 Chevrolet Corvette Convertible L79 327/350 4-Speed",
         "source": "Bringatrailer.com",
         "url": "https://bringatrailer.com/listing/1967-chevrolet-corvette-convertible-336/",
@@ -39,30 +60,23 @@
         "url": "https://cryptobriefing.com/trump-iran-deal-step-by-step-crypto-sanctions/",
         "published": "2026-06-12T22:35:30Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "2024 Harley-Davidson Road Glide",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2024-harley-davidson-road-glide-4/",
-        "published": "2026-06-12T22:33:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump says ceasefire deal 'close', but it could be on Iran's terms",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-06-13/trump-says-ceasefire-is-close-but-it-could-be-on-irans-terms/106793394",
-        "published": "2026-06-12T22:12:07Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "1973 Triumph Bonneville T140V at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1973-triumph-bonneville-t140v-11/",
-        "published": "2026-06-12T22:09:15Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Pivot to Beijing: How Xi Jinping Became the World’s Indispensable Leader",
+        "source": "Khabarhub.com",
+        "url": "https://english.khabarhub.com/2026/13/553370/",
+        "published": "2026-06-13T00:15:19Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan's opposition leader touts talks with China as necessary for peace",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/taiwans-opposition-leader-touts-talks-china-peace-us-133830225",
+        "published": "2026-06-12T23:24:31Z",
+        "sentiment": "neutral"
+      },
       {
         "title": "KMT chair exchanges views with U.S. lawmakers, experts on Taiwan security",
         "source": "Globalsecurity.org",
@@ -82,20 +96,6 @@
         "source": "NPR",
         "url": "https://www.npr.org/2026/06/11/g-s1-127478/taiwan-opposition-leader-says-xi-meeting-avoided-reunification-talk",
         "published": "2026-06-11T16:53:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How Taiwan is balancing between American and Chinese visions of energy dominance",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/how-taiwan-is-balancing-between-american-and-chinese-visions-of-energy-dominance-284701",
-        "published": "2026-06-11T15:44:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Washington’s Asian Allies Need a Backup Plan",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/06/11/trump-asia-strategy-rethink/",
-        "published": "2026-06-11T14:57:44Z",
         "sentiment": "watch"
       }
     ],
