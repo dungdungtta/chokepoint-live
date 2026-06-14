@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T21:41:57.164Z",
+    "generated_at": "2026-06-14T22:54:30.591Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "US strike against Tren de Aragua leader in Venezuela exemplifies Trump's approach to war on drugs",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/us-strike-tren-de-aragua-leader-venezuela-exemplifies-133851021",
+        "published": "2026-06-13T21:53:02Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Trump says Iran deal to be signed on Sunday as Bitcoin climbs above $63K",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/trump-iran-deal-bitcoin-reaction/",
@@ -52,13 +59,6 @@
         "source": "Motley Fool Australia",
         "url": "https://www.fool.com.au/2026/06/14/sunwhy-did-asx-200-retail-shares-outperform-last-week-week-24-2026/",
         "published": "2026-06-13T20:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "'Who will be accountable for this?': Families grieve sailors killed in Strait of Hormuz",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-06-14/indian-sailors-deaths-strait-of-hormuz/106792790",
-        "published": "2026-06-13T19:42:44Z",
         "sentiment": "watch"
       }
     ],
