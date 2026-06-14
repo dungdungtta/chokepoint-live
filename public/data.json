@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T18:20:34.590Z",
+    "generated_at": "2026-06-14T20:07:44.876Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "'Who will be accountable for this?': Families grieve sailors killed in Strait of Hormuz",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-06-14/indian-sailors-deaths-strait-of-hormuz/106792790",
+        "published": "2026-06-13T19:42:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran peace deal set for Sunday, Hormuz to reopen, says Trump",
+        "source": "The Punch",
+        "url": "https://punchng.com/iran-peace-deal-set-for-sunday-hormuz-to-reopen-says-trump/",
+        "published": "2026-06-13T19:35:05Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "1994 BMW R100GS PD",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1994-bmw-r100gs-7/",
+        "published": "2026-06-13T19:10:14Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US Refiners Can Still Absorb More Venezuelan Oil",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/us-refiners-can-still-absorb-more-venezuelan-oil/",
+        "published": "2026-06-13T18:25:18Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "5-Qt Castrol GTX High Mileage 5W-20 Synthetic Blend Motor Oil $14.20 w/ S&S + Free Shipping w/ Prime or on $35+",
         "source": "Slickdeals.net",
         "url": "https://slickdeals.net/f/19625934-5-qt-castrol-gtx-high-mileage-5w-20-synthetic-blend-motor-oil-14-20-w-s-s-free-shipping-w-prime-or-on-35",
         "published": "2026-06-13T18:13:10Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "426 Hemi–Powered 1966 Plymouth Belvedere II Hardtop",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1966-plymouth-belvedere-ii-21/",
-        "published": "2026-06-13T18:05:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Jaishankar tells Rubio killing of Indian mariners by US forces 'cannot be justified'",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/india/jaishankar-tells-rubio-killing-of-indian-mariners-by-us-forces-cannot-be-justified/articleshow/131710288.cms",
-        "published": "2026-06-13T18:04:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US-Iran deal scheduled to be signed on Sunday, says Trump",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cvglmn49xz0o",
-        "published": "2026-06-13T18:03:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S.-Iran Peace Deal Expected To Be Signed Sunday, Trump Says",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/13/us-iran-peace-deal-expected-to-be-signed-sunday-trump-says/",
-        "published": "2026-06-13T17:33:03Z",
         "sentiment": "watch"
       }
     ],
