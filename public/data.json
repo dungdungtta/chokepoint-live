@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T22:54:30.591Z",
+    "generated_at": "2026-06-15T00:19:43.137Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Alang shipbreaking yard, world's largest, faces worst-ever crisis as vessel arrivals hit record low",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/alang-shipbreaking-yard-worlds-largest-faces-worst-ever-crisis-as-vessel-arrivals-hit-record-low/articleshow/131710743.cms",
+        "published": "2026-06-14T00:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Jaishankar raises Indian mariners’ killing with Rubio; calls US strike on commercial shipping unjustified",
+        "source": "Thehillstimes.in",
+        "url": "https://thehillstimes.in/national/jaishankar-raises-indian-mariners-killing-with-rubio-calls-us-strike-on-commercial-shipping-unjustified",
+        "published": "2026-06-13T23:10:00Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "US strike against Tren de Aragua leader in Venezuela exemplifies Trump's approach to war on drugs",
         "source": "Abcnews.com",
         "url": "https://abcnews.com/International/wireStory/us-strike-tren-de-aragua-leader-venezuela-exemplifies-133851021",
@@ -45,20 +59,6 @@
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Energy/Energy-General/Fuel-Tax-Changes-Hit-Six-States-As-Energy-Inflation-Accelerates.html",
         "published": "2026-06-13T21:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Global central banks assess Iran war’s impact on inflation and growth",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/central-banks-iran-war-inflation-growth/",
-        "published": "2026-06-13T20:32:39Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Why did ASX 200 retail shares outperform last week?",
-        "source": "Motley Fool Australia",
-        "url": "https://www.fool.com.au/2026/06/14/sunwhy-did-asx-200-retail-shares-outperform-last-week-week-24-2026/",
-        "published": "2026-06-13T20:30:00Z",
         "sentiment": "watch"
       }
     ],
