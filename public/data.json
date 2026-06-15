@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-15T11:36:03.444Z",
+    "generated_at": "2026-06-15T16:33:19.887Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Israeli military strikes Beirut’s southern suburbs as crypto markets react to escalating Middle East tensions",
+        "title": "US Secretary of War Pete Hegseth says Israel’s Beirut strike won’t disrupt Iran deal plans",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/israel-strikes-beirut-crypto-market-volatility/",
-        "published": "2026-06-14T11:15:48Z",
+        "url": "https://cryptobriefing.com/hegseth-israel-strike-iran-deal/",
+        "published": "2026-06-14T15:48:07Z",
         "sentiment": "danger"
       },
       {
-        "title": "UK Detains Sanctioned Oil Tanker Believed to Be Tied to Russia's Shadow Fleet",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/europe/2026/06/14/uk-detains-sanctioned-oil-tanker-believed-to-be-tied-to-russias-shadow-fleet/",
-        "published": "2026-06-14T11:13:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Government asks shipping companies to restrict seafarer deployment in Persian Gulf",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/logistics/government-asks-shipping-companies-to-restrict-seafarer-deployment-in-persian-gulf/article71100867.ece",
-        "published": "2026-06-14T10:50:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "British forces intercept Russian shadow fleet tanker in English Channel",
+        "title": "US government confident in peace deal with Iran, says Ambassador Waltz",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/uk-intercepts-russian-shadow-fleet-tanker/",
-        "published": "2026-06-14T10:34:25Z",
+        "url": "https://cryptobriefing.com/us-iran-peace-deal-bitcoin-waltz/",
+        "published": "2026-06-14T15:16:44Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran and US agree on nuclear weapons ban, sanctions relief, and $24B asset release in draft memorandum",
+        "title": "Wall Street is gaining access to new catastrophe models to help predict wars",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/06/14/wall-street-natural-disaster-catastrophe-prediction-models-wars/",
+        "published": "2026-06-14T15:12:09Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump urges Israel to halt attacks on Lebanon to preserve Iran deal",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-us-nuclear-deal-sanctions-crypto-impact/",
-        "published": "2026-06-14T10:09:45Z",
-        "sentiment": "neutral"
+        "url": "https://cryptobriefing.com/trump-israel-lebanon-ceasefire-iran-deal/",
+        "published": "2026-06-14T15:04:26Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Fiji Blocks Controversial Australian-Backed Waste Incinerator Project",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Fiji-Blocks-Controversial-Australian-Backed-Waste-Incinerator-Project.html",
+        "published": "2026-06-14T15:00:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Peeling back Beijing’s grey-zone playbook",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/books/peeling-back-beijings-grey-zone-playbook/article71094621.ece",
+        "published": "2026-06-14T13:48:48Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan's spy agency launches webpage for Chinese nationals to report tips",
         "source": "The Times of India",
@@ -90,13 +97,6 @@
         "url": "https://abcnews.com/US/wireStory/taiwans-opposition-leader-touts-talks-china-peace-us-133830225",
         "published": "2026-06-12T23:24:31Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "KMT chair exchanges views with U.S. lawmakers, experts on Taiwan security",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260612-cna01.htm",
-        "published": "2026-06-12T12:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
