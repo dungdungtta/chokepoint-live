@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-15T00:19:43.137Z",
+    "generated_at": "2026-06-15T05:39:59.104Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Alang shipbreaking yard, world's largest, faces worst-ever crisis as vessel arrivals hit record low",
+        "title": "Nationals MP calls for fuel excise extension as Aussie drivers set to pay an extra 32 cents a litre within weeks",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15898223/David-Littleproud-fuel-excise-relief.html",
+        "published": "2026-06-14T05:03:19Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Nifty, Sensex to rally more on Monday? Iran peace deal among 5 factors to dictate Dalal Street this week",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/alang-shipbreaking-yard-worlds-largest-faces-worst-ever-crisis-as-vessel-arrivals-hit-record-low/articleshow/131710743.cms",
-        "published": "2026-06-14T00:00:00Z",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-sensex-to-rally-more-on-monday-iran-peace-deal-among-5-factors-to-dictate-dalal-street-this-week/articleshow/131715480.cms",
+        "published": "2026-06-14T04:27:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "Jaishankar raises Indian mariners’ killing with Rubio; calls US strike on commercial shipping unjustified",
-        "source": "Thehillstimes.in",
-        "url": "https://thehillstimes.in/national/jaishankar-raises-indian-mariners-killing-with-rubio-calls-us-strike-on-commercial-shipping-unjustified",
-        "published": "2026-06-13T23:10:00Z",
-        "sentiment": "danger"
+        "title": "Petrol, Diesel prices on June 14: Check latest rates in Delhi, Mumbai, Bengaluru and other cities",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/petrol-diesel-prices-on-june-14-check-latest-rates-in-delhi-mumbai-bengaluru-and-other-cities/articleshow/131715197.cms",
+        "published": "2026-06-14T03:54:17Z",
+        "sentiment": "watch"
       },
       {
-        "title": "US strike against Tren de Aragua leader in Venezuela exemplifies Trump's approach to war on drugs",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/us-strike-tren-de-aragua-leader-venezuela-exemplifies-133851021",
-        "published": "2026-06-13T21:53:02Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump says Iran deal to be signed on Sunday as Bitcoin climbs above $63K",
+        "title": "US naval blockade of Iran spawns $344M in crypto scams targeting stranded vessels",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-deal-bitcoin-reaction/",
-        "published": "2026-06-13T21:13:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Fuel Tax Changes Hit Six States As Energy Inflation Accelerates",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Fuel-Tax-Changes-Hit-Six-States-As-Energy-Inflation-Accelerates.html",
-        "published": "2026-06-13T21:00:00Z",
-        "sentiment": "watch"
+        "url": "https://cryptobriefing.com/us-naval-blockade-iran-crypto-scams/",
+        "published": "2026-06-14T01:42:50Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
