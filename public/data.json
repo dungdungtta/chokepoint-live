@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-15T16:33:19.887Z",
+    "generated_at": "2026-06-15T20:17:07.556Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "US Secretary of War Pete Hegseth says Israel’s Beirut strike won’t disrupt Iran deal plans",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/hegseth-israel-strike-iran-deal/",
-        "published": "2026-06-14T15:48:07Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US government confident in peace deal with Iran, says Ambassador Waltz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-peace-deal-bitcoin-waltz/",
-        "published": "2026-06-14T15:16:44Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Wall Street is gaining access to new catastrophe models to help predict wars",
+        "title": "Iran pushes differing versions of deal as U.S. sticks to timeline",
         "source": "Fortune",
-        "url": "https://fortune.com/2026/06/14/wall-street-natural-disaster-catastrophe-prediction-models-wars/",
-        "published": "2026-06-14T15:12:09Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump urges Israel to halt attacks on Lebanon to preserve Iran deal",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-israel-lebanon-ceasefire-iran-deal/",
-        "published": "2026-06-14T15:04:26Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Fiji Blocks Controversial Australian-Backed Waste Incinerator Project",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Fiji-Blocks-Controversial-Australian-Backed-Waste-Incinerator-Project.html",
-        "published": "2026-06-14T15:00:00Z",
+        "url": "https://fortune.com/2026/06/14/iran-ceasefire-terms-mou-versions-us-deal-sanctions-hormuz-blockade-nuclear-program-frozen-assets/",
+        "published": "2026-06-14T19:03:51Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Are we in for a prolonged pause on interest rates? Some economists think so",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-06-15/prolonged-pause-on-interest-rates-possible-as-rba-board-meets/106796210",
+        "published": "2026-06-14T18:43:57Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "2100 Transition Scenarios Need A Better Population Denominator",
+        "source": "CleanTechnica",
+        "url": "https://cleantechnica.com/2026/06/14/population-denominator-2100-transition-scenarios/",
+        "published": "2026-06-14T18:25:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US Central Command redirects 142 ships, disables nine under Iran blockade as crypto becomes sanctions battleground",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-central-command-iran-blockade-crypto-seizures/",
+        "published": "2026-06-14T18:11:14Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran agrees not to build a nuke, will reopen Strait of Hormuz — and US to release $25B in assets in Trump peace deal: Tehran",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4383737/posts",
+        "published": "2026-06-14T18:09:17Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
@@ -126,13 +126,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/05/china-and-maritime-chokepoints-hormuz-malacca-and-indo-pacific-vulnerability/",
         "published": "2026-05-29T12:48:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Empires of Flow Control",
-        "source": "The New York Review of Books",
-        "url": "https://www.nybooks.com/online/2026/05/14/empires-of-flow-control-hormuz/",
-        "published": "2026-05-14T11:00:00Z",
         "sentiment": "watch"
       }
     ]
