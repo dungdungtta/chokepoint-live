@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-15T20:17:07.556Z",
+    "generated_at": "2026-06-15T22:35:12.538Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran pushes differing versions of deal as U.S. sticks to timeline",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/14/iran-ceasefire-terms-mou-versions-us-deal-sanctions-hormuz-blockade-nuclear-program-frozen-assets/",
-        "published": "2026-06-14T19:03:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Are we in for a prolonged pause on interest rates? Some economists think so",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-06-15/prolonged-pause-on-interest-rates-possible-as-rba-board-meets/106796210",
-        "published": "2026-06-14T18:43:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "2100 Transition Scenarios Need A Better Population Denominator",
-        "source": "CleanTechnica",
-        "url": "https://cleantechnica.com/2026/06/14/population-denominator-2100-transition-scenarios/",
-        "published": "2026-06-14T18:25:46Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Central Command redirects 142 ships, disables nine under Iran blockade as crypto becomes sanctions battleground",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-central-command-iran-blockade-crypto-seizures/",
-        "published": "2026-06-14T18:11:14Z",
+        "title": "Trump Says Iran Peace Deal ‘Complete’—Ends Strait Of Hormuz Blockade",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/zacharyfolk/2026/06/14/trump-says-iran-peace-deal-complete-ends-strait-of-hormuz-blockade/",
+        "published": "2026-06-14T22:15:32Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran agrees not to build a nuke, will reopen Strait of Hormuz — and US to release $25B in assets in Trump peace deal: Tehran",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4383737/posts",
-        "published": "2026-06-14T18:09:17Z",
-        "sentiment": "neutral"
+        "title": "Trump completes deal with Iran, authorizes toll-free Strait of Hormuz opening",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-iran-deal-strait-hormuz-bitcoin/",
+        "published": "2026-06-14T22:11:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Crude oil today: Live updates",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/14/oil-price-iran-war-strait-hormuz-peace-deal.html",
+        "published": "2026-06-14T22:06:18Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran and US agree on peace deal framework as Bitcoin rallies past $64K",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-us-peace-deal-bitcoin-rallies/",
+        "published": "2026-06-14T22:04:59Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran to announce end of war and military operations tonight",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-end-war-military-operations-announcement/",
+        "published": "2026-06-14T22:01:58Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
