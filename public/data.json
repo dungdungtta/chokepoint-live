@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-15T05:39:59.104Z",
+    "generated_at": "2026-06-15T11:36:03.444Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Nationals MP calls for fuel excise extension as Aussie drivers set to pay an extra 32 cents a litre within weeks",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15898223/David-Littleproud-fuel-excise-relief.html",
-        "published": "2026-06-14T05:03:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Nifty, Sensex to rally more on Monday? Iran peace deal among 5 factors to dictate Dalal Street this week",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-sensex-to-rally-more-on-monday-iran-peace-deal-among-5-factors-to-dictate-dalal-street-this-week/articleshow/131715480.cms",
-        "published": "2026-06-14T04:27:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Petrol, Diesel prices on June 14: Check latest rates in Delhi, Mumbai, Bengaluru and other cities",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/petrol-diesel-prices-on-june-14-check-latest-rates-in-delhi-mumbai-bengaluru-and-other-cities/articleshow/131715197.cms",
-        "published": "2026-06-14T03:54:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US naval blockade of Iran spawns $344M in crypto scams targeting stranded vessels",
+        "title": "Israeli military strikes Beirut’s southern suburbs as crypto markets react to escalating Middle East tensions",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-naval-blockade-iran-crypto-scams/",
-        "published": "2026-06-14T01:42:50Z",
+        "url": "https://cryptobriefing.com/israel-strikes-beirut-crypto-market-volatility/",
+        "published": "2026-06-14T11:15:48Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "UK Detains Sanctioned Oil Tanker Believed to Be Tied to Russia's Shadow Fleet",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/europe/2026/06/14/uk-detains-sanctioned-oil-tanker-believed-to-be-tied-to-russias-shadow-fleet/",
+        "published": "2026-06-14T11:13:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Government asks shipping companies to restrict seafarer deployment in Persian Gulf",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/logistics/government-asks-shipping-companies-to-restrict-seafarer-deployment-in-persian-gulf/article71100867.ece",
+        "published": "2026-06-14T10:50:47Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "British forces intercept Russian shadow fleet tanker in English Channel",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/uk-intercepts-russian-shadow-fleet-tanker/",
+        "published": "2026-06-14T10:34:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran and US agree on nuclear weapons ban, sanctions relief, and $24B asset release in draft memorandum",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-us-nuclear-deal-sanctions-crypto-impact/",
+        "published": "2026-06-14T10:09:45Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan's spy agency launches webpage for Chinese nationals to report tips",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/taiwans-spy-agency-launches-webpage-for-chinese-nationals-to-report-tips/articleshow/131717332.cms",
+        "published": "2026-06-14T07:41:52Z",
+        "sentiment": "watch"
+      },
       {
         "title": "KMT chair seeks direct communication channel with U.S. on defense issues",
         "source": "Globalsecurity.org",
@@ -83,13 +97,6 @@
         "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260612-cna01.htm",
         "published": "2026-06-12T12:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan fires dozens of U.S.-supplied rockets toward China in historic live-fire exercise",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-06-12-taiwan-fires-dozens-of-u-s-supplied-rockets-toward-china-in-historic-live-fire-exercise.html",
-        "published": "2026-06-12T06:00:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
