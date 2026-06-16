@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-16T11:36:36.441Z",
+    "generated_at": "2026-06-16T16:14:12.611Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "US-Iran war: what the ‘peace deal’ really means",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/us-iran-war-what-the-peace-deal-really-means-285269",
-        "published": "2026-06-15T11:33:46Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Macron says Hormuz mission could deploy within 2-3 days after US-Iran agreement",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/macron-hormuz-mission-us-iran-agreement/",
-        "published": "2026-06-15T11:29:25Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Iran proposes 60-day toll-free transit through Hormuz Strait as ceasefire talks advance",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-hormuz-strait-toll-free-transit-crypto/",
-        "published": "2026-06-15T11:26:39Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "News24 | US-Iran peace deal met with hope, scepticism in Middle East",
-        "source": "News24",
-        "url": "https://www.news24.com/world/us-iran-deal-met-with-hope-scepticism-in-mideast-20260615-0678",
-        "published": "2026-06-15T11:22:09Z",
+        "title": "Iran Takes Victory Lap, Refers to U.S. Peace Deal as 'Surrender'",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/06/15/iran-takes-victory-lap-refers-to-u-s-peace-deal-as-surrender/",
+        "published": "2026-06-15T16:08:44Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran, US agree tentative deal to ‘end war’: Your questions answered",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/15/iran-us-agree-tentative-deal-to-end-war-your-questions-answered",
-        "published": "2026-06-15T11:21:46Z",
-        "sentiment": "danger"
+        "title": "Report Claims US-Iran Deal to End Conflict, Reopen Hormuz",
+        "source": "Southasiaviews.com",
+        "url": "https://southasiaviews.com/featured/report-claims-us-iran-deal-to-end-conflict-reopen-hormuz/",
+        "published": "2026-06-15T16:06:52Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "US-Iran MoU signed by Trump, Vance and Iran Speaker: Official",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-mou-signed-by-trump-vance-and-iran-speaker-report-hormuz-opening-blockade-lifting-part-of-deal/articleshow/131749259.cms",
+        "published": "2026-06-15T15:56:43Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "XRP rallies 10% as US–Iran peace deal boosts risk appetite",
+        "source": "Coinjournal.net",
+        "url": "https://coinjournal.net/news/xrp-rallies-10-as-us-iran-peace-deal-boosts-risk-appetite/",
+        "published": "2026-06-15T15:53:47Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US and Iran reach interim peace deal, boosting industrial shares to record highs",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-peace-deal-industrial-stocks-record/",
+        "published": "2026-06-15T15:45:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Fear of Being Left Behind: Taiwanese Concerns After the Trump–Xi Summit",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/06/fear-of-being-left-behind-taiwanese-concerns-after-the-trump-xi-summit/",
+        "published": "2026-06-15T13:10:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Iran and US Reach a Tentative Deal to End War as Israel Rules Out Withdrawing from Seized Land",
         "source": "Military.com",
@@ -89,13 +96,6 @@
         "source": "Globalsecurity.org",
         "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260613-cna02.htm",
         "published": "2026-06-13T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Pivot to Beijing: How Xi Jinping Became the World’s Indispensable Leader",
-        "source": "Khabarhub.com",
-        "url": "https://english.khabarhub.com/2026/13/553370/",
-        "published": "2026-06-13T00:15:19Z",
         "sentiment": "watch"
       }
     ],
