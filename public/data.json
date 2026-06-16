@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-16T22:20:08.868Z",
+    "generated_at": "2026-06-16T23:58:37.849Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil buyers reassess purchases after US-Iran deal sends crude prices tumbling",
+        "title": "Donald Trump seeks momentum at G7 summit after Iran deal announcement",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-buyers-reassess-us-iran-deal/",
-        "published": "2026-06-15T22:11:44Z",
+        "url": "https://cryptobriefing.com/trump-g7-iran-deal-bitcoin-rally/",
+        "published": "2026-06-15T23:57:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "US-Iran deal to reopen Strait of Hormuz set for signature on Friday, triggering $60B crypto rally",
+        "title": "UK charges captain of Russian shadow fleet tanker with sanctions breach after English Channel boarding",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-strait-hormuz-deal-crypto-rally/",
-        "published": "2026-06-15T21:56:20Z",
-        "sentiment": "neutral"
+        "url": "https://cryptobriefing.com/uk-charges-russian-shadow-fleet-tanker-captain/",
+        "published": "2026-06-15T23:54:17Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Trump's 'corrupt' cash deal with Iran roils critics as Strait of Hormuz reopening begins",
-        "source": "Raw Story",
-        "url": "https://www.rawstory.com/trump-iran-2677043099/",
-        "published": "2026-06-15T21:41:50Z",
-        "sentiment": "neutral"
+        "title": "Protesters vow to disrupt Iran's opening World Cup game by turning their backs on the players and booing the national anthem as they gather outside stadium and wave anti-regime flags ahead of kick-off",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15902589/Protesters-vow-disrupt-Irans-opening-World-Cup-game.html",
+        "published": "2026-06-15T23:45:23Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Even with deal to reopen Strait of Hormuz, it could take weeks or months for oil to fully flow",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/business/even-with-a-deal-to-reopen-the-strait-of-hormuz-it-could-take-weeks-or-months-for-oil-to-fully-flow",
-        "published": "2026-06-15T21:34:08Z",
-        "sentiment": "neutral"
+        "title": "US and Iran reach interim peace deal, boosting stock markets and nudging Bitcoin higher",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-peace-deal-stock-crypto-markets/",
+        "published": "2026-06-15T23:30:48Z",
+        "sentiment": "watch"
       },
       {
-        "title": "From itchy skin to achy joints, these supplements for dogs are nothing to woof at",
-        "source": "New York Post",
-        "url": "https://nypost.com/shopping/the-best-supplements-for-dogs-for-overall-health/",
-        "published": "2026-06-15T21:30:00Z",
+        "title": "Gas Prices Could Fall With Iran Deal. Map Shows Biggest Winners by State",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/e4012930431070db",
+        "published": "2026-06-15T23:23:42Z",
         "sentiment": "watch"
       }
     ],
