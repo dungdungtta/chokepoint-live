@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-16T16:14:12.611Z",
+    "generated_at": "2026-06-16T19:52:54.643Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran Takes Victory Lap, Refers to U.S. Peace Deal as 'Surrender'",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/06/15/iran-takes-victory-lap-refers-to-u-s-peace-deal-as-surrender/",
-        "published": "2026-06-15T16:08:44Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Report Claims US-Iran Deal to End Conflict, Reopen Hormuz",
-        "source": "Southasiaviews.com",
-        "url": "https://southasiaviews.com/featured/report-claims-us-iran-deal-to-end-conflict-reopen-hormuz/",
-        "published": "2026-06-15T16:06:52Z",
+        "title": "Hormuz may reopen, but fertiliser relief is still months away for India",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/economy/agriculture/hormuz-may-reopen-but-fertiliser-relief-is-still-months-away-for-india/articleshow/131754272.cms",
+        "published": "2026-06-15T19:47:20Z",
         "sentiment": "neutral"
       },
       {
-        "title": "US-Iran MoU signed by Trump, Vance and Iran Speaker: Official",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-mou-signed-by-trump-vance-and-iran-speaker-report-hormuz-opening-blockade-lifting-part-of-deal/articleshow/131749259.cms",
-        "published": "2026-06-15T15:56:43Z",
+        "title": "What The U.S.-Iran Ceasefire Really Means For Washington, Tehran, Israel, China And The Gulf",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/guneyyildiz/2026/06/15/what-the-us-iran-ceasefire-really-means-for-washington-tehran-israel-china-and-the-gulf/",
+        "published": "2026-06-15T19:45:46Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Merach Twister Arm Trainer & Exerciser (22-440lbs) $26 + Free S&H",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19570146-merach-twister-arm-trainer-22-440lbs-26-free-s-h",
+        "published": "2026-06-15T19:42:23Z",
         "sentiment": "watch"
       },
       {
-        "title": "XRP rallies 10% as US–Iran peace deal boosts risk appetite",
-        "source": "Coinjournal.net",
-        "url": "https://coinjournal.net/news/xrp-rallies-10-as-us-iran-peace-deal-boosts-risk-appetite/",
-        "published": "2026-06-15T15:53:47Z",
+        "title": "US and Iran agree tentative peace deal but Israel says it will not withdraw from Lebanon",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/06/15/us-and-iran-agree-tentative-peace-deal-but-israel-says-it-will-not-withdraw-from-lebanon/",
+        "published": "2026-06-15T19:37:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "US and Iran reach interim peace deal, boosting industrial shares to record highs",
+        "title": "US says it knows where Iran’s mines are in the Strait of Hormuz, expects shipping to normalize within 30 days",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-peace-deal-industrial-stocks-record/",
-        "published": "2026-06-15T15:45:00Z",
+        "url": "https://cryptobriefing.com/us-iran-mines-strait-hormuz-bitcoin/",
+        "published": "2026-06-15T19:22:13Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "How Taiwan Is Balancing Between US and Chinese Visions of Energy Dominance",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/06/how-taiwan-is-balancing-between-us-and-chinese-visions-of-energy-dominance/",
+        "published": "2026-06-15T17:14:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Fear of Being Left Behind: Taiwanese Concerns After the Trump–Xi Summit",
         "source": "The Diplomat",
@@ -89,13 +96,6 @@
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/international/world-news/taiwans-spy-agency-launches-webpage-for-chinese-nationals-to-report-tips/articleshow/131717332.cms",
         "published": "2026-06-14T07:41:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "KMT chair seeks direct communication channel with U.S. on defense issues",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260613-cna02.htm",
-        "published": "2026-06-13T12:00:00Z",
         "sentiment": "watch"
       }
     ],
