@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-16T00:18:09.847Z",
+    "generated_at": "2026-06-16T06:11:17.779Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump announces completion of US-Iran naval blockade deal, crypto markets eye stabilization",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-naval-blockade-deal-crypto/",
-        "published": "2026-06-15T00:11:49Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices slide after US and Iran sign peace deal",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c6217106px6o",
-        "published": "2026-06-15T00:07:57Z",
+        "title": "Booms & Shakes: June's hires, launches and the studios rethinking themselves",
+        "source": "Creative Boom",
+        "url": "https://www.creativeboom.com/news/booms-and-shakes-june-2026/",
+        "published": "2026-06-15T06:06:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil prices slide after Pakistan announces deal between US and Iran",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/e1613ef1ef585720",
-        "published": "2026-06-15T00:02:24Z",
+        "title": "Terms of Capitulation: How Trump’s Peace Plan Hands Iran a Decisive Victory",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-06-15-trump-peace-plan-hands-iran-decisive-victory.html",
+        "published": "2026-06-15T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil and gas supplies could take months to return to normal after Iran deal, energy experts say",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/14/oil-gas-supplies-outlook-months-normal-us-iran-deal-hormuz-shutin-fields/",
-        "published": "2026-06-15T00:01:51Z",
+        "title": "Iran Denies Final Agreement With U.S., Spokesman Cites Unresolved Details",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-06-15-iran-denies-final-agreement-us-unresolved-details.html",
+        "published": "2026-06-15T06:00:00Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The Empire’s Winter: Shattering the illusion of American comfort and reclaiming the soul of resilience",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-06-15-the-empires-winter-shattering-illusion-american-comfort.html",
+        "published": "2026-06-15T06:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Ashok Leyland, Tata Motors and other CV stocks soar up to 9%. What’s triggering the surge?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ashok-leyland-tata-motors-and-other-cv-stocks-soar-up-to-9-whats-triggering-the-surge/articleshow/131734616.cms",
+        "published": "2026-06-15T05:47:30Z",
         "sentiment": "watch"
       }
     ],
