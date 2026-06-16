@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-16T06:11:17.779Z",
+    "generated_at": "2026-06-16T11:36:36.441Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Booms & Shakes: June's hires, launches and the studios rethinking themselves",
-        "source": "Creative Boom",
-        "url": "https://www.creativeboom.com/news/booms-and-shakes-june-2026/",
-        "published": "2026-06-15T06:06:00Z",
-        "sentiment": "watch"
+        "title": "US-Iran war: what the ‘peace deal’ really means",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/us-iran-war-what-the-peace-deal-really-means-285269",
+        "published": "2026-06-15T11:33:46Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Terms of Capitulation: How Trump’s Peace Plan Hands Iran a Decisive Victory",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-06-15-trump-peace-plan-hands-iran-decisive-victory.html",
-        "published": "2026-06-15T06:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran Denies Final Agreement With U.S., Spokesman Cites Unresolved Details",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-06-15-iran-denies-final-agreement-us-unresolved-details.html",
-        "published": "2026-06-15T06:00:00Z",
+        "title": "Macron says Hormuz mission could deploy within 2-3 days after US-Iran agreement",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/macron-hormuz-mission-us-iran-agreement/",
+        "published": "2026-06-15T11:29:25Z",
         "sentiment": "neutral"
       },
       {
-        "title": "The Empire’s Winter: Shattering the illusion of American comfort and reclaiming the soul of resilience",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-06-15-the-empires-winter-shattering-illusion-american-comfort.html",
-        "published": "2026-06-15T06:00:00Z",
+        "title": "Iran proposes 60-day toll-free transit through Hormuz Strait as ceasefire talks advance",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-hormuz-strait-toll-free-transit-crypto/",
+        "published": "2026-06-15T11:26:39Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "News24 | US-Iran peace deal met with hope, scepticism in Middle East",
+        "source": "News24",
+        "url": "https://www.news24.com/world/us-iran-deal-met-with-hope-scepticism-in-mideast-20260615-0678",
+        "published": "2026-06-15T11:22:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "Ashok Leyland, Tata Motors and other CV stocks soar up to 9%. What’s triggering the surge?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ashok-leyland-tata-motors-and-other-cv-stocks-soar-up-to-9-whats-triggering-the-surge/articleshow/131734616.cms",
-        "published": "2026-06-15T05:47:30Z",
-        "sentiment": "watch"
+        "title": "Iran, US agree tentative deal to ‘end war’: Your questions answered",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/15/iran-us-agree-tentative-deal-to-end-war-your-questions-answered",
+        "published": "2026-06-15T11:21:46Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Iran and US Reach a Tentative Deal to End War as Israel Rules Out Withdrawing from Seized Land",
+        "source": "Military.com",
+        "url": "https://military.com/iran-and-us-reach-a-tentative-deal-to-end-war-as-israel-rules-out-withdrawing-from-seized-land",
+        "published": "2026-06-15T09:49:14Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Peeling back Beijing’s grey-zone playbook",
         "source": "BusinessLine",
@@ -90,13 +97,6 @@
         "url": "https://english.khabarhub.com/2026/13/553370/",
         "published": "2026-06-13T00:15:19Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan's opposition leader touts talks with China as necessary for peace",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/taiwans-opposition-leader-touts-talks-china-peace-us-133830225",
-        "published": "2026-06-12T23:24:31Z",
-        "sentiment": "neutral"
       }
     ],
     "malacca": [
