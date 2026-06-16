@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-15T22:35:12.538Z",
+    "generated_at": "2026-06-16T00:18:09.847Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump Says Iran Peace Deal ‘Complete’—Ends Strait Of Hormuz Blockade",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/zacharyfolk/2026/06/14/trump-says-iran-peace-deal-complete-ends-strait-of-hormuz-blockade/",
-        "published": "2026-06-14T22:15:32Z",
+        "title": "Trump announces completion of US-Iran naval blockade deal, crypto markets eye stabilization",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-iran-naval-blockade-deal-crypto/",
+        "published": "2026-06-15T00:11:49Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump completes deal with Iran, authorizes toll-free Strait of Hormuz opening",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-deal-strait-hormuz-bitcoin/",
-        "published": "2026-06-14T22:11:38Z",
+        "title": "Oil prices slide after US and Iran sign peace deal",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c6217106px6o",
+        "published": "2026-06-15T00:07:57Z",
         "sentiment": "watch"
       },
       {
-        "title": "Crude oil today: Live updates",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/14/oil-price-iran-war-strait-hormuz-peace-deal.html",
-        "published": "2026-06-14T22:06:18Z",
+        "title": "Oil prices slide after Pakistan announces deal between US and Iran",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/e1613ef1ef585720",
+        "published": "2026-06-15T00:02:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran and US agree on peace deal framework as Bitcoin rallies past $64K",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-us-peace-deal-bitcoin-rallies/",
-        "published": "2026-06-14T22:04:59Z",
+        "title": "Oil and gas supplies could take months to return to normal after Iran deal, energy experts say",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/06/14/oil-gas-supplies-outlook-months-normal-us-iran-deal-hormuz-shutin-fields/",
+        "published": "2026-06-15T00:01:51Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran to announce end of war and military operations tonight",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-end-war-military-operations-announcement/",
-        "published": "2026-06-14T22:01:58Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
