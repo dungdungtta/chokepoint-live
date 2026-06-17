@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-17T21:46:20.561Z",
+    "generated_at": "2026-06-17T23:44:26.414Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "G7 leaders express optimism for peace after Trump's 'very good' Zelenskiy meeting",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/politics/g7-leaders-express-optimism-for-peace-after-trump%27s-%27very-good%27-zelenskiy-meeting1",
-        "published": "2026-06-16T21:43:15Z",
+        "title": "Introducing Peace 1.0™",
+        "source": "Mcsweeneys.net",
+        "url": "https://www.mcsweeneys.net/articles/introducing-peace-10",
+        "published": "2026-06-16T23:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Consumer confidence sinks to lowest level since 2023 amid global tensions",
-        "source": "New Zealand Herald",
-        "url": "https://www.nzherald.co.nz/business/economy/consumer-confidence-sinks-to-lowest-level-since-2023-amid-global-tensions/JODX3FUW4VAVBCT72ILNEDB7TA/",
-        "published": "2026-06-16T21:36:04Z",
+        "title": "US-Iran Memorandum Signing Sets Up Macro Catalyst For Bitcoin Traders",
+        "source": "Bitcoinist",
+        "url": "https://bitcoinist.com/us-iran-memorandum-signing-sets-up-macro-catalyst-for-bitcoin-traders/",
+        "published": "2026-06-16T23:09:37Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran hardliners protest US-Iran deal, but regime backs agreement as crypto crackdown intensifies",
+        "title": "China Reclaims Solar Crown With Record-Breaking Perovskite Panel",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/China-Reclaims-Solar-Crown-With-Record-Breaking-Perovskite-Panel.html",
+        "published": "2026-06-16T23:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US outlines $300B development package for Iran in draft agreement",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-us-deal-crypto-crackdown/",
-        "published": "2026-06-16T21:32:03Z",
+        "url": "https://cryptobriefing.com/us-iran-300b-development-package-draft/",
+        "published": "2026-06-16T22:47:51Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Trump Puts Russia-Ukraine War on the Back Burner",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/06/16/trump-g7-summit-russia-ukraine-zelensky-iran-war/",
-        "published": "2026-06-16T21:12:41Z",
-        "sentiment": "danger"
+        "title": "US-Iran nuclear memorandum set for June 19 signing as Bitcoin rallies on easing geopolitical risk",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-nuclear-memorandum-bitcoin-rally/",
+        "published": "2026-06-16T22:38:20Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
