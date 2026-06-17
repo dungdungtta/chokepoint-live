@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-17T14:03:19.108Z",
+    "generated_at": "2026-06-17T17:25:53.759Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S. and Iran Digitally Sign Peace Deal to Reopen Strait of Hormuz",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/US-and-Iran-Digitally-Sign-Peace-Deal-to-Reopen-Strait-of-Hormuz.html",
-        "published": "2026-06-16T14:00:00Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Trump signals he could send details of Iran deal to Congress",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/16/trump-iran-deal-congress.html",
-        "published": "2026-06-16T13:59:18Z",
+        "title": "The US is using an Iranian smuggling tactic to sneak oil out of the Gulf",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/the-us-is-using-an-iranian-smuggling-tactic-to-sneak-oil-out-of-the-gulf/articleshow/131778126.cms",
+        "published": "2026-06-16T17:17:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "Re-opening Hormuz vital to end energy crisis - IEA",
+        "title": "What is the G7 summit and what's on the agenda?",
         "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/0616/1578755-iea-on-strait-of-hormuz/",
-        "published": "2026-06-16T13:58:35Z",
+        "url": "https://www.rte.ie/news/2026/0616/1578792-g7-summit/",
+        "published": "2026-06-16T17:16:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump states Iran will not have nuclear weapon in G7 memo",
+        "title": "Iran and Oman reaffirm free navigation commitment in Strait of Hormuz",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-nuclear-mou-crypto-impact/",
-        "published": "2026-06-16T13:56:05Z",
+        "url": "https://cryptobriefing.com/iran-and-oman-reaffirm-free-navigation-commitment-in-strait-of-hormuz/",
+        "published": "2026-06-16T17:15:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran agreement reopens Strait of Hormuz, aims to prevent nuclear weapons",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-agreement-strait-hormuz-bitcoin-impact/",
-        "published": "2026-06-16T13:54:39Z",
-        "sentiment": "neutral"
+        "title": "EXCLUSIVE: Radar Reveals Why Donald Trump's Iran 'Peace Deal' is Hanging by a Thread — As It's Bashed as 'Typical Bluster' From Prez",
+        "source": "Radaronline.com",
+        "url": "https://radaronline.com/p/donald-trump-iran-peace-deal-hanging-by-thread/",
+        "published": "2026-06-16T17:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Middle East de-escalation eases inflation fears, offers relief for borrowers - Generate Wealth Weekly",
+        "source": "New Zealand Herald",
+        "url": "https://www.nzherald.co.nz/business/personal-finance/investment/middle-east-de-escalation-eases-inflation-fears-offers-relief-for-borrowers-generate-wealth-weekly/VZJNI5XFAJF3POUGIQZW4KWXOA/",
+        "published": "2026-06-16T17:00:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "China, North Korea Draw Closer Amid a Weakening US",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/china-north-korea-draw-closer-weakening-us/5930008",
+        "published": "2026-06-16T14:12:54Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Has America Lost The Strategic Game In The South China Sea?",
         "source": "Freerepublic.com",
@@ -89,13 +96,6 @@
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/after-iran-china-has-a-powerful-new-oil-price-weapon/articleshow/131758532.cms",
         "published": "2026-06-16T03:49:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How Taiwan Is Balancing Between US and Chinese Visions of Energy Dominance",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/06/how-taiwan-is-balancing-between-us-and-chinese-visions-of-energy-dominance/",
-        "published": "2026-06-15T17:14:00Z",
         "sentiment": "watch"
       }
     ],
