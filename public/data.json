@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-17T10:06:11.009Z",
+    "generated_at": "2026-06-17T14:03:19.108Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "World's Largest Tanker Operator Cautions Against Hormuz Rush",
+        "title": "U.S. and Iran Digitally Sign Peace Deal to Reopen Strait of Hormuz",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Worlds-Largest-Tanker-Operator-Cautions-Against-Hormuz-Rush.html",
-        "published": "2026-06-16T10:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S.-Iran interim deal: What could a Gulf bounce back look like?",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/16/us-iran-interim-deal-gulf-bounce-back-spacex-private-credit-firms/",
-        "published": "2026-06-16T09:47:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The U.S. is using an Iranian smuggling tactic to sneak oil out of the Gulf",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/the-us-is-using-an-iranian-smuggling-tactic-to-sneak-oil-out-of-the-gulf/article71108403.ece",
-        "published": "2026-06-16T09:38:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US-Iran peace deal likely to bring relief to shipping, trade",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/logistics/us-iran-peace-deal-likely-to-bring-relief-to-shipping-trade/article71107600.ece",
-        "published": "2026-06-16T09:36:00Z",
+        "url": "https://oilprice.com/Energy/Energy-General/US-and-Iran-Digitally-Sign-Peace-Deal-to-Reopen-Strait-of-Hormuz.html",
+        "published": "2026-06-16T14:00:00Z",
         "sentiment": "neutral"
       },
       {
-        "title": "UK places new sanctions on Russian shadow fleet, illegal finance networks",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/uk/2026/06/16/uk-places-new-sanctions-on-russian-shadow-fleet-illegal-finance-networks/",
-        "published": "2026-06-16T09:34:26Z",
+        "title": "Trump signals he could send details of Iran deal to Congress",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/16/trump-iran-deal-congress.html",
+        "published": "2026-06-16T13:59:18Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Re-opening Hormuz vital to end energy crisis - IEA",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0616/1578755-iea-on-strait-of-hormuz/",
+        "published": "2026-06-16T13:58:35Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump states Iran will not have nuclear weapon in G7 memo",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-iran-nuclear-mou-crypto-impact/",
+        "published": "2026-06-16T13:56:05Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran agreement reopens Strait of Hormuz, aims to prevent nuclear weapons",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-agreement-strait-hormuz-bitcoin-impact/",
+        "published": "2026-06-16T13:54:39Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "Has America Lost The Strategic Game In The South China Sea?",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4383976/posts",
+        "published": "2026-06-16T11:51:20Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Has America Lost The Strategic Game In The South China Sea?",
         "source": "Americanthinker.com",
@@ -89,13 +96,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/06/how-taiwan-is-balancing-between-us-and-chinese-visions-of-energy-dominance/",
         "published": "2026-06-15T17:14:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Fear of Being Left Behind: Taiwanese Concerns After the Trump–Xi Summit",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/06/fear-of-being-left-behind-taiwanese-concerns-after-the-trump-xi-summit/",
-        "published": "2026-06-15T13:10:00Z",
         "sentiment": "watch"
       }
     ],
