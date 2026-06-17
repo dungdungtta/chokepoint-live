@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-16T23:58:37.849Z",
+    "generated_at": "2026-06-17T05:06:02.126Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,63 @@
   "news": {
     "hormuz": [
       {
-        "title": "Donald Trump seeks momentum at G7 summit after Iran deal announcement",
+        "title": "Higher prices for gas, groceries and flights will outlast the Iran war, experts say",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/higher-prices-gas-groceries-flights-outlast-iran-war-133911039",
+        "published": "2026-06-16T04:58:58Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "UK seizes Russian ‘shadow fleet’ tanker – what that means",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/16/uk-seizes-russian-shadow-fleet-tanker-what-that-means",
+        "published": "2026-06-16T04:54:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Strait of Hormuz transit will take 'weeks' to resume, largest tanker operator tells FT",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/business/strait-of-hormuz-transit-will-take-weeks-to-resume-largest-tanker-operator-tells-ft/articleshow/131759359.cms",
+        "published": "2026-06-16T04:51:07Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "US Stock Market: Energy stocks slide as oil prices tumble on US-Iran peace breakthrough",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-energy-stocks-slide-as-oil-prices-tumble-on-us-iran-peace-breakthrough/articleshow/131759581.cms",
+        "published": "2026-06-16T04:49:50Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Largest tanker operator warns Strait of Hormuz transit will take weeks to resume",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-g7-iran-deal-bitcoin-rally/",
-        "published": "2026-06-15T23:57:45Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "UK charges captain of Russian shadow fleet tanker with sanctions breach after English Channel boarding",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/uk-charges-russian-shadow-fleet-tanker-captain/",
-        "published": "2026-06-15T23:54:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Protesters vow to disrupt Iran's opening World Cup game by turning their backs on the players and booing the national anthem as they gather outside stadium and wave anti-regime flags ahead of kick-off",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15902589/Protesters-vow-disrupt-Irans-opening-World-Cup-game.html",
-        "published": "2026-06-15T23:45:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US and Iran reach interim peace deal, boosting stock markets and nudging Bitcoin higher",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-peace-deal-stock-crypto-markets/",
-        "published": "2026-06-15T23:30:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Gas Prices Could Fall With Iran Deal. Map Shows Biggest Winners by State",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/e4012930431070db",
-        "published": "2026-06-15T23:23:42Z",
-        "sentiment": "watch"
+        "url": "https://cryptobriefing.com/strait-hormuz-tanker-transit-weeks-resume/",
+        "published": "2026-06-16T04:45:55Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Has America Lost The Strategic Game In The South China Sea?",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/articles/2026/06/has_america_lost_the_strategic_game_in_the_south_china_sea.html",
+        "published": "2026-06-16T04:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Kentucky Colonel Who Drives Australian Foreign Policy",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/06/the-kentucky-colonel-who-drives-australian-foreign-policy/",
+        "published": "2026-06-16T03:54:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "After Iran, China has a powerful new oil price weapon",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/after-iran-china-has-a-powerful-new-oil-price-weapon/articleshow/131758532.cms",
+        "published": "2026-06-16T03:49:35Z",
+        "sentiment": "watch"
+      },
       {
         "title": "How Taiwan Is Balancing Between US and Chinese Visions of Energy Dominance",
         "source": "The Diplomat",
@@ -75,27 +96,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/06/fear-of-being-left-behind-taiwanese-concerns-after-the-trump-xi-summit/",
         "published": "2026-06-15T13:10:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran and US Reach a Tentative Deal to End War as Israel Rules Out Withdrawing from Seized Land",
-        "source": "Military.com",
-        "url": "https://military.com/iran-and-us-reach-a-tentative-deal-to-end-war-as-israel-rules-out-withdrawing-from-seized-land",
-        "published": "2026-06-15T09:49:14Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Peeling back Beijing’s grey-zone playbook",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/books/peeling-back-beijings-grey-zone-playbook/article71094621.ece",
-        "published": "2026-06-14T13:48:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan's spy agency launches webpage for Chinese nationals to report tips",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/taiwans-spy-agency-launches-webpage-for-chinese-nationals-to-report-tips/articleshow/131717332.cms",
-        "published": "2026-06-14T07:41:52Z",
         "sentiment": "watch"
       }
     ],
