@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-06-17T17:25:53.759Z",
+    "generated_at": "2026-06-17T19:37:59.180Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 97.46,
-      "change_pct": 0.2,
-      "date": "2026-06-08",
+      "price": 84.36,
+      "change_pct": -4.8,
+      "date": "2026-06-15",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "The US is using an Iranian smuggling tactic to sneak oil out of the Gulf",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/the-us-is-using-an-iranian-smuggling-tactic-to-sneak-oil-out-of-the-gulf/articleshow/131778126.cms",
-        "published": "2026-06-16T17:17:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What is the G7 summit and what's on the agenda?",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/2026/0616/1578792-g7-summit/",
-        "published": "2026-06-16T17:16:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran and Oman reaffirm free navigation commitment in Strait of Hormuz",
+        "title": "US and Iran reveal draft deal framework to halt hostilities and address nuclear program",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-and-oman-reaffirm-free-navigation-commitment-in-strait-of-hormuz/",
-        "published": "2026-06-16T17:15:58Z",
+        "url": "https://cryptobriefing.com/us-iran-draft-deal-nuclear-program/",
+        "published": "2026-06-16T19:29:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "EXCLUSIVE: Radar Reveals Why Donald Trump's Iran 'Peace Deal' is Hanging by a Thread — As It's Bashed as 'Typical Bluster' From Prez",
-        "source": "Radaronline.com",
-        "url": "https://radaronline.com/p/donald-trump-iran-peace-deal-hanging-by-thread/",
-        "published": "2026-06-16T17:00:00Z",
+        "title": "Trump signs Iran memorandum, initiates 60-day nuclear talks with crypto markets already pricing in the outcome",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-iran-mou-crypto-market-impact/",
+        "published": "2026-06-16T19:22:09Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Oil prices fall to three-month low as US-Iran deal reshapes risk landscape for crypto",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oil-prices-three-month-low-us-iran-crypto/",
+        "published": "2026-06-16T19:17:22Z",
         "sentiment": "watch"
       },
       {
-        "title": "Middle East de-escalation eases inflation fears, offers relief for borrowers - Generate Wealth Weekly",
-        "source": "New Zealand Herald",
-        "url": "https://www.nzherald.co.nz/business/personal-finance/investment/middle-east-de-escalation-eases-inflation-fears-offers-relief-for-borrowers-generate-wealth-weekly/VZJNI5XFAJF3POUGIQZW4KWXOA/",
-        "published": "2026-06-16T17:00:00Z",
-        "sentiment": "danger"
+        "title": "Oil Prices Might Not Go Back to Normal Anytime Soon",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/economy/2026/06/trump-iran-deal-oil/687564/",
+        "published": "2026-06-16T18:58:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Details of US-Iran deal revealed — timeline for US withdrawal, $300B fund, Hormuz passage",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/06/16/us-news/details-of-us-iran-deal-revealed-timeline-for-us-withdrawal-300b-fund-hormuz-passage/",
+        "published": "2026-06-16T18:57:53Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan Bet Too Big on Washington",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/06/16/taiwan-trump-xi-china-invasion/",
+        "published": "2026-06-16T19:26:35Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Senate Armed Services Committee authorizes $2B for Taiwan, Philippines security aid",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/senate-taiwan-philippines-security-aid-2b/",
+        "published": "2026-06-16T18:52:07Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China, North Korea Draw Closer Amid a Weakening US",
         "source": "Globalresearch.ca",
@@ -82,20 +96,6 @@
         "source": "Americanthinker.com",
         "url": "https://www.americanthinker.com/articles/2026/06/has_america_lost_the_strategic_game_in_the_south_china_sea.html",
         "published": "2026-06-16T04:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Kentucky Colonel Who Drives Australian Foreign Policy",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/06/the-kentucky-colonel-who-drives-australian-foreign-policy/",
-        "published": "2026-06-16T03:54:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "After Iran, China has a powerful new oil price weapon",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/after-iran-china-has-a-powerful-new-oil-price-weapon/articleshow/131758532.cms",
-        "published": "2026-06-16T03:49:35Z",
         "sentiment": "watch"
       }
     ],
