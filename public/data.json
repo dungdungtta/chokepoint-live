@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-17T23:44:26.414Z",
+    "generated_at": "2026-06-18T02:05:51.436Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Introducing Peace 1.0™",
-        "source": "Mcsweeneys.net",
-        "url": "https://www.mcsweeneys.net/articles/introducing-peace-10",
-        "published": "2026-06-16T23:30:00Z",
+        "title": "Despite MOU: IRGC launching nightly drone strikes on ships in Hormuz",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/428746",
+        "published": "2026-06-17T01:55:10Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "PM Modi, Trump to discuss West Asia crisis, energy partnership, trade deal on sidelines of G7 Summit: Sources",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/india/pm-modi-trump-to-discuss-west-asia-crisis-energy-partnership-trade-deal-on-sidelines-of-g7-summit-sources/articleshow/131784201.cms",
+        "published": "2026-06-17T01:53:38Z",
         "sentiment": "watch"
       },
       {
-        "title": "US-Iran Memorandum Signing Sets Up Macro Catalyst For Bitcoin Traders",
-        "source": "Bitcoinist",
-        "url": "https://bitcoinist.com/us-iran-memorandum-signing-sets-up-macro-catalyst-for-bitcoin-traders/",
-        "published": "2026-06-16T23:09:37Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China Reclaims Solar Crown With Record-Breaking Perovskite Panel",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/China-Reclaims-Solar-Crown-With-Record-Breaking-Perovskite-Panel.html",
-        "published": "2026-06-16T23:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US outlines $300B development package for Iran in draft agreement",
+        "title": "Canada backs efforts to implement US-Iran memorandum of understanding",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-300b-development-package-draft/",
-        "published": "2026-06-16T22:47:51Z",
-        "sentiment": "neutral"
+        "url": "https://cryptobriefing.com/canada-backs-us-iran-memorandum-understanding/",
+        "published": "2026-06-17T01:32:47Z",
+        "sentiment": "watch"
       },
       {
-        "title": "US-Iran nuclear memorandum set for June 19 signing as Bitcoin rallies on easing geopolitical risk",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-nuclear-memorandum-bitcoin-rally/",
-        "published": "2026-06-16T22:38:20Z",
+        "title": "U. S-Iran deal to collapse? Top Tehran diplomat sounds warning related to reopening of Strait of Hormuz, resumption of all-out war",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/u-s-iran-deal-to-collapse-top-tehran-diplomat-sounds-warning-related-to-reopening-of-strait-of-hormuz-resumption-of-all-out-war/articleshow/131783842.cms",
+        "published": "2026-06-17T01:03:04Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Global Market Today: Asian stocks edge lower with Fed decision in focus",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-edge-lower-with-fed-decision-in-focus/articleshow/131783862.cms",
+        "published": "2026-06-17T00:59:29Z",
         "sentiment": "watch"
       }
     ],
