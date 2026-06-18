@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-18T11:18:38.168Z",
+    "generated_at": "2026-06-18T14:29:53.225Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,28 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "How Trump’s picks fared in primaries and Kevin Warsh’s first meeting as Fed chair: Morning Rundown",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/news/us-news/trumps-primaries-kevin-warsh-meeting-fed-chair-morning-rundown-rcna350463",
-        "published": "2026-06-17T11:05:38Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran, US agree on ceasefire, Strait of Hormuz reopening, financial relief",
+        "title": "Iranian oil tankers resume passage after US-Iran deal eases Strait of Hormuz tensions",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-us-agree-on-ceasefire-strait-of-hormuz-reopening-financial-relief/",
-        "published": "2026-06-17T10:56:26Z",
+        "url": "https://cryptobriefing.com/iranian-oil-tankers-resume-us-iran-deal/",
+        "published": "2026-06-17T14:15:48Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Iran War: US Pundit Freakout Over “Deal,” Evidence of Disagreement Over Terms, Bodes Ill for Signing; More on Oil Cliff Risk Versus Hormuz Opening",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/06/iran-war-us-pundit-freakout-over-deal-evidence-of-disagreement-over-terms-bodes-ill-for-signing-more-on-oil-cliff-risk-versus-hormuz-opening.html",
-        "published": "2026-06-17T10:54:40Z",
+        "title": "Strait of Hormuz reopens: But can ships’ safety be assured?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/6/17/strait-of-hormuz-reopens-how-will-safe-passage-for-ships-be-ensured",
+        "published": "2026-06-17T14:07:25Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Can Ships in the Gulf Take Trump at His Word?",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/06/17/trump-hormuz-cease-fire-deal-oil-energy-shipping/",
+        "published": "2026-06-17T14:02:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Falling Murban and Dubai Prices Open Arbitrage to U.S. and Europe",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Falling-Murban-and-Dubai-Prices-Open-Arbitrage-to-US-and-Europe.html",
+        "published": "2026-06-17T13:46:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran sends loaded oil tankers past US blockade line, floats Bitcoin for Hormuz transit payments",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-oil-tankers-us-blockade-bitcoin/",
+        "published": "2026-06-17T13:45:51Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump's War In Iran Is A Staggering Failure On Nearly Every Level",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/trump-war-iran-big-failure_n_6a3044dae4b07679090ec9e6",
+        "published": "2026-06-17T13:25:20Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Beijing accuses Japan of militarism while rapidly expanding its own military",
         "source": "Naturalnews.com",
@@ -75,13 +96,6 @@
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/06/16/taiwan-trump-xi-china-invasion/",
         "published": "2026-06-16T19:26:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Senate Armed Services Committee authorizes $2B for Taiwan, Philippines security aid",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/senate-taiwan-philippines-security-aid-2b/",
-        "published": "2026-06-16T18:52:07Z",
         "sentiment": "watch"
       }
     ],
