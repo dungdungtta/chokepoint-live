@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-18T17:45:15.581Z",
+    "generated_at": "2026-06-18T20:01:22.004Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "There are still 4 Iran-war issues to be addressed before the economy can declare 'all-clear,' Mohamed El-Erian says",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/iran-war-deal-trump-ceasefire-global-economy-marktes-israel-lebanon-2026-6#article",
-        "published": "2026-06-17T17:43:26Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Senior US officials release text of Iran deal",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/senior-us-officials-release-text-of-iran-deal/articleshow/131808302.cms",
-        "published": "2026-06-17T17:42:07Z",
+        "title": "U.S. Oil Stockpiles Fall To Critically Low Levels As Iran Continues To Mess With The Strait Of Hormuz",
+        "source": "Theeconomiccollapseblog.com",
+        "url": "http://theeconomiccollapseblog.com/u-s-oil-stockpiles-fall-to-critically-low-levels-as-iran-continues-to-mess-with-the-strait-of-hormuz/",
+        "published": "2026-06-17T19:52:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "IEA Sees Massive Oil Surplus In 2027 As Middle East Supply Returns",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Sees-Massive-Oil-Surplus-In-2027-As-Middle-East-Supply-Returns.html",
-        "published": "2026-06-17T17:30:00Z",
+        "title": "Trump says 60-day deadline for Iran agreement is flexible, Bitcoin rallies on reduced tension",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-iran-deal-deadline-flexible-bitcoin/",
+        "published": "2026-06-17T19:50:57Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "1991 Harley-Davidson Sturgis at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1991-harley-davidson-sturgis-4/",
+        "published": "2026-06-17T19:44:33Z",
         "sentiment": "watch"
       },
       {
-        "title": "One of the most powerful El Niños on record cost the world economy $5.7 trillion. The 2026 cycle might be even stronger",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/17/el-nino-global-economy-trillions-in-losses/",
-        "published": "2026-06-17T17:16:54Z",
+        "title": "Iran to define Strait of Hormuz administration with Oman and Gulf states, senior U.S. officials say",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/17/iran-mou-deal-strait-hormuz-oman-toll.html",
+        "published": "2026-06-17T19:32:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "VICTORY: Trump Secures Reopening Of Strait That Was Open Before War",
-        "source": "Babylonbee.com",
-        "url": "https://babylonbee.com/news/victory-trump-secures-reopening-of-strait-that-was-open-before-war",
-        "published": "2026-06-17T17:10:15Z",
-        "sentiment": "danger"
+        "title": "Mike Pence Blasts Iran Deal as Obama-Style ‘Appeasement’ on Fox News After Trump Presser",
+        "source": "Mediaite",
+        "url": "https://www.mediaite.com/media/tv/mike-pence-blasts-iran-deal-as-obama-style-appeasement-on-fox-news-after-trump-presser/",
+        "published": "2026-06-17T19:18:32Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China Is Indispensable, But Not Dominant",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/06/china-is-indispensable-but-not-dominant/",
+        "published": "2026-06-17T18:01:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Pentagon Might Win the Lottery",
         "source": "The Atlantic",
@@ -90,13 +97,6 @@
         "url": "https://www.huffpost.com/entry/trump-war-iran-big-failure_n_6a3044dae4b07679090ec9e6",
         "published": "2026-06-17T13:25:20Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Beijing accuses Japan of militarism while rapidly expanding its own military",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-06-17-beijing-accuses-japan-militarism-expanding-military.html",
-        "published": "2026-06-17T06:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
