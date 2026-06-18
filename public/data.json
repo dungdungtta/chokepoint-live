@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-18T20:01:22.004Z",
+    "generated_at": "2026-06-18T22:26:23.139Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S. Oil Stockpiles Fall To Critically Low Levels As Iran Continues To Mess With The Strait Of Hormuz",
-        "source": "Theeconomiccollapseblog.com",
-        "url": "http://theeconomiccollapseblog.com/u-s-oil-stockpiles-fall-to-critically-low-levels-as-iran-continues-to-mess-with-the-strait-of-hormuz/",
-        "published": "2026-06-17T19:52:39Z",
+        "title": "The Diesel Demand Shock Nobody Is Pricing In",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/The-Diesel-Demand-Shock-Nobody-Is-Pricing-In.html",
+        "published": "2026-06-17T22:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump says 60-day deadline for Iran agreement is flexible, Bitcoin rallies on reduced tension",
+        "title": "US and Iran sign memorandum of understanding to halt fighting and reopen Strait of Hormuz",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-deal-deadline-flexible-bitcoin/",
-        "published": "2026-06-17T19:50:57Z",
+        "url": "https://cryptobriefing.com/us-iran-mou-strait-of-hormuz/",
+        "published": "2026-06-17T21:55:20Z",
         "sentiment": "neutral"
       },
       {
-        "title": "1991 Harley-Davidson Sturgis at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1991-harley-davidson-sturgis-4/",
-        "published": "2026-06-17T19:44:33Z",
+        "title": "Wyndham cards refresh: New premium card, new welcome offers, new benefits, and new & changed earning rates for new applicants",
+        "source": "Frequentmiler.com",
+        "url": "https://frequentmiler.com/wyndham-cards-refresh-new-premium-card-new-welcome-offers-new-benefits-and-new-changed-earning-rates-for-new-applicants/",
+        "published": "2026-06-17T21:45:22Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran to define Strait of Hormuz administration with Oman and Gulf states, senior U.S. officials say",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/17/iran-mou-deal-strait-hormuz-oman-toll.html",
-        "published": "2026-06-17T19:32:58Z",
+        "title": "Takaichi touts G7 unity on energy security, critical minerals",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/politics/update2-japan-pm-takaichi-touts-g7-unity-on-energy-security-critical-minerals",
+        "published": "2026-06-17T21:43:40Z",
         "sentiment": "watch"
       },
       {
-        "title": "Mike Pence Blasts Iran Deal as Obama-Style ‘Appeasement’ on Fox News After Trump Presser",
-        "source": "Mediaite",
-        "url": "https://www.mediaite.com/media/tv/mike-pence-blasts-iran-deal-as-obama-style-appeasement-on-fox-news-after-trump-presser/",
-        "published": "2026-06-17T19:18:32Z",
-        "sentiment": "watch"
+        "title": "Trump defends Iran ceasefire deal at G-7 summit, criticizes Israel over Lebanon operations",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-defends-iran-ceasefire-g7-criticizes-israel/",
+        "published": "2026-06-17T21:35:53Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
