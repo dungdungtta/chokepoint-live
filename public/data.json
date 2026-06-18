@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-18T07:12:11.627Z",
+    "generated_at": "2026-06-18T11:18:38.168Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,24 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil little changed as investors weigh US-Iran peace deal, Hormuz uncertainty",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/5f956c0e23b05c84",
-        "published": "2026-06-17T07:12:02Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "REALINN Plastic & Trim Restorer for $10 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/REALINN-Plastic-Trim-Restorer-for-10-free-shipping-w-Prime/21841185.html",
-        "published": "2026-06-17T06:58:50Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US and Iran set to sign memorandum of understanding on June 19 in Switzerland",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-memorandum-switzerland-june-19/",
-        "published": "2026-06-17T06:32:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "UK military investigates after Russian warship fires warning shots near yacht in the Channel",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/uk-military-investigates-after-russian-warship-fires-warning-133927188",
-        "published": "2026-06-17T06:20:59Z",
+        "title": "How Trump’s picks fared in primaries and Kevin Warsh’s first meeting as Fed chair: Morning Rundown",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/trumps-primaries-kevin-warsh-meeting-fed-chair-morning-rundown-rcna350463",
+        "published": "2026-06-17T11:05:38Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iranian tankers exit US blockade zone ahead of peace talks",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/iranian-tankers-exit-us-blockade-zone-ahead-of-peace-talks-223369",
-        "published": "2026-06-17T06:00:18Z",
+        "title": "Iran, US agree on ceasefire, Strait of Hormuz reopening, financial relief",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-us-agree-on-ceasefire-strait-of-hormuz-reopening-financial-relief/",
+        "published": "2026-06-17T10:56:26Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Iran War: US Pundit Freakout Over “Deal,” Evidence of Disagreement Over Terms, Bodes Ill for Signing; More on Oil Cliff Risk Versus Hormuz Opening",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/06/iran-war-us-pundit-freakout-over-deal-evidence-of-disagreement-over-terms-bodes-ill-for-signing-more-on-oil-cliff-risk-versus-hormuz-opening.html",
+        "published": "2026-06-17T10:54:40Z",
         "sentiment": "danger"
       }
     ],
