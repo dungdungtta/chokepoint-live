@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-19T00:12:15.537Z",
+    "generated_at": "2026-06-19T05:28:25.133Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran deal tosses a tremendous cash lifeline to terrorist regime",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/06/17/opinion/iran-deal-tosses-a-tremendous-cash-lifeline-to-terrorist-regime/",
-        "published": "2026-06-17T23:56:06Z",
+        "title": "Markets open flat after 4-day rally; IT stocks fall on US rate hike concerns",
+        "source": "India Today",
+        "url": "https://www.indiatoday.in/business/market/story/sensex-today-nifty-today-open-flat-it-stocks-fall-fed-rate-hike-concerns-2928793-2026-06-18",
+        "published": "2026-06-18T05:19:59Z",
         "sentiment": "watch"
       },
       {
-        "title": "Donald Trump signs Iran memorandum of understanding at Versailles",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-signs-iran-mou-versailles/",
-        "published": "2026-06-17T23:55:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US, Iran presidents sign Islamabad memorandum to reopen Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-presidents-sign-islamabad-memorandum-to-reopen-strait-of-hormuz/",
-        "published": "2026-06-17T23:46:13Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Iran won the war against US and Israel, chief negotiator Ghalibaf claims",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/428802",
-        "published": "2026-06-17T23:25:14Z",
+        "title": "Drone strikes beyond the battlefield pump up market for technology to repel them",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/drone-strikes-beyond-battlefield-pump-up-market-technology-repel-them-6192306",
+        "published": "2026-06-18T05:15:30Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Wanted: War-Zone Divers to Scrape Barnacles From Ships in Persian Gulf",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/06/18/874196.htm",
+        "published": "2026-06-18T05:15:05Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Fuel prices in India won't fall immediately despite global crude slump, MoS Suresh Gopi reveals why",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/fuel-prices-in-india-wont-fall-immediately-despite-global-crude-slump-mos-suresh-gopi-reveals-why/articleshow/131817545.cms",
+        "published": "2026-06-18T04:41:33Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Thailand revives $30 billion coast-to-coast corridor to rival Malacca Strait",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/thailand-revives-30-billion-coast-to-coast-corridor-to-rival-malacca-straitphuket-airport-launches-e-gates-for-faster-immigration-clearanceread-more-athttps/economictimes-indiatimes-com/nri/visit/phuket-airport-launches-e-gates-for-faster-immigration-clearance/articleshow/131735311-cmsutm_sourcecontentofinterestutm_mediumtextutm_campaigncppst/articleshow/131817297.cms",
+        "published": "2026-06-18T04:32:39Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan's Lai says defending democracy is not a provocation against China",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/taiwans-lai-says-defending-democracy-is-not-a-provocation-against-china/articleshow/131817561.cms",
+        "published": "2026-06-18T04:44:59Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China Is Indispensable, But Not Dominant",
         "source": "The Diplomat",
@@ -83,13 +97,6 @@
         "url": "https://www.gov.uk/government/news/g7-leaders-statement-on-geopolitical-issues-17-june-2026",
         "published": "2026-06-17T14:32:29Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Trump's War In Iran Is A Staggering Failure On Nearly Every Level",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/trump-war-iran-big-failure_n_6a3044dae4b07679090ec9e6",
-        "published": "2026-06-17T13:25:20Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
