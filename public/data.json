@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-19T05:28:25.133Z",
+    "generated_at": "2026-06-19T10:03:14.785Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,63 @@
   "news": {
     "hormuz": [
       {
-        "title": "Markets open flat after 4-day rally; IT stocks fall on US rate hike concerns",
-        "source": "India Today",
-        "url": "https://www.indiatoday.in/business/market/story/sensex-today-nifty-today-open-flat-it-stocks-fall-fed-rate-hike-concerns-2928793-2026-06-18",
-        "published": "2026-06-18T05:19:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Drone strikes beyond the battlefield pump up market for technology to repel them",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/drone-strikes-beyond-battlefield-pump-up-market-technology-repel-them-6192306",
-        "published": "2026-06-18T05:15:30Z",
+        "title": "The Spectacular Failure and Ruinous Costs of the Iran War",
+        "source": "The New Yorker",
+        "url": "https://www.newyorker.com/news/global-notes/the-spectacular-failure-and-ruinous-costs-of-the-iran-war",
+        "published": "2026-06-18T10:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Wanted: War-Zone Divers to Scrape Barnacles From Ships in Persian Gulf",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/06/18/874196.htm",
-        "published": "2026-06-18T05:15:05Z",
+        "title": "Tehran and Washington negotiate memorandum to end war and reopen Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-us-memorandum-strait-hormuz-bitcoin/",
+        "published": "2026-06-18T09:56:41Z",
         "sentiment": "danger"
       },
       {
-        "title": "Fuel prices in India won't fall immediately despite global crude slump, MoS Suresh Gopi reveals why",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/fuel-prices-in-india-wont-fall-immediately-despite-global-crude-slump-mos-suresh-gopi-reveals-why/articleshow/131817545.cms",
-        "published": "2026-06-18T04:41:33Z",
+        "title": "Three Saudi-Flagged Vessels Transit Strait of Hormuz after Washington-Tehran Agreement",
+        "source": "Aawsat.com",
+        "url": "https://english.aawsat.com/business/5285587-three-saudi-flagged-vessels-transit-strait-hormuz-after-washington-tehran",
+        "published": "2026-06-18T09:50:24Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Trump’s Iran deal delivers key gains for Tehran, testing Washington’s red lines",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/18/trump-iran-deal-mou-nuclear-hormuz.html",
+        "published": "2026-06-18T09:40:06Z",
         "sentiment": "watch"
       },
       {
-        "title": "Thailand revives $30 billion coast-to-coast corridor to rival Malacca Strait",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/thailand-revives-30-billion-coast-to-coast-corridor-to-rival-malacca-straitphuket-airport-launches-e-gates-for-faster-immigration-clearanceread-more-athttps/economictimes-indiatimes-com/nri/visit/phuket-airport-launches-e-gates-for-faster-immigration-clearance/articleshow/131735311-cmsutm_sourcecontentofinterestutm_mediumtextutm_campaigncppst/articleshow/131817297.cms",
-        "published": "2026-06-18T04:32:39Z",
-        "sentiment": "watch"
+        "title": "What happens when the Strait of Hormuz reopens?",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/what-happens-when-the-strait-of-hormuz-reopens-223426",
+        "published": "2026-06-18T09:36:12Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan president says hopes for $14 billion arms sale ‘as soon as possible’",
+        "source": "Digital Journal",
+        "url": "https://www.digitaljournal.com/article/taiwan-president-says-hopes-for-14-billion-arms-sale-as-soon-as-possible/",
+        "published": "2026-06-18T06:35:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan needs US weapons for self-defense as threat from China grows: Report",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/06/18/world-news/taiwan-needs-us-weapons-for-self-defense-as-threat-from-china-grows-diplomat-tells-ap/",
+        "published": "2026-06-18T06:05:57Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Taiwan not 'provoking' China; hopes new U.S. arms sale package can be approved soon, president says",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/taiwan-not-%27provoking%27-china-hopes-new-us-arms-sale-package-can-be-approved-soon-president-says",
+        "published": "2026-06-18T05:41:11Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan's Lai says defending democracy is not a provocation against China",
         "source": "The Times of India",
@@ -75,27 +96,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/06/china-is-indispensable-but-not-dominant/",
         "published": "2026-06-17T18:01:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Pentagon Might Win the Lottery",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/national-security/2026/06/the-pentagon-might-win-the-lottery/687568/",
-        "published": "2026-06-17T17:33:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "When Neutrality Fails: ASEAN in a Malacca Disruption Scenario",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/06/when-neutrality-fails-asean-in-a-malacca-disruption-scenario/",
-        "published": "2026-06-17T15:07:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "G7 leaders' statement on geopolitical issues: 17 June 2026",
-        "source": "Www.gov.uk",
-        "url": "https://www.gov.uk/government/news/g7-leaders-statement-on-geopolitical-issues-17-june-2026",
-        "published": "2026-06-17T14:32:29Z",
         "sentiment": "watch"
       }
     ],
