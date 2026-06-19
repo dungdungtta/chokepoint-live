@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-19T16:35:26.899Z",
+    "generated_at": "2026-06-19T18:25:06.256Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "High Tanker Rates Disrupt Persian Gulf Oil Shipments to Asia",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/High-Tanker-Rates-Disrupt-Persian-Gulf-Oil-Shipments-to-Asia.html",
-        "published": "2026-06-18T16:30:00Z",
+        "title": "What Sanctions are There on Iran and Will They be Lifted?",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/what-sanctions-are-there-on-iran-and-will-they-be-lifted/",
+        "published": "2026-06-18T18:22:52Z",
         "sentiment": "watch"
       },
       {
-        "title": "US signs memorandum of understanding with Iran, lifting sanctions in exchange for reopening Strait of Hormuz",
+        "title": "United States and Iran begin 60-day nuclear negotiation period as $24 billion in frozen assets start flowing",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-mou-sanctions-strait-of-hormuz/",
-        "published": "2026-06-18T16:24:23Z",
+        "url": "https://cryptobriefing.com/us-iran-nuclear-deal-negotiation-period/",
+        "published": "2026-06-18T18:21:32Z",
         "sentiment": "neutral"
       },
       {
-        "title": "America’s loss to Iran will unravel geopolitics",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/428849",
-        "published": "2026-06-18T16:24:12Z",
+        "title": "Iran and US reach 60-day cease-fire, reshaping energy markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-us-ceasefire-energy-crypto-markets/",
+        "published": "2026-06-18T18:10:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Iran war may end but high oil prices may not",
-        "source": "The Week Magazine",
-        "url": "https://theweek.com/world-news/iran-war-end-high-oil-prices",
-        "published": "2026-06-18T16:15:05Z",
+        "title": "CNBC: Strait Of Hormuz Reopening Will Probably Take Weeks",
+        "source": "Crooksandliars.com",
+        "url": "https://crooksandliars.com/2026/06/cnbc-strait-hormuz-reopening-will-probably",
+        "published": "2026-06-18T17:50:40Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "US Ends Hormuz Blockade, Downplays Tolls as Negotiations Restart",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/us-ends-hormuz-blockade-downplays-tolls-as-negotiations-restart",
+        "published": "2026-06-18T17:46:52Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Military Leaders From 25 Countries Gather in Waikiki to Talk Coastal Warfare",
+        "source": "Military.com",
+        "url": "https://military.com/military-leaders-from-25-countries-gather-in-waikiki-to-talk-coastal-warfare",
+        "published": "2026-06-18T17:33:39Z",
+        "sentiment": "danger"
+      },
       {
         "title": "The Iran War Damaged U.S.-India Ties",
         "source": "Foreign Policy",
@@ -76,13 +90,6 @@
         "url": "https://www.digitaljournal.com/article/taiwan-president-says-hopes-for-14-billion-arms-sale-as-soon-as-possible/",
         "published": "2026-06-18T06:35:11Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan needs US weapons for self-defense as threat from China grows: Report",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/06/18/world-news/taiwan-needs-us-weapons-for-self-defense-as-threat-from-china-grows-diplomat-tells-ap/",
-        "published": "2026-06-18T06:05:57Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
