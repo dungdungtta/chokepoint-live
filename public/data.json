@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-19T18:25:06.256Z",
+    "generated_at": "2026-06-19T20:17:18.641Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "What Sanctions are There on Iran and Will They be Lifted?",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/what-sanctions-are-there-on-iran-and-will-they-be-lifted/",
-        "published": "2026-06-18T18:22:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "United States and Iran begin 60-day nuclear negotiation period as $24 billion in frozen assets start flowing",
+        "title": "Iran’s Supreme Leader approves US memorandum of understanding, opening 60-day negotiation window",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-nuclear-deal-negotiation-period/",
-        "published": "2026-06-18T18:21:32Z",
+        "url": "https://cryptobriefing.com/iran-us-memorandum-of-understanding-approved/",
+        "published": "2026-06-18T20:01:48Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Iran and US reach 60-day cease-fire, reshaping energy markets",
+        "title": "Iran secures historic US deal, reshaping Middle East dynamics and rattling crypto sanctions landscape",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-us-ceasefire-energy-crypto-markets/",
-        "published": "2026-06-18T18:10:39Z",
+        "url": "https://cryptobriefing.com/us-iran-deal-reshapes-crypto-sanctions/",
+        "published": "2026-06-18T19:54:33Z",
         "sentiment": "watch"
       },
       {
-        "title": "CNBC: Strait Of Hormuz Reopening Will Probably Take Weeks",
-        "source": "Crooksandliars.com",
-        "url": "https://crooksandliars.com/2026/06/cnbc-strait-hormuz-reopening-will-probably",
-        "published": "2026-06-18T17:50:40Z",
-        "sentiment": "neutral"
+        "title": "Google fought US warrant for user data on Capitol riot searches",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/google-fought-us-warrant-for-user-data-on-capitol-riot-searches/",
+        "published": "2026-06-18T19:26:23Z",
+        "sentiment": "danger"
       },
       {
-        "title": "US Ends Hormuz Blockade, Downplays Tolls as Negotiations Restart",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/us-ends-hormuz-blockade-downplays-tolls-as-negotiations-restart",
-        "published": "2026-06-18T17:46:52Z",
+        "title": "Ordinary Iranians Won’t See a Dime of Trump’s Money",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/06/18/trump-iranians-economy-irgc-corruption-memorandum/",
+        "published": "2026-06-18T19:19:42Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Mixed signs of peace: 3 Saudi oil tankers cross Hormuz, Israel strikes Lebanon",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/mixed-signs-of-peace-3-saudi-oil-tankers-cross-hormuz-israel-strikes-lebanon/articleshow/131841214.cms",
+        "published": "2026-06-18T19:15:37Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "How the Iran War Reshaped the Global Landscape of Power",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/06/18/iran-war-ceasefire-deal-israel-united-states/",
+        "published": "2026-06-18T19:09:07Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Military Leaders From 25 Countries Gather in Waikiki to Talk Coastal Warfare",
         "source": "Military.com",
@@ -82,13 +89,6 @@
         "source": "Forbes",
         "url": "https://www.forbes.com/sites/arielcohen/2026/06/18/the-iran-deal-drives-oil-prices-down-but-uncertainty-looms/",
         "published": "2026-06-18T14:36:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan president says hopes for $14 billion arms sale ‘as soon as possible’",
-        "source": "Digital Journal",
-        "url": "https://www.digitaljournal.com/article/taiwan-president-says-hopes-for-14-billion-arms-sale-as-soon-as-possible/",
-        "published": "2026-06-18T06:35:11Z",
         "sentiment": "watch"
       }
     ],
