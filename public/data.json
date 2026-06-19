@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-19T20:17:18.641Z",
+    "generated_at": "2026-06-19T21:46:36.030Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran’s Supreme Leader approves US memorandum of understanding, opening 60-day negotiation window",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-us-memorandum-of-understanding-approved/",
-        "published": "2026-06-18T20:01:48Z",
+        "title": "Republicans blast Trump's Iran agreement as details emerge",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/republicans-blast-trump%27s-iran-agreement-as-details-emerge",
+        "published": "2026-06-18T21:37:19Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Iran secures historic US deal, reshaping Middle East dynamics and rattling crypto sanctions landscape",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-deal-reshapes-crypto-sanctions/",
-        "published": "2026-06-18T19:54:33Z",
+        "title": "The Neocons Have Nothing To Show For Bombing Iran",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/trump-iran-deal-neocons_n_6a3453a3e4b04f5fa0c1e496",
+        "published": "2026-06-18T21:33:57Z",
         "sentiment": "watch"
       },
       {
-        "title": "Google fought US warrant for user data on Capitol riot searches",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/google-fought-us-warrant-for-user-data-on-capitol-riot-searches/",
-        "published": "2026-06-18T19:26:23Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Ordinary Iranians Won’t See a Dime of Trump’s Money",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/06/18/trump-iranians-economy-irgc-corruption-memorandum/",
-        "published": "2026-06-18T19:19:42Z",
+        "title": "Are prices really dropping in the US, as Trump claims?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/6/18/are-prices-really-dropping-as-trump-claims",
+        "published": "2026-06-18T21:30:41Z",
         "sentiment": "watch"
       },
       {
-        "title": "Mixed signs of peace: 3 Saudi oil tankers cross Hormuz, Israel strikes Lebanon",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/mixed-signs-of-peace-3-saudi-oil-tankers-cross-hormuz-israel-strikes-lebanon/articleshow/131841214.cms",
-        "published": "2026-06-18T19:15:37Z",
+        "title": "Gas falls below $4: Which states have seen the biggest drops",
+        "source": "Newsnationnow.com",
+        "url": "https://www.newsnationnow.com/business/your-money/gas-states-biggest-drops/",
+        "published": "2026-06-18T21:19:41Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US ends maritime blockade and resumes Strait of Hormuz shipping after Iran peace agreement",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-ends-blockade-strait-hormuz-iran-deal/",
+        "published": "2026-06-18T21:03:34Z",
         "sentiment": "danger"
       }
     ],
