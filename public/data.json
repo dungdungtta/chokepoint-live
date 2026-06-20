@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T17:49:29.646Z",
+    "generated_at": "2026-06-20T19:47:52.119Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Why oil isn’t spiking: Iran ships 20 million barrels while China slashes imports",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/06/19/business/why-oil-isnt-spiking-iran-ships-20-million-barrels-while-china-slashes-imports/",
+        "published": "2026-06-19T19:38:24Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Irish Times view on the Middle East: the chance of a grand bargain",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/opinion/editorials/2026/06/19/the-irish-times-view-on-the-middle-east-the-chance-of-a-grand-bargain/",
+        "published": "2026-06-19T18:42:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Pakistan warns ships of mine in Strait of Hormuz area as US-Iran deal announced",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/pakistan-mine-warning-strait-of-hormuz/",
+        "published": "2026-06-19T18:22:03Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran crude oil flows surge as US naval blockade lifts, with Bitcoin playing an unlikely role",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-crude-oil-surge-bitcoin-transit-fees/",
+        "published": "2026-06-19T17:58:40Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "How low will gas prices fall?",
         "source": "TheStreet",
         "url": "https://www.thestreet.com/economy/how-low-will-gas-prices-fall",
         "published": "2026-06-19T17:47:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Reports: Ships Begin Moving Through Strait of Hormuz",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/economy/2026/06/19/reports-ships-begin-moving-through-strait-of-hormuz/",
-        "published": "2026-06-19T17:32:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hormuz ship traffic climbs after war deal: trackers",
-        "source": "Digital Journal",
-        "url": "https://www.digitaljournal.com/article/hormuz-ship-traffic-climbs-after-war-deal-trackers/",
-        "published": "2026-06-19T17:10:36Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran to charge insurance fees for Strait of Hormuz passage, floats Bitcoin-settled platform",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-hormuz-insurance-fees-bitcoin/",
-        "published": "2026-06-19T17:07:32Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "More Than 20 Million Barrels Leave Iran as Post-War Oil Trade Reawakens",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/more-than-20-million-barrels-leave-iran-as-post-war-oil-trade-reawakens/",
-        "published": "2026-06-19T17:03:31Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
