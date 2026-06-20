@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T01:31:05.915Z",
+    "generated_at": "2026-06-20T06:04:19.630Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Global Market Today: Asian stocks hit record highs, oil heads for weekly loss",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-hit-record-highs-oil-heads-for-weekly-loss/articleshow/131844291.cms",
-        "published": "2026-06-19T01:13:31Z",
+        "title": "Kilaidonis and the…Rafina approach, Samaras’s (broken) phones, the ballots of the small (green) village, the ERT–SKAI match for basketball",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/06/19/kilaidonis-and-therafina-approach-samarass-broken-phones-the-ballots-of-the-small-green-village-the-ert-skai-match-for-basketball/",
+        "published": "2026-06-19T06:03:06Z",
         "sentiment": "watch"
       },
       {
-        "title": "LCCI forecasts lower inflation, fuel prices after ceasefire",
-        "source": "The Punch",
-        "url": "https://punchng.com/lcci-forecasts-lower-inflation-fuel-prices-after-ceasefire/",
-        "published": "2026-06-19T00:08:09Z",
+        "title": "U.S., Iran Sign Islamabad MoU to End Hostilities, Reopen Strait of Hormuz",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-06-19-us-iran-sign-islamabad-mou-end-hostilities.html",
+        "published": "2026-06-19T06:00:00Z",
         "sentiment": "neutral"
       },
       {
-        "title": "'They simply lied': Iranians devastated as US signs with regime they hoped would fall",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-06-19/iranians-react-to-trumps-war-deal-saying-united-states-lied/106813928",
-        "published": "2026-06-19T00:00:44Z",
-        "sentiment": "watch"
+        "title": "U.S.-Iran accord hits early snag after Swiss talks fail to proceed as planned",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/19/us-iran-talks-switzerland-canceled-interim-deal-markets.html",
+        "published": "2026-06-19T05:56:50Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Gas Prices Could Take Months to Return to Pre-War Levels Even After U.S.-Iran Deal",
-        "source": "Time",
-        "url": "https://time.com/article/2026/06/19/us-iran-deal-strait-hormuz-shipping-oil-gas-prices/",
-        "published": "2026-06-19T00:00:00Z",
-        "sentiment": "danger"
+        "title": "Vice President JD Vance Delays Switzerland Trip for Iran Deal Talks",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/06/18/vice-president-jd-vance-delays-switzerland-trip-iran-deal-talks/",
+        "published": "2026-06-19T05:10:20Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "US-Iran agreement reshapes Middle East dynamics, raises concerns in Israel and Gulf states",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-agreement-middle-east-crypto-impact/",
-        "published": "2026-06-18T23:55:28Z",
+        "title": "Indian refiners sitting on enough crude, in no rush to resume purchases from West Asia",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indian-refiners-sitting-on-enough-crude-in-no-rush-to-resume-purchases-from-west-asia/articleshow/131847353.cms",
+        "published": "2026-06-19T05:07:57Z",
         "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "Sensex, Nifty fall 1% as Accenture-triggered IT rout snaps 5-day rally",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty-fall-1-as-accenture-triggered-it-rout-snaps-5-day-rally/article71120738.ece",
+        "published": "2026-06-19T04:32:43Z",
+        "sentiment": "watch"
+      },
       {
         "title": "How the Iran War Reshaped the Global Landscape of Power",
         "source": "Foreign Policy",
