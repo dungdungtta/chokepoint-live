@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-19T23:06:34.473Z",
+    "generated_at": "2026-06-20T01:31:05.915Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Jim Cramer says next week's economic data will drive the markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/18/jim-cramer-economic-data-drive-markets.html",
-        "published": "2026-06-18T22:56:49Z",
+        "title": "Global Market Today: Asian stocks hit record highs, oil heads for weekly loss",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-hit-record-highs-oil-heads-for-weekly-loss/articleshow/131844291.cms",
+        "published": "2026-06-19T01:13:31Z",
         "sentiment": "watch"
       },
       {
-        "title": "NOAA Warns Potentially Historic El Niño Could Renew Pressure on Panama Canal",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/panama-canal-el-nino-noaa-restrictions-acp-container-shipping-drought-1239018136/",
-        "published": "2026-06-18T22:23:49Z",
+        "title": "LCCI forecasts lower inflation, fuel prices after ceasefire",
+        "source": "The Punch",
+        "url": "https://punchng.com/lcci-forecasts-lower-inflation-fuel-prices-after-ceasefire/",
+        "published": "2026-06-19T00:08:09Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "'They simply lied': Iranians devastated as US signs with regime they hoped would fall",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-06-19/iranians-react-to-trumps-war-deal-saying-united-states-lied/106813928",
+        "published": "2026-06-19T00:00:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Gas Prices Could Take Months to Return to Pre-War Levels Even After U.S.-Iran Deal",
+        "source": "Time",
+        "url": "https://time.com/article/2026/06/19/us-iran-deal-strait-hormuz-shipping-oil-gas-prices/",
+        "published": "2026-06-19T00:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "U.S. Downplays Possibility of Hormuz Tolls as Negotiations Restart",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/u-s-downplays-possibility-of-hormuz-tolls-as-negotiations-restart/",
-        "published": "2026-06-18T22:21:55Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "US-Iran peace deal boosts Asian markets as Strait of Hormuz reopens",
+        "title": "US-Iran agreement reshapes Middle East dynamics, raises concerns in Israel and Gulf states",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-peace-deal-boosts-asian-markets-as-strait-of-hormuz-reopens/",
-        "published": "2026-06-18T22:19:14Z",
+        "url": "https://cryptobriefing.com/us-iran-agreement-middle-east-crypto-impact/",
+        "published": "2026-06-18T23:55:28Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Walmart Automotive Savings: Up to 89% off + free shipping w/ $35",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Walmart-Automotive-Savings-Up-to-89-off-free-shipping-w-35/21842450.html",
-        "published": "2026-06-18T22:15:35Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
