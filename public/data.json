@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T14:22:09.854Z",
+    "generated_at": "2026-06-20T16:00:27.813Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Insurers Roll Out $400 Million War-Risk Facility for Hormuz Shipping",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Insurers-Roll-Out-400-Million-War-Risk-Facility-for-Hormuz-Shipping.html",
+        "published": "2026-06-19T16:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Strait of Hormuz set to reopen amid US-Iran tensions easing",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/strait-of-hormuz-set-to-reopen-amid-us-iran-tensions-easing/",
+        "published": "2026-06-19T15:45:18Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Tasnim urges Iran to close Strait of Hormuz amid US-Iran MoU tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/tasnim-urges-iran-to-close-strait-of-hormuz-amid-us-iran-mou-tensions/",
+        "published": "2026-06-19T14:36:42Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Israel and Hezbollah agree ceasefire as US-Iran deal under strain",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-06-20/lebanon-israel-united-states-iran-deal/106821978",
+        "published": "2026-06-19T14:36:32Z",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Hormuz reopening spells relief for exporters while shipping risks linger",
         "source": "BusinessLine",
         "url": "https://www.thehindubusinessline.com/economy/hormuz-reopening-spells-relief-for-exporters-while-shipping-risks-linger/article71122559.ece",
         "published": "2026-06-19T14:17:57Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Israel and Hezbollah agree ceasefire in huge boost to Trump's Iran peace deal",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15914189/Israel-Hezbollah-agree-ceasefire-huge-boost-Trumps-Iran-peace-deal.html",
-        "published": "2026-06-19T14:05:28Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Oil Markets Need More Than a Peace Deal to Recover",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Oil-Markets-Need-More-Than-a-Peace-Deal-to-Recover.html",
-        "published": "2026-06-19T14:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Pomegranate: Health Benefits, Nutrition, Uses & Recipes",
-        "source": "Outofofficeny.com",
-        "url": "https://outofofficeny.com/canada/pomegranate-in-canada-benefits-buying-eating-and-cooking-smart/",
-        "published": "2026-06-19T13:59:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US strike that killed Indian mariners tests US-India trust",
-        "source": "RT",
-        "url": "https://www.rt.com/india/641816-us-strike-indian-marines-oman/",
-        "published": "2026-06-19T13:24:48Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
