@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T21:24:02.084Z",
+    "generated_at": "2026-06-20T22:44:54.104Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "US and Iran talks face Lebanon war roadblock",
+        "source": "Thehillstimes.in",
+        "url": "https://thehillstimes.in/international/us-and-iran-talks-face-lebanon-war-roadblock",
+        "published": "2026-06-19T22:35:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump has fallen for the same false Iran promises as Obama",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/06/19/opinion/trump-has-fallen-for-the-same-false-iran-promises-as-obama/",
+        "published": "2026-06-19T21:51:26Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iraq to export crude and naphtha through Syria after Strait of Hormuz closure",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iraq-crude-exports-syria-hormuz-closure/",
+        "published": "2026-06-19T21:30:20Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Oil Rises as Iran Talks Are Delayed",
         "source": "Rigzone",
         "url": "https://www.rigzone.com/news/wire/oil_rises_as_iran_talks_are_delayed-19-jun-2026-183960-article/",
@@ -38,27 +59,6 @@
         "source": "Japan Today",
         "url": "https://japantoday.com/category/world/lebanon-ceasefire-agreed-after-us-iran-talks-in-switzerland-scrapped4",
         "published": "2026-06-19T20:39:26Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Trump signs deal to reopen Strait of Hormuz as oil drops and Bitcoin surges past $66K",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-hormuz-deal-bitcoin-oil/",
-        "published": "2026-06-19T20:29:09Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "The U.S. and Iran Are Exchanging Nuclear Concessions for Economic Relief. That's Compromise, Not Surrender.",
-        "source": "Reason",
-        "url": "https://reason.com/2026/06/19/compromise-with-iran-isnt-surrender/",
-        "published": "2026-06-19T20:20:22Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "United States outlines conditional sanctions relief for Iran through 14-point memorandum",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-conditional-sanctions-relief-iran/",
-        "published": "2026-06-19T20:06:26Z",
         "sentiment": "neutral"
       }
     ],
