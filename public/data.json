@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T16:00:27.813Z",
+    "generated_at": "2026-06-20T17:49:29.646Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Insurers Roll Out $400 Million War-Risk Facility for Hormuz Shipping",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Insurers-Roll-Out-400-Million-War-Risk-Facility-for-Hormuz-Shipping.html",
-        "published": "2026-06-19T16:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Strait of Hormuz set to reopen amid US-Iran tensions easing",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/strait-of-hormuz-set-to-reopen-amid-us-iran-tensions-easing/",
-        "published": "2026-06-19T15:45:18Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Tasnim urges Iran to close Strait of Hormuz amid US-Iran MoU tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/tasnim-urges-iran-to-close-strait-of-hormuz-amid-us-iran-mou-tensions/",
-        "published": "2026-06-19T14:36:42Z",
+        "title": "How low will gas prices fall?",
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/economy/how-low-will-gas-prices-fall",
+        "published": "2026-06-19T17:47:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Israel and Hezbollah agree ceasefire as US-Iran deal under strain",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-06-20/lebanon-israel-united-states-iran-deal/106821978",
-        "published": "2026-06-19T14:36:32Z",
-        "sentiment": "neutral"
+        "title": "Reports: Ships Begin Moving Through Strait of Hormuz",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/economy/2026/06/19/reports-ships-begin-moving-through-strait-of-hormuz/",
+        "published": "2026-06-19T17:32:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Hormuz reopening spells relief for exporters while shipping risks linger",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/hormuz-reopening-spells-relief-for-exporters-while-shipping-risks-linger/article71122559.ece",
-        "published": "2026-06-19T14:17:57Z",
-        "sentiment": "neutral"
+        "title": "Hormuz ship traffic climbs after war deal: trackers",
+        "source": "Digital Journal",
+        "url": "https://www.digitaljournal.com/article/hormuz-ship-traffic-climbs-after-war-deal-trackers/",
+        "published": "2026-06-19T17:10:36Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran to charge insurance fees for Strait of Hormuz passage, floats Bitcoin-settled platform",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-hormuz-insurance-fees-bitcoin/",
+        "published": "2026-06-19T17:07:32Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "More Than 20 Million Barrels Leave Iran as Post-War Oil Trade Reawakens",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/more-than-20-million-barrels-leave-iran-as-post-war-oil-trade-reawakens/",
+        "published": "2026-06-19T17:03:31Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
