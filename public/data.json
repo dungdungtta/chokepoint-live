@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T19:47:52.119Z",
+    "generated_at": "2026-06-20T21:24:02.084Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Why oil isn’t spiking: Iran ships 20 million barrels while China slashes imports",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/06/19/business/why-oil-isnt-spiking-iran-ships-20-million-barrels-while-china-slashes-imports/",
-        "published": "2026-06-19T19:38:24Z",
-        "sentiment": "watch"
+        "title": "Oil Rises as Iran Talks Are Delayed",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_rises_as_iran_talks_are_delayed-19-jun-2026-183960-article/",
+        "published": "2026-06-19T20:44:28Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "The Irish Times view on the Middle East: the chance of a grand bargain",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/opinion/editorials/2026/06/19/the-irish-times-view-on-the-middle-east-the-chance-of-a-grand-bargain/",
-        "published": "2026-06-19T18:42:00Z",
-        "sentiment": "watch"
+        "title": "Lebanon ceasefire agreed after U.S.-Iran talks in Switzerland scrapped",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/lebanon-ceasefire-agreed-after-us-iran-talks-in-switzerland-scrapped4",
+        "published": "2026-06-19T20:39:26Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Pakistan warns ships of mine in Strait of Hormuz area as US-Iran deal announced",
+        "title": "Trump signs deal to reopen Strait of Hormuz as oil drops and Bitcoin surges past $66K",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/pakistan-mine-warning-strait-of-hormuz/",
-        "published": "2026-06-19T18:22:03Z",
-        "sentiment": "danger"
+        "url": "https://cryptobriefing.com/trump-hormuz-deal-bitcoin-oil/",
+        "published": "2026-06-19T20:29:09Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Iran crude oil flows surge as US naval blockade lifts, with Bitcoin playing an unlikely role",
+        "title": "The U.S. and Iran Are Exchanging Nuclear Concessions for Economic Relief. That's Compromise, Not Surrender.",
+        "source": "Reason",
+        "url": "https://reason.com/2026/06/19/compromise-with-iran-isnt-surrender/",
+        "published": "2026-06-19T20:20:22Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "United States outlines conditional sanctions relief for Iran through 14-point memorandum",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-crude-oil-surge-bitcoin-transit-fees/",
-        "published": "2026-06-19T17:58:40Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "How low will gas prices fall?",
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/economy/how-low-will-gas-prices-fall",
-        "published": "2026-06-19T17:47:00Z",
-        "sentiment": "watch"
+        "url": "https://cryptobriefing.com/us-conditional-sanctions-relief-iran/",
+        "published": "2026-06-19T20:06:26Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
