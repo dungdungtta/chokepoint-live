@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T22:44:54.104Z",
+    "generated_at": "2026-06-20T23:54:14.531Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran requires insurance on ships using Strait of Hormuz, fees likely to follow",
+        "source": "Lloydslist.com",
+        "url": "https://www.lloydslist.com/LL1157571/Iran-imposes-mandatory-insurance-on-ships-transiting-Strait-of-Hormuz-with-fees-likely-to-follow",
+        "published": "2026-06-19T23:32:03Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Native Shampoo & Conditioner 2-Pack for $15 w/ Sub & Save for Prime + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Native-Shampoo-Conditioner-2-Pack-for-15-w-Sub-Save-for-Prime-free-shipping/21843390.html",
+        "published": "2026-06-19T23:24:36Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US and Iran talks face Lebanon war roadblock",
         "source": "Thehillstimes.in",
         "url": "https://thehillstimes.in/international/us-and-iran-talks-face-lebanon-war-roadblock",
@@ -46,20 +60,6 @@
         "url": "https://cryptobriefing.com/iraq-crude-exports-syria-hormuz-closure/",
         "published": "2026-06-19T21:30:20Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Oil Rises as Iran Talks Are Delayed",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_rises_as_iran_talks_are_delayed-19-jun-2026-183960-article/",
-        "published": "2026-06-19T20:44:28Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Lebanon ceasefire agreed after U.S.-Iran talks in Switzerland scrapped",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/lebanon-ceasefire-agreed-after-us-iran-talks-in-switzerland-scrapped4",
-        "published": "2026-06-19T20:39:26Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
