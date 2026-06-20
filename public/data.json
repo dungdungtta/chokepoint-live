@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T11:46:15.288Z",
+    "generated_at": "2026-06-20T14:22:09.854Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Friday: Hili dialogue",
-        "source": "Whyevolutionistrue.com",
-        "url": "https://whyevolutionistrue.com/2026/06/19/friday-hili-dialogue-582/",
-        "published": "2026-06-19T11:45:56Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hormuz Reopening Shifts Focus to Gulf Oil Storage and Shipping",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/445d0cb09ea4d51f",
-        "published": "2026-06-19T11:40:10Z",
+        "title": "Hormuz reopening spells relief for exporters while shipping risks linger",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/hormuz-reopening-spells-relief-for-exporters-while-shipping-risks-linger/article71122559.ece",
+        "published": "2026-06-19T14:17:57Z",
         "sentiment": "neutral"
       },
       {
-        "title": "First LNG ship reaches India through Hormuz after peace deal",
-        "source": "RT",
-        "url": "https://www.rt.com/india/641821-india-lng-hormuz-disha/",
-        "published": "2026-06-19T11:35:24Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Viewpoint: Hormuz Is Reopening, but Global Shipping Won’t Return to Normal for Months",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/06/19/874503.htm",
-        "published": "2026-06-19T11:32:34Z",
+        "title": "Israel and Hezbollah agree ceasefire in huge boost to Trump's Iran peace deal",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15914189/Israel-Hezbollah-agree-ceasefire-huge-boost-Trumps-Iran-peace-deal.html",
+        "published": "2026-06-19T14:05:28Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Oil Flows Resume Through Hormuz as Insurers Remain Wary",
+        "title": "Oil Markets Need More Than a Peace Deal to Recover",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Oil-Flows-Resume-Through-Hormuz-as-Insurers-Remain-Wary.html",
-        "published": "2026-06-19T11:30:00Z",
+        "url": "https://oilprice.com/Energy/Energy-General/Oil-Markets-Need-More-Than-a-Peace-Deal-to-Recover.html",
+        "published": "2026-06-19T14:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Pomegranate: Health Benefits, Nutrition, Uses & Recipes",
+        "source": "Outofofficeny.com",
+        "url": "https://outofofficeny.com/canada/pomegranate-in-canada-benefits-buying-eating-and-cooking-smart/",
+        "published": "2026-06-19T13:59:43Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US strike that killed Indian mariners tests US-India trust",
+        "source": "RT",
+        "url": "https://www.rt.com/india/641816-us-strike-indian-marines-oman/",
+        "published": "2026-06-19T13:24:48Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "When the Davidson Window Meets the ‘Xi Window’",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/06/when-the-davidson-window-meets-the-xi-window/",
+        "published": "2026-06-19T13:33:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Oil Flows Resume Through Hormuz as Insurers Remain Wary",
         "source": "OilPrice.com",
@@ -89,13 +96,6 @@
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/06/18/iran-war-ceasefire-deal-israel-united-states/",
         "published": "2026-06-18T19:09:07Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Military Leaders From 25 Countries Gather in Waikiki to Talk Coastal Warfare",
-        "source": "Military.com",
-        "url": "https://military.com/military-leaders-from-25-countries-gather-in-waikiki-to-talk-coastal-warfare",
-        "published": "2026-06-18T17:33:39Z",
         "sentiment": "danger"
       }
     ],
