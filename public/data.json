@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T09:44:12.396Z",
+    "generated_at": "2026-06-20T11:46:15.288Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "An Open Strait of Hormuz Won’t Fix Gas Prices Overnight",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/an-open-strait-of-hormuz-wont-fix-gas-prices-overnight/",
-        "published": "2026-06-19T09:30:00Z",
+        "title": "Friday: Hili dialogue",
+        "source": "Whyevolutionistrue.com",
+        "url": "https://whyevolutionistrue.com/2026/06/19/friday-hili-dialogue-582/",
+        "published": "2026-06-19T11:45:56Z",
         "sentiment": "watch"
       },
       {
-        "title": "Even Trump Can’t Sell This Crappy Iran Deal",
-        "source": "New York Magazine",
-        "url": "http://nymag.com/intelligencer/article/even-trump-cant-sell-this-crappy-iran-deal.html",
-        "published": "2026-06-19T09:00:22Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran-US deal under strain after Swiss talks postponed",
-        "source": "The Punch",
-        "url": "https://punchng.com/iran-us-deal-under-strain-after-swiss-talks-postponed/",
-        "published": "2026-06-19T08:50:43Z",
+        "title": "Hormuz Reopening Shifts Focus to Gulf Oil Storage and Shipping",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/445d0cb09ea4d51f",
+        "published": "2026-06-19T11:40:10Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Fuel cuts on horizon",
-        "source": "Africaninsider.com",
-        "url": "https://www.africaninsider.com/business/fuel-cuts-on-horizon/",
-        "published": "2026-06-19T08:31:42Z",
+        "title": "First LNG ship reaches India through Hormuz after peace deal",
+        "source": "RT",
+        "url": "https://www.rt.com/india/641821-india-lng-hormuz-disha/",
+        "published": "2026-06-19T11:35:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "“Probably an unconditional surrender” of Tehran: Trump defends the agreement with Iran as the gap with Israel deepens",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/06/19/probably-an-unconditional-surrender-of-tehran-trump-defends-the-agreement-with-iran-as-the-gap-with-israel-deepens/",
-        "published": "2026-06-19T08:31:22Z",
+        "title": "Viewpoint: Hormuz Is Reopening, but Global Shipping Won’t Return to Normal for Months",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/06/19/874503.htm",
+        "published": "2026-06-19T11:32:34Z",
         "sentiment": "neutral"
+      },
+      {
+        "title": "Oil Flows Resume Through Hormuz as Insurers Remain Wary",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Oil-Flows-Resume-Through-Hormuz-as-Insurers-Remain-Wary.html",
+        "published": "2026-06-19T11:30:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Oil Flows Resume Through Hormuz as Insurers Remain Wary",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Oil-Flows-Resume-Through-Hormuz-as-Insurers-Remain-Wary.html",
+        "published": "2026-06-19T11:30:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "US export ban on Anthropic’s AI models further strains alliances",
         "source": "Al Jazeera English",
@@ -89,13 +96,6 @@
         "source": "Military.com",
         "url": "https://military.com/military-leaders-from-25-countries-gather-in-waikiki-to-talk-coastal-warfare",
         "published": "2026-06-18T17:33:39Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The Iran War Damaged U.S.-India Ties",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/06/18/iran-war-us-india-ties-damage-economy-modi-rubio-trump/",
-        "published": "2026-06-18T15:04:07Z",
         "sentiment": "danger"
       }
     ],
