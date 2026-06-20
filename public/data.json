@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T06:04:19.630Z",
+    "generated_at": "2026-06-20T09:44:12.396Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Kilaidonis and the…Rafina approach, Samaras’s (broken) phones, the ballots of the small (green) village, the ERT–SKAI match for basketball",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/06/19/kilaidonis-and-therafina-approach-samarass-broken-phones-the-ballots-of-the-small-green-village-the-ert-skai-match-for-basketball/",
-        "published": "2026-06-19T06:03:06Z",
+        "title": "An Open Strait of Hormuz Won’t Fix Gas Prices Overnight",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/an-open-strait-of-hormuz-wont-fix-gas-prices-overnight/",
+        "published": "2026-06-19T09:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "U.S., Iran Sign Islamabad MoU to End Hostilities, Reopen Strait of Hormuz",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-06-19-us-iran-sign-islamabad-mou-end-hostilities.html",
-        "published": "2026-06-19T06:00:00Z",
+        "title": "Even Trump Can’t Sell This Crappy Iran Deal",
+        "source": "New York Magazine",
+        "url": "http://nymag.com/intelligencer/article/even-trump-cant-sell-this-crappy-iran-deal.html",
+        "published": "2026-06-19T09:00:22Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran-US deal under strain after Swiss talks postponed",
+        "source": "The Punch",
+        "url": "https://punchng.com/iran-us-deal-under-strain-after-swiss-talks-postponed/",
+        "published": "2026-06-19T08:50:43Z",
         "sentiment": "neutral"
       },
       {
-        "title": "U.S.-Iran accord hits early snag after Swiss talks fail to proceed as planned",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/19/us-iran-talks-switzerland-canceled-interim-deal-markets.html",
-        "published": "2026-06-19T05:56:50Z",
-        "sentiment": "neutral"
+        "title": "Fuel cuts on horizon",
+        "source": "Africaninsider.com",
+        "url": "https://www.africaninsider.com/business/fuel-cuts-on-horizon/",
+        "published": "2026-06-19T08:31:42Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Vice President JD Vance Delays Switzerland Trip for Iran Deal Talks",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/06/18/vice-president-jd-vance-delays-switzerland-trip-iran-deal-talks/",
-        "published": "2026-06-19T05:10:20Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Indian refiners sitting on enough crude, in no rush to resume purchases from West Asia",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indian-refiners-sitting-on-enough-crude-in-no-rush-to-resume-purchases-from-west-asia/articleshow/131847353.cms",
-        "published": "2026-06-19T05:07:57Z",
+        "title": "“Probably an unconditional surrender” of Tehran: Trump defends the agreement with Iran as the gap with Israel deepens",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/06/19/probably-an-unconditional-surrender-of-tehran-trump-defends-the-agreement-with-iran-as-the-gap-with-israel-deepens/",
+        "published": "2026-06-19T08:31:22Z",
         "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "US export ban on Anthropic’s AI models further strains alliances",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/19/us-export-ban-on-anthropics-ai-models-further-strains-alliances",
+        "published": "2026-06-19T09:05:57Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Sensex, Nifty fall 1% as Accenture-triggered IT rout snaps 5-day rally",
         "source": "BusinessLine",
@@ -90,13 +97,6 @@
         "url": "http://foreignpolicy.com/2026/06/18/iran-war-us-india-ties-damage-economy-modi-rubio-trump/",
         "published": "2026-06-18T15:04:07Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "The Iran Deal Drives Oil Prices Down, But Uncertainty Looms",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/arielcohen/2026/06/18/the-iran-deal-drives-oil-prices-down-but-uncertainty-looms/",
-        "published": "2026-06-18T14:36:19Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
