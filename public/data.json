@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T05:06:44.504Z",
+    "generated_at": "2026-06-21T09:02:52.414Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "80 Million Barrels Of Oil Wait At Hormuz As US–Iran Thaw Sparks Shipping Revival",
+        "source": "Free Press Journal",
+        "url": "https://www.freepressjournal.in/business/80-million-barrels-of-oil-wait-at-hormuz-as-usiran-thaw-sparks-shipping-revival",
+        "published": "2026-06-20T08:07:30Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran poised to gain $60B annually from resumed oil exports after US memorandum",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-60b-oil-exports-us-memorandum/",
+        "published": "2026-06-20T07:52:13Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Is the worst over on oil prices?",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0620/1579354-is-the-worst-over-on-oil-prices/",
+        "published": "2026-06-20T06:00:02Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Switzerland at the center of US–Iran diplomatic drama as Israel–Hezbollah ceasefire revives nuclear talks prospects",
         "source": "Protothema.gr",
         "url": "https://en.protothema.gr/2026/06/20/switzerland-at-the-center-of-us-iran-diplomatic-drama-as-israel-hezbollah-ceasefire-revives-nuclear-talks-prospects/",
@@ -38,27 +59,6 @@
         "source": "Juancole.com",
         "url": "https://www.juancole.com/2026/06/hormuz-again-prices.html",
         "published": "2026-06-20T04:04:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The US-Iran MOU is worse than we thought",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/articles/2026/06/the_us_iran_mou_is_worse_than_we_thought.html",
-        "published": "2026-06-20T04:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ceasefire hopes between US and Iran drag oil prices lower: What lies ahead?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/ceasefire-hopes-between-us-and-iran-drag-oil-prices-lower-what-lies-ahead/articleshow/131869938.cms",
-        "published": "2026-06-20T03:33:26Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Iranian Guards' business empire to win big if US sanctions lifted",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/iranian-guards-business-empire-to-win-big-if-us-sanctions-lifted/articleshow/131869792.cms",
-        "published": "2026-06-20T03:22:55Z",
         "sentiment": "watch"
       }
     ],
