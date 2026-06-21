@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T09:02:52.414Z",
+    "generated_at": "2026-06-21T11:57:09.657Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Ships Told They Can Use South Hormuz Route With Signals On",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/ships-told-they-can-use-south-hormuz-route-with-signals-on",
+        "published": "2026-06-20T11:50:48Z",
+        "sentiment": "watch"
+      },
       {
         "title": "80 Million Barrels Of Oil Wait At Hormuz As US–Iran Thaw Sparks Shipping Revival",
         "source": "Free Press Journal",
@@ -53,16 +60,16 @@
         "url": "https://en.protothema.gr/2026/06/20/switzerland-at-the-center-of-us-iran-diplomatic-drama-as-israel-hezbollah-ceasefire-revives-nuclear-talks-prospects/",
         "published": "2026-06-20T04:41:00Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Hormuz Is Open Again. But Gas Prices Won’t Drop Soon",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/06/hormuz-again-prices.html",
-        "published": "2026-06-20T04:04:17Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Links 6/20/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/06/links-6-20-2026.html",
+        "published": "2026-06-20T10:59:59Z",
+        "sentiment": "watch"
+      },
       {
         "title": "When the Davidson Window Meets the ‘Xi Window’",
         "source": "The Diplomat",
@@ -90,13 +97,6 @@
         "url": "https://www.thehindubusinessline.com/markets/sensex-nifty-fall-1-as-accenture-triggered-it-rout-snaps-5-day-rally/article71120738.ece",
         "published": "2026-06-19T04:32:43Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "How the Iran War Reshaped the Global Landscape of Power",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/06/18/iran-war-ceasefire-deal-israel-united-states/",
-        "published": "2026-06-18T19:09:07Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
