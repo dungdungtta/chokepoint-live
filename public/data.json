@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T23:54:14.531Z",
+    "generated_at": "2026-06-21T05:06:44.504Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran requires insurance on ships using Strait of Hormuz, fees likely to follow",
-        "source": "Lloydslist.com",
-        "url": "https://www.lloydslist.com/LL1157571/Iran-imposes-mandatory-insurance-on-ships-transiting-Strait-of-Hormuz-with-fees-likely-to-follow",
-        "published": "2026-06-19T23:32:03Z",
+        "title": "Switzerland at the center of US–Iran diplomatic drama as Israel–Hezbollah ceasefire revives nuclear talks prospects",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/06/20/switzerland-at-the-center-of-us-iran-diplomatic-drama-as-israel-hezbollah-ceasefire-revives-nuclear-talks-prospects/",
+        "published": "2026-06-20T04:41:00Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Hormuz Is Open Again. But Gas Prices Won’t Drop Soon",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/06/hormuz-again-prices.html",
+        "published": "2026-06-20T04:04:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "Native Shampoo & Conditioner 2-Pack for $15 w/ Sub & Save for Prime + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Native-Shampoo-Conditioner-2-Pack-for-15-w-Sub-Save-for-Prime-free-shipping/21843390.html",
-        "published": "2026-06-19T23:24:36Z",
+        "title": "The US-Iran MOU is worse than we thought",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/articles/2026/06/the_us_iran_mou_is_worse_than_we_thought.html",
+        "published": "2026-06-20T04:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US and Iran talks face Lebanon war roadblock",
-        "source": "Thehillstimes.in",
-        "url": "https://thehillstimes.in/international/us-and-iran-talks-face-lebanon-war-roadblock",
-        "published": "2026-06-19T22:35:00Z",
-        "sentiment": "danger"
+        "title": "Ceasefire hopes between US and Iran drag oil prices lower: What lies ahead?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/ceasefire-hopes-between-us-and-iran-drag-oil-prices-lower-what-lies-ahead/articleshow/131869938.cms",
+        "published": "2026-06-20T03:33:26Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Trump has fallen for the same false Iran promises as Obama",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/06/19/opinion/trump-has-fallen-for-the-same-false-iran-promises-as-obama/",
-        "published": "2026-06-19T21:51:26Z",
+        "title": "Iranian Guards' business empire to win big if US sanctions lifted",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iranian-guards-business-empire-to-win-big-if-us-sanctions-lifted/articleshow/131869792.cms",
+        "published": "2026-06-20T03:22:55Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iraq to export crude and naphtha through Syria after Strait of Hormuz closure",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iraq-crude-exports-syria-hormuz-closure/",
-        "published": "2026-06-19T21:30:20Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
