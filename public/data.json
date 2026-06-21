@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T20:05:05.212Z",
+    "generated_at": "2026-06-21T21:43:17.587Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump Says U.S. May Impose Tolls In Strait Of Hormuz If Peace Deal Fails",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/20/trump-says-us-may-impose-tolls-in-strait-of-hormuz-if-peace-deal-fails/",
-        "published": "2026-06-20T19:58:10Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iraq Is Keeping Its Syria Oil Route—Even If Hormuz Reopens",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Is-Keeping-Its-Syria-Oil-RouteEven-If-Hormuz-Reopens.html",
-        "published": "2026-06-20T19:30:00Z",
+        "title": "US-Iran Talks Revived As Vance Heads To Switzerland For High-Stakes Push",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/iran-burgenstock-ceasefire-vance-witkoff-kushner-araqchi/33785268.html",
+        "published": "2026-06-20T21:39:53Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Congress, Shashi Tharoor differ on Modi-Trump meeting",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-shashi-tharoor-differ-on-modi-trump-meeting/articleshow/131882369.cms",
-        "published": "2026-06-20T18:52:39Z",
+        "title": "Vice President JD Vance heads to Switzerland for Iran talks amid Strait of Hormuz tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/vance-switzerland-iran-talks-hormuz/",
+        "published": "2026-06-20T21:35:05Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "How the Iranian Guards business empire will win big if U.S. sanctions are lifted",
+        "source": "Haaretz",
+        "url": "https://www.haaretz.com/middle-east-news/iran/2026-06-21/ty-article/how-the-iranian-guards-business-empire-will-win-big-if-u-s-sanctions-are-lifted/0000019e-e5ea-d698-adbf-e5ea92c60000",
+        "published": "2026-06-20T21:07:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran’s IRGC Navy warns vessels to avoid Strait of Hormuz as closure escalates global tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/irgc-navy-warns-strait-hormuz-closure/",
-        "published": "2026-06-20T18:24:01Z",
-        "sentiment": "danger"
+        "title": "Shipping companies will decide when the Strait of Hormuz is truly open—not the U.S. or Iran—and the latest deal is already sowing confusion",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/06/20/shipping-companies-insurance-strait-of-hormuz-traffic-us-iran-deal/",
+        "published": "2026-06-20T20:32:36Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Iran resumes crude oil loadings from Kharg Island after US Navy blockade lifted",
+        "title": "Trump: No tolls in Strait of Hormuz during 60-day ceasefire",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-crude-oil-kharg-island-blockade-lifted/",
-        "published": "2026-06-20T18:19:34Z",
-        "sentiment": "danger"
+        "url": "https://cryptobriefing.com/trump-no-tolls-in-strait-of-hormuz-during-60-day-ceasefire/",
+        "published": "2026-06-20T20:16:12Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
