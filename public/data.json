@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T18:06:53.745Z",
+    "generated_at": "2026-06-21T20:05:05.212Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran Closes Strait of Hormuz in Response to Israel’s Attacks on Lebanon",
-        "source": "Common Dreams",
-        "url": "https://www.commondreams.org/news/iran-mou-hormuz",
-        "published": "2026-06-20T18:05:19Z",
+        "title": "Trump Says U.S. May Impose Tolls In Strait Of Hormuz If Peace Deal Fails",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/20/trump-says-us-may-impose-tolls-in-strait-of-hormuz-if-peace-deal-fails/",
+        "published": "2026-06-20T19:58:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iraq Is Keeping Its Syria Oil Route—Even If Hormuz Reopens",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Is-Keeping-Its-Syria-Oil-RouteEven-If-Hormuz-Reopens.html",
+        "published": "2026-06-20T19:30:00Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Congress, Shashi Tharoor differ on Modi-Trump meeting",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-shashi-tharoor-differ-on-modi-trump-meeting/articleshow/131882369.cms",
+        "published": "2026-06-20T18:52:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran’s IRGC Navy warns vessels to avoid Strait of Hormuz as closure escalates global tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/irgc-navy-warns-strait-hormuz-closure/",
+        "published": "2026-06-20T18:24:01Z",
         "sentiment": "danger"
       },
       {
-        "title": "New Iran MOU leaves Tehran weaker and the U.S. stronger",
-        "source": "Wnd.com",
-        "url": "https://www.wnd.com/2026/06/new-iran-mou-leaves-tehran-weaker-u-s/",
-        "published": "2026-06-20T17:54:22Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Shipping companies will decide when the Strait of Hormuz is truly open—not the U.S. or Iran—and the latest deal is already sowing confusion",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/9d87b2cc281db9b2",
-        "published": "2026-06-20T17:30:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran announces plans to close Strait of Hormuz, alleging ‘violations of the ceasefire’",
-        "source": "POLITICO.eu",
-        "url": "https://www.politico.eu/article/iran-announces-plans-to-close-the-strait-of-hormuz-alleging-violations-of-the-ceasefire/",
-        "published": "2026-06-20T17:19:20Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Iran reportedly closes Strait of Hormuz again, casting shadow over nuclear talks",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
-        "published": "2026-06-20T17:06:27Z",
-        "sentiment": "neutral"
+        "title": "Iran resumes crude oil loadings from Kharg Island after US Navy blockade lifted",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-crude-oil-kharg-island-blockade-lifted/",
+        "published": "2026-06-20T18:19:34Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
