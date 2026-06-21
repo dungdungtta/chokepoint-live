@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T16:16:39.207Z",
+    "generated_at": "2026-06-21T18:06:53.745Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "IEA Cuts 2026 Oil Demand Outlook Amid Gulf Disruptions, Sees Recovery Taking Shape in 2027",
-        "source": "Advfn.com",
-        "url": "https://investorshub.advfn.com/market-news/article/30823/iea-cuts-2026-oil-demand-outlook-amid-gulf-disruptions-sees-recovery-taking-shape-in-2027",
-        "published": "2026-06-20T16:12:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hormuz closed again: Will the US-Iran MoU soon sink in the strait?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/hormuz-closed-again-will-the-us-iran-mou-soon-sink-in-the-strait/articleshow/131879227.cms",
-        "published": "2026-06-20T16:05:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran decides to close the Strait of Hormuz once again",
-        "source": "Gossiplankanews.com",
-        "url": "https://english.gossiplankanews.com/2026/06/iran-decides-to-close-strait-of-hormuz.html",
-        "published": "2026-06-20T15:30:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Takes Two Steps Back in Ending His Iran War",
-        "source": "Mother Jones",
-        "url": "https://www.motherjones.com/politics/2026/06/trump-israel-lebanon-iran-ceasefire-failing/",
-        "published": "2026-06-20T15:24:57Z",
+        "title": "Iran Closes Strait of Hormuz in Response to Israel’s Attacks on Lebanon",
+        "source": "Common Dreams",
+        "url": "https://www.commondreams.org/news/iran-mou-hormuz",
+        "published": "2026-06-20T18:05:19Z",
         "sentiment": "danger"
       },
       {
-        "title": "3 Indian-flagged oil tankers transit through Strait of Hormuz",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/3-indian-flagged-oil-tankers-transit-through-strait-of-hormuz/articleshow/131878909.cms",
-        "published": "2026-06-20T15:20:40Z",
+        "title": "New Iran MOU leaves Tehran weaker and the U.S. stronger",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/06/new-iran-mou-leaves-tehran-weaker-u-s/",
+        "published": "2026-06-20T17:54:22Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Shipping companies will decide when the Strait of Hormuz is truly open—not the U.S. or Iran—and the latest deal is already sowing confusion",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/9d87b2cc281db9b2",
+        "published": "2026-06-20T17:30:05Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran announces plans to close Strait of Hormuz, alleging ‘violations of the ceasefire’",
+        "source": "POLITICO.eu",
+        "url": "https://www.politico.eu/article/iran-announces-plans-to-close-the-strait-of-hormuz-alleging-violations-of-the-ceasefire/",
+        "published": "2026-06-20T17:19:20Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Iran reportedly closes Strait of Hormuz again, casting shadow over nuclear talks",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
+        "published": "2026-06-20T17:06:27Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
