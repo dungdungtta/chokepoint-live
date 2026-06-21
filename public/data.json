@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T11:57:09.657Z",
+    "generated_at": "2026-06-21T14:28:24.102Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Ships Told They Can Use South Hormuz Route With Signals On",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/ships-told-they-can-use-south-hormuz-route-with-signals-on",
-        "published": "2026-06-20T11:50:48Z",
-        "sentiment": "watch"
+        "title": "Iran warns it is closing Strait of Hormuz and threatens any ships using the waterway",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15916073/Iran-warns-closing-Strait-Hormuz-threatens-ships.html",
+        "published": "2026-06-20T14:13:28Z",
+        "sentiment": "danger"
       },
       {
-        "title": "80 Million Barrels Of Oil Wait At Hormuz As US–Iran Thaw Sparks Shipping Revival",
-        "source": "Free Press Journal",
-        "url": "https://www.freepressjournal.in/business/80-million-barrels-of-oil-wait-at-hormuz-as-usiran-thaw-sparks-shipping-revival",
-        "published": "2026-06-20T08:07:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran poised to gain $60B annually from resumed oil exports after US memorandum",
+        "title": "Iran closes Strait of Hormuz for shipping, citing Israel ceasefire violations",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-60b-oil-exports-us-memorandum/",
-        "published": "2026-06-20T07:52:13Z",
+        "url": "https://cryptobriefing.com/iran-closes-strait-hormuz-shipping-israel/",
+        "published": "2026-06-20T14:08:16Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Is the worst over on oil prices?",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/0620/1579354-is-the-worst-over-on-oil-prices/",
-        "published": "2026-06-20T06:00:02Z",
+        "title": "Trump dealt devastating blow as Iranians close down Strait of Hormuz again: report",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/trump-iran-2677068651/",
+        "published": "2026-06-20T14:06:41Z",
         "sentiment": "watch"
       },
       {
-        "title": "Switzerland at the center of US–Iran diplomatic drama as Israel–Hezbollah ceasefire revives nuclear talks prospects",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/06/20/switzerland-at-the-center-of-us-iran-diplomatic-drama-as-israel-hezbollah-ceasefire-revives-nuclear-talks-prospects/",
-        "published": "2026-06-20T04:41:00Z",
-        "sentiment": "neutral"
+        "title": "Oil posts steepest weekly drop in months as US-Iran deal ease supply concerns | Al Bawaba",
+        "source": "Al-Bawaba",
+        "url": "https://www.albawaba.com/business/oil-posts-steepest-weekly-drop-months-us-1630753",
+        "published": "2026-06-20T14:05:15Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran closes Strait of Hormuz again amid Israeli attacks in Lebanon, oil prices spike",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-closes-strait-hormuz-israeli-attacks-lebanon/",
+        "published": "2026-06-20T14:03:17Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
