@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-22T06:07:16.297Z",
+    "generated_at": "2026-06-22T12:27:05.347Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Prices Slide After Iran Deal, But Analysts Warn Gasoline Relief Will Take Months",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-06-21-oil-prices-slide-gasoline-relief-take-months.html",
-        "published": "2026-06-21T06:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Will Sensex, Nifty bounce back on Monday? Iran peace deal risks among 5 factors to drive D-St this week",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-bounce-back-on-monday-iran-peace-deal-risks-among-5-factors-to-drive-d-st-this-week/articleshow/131885966.cms",
-        "published": "2026-06-21T04:25:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why fuel excise cut is being extended by another month but at smaller discount",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-06-21/why-fuel-excise-cut-will-continue-to-lesser-extent-until-august/106824392",
-        "published": "2026-06-21T01:47:44Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran claims Strait of Hormuz closure following Israeli strikes in Lebanon",
-        "source": "Khabarhub.com",
-        "url": "https://english.khabarhub.com/2026/21/554790/",
-        "published": "2026-06-21T01:30:52Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/us-disputes-iranian-claims-about-closing-strait-of-hormuz-as-negotiators-head-to-switzerland/articleshow/131885084.cms",
-        "published": "2026-06-21T01:12:08Z",
+        "title": "US-Iran Talks to Focus on Implementing Memorandum Provisions - Iranian Foreign Ministry",
+        "source": "Sputnikglobe.com",
+        "url": "https://sputnikglobe.com/20260621/us-iran-talks-to-focus-on-implementing-memorandum-provisions---iranian-foreign-ministry-1124338862.html",
+        "published": "2026-06-21T12:02:53Z",
         "sentiment": "neutral"
+      },
+      {
+        "title": "Iran's Top Negotiator Warns Washington Against Threats",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260621-rferl02.htm",
+        "published": "2026-06-21T12:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US-Iran Talks to Focus on Implementing Memorandum Provisions - Iranian Foreign Ministry",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260621-sputnik04.htm",
+        "published": "2026-06-21T12:00:00Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Iran keeps Strait of Hormuz closed until Lebanon ceasefire, oil waivers",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-keeps-strait-of-hormuz-closed-until-lebanon-ceasefire-oil-waivers/",
+        "published": "2026-06-21T11:27:32Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "P-8A Poseidons complete deployment to Malaysia",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/australia/2026/australia-260621-audod01.htm",
+        "published": "2026-06-21T11:26:03Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan to stage five days of combat readiness drills",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/taiwan-to-stage-five-days-of-combat-readiness-drills/articleshow/131888285.cms",
+        "published": "2026-06-21T08:54:20Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Links 6/20/2026",
         "source": "Nakedcapitalism.com",
@@ -83,20 +90,6 @@
         "url": "https://oilprice.com/Energy/Energy-General/Oil-Flows-Resume-Through-Hormuz-as-Insurers-Remain-Wary.html",
         "published": "2026-06-19T11:30:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "US export ban on Anthropic’s AI models further strains alliances",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/19/us-export-ban-on-anthropics-ai-models-further-strains-alliances",
-        "published": "2026-06-19T09:05:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Sensex, Nifty fall 1% as Accenture-triggered IT rout snaps 5-day rally",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty-fall-1-as-accenture-triggered-it-rout-snaps-5-day-rally/article71120738.ece",
-        "published": "2026-06-19T04:32:43Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
