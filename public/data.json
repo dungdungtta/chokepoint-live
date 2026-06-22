@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-22T20:20:09.519Z",
+    "generated_at": "2026-06-22T22:22:22.501Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
+        "title": "As Vance meets top Iranian officials in Switzerland, Trump threatens Tehran from afar",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/vance-meets-top-iranian-officials-switzerland-trump-threatens-134071079",
+        "published": "2026-06-21T21:33:41Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump threatens Iran with fresh strikes as Vance leads peace talks in Switzerland",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/trump-threatens-iran-with-fresh-strikes-as-vance-leads-peace-talks-in-switzerland",
+        "published": "2026-06-21T21:18:55Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "U.S.-Iran talks just started and Trump is already threatening to attack, causing negotiations to pause",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/06/21/us-iran-trump-threat-attack-negotiations-pause-lebanon/",
+        "published": "2026-06-21T21:09:26Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "$20* | 5-Qt Mobil 1 Truck & SUV Full Synthetic Motor Oil (0W-20) at Amazon (1 replies)",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19654461-20-5-qt-mobil-1-truck-suv-full-synthetic-motor-oil-0w-20-at-amazon",
+        "published": "2026-06-21T20:48:37Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran closes Strait of Hormuz after Israeli attacks on Lebanon",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-after-israeli-attacks-on-lebanon/",
         "published": "2026-06-21T20:16:08Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Trump Threatens Iran as JD Vance Announces “Great Progress” on Ceasefire",
-        "source": "Mother Jones",
-        "url": "https://www.motherjones.com/politics/2026/06/trump-threatens-iran-as-jd-vance-announces-great-progress-on-ceasefire/",
-        "published": "2026-06-21T20:11:14Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Hormuz in focus for India as US-Iran talks kick off in Switzerland",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/india/us-iran-swiss-talks-begin-india-watches-hormuz-closely/articleshow/131896165.cms",
-        "published": "2026-06-21T18:40:18Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Trump and Iran quarrel on social media while peace talks proceed in Switzerland",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/06/21/trump-and-iran-quarrel-on-social-media-while-peace-talks-proceed-in-switzerland/",
-        "published": "2026-06-21T18:38:11Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "‘You Close It And You Won’t Have A Country’: Trump Reportedly Says US Could Become ‘Guardian Angel’ Of Strait Of Hormuz",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/06/21/trump-iran-strait-hormuz-guardian-angel-tolls/",
-        "published": "2026-06-21T17:31:45Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan to stage five days of combat readiness drills",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/taiwan-to-stage-five-days-of-combat-readiness-drills2",
+        "published": "2026-06-21T21:19:28Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan to stage five days of combat readiness drills",
         "source": "The Times of India",
@@ -83,13 +90,6 @@
         "url": "https://thediplomat.com/2026/06/when-the-davidson-window-meets-the-xi-window/",
         "published": "2026-06-19T13:33:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Oil Flows Resume Through Hormuz as Insurers Remain Wary",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Oil-Flows-Resume-Through-Hormuz-as-Insurers-Remain-Wary.html",
-        "published": "2026-06-19T11:30:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
