@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-22T22:22:22.501Z",
+    "generated_at": "2026-06-22T23:51:58.891Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Oil Keeps Flowing Through Hormuz Despite Iran Saying It’s Shut",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/oil-keeps-flowing-through-hormuz-despite-iran-saying-its-shut/",
+        "published": "2026-06-21T23:21:55Z",
+        "sentiment": "watch"
+      },
       {
         "title": "As Vance meets top Iranian officials in Switzerland, Trump threatens Tehran from afar",
         "source": "Abcnews.com",
@@ -53,13 +60,6 @@
         "url": "https://slickdeals.net/f/19654461-20-5-qt-mobil-1-truck-suv-full-synthetic-motor-oil-0w-20-at-amazon",
         "published": "2026-06-21T20:48:37Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran closes Strait of Hormuz after Israeli attacks on Lebanon",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-after-israeli-attacks-on-lebanon/",
-        "published": "2026-06-21T20:16:08Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
