@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-22T00:18:52.631Z",
+    "generated_at": "2026-06-22T06:07:16.297Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US disputes Iranian claims of closing Strait of Hormuz as talks begin in Switzerland",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-strait-hormuz-talks-crypto-impact/",
-        "published": "2026-06-21T00:07:57Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "1963 Chevrolet Corvette Split-Window Coupe L84 327/360 Fuelie 4-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1963-chevrolet-corvette-coupe-232/",
-        "published": "2026-06-20T23:50:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US and Iran set for new talks as Tehran closes strait",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/0621/1579512-middle-east-iran/",
-        "published": "2026-06-20T23:40:25Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Strait of Hormuz closure may extend to year’s end due to 80 mines: report",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/strait-of-hormuz-closure-may-extend-to-years-end-due-to-80-mines-report/",
-        "published": "2026-06-20T23:18:55Z",
+        "title": "Oil Prices Slide After Iran Deal, But Analysts Warn Gasoline Relief Will Take Months",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-06-21-oil-prices-slide-gasoline-relief-take-months.html",
+        "published": "2026-06-21T06:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "JD Vance travels to Switzerland for Iran nuclear talks as oil markets watch closely",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/jd-vance-switzerland-iran-nuclear-talks/",
-        "published": "2026-06-20T22:56:19Z",
+        "title": "Will Sensex, Nifty bounce back on Monday? Iran peace deal risks among 5 factors to drive D-St this week",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-bounce-back-on-monday-iran-peace-deal-risks-among-5-factors-to-drive-d-st-this-week/articleshow/131885966.cms",
+        "published": "2026-06-21T04:25:14Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Why fuel excise cut is being extended by another month but at smaller discount",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-06-21/why-fuel-excise-cut-will-continue-to-lesser-extent-until-august/106824392",
+        "published": "2026-06-21T01:47:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran claims Strait of Hormuz closure following Israeli strikes in Lebanon",
+        "source": "Khabarhub.com",
+        "url": "https://english.khabarhub.com/2026/21/554790/",
+        "published": "2026-06-21T01:30:52Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-disputes-iranian-claims-about-closing-strait-of-hormuz-as-negotiators-head-to-switzerland/articleshow/131885084.cms",
+        "published": "2026-06-21T01:12:08Z",
         "sentiment": "neutral"
       }
     ],
