@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-22T17:16:08.966Z",
+    "generated_at": "2026-06-22T20:20:09.519Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil keeps flowing through Hormuz despite Iran saying it’s shut",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/3405aeacd41406e6",
-        "published": "2026-06-21T16:14:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Barclays Warns Hawkish Central Banks Could Challenge Equity Market Momentum",
-        "source": "Advfn.com",
-        "url": "https://investorshub.advfn.com/market-news/article/30831/barclays-warns-hawkish-central-banks-could-challenge-equity-market-momentum",
-        "published": "2026-06-21T15:35:00Z",
+        "title": "Iran closes Strait of Hormuz after Israeli attacks on Lebanon",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-after-israeli-attacks-on-lebanon/",
+        "published": "2026-06-21T20:16:08Z",
         "sentiment": "danger"
       },
       {
-        "title": "Facts on the Ground in Hormuz – 85% Oilflow – Iran Tested on Backing Up Threats",
-        "source": "Next Big Future",
-        "url": "https://www.nextbigfuture.com/2026/06/facts-on-the-ground-in-hormuz-85-oilflow-iran-tested-on-backing-up-threats.html",
-        "published": "2026-06-21T15:31:08Z",
+        "title": "Trump Threatens Iran as JD Vance Announces “Great Progress” on Ceasefire",
+        "source": "Mother Jones",
+        "url": "https://www.motherjones.com/politics/2026/06/trump-threatens-iran-as-jd-vance-announces-great-progress-on-ceasefire/",
+        "published": "2026-06-21T20:11:14Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil keeps flowing through Hormuz despite Iran saying it’s shut",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/21/oil-flows-strait-of-hormuz-iran-shutdown-oman-us-military-route/",
-        "published": "2026-06-21T15:24:29Z",
-        "sentiment": "watch"
+        "title": "Hormuz in focus for India as US-Iran talks kick off in Switzerland",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/india/us-iran-swiss-talks-begin-india-watches-hormuz-closely/articleshow/131896165.cms",
+        "published": "2026-06-21T18:40:18Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Why Big Oil Is Backing Away From Renewables",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/rrapier/2026/06/21/why-big-oil-is-backing-away-from-renewables/",
-        "published": "2026-06-21T15:05:58Z",
+        "title": "Trump and Iran quarrel on social media while peace talks proceed in Switzerland",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/06/21/trump-and-iran-quarrel-on-social-media-while-peace-talks-proceed-in-switzerland/",
+        "published": "2026-06-21T18:38:11Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "‘You Close It And You Won’t Have A Country’: Trump Reportedly Says US Could Become ‘Guardian Angel’ Of Strait Of Hormuz",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/06/21/trump-iran-strait-hormuz-guardian-angel-tolls/",
+        "published": "2026-06-21T17:31:45Z",
         "sentiment": "watch"
       }
     ],
