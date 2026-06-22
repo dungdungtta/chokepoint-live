@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-22T12:27:05.347Z",
+    "generated_at": "2026-06-22T17:16:08.966Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US-Iran Talks to Focus on Implementing Memorandum Provisions - Iranian Foreign Ministry",
-        "source": "Sputnikglobe.com",
-        "url": "https://sputnikglobe.com/20260621/us-iran-talks-to-focus-on-implementing-memorandum-provisions---iranian-foreign-ministry-1124338862.html",
-        "published": "2026-06-21T12:02:53Z",
-        "sentiment": "neutral"
+        "title": "Oil keeps flowing through Hormuz despite Iran saying it’s shut",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/3405aeacd41406e6",
+        "published": "2026-06-21T16:14:09Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Iran's Top Negotiator Warns Washington Against Threats",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260621-rferl02.htm",
-        "published": "2026-06-21T12:00:00Z",
+        "title": "Barclays Warns Hawkish Central Banks Could Challenge Equity Market Momentum",
+        "source": "Advfn.com",
+        "url": "https://investorshub.advfn.com/market-news/article/30831/barclays-warns-hawkish-central-banks-could-challenge-equity-market-momentum",
+        "published": "2026-06-21T15:35:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "US-Iran Talks to Focus on Implementing Memorandum Provisions - Iranian Foreign Ministry",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260621-sputnik04.htm",
-        "published": "2026-06-21T12:00:00Z",
-        "sentiment": "neutral"
+        "title": "Facts on the Ground in Hormuz – 85% Oilflow – Iran Tested on Backing Up Threats",
+        "source": "Next Big Future",
+        "url": "https://www.nextbigfuture.com/2026/06/facts-on-the-ground-in-hormuz-85-oilflow-iran-tested-on-backing-up-threats.html",
+        "published": "2026-06-21T15:31:08Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Iran keeps Strait of Hormuz closed until Lebanon ceasefire, oil waivers",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-keeps-strait-of-hormuz-closed-until-lebanon-ceasefire-oil-waivers/",
-        "published": "2026-06-21T11:27:32Z",
-        "sentiment": "neutral"
+        "title": "Oil keeps flowing through Hormuz despite Iran saying it’s shut",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/06/21/oil-flows-strait-of-hormuz-iran-shutdown-oman-us-military-route/",
+        "published": "2026-06-21T15:24:29Z",
+        "sentiment": "watch"
       },
       {
-        "title": "P-8A Poseidons complete deployment to Malaysia",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/australia/2026/australia-260621-audod01.htm",
-        "published": "2026-06-21T11:26:03Z",
+        "title": "Why Big Oil Is Backing Away From Renewables",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/rrapier/2026/06/21/why-big-oil-is-backing-away-from-renewables/",
+        "published": "2026-06-21T15:05:58Z",
         "sentiment": "watch"
       }
     ],
