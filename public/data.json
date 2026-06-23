@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-22T23:51:58.891Z",
+    "generated_at": "2026-06-23T04:12:10.936Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Keeps Flowing Through Hormuz Despite Iran Saying It’s Shut",
+        "title": "Iran shuts Strait of Hormuz again, sharply reducing shipping traffic",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-strait-hormuz-closure-shipping/",
+        "published": "2026-06-22T04:11:23Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Shipping Slows After Iran Says It Has Again Shut The Strait of Hormuz",
         "source": "gcaptain.com",
-        "url": "https://gcaptain.com/oil-keeps-flowing-through-hormuz-despite-iran-saying-its-shut/",
-        "published": "2026-06-21T23:21:55Z",
+        "url": "https://gcaptain.com/shipping-slows-after-iran-says-it-has-again-shut-the-strait-of-hormuz/",
+        "published": "2026-06-22T03:48:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "As Vance meets top Iranian officials in Switzerland, Trump threatens Tehran from afar",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/vance-meets-top-iranian-officials-switzerland-trump-threatens-134071079",
-        "published": "2026-06-21T21:33:41Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump threatens Iran with fresh strikes as Vance leads peace talks in Switzerland",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/trump-threatens-iran-with-fresh-strikes-as-vance-leads-peace-talks-in-switzerland",
-        "published": "2026-06-21T21:18:55Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S.-Iran talks just started and Trump is already threatening to attack, causing negotiations to pause",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/21/us-iran-trump-threat-attack-negotiations-pause-lebanon/",
-        "published": "2026-06-21T21:09:26Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "$20* | 5-Qt Mobil 1 Truck & SUV Full Synthetic Motor Oil (0W-20) at Amazon (1 replies)",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19654461-20-5-qt-mobil-1-truck-suv-full-synthetic-motor-oil-0w-20-at-amazon",
-        "published": "2026-06-21T20:48:37Z",
+        "title": "India bonds likely to start week on cautious note as US-Iran flip flop continues",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/india-bonds-likely-to-start-week-on-cautious-note-as-us-iran-flip-flop-continues/article71131645.ece",
+        "published": "2026-06-22T03:30:59Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Shipping data reveals see-saw situation in Strait of Hormuz",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/shipping-data-reveals-see-saw-situation-in-strait-of-hormuz/articleshow/131900306.cms",
+        "published": "2026-06-22T03:01:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "War Gaming The Price Of Oil",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/edhirs/2026/06/21/war-gaming-the-price-of-oil/",
+        "published": "2026-06-22T02:30:42Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
