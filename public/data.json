@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T18:55:58.927Z",
+    "generated_at": "2026-06-23T21:04:11.524Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Hormuz Traffic Slowly Picking Up as Oil and LNG Tankers Resume Transits",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/hormuz-traffic-slowly-picking-up-as-oil-and-lng-tankers-resume-transits/",
-        "published": "2026-06-22T18:25:02Z",
-        "sentiment": "neutral"
+        "title": "Inside the quiet insurance racket Iran is running in the Strait of Hormuz — and how it will devastate Western shipping",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/06/22/business/inside-the-quiet-insurance-racket-iran-is-running-in-the-strait-of-hormuz/",
+        "published": "2026-06-22T21:03:36Z",
+        "sentiment": "watch"
       },
       {
-        "title": "The Oil Crisis Is Far From Over",
+        "title": "2,500-Mile 2017 Moto Guzzi Griso 1200 8V SE",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/2017-moto-guzzi-griso-1200-8v-se/",
+        "published": "2026-06-22T21:00:08Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Hormuz Threat Oil Markets Are Ignoring",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/The-Oil-Crisis-Is-Far-From-Over.html",
-        "published": "2026-06-22T18:00:00Z",
+        "url": "https://oilprice.com/Energy/Oil-Prices/The-Hormuz-Threat-Oil-Markets-Are-Ignoring.html",
+        "published": "2026-06-22T21:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Will gas prices keep falling? Experts weigh in",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/gas-prices-falling-experts-weigh/story?id=134093047",
+        "published": "2026-06-22T20:25:42Z",
         "sentiment": "watch"
       },
       {
-        "title": "Strait of Hormuz Traffic Rebounds, but Full Shipping Recovery Could Take Months",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/strait-of-hormuz-traffic-rebounds-shipping-recovery-months-iran-war-1239022883/",
-        "published": "2026-06-22T17:53:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Rubio Dispatched To Middle East Amid Ongoing Iran Talks",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/06/22/marco-rubio-middle-east-iran-united-arab-emirates-kuwait-bahrain/",
-        "published": "2026-06-22T17:14:56Z",
+        "title": "Oil Drops as Iran Talks Advance",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_drops_as_iran_talks_advance-22-jun-2026-183968-article/",
+        "published": "2026-06-22T20:11:57Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Medium Earth Orbit (MEO) Remote Sensing, Imagery & Data Services to Nearly Triple in Size by 2032",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/06/22/3315534/28124/en/Medium-Earth-Orbit-MEO-Remote-Sensing-Imagery-Data-Services-to-Nearly-Triple-in-Size-by-2032.html",
-        "published": "2026-06-22T17:02:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
