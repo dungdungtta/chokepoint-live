@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T07:59:41.717Z",
+    "generated_at": "2026-06-23T11:26:12.923Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "US, Tehran agree on 60-day roadmap for final deal",
-        "source": "Peoplesreview.com.np",
-        "url": "https://peoplesreview.com.np/2026/06/22/us-tehran-agree-on-60-day-roadmap-for-final-deal/",
-        "published": "2026-06-22T07:45:00Z",
+        "title": "Iranian Crude Exports Surge Via Hormuz as Activity Picks Up",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/iranian-crude-exports-surge-via-hormuz-as-activity-picks-up/",
+        "published": "2026-06-22T11:06:44Z",
         "sentiment": "watch"
       },
       {
-        "title": "Qatar and Pakistan unveil 60-day roadmap for US-Iran deal after marathon Swiss talks",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/qatar-pakistan-us-iran-60-day-roadmap/",
-        "published": "2026-06-22T07:33:08Z",
+        "title": "UK Emissions Trading Scheme for maritime: how to comply",
+        "source": "Www.gov.uk",
+        "url": "https://www.gov.uk/guidance/uk-emissions-trading-scheme-for-maritime-how-to-comply",
+        "published": "2026-06-22T11:00:03Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Sensex today | Stock Market Highlights: Sensex rises 291 points, Nifty above 24,100; markets rebound on global cues",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-22nd-june-2026/article71129135.ece",
+        "published": "2026-06-22T10:56:47Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran War: Iran Snubs US, Walks Out of Direct Talks Due to Trump Threats; Israel Still Refusing to Exit Lebanon; Strait of Hormuz Transits Expected to Stay Low Due to Scrapping",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/06/iran-war-iran-snubs-us-walks-out-of-direct-talks-due-to-trump-threats-strait-of-hormuz-transits-expected-to-stay-low-due-to-scrapping.html",
+        "published": "2026-06-22T10:54:21Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "First round of US-Iran talks ends with encouraging progress, mediators say",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0q41v1lzo",
+        "published": "2026-06-22T10:46:45Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Iran and the Islamic “ecosystem\"",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/428998",
-        "published": "2026-06-22T07:29:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Caspian Sea has lost an area nearly the size of Sicily: human activities are a major reason why",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/the-caspian-sea-has-lost-an-area-nearly-the-size-of-sicily-human-activities-are-a-major-reason-why-285517",
-        "published": "2026-06-22T07:09:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Chinese EVs boom in developing markets, but charging networks lag",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/chinese-evs-boom-in-developing-markets-but-charging-networks-lag-223544",
-        "published": "2026-06-22T06:58:48Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Monday Miscellany, 6/22/23",
+        "source": "Patheos",
+        "url": "https://www.patheos.com/blogs/geneveith/2026/06/monday-miscellany-6-22-23/",
+        "published": "2026-06-22T10:00:53Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China's import of custard apples is sparking fears in Taiwan",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwy05neqy7wo",
+        "published": "2026-06-22T04:37:27Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan to stage five days of combat readiness drills",
         "source": "Japan Today",
@@ -75,20 +89,6 @@
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/defence/taiwan-to-stage-five-days-of-combat-readiness-drills/articleshow/131888285.cms",
         "published": "2026-06-21T08:54:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Links 6/20/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/06/links-6-20-2026.html",
-        "published": "2026-06-20T10:59:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "When the Davidson Window Meets the ‘Xi Window’",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/06/when-the-davidson-window-meets-the-xi-window/",
-        "published": "2026-06-19T13:33:00Z",
         "sentiment": "watch"
       }
     ],
