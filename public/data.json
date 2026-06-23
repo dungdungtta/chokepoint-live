@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T14:00:54.950Z",
+    "generated_at": "2026-06-23T16:43:45.643Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "When Will Gasoline Prices Return to Pre-War Levels?",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/When-Will-Gasoline-Prices-Return-to-Pre-War-Levels.html",
-        "published": "2026-06-22T14:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump and the Iran Deal – Another Programmed Deception",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/trump-iran-deal-programmed-deception/5930885",
-        "published": "2026-06-22T12:52:45Z",
+        "title": "Tanker Traffic Through Hormuz Picks Up After Slower Flows Due to Crossing Concerns",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/06/22/874830.htm",
+        "published": "2026-06-22T16:01:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "What the Iran War Taught the World About Food Security",
-        "source": "Project Syndicate",
-        "url": "https://www.project-syndicate.org/commentary/iran-war-exposed-global-agriculture-lack-of-resilience-by-maximo-torero-2026-06",
-        "published": "2026-06-22T12:47:41Z",
-        "sentiment": "danger"
+        "title": "US partially lifts Iran oil sanctions amid ‘encouraging’ talks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/22/us-partially-lifts-iran-oil-sanctions-amid-encouraging-talks",
+        "published": "2026-06-22T15:38:23Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Current price of oil as of June 22, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-06-22-2026/",
-        "published": "2026-06-22T12:47:18Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S.- Iran roadmap, Greenspan dies at 100, Starmer resigns and more in Morning Squawk",
+        "title": "How to pick up some quick income using an auto stock hitting its stride",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/22/5-things-to-know-before-the-stock-market-opens.html",
-        "published": "2026-06-22T12:42:01Z",
+        "url": "https://www.cnbc.com/2026/06/22/how-to-pick-up-some-quick-income-using-an-auto-stock-hitting-its-stride.html",
+        "published": "2026-06-22T15:23:08Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran asserts control over Strait of Hormuz, demands shipping compliance",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-asserts-control-over-strait-of-hormuz-demands-shipping-compliance/",
+        "published": "2026-06-22T15:14:47Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iranian Oil Is About to Flood the Market. Has the Fed’s Biggest Pressure Valve Been Released?",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/06/22/iranian-oil-is-about-to-flood-the-market-has-the-feds-biggest-pressure-valve-been-released/",
+        "published": "2026-06-22T15:03:57Z",
         "sentiment": "watch"
       }
     ],
