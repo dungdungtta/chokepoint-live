@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T22:39:14.050Z",
+    "generated_at": "2026-06-23T23:42:00.276Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "The US-Iran peace deal just wavered. Here is what this means for these ASX shares",
+        "source": "Motley Fool Australia",
+        "url": "https://www.fool.com.au/2026/06/23/the-us-iran-peace-deal-just-wavered-here-is-what-this-means-for-these-asx-shares/",
+        "published": "2026-06-22T23:23:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "CNBC's The China Connection newsletter: Tackling EV trucks after success with cars",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/22/cnbcs-the-china-connection-newsletter-tackling-the-ev-truck-market.html",
+        "published": "2026-06-22T23:00:01Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Half-Open, Half-Closed Strait of Hormuz Baffles Oil Markets",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Half-Open-Half-Closed-Strait-of-Hormuz-Baffles-Oil-Markets.html",
+        "published": "2026-06-22T23:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Strait of Hormuz: Mines and Dual Transit Regime Complicate Return to Normal",
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/strait-of-hormuz-mines-and-dual-transit-regime-complicate-return-to-normal/",
@@ -38,27 +59,6 @@
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/products/Bostitch/Bostitch-Pneumatic-Tacker-Brad-Nailer/500776.html",
         "published": "2026-06-22T21:46:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Original-Owner 2008 Ducati 1098 at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2008-ducati-1098-10/",
-        "published": "2026-06-22T21:20:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "When Will Gasoline Prices Return To Pre-War Levels?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/b40f9f8cc8dce7f3",
-        "published": "2026-06-22T21:07:07Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Inside the quiet insurance racket Iran is running in the Strait of Hormuz — and how it will devastate Western shipping",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/06/22/business/inside-the-quiet-insurance-racket-iran-is-running-in-the-strait-of-hormuz/",
-        "published": "2026-06-22T21:03:36Z",
         "sentiment": "watch"
       }
     ],
