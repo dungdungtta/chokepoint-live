@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T16:43:45.643Z",
+    "generated_at": "2026-06-23T18:55:58.927Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Tanker Traffic Through Hormuz Picks Up After Slower Flows Due to Crossing Concerns",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/06/22/874830.htm",
-        "published": "2026-06-22T16:01:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US partially lifts Iran oil sanctions amid ‘encouraging’ talks",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/22/us-partially-lifts-iran-oil-sanctions-amid-encouraging-talks",
-        "published": "2026-06-22T15:38:23Z",
+        "title": "Hormuz Traffic Slowly Picking Up as Oil and LNG Tankers Resume Transits",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/hormuz-traffic-slowly-picking-up-as-oil-and-lng-tankers-resume-transits/",
+        "published": "2026-06-22T18:25:02Z",
         "sentiment": "neutral"
       },
       {
-        "title": "How to pick up some quick income using an auto stock hitting its stride",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/22/how-to-pick-up-some-quick-income-using-an-auto-stock-hitting-its-stride.html",
-        "published": "2026-06-22T15:23:08Z",
+        "title": "The Oil Crisis Is Far From Over",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/The-Oil-Crisis-Is-Far-From-Over.html",
+        "published": "2026-06-22T18:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran asserts control over Strait of Hormuz, demands shipping compliance",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-asserts-control-over-strait-of-hormuz-demands-shipping-compliance/",
-        "published": "2026-06-22T15:14:47Z",
+        "title": "Strait of Hormuz Traffic Rebounds, but Full Shipping Recovery Could Take Months",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/strait-of-hormuz-traffic-rebounds-shipping-recovery-months-iran-war-1239022883/",
+        "published": "2026-06-22T17:53:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iranian Oil Is About to Flood the Market. Has the Fed’s Biggest Pressure Valve Been Released?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/06/22/iranian-oil-is-about-to-flood-the-market-has-the-feds-biggest-pressure-valve-been-released/",
-        "published": "2026-06-22T15:03:57Z",
+        "title": "Rubio Dispatched To Middle East Amid Ongoing Iran Talks",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/06/22/marco-rubio-middle-east-iran-united-arab-emirates-kuwait-bahrain/",
+        "published": "2026-06-22T17:14:56Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Medium Earth Orbit (MEO) Remote Sensing, Imagery & Data Services to Nearly Triple in Size by 2032",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/06/22/3315534/28124/en/Medium-Earth-Orbit-MEO-Remote-Sensing-Imagery-Data-Services-to-Nearly-Triple-in-Size-by-2032.html",
+        "published": "2026-06-22T17:02:00Z",
         "sentiment": "watch"
       }
     ],
