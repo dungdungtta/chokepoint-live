@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T23:42:00.276Z",
+    "generated_at": "2026-06-24T01:46:59.309Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil gains after selloff, awaits progress on Strait of Hormuz flows",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-gains-after-selloff-awaits-progress-on-strait-of-hormuz-flows/articleshow/131922600.cms",
+        "published": "2026-06-23T00:39:41Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil gains after selloff, awaits progress on Strait of Hormuz flows",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-gains-after-selloff-awaits-progress-strait-hormuz-flows-6202266",
+        "published": "2026-06-23T00:35:27Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil inches down as investors focus on Hormuz flows after peace talks",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-inches-down-investors-focus-hormuz-flows-after-peace-talks-6202266",
+        "published": "2026-06-23T00:35:00Z",
+        "sentiment": "neutral"
+      },
+      {
         "title": "The US-Iran peace deal just wavered. Here is what this means for these ASX shares",
         "source": "Motley Fool Australia",
         "url": "https://www.fool.com.au/2026/06/23/the-us-iran-peace-deal-just-wavered-here-is-what-this-means-for-these-asx-shares/",
         "published": "2026-06-22T23:23:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "CNBC's The China Connection newsletter: Tackling EV trucks after success with cars",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/22/cnbcs-the-china-connection-newsletter-tackling-the-ev-truck-market.html",
-        "published": "2026-06-22T23:00:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Half-Open, Half-Closed Strait of Hormuz Baffles Oil Markets",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Half-Open-Half-Closed-Strait-of-Hormuz-Baffles-Oil-Markets.html",
-        "published": "2026-06-22T23:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Strait of Hormuz: Mines and Dual Transit Regime Complicate Return to Normal",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/strait-of-hormuz-mines-and-dual-transit-regime-complicate-return-to-normal/",
-        "published": "2026-06-22T22:13:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Bostitch Pneumatic Tacker / Brad Nailer for $46 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/products/Bostitch/Bostitch-Pneumatic-Tacker-Brad-Nailer/500776.html",
-        "published": "2026-06-22T21:46:05Z",
         "sentiment": "watch"
       }
     ],
