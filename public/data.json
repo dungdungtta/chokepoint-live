@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-24T09:52:49.326Z",
+    "generated_at": "2026-06-24T12:23:33.375Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,21 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Hydrogen Generation Market Expected to Reach US$ 427.07 Billion at 8.27% CAGR by 2034, │ The Insight Partners",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/06/23/3315777/0/en/Hydrogen-Generation-Market-Expected-to-Reach-US-427-07-Billion-at-8-27-CAGR-by-2034-The-Insight-Partners.html",
-        "published": "2026-06-23T09:34:00Z",
+        "title": "Climate crisis: UN chief lays out solutions blueprint for clean energy transition",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260623-unnews05.htm",
+        "published": "2026-06-23T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "The 45 exact Prime Day beauty deals I’m stocking up on, starting at $10",
-        "source": "New York Post",
-        "url": "https://nypost.com/shopping/best-amazon-prime-day-beauty-deals-2026/",
-        "published": "2026-06-23T08:30:00Z",
+        "title": "Rubio Kicks Off Gulf Tour In Abu Dhabi To Shore Up Alliances",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260623-rferl02.htm",
+        "published": "2026-06-23T12:00:00Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Climate crisis: UN chief lays out solutions blueprint for clean energy transition",
+        "source": "UN News",
+        "url": "https://news.un.org/en/story/2026/06/1167785",
+        "published": "2026-06-23T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "11 Turkish-owned vessels exit Gulf via Hormuz",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/11-turkish-owned-vessels-exit-gulf-via-hormuz-223610",
+        "published": "2026-06-23T11:35:34Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Live updates: Strait of Hormuz traffic steadily increasing but well below pre-war levels - CNN",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184052486",
+        "published": "2026-06-23T11:33:03Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Returning to 'one China' status quo key to restarting talks: KMT head",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260623-cna01.htm",
+        "published": "2026-06-23T12:00:00Z",
+        "sentiment": "neutral"
+      },
       {
         "title": "Monday Miscellany, 6/22/23",
         "source": "Patheos",
@@ -61,13 +89,6 @@
         "source": "Japan Today",
         "url": "https://japantoday.com/category/world/taiwan-to-stage-five-days-of-combat-readiness-drills2",
         "published": "2026-06-21T21:19:28Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan to stage five days of combat readiness drills",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/taiwan-to-stage-five-days-of-combat-readiness-drills/articleshow/131888285.cms",
-        "published": "2026-06-21T08:54:20Z",
         "sentiment": "watch"
       }
     ],
