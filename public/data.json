@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-24T19:14:31.499Z",
+    "generated_at": "2026-06-24T21:00:28.498Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Paul Krugman says Trump's hope for economic relief from the Iran war faces 3 major pain points",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/paul-krugman-trump-iran-peace-deal-economy-gas-prices-inflation-2026-6#article",
-        "published": "2026-06-23T18:52:23Z",
+        "title": "US Crude Oil Inventories Continue To Falter, SPR Struggling To Pick Up the Slack",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Continue-To-Falter-SPR-Struggling-To-Pick-Up-the-Slack.html",
+        "published": "2026-06-23T20:51:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Anthropic Co-Founder: 'The Most Powerful Technology Ever Built'",
+        "source": "Reason",
+        "url": "https://reason.com/podcast/2026/06/24/anthropic-co-founder-the-most-powerful-technology-ever-built/",
+        "published": "2026-06-23T20:50:35Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o",
+        "published": "2026-06-23T20:45:32Z",
         "sentiment": "danger"
       },
       {
-        "title": "5-Qt Mobil 1 Truck & SUV Advanced Full Synthetic Motor Oil (0W-20) $20",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19668558-5-qt-mobil-1-truck-suv-advanced-full-synthetic-motor-oil-0w-20-20",
-        "published": "2026-06-23T18:51:14Z",
+        "title": "Rubico Inc. Announces Reverse Stock Split",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/06/23/3316449/0/en/Rubico-Inc-Announces-Reverse-Stock-Split.html",
+        "published": "2026-06-23T20:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Compostable 9\" Paper Plates 125-Pack for $14.90 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Compostable-9-Paper-Plates-125-Pack-for-14-90-free-shipping-w-Prime/21851417.html",
-        "published": "2026-06-23T18:45:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Compostable 9\" Paper Plates 125-Pack for $14.90 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Compostable-9-Paper-Plates-125-Pack-for-14-90-free-shipping-w-Prime/21851417.html",
-        "published": "2026-06-23T18:45:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Tanker Owners Are Having the Best Week of the Hormuz Crisis",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Owners-Are-Having-the-Best-Week-of-the-Hormuz-Crisis.html",
-        "published": "2026-06-23T18:30:00Z",
+        "title": "Ship Trackers See More Vessels Passing Through Strait of Hormuz",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/06/23/ship-trackers-see-more-vessels-passing-through-strait-hormuz/",
+        "published": "2026-06-23T19:45:42Z",
         "sentiment": "watch"
       }
     ],
