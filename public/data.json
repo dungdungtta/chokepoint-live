@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-06-24T17:28:11.733Z",
+    "generated_at": "2026-06-24T19:14:31.499Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 84.36,
-      "change_pct": -4.8,
-      "date": "2026-06-15",
+      "price": 76.49,
+      "change_pct": -4.9,
+      "date": "2026-06-22",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "US, Iran give conflicting claims over Hormuz fees",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/us-iran-give-conflicting-claims-over-hormuz-fees/live-77666574",
-        "published": "2026-06-23T17:22:00Z",
-        "sentiment": "watch"
+        "title": "Paul Krugman says Trump's hope for economic relief from the Iran war faces 3 major pain points",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/paul-krugman-trump-iran-peace-deal-economy-gas-prices-inflation-2026-6#article",
+        "published": "2026-06-23T18:52:23Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Prime Members: EGO Power+ 21\" 56V Self-Propelled Lawn Mower w/ 2x 4Ah Batteries $400 + Free S&H",
+        "title": "5-Qt Mobil 1 Truck & SUV Advanced Full Synthetic Motor Oil (0W-20) $20",
         "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19663596-prime-members-ego-power-21-56v-self-propelled-lawn-mower-w-2x-4ah-batteries-400-free-s-h",
-        "published": "2026-06-23T17:20:08Z",
+        "url": "https://slickdeals.net/f/19668558-5-qt-mobil-1-truck-suv-advanced-full-synthetic-motor-oil-0w-20-20",
+        "published": "2026-06-23T18:51:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "Youth to the People Superfood Facial Cleanser for $27 w/ Prime + free shipping w/ Prime",
+        "title": "Compostable 9\" Paper Plates 125-Pack for $14.90 + free shipping w/ Prime",
         "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Youth-to-the-People-Superfood-Facial-Cleanser-for-27-w-Prime-free-shipping-w-Prime/21851351.html",
-        "published": "2026-06-23T17:11:31Z",
+        "url": "https://www.dealnews.com/Compostable-9-Paper-Plates-125-Pack-for-14-90-free-shipping-w-Prime/21851417.html",
+        "published": "2026-06-23T18:45:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "China emerges as key buyer of Iranian oil after US sanctions waiver",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/china-iranian-oil-us-sanctions-waiver/",
-        "published": "2026-06-23T16:57:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "RéVive Anti Aging Face Oil 30mL for $191.60 + free shipping",
+        "title": "Compostable 9\" Paper Plates 125-Pack for $14.90 + free shipping w/ Prime",
         "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/R-Vive-Anti-Aging-Face-Oil-30-m-L-for-191-60-free-shipping/21851340.html",
-        "published": "2026-06-23T16:54:43Z",
+        "url": "https://www.dealnews.com/Compostable-9-Paper-Plates-125-Pack-for-14-90-free-shipping-w-Prime/21851417.html",
+        "published": "2026-06-23T18:45:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Tanker Owners Are Having the Best Week of the Hormuz Crisis",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Owners-Are-Having-the-Best-Week-of-the-Hormuz-Crisis.html",
+        "published": "2026-06-23T18:30:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China’s Fujian aircraft carrier transits Taiwan Strait as Taiwan runs war drills",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/fujian-carrier-taiwan-strait-transit-2026/",
+        "published": "2026-06-23T17:44:53Z",
+        "sentiment": "danger"
+      },
       {
         "title": "China’s Fujian aircraft carrier sails through Taiwan strait, Taipei reports",
         "source": "Crypto Briefing",
@@ -83,13 +90,6 @@
         "url": "https://theweek.com/defence/how-the-us-military-footprint-in-australia-is-growing",
         "published": "2026-06-23T13:55:42Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Returning to 'one China' status quo key to restarting talks: KMT head",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260623-cna01.htm",
-        "published": "2026-06-23T12:00:00Z",
-        "sentiment": "neutral"
       }
     ],
     "malacca": [
