@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-24T01:46:59.309Z",
+    "generated_at": "2026-06-24T06:13:39.191Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil gains after selloff, awaits progress on Strait of Hormuz flows",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-gains-after-selloff-awaits-progress-on-strait-of-hormuz-flows/articleshow/131922600.cms",
-        "published": "2026-06-23T00:39:41Z",
-        "sentiment": "watch"
+        "title": "Iran says Strait of Hormuz ‘will never return to pre-war conditions’ despite US sanctions relief",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/06/23/iran-says-strait-of-hormuz-will-never-return-to-pre-war-conditions-despite-us-sanctions-relief/",
+        "published": "2026-06-23T06:08:03Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Oil gains after selloff, awaits progress on Strait of Hormuz flows",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-gains-after-selloff-awaits-progress-strait-hormuz-flows-6202266",
-        "published": "2026-06-23T00:35:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil inches down as investors focus on Hormuz flows after peace talks",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-inches-down-investors-focus-hormuz-flows-after-peace-talks-6202266",
-        "published": "2026-06-23T00:35:00Z",
+        "title": "Iran says they will administer Strait of Hormuz as peace talks in Switzerland conclude",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/iran-strait-of-hormuz-peace-talks-7079041-Jun2026/",
+        "published": "2026-06-23T05:55:29Z",
         "sentiment": "neutral"
       },
       {
-        "title": "The US-Iran peace deal just wavered. Here is what this means for these ASX shares",
-        "source": "Motley Fool Australia",
-        "url": "https://www.fool.com.au/2026/06/23/the-us-iran-peace-deal-just-wavered-here-is-what-this-means-for-these-asx-shares/",
-        "published": "2026-06-22T23:23:29Z",
+        "title": "The Strait of Hormuz's future is unsettled even as more ships venture through",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/the-strait-of-hormuzs-future-is-unsettled-even-as-more-ships-venture-through/articleshow/131926865.cms",
+        "published": "2026-06-23T05:55:24Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil may stay above pre-conflict levels; OMCs and gas stocks could see further upside: Probal Sen",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/oil-may-stay-above-pre-conflict-levels-omcs-and-gas-stocks-could-see-further-upside-probal-sen/articleshow/131926363.cms",
+        "published": "2026-06-23T05:23:54Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US temporarily suspends Iran oil sanctions as nuclear inspectors return",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/us-temporarily-suspends-iran-oil-sanctions-as-nuclear-inspectors-return-223584",
+        "published": "2026-06-23T05:03:51Z",
         "sentiment": "watch"
       }
     ],
