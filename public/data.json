@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-24T21:00:28.498Z",
+    "generated_at": "2026-06-24T22:40:46.979Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US Crude Oil Inventories Continue To Falter, SPR Struggling To Pick Up the Slack",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Continue-To-Falter-SPR-Struggling-To-Pick-Up-the-Slack.html",
-        "published": "2026-06-23T20:51:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Anthropic Co-Founder: 'The Most Powerful Technology Ever Built'",
-        "source": "Reason",
-        "url": "https://reason.com/podcast/2026/06/24/anthropic-co-founder-the-most-powerful-technology-ever-built/",
-        "published": "2026-06-23T20:50:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o",
-        "published": "2026-06-23T20:45:32Z",
+        "title": "UAE oil exports rebound to 85% of pre-war levels, IEA reports",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/uae-oil-exports-rebound-iea/",
+        "published": "2026-06-23T22:39:37Z",
         "sentiment": "danger"
       },
       {
-        "title": "Rubico Inc. Announces Reverse Stock Split",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/06/23/3316449/0/en/Rubico-Inc-Announces-Reverse-Stock-Split.html",
-        "published": "2026-06-23T20:30:00Z",
+        "title": "Allianz SE warns insurance industry faces major claims from Iran war as shipping premiums spike over 1,000%",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/allianz-insurance-claims-iran-war-shipping/",
+        "published": "2026-06-23T22:26:20Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump touts U.S. economy and oil prices in a midterm pitch in Pennsylvania",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/donald-trump/trump-touts-us-economy-oil-prices-midterm-pitch-pennsylvania-rcna351414",
+        "published": "2026-06-23T22:13:15Z",
         "sentiment": "watch"
       },
       {
-        "title": "Ship Trackers See More Vessels Passing Through Strait of Hormuz",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/06/23/ship-trackers-see-more-vessels-passing-through-strait-hormuz/",
-        "published": "2026-06-23T19:45:42Z",
+        "title": "Geopolitical Instability Remains Shipping’s Top Concern for Fourth Straight Year",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/geopolitical-instability-remains-shippings-top-concern-for-fourth-straight-year/",
+        "published": "2026-06-23T21:41:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "1986 Suzuki GSX-R750 Limited Edition",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1986-suzuki-gsx-r750-5/",
+        "published": "2026-06-23T21:35:11Z",
         "sentiment": "watch"
       }
     ],
