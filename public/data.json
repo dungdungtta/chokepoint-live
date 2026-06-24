@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-24T15:19:27.685Z",
+    "generated_at": "2026-06-24T17:28:11.733Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "11 India-bound ships carrying oil, fertilisers transited Hormuz since June 17: MEA",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/11-india-bound-ships-carrying-oil-fertilisers-transited-hormuz-since-june-17-mea/article71138347.ece",
-        "published": "2026-06-23T15:02:48Z",
+        "title": "US, Iran give conflicting claims over Hormuz fees",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/us-iran-give-conflicting-claims-over-hormuz-fees/live-77666574",
+        "published": "2026-06-23T17:22:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "$20* | 5-Qt Mobil 1 Truck & SUV Full Synthetic Motor Oil (0W-20) at Amazon",
+        "title": "Prime Members: EGO Power+ 21\" 56V Self-Propelled Lawn Mower w/ 2x 4Ah Batteries $400 + Free S&H",
         "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19668558-20-5-qt-mobil-1-truck-suv-full-synthetic-motor-oil-0w-20-at-amazon",
-        "published": "2026-06-23T15:01:49Z",
+        "url": "https://slickdeals.net/f/19663596-prime-members-ego-power-21-56v-self-propelled-lawn-mower-w-2x-4ah-batteries-400-free-s-h",
+        "published": "2026-06-23T17:20:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "Who Will Govern Hormuz? Iran and Oman Begin Talks on Future Navigation and Maritime Services",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/who-will-govern-hormuz-iran-and-oman-begin-talks-on-future-navigation-and-maritime-services/",
-        "published": "2026-06-23T15:00:59Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Hormuz shipping activity shows signs of recovery; Indian refiners shine amid disruption: S&P Global",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/hormuz-shipping-activity-shows-signs-of-recovery-indian-refiners-shine-amid-disruption-sp-global/articleshow/131941494.cms",
-        "published": "2026-06-23T14:54:01Z",
+        "title": "Youth to the People Superfood Facial Cleanser for $27 w/ Prime + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Youth-to-the-People-Superfood-Facial-Cleanser-for-27-w-Prime-free-shipping-w-Prime/21851351.html",
+        "published": "2026-06-23T17:11:31Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Strait of Hormuz is ‘open’ — but it’s mined, half-empty, and subject to tolls both sides say they might charge",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/23/strait-hormuz-tolls-iran-us-shipping-mines-ceasefire/",
-        "published": "2026-06-23T14:49:11Z",
+        "title": "China emerges as key buyer of Iranian oil after US sanctions waiver",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/china-iranian-oil-us-sanctions-waiver/",
+        "published": "2026-06-23T16:57:54Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "RéVive Anti Aging Face Oil 30mL for $191.60 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/R-Vive-Anti-Aging-Face-Oil-30-m-L-for-191-60-free-shipping/21851340.html",
+        "published": "2026-06-23T16:54:43Z",
         "sentiment": "watch"
       }
     ],
