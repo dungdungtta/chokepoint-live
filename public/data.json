@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T08:00:19.367Z",
+    "generated_at": "2026-06-25T11:08:55.429Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump threatened new tolls in the Strait of Hormuz. What if other countries follow suit?",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/trump-iran-strait-of-hormuz-tolls-9.7246282",
-        "published": "2026-06-24T08:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Marco Rubio embarks on Gulf tour to promote Trump’s $300B Iran deal as crypto markets rally",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/rubio-gulf-tour-iran-deal-crypto-rally/",
-        "published": "2026-06-24T07:45:45Z",
+        "title": "Links 6/24/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/06/links-6-24-2026.html",
+        "published": "2026-06-24T10:55:07Z",
         "sentiment": "watch"
       },
       {
-        "title": "Pentagon estimates Iran war costs at $29B, but true price tag may hit $200B",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/pentagon-iran-war-costs-200-billion/",
-        "published": "2026-06-24T07:22:58Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "WINS Acquires Control of 5 Newbuilt DP Crew Transfer Vessels Through Acquisition of Controlling Stake in Fast Offshore Supply Pte Ltd",
-        "source": "Antaranews.com",
-        "url": "https://en.antaranews.com/news/420232/wins-acquires-control-of-5-newbuilt-dp-crew-transfer-vessels-through-acquisition-of-controlling-stake-in-fast-offshore-supply-pte-ltd",
-        "published": "2026-06-24T07:20:44Z",
+        "title": "JONES ACT: The sacred cow of us shipping entangled in operation epic fury",
+        "source": "Naftemporiki.gr",
+        "url": "https://www.naftemporiki.gr/english/2128570/jones-act-the-sacred-cow-of-us-shipping-entangled-in-operation-epic-fury/",
+        "published": "2026-06-24T10:54:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Pentagon said Iran War costs $29 billion, but the real cost is closer to $200 billion—and counting",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/economy/articles/pentagon-said-iran-war-costs-070000270.html",
-        "published": "2026-06-24T07:00:00Z",
+        "title": "Trump Threatens Price Gouging Probe Against Oil Companies As Gas Prices Remain Above $3.90",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/06/24/trump-threatens-price-gouging-probe-against-oil-companies-as-gas-prices-remain-above-390/",
+        "published": "2026-06-24T10:31:41Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Norway Well Workers Continue Strike as Standoff Escalates",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/norway_well_workers_continue_strike_as_standoff_escalates-24-jun-2026-183979-article/",
+        "published": "2026-06-24T10:24:01Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Transcript: Trump Seethes at Media over Iran as Fox Drops Brutal Poll",
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/article/212254/transcript-trump-seethes-media-iran-fox-drops-brutal-poll",
+        "published": "2026-06-24T09:59:59Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump threatened new tolls in the Strait of Hormuz. What if other countries follow suit?",
         "source": "CBC News",
@@ -90,13 +90,6 @@
         "url": "https://cryptobriefing.com/fujian-carrier-taiwan-strait-transit-2026/",
         "published": "2026-06-23T17:44:53Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "China’s Fujian aircraft carrier sails through Taiwan strait, Taipei reports",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/china-fujian-aircraft-carrier-taiwan-strait/",
-        "published": "2026-06-23T15:14:42Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
