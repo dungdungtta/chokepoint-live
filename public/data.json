@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T04:15:26.352Z",
+    "generated_at": "2026-06-25T08:00:19.367Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Post Wanted picks: Here’s what the team is adding to our Prime Day carts",
-        "source": "New York Post",
-        "url": "https://nypost.com/shopping/amazon-prime-day-deals-editors-picks-2026/",
-        "published": "2026-06-24T04:11:53Z",
+        "title": "Trump threatened new tolls in the Strait of Hormuz. What if other countries follow suit?",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/trump-iran-strait-of-hormuz-tolls-9.7246282",
+        "published": "2026-06-24T08:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Marco Rubio embarks on Gulf tour to promote Trump’s $300B Iran deal as crypto markets rally",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/rubio-gulf-tour-iran-deal-crypto-rally/",
+        "published": "2026-06-24T07:45:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "Hestia Blinds No Drill Waterproof Blackout Roller Shades : 40% off + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Hestia-Blinds-No-Drill-Waterproof-Blackout-Roller-Shades-40-off-free-shipping/21842219.html",
-        "published": "2026-06-24T04:01:00Z",
+        "title": "Pentagon estimates Iran war costs at $29B, but true price tag may hit $200B",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/pentagon-iran-war-costs-200-billion/",
+        "published": "2026-06-24T07:22:58Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "WINS Acquires Control of 5 Newbuilt DP Crew Transfer Vessels Through Acquisition of Controlling Stake in Fast Offshore Supply Pte Ltd",
+        "source": "Antaranews.com",
+        "url": "https://en.antaranews.com/news/420232/wins-acquires-control-of-5-newbuilt-dp-crew-transfer-vessels-through-acquisition-of-controlling-stake-in-fast-offshore-supply-pte-ltd",
+        "published": "2026-06-24T07:20:44Z",
         "sentiment": "watch"
       },
       {
-        "title": "Lazarus Naturals First Day of Summer Sale: 25% off sitewide + free shipping w/ $50",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Lazarus-Naturals-First-Day-of-Summer-Sale-25-off-sitewide-free-shipping-w-50/21842215.html",
-        "published": "2026-06-24T04:01:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Prime Members: 1.75-L Chosen Foods 100% Pure Avocado Oil $18.95 w/ S&S + Free S&H",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19671735-prime-59-17-ounce-chosen-foods-100-pure-avocado-oil-18-93-w-s-s-free-shipping",
-        "published": "2026-06-24T03:58:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "UAE oil exports rebound to 85% of pre-war levels as Gulf supply routes adapt: IEA",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/uae-oil-exports-rebound-to-85-of-pre-war-levels-as-gulf-supply-routes-adapt-iea/articleshow/131953081.cms",
-        "published": "2026-06-24T02:37:09Z",
+        "title": "The Pentagon said Iran War costs $29 billion, but the real cost is closer to $200 billion—and counting",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/economy/articles/pentagon-said-iran-war-costs-070000270.html",
+        "published": "2026-06-24T07:00:00Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump threatened new tolls in the Strait of Hormuz. What if other countries follow suit?",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/trump-iran-strait-of-hormuz-tolls-9.7246282",
+        "published": "2026-06-24T08:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Taiwan says warning time for any China attack is shortening",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/taiwan-says-warning-time-for-any-china-attack-is-shortening/articleshow/131955737.cms",
+        "published": "2026-06-24T05:34:17Z",
+        "sentiment": "danger"
+      },
       {
         "title": "The war we must fight to win",
         "source": "Vanguard",
@@ -82,13 +96,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/china-fujian-aircraft-carrier-taiwan-strait/",
         "published": "2026-06-23T15:14:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China’s newest aircraft carrier sails through the Taiwan Strait",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/chinas-newest-aircraft-carrier-sails-taiwan-strait-134133986",
-        "published": "2026-06-23T15:02:36Z",
         "sentiment": "watch"
       }
     ],
