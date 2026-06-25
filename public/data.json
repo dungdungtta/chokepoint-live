@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-24T23:51:31.421Z",
+    "generated_at": "2026-06-25T04:15:26.352Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump claims peace agreement with Iran ends Strait of Hormuz conflict",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-peace-deal-strait-hormuz/",
-        "published": "2026-06-23T23:45:49Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Crude falls after 19m barrels cross Hormuz Strait",
-        "source": "The Punch",
-        "url": "https://punchng.com/crude-falls-after-19m-barrels-cross-hormuz-strait/",
-        "published": "2026-06-23T23:38:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Post Wanted and PerfumeTok agree this viral brand is worth the splurge and it’s 20% off on Prime Day",
+        "title": "Post Wanted picks: Here’s what the team is adding to our Prime Day carts",
         "source": "New York Post",
-        "url": "https://nypost.com/2026/06/23/shopping/shop-phlurs-prime-day-deal-for-20-off-bestsellers-including-missing-person/",
-        "published": "2026-06-23T23:25:32Z",
+        "url": "https://nypost.com/shopping/amazon-prime-day-deals-editors-picks-2026/",
+        "published": "2026-06-24T04:11:53Z",
         "sentiment": "watch"
       },
       {
-        "title": "Mainstays Citronella Mosquito Repellent Coil 10-Pack for $2 + free shipping w/ $35",
+        "title": "Hestia Blinds No Drill Waterproof Blackout Roller Shades : 40% off + free shipping",
         "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Mainstays-Citronella-Mosquito-Repellent-Coil-10-Pack-for-2-free-shipping-w-35/21851526.html",
-        "published": "2026-06-23T22:43:20Z",
+        "url": "https://www.dealnews.com/Hestia-Blinds-No-Drill-Waterproof-Blackout-Roller-Shades-40-off-free-shipping/21842219.html",
+        "published": "2026-06-24T04:01:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "UAE oil exports rebound to 85% of pre-war levels, IEA reports",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/uae-oil-exports-rebound-iea/",
-        "published": "2026-06-23T22:39:37Z",
+        "title": "Lazarus Naturals First Day of Summer Sale: 25% off sitewide + free shipping w/ $50",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Lazarus-Naturals-First-Day-of-Summer-Sale-25-off-sitewide-free-shipping-w-50/21842215.html",
+        "published": "2026-06-24T04:01:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Prime Members: 1.75-L Chosen Foods 100% Pure Avocado Oil $18.95 w/ S&S + Free S&H",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19671735-prime-59-17-ounce-chosen-foods-100-pure-avocado-oil-18-93-w-s-s-free-shipping",
+        "published": "2026-06-24T03:58:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "UAE oil exports rebound to 85% of pre-war levels as Gulf supply routes adapt: IEA",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/uae-oil-exports-rebound-to-85-of-pre-war-levels-as-gulf-supply-routes-adapt-iea/articleshow/131953081.cms",
+        "published": "2026-06-24T02:37:09Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "The war we must fight to win",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/06/the-war-we-must-fight-to-win/",
+        "published": "2026-06-24T00:27:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "China’s Fujian aircraft carrier transits Taiwan Strait as Taiwan runs war drills",
         "source": "Crypto Briefing",
@@ -82,13 +89,6 @@
         "source": "Abcnews.com",
         "url": "https://abcnews.com/International/wireStory/chinas-newest-aircraft-carrier-sails-taiwan-strait-134133986",
         "published": "2026-06-23T15:02:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How the US military footprint in Australia is growing",
-        "source": "The Week Magazine",
-        "url": "https://theweek.com/defence/how-the-us-military-footprint-in-australia-is-growing",
-        "published": "2026-06-23T13:55:42Z",
         "sentiment": "watch"
       }
     ],
