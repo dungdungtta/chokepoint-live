@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T20:33:25.059Z",
+    "generated_at": "2026-06-25T22:11:08.452Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Rubio Announces New Iran Technical Talks, Reassures Gulf Allies On Security",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/ubio-gulf-allies-iran-talks-switzerland/33788076.html",
-        "published": "2026-06-24T20:14:00Z",
-        "sentiment": "neutral"
+        "title": "Iran and Oman Agree to Form ‘Strait of Hormuz Committee’",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/06/24/iran-oman-agree-form-strait-hormuz-committee/",
+        "published": "2026-06-24T21:40:06Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Brent Enters Contango for First Time Since Iran War Began as Gulf Supply Surges",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/brent-enters-contango-for-first-time-since-iran-war-began-as-gulf-supply-surges/",
-        "published": "2026-06-24T19:14:28Z",
-        "sentiment": "danger"
+        "title": "Rubio defends Iran deal on Gulf tour; Israel insists on troops in southern Lebanon",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/rubio-defends-iran-deal-on-gulf-tour-israel-insists-on-troops-in-southern-lebanon",
+        "published": "2026-06-24T21:38:39Z",
+        "sentiment": "watch"
       },
       {
-        "title": "China urges swift reopening of Strait of Hormuz as Iran reportedly accepted Bitcoin for transit fees",
+        "title": "Is AI Really Taking All the Jobs? Anthropic Co-Founder Reveals the Data.",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4385283/posts",
+        "published": "2026-06-24T21:14:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump calls any fee on Strait of Hormuz unacceptable, complicating Iran’s crypto toll plans",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/china-strait-hormuz-bitcoin-transit-fees/",
-        "published": "2026-06-24T18:54:23Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Less Than One In Four Americans Think Iran War Was Worth It, Poll Finds",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/trump-iran-war-popularity-poll-bad_n_6a3c22dce4b0488a51b3509a",
-        "published": "2026-06-24T18:51:22Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump says Iran assures US no tolls sought at Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-strait-hormuz-no-tolls/",
-        "published": "2026-06-24T18:47:59Z",
+        "url": "https://cryptobriefing.com/trump-hormuz-fee-iran-crypto-tolls/",
+        "published": "2026-06-24T20:54:04Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Can Rutte Sweet-Talk Trump Enough to Soothe NATO Tensions?",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/06/24/rutte-nato-trump-whisperer-iran-war-europe-us-military/",
+        "published": "2026-06-24T21:13:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US, UK, France, Germany raise alarm about Chinese patrols off eastern Taiwan - Reuters",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184071000",
+        "published": "2026-06-24T20:53:36Z",
+        "sentiment": "watch"
+      },
       {
         "title": "UK, Germany and France express concern over Chinese actions east of Taiwan - AP News",
         "source": "Slashdot.org",
@@ -82,20 +89,6 @@
         "source": "Fortune",
         "url": "https://fortune.com/2026/06/24/ray-dalio-china-tribute-system-america-empire/",
         "published": "2026-06-24T13:13:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "UK, Germany and France express concern over Chinese actions east of Taiwan",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/uk-germany-france-express-concern-chinese-actions-east-134164362",
-        "published": "2026-06-24T12:45:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump's Iran 'Deal'",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4385214/posts",
-        "published": "2026-06-24T12:39:37Z",
         "sentiment": "watch"
       }
     ],
