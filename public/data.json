@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T16:05:20.658Z",
+    "generated_at": "2026-06-25T18:27:02.551Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Why the Iran Deal Might Endure",
+        "title": "Treasury Chief Bessent Defends Trump’s Iran Deal",
         "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/06/24/ali-vaez-iran-deal-united-states-memorandum-understanding-hezbollah-lebanon-ali-vaez-oil-sanctions/",
-        "published": "2026-06-24T15:47:55Z",
+        "url": "http://foreignpolicy.com/2026/06/24/treasury-secretary-bessent-defends-trump-iran-deal-sanctions-relief/",
+        "published": "2026-06-24T18:24:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "RéVive Anti-Aging Face Oil 30ml for $192 + free shipping",
+        "title": "Wonderskin Lip Oil Rehab Serum Tinted Lip Oil for $14 w/ Prime + free shipping w/ Prime",
         "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/R-Vive-Anti-Aging-Face-Oil-30-ml-for-192-free-shipping/21851971.html",
-        "published": "2026-06-24T15:44:13Z",
+        "url": "https://www.dealnews.com/Wonderskin-Lip-Oil-Rehab-Serum-Tinted-Lip-Oil-for-14-w-Prime-free-shipping-w-Prime/21852043.html",
+        "published": "2026-06-24T18:19:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "RéVive 10g Intensité Volumizing Lip Balm for $60 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/R-Vive-10-g-Intensit-Volumizing-Lip-Balm-for-60-free-shipping/21851964.html",
-        "published": "2026-06-24T15:36:22Z",
+        "title": "Days after life-saving bypass surgery; 64-year-old developed a rare and unexpected condition",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/health/days-after-life-saving-bypass-surgery-64-year-old-developed-a-rare-and-unexpected-condition/articleshow/131974884.cms",
+        "published": "2026-06-24T18:17:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "G-Secs rally on RBI Guv’s ‘it is premature to talk about a rate hike’ comments; Brent crude oil price fall also lends support",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/money-and-banking/g-secs-rally-on-rbi-guvs-it-is-premature-to-talk-about-a-rate-hike-comments-brent-crude-oil-price-fall-also-lends-support/article71142329.ece",
-        "published": "2026-06-24T15:23:21Z",
-        "sentiment": "watch"
+        "title": "Brent crude falls below $75 for first time since US-Israeli strikes on Iran began",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/brent-crude-falls-below-75-crypto-implications/",
+        "published": "2026-06-24T18:06:54Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Black Max 21\" 125cc Gas Push Mower w/ Briggs & Stratton Engine for $148 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Black-Max-21-125-cc-Gas-Push-Mower-w-Briggs-Stratton-Engine-for-148-free-shipping/21851949.html",
-        "published": "2026-06-24T15:20:55Z",
-        "sentiment": "watch"
+        "title": "Oil market flooded with supply as Strait of Hormuz reopens after months-long closure",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oil-supply-strait-hormuz-reopens/",
+        "published": "2026-06-24T18:04:44Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
