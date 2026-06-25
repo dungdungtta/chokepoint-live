@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T22:11:08.452Z",
+    "generated_at": "2026-06-25T23:46:57.497Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "The Strait of Hormuz must stay open",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/06/the-strait-of-hormuz-must-stay-open/",
+        "published": "2026-06-24T23:23:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China’s foreign minister calls for swift reopening of Strait of Hormuz for global trade",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/china-wang-yi-strait-hormuz-reopening/",
+        "published": "2026-06-24T23:02:00Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "4,200-Mile 2008 Ducati Monster S4RS Tricolore",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/2008-ducati-monster-s4rs-11/",
+        "published": "2026-06-24T22:54:49Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Brent Falls To Pre-War Levels As Trump Contradicts Tehran On Hormuz Tolls, Nuclear Inspections",
+        "source": "Shtfplan.com",
+        "url": "https://www.shtfplan.com/war/brent-falls-to-pre-war-levels-as-trump-contradicts-tehran-on-hormuz-tolls-nuclear-inspections",
+        "published": "2026-06-24T22:30:51Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Iran and Oman Agree to Form ‘Strait of Hormuz Committee’",
         "source": "Breitbart News",
         "url": "https://www.breitbart.com/middle-east/2026/06/24/iran-oman-agree-form-strait-hormuz-committee/",
         "published": "2026-06-24T21:40:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Rubio defends Iran deal on Gulf tour; Israel insists on troops in southern Lebanon",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/rubio-defends-iran-deal-on-gulf-tour-israel-insists-on-troops-in-southern-lebanon",
-        "published": "2026-06-24T21:38:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Is AI Really Taking All the Jobs? Anthropic Co-Founder Reveals the Data.",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4385283/posts",
-        "published": "2026-06-24T21:14:46Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump calls any fee on Strait of Hormuz unacceptable, complicating Iran’s crypto toll plans",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-hormuz-fee-iran-crypto-tolls/",
-        "published": "2026-06-24T20:54:04Z",
         "sentiment": "watch"
       }
     ],
