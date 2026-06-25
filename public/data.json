@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T11:08:55.429Z",
+    "generated_at": "2026-06-25T13:27:39.112Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,69 +27,69 @@
   "news": {
     "hormuz": [
       {
-        "title": "Links 6/24/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/06/links-6-24-2026.html",
-        "published": "2026-06-24T10:55:07Z",
+        "title": "Japan considers naval deployment to clear mines in Strait of Hormuz, and crypto markets are watching closely",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/japan-hormuz-mines-crypto-impact/",
+        "published": "2026-06-24T13:13:13Z",
         "sentiment": "watch"
       },
       {
-        "title": "JONES ACT: The sacred cow of us shipping entangled in operation epic fury",
-        "source": "Naftemporiki.gr",
-        "url": "https://www.naftemporiki.gr/english/2128570/jones-act-the-sacred-cow-of-us-shipping-entangled-in-operation-epic-fury/",
-        "published": "2026-06-24T10:54:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Threatens Price Gouging Probe Against Oil Companies As Gas Prices Remain Above $3.90",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/siladityaray/2026/06/24/trump-threatens-price-gouging-probe-against-oil-companies-as-gas-prices-remain-above-390/",
-        "published": "2026-06-24T10:31:41Z",
+        "title": "Baffled Iranian negotiators 'are reading Trump's The Art of the Deal to try and understand why he threatens to \"bomb the s*** out of them\" while negotiating ceasefire'",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15926005/Baffled-Iranian-mediators-reading-Trumps-Art-Deal-try-understand-threatens-bomb-s-negotiating-ceasefire.html",
+        "published": "2026-06-24T13:07:51Z",
         "sentiment": "danger"
       },
       {
-        "title": "Norway Well Workers Continue Strike as Standoff Escalates",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/norway_well_workers_continue_strike_as_standoff_escalates-24-jun-2026-183979-article/",
-        "published": "2026-06-24T10:24:01Z",
+        "title": "Economic review wraps up with call for Singapore to adapt faster to AI-driven world",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/economic-review-wraps-up-with-call-for-singapore-to-adapt-faster-to-ai-driven-world",
+        "published": "2026-06-24T13:07:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "FO Talks: Who Owns the Ocean? The Hidden Law That Rules the Ocean",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/world-news/fo-talks-who-owns-the-ocean-the-hidden-law-that-rules-the-ocean/",
+        "published": "2026-06-24T13:07:07Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Brent hits lowest since before start of Iran war on expectations of smoother oil flows via Hormuz",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/news/oil-prices-extend-decline-expectations-011700224.html",
+        "published": "2026-06-24T12:54:55Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
       {
-        "title": "Transcript: Trump Seethes at Media over Iran as Fox Drops Brutal Poll",
-        "source": "The New Republic",
-        "url": "https://newrepublic.com/article/212254/transcript-trump-seethes-media-iran-fox-drops-brutal-poll",
-        "published": "2026-06-24T09:59:59Z",
+        "title": "Ray Dalio just finished a 10-day trip to China. He says global leaders know America ‘doesn’t have what it takes to fight to maintain its empire’",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/06/24/ray-dalio-china-tribute-system-america-empire/",
+        "published": "2026-06-24T13:13:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump threatened new tolls in the Strait of Hormuz. What if other countries follow suit?",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/trump-iran-strait-of-hormuz-tolls-9.7246282",
-        "published": "2026-06-24T08:00:00Z",
-        "sentiment": "danger"
+        "title": "UK, Germany and France express concern over Chinese actions east of Taiwan",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/uk-germany-france-express-concern-chinese-actions-east-134164362",
+        "published": "2026-06-24T12:45:09Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Taiwan says warning time for any China attack is shortening",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/taiwan-says-warning-time-for-any-china-attack-is-shortening/articleshow/131955737.cms",
-        "published": "2026-06-24T05:34:17Z",
-        "sentiment": "danger"
+        "title": "Trump's Iran 'Deal'",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4385214/posts",
+        "published": "2026-06-24T12:39:37Z",
+        "sentiment": "watch"
       },
       {
-        "title": "The war we must fight to win",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/06/the-war-we-must-fight-to-win/",
-        "published": "2026-06-24T00:27:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "China’s Fujian aircraft carrier transits Taiwan Strait as Taiwan runs war drills",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/fujian-carrier-taiwan-strait-transit-2026/",
-        "published": "2026-06-23T17:44:53Z",
-        "sentiment": "danger"
+        "title": "Shaheen, Duckworth, Schatz, Rosen, Merkley, Kim, Slotkin Statement on Meeting with the Speaker of Taiwan's Legislative Yuan",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260624-sfrc01.htm",
+        "published": "2026-06-24T12:00:00Z",
+        "sentiment": "watch"
       }
     ],
     "malacca": [
