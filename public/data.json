@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T20:12:10.402Z",
+    "generated_at": "2026-06-26T21:43:04.483Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran strikes Singaporean cargo ship in Strait of Hormuz, rattling global shipping markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-strikes-cargo-ship-strait-of-hormuz/",
+        "published": "2026-06-25T21:31:02Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "JPMorgan resets oil price target for rest of 2026",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/69a64bfa5b01fc6e",
+        "published": "2026-06-25T21:05:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Why are oil prices up today, and will Brent, US WTI crude futures continue to rise or fall again? Cargo ship attack near Oman lifts crude prices",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-up-today-and-will-brent-us-wti-crude-futures-continue-to-rise-or-fall-again-cargo-ship-attack-near-oman-lifts-crude-prices/articleshow/132003055.cms",
+        "published": "2026-06-25T21:03:49Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "2000 Ducati 748 at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/2000-ducati-748-18/",
+        "published": "2026-06-25T20:30:03Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "IRGC Attacks Cargo Ship as Iran Asserts Control Over Hormuz Strait",
         "source": "Legalinsurrection.com",
         "url": "https://legalinsurrection.com/2026/06/irgc-attacks-cargo-ship-as-iran-asserts-control-over-hormuz-strait/",
         "published": "2026-06-25T20:00:15Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Asia's Crude Buying Spree Is Running Out of Steam",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Asias-Crude-Buying-Spree-Is-Running-Out-of-Steam.html",
-        "published": "2026-06-25T20:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Rebounds After Hormuz Ship Attack",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_rebounds_after_hormuz_ship_attack-25-jun-2026-183992-article/",
-        "published": "2026-06-25T19:57:05Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Open Strait, Unsettled Waters",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/open-strait-unsettled-waters/",
-        "published": "2026-06-25T19:45:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. companies swallowed the oil shock. They’re not sure they can do it again",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/25/fed-survey-cfo-inflation-economy-oil-prices-iran-war-strait-of-hormuz/",
-        "published": "2026-06-25T19:30:08Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
