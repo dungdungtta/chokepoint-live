@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T23:46:57.497Z",
+    "generated_at": "2026-06-26T04:21:45.942Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "The Strait of Hormuz must stay open",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/06/the-strait-of-hormuz-must-stay-open/",
-        "published": "2026-06-24T23:23:00Z",
+        "title": "At White House, NATO'S Rutte tries to ease tensions with Trump over Iran",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/at-white-house-natos-rutte-tries-to-ease-tensions-with-trump-over-iran/articleshow/131981855.cms",
+        "published": "2026-06-25T04:06:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "China’s foreign minister calls for swift reopening of Strait of Hormuz for global trade",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/china-wang-yi-strait-hormuz-reopening/",
-        "published": "2026-06-24T23:02:00Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "4,200-Mile 2008 Ducati Monster S4RS Tricolore",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2008-ducati-monster-s4rs-11/",
-        "published": "2026-06-24T22:54:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Brent Falls To Pre-War Levels As Trump Contradicts Tehran On Hormuz Tolls, Nuclear Inspections",
-        "source": "Shtfplan.com",
-        "url": "https://www.shtfplan.com/war/brent-falls-to-pre-war-levels-as-trump-contradicts-tehran-on-hormuz-tolls-nuclear-inspections",
-        "published": "2026-06-24T22:30:51Z",
+        "title": "Trump Trapped by his Self-Inflicted War",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/06/trump-trapped-inflicted.html",
+        "published": "2026-06-25T04:06:12Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran and Oman Agree to Form ‘Strait of Hormuz Committee’",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/06/24/iran-oman-agree-form-strait-hormuz-committee/",
-        "published": "2026-06-24T21:40:06Z",
+        "title": "Iran declares new Hormuz route 'unacceptable and dangerous,' warns against ships transiting without approval",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/25/iran-navy-shipping-recovery-strait-of-hormuz-unauthorized-routes-us-fragile-mou-.html",
+        "published": "2026-06-25T03:28:37Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "NATO chief tries to ease tensions with Trump",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/world/2026/0625/1580224-nato-us/",
+        "published": "2026-06-25T03:21:21Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Using flattery, Rutte tries to ease tensions with Trump",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/world/2026/0625/1580224-rutte-trump/",
+        "published": "2026-06-25T03:21:21Z",
         "sentiment": "watch"
       }
     ],
