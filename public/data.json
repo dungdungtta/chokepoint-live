@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T11:15:24.717Z",
+    "generated_at": "2026-06-26T13:32:43.373Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil tanker passes the Strait of Hormuz despite Iran threats, as traffic flows begin to recover",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/oil-tanker-passes-strait-hormuz-iran-threats-traffic-trump-tolls-oman-rcna351704",
-        "published": "2026-06-25T10:59:52Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Rubio tells Gulf allies that Iran deal will ensure their security",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/25/rubio-tells-gulf-allies-that-iran-deal-will-ensure-their-security",
-        "published": "2026-06-25T10:59:44Z",
+        "title": "ADNOC Cuts Murban Crude Price to $101.48 as Hormuz Tensions Ease",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Cuts-Murban-Crude-Price-to-10148-as-Hormuz-Tensions-Ease.html",
+        "published": "2026-06-25T13:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran War: Omani Route Tests Iran Control of Strait of Hormuz as Rubio, GCC States Reject Controlled Passage; Iran Yet to Respond to Israel Ceasefire Violations, Intent to Stay in Lebanon; More Doubts about $300 Billion Fund",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/06/iran-war-omani-route-tests-iran-control-of-strait-of-hormuz-as-rubio-gcc-states-reject-iran-management-iran-yet-to-respond-to-israel-ceasefire-violations-intent-to-stay-in-lebanon-more-doubts.html",
-        "published": "2026-06-25T10:54:03Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oman backs US-Iran MoU on Strait of Hormuz, rejects transit fees",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oman-backs-us-iran-strait-hormuz-mou/",
-        "published": "2026-06-25T10:43:42Z",
+        "title": "Major Saudi Oil Terminal to Restart as Gulf Reboot Ramps Up",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/major-saudi-oil-terminal-to-restart-as-gulf-reboot-ramps-up/",
+        "published": "2026-06-25T13:26:55Z",
         "sentiment": "watch"
       },
       {
-        "title": "Smita Bansal says work cost her motherhood: ‘People know me as Anandi’s mom, but missed being there for my daughter’",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/tv/news/hindi/smita-bansal-says-work-cost-her-motherhood-people-know-me-as-anandis-mom-but-missed-being-there-for-my-daughter/articleshow/131990949.cms",
-        "published": "2026-06-25T10:38:49Z",
+        "title": "The Deepening of Australia-Indonesia Ties Yields Dividends With Fertilizer Shipment",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/06/the-deepening-of-australia-indonesia-ties-yields-dividends-with-fertilizer-shipment/",
+        "published": "2026-06-25T13:07:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The questions begin where the memorandum ends",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/429198",
+        "published": "2026-06-25T13:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Europe’s Alliance Trap: Autonomy Ambitions and NATO Dependence",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/region/europe/europes-alliance-trap-autonomy-ambitions-and-nato-dependence/",
+        "published": "2026-06-25T12:54:51Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Lai reiterates self-defense resolve, says China altering regional status quo",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260625-cna02.htm",
+        "published": "2026-06-25T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan's robodogs signal military shift to unmanned systems in rivalry with China",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260625-rfa01.htm",
+        "published": "2026-06-25T12:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Satellite Images Show China Built Replica US Destroyer for Missile Testing",
         "source": "Freerepublic.com",
@@ -82,13 +96,6 @@
         "source": "Yahoo Entertainment",
         "url": "https://www.yahoo.com/news/world/articles/china-defends-patrols-east-taiwan-095333314.html",
         "published": "2026-06-25T09:53:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan cheered by Western allies' alarm over Chinese Coast Guard activities - Reuters",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184075208",
-        "published": "2026-06-25T05:52:40Z",
         "sentiment": "watch"
       }
     ],
