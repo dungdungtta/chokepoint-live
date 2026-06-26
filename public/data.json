@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T18:04:08.630Z",
+    "generated_at": "2026-06-26T20:12:10.402Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Saudi Aramco resumes crude loadings at Ras Tanura as Gulf supply recovers",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/saudi-aramco-ras-tanura-crude-loadings-resume/",
-        "published": "2026-06-25T17:55:45Z",
-        "sentiment": "neutral"
+        "title": "IRGC Attacks Cargo Ship as Iran Asserts Control Over Hormuz Strait",
+        "source": "Legalinsurrection.com",
+        "url": "https://legalinsurrection.com/2026/06/irgc-attacks-cargo-ship-as-iran-asserts-control-over-hormuz-strait/",
+        "published": "2026-06-25T20:00:15Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Ship Struck in Hormuz as Oil Supertankers Turn Back Again",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/06/25/875361.htm",
-        "published": "2026-06-25T17:52:49Z",
+        "title": "Asia's Crude Buying Spree Is Running Out of Steam",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Asias-Crude-Buying-Spree-Is-Running-Out-of-Steam.html",
+        "published": "2026-06-25T20:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "France Seizes ‘Shadow Fleet’ Tanker, Stepping Up Pressure on Russia",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/france-seizes-shadow-fleet-tanker-stepping-up-pressure-on-russia/",
-        "published": "2026-06-25T17:39:08Z",
+        "title": "Oil Rebounds After Hormuz Ship Attack",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_rebounds_after_hormuz_ship_attack-25-jun-2026-183992-article/",
+        "published": "2026-06-25T19:57:05Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Open Strait, Unsettled Waters",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/open-strait-unsettled-waters/",
+        "published": "2026-06-25T19:45:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "British Military Says Cargo Ship Was Hit While Crossing Strait of Hormuz",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/europe/2026/06/25/british-military-says-cargo-ship-was-hit-while-crossing-strait-of-hormuz/",
-        "published": "2026-06-25T17:17:38Z",
+        "title": "U.S. companies swallowed the oil shock. They’re not sure they can do it again",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/06/25/fed-survey-cfo-inflation-economy-oil-prices-iran-war-strait-of-hormuz/",
+        "published": "2026-06-25T19:30:08Z",
         "sentiment": "watch"
       }
     ],
