@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T16:01:31.467Z",
+    "generated_at": "2026-06-26T18:04:08.630Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran orders ships to turn back in Strait of Hormuz amid escalating tensions",
+        "title": "Saudi Aramco resumes crude loadings at Ras Tanura as Gulf supply recovers",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-orders-ships-to-turn-back-in-strait-of-hormuz-amid-escalating-tensions/",
-        "published": "2026-06-25T15:45:52Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Rio Tinto in Talks With Vitol Over Venture to Cut Freight Costs",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/rio-tinto-in-talks-with-vitol-over-venture-to-cut-freight-costs",
-        "published": "2026-06-25T15:30:14Z",
+        "url": "https://cryptobriefing.com/saudi-aramco-ras-tanura-crude-loadings-resume/",
+        "published": "2026-06-25T17:55:45Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Iran Negotiations Day 8: Price of Oil Returns to Pre-War Levels",
-        "source": "The American Conservative",
-        "url": "https://www.theamericanconservative.com/iran-negotiations-day-8-price-of-oil-returns-to-pre-war-levels/",
-        "published": "2026-06-25T15:20:00Z",
-        "sentiment": "danger"
+        "title": "Ship Struck in Hormuz as Oil Supertankers Turn Back Again",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/06/25/875361.htm",
+        "published": "2026-06-25T17:52:49Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Rubio warns Hormuz tolls would 'spread like contagion' to other waterways",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/rubio-warns-hormuz-tolls-would-spread-like-contagion-to-other-waterways/articleshow/131997095.cms",
-        "published": "2026-06-25T15:11:55Z",
-        "sentiment": "danger"
+        "title": "France Seizes ‘Shadow Fleet’ Tanker, Stepping Up Pressure on Russia",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/france-seizes-shadow-fleet-tanker-stepping-up-pressure-on-russia/",
+        "published": "2026-06-25T17:39:08Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Iran seeks long-term role in managing Strait of Hormuz, eyes billions in annual fees",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-seeks-long-term-role-in-managing-strait-of-hormuz-eyes-billions-in-annual-fees/articleshow/131996870.cms",
-        "published": "2026-06-25T15:07:29Z",
+        "title": "British Military Says Cargo Ship Was Hit While Crossing Strait of Hormuz",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/europe/2026/06/25/british-military-says-cargo-ship-was-hit-while-crossing-strait-of-hormuz/",
+        "published": "2026-06-25T17:17:38Z",
         "sentiment": "watch"
       }
     ],
