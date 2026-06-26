@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T04:21:45.942Z",
+    "generated_at": "2026-06-26T08:08:43.718Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "At White House, NATO'S Rutte tries to ease tensions with Trump over Iran",
+        "title": "India at start of a major recovery, foreign investors just beginning to return, says BlackRock's Ben Powell",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/at-white-house-natos-rutte-tries-to-ease-tensions-with-trump-over-iran/articleshow/131981855.cms",
-        "published": "2026-06-25T04:06:18Z",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/india-at-start-of-a-major-recovery-foreign-investors-just-beginning-to-return-says-blackrocks-ben-powell/articleshow/131987444.cms",
+        "published": "2026-06-25T08:07:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump Trapped by his Self-Inflicted War",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/06/trump-trapped-inflicted.html",
-        "published": "2026-06-25T04:06:12Z",
+        "title": "Tata Motors CEO says India growth story will outweigh West Asia war impact on CV demand in long term",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/auto/lcv-hcv/india-growth-story-to-outweigh-west-asia-war-impact-on-cv-demand-in-long-term-tata-motors-ceo/articleshow/131987205.cms",
+        "published": "2026-06-25T08:00:41Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran declares new Hormuz route 'unacceptable and dangerous,' warns against ships transiting without approval",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/25/iran-navy-shipping-recovery-strait-of-hormuz-unauthorized-routes-us-fragile-mou-.html",
-        "published": "2026-06-25T03:28:37Z",
+        "title": "Oil price falls to levels not seen since before Iran war",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/1567c962761ad421",
+        "published": "2026-06-25T07:57:28Z",
         "sentiment": "danger"
       },
       {
-        "title": "NATO chief tries to ease tensions with Trump",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/world/2026/0625/1580224-nato-us/",
-        "published": "2026-06-25T03:21:21Z",
-        "sentiment": "watch"
+        "title": "An oil tanker navigates the Strait of Hormuz despite threats from Iran’s Revolutionary Guard",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/06/25/world-news/an-oil-tanker-navigates-the-strait-of-hormuz-despite-threats-from-irans-revolutionary-guard/",
+        "published": "2026-06-25T07:56:08Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Using flattery, Rutte tries to ease tensions with Trump",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/world/2026/0625/1580224-rutte-trump/",
-        "published": "2026-06-25T03:21:21Z",
-        "sentiment": "watch"
+        "title": "Oil Prices Fall Toward Prewar Levels as Gulf Shipping Resumes - The New York Times",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184076552",
+        "published": "2026-06-25T07:52:21Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan cheered by Western allies' alarm over Chinese Coast Guard activities - Reuters",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184075208",
+        "published": "2026-06-25T05:52:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US defence firm Anduril in talks for Nissan plant to build drones in Japan, sources say",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-defence-firm-anduril-in-talks-for-nissan-plant-to-build-drones-in-japan-sources-say/articleshow/131983663.cms",
+        "published": "2026-06-25T05:48:02Z",
+        "sentiment": "neutral"
+      },
       {
         "title": "Can Rutte Sweet-Talk Trump Enough to Soothe NATO Tensions?",
         "source": "Foreign Policy",
@@ -82,20 +96,6 @@
         "source": "Slashdot.org",
         "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184070766",
         "published": "2026-06-24T20:32:37Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China’s Assertions of Authority Over Foreign Ships Near Taiwan Draw U.S. Rebuke - WSJ",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184070566",
-        "published": "2026-06-24T20:13:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ray Dalio just finished a 10-day trip to China. He says global leaders know America ‘doesn’t have what it takes to fight to maintain its empire’",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/24/ray-dalio-china-tribute-system-america-empire/",
-        "published": "2026-06-24T13:13:00Z",
         "sentiment": "watch"
       }
     ],
