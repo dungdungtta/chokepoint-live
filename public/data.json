@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T13:32:43.373Z",
+    "generated_at": "2026-06-26T16:01:31.467Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "ADNOC Cuts Murban Crude Price to $101.48 as Hormuz Tensions Ease",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Cuts-Murban-Crude-Price-to-10148-as-Hormuz-Tensions-Ease.html",
-        "published": "2026-06-25T13:30:00Z",
-        "sentiment": "watch"
+        "title": "Iran orders ships to turn back in Strait of Hormuz amid escalating tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-orders-ships-to-turn-back-in-strait-of-hormuz-amid-escalating-tensions/",
+        "published": "2026-06-25T15:45:52Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Major Saudi Oil Terminal to Restart as Gulf Reboot Ramps Up",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/major-saudi-oil-terminal-to-restart-as-gulf-reboot-ramps-up/",
-        "published": "2026-06-25T13:26:55Z",
-        "sentiment": "watch"
+        "title": "Rio Tinto in Talks With Vitol Over Venture to Cut Freight Costs",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/rio-tinto-in-talks-with-vitol-over-venture-to-cut-freight-costs",
+        "published": "2026-06-25T15:30:14Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "The Deepening of Australia-Indonesia Ties Yields Dividends With Fertilizer Shipment",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/06/the-deepening-of-australia-indonesia-ties-yields-dividends-with-fertilizer-shipment/",
-        "published": "2026-06-25T13:07:00Z",
-        "sentiment": "watch"
+        "title": "Iran Negotiations Day 8: Price of Oil Returns to Pre-War Levels",
+        "source": "The American Conservative",
+        "url": "https://www.theamericanconservative.com/iran-negotiations-day-8-price-of-oil-returns-to-pre-war-levels/",
+        "published": "2026-06-25T15:20:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "The questions begin where the memorandum ends",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/429198",
-        "published": "2026-06-25T13:00:00Z",
-        "sentiment": "watch"
+        "title": "Rubio warns Hormuz tolls would 'spread like contagion' to other waterways",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/rubio-warns-hormuz-tolls-would-spread-like-contagion-to-other-waterways/articleshow/131997095.cms",
+        "published": "2026-06-25T15:11:55Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Europe’s Alliance Trap: Autonomy Ambitions and NATO Dependence",
-        "source": "Fair Observer",
-        "url": "https://www.fairobserver.com/region/europe/europes-alliance-trap-autonomy-ambitions-and-nato-dependence/",
-        "published": "2026-06-25T12:54:51Z",
+        "title": "Iran seeks long-term role in managing Strait of Hormuz, eyes billions in annual fees",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-seeks-long-term-role-in-managing-strait-of-hormuz-eyes-billions-in-annual-fees/articleshow/131996870.cms",
+        "published": "2026-06-25T15:07:29Z",
         "sentiment": "watch"
       }
     ],
