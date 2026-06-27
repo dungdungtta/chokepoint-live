@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T00:16:29.427Z",
+    "generated_at": "2026-06-27T04:36:21.972Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil prices retreat to prewar levels as US-Iran framework deal reshapes energy and crypto markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-prices-retreat-prewar-levels-us-iran/",
-        "published": "2026-06-25T23:07:02Z",
+        "title": "UN agency pauses evacuation of ships through Strait of Hormuz after attack on vessel",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/un-agency-pauses-evacuation-of-ships-through-strait-of-hormuz-after-attack-on-vessel/article71149176.ece",
+        "published": "2026-06-26T04:12:49Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil holds gain as traders weigh Hormuz flows after ship attack",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/oil-holds-gain-as-traders-weigh-hormuz-flows-after-ship-attack",
-        "published": "2026-06-25T23:03:35Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Asia Stocks Set for Choppy Open on Tech Volatility: Markets Wrap",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/asia-stocks-set-for-choppy-open-on-tech-volatility-markets-wrap",
-        "published": "2026-06-25T22:29:28Z",
+        "title": "Using flattery, Rutte tries to ease NATO tensions with Trump over Iran",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4385487/posts",
+        "published": "2026-06-26T04:11:48Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran attacks cargo ship in Hormuz",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/8a0acfdd41f81179",
-        "published": "2026-06-25T22:27:55Z",
-        "sentiment": "danger"
+        "title": "The Problem with Isolationism",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/articles/2026/06/the-problem-with-isolationism/",
+        "published": "2026-06-26T04:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Saudi Aramco resumes oil loading at Ras Tanura after four-month halt",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/saudi-aramco-ras-tanura-oil-loading-resumes/",
+        "published": "2026-06-26T03:21:15Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Saudi Aramco resumes oil loading at Ras Tanura after four-month halt, data shows",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-aramco-resumes-oil-loading-at-ras-tanura-after-four-month-halt-data-shows/articleshow/132006156.cms",
+        "published": "2026-06-26T03:00:51Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Problem with Isolationism",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/articles/2026/06/the-problem-with-isolationism/",
+        "published": "2026-06-26T04:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "U.S. defense firm Anduril in talks for Nissan plant to build drones in Japan, sources say",
         "source": "Japan Today",
@@ -82,13 +96,6 @@
         "source": "Freerepublic.com",
         "url": "https://freerepublic.com/focus/f-news/4385347/posts",
         "published": "2026-06-25T11:12:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan Drill Simulates Maritime ‘Quarantine’ by Chinese Forces",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/taiwan-drill-simulates-maritime-quarantine-by-chinese-forces",
-        "published": "2026-06-25T10:16:09Z",
         "sentiment": "watch"
       }
     ],
