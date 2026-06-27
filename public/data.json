@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T11:41:09.291Z",
+    "generated_at": "2026-06-27T12:58:05.999Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Panama Canal Sees Revenue Beating Forecast After Hormuz Closure",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/panama-canal-sees-revenue-beating-forecast-after-hormuz-closure/",
-        "published": "2026-06-26T11:34:57Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Traffic Through Strait of Hormuz Slows After Attack on Ship",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/traffic-through-strait-of-hormuz-slows-after-attack-on-ship/",
-        "published": "2026-06-26T11:32:49Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Crude Prices Sink as Traders Bet on More Iranian Oil",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Crude-Prices-Sink-as-Traders-Bet-on-More-Iranian-Oil.html",
-        "published": "2026-06-26T11:30:00Z",
+        "title": "Iran and US establish communication line in Strait of Hormuz, easing pressure on oil markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-us-communication-line-strait-hormuz/",
+        "published": "2026-06-26T12:57:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "Stocks slip as Apple price hikes fan tech jitters, oil slides",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/world-stocks-edge-lower-tech-selloff-drags-markets-6211886",
-        "published": "2026-06-26T11:26:01Z",
+        "title": "Iran turns back three oil tankers in Strait of Hormuz amid 2026 conflict",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-turns-back-three-oil-tankers-in-strait-of-hormuz-amid-2026-conflict/",
+        "published": "2026-06-26T12:20:03Z",
         "sentiment": "watch"
       },
       {
-        "title": "Europe Averts Jet Fuel Chaos as Summer Vacations Begin",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/europe-averts-jet-fuel-chaos-as-summer-vacations-begin",
-        "published": "2026-06-26T11:21:22Z",
+        "title": "Vessel Hit In Hormuz Strait 'Unharmed,' Says Ship Operator",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260626-rferl09.htm",
+        "published": "2026-06-26T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Tehran, US Open Direct Communication Channel On Hormuz, Says Iranian State Media",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260626-rferl06.htm",
+        "published": "2026-06-26T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran Says US-Gulf Council Statement Was 'Provocative' And 'Belligerent'",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260626-rferl08.htm",
+        "published": "2026-06-26T12:00:00Z",
         "sentiment": "watch"
       }
     ],
