@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T07:40:20.657Z",
+    "generated_at": "2026-06-27T09:52:20.505Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Saudi Aramco resumes oil loading at Ras Tanura in boost to supply",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/78ae8e2e570b982e",
-        "published": "2026-06-26T07:24:30Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran",
-        "published": "2026-06-26T07:07:47Z",
+        "title": "Panama Canal Sees Revenue Beating Forecast After Hormuz Closure",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/panama-canal-sees-revenue-beating-forecast-after-hormuz-closure",
+        "published": "2026-06-26T09:39:01Z",
         "sentiment": "danger"
       },
       {
-        "title": "Saudi Aramco resumes oil loading at Ras Tanura in boost to supply",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/news/saudi-aramco-resumes-oil-loading-044417424.html",
-        "published": "2026-06-26T07:02:15Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "US Navy reassesses Gulf bases after Iranian strikes damage Bahrain hub",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-navy-reassesses-gulf-bases-iranian-strikes-bahrain/",
-        "published": "2026-06-26T06:13:09Z",
+        "title": "Shipping rebounds in Strait of Hormuz one week after U.S.-Iran deal – but fragile confidence threatens recovery",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/26/strait-of-hormuz-shipping-oil-us-iran.html",
+        "published": "2026-06-26T09:36:24Z",
         "sentiment": "danger"
       },
       {
-        "title": "The Bluff Called: How the American empire finally met its match",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-06-26-bluff-called-american-empire-met-its-match.html",
-        "published": "2026-06-26T06:00:00Z",
+        "title": "Oil down 2% amid resumption of Hormuz shipments",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0626/1580452-world-oil-prices/",
+        "published": "2026-06-26T09:24:14Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "[Prime] 8-Ounce Native Pet Omega 3 Fish Oil for Dogs & Cats w/ Wild Alaskan Salmon & Pollock Oil $9.17 w/ S&S + Free Shipping",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19688448-prime-8-ounce-native-pet-omega-3-fish-oil-for-dogs-cats-w-wild-alaskan-salmon-pollock-oil-9-17-w-s-s-free-shipping",
+        "published": "2026-06-26T08:38:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil down 2% as Hormuz shipping resumes",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/d35f9624f40568f2",
+        "published": "2026-06-26T08:37:54Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
