@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T12:58:05.999Z",
+    "generated_at": "2026-06-27T14:51:29.111Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran and US establish communication line in Strait of Hormuz, easing pressure on oil markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-us-communication-line-strait-hormuz/",
-        "published": "2026-06-26T12:57:11Z",
+        "title": "Falling energy prices won't defuse rising risk of civil unrest in emerging markets",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/falling-energy-prices-wont-defuse-rising-risk-civil-unrest-in-emerging-markets-6213551",
+        "published": "2026-06-26T14:41:53Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran turns back three oil tankers in Strait of Hormuz amid 2026 conflict",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-turns-back-three-oil-tankers-in-strait-of-hormuz-amid-2026-conflict/",
-        "published": "2026-06-26T12:20:03Z",
+        "title": "Iran's Trump card: The risk premium hasn't gone. It just changed shape",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/irans-trump-card-the-risk-premium-hasnt-gone-it-just-changed-shape/articleshow/132018670.cms",
+        "published": "2026-06-26T14:33:36Z",
         "sentiment": "watch"
       },
       {
-        "title": "Vessel Hit In Hormuz Strait 'Unharmed,' Says Ship Operator",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260626-rferl09.htm",
-        "published": "2026-06-26T12:00:00Z",
+        "title": "What Happened to Big Oil's Green Pivot?",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/What-Happened-to-Big-Oils-Green-Pivot.html",
+        "published": "2026-06-26T14:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Tehran, US Open Direct Communication Channel On Hormuz, Says Iranian State Media",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260626-rferl06.htm",
-        "published": "2026-06-26T12:00:00Z",
+        "title": "Oil set for big weekly losses as tankers exit Strait of Hormuz",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/oil-edges-lower-amid-resumption-010939251.html",
+        "published": "2026-06-26T13:50:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran Says US-Gulf Council Statement Was 'Provocative' And 'Belligerent'",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260626-rferl08.htm",
-        "published": "2026-06-26T12:00:00Z",
+        "title": "Oil prices drop as more ships move through the Strait of Hormuz",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/09a921b73efc599d",
+        "published": "2026-06-26T13:43:40Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Iran Deal: A Bad End to an Unnecessary War",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/world-news/middle-east-news/the-iran-deal-a-bad-end-to-an-unnecessary-war/",
+        "published": "2026-06-26T13:23:14Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Why Iran Defeated the US and Israel",
         "source": "CounterPunch",
@@ -88,13 +95,6 @@
         "title": "Lai reiterates self-defense resolve, says China altering regional status quo",
         "source": "Globalsecurity.org",
         "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260625-cna02.htm",
-        "published": "2026-06-25T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan's robodogs signal military shift to unmanned systems in rivalry with China",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260625-rfa01.htm",
         "published": "2026-06-25T12:00:00Z",
         "sentiment": "watch"
       }
