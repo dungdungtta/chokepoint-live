@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T18:54:11.588Z",
+    "generated_at": "2026-06-27T20:14:45.566Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Saudi Arabia Resumes Crude Oil Loadings at Ras Tanura Port",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/06/26/saudi-arabia-resumes-crude-oil-loadings-ras-tanura-port/",
+        "published": "2026-06-26T19:47:08Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "IMO Estimates There Are 80 Mines in Hormuz’s Shipping Lanes",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/imo-estimates-there-are-80-mines-in-hormuzs-shipping-lanes/",
+        "published": "2026-06-26T19:08:13Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran strikes cargo ship near Oman as Strait of Hormuz traffic holds steady",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/iran-strikes-cargo-ship-oman-hormuz/",
@@ -46,20 +60,6 @@
         "url": "https://cryptobriefing.com/trump-iran-ceasefire-breach-hormuz-attack/",
         "published": "2026-06-26T18:30:38Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Iran Reasserts Its Right to Control Shipping in Strait of Hormuz After Ship Hit Near Oman",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/iran-reasserts-its-right-to-control-shipping-in-strait-of-hormuz-after-ship-hit-near-oman/",
-        "published": "2026-06-26T18:29:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Wahl Clip & Shave Cordless Rechargeable Electric Shaver for $32 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Wahl-Clip-Shave-Cordless-Rechargeable-Electric-Shaver-for-32-free-shipping/21856151.html",
-        "published": "2026-06-26T18:05:59Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
