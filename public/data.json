@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T16:13:25.308Z",
+    "generated_at": "2026-06-27T17:33:26.164Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump accuses Iran of violating ceasefire with drone attack on cargo ships",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-accuses-iran-ceasefire-violation-drone-attack/",
-        "published": "2026-06-26T16:09:40Z",
+        "title": "Trump calls Hormuz drone strike 'foolish' breach of ceasefire",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-06-27/trump-calls-iranian-strike-in-strait-of-hormuz-foolish-breach/106850280",
+        "published": "2026-06-26T17:30:55Z",
         "sentiment": "danger"
       },
       {
-        "title": "'Foolish violation of ceasefire agreement': Trump says Iran launched drones at ships in Hormuz",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/foolish-violation-trump-says-iran-launched-drones-at-ships-in-hormuz-despite-ceasefire/articleshow/132019956.cms",
-        "published": "2026-06-26T15:58:41Z",
+        "title": "Breaking: US strikes Iran after Trump calls Hormuz attack 'foolish' ceasefire breach",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-06-27/us-strikes-iran-after-trump-slams-hormuz-attack/106850280",
+        "published": "2026-06-26T17:30:55Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US government shifts Iran policy, proposes $300B reconstruction plan and sanctions relief through new MOU",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-mou-300b-reconstruction-sanctions-relief/",
+        "published": "2026-06-26T17:29:53Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Wavytalk 1,875W Ionic Hair Dryer with Diffuser for $27 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Wavytalk-1-875-W-Ionic-Hair-Dryer-with-Diffuser-for-27-free-shipping-w-Prime/21856098.html",
-        "published": "2026-06-26T15:56:58Z",
-        "sentiment": "watch"
+        "title": "Trump Says Iran’s Latest Attack In Strait Of Hormuz Is A Ceasefire Violation",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/26/trump-says-irans-latest-attack-in-strait-of-hormuz-is-a-ceasefire-violation/",
+        "published": "2026-06-26T17:25:09Z",
+        "sentiment": "danger"
       },
       {
-        "title": "World stocks edge lower as tech selloff drags markets",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/news/asian-shares-fall-apples-price-022516064.html",
-        "published": "2026-06-26T15:50:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hormuz traffic eases, ships continue using disputed Oman route",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/hormuz-traffic-eases-ships-continue-using-disputed-oman-route/articleshow/132019668.cms",
-        "published": "2026-06-26T15:37:57Z",
+        "title": "Iran accepts 60-day suspension of vessel fees in Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-strait-hormuz-fee-suspension/",
+        "published": "2026-06-26T17:21:56Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "What in the World?",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/06/26/news-quiz-colombia-election-right-wing-starmer-resign-uk-trump-rutte-nato/",
+        "published": "2026-06-26T17:29:35Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Has China Really Entered the Three-Carrier Era?",
         "source": "The Diplomat",
@@ -90,13 +97,6 @@
         "url": "https://www.americanthinker.com/articles/2026/06/the-problem-with-isolationism/",
         "published": "2026-06-26T04:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "U.S. defense firm Anduril in talks for Nissan plant to build drones in Japan, sources say",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/business/exclusive-u.s.-defence-firm-anduril-in-talks-for-nissan-plant-to-build-drones-in-japan-sources-say",
-        "published": "2026-06-25T21:45:03Z",
-        "sentiment": "neutral"
       }
     ],
     "malacca": [
