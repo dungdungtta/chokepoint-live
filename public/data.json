@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T14:51:29.111Z",
+    "generated_at": "2026-06-27T16:13:25.308Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Falling energy prices won't defuse rising risk of civil unrest in emerging markets",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/falling-energy-prices-wont-defuse-rising-risk-civil-unrest-in-emerging-markets-6213551",
-        "published": "2026-06-26T14:41:53Z",
-        "sentiment": "watch"
+        "title": "Trump accuses Iran of violating ceasefire with drone attack on cargo ships",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-accuses-iran-ceasefire-violation-drone-attack/",
+        "published": "2026-06-26T16:09:40Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Iran's Trump card: The risk premium hasn't gone. It just changed shape",
+        "title": "'Foolish violation of ceasefire agreement': Trump says Iran launched drones at ships in Hormuz",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/irans-trump-card-the-risk-premium-hasnt-gone-it-just-changed-shape/articleshow/132018670.cms",
-        "published": "2026-06-26T14:33:36Z",
+        "url": "https://economictimes.indiatimes.com/news/defence/foolish-violation-trump-says-iran-launched-drones-at-ships-in-hormuz-despite-ceasefire/articleshow/132019956.cms",
+        "published": "2026-06-26T15:58:41Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Wavytalk 1,875W Ionic Hair Dryer with Diffuser for $27 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Wavytalk-1-875-W-Ionic-Hair-Dryer-with-Diffuser-for-27-free-shipping-w-Prime/21856098.html",
+        "published": "2026-06-26T15:56:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "What Happened to Big Oil's Green Pivot?",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/What-Happened-to-Big-Oils-Green-Pivot.html",
-        "published": "2026-06-26T14:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil set for big weekly losses as tankers exit Strait of Hormuz",
+        "title": "World stocks edge lower as tech selloff drags markets",
         "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/oil-edges-lower-amid-resumption-010939251.html",
-        "published": "2026-06-26T13:50:17Z",
+        "url": "https://finance.yahoo.com/news/asian-shares-fall-apples-price-022516064.html",
+        "published": "2026-06-26T15:50:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil prices drop as more ships move through the Strait of Hormuz",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/09a921b73efc599d",
-        "published": "2026-06-26T13:43:40Z",
+        "title": "Hormuz traffic eases, ships continue using disputed Oman route",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/hormuz-traffic-eases-ships-continue-using-disputed-oman-route/articleshow/132019668.cms",
+        "published": "2026-06-26T15:37:57Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Has China Really Entered the Three-Carrier Era?",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/06/has-china-really-entered-the-three-carrier-era/",
+        "published": "2026-06-26T15:02:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Iran Deal: A Bad End to an Unnecessary War",
         "source": "Fair Observer",
@@ -90,13 +97,6 @@
         "url": "https://japantoday.com/category/business/exclusive-u.s.-defence-firm-anduril-in-talks-for-nissan-plant-to-build-drones-in-japan-sources-say",
         "published": "2026-06-25T21:45:03Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Lai reiterates self-defense resolve, says China altering regional status quo",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260625-cna02.htm",
-        "published": "2026-06-25T12:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
