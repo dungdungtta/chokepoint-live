@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T21:33:19.117Z",
+    "generated_at": "2026-06-27T22:44:27.699Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "US strikes Iran after attack on ship in Strait of Hormuz",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/0626/1580586-middle-east-iran/",
-        "published": "2026-06-26T21:17:44Z",
+        "title": "U.S. aircraft attack Iran in response to drone strike on cargo ship that Tehran called ‘ceasefire management’ as both sides wrestle for Hormuz control",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/06/26/us-aircraft-attack-iran-drone-strike-cargo-ship-ceasefire-strait-of-hormuz/",
+        "published": "2026-06-26T22:22:02Z",
         "sentiment": "danger"
       },
       {
-        "title": "US conducts strikes on Iran following cargo ship attack in Strait of Hormuz",
+        "title": "US strikes Iran sites after cargo ship attack",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/06/us-strikes-iran-sites-after-cargo-ship-attack/",
+        "published": "2026-06-26T22:12:31Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US launches strikes on Iran in response to drone attack on cargo ship",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/06/26/us-launches-strikes-on-iran-in-response-to-drone-attack-on-cargo-ship/",
+        "published": "2026-06-26T22:03:55Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "360 Energy Pulse: What mattered in energy this week",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/b331e81fe388b226",
+        "published": "2026-06-26T21:56:48Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US and Iran establish military hotline, plan de-mining in Hormuz Strait",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-strikes-iran-cargo-ship-attack/",
-        "published": "2026-06-26T20:55:34Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S. launches strikes against Iran following attack on ship in Strait of Hormuz",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/news/us-news/us-launches-strikes-iran-attack-ship-strait-hormuz-rcna351992",
-        "published": "2026-06-26T20:51:13Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "CENTCOM strikes Iranian missile sites and drone depots amid fragile ceasefire",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/centcom-strikes-iranian-missile-sites-ceasefire/",
-        "published": "2026-06-26T20:48:45Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump strikes Iran after 'dangerous' ceasefire violation as peace wavers",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15933659/Trump-strikes-Iran-dangerous-ceasefire-violation-peace-wavers.html",
-        "published": "2026-06-26T20:48:26Z",
-        "sentiment": "danger"
+        "url": "https://cryptobriefing.com/us-and-iran-establish-military-hotline-plan-de-mining-in-hormuz-strait/",
+        "published": "2026-06-26T21:54:41Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
