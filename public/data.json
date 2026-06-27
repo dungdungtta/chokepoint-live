@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T09:52:20.505Z",
+    "generated_at": "2026-06-27T11:41:09.291Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -28,38 +28,38 @@
     "hormuz": [
       {
         "title": "Panama Canal Sees Revenue Beating Forecast After Hormuz Closure",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/panama-canal-sees-revenue-beating-forecast-after-hormuz-closure/",
+        "published": "2026-06-26T11:34:57Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Traffic Through Strait of Hormuz Slows After Attack on Ship",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/traffic-through-strait-of-hormuz-slows-after-attack-on-ship/",
+        "published": "2026-06-26T11:32:49Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Crude Prices Sink as Traders Bet on More Iranian Oil",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Crude-Prices-Sink-as-Traders-Bet-on-More-Iranian-Oil.html",
+        "published": "2026-06-26T11:30:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Stocks slip as Apple price hikes fan tech jitters, oil slides",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/world-stocks-edge-lower-tech-selloff-drags-markets-6211886",
+        "published": "2026-06-26T11:26:01Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Europe Averts Jet Fuel Chaos as Summer Vacations Begin",
         "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/panama-canal-sees-revenue-beating-forecast-after-hormuz-closure",
-        "published": "2026-06-26T09:39:01Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Shipping rebounds in Strait of Hormuz one week after U.S.-Iran deal – but fragile confidence threatens recovery",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/26/strait-of-hormuz-shipping-oil-us-iran.html",
-        "published": "2026-06-26T09:36:24Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil down 2% amid resumption of Hormuz shipments",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/0626/1580452-world-oil-prices/",
-        "published": "2026-06-26T09:24:14Z",
+        "url": "https://financialpost.com/pmn/business-pmn/europe-averts-jet-fuel-chaos-as-summer-vacations-begin",
+        "published": "2026-06-26T11:21:22Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "[Prime] 8-Ounce Native Pet Omega 3 Fish Oil for Dogs & Cats w/ Wild Alaskan Salmon & Pollock Oil $9.17 w/ S&S + Free Shipping",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19688448-prime-8-ounce-native-pet-omega-3-fish-oil-for-dogs-cats-w-wild-alaskan-salmon-pollock-oil-9-17-w-s-s-free-shipping",
-        "published": "2026-06-26T08:38:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil down 2% as Hormuz shipping resumes",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/d35f9624f40568f2",
-        "published": "2026-06-26T08:37:54Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
