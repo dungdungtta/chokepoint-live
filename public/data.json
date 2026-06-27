@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T22:44:27.699Z",
+    "generated_at": "2026-06-27T23:45:57.930Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "33-Years-Owned 1967 Plymouth GTX Hardtop",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1967-plymouth-gtx-39/",
+        "published": "2026-06-26T23:05:02Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "U.S. aircraft attack Iran in response to drone strike on cargo ship that Tehran called ‘ceasefire management’ as both sides wrestle for Hormuz control",
         "source": "Fortune",
         "url": "https://fortune.com/2026/06/26/us-aircraft-attack-iran-drone-strike-cargo-ship-ceasefire-strait-of-hormuz/",
@@ -52,13 +59,6 @@
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/b331e81fe388b226",
         "published": "2026-06-26T21:56:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US and Iran establish military hotline, plan de-mining in Hormuz Strait",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-and-iran-establish-military-hotline-plan-de-mining-in-hormuz-strait/",
-        "published": "2026-06-26T21:54:41Z",
         "sentiment": "watch"
       }
     ],
