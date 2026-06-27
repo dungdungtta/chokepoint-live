@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T17:33:26.164Z",
+    "generated_at": "2026-06-27T18:54:11.588Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump calls Hormuz drone strike 'foolish' breach of ceasefire",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-06-27/trump-calls-iranian-strike-in-strait-of-hormuz-foolish-breach/106850280",
-        "published": "2026-06-26T17:30:55Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Breaking: US strikes Iran after Trump calls Hormuz attack 'foolish' ceasefire breach",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-06-27/us-strikes-iran-after-trump-slams-hormuz-attack/106850280",
-        "published": "2026-06-26T17:30:55Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US government shifts Iran policy, proposes $300B reconstruction plan and sanctions relief through new MOU",
+        "title": "Iran strikes cargo ship near Oman as Strait of Hormuz traffic holds steady",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-mou-300b-reconstruction-sanctions-relief/",
-        "published": "2026-06-26T17:29:53Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Trump Says Iran’s Latest Attack In Strait Of Hormuz Is A Ceasefire Violation",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/26/trump-says-irans-latest-attack-in-strait-of-hormuz-is-a-ceasefire-violation/",
-        "published": "2026-06-26T17:25:09Z",
+        "url": "https://cryptobriefing.com/iran-strikes-cargo-ship-oman-hormuz/",
+        "published": "2026-06-26T18:47:56Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran accepts 60-day suspension of vessel fees in Strait of Hormuz",
+        "title": "Gold Gains as Dollar Weakens; Still on Track for Fourth Straight Weekly Loss",
+        "source": "Aawsat.com",
+        "url": "https://english.aawsat.com/business/5288885-gold-gains-dollar-weakens-still-track-fourth-straight-weekly-loss",
+        "published": "2026-06-26T18:40:35Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-strait-hormuz-fee-suspension/",
-        "published": "2026-06-26T17:21:56Z",
+        "url": "https://cryptobriefing.com/trump-iran-ceasefire-breach-hormuz-attack/",
+        "published": "2026-06-26T18:30:38Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran Reasserts Its Right to Control Shipping in Strait of Hormuz After Ship Hit Near Oman",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/iran-reasserts-its-right-to-control-shipping-in-strait-of-hormuz-after-ship-hit-near-oman/",
+        "published": "2026-06-26T18:29:30Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Wahl Clip & Shave Cordless Rechargeable Electric Shaver for $32 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Wahl-Clip-Shave-Cordless-Rechargeable-Electric-Shaver-for-32-free-shipping/21856151.html",
+        "published": "2026-06-26T18:05:59Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Forget Hormuz. The Shadow Fleet Is The Next Maritime Crisis.",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/jillgoldenziel/2026/06/26/forget-hormuz-the-shadow-fleet-is-the-next-maritime-crisis/",
+        "published": "2026-06-26T18:04:35Z",
+        "sentiment": "watch"
+      },
       {
         "title": "What in the World?",
         "source": "Foreign Policy",
@@ -89,13 +96,6 @@
         "source": "CounterPunch",
         "url": "https://www.counterpunch.org/2026/06/26/why-iran-defeated-the-us-and-israel/",
         "published": "2026-06-26T05:55:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Problem with Isolationism",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/articles/2026/06/the-problem-with-isolationism/",
-        "published": "2026-06-26T04:00:00Z",
         "sentiment": "watch"
       }
     ],
