@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T04:36:21.972Z",
+    "generated_at": "2026-06-27T07:40:20.657Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "UN agency pauses evacuation of ships through Strait of Hormuz after attack on vessel",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/un-agency-pauses-evacuation-of-ships-through-strait-of-hormuz-after-attack-on-vessel/article71149176.ece",
-        "published": "2026-06-26T04:12:49Z",
+        "title": "Saudi Aramco resumes oil loading at Ras Tanura in boost to supply",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/78ae8e2e570b982e",
+        "published": "2026-06-26T07:24:30Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran",
+        "published": "2026-06-26T07:07:47Z",
         "sentiment": "danger"
       },
       {
-        "title": "Using flattery, Rutte tries to ease NATO tensions with Trump over Iran",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4385487/posts",
-        "published": "2026-06-26T04:11:48Z",
-        "sentiment": "watch"
+        "title": "Saudi Aramco resumes oil loading at Ras Tanura in boost to supply",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/news/saudi-aramco-resumes-oil-loading-044417424.html",
+        "published": "2026-06-26T07:02:15Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "The Problem with Isolationism",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/articles/2026/06/the-problem-with-isolationism/",
-        "published": "2026-06-26T04:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Aramco resumes oil loading at Ras Tanura after four-month halt",
+        "title": "US Navy reassesses Gulf bases after Iranian strikes damage Bahrain hub",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/saudi-aramco-ras-tanura-oil-loading-resumes/",
-        "published": "2026-06-26T03:21:15Z",
-        "sentiment": "neutral"
+        "url": "https://cryptobriefing.com/us-navy-reassesses-gulf-bases-iranian-strikes-bahrain/",
+        "published": "2026-06-26T06:13:09Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Saudi Aramco resumes oil loading at Ras Tanura after four-month halt, data shows",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-aramco-resumes-oil-loading-at-ras-tanura-after-four-month-halt-data-shows/articleshow/132006156.cms",
-        "published": "2026-06-26T03:00:51Z",
-        "sentiment": "neutral"
+        "title": "The Bluff Called: How the American empire finally met its match",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-06-26-bluff-called-american-empire-met-its-match.html",
+        "published": "2026-06-26T06:00:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Why Iran Defeated the US and Israel",
+        "source": "CounterPunch",
+        "url": "https://www.counterpunch.org/2026/06/26/why-iran-defeated-the-us-and-israel/",
+        "published": "2026-06-26T05:55:13Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Problem with Isolationism",
         "source": "Americanthinker.com",
@@ -89,13 +96,6 @@
         "source": "Globalsecurity.org",
         "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260625-rfa01.htm",
         "published": "2026-06-25T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Satellite Images Show China Built Replica US Destroyer for Missile Testing",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4385347/posts",
-        "published": "2026-06-25T11:12:16Z",
         "sentiment": "watch"
       }
     ],
