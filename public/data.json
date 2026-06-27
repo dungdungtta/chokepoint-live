@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T20:14:45.566Z",
+    "generated_at": "2026-06-27T21:33:19.117Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Saudi Arabia Resumes Crude Oil Loadings at Ras Tanura Port",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/06/26/saudi-arabia-resumes-crude-oil-loadings-ras-tanura-port/",
-        "published": "2026-06-26T19:47:08Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "IMO Estimates There Are 80 Mines in Hormuz’s Shipping Lanes",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/imo-estimates-there-are-80-mines-in-hormuzs-shipping-lanes/",
-        "published": "2026-06-26T19:08:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran strikes cargo ship near Oman as Strait of Hormuz traffic holds steady",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-strikes-cargo-ship-oman-hormuz/",
-        "published": "2026-06-26T18:47:56Z",
+        "title": "US strikes Iran after attack on ship in Strait of Hormuz",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/0626/1580586-middle-east-iran/",
+        "published": "2026-06-26T21:17:44Z",
         "sentiment": "danger"
       },
       {
-        "title": "Gold Gains as Dollar Weakens; Still on Track for Fourth Straight Weekly Loss",
-        "source": "Aawsat.com",
-        "url": "https://english.aawsat.com/business/5288885-gold-gains-dollar-weakens-still-track-fourth-straight-weekly-loss",
-        "published": "2026-06-26T18:40:35Z",
-        "sentiment": "watch"
+        "title": "US conducts strikes on Iran following cargo ship attack in Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-strikes-iran-cargo-ship-attack/",
+        "published": "2026-06-26T20:55:34Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+        "title": "U.S. launches strikes against Iran following attack on ship in Strait of Hormuz",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/us-launches-strikes-iran-attack-ship-strait-hormuz-rcna351992",
+        "published": "2026-06-26T20:51:13Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "CENTCOM strikes Iranian missile sites and drone depots amid fragile ceasefire",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-ceasefire-breach-hormuz-attack/",
-        "published": "2026-06-26T18:30:38Z",
+        "url": "https://cryptobriefing.com/centcom-strikes-iranian-missile-sites-ceasefire/",
+        "published": "2026-06-26T20:48:45Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump strikes Iran after 'dangerous' ceasefire violation as peace wavers",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15933659/Trump-strikes-Iran-dangerous-ceasefire-violation-peace-wavers.html",
+        "published": "2026-06-26T20:48:26Z",
         "sentiment": "danger"
       }
     ],
