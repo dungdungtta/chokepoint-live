@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T22:54:46.001Z",
+    "generated_at": "2026-06-27T00:16:29.427Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil prices retreat to prewar levels as US-Iran framework deal reshapes energy and crypto markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oil-prices-retreat-prewar-levels-us-iran/",
+        "published": "2026-06-25T23:07:02Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil holds gain as traders weigh Hormuz flows after ship attack",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/oil-holds-gain-as-traders-weigh-hormuz-flows-after-ship-attack",
+        "published": "2026-06-25T23:03:35Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Asia Stocks Set for Choppy Open on Tech Volatility: Markets Wrap",
         "source": "Financial Post",
         "url": "https://financialpost.com/pmn/business-pmn/asia-stocks-set-for-choppy-open-on-tech-volatility-markets-wrap",
@@ -38,27 +52,6 @@
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/8a0acfdd41f81179",
         "published": "2026-06-25T22:27:55Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Purina Pro Plan Sensitive Skin & Stomach Salmon & Rice Dry Dog Food 30-lb. Bag for $56 w/ Prime + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Purina-Pro-Plan-Sensitive-Skin-Stomach-Salmon-Rice-Dry-Dog-Food-30-lb-Bag-for-56-w-Prime-free-shipping/21853395.html",
-        "published": "2026-06-25T21:57:02Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Cliganic Organic Jojoba Oil only $7.98!",
-        "source": "Moneysavingmom.com",
-        "url": "https://moneysavingmom.com/cliganic-organic-jojoba-oil-deal/",
-        "published": "2026-06-25T21:46:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran strikes Singaporean cargo ship in Strait of Hormuz, rattling global shipping markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-strikes-cargo-ship-strait-of-hormuz/",
-        "published": "2026-06-25T21:31:02Z",
         "sentiment": "danger"
       }
     ],
