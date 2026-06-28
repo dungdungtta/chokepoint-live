@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T17:21:05.147Z",
+    "generated_at": "2026-06-28T18:46:33.378Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran Drone Attacks on Bahrain Raise Fears for Fragile Ceasefire",
+        "source": "Time",
+        "url": "https://time.com/article/2026/06/27/Iran-Bahrain-attack-Strait-of-Hormuz-drone-strikes/",
+        "published": "2026-06-27T17:33:09Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Tanker damaged by projectile in Strait of Hormuz amid US-Iran tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/tanker-damaged-by-projectile-in-strait-of-hormuz-amid-us-iran-tensions/",
+        "published": "2026-06-27T17:31:14Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Ukraine strikes Russian weapons plant, Moscow fuel hub",
         "source": "DW (English)",
         "url": "https://www.dw.com/en/ukraine-strikes-russian-weapons-plant-moscow-fuel-hub/a-77735059",
@@ -45,20 +59,6 @@
         "source": "Wnd.com",
         "url": "https://www.wnd.com/2026/06/u-s-responds-iranian-drone-attack-ship-strait/",
         "published": "2026-06-27T15:56:36Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oman Tells Allies Ships Going Through Hormuz May Have to Pay",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/06/27/875550.htm",
-        "published": "2026-06-27T14:05:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Battle of the River Plate: Powell and Pressburger go Back to War",
-        "source": "Steynonline.com",
-        "url": "https://www.steynonline.com/16278/the-battle-of-the-river-plate-powell",
-        "published": "2026-06-27T14:00:00Z",
         "sentiment": "danger"
       }
     ],
