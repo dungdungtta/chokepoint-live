@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T08:12:47.729Z",
+    "generated_at": "2026-06-28T10:36:30.561Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Saudi Aramco resumes oil loading at Ras Tanura in boost to supply",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/27/saudi-aramco-resumes-oil-loading-at-ras-tanura-in-boost-to-supply.html",
-        "published": "2026-06-27T08:03:59Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "US, Iran trade strikes putting new strain on peace deal",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/06/us-iran-trade-strikes-putting-new-strain-on-peace-deal/",
-        "published": "2026-06-27T07:23:15Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran lawmaker calls for response to US strikes, says ceasefire violated",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-lawmaker-us-strikes-ceasefire-response/",
-        "published": "2026-06-27T07:10:11Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US and Iran trade strikes following drone attack on cargo ship in Strait of Hormuz",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/us-iran-drone-attack-strait-of-hormuz-7083572-Jun2026/",
-        "published": "2026-06-27T07:06:03Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran and US trade blame for attacks, threatening fragile ceasefire",
+        "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
         "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire",
-        "published": "2026-06-27T07:00:13Z",
+        "url": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou",
+        "published": "2026-06-27T10:32:24Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran says it hit US-linked targets in response to Friday’s American air strikes",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/06/27/iran-says-it-hit-us-linked-targets-in-response-to-fridays-american-air-strikes/",
+        "published": "2026-06-27T10:24:06Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran says US violated peace deal as both sides trade fire",
+        "source": "The Punch",
+        "url": "https://punchng.com/iran-says-us-violated-peace-deal-as-both-sides-trade-fire/",
+        "published": "2026-06-27T10:20:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran says US violated peace deal as both sides trade fire",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/06/iran-says-us-violated-peace-deal-as-both-sides-trade-fire/",
+        "published": "2026-06-27T10:05:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran says it hits US-linked targets as Bahrain reports drone attack",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/iran-us-war-hit-targets-bahrain-drone-attack-6215026",
+        "published": "2026-06-27T09:58:00Z",
         "sentiment": "danger"
       }
     ],
