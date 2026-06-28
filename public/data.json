@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T10:36:30.561Z",
+    "generated_at": "2026-06-28T12:10:00.211Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou",
-        "published": "2026-06-27T10:32:24Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran says it hit US-linked targets in response to Friday’s American air strikes",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/06/27/iran-says-it-hit-us-linked-targets-in-response-to-fridays-american-air-strikes/",
-        "published": "2026-06-27T10:24:06Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran says US violated peace deal as both sides trade fire",
-        "source": "The Punch",
-        "url": "https://punchng.com/iran-says-us-violated-peace-deal-as-both-sides-trade-fire/",
-        "published": "2026-06-27T10:20:16Z",
+        "title": "Panama Canal Sees Revenue Beating Forecast",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/panama_canal_sees_revenue_beating_forecast-27-jun-2026-184000-article/",
+        "published": "2026-06-27T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran says US violated peace deal as both sides trade fire",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/06/iran-says-us-violated-peace-deal-as-both-sides-trade-fire/",
-        "published": "2026-06-27T10:05:25Z",
-        "sentiment": "watch"
+        "title": "Saudi Aramco Resumes Crude Loading At Ras Tanura Terminal",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/saudi/2026/saudi-260627-rferl01.htm",
+        "published": "2026-06-27T11:55:30Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Iran says it hits US-linked targets as Bahrain reports drone attack",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/iran-us-war-hit-targets-bahrain-drone-attack-6215026",
-        "published": "2026-06-27T09:58:00Z",
+        "title": "Fresh ship struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/articles/iran-says-hits-us-linked-092540489.html",
+        "published": "2026-06-27T11:50:10Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran says it hit US-linked targets as Bahrain reports drone attack",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-06-27/brk-iran-latest/106851316",
+        "published": "2026-06-27T11:49:53Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran says it hit US-linked targets as Bahrain reports drone attack",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-06-27/iran-hits-us-targets-as-bahrain-reports-drone-attack/106851316",
+        "published": "2026-06-27T11:49:53Z",
         "sentiment": "danger"
       }
     ],
