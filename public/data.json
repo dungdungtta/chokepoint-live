@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T15:52:26.578Z",
+    "generated_at": "2026-06-28T17:21:05.147Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Ukraine strikes Russian weapons plant, Moscow fuel hub",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/ukraine-strikes-russian-weapons-plant-moscow-fuel-hub/a-77735059",
+        "published": "2026-06-27T16:41:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Ceasefire Falters as Iran Resumes Attacks in Hormuz, Launches Drone Strikes on Bahrain",
+        "source": "Legalinsurrection.com",
+        "url": "https://legalinsurrection.com/2026/06/ceasefire-falters-as-iran-resumes-attacks-in-hormuz-launches-drone-strikes-on-bahrain/",
+        "published": "2026-06-27T16:00:44Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "U.S. responds to Iranian drone attack on ship in Strait of Hormuz",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/06/u-s-responds-iranian-drone-attack-ship-strait/",
+        "published": "2026-06-27T15:56:36Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Oman Tells Allies Ships Going Through Hormuz May Have to Pay",
         "source": "Insurance Journal",
         "url": "https://www.insurancejournal.com/news/international/2026/06/27/875550.htm",
@@ -39,27 +60,6 @@
         "url": "https://www.steynonline.com/16278/the-battle-of-the-river-plate-powell",
         "published": "2026-06-27T14:00:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Tanker Struck In Hormuz As Navies Raise Threat Level To Ships",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/tanker-struck-in-hormuz-as-navies-raise-threat-level-to-ships/",
-        "published": "2026-06-27T13:43:46Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Strait of Hormuz to be closed again? Why are U. S, Iran launching strikes after signing interim peace deal?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/strait-of-hormuz-to-be-closed-again-why-are-u-s-iran-launching-strikes-after-signing-interim-peace-deal/articleshow/132035613.cms",
-        "published": "2026-06-27T13:15:07Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Diplomacy: The architecture of Indonesia's resilience",
-        "source": "Antaranews.com",
-        "url": "https://en.antaranews.com/news/420663/diplomacy-the-architecture-of-indonesias-resilience",
-        "published": "2026-06-27T12:55:04Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
