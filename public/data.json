@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T21:40:46.662Z",
+    "generated_at": "2026-06-28T22:45:01.495Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "U.S.-Iran Latest: U.S. launches new round of strikes on Iran, CENTCOM says; Trump accuses Tehran of ceasefire violation",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4385735/posts",
+        "published": "2026-06-27T22:29:06Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US launches second night of strikes against Iran after ship struck by drone",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone",
+        "published": "2026-06-27T22:07:03Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US launches fresh strikes on Iran near Strait of Hormuz",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-06-28/us-launches-fresh-strikes-on-iran-as-ceasefire-frays/106852070",
+        "published": "2026-06-27T22:00:24Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US strikes Iran, explosions reported in Strait of Hormuz region",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-strikes-iran-explosions-reported-in-strait-of-hormuz-region/",
+        "published": "2026-06-27T21:53:17Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "China Is Quietly Winning the Clean Energy Trade War",
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/China-Is-Quietly-Winning-the-Clean-Energy-Trade-War.html",
         "published": "2026-06-27T21:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran Drone Attacks on Bahrain Raise Fears for Fragile Ceasefire",
-        "source": "Time",
-        "url": "https://time.com/article/2026/06/27/Iran-Bahrain-attack-Strait-of-Hormuz-drone-strikes/",
-        "published": "2026-06-27T17:33:09Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Tanker damaged by projectile in Strait of Hormuz amid US-Iran tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/tanker-damaged-by-projectile-in-strait-of-hormuz-amid-us-iran-tensions/",
-        "published": "2026-06-27T17:31:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ukraine strikes Russian weapons plant, Moscow fuel hub",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/ukraine-strikes-russian-weapons-plant-moscow-fuel-hub/a-77735059",
-        "published": "2026-06-27T16:41:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Ceasefire Falters as Iran Resumes Attacks in Hormuz, Launches Drone Strikes on Bahrain",
-        "source": "Legalinsurrection.com",
-        "url": "https://legalinsurrection.com/2026/06/ceasefire-falters-as-iran-resumes-attacks-in-hormuz-launches-drone-strikes-on-bahrain/",
-        "published": "2026-06-27T16:00:44Z",
         "sentiment": "danger"
       }
     ],
