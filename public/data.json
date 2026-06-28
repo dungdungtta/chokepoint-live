@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T12:10:00.211Z",
+    "generated_at": "2026-06-28T14:17:18.229Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Panama Canal Sees Revenue Beating Forecast",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/panama_canal_sees_revenue_beating_forecast-27-jun-2026-184000-article/",
-        "published": "2026-06-27T12:00:00Z",
+        "title": "Oman Tells Allies Ships Going Through Hormuz May Have to Pay",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/06/27/875550.htm",
+        "published": "2026-06-27T14:05:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudi Aramco Resumes Crude Loading At Ras Tanura Terminal",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/saudi/2026/saudi-260627-rferl01.htm",
-        "published": "2026-06-27T11:55:30Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Fresh ship struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/articles/iran-says-hits-us-linked-092540489.html",
-        "published": "2026-06-27T11:50:10Z",
+        "title": "The Battle of the River Plate: Powell and Pressburger go Back to War",
+        "source": "Steynonline.com",
+        "url": "https://www.steynonline.com/16278/the-battle-of-the-river-plate-powell",
+        "published": "2026-06-27T14:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran says it hit US-linked targets as Bahrain reports drone attack",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-06-27/brk-iran-latest/106851316",
-        "published": "2026-06-27T11:49:53Z",
+        "title": "Tanker Struck In Hormuz As Navies Raise Threat Level To Ships",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/tanker-struck-in-hormuz-as-navies-raise-threat-level-to-ships/",
+        "published": "2026-06-27T13:43:46Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran says it hit US-linked targets as Bahrain reports drone attack",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-06-27/iran-hits-us-targets-as-bahrain-reports-drone-attack/106851316",
-        "published": "2026-06-27T11:49:53Z",
+        "title": "Strait of Hormuz to be closed again? Why are U. S, Iran launching strikes after signing interim peace deal?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/strait-of-hormuz-to-be-closed-again-why-are-u-s-iran-launching-strikes-after-signing-interim-peace-deal/articleshow/132035613.cms",
+        "published": "2026-06-27T13:15:07Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Diplomacy: The architecture of Indonesia's resilience",
+        "source": "Antaranews.com",
+        "url": "https://en.antaranews.com/news/420663/diplomacy-the-architecture-of-indonesias-resilience",
+        "published": "2026-06-27T12:55:04Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
