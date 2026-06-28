@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T23:45:57.930Z",
+    "generated_at": "2026-06-28T04:41:24.735Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "33-Years-Owned 1967 Plymouth GTX Hardtop",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1967-plymouth-gtx-39/",
-        "published": "2026-06-26T23:05:02Z",
+        "title": "U.S. strikes Iran in response to a drone attack on a ship",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
+        "published": "2026-06-27T04:12:23Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil prices dive as more tankers move through Strait of Hormuz",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-dive-as-more-tankers-move-through-strait-of-hormuz/articleshow/132028272.cms",
+        "published": "2026-06-27T03:54:38Z",
         "sentiment": "watch"
       },
       {
-        "title": "U.S. aircraft attack Iran in response to drone strike on cargo ship that Tehran called ‘ceasefire management’ as both sides wrestle for Hormuz control",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/26/us-aircraft-attack-iran-drone-strike-cargo-ship-ceasefire-strait-of-hormuz/",
-        "published": "2026-06-26T22:22:02Z",
+        "title": "6-Pack 12-Ounce Sir Kensington's Avocado Oil Mayonnaise $24.68 + Free Shipping w/ Prime or on $35+ (0 replies)",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19692309-6-pack-12-ounce-sir-kensington-s-avocado-oil-mayonnaise-24-68-free-shipping-w-prime-or-on-35",
+        "published": "2026-06-27T02:12:04Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "To defend against hybrid attacks, governments should team up with the private sector",
+        "source": "POLITICO.eu",
+        "url": "https://www.politico.eu/article/hybrid-attacks-governments-team-up-private-sector/",
+        "published": "2026-06-27T02:02:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "US strikes Iran sites after cargo ship attack",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/06/us-strikes-iran-sites-after-cargo-ship-attack/",
-        "published": "2026-06-26T22:12:31Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US launches strikes on Iran in response to drone attack on cargo ship",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/06/26/us-launches-strikes-on-iran-in-response-to-drone-attack-on-cargo-ship/",
-        "published": "2026-06-26T22:03:55Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "360 Energy Pulse: What mattered in energy this week",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/b331e81fe388b226",
-        "published": "2026-06-26T21:56:48Z",
+        "title": "Anti-Iranian protests erupt ahead of Egypt vs Iran... as defiant fans proudly wave rainbow flags despite team's outrage over World Cup Pride game",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/sport/football/article-15933835/egypt-iran-protest-pride-seattle.html",
+        "published": "2026-06-27T01:58:25Z",
         "sentiment": "watch"
       }
     ],
