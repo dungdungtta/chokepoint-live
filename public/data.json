@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T22:45:01.495Z",
+    "generated_at": "2026-06-28T23:54:59.652Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S.-Iran Latest: U.S. launches new round of strikes on Iran, CENTCOM says; Trump accuses Tehran of ceasefire violation",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4385735/posts",
-        "published": "2026-06-27T22:29:06Z",
+        "title": "U.S. strikes multiple targets in Iran in retaliation for oil tanker attack - NPR",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184146410",
+        "published": "2026-06-27T23:52:42Z",
         "sentiment": "danger"
       },
       {
-        "title": "US launches second night of strikes against Iran after ship struck by drone",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone",
-        "published": "2026-06-27T22:07:03Z",
+        "title": "US military says it struck multiple targets in Iran as ceasefire strained by second day of attacks",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/us-military-says-it-struck-multiple-targets-in-iran-as-ceasefire-strained-by-second-day-of-attacks/article71156668.ece",
+        "published": "2026-06-27T23:52:08Z",
         "sentiment": "danger"
       },
       {
-        "title": "US launches fresh strikes on Iran near Strait of Hormuz",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-06-28/us-launches-fresh-strikes-on-iran-as-ceasefire-frays/106852070",
-        "published": "2026-06-27T22:00:24Z",
+        "title": "Tit-for-tat threatens fragile Iran-US peace deal as Tehran claims strikes on American military bases",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15935273/Tit-tat-threatens-fragile-Iran-US-peace-deal.html",
+        "published": "2026-06-27T23:51:51Z",
         "sentiment": "danger"
       },
       {
-        "title": "US strikes Iran, explosions reported in Strait of Hormuz region",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-strikes-iran-explosions-reported-in-strait-of-hormuz-region/",
-        "published": "2026-06-27T21:53:17Z",
+        "title": "US conducts more strikes against Iran after attack on Panama-flagged tanker",
+        "source": "Khabarhub.com",
+        "url": "https://english.khabarhub.com/2026/28/555959/",
+        "published": "2026-06-27T23:42:58Z",
         "sentiment": "danger"
       },
       {
-        "title": "China Is Quietly Winning the Clean Energy Trade War",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/China-Is-Quietly-Winning-the-Clean-Energy-Trade-War.html",
-        "published": "2026-06-27T21:00:00Z",
+        "title": "Trump Warns USA Is Getting ‘Forced’ to Wipe Out Iran, Once and For All",
+        "source": "Mediaite",
+        "url": "https://www.mediaite.com/politics/trump-warns-usa-is-getting-forced-to-wipe-out-iran-once-and-for-all/",
+        "published": "2026-06-27T23:40:18Z",
         "sentiment": "danger"
       }
     ],
