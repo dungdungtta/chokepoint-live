@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T14:11:52.186Z",
+    "generated_at": "2026-06-29T17:12:55.652Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran attacks Bahrain and Kuwait in response to U.S. airstrikes and threatens a ‘complete halt’ in peace talks as fighting over Hormuz continues",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/28/iran-drone-missile-attacks-bahrain-kuwait-us-airstrikes-peace-talks-hormuz-lebanon/",
-        "published": "2026-06-28T14:03:15Z",
+        "title": "Strait of Hormuz open or close, Iran-US deal to collapse anytime? Tehran strikes against vital American bases in Kuwait, Bahrain, U. S attack multiple Iranian military targets",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/strait-of-hormuz-open-or-close-iran-us-deal-to-collapse-anytime-tehran-strikes-against-vital-american-bases-in-kuwait-bahrain-u-s-attack-multiple-iranian-military-targets/articleshow/132055541.cms",
+        "published": "2026-06-28T16:57:09Z",
         "sentiment": "danger"
       },
       {
-        "title": "‘They will never learn’: Trump launches new military action, warns ‘Iran will no longer exist!’",
-        "source": "Wnd.com",
-        "url": "https://www.wnd.com/2026/06/they-will-never-learn-trump-launches-new-military/",
-        "published": "2026-06-28T13:42:01Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "India eyes discounted Iranian oil after US sanctions waiver",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/india-eyes-discounted-iranian-oil-after-us-sanctions-waiver/article71157689.ece",
-        "published": "2026-06-28T13:29:48Z",
+        "title": "Trump administration seeks to unwind Iran sanctions, but the signals are scrambled",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-iran-sanctions-rollback-oil-crypto/",
+        "published": "2026-06-28T16:31:47Z",
         "sentiment": "watch"
       },
       {
-        "title": "Why is Article 5 of MoU causing confrontations in the Strait of Hormuz?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/28/why-is-article-5-of-mou-causing-confrontations-in-the-strait-of-hormuz",
-        "published": "2026-06-28T13:17:40Z",
-        "sentiment": "watch"
+        "title": "Iran warns ships not to bypass its chosen Hormuz route",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/06/iran-warns-ships-not-to-bypass-its-chosen-hormuz-route/",
+        "published": "2026-06-28T16:16:11Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Iran attacks Bahrain and Kuwait following U.S. strikes, threatens to halt talks to end war",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/iran-us-exchange-attacks-sunday-9.7251746",
-        "published": "2026-06-28T12:37:17Z",
+        "title": "Iran warns ships not to bypass its chosen Hormuz route",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-warns-ships-not-to-bypass-its-chosen-hormuz-route/articleshow/132054128.cms",
+        "published": "2026-06-28T15:30:33Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "FCCPC questions slow fuel price cuts despite crude oil crash",
+        "source": "The Punch",
+        "url": "https://punchng.com/fccpc-questions-slow-fuel-price-cuts-despite-crude-oil-crash/",
+        "published": "2026-06-28T14:40:23Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
