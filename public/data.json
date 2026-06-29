@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T21:09:39.205Z",
+    "generated_at": "2026-06-29T22:32:48.444Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,24 +27,31 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran doubles down on control of Strait of Hormuz after weekend of violence — as shipping traffic plummets",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4385853/posts",
+        "published": "2026-06-28T22:30:04Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "How US turned up the heat on Iran with Hormuz, Lebanon before ship strikes",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/06/28/world-news/how-us-turned-up-the-heat-on-iran-with-hormuz-lebanon-before-ship-strikes/",
+        "published": "2026-06-28T21:59:05Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Shipping giant warns Strait of Hormuz chaos is 'new normal' as Tehran shifts 4M barrels",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/shipping-giant-warns-strait-hormuz-chaos-new-normal-tehran-shifts-4m-barrels",
+        "published": "2026-06-28T21:47:36Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "We Are Entering The Most Dangerous Chapter Of World War III That We Have Experienced So Far As The Agreement With Iran Collapses",
         "source": "Theeconomiccollapseblog.com",
         "url": "http://theeconomiccollapseblog.com/we-are-entering-the-most-dangerous-chapter-of-world-war-iii-that-we-have-experienced-so-far-as-the-agreement-with-iran-collapses/",
         "published": "2026-06-28T20:55:47Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran, US escalate military strikes despite interim peace accord",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-us-military-strikes-strait-hormuz/",
-        "published": "2026-06-28T19:53:39Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran warns ships not to bypass its chosen Hormuz route",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/iran-warns-ships-not-bypass-its-chosen-hormuz-route-6216696",
-        "published": "2026-06-28T19:13:35Z",
         "sentiment": "danger"
       }
     ],
