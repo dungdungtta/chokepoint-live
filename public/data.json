@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T17:12:55.652Z",
+    "generated_at": "2026-06-29T19:16:49.134Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Strait of Hormuz open or close, Iran-US deal to collapse anytime? Tehran strikes against vital American bases in Kuwait, Bahrain, U. S attack multiple Iranian military targets",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/strait-of-hormuz-open-or-close-iran-us-deal-to-collapse-anytime-tehran-strikes-against-vital-american-bases-in-kuwait-bahrain-u-s-attack-multiple-iranian-military-targets/articleshow/132055541.cms",
-        "published": "2026-06-28T16:57:09Z",
+        "title": "Iran warns ships not to bypass its chosen Hormuz route",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/iran-warns-ships-not-bypass-its-chosen-hormuz-route-6216696",
+        "published": "2026-06-28T19:13:35Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump administration seeks to unwind Iran sanctions, but the signals are scrambled",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-sanctions-rollback-oil-crypto/",
-        "published": "2026-06-28T16:31:47Z",
+        "title": "U.S. Oil Stockpiles Fall To Critically Low Levels As Iran Continues To Mess With The Strait Of Hormuz",
+        "source": "Activistpost.com",
+        "url": "https://www.activistpost.com/u-s-oil-stockpiles-fall-to-critically-low-levels-as-iran-continues-to-mess-with-the-strait-of-hormuz/",
+        "published": "2026-06-28T19:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran warns ships not to bypass its chosen Hormuz route",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/06/iran-warns-ships-not-to-bypass-its-chosen-hormuz-route/",
-        "published": "2026-06-28T16:16:11Z",
-        "sentiment": "danger"
+        "title": "AI and Iran will speed up the energy transition",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-06-29/artificial-intelligence-china-iran-strait-of-hormuz-oil/106847742",
+        "published": "2026-06-28T19:00:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Iran warns ships not to bypass its chosen Hormuz route",
+        "title": "Gulf states 'colder, harder and more transactional' under US-Iran deal",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-06-29/gulf-states-under-the-us-iran-deal/106839790",
+        "published": "2026-06-28T18:46:32Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Easing of West Asia conflict reduces downside risk to 6.6% growth forecast: Ram Singh, Director, Delhi School of Economics",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-warns-ships-not-to-bypass-its-chosen-hormuz-route/articleshow/132054128.cms",
-        "published": "2026-06-28T15:30:33Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "FCCPC questions slow fuel price cuts despite crude oil crash",
-        "source": "The Punch",
-        "url": "https://punchng.com/fccpc-questions-slow-fuel-price-cuts-despite-crude-oil-crash/",
-        "published": "2026-06-28T14:40:23Z",
+        "url": "https://economictimes.indiatimes.com/news/economy/indicators/easing-of-west-asia-conflict-reduces-downside-risk-to-6-6-growth-forecast-ram-singh-director-delhi-school-of-economics/articleshow/132057546.cms",
+        "published": "2026-06-28T18:39:37Z",
         "sentiment": "watch"
       }
     ],
