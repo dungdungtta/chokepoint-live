@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T09:54:26.935Z",
+    "generated_at": "2026-06-29T14:11:52.186Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Saudi Arabia condemns Iranian attacks on Kuwait and Bahrain, pledges full support for Gulf neighbors",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/saudi-arabia-condemns-iran-attacks-gulf-2/",
-        "published": "2026-06-28T09:51:32Z",
+        "title": "Iran attacks Bahrain and Kuwait in response to U.S. airstrikes and threatens a ‘complete halt’ in peace talks as fighting over Hormuz continues",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/06/28/iran-drone-missile-attacks-bahrain-kuwait-us-airstrikes-peace-talks-hormuz-lebanon/",
+        "published": "2026-06-28T14:03:15Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran strikes Kuwait and Bahrain as escalating attacks threaten to unravel peace efforts",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/escalating-us-iran-strikes-threaten-unravel-peace-efforts-rcna352093",
-        "published": "2026-06-28T09:42:02Z",
+        "title": "‘They will never learn’: Trump launches new military action, warns ‘Iran will no longer exist!’",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/06/they-will-never-learn-trump-launches-new-military/",
+        "published": "2026-06-28T13:42:01Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran claims sole authority over Strait of Hormuz reopening, eyes Bitcoin for transit payments",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-strait-hormuz-bitcoin-payments/",
-        "published": "2026-06-28T09:28:39Z",
-        "sentiment": "neutral"
+        "title": "India eyes discounted Iranian oil after US sanctions waiver",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/india-eyes-discounted-iranian-oil-after-us-sanctions-waiver/article71157689.ece",
+        "published": "2026-06-28T13:29:48Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Iran launches attacks on US bases in Gulf as Trump warns of further military action",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/06/28/iran-launches-attacks-on-us-bases-in-gulf-as-trump-warns-of-further-military-action/",
-        "published": "2026-06-28T08:56:56Z",
-        "sentiment": "danger"
+        "title": "Why is Article 5 of MoU causing confrontations in the Strait of Hormuz?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/28/why-is-article-5-of-mou-causing-confrontations-in-the-strait-of-hormuz",
+        "published": "2026-06-28T13:17:40Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Trump again threatens Iran with annihilation as Kuwait and Bahrain report attacks",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html",
-        "published": "2026-06-28T08:43:32Z",
+        "title": "Iran attacks Bahrain and Kuwait following U.S. strikes, threatens to halt talks to end war",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/iran-us-exchange-attacks-sunday-9.7251746",
+        "published": "2026-06-28T12:37:17Z",
         "sentiment": "danger"
       }
     ],
