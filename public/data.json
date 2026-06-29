@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T04:49:57.834Z",
+    "generated_at": "2026-06-29T09:54:26.935Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump Threatens to 'Complete the Job' in Iran as US and Iran Trade Strikes Near the Strait of Hormuz",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/tensions-escalate-trump-threatens-iran-ceasefire-violations-1871455",
-        "published": "2026-06-28T04:01:49Z",
+        "title": "Saudi Arabia condemns Iranian attacks on Kuwait and Bahrain, pledges full support for Gulf neighbors",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/saudi-arabia-condemns-iran-attacks-gulf-2/",
+        "published": "2026-06-28T09:51:32Z",
         "sentiment": "danger"
       },
       {
-        "title": "US Carries Out Fresh Strikes Against Iran After Tanker Struck In Hormuz, Escalating Hostilities",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/us-carries-out-fresh-strikes-against-iran-after-tanker-struck-in-hormuz-escalating-hostilities/",
-        "published": "2026-06-28T02:36:53Z",
+        "title": "Iran strikes Kuwait and Bahrain as escalating attacks threaten to unravel peace efforts",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/escalating-us-iran-strikes-threaten-unravel-peace-efforts-rcna352093",
+        "published": "2026-06-28T09:42:02Z",
         "sentiment": "danger"
       },
       {
-        "title": "CENTCOM Launches Strikes After Iran Drone Hits Panama-Flagged Oil Tanker",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/06/27/centcom-launches-strikes-after-iran-drone-hits-panama-flagged-oil-tanker/",
-        "published": "2026-06-28T01:40:23Z",
+        "title": "Iran claims sole authority over Strait of Hormuz reopening, eyes Bitcoin for transit payments",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-strait-hormuz-bitcoin-payments/",
+        "published": "2026-06-28T09:28:39Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Iran launches attacks on US bases in Gulf as Trump warns of further military action",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/06/28/iran-launches-attacks-on-us-bases-in-gulf-as-trump-warns-of-further-military-action/",
+        "published": "2026-06-28T08:56:56Z",
         "sentiment": "danger"
       },
       {
-        "title": "Playing With Fire: Iran Hits Another Commercial Vessel in the Strait, US Promptly Unloads Bombs",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4385757/posts",
-        "published": "2026-06-28T01:17:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Conducts Additional Military Strikes Against Iran",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4385754/posts",
-        "published": "2026-06-28T01:00:15Z",
+        "title": "Trump again threatens Iran with annihilation as Kuwait and Bahrain report attacks",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html",
+        "published": "2026-06-28T08:43:32Z",
         "sentiment": "danger"
       }
     ],
