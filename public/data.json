@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T06:20:51.815Z",
+    "generated_at": "2026-06-30T10:09:04.044Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil climbs after renewed US, Iran strikes in Middle East",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/0629/1580810-world-oil-prices/",
-        "published": "2026-06-29T06:14:57Z",
-        "sentiment": "danger"
+        "title": "Pakistan Urgently Seeks LNG as Hormuz Flare-Up Chokes Supply",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/pakistan-urgently-seeks-lng-as-hormuz-flare-up-chokes-supply/",
+        "published": "2026-06-29T10:07:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "CNBC Daily Open: Hostilities halted again as peace talks continue",
+        "title": "China's economy picks up in June on rebounding U.S. exports, analysts say",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/29/cnbc-daily-open-iran-ecb-meta-google-sk-hynix-samsung.html",
-        "published": "2026-06-29T06:04:12Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Oman Rules Out Strait of Hormuz Transit Fees as Tehran, Muscat Form Joint Oversight Panel",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-06-29-oman-rules-out-strait-hormuz-transit-fees.html",
-        "published": "2026-06-29T06:00:00Z",
+        "url": "https://www.cnbc.com/2026/06/29/china-economy-june-trade-exports-manufacturing-tariffs-iran-war-consumption-ai-technology-.html",
+        "published": "2026-06-29T10:00:02Z",
         "sentiment": "watch"
       },
       {
-        "title": "A legal catastrophe",
-        "source": "Theecologist.org",
-        "url": "https://theecologist.org/2026/jun/29/legal-catastrophe",
-        "published": "2026-06-29T06:00:00Z",
+        "title": "Strait of Hormuz crisis: India’s decade-long energy strategy cushions supply shocks",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/strait-of-hormuz-crisis-indias-decade-long-energy-strategy-cushions-supply-shocks/article71160667.ece",
+        "published": "2026-06-29T09:47:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "US, Iran Agree to Halt Strikes—for Now",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/391870/us-iran-agree-to-halt-strikes-for-now.html",
-        "published": "2026-06-29T06:00:00Z",
+        "title": "Hormuz Traffic Drops Off as Vessel Attacks Raise Fresh Concerns",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/06/29/875606.htm",
+        "published": "2026-06-29T09:46:09Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "OEUK Says Urgent Decisions Needed on Rosebank, Jackdaw",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/oeuk_says_urgent_decisions_needed_on_rosebank_jackdaw-29-jun-2026-184008-article/",
+        "published": "2026-06-29T09:39:30Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
