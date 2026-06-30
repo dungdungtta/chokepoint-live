@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T23:44:04.492Z",
+    "generated_at": "2026-06-30T01:53:13.729Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "US and Iran continue technical talks on memorandum of understanding as vessels cleared to move freely",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-technical-talks-memorandum-understanding/",
-        "published": "2026-06-28T23:36:15Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Oil prices rise as US and Iran trade airstrikes, sending ripples through crypto markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-prices-rise-us-iran-airstrikes-crypto/",
-        "published": "2026-06-28T22:52:43Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran doubles down on control of Strait of Hormuz after weekend of violence — as shipping traffic plummets",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4385853/posts",
-        "published": "2026-06-28T22:30:04Z",
+        "title": "Dollar poised for best month in nearly a year; eyes on jobs data, Gulf tension",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/dollar-poised-best-month-in-nearly-year-eyes-jobs-data-gulf-tension-6217181",
+        "published": "2026-06-29T01:50:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "How US turned up the heat on Iran with Hormuz, Lebanon before ship strikes",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/06/28/world-news/how-us-turned-up-the-heat-on-iran-with-hormuz-lebanon-before-ship-strikes/",
-        "published": "2026-06-28T21:59:05Z",
-        "sentiment": "danger"
+        "title": "Dollar poised for best month in nearly a year; eyes on Gulf tension, jobs data",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/dollar-poised-best-month-in-nearly-year-eyes-gulf-tension-jobs-data-6217181",
+        "published": "2026-06-29T01:50:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Gold price prediction: Why is gold rate down today? What to expect for bullion in July, August",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-why-is-gold-rate-down-today-what-to-expect-for-bullion-in-july-august/articleshow/132060894.cms",
+        "published": "2026-06-29T01:37:52Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "FCCPC probes exploitative fuel pricing despite falling oil costs",
+        "source": "The Punch",
+        "url": "https://punchng.com/fccpc-probes-exploitative-fuel-pricing-despite-falling-oil-costs/",
+        "published": "2026-06-29T01:24:35Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Gold Declines as Fresh US-Iran Tension Fans Inflation Concerns",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/gold-declines-as-fresh-us-iran-tension-fans-inflation-concerns",
+        "published": "2026-06-29T01:15:35Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Is Taiwan’s President Playing With Political Fire?",
+        "source": "Antiwar.com",
+        "url": "https://original.antiwar.com/ted_galen_carpenter/2026/06/28/is-taiwans-president-playing-with-political-fire/",
+        "published": "2026-06-29T00:00:05Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China’s place in the new world order",
         "source": "Peoplesreview.com.np",
@@ -83,13 +97,6 @@
         "url": "https://thediplomat.com/2026/06/has-china-really-entered-the-three-carrier-era/",
         "published": "2026-06-26T15:02:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "The Iran Deal: A Bad End to an Unnecessary War",
-        "source": "Fair Observer",
-        "url": "https://www.fairobserver.com/world-news/middle-east-news/the-iran-deal-a-bad-end-to-an-unnecessary-war/",
-        "published": "2026-06-26T13:23:14Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
