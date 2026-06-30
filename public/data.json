@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T01:53:13.729Z",
+    "generated_at": "2026-06-30T06:20:51.815Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Dollar poised for best month in nearly a year; eyes on jobs data, Gulf tension",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/dollar-poised-best-month-in-nearly-year-eyes-jobs-data-gulf-tension-6217181",
-        "published": "2026-06-29T01:50:12Z",
+        "title": "Oil climbs after renewed US, Iran strikes in Middle East",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0629/1580810-world-oil-prices/",
+        "published": "2026-06-29T06:14:57Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "CNBC Daily Open: Hostilities halted again as peace talks continue",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/29/cnbc-daily-open-iran-ecb-meta-google-sk-hynix-samsung.html",
+        "published": "2026-06-29T06:04:12Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Oman Rules Out Strait of Hormuz Transit Fees as Tehran, Muscat Form Joint Oversight Panel",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-06-29-oman-rules-out-strait-hormuz-transit-fees.html",
+        "published": "2026-06-29T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Dollar poised for best month in nearly a year; eyes on Gulf tension, jobs data",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/dollar-poised-best-month-in-nearly-year-eyes-gulf-tension-jobs-data-6217181",
-        "published": "2026-06-29T01:50:12Z",
+        "title": "A legal catastrophe",
+        "source": "Theecologist.org",
+        "url": "https://theecologist.org/2026/jun/29/legal-catastrophe",
+        "published": "2026-06-29T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Gold price prediction: Why is gold rate down today? What to expect for bullion in July, August",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-why-is-gold-rate-down-today-what-to-expect-for-bullion-in-july-august/articleshow/132060894.cms",
-        "published": "2026-06-29T01:37:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "FCCPC probes exploitative fuel pricing despite falling oil costs",
-        "source": "The Punch",
-        "url": "https://punchng.com/fccpc-probes-exploitative-fuel-pricing-despite-falling-oil-costs/",
-        "published": "2026-06-29T01:24:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Gold Declines as Fresh US-Iran Tension Fans Inflation Concerns",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/gold-declines-as-fresh-us-iran-tension-fans-inflation-concerns",
-        "published": "2026-06-29T01:15:35Z",
-        "sentiment": "watch"
+        "title": "US, Iran Agree to Halt Strikes—for Now",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/391870/us-iran-agree-to-halt-strikes-for-now.html",
+        "published": "2026-06-29T06:00:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Facing China, One Taiwan Coast Guard Officer Draws Strength From The Gods",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/facing-china-one-taiwan-coast-guard-officer-draws-strength-from-the-gods/",
+        "published": "2026-06-29T03:29:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Facing China, one Taiwan Coast Guard officer draws strength from the gods",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/world/articles/facing-china-one-taiwan-coast-010336678.html",
+        "published": "2026-06-29T01:03:36Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Is Taiwan’s President Playing With Political Fire?",
         "source": "Antiwar.com",
@@ -82,20 +96,6 @@
         "source": "Forbes",
         "url": "https://www.forbes.com/sites/jillgoldenziel/2026/06/26/forget-hormuz-the-shadow-fleet-is-the-next-maritime-crisis/",
         "published": "2026-06-26T18:04:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What in the World?",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/06/26/news-quiz-colombia-election-right-wing-starmer-resign-uk-trump-rutte-nato/",
-        "published": "2026-06-26T17:29:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Has China Really Entered the Three-Carrier Era?",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/06/has-china-really-entered-the-three-carrier-era/",
-        "published": "2026-06-26T15:02:00Z",
         "sentiment": "watch"
       }
     ],
