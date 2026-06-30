@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T21:16:31.910Z",
+    "generated_at": "2026-06-30T22:52:32.807Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "Taking a Flight or Road Trip This July Fourth? Use These Tips to Travel Smarter and Cheaper",
+        "source": "CNET",
+        "url": "https://www.cnet.com/news/july-fourth-weekend-travel-tips/",
+        "published": "2026-06-29T22:33:19Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "We Are Entering The Most Dangerous Chapter Of World War III As The Agreement With Iran Collapses",
+        "source": "Shtfplan.com",
+        "url": "https://www.shtfplan.com/headline-news/we-are-entering-the-most-dangerous-chapter-of-world-war-iii-as-the-agreement-with-iran-collapses",
+        "published": "2026-06-29T22:30:29Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump’s weekend strikes on Iran spark Monday stock rallies",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-iran-strikes-monday-stock-rallies/",
+        "published": "2026-06-29T22:25:28Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump says Iran meeting to take place in Qatar",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/06/trump-says-iran-meeting-to-take-place-in-qatar-2/",
+        "published": "2026-06-29T21:41:16Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Strait of Hormuz attacks expose fragility of US-Iran ceasefire",
         "source": "ABC News (AU)",
         "url": "https://www.abc.net.au/news/2026-06-30/strait-of-hormuz-attacks-expose-fragility-of-ceasefire/106856798",
         "published": "2026-06-29T20:13:03Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Rises as Peace Talks Resume",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_rises_as_peace_talks_resume-29-jun-2026-184016-article/",
-        "published": "2026-06-29T19:53:16Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Hormuz tanker traffic plunges after US strikes on Iran",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/hormuz-tanker-traffic-plunges-us-iran-strikes/",
-        "published": "2026-06-29T19:49:12Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Crude oil rises as US-Iran peace talks resume, Hormuz risks linger",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/crude-oil-rises-us-iran-talks-hormuz/",
-        "published": "2026-06-29T19:45:13Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "German Shipping Giant Warns Strait of Hormuz Chaos Is the ‘New Normal’",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/06/29/german-shipping-giant-warns-strait-of-hormuz-chaos-is-the-new-normal/",
-        "published": "2026-06-29T18:25:50Z",
         "sentiment": "danger"
       }
     ],
