@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T12:25:14.621Z",
+    "generated_at": "2026-06-30T15:14:19.876Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Traffic In Strait Of Hormuz Drops Sharply",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260629-rferl03.htm",
-        "published": "2026-06-29T12:00:00Z",
+        "title": "Halliburton, Valero and 3 More Stocks Set Up for a Fragile Hormuz Truce",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Halliburton-Valero-and-3-More-Stocks-Set-Up-for-a-Fragile-Hormuz-Truce.html",
+        "published": "2026-06-29T15:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Gov't says all Filipinos aboard attacked vessels in Hormuz safe",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260629-pna02.htm",
-        "published": "2026-06-29T12:00:00Z",
+        "title": "Trump says Iran meeting to take place in Qatar",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/06/trump-says-iran-meeting-to-take-place-in-qatar/",
+        "published": "2026-06-29T14:58:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c872rjw17qpo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "published": "2026-06-29T14:52:16Z",
         "sentiment": "danger"
       },
       {
-        "title": "Strait of Hormuz Tanker Traffic Slows After Fresh U.S.-Iran Strikes",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Strait-of-Hormuz-Tanker-Traffic-Slows-After-Fresh-US-Iran-Strikes.html",
-        "published": "2026-06-29T12:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran attacks two ships, disrupting reopening of Strait of Hormuz",
+        "title": "Iraqi oil shipments resume transit through Strait of Hormuz amid US-Iran ceasefire",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-attacks-ships-strait-of-hormuz/",
-        "published": "2026-06-29T11:54:07Z",
-        "sentiment": "danger"
+        "url": "https://cryptobriefing.com/iraqi-oil-strait-hormuz-us-iran-ceasefire/",
+        "published": "2026-06-29T14:43:25Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "S&P 500 Nasdaq futures rise after U.S.-Iran pause June 2026",
-        "source": "Quartz India",
-        "url": "https://qz.com/stock-futures-nasdaq-sp500-us-iran-hostilities-pause-062926",
-        "published": "2026-06-29T11:33:07Z",
+        "title": "Pakistan Urgently Seeks LNG",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/pakistan_urgently_seeks_lng-29-jun-2026-184014-article/",
+        "published": "2026-06-29T14:41:36Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "‘Subversive Carrots’ and China’s Economic Influence Over the World",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/06/subversive-carrots-and-chinas-economic-influence-over-the-world/",
+        "published": "2026-06-29T14:48:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Facing China, One Taiwan Coast Guard Officer Draws Strength From The Gods",
         "source": "gcaptain.com",
@@ -89,13 +96,6 @@
         "source": "Peoplesreview.com.np",
         "url": "https://peoplesreview.com.np/2026/06/28/chinas-place-in-the-new-world-order/",
         "published": "2026-06-28T04:45:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Forget Hormuz. The Shadow Fleet Is The Next Maritime Crisis.",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/jillgoldenziel/2026/06/26/forget-hormuz-the-shadow-fleet-is-the-next-maritime-crisis/",
-        "published": "2026-06-26T18:04:35Z",
         "sentiment": "watch"
       }
     ],
