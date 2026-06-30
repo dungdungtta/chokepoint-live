@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T15:14:19.876Z",
+    "generated_at": "2026-06-30T17:18:31.995Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Halliburton, Valero and 3 More Stocks Set Up for a Fragile Hormuz Truce",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Halliburton-Valero-and-3-More-Stocks-Set-Up-for-a-Fragile-Hormuz-Truce.html",
-        "published": "2026-06-29T15:00:00Z",
+        "title": "Alphabet joins Dow Jones as index tops 52,000 for first time",
+        "source": "Quartz India",
+        "url": "https://qz.com/alphabet-dow-jones-52000-record-close-062926",
+        "published": "2026-06-29T17:00:03Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump says Iran meeting to take place in Qatar",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/06/trump-says-iran-meeting-to-take-place-in-qatar/",
-        "published": "2026-06-29T14:58:38Z",
+        "title": "California’s Hidden Climate Tax on Everything You Buy",
+        "source": "Wattsupwiththat.com",
+        "url": "https://wattsupwiththat.com/2026/06/29/californias-hidden-climate-tax-on-everything-you-buy/",
+        "published": "2026-06-29T17:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c872rjw17qpo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "published": "2026-06-29T14:52:16Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iraqi oil shipments resume transit through Strait of Hormuz amid US-Iran ceasefire",
+        "title": "Tehran set for massive cash boost as US-Iran shipping deal reopens Strait of Hormuz",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iraqi-oil-strait-hormuz-us-iran-ceasefire/",
-        "published": "2026-06-29T14:43:25Z",
+        "url": "https://cryptobriefing.com/us-iran-shipping-deal-tehran-cash-boost/",
+        "published": "2026-06-29T16:36:54Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Pakistan Urgently Seeks LNG",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/pakistan_urgently_seeks_lng-29-jun-2026-184014-article/",
-        "published": "2026-06-29T14:41:36Z",
-        "sentiment": "watch"
+        "title": "AI frenzy adds to risks facing already vulnerable global economy, warns BIS",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/fp-finance/banking/bis-warns-ai-frenzy-adds-risks-global-economy",
+        "published": "2026-06-29T16:22:52Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
