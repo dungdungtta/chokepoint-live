@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T10:09:04.044Z",
+    "generated_at": "2026-06-30T12:25:14.621Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Pakistan Urgently Seeks LNG as Hormuz Flare-Up Chokes Supply",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/pakistan-urgently-seeks-lng-as-hormuz-flare-up-chokes-supply/",
-        "published": "2026-06-29T10:07:00Z",
+        "title": "Traffic In Strait Of Hormuz Drops Sharply",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260629-rferl03.htm",
+        "published": "2026-06-29T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "China's economy picks up in June on rebounding U.S. exports, analysts say",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/29/china-economy-june-trade-exports-manufacturing-tariffs-iran-war-consumption-ai-technology-.html",
-        "published": "2026-06-29T10:00:02Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Strait of Hormuz crisis: India’s decade-long energy strategy cushions supply shocks",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/strait-of-hormuz-crisis-indias-decade-long-energy-strategy-cushions-supply-shocks/article71160667.ece",
-        "published": "2026-06-29T09:47:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hormuz Traffic Drops Off as Vessel Attacks Raise Fresh Concerns",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/06/29/875606.htm",
-        "published": "2026-06-29T09:46:09Z",
+        "title": "Gov't says all Filipinos aboard attacked vessels in Hormuz safe",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260629-pna02.htm",
+        "published": "2026-06-29T12:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "OEUK Says Urgent Decisions Needed on Rosebank, Jackdaw",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/oeuk_says_urgent_decisions_needed_on_rosebank_jackdaw-29-jun-2026-184008-article/",
-        "published": "2026-06-29T09:39:30Z",
+        "title": "Strait of Hormuz Tanker Traffic Slows After Fresh U.S.-Iran Strikes",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Strait-of-Hormuz-Tanker-Traffic-Slows-After-Fresh-US-Iran-Strikes.html",
+        "published": "2026-06-29T12:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran attacks two ships, disrupting reopening of Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-attacks-ships-strait-of-hormuz/",
+        "published": "2026-06-29T11:54:07Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "S&P 500 Nasdaq futures rise after U.S.-Iran pause June 2026",
+        "source": "Quartz India",
+        "url": "https://qz.com/stock-futures-nasdaq-sp500-us-iran-hostilities-pause-062926",
+        "published": "2026-06-29T11:33:07Z",
         "sentiment": "watch"
       }
     ],
