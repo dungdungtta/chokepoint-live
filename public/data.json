@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T17:18:31.995Z",
+    "generated_at": "2026-06-30T19:21:37.107Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Alphabet joins Dow Jones as index tops 52,000 for first time",
-        "source": "Quartz India",
-        "url": "https://qz.com/alphabet-dow-jones-52000-record-close-062926",
-        "published": "2026-06-29T17:00:03Z",
+        "title": "German Shipping Giant Warns Strait of Hormuz Chaos Is the ‘New Normal’",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/06/29/german-shipping-giant-warns-strait-of-hormuz-chaos-is-the-new-normal/",
+        "published": "2026-06-29T18:25:50Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Advance Auto Parts Independence Day Sale: Up to 80% off + free shipping w/ $35",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Advance-Auto-Parts-Independence-Day-Sale-Up-to-80-off-free-shipping-w-35/21862779.html",
+        "published": "2026-06-29T18:11:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "California’s Hidden Climate Tax on Everything You Buy",
-        "source": "Wattsupwiththat.com",
-        "url": "https://wattsupwiththat.com/2026/06/29/californias-hidden-climate-tax-on-everything-you-buy/",
-        "published": "2026-06-29T17:00:00Z",
+        "title": "ING: Oil Prices Have Overshot To The Downside",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/ING-Oil-Prices-Have-Overshot-To-The-Downside.html",
+        "published": "2026-06-29T18:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Tehran set for massive cash boost as US-Iran shipping deal reopens Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-shipping-deal-tehran-cash-boost/",
-        "published": "2026-06-29T16:36:54Z",
-        "sentiment": "neutral"
+        "title": "Hormuz Oil Transits Continue Though Attacks Make Owners Wary",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/hormuz-oil-transits-continue-though-attacks-make-owners-wary/",
+        "published": "2026-06-29T17:36:33Z",
+        "sentiment": "danger"
       },
       {
-        "title": "AI frenzy adds to risks facing already vulnerable global economy, warns BIS",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/fp-finance/banking/bis-warns-ai-frenzy-adds-risks-global-economy",
-        "published": "2026-06-29T16:22:52Z",
+        "title": "Mediators Set Up De-escalation Channels Ahead of US-Iran Talks",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/mediators-set-up-de-escalation-channels-ahead-of-us-iran-talks/",
+        "published": "2026-06-29T17:23:55Z",
         "sentiment": "danger"
       }
     ],
