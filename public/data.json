@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T19:23:55.862Z",
+    "generated_at": "2026-07-01T21:09:26.357Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran’s Qalibaf confirms toll-free Strait of Hormuz passage limited to 60 days under US deal",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-qalibaf-strait-hormuz-toll-free-60-days/",
-        "published": "2026-06-30T19:16:18Z",
+        "title": "U.S. lifts oil sanctions on Iran amid chaotic talks",
+        "source": "The Week Magazine",
+        "url": "https://theweek.com/politics/us-lifts-oil-sanctions-on-iran-amid-chaotic-talks",
+        "published": "2026-06-30T21:07:53Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Why a Supply Crunch From Iran Could Send Oil Back Below $40 a Barrel",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Oil-Prices/Why-a-Supply-Crunch-From-Iran-Could-Send-Oil-Back-Below-40-a-Barrel.html",
+        "published": "2026-06-30T21:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "I’m in two minds about climate change. But unlike Paulne Hanson, I believe the science",
-        "source": "The Sydney Morning Herald",
-        "url": "https://www.smh.com.au/business/the-economy/i-m-in-two-minds-about-climate-change-but-not-like-hanson-20260630-p60bcm.html",
-        "published": "2026-06-30T19:00:00Z",
+        "title": "Best Linen Shirts for Men to Wear This Summer, According to a Recovering Cotton Addict",
+        "source": "Rolling Stone",
+        "url": "http://www.rollingstone.com/product-recommendations/style/best-linen-shirts-for-men-buy-online-1235586533/",
+        "published": "2026-06-30T21:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "2.7-Oz e.l.f. Power Grip Dewy Setting Spray w/ Hyaluronic Acid $4.50 w/ S&S + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19705725-2-7-oz-e-l-f-power-grip-dewy-setting-spray-w-hyaluronic-acid-4-50-w-s-s-free-shipping-w-prime-or-on-35",
-        "published": "2026-06-30T18:58:58Z",
+        "title": "440-Powered 1968 Plymouth Road Runner Hardtop 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1968-plymouth-road-runner-47/",
+        "published": "2026-06-30T20:45:52Z",
         "sentiment": "watch"
       },
       {
-        "title": "Febreze Plug-in Scented Oil Air Freshener Refills 4-Pack for $14 w/ Sub & Save + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Febreze-Plug-in-Scented-Oil-Air-Freshener-Refills-4-Pack-for-14-w-Sub-Save-free-shipping/21864394.html",
-        "published": "2026-06-30T18:36:12Z",
+        "title": "Report Challenges National Security Case for Extended Jones Act Waiver",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/report-challenges-national-security-case-for-extended-jones-act-waiver/",
+        "published": "2026-06-30T20:26:59Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran exports 50M barrels of crude oil in two weeks as blockade lifts",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-50-million-barrels-crude-oil-blockade-lifted/",
-        "published": "2026-06-30T18:24:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
