@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T22:52:32.807Z",
+    "generated_at": "2026-07-01T00:15:31.809Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "FEC approves N3.94tn for roads, vessels, others",
+        "source": "The Punch",
+        "url": "https://punchng.com/fec-approves-n3-94tn-for-roads-vessels-others/",
+        "published": "2026-06-30T00:09:42Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Chinese Asphalt Tanker Makes Second U.S. Coastwise Voyage Under Jones Act Waiver",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/chinese-asphalt-tanker-makes-second-u-s-coastwise-voyage-under-jones-act-waiver/",
+        "published": "2026-06-29T23:32:11Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Taking a Flight or Road Trip This July Fourth? Use These Tips to Travel Smarter and Cheaper",
         "source": "CNET",
         "url": "https://www.cnet.com/news/july-fourth-weekend-travel-tips/",
@@ -45,20 +59,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/trump-iran-strikes-monday-stock-rallies/",
         "published": "2026-06-29T22:25:28Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump says Iran meeting to take place in Qatar",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/06/trump-says-iran-meeting-to-take-place-in-qatar-2/",
-        "published": "2026-06-29T21:41:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Strait of Hormuz attacks expose fragility of US-Iran ceasefire",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-06-30/strait-of-hormuz-attacks-expose-fragility-of-ceasefire/106856798",
-        "published": "2026-06-29T20:13:03Z",
         "sentiment": "danger"
       }
     ],
