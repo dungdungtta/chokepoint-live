@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T21:09:26.357Z",
+    "generated_at": "2026-07-01T22:41:18.030Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "US ally proposes teaming up with Iran to charge Strait of Hormuz toll — despite strong opposition",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/06/30/world-news/us-ally-proposes-teaming-up-with-iran-to-charge-strait-of-hormuz-toll/",
+        "published": "2026-06-30T21:32:23Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "U.S. lifts oil sanctions on Iran amid chaotic talks",
         "source": "The Week Magazine",
         "url": "https://theweek.com/politics/us-lifts-oil-sanctions-on-iran-amid-chaotic-talks",
@@ -52,13 +59,6 @@
         "source": "Bringatrailer.com",
         "url": "https://bringatrailer.com/listing/1968-plymouth-road-runner-47/",
         "published": "2026-06-30T20:45:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Report Challenges National Security Case for Extended Jones Act Waiver",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/report-challenges-national-security-case-for-extended-jones-act-waiver/",
-        "published": "2026-06-30T20:26:59Z",
         "sentiment": "watch"
       }
     ],
