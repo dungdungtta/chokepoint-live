@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T22:41:18.030Z",
+    "generated_at": "2026-07-01T23:57:49.947Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "One-Owner 2007 Harley-Davidson Softail Deuce at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/2007-harley-davidson-softail-21/",
+        "published": "2026-06-30T23:23:26Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "India’s Russian Oil Boom Outlives the Hormuz Shock",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Indias-Russian-Oil-Boom-Outlives-the-Hormuz-Shock.html",
+        "published": "2026-06-30T23:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US ally proposes teaming up with Iran to charge Strait of Hormuz toll — despite strong opposition",
         "source": "New York Post",
         "url": "https://nypost.com/2026/06/30/world-news/us-ally-proposes-teaming-up-with-iran-to-charge-strait-of-hormuz-toll/",
@@ -45,20 +59,6 @@
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Energy/Oil-Prices/Why-a-Supply-Crunch-From-Iran-Could-Send-Oil-Back-Below-40-a-Barrel.html",
         "published": "2026-06-30T21:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Best Linen Shirts for Men to Wear This Summer, According to a Recovering Cotton Addict",
-        "source": "Rolling Stone",
-        "url": "http://www.rollingstone.com/product-recommendations/style/best-linen-shirts-for-men-buy-online-1235586533/",
-        "published": "2026-06-30T21:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "440-Powered 1968 Plymouth Road Runner Hardtop 4-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1968-plymouth-road-runner-47/",
-        "published": "2026-06-30T20:45:52Z",
         "sentiment": "watch"
       }
     ],
