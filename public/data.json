@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T00:15:31.809Z",
+    "generated_at": "2026-07-01T05:08:04.980Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "FEC approves N3.94tn for roads, vessels, others",
-        "source": "The Punch",
-        "url": "https://punchng.com/fec-approves-n3-94tn-for-roads-vessels-others/",
-        "published": "2026-06-30T00:09:42Z",
+        "title": "Sensex slips below 77,000, Nifty holds near 23,900 in volatile monthly expiry session",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/stock-markets/sensex-slips-below-77000-nifty-holds-near-23900-in-volatile-monthly-expiry-session/article71164359.ece",
+        "published": "2026-06-30T04:11:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "Chinese Asphalt Tanker Makes Second U.S. Coastwise Voyage Under Jones Act Waiver",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/chinese-asphalt-tanker-makes-second-u-s-coastwise-voyage-under-jones-act-waiver/",
-        "published": "2026-06-29T23:32:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taking a Flight or Road Trip This July Fourth? Use These Tips to Travel Smarter and Cheaper",
-        "source": "CNET",
-        "url": "https://www.cnet.com/news/july-fourth-weekend-travel-tips/",
-        "published": "2026-06-29T22:33:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "We Are Entering The Most Dangerous Chapter Of World War III As The Agreement With Iran Collapses",
-        "source": "Shtfplan.com",
-        "url": "https://www.shtfplan.com/headline-news/we-are-entering-the-most-dangerous-chapter-of-world-war-iii-as-the-agreement-with-iran-collapses",
-        "published": "2026-06-29T22:30:29Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump’s weekend strikes on Iran spark Monday stock rallies",
+        "title": "Lee Jae-myung reports 24 South Korean vessels have exited the Strait of Hormuz",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-strikes-monday-stock-rallies/",
-        "published": "2026-06-29T22:25:28Z",
-        "sentiment": "danger"
+        "url": "https://cryptobriefing.com/south-korean-vessels-exit-strait-of-hormuz/",
+        "published": "2026-06-30T04:00:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "[S&S]5 Quarts Castrol GTX High Mileage 5W-20 Synthetic Blend Motor Oil $14.2 + Free S&H w/ Prime or $35+ (0 replies)",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19703007-s-s-5-quarts-castrol-gtx-high-mileage-5w-20-synthetic-blend-motor-oil-14-2-free-s-h-w-prime-or-35",
+        "published": "2026-06-30T03:28:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "ASX 200 Ends Flat at 8,820 After Volatile Day, Even as Neuren Pharmaceuticals Stuns With 36% Surge",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/asx-200-closes-flat-geopolitical-easing-biotech-surge-1871574",
+        "published": "2026-06-30T02:50:52Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Positive opening seen for Indian stocks",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/positive-opening-seen-for-indian-stocks/article71164218.ece",
+        "published": "2026-06-30T02:32:34Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
