@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T12:14:30.103Z",
+    "generated_at": "2026-07-01T15:15:27.866Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Govt extends customs duty waiver on import of key petrochemical products till July 15",
+        "title": "Economy resilient but risks from monsoon, geopolitical uncertainties remain: FinMin report",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/petrochem/govt-extends-customs-duty-waiver-on-import-of-key-petrochemical-products-till-july-15/articleshow/132093054.cms",
-        "published": "2026-06-30T12:11:18Z",
+        "url": "https://economictimes.indiatimes.com/news/economy/policy/economy-resilient-but-risks-from-monsoon-geopolitical-uncertainties-remain-finmin-report/articleshow/132095875.cms",
+        "published": "2026-06-30T15:13:22Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran holds talks for release of frozen funds in Qatar, no US meeting expected",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/iran-holds-talks-for-release-of-frozen-funds-in-qatar-no-us-meeting-expected-223854",
-        "published": "2026-06-30T12:10:55Z",
-        "sentiment": "neutral"
+        "title": "Inflation readings may remain relatively contained in coming months, says FinMin report",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/inflation-readings-may-remain-relatively-contained-in-coming-months-says-finmin-report/article71166570.ece",
+        "published": "2026-06-30T14:57:34Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/30/are-us-and-iranian-negotiators-meeting-in-doha-what-we-know-about-talks",
-        "published": "2026-06-30T11:57:22Z",
-        "sentiment": "neutral"
+        "title": "Markets Can't Price a Tweet, Industry Warns",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/markets_cant_price_a_tweet_industry_warns-30-jun-2026-184026-article/",
+        "published": "2026-06-30T14:27:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Centre extends duty relief on key petrochemical products till July 15",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/centre-extends-duty-relief-on-key-petrochemical-products-till-july-15/articleshow/132092369.cms",
-        "published": "2026-06-30T11:38:03Z",
-        "sentiment": "neutral"
+        "title": "The New Five Forces, Part 4: Environment and Its Regulation",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/more/environment/the-new-five-forces-part-4-environment-and-its-regulation/",
+        "published": "2026-06-30T14:10:21Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Abu Dhabi proposes new oil-pricing system to mirror wider market",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/abu-dhabi-proposes-new-oil-pricing-system-to-mirror-wider-market/articleshow/132092137.cms",
-        "published": "2026-06-30T11:23:18Z",
+        "title": "Omen AI Raises $31M Series A to Bring Continuous Fluid Intelligence to the Machines Powering the AI Economy",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/omen-ai-raises-31m-series-a-to-bring-continuous-fluid-intelligence-to-the-machines-powering-the-ai-economy-302814262.html",
+        "published": "2026-06-30T14:00:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Xi Jinping Just Made It a Crime to Be Taiwanese",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/06/xi-jinping-just-made-it-a-crime-to-be-taiwanese/",
+        "published": "2026-06-30T12:51:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Daily Geopolitical Review - 30/06/2026",
         "source": "Blogspot.com",
@@ -89,13 +96,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/06/subversive-carrots-and-chinas-economic-influence-over-the-world/",
         "published": "2026-06-29T14:48:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Facing China, One Taiwan Coast Guard Officer Draws Strength From The Gods",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/facing-china-one-taiwan-coast-guard-officer-draws-strength-from-the-gods/",
-        "published": "2026-06-29T03:29:12Z",
         "sentiment": "watch"
       }
     ],
