@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T04:15:20.943Z",
+    "generated_at": "2026-07-02T07:50:50.169Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Are America’s Gulf bases Turning Allies into Targets?",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/07/americas-turning-targets.html",
-        "published": "2026-07-01T04:06:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Kushner, Witkoff Claim 'Positive' Qatar Talks as Technical Negotiations Move Ahead — Report",
-        "source": "Sputnikglobe.com",
-        "url": "https://sputnikglobe.com/20260701/kushner-witkoff-claim-positive-qatar-talks-as-technical-negotiations-move-ahead--report-1124380202.html",
-        "published": "2026-07-01T03:58:00Z",
+        "title": "US Keeps Military Option Alive As Iran Talks Near A Critical Test",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/iran-us-military-option-talks-cfr-vance/33793182.html",
+        "published": "2026-07-01T07:26:49Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Sanctions Lifted: Iran Selling Oil 20% More Expensive — Ghalibaf",
-        "source": "Sputnikglobe.com",
-        "url": "https://sputnikglobe.com/20260701/sanctions-lifted-iran-selling-oil-20-more-expensive--ghalibaf-1124379966.html",
-        "published": "2026-07-01T03:44:00Z",
+        "title": "Alberta poised to make West Coast pipeline announcement on Thursday",
+        "source": "National Observer",
+        "url": "https://www.nationalobserver.com/2026/06/30/news/alberta-poised-make-west-coast-pipeline-announcement-thursday",
+        "published": "2026-07-01T07:16:15Z",
         "sentiment": "watch"
       },
       {
-        "title": "LPG Gas Rate Today: Check domestic 14 KG cylinder price today in Delhi, Mumbai, Chandigarh, Hyderabad, Bengaluru and other cities",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/lpg-gas-rate-today-check-domestic-14-kg-cylinder-price-today-in-delhi-mumbai-chandigarh-hyderabad-bengaluru-and-other-cities/articleshow/132104999.cms",
-        "published": "2026-07-01T03:20:49Z",
+        "title": "Oil steadies as Hormuz traffic recovers",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/markets/2026/07/01/oil-steadies-as-hormuz-traffic-recovers/",
+        "published": "2026-07-01T06:22:31Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Steadies as Peace Talks Continue, Hormuz Traffic Recovers",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-steadies-as-peace-talks-continue-hormuz-traffic-recovers",
-        "published": "2026-07-01T02:40:14Z",
-        "sentiment": "neutral"
+        "title": "Energy bills soar by £221 today to £1,862 as new price cap kicks in: Experts say take a meter reading and shop around for best deal",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15943787/Energy-bills-increase-new-Ofgem-price-cap.html",
+        "published": "2026-07-01T06:18:19Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Three Nevers: To Invade Taiwan, China Would Have to Make Military History Thrice",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/the-three-nevers-to-invade-taiwan-china-would-have-to-make-military-history-thrice/",
+        "published": "2026-07-01T07:15:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Takaichi Heads to India to Bolster Ties as China Tensions Deepen",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/takaichi-heads-to-india-to-bolster-ties-as-china-tensions-deepen",
+        "published": "2026-07-01T06:05:01Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Xi Jinping Just Made It a Crime to Be Taiwanese",
         "source": "The Diplomat",
@@ -82,20 +89,6 @@
         "source": "The Times of India",
         "url": "https://timesofindia.indiatimes.com/education/news/i-was-a-two-time-neet-aspirant-old-video-of-fake-army-brigadier-aryan-verma-motivating-upsc-aspirants-resurfaces-watch/articleshow/132090039.cms",
         "published": "2026-06-30T10:09:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Navigating volatility: the macro fallout from the Iran conflict and oil-price spikes",
-        "source": "Techmonitor.ai",
-        "url": "https://www.techmonitor.ai/sponsored/navigating-volatility-the-macro-fallout-from-the-iran-conflict-and-oil-price-spikes",
-        "published": "2026-06-30T10:05:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "‘Subversive Carrots’ and China’s Economic Influence Over the World",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/06/subversive-carrots-and-chinas-economic-influence-over-the-world/",
-        "published": "2026-06-29T14:48:00Z",
         "sentiment": "watch"
       }
     ],
