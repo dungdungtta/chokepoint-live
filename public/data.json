@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T20:35:26.426Z",
+    "generated_at": "2026-07-02T21:51:23.439Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump Chief Says There Are ‘Guys Living In Caves’ Responsible For Strait Of Hormuz Debacle",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/kevin-hassett-strait-of-hormuz-update-guys-living-in-caves_n_6a45528fe4b0fd8f280c1d11",
-        "published": "2026-07-01T20:15:52Z",
+        "title": "A self-taught Yorkshire carpenter’s son spent forty years building four increasingly precise sea clocks to solve a navigation problem that was killing sailors by the thousands, and won a £20,000 prize from Parliament equivalent to approximately £4 million today, but had to be personally supported by King George III before the astronomers who dominated the prize committee would agree to pay him",
+        "source": "Space Daily",
+        "url": "https://spacedaily.com/k-a-self-taught-yorkshire-carpenters-son-spent-forty-years-building-four-increasingly-precise-sea-clocks-to-solve-a-navigation-problem-that-was-killing-sailors-by-the-thousands-and-won-a-20000-prize/",
+        "published": "2026-07-01T21:30:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "Traffic Through The Strait Of Hormuz Is Way Below Pre-War Levels As Trump Is Briefed On Options For “All-Out War”",
-        "source": "Theeconomiccollapseblog.com",
-        "url": "http://theeconomiccollapseblog.com/traffic-through-the-strait-of-hormuz-is-way-below-pre-war-levels-as-trump-is-briefed-on-options-for-all-out-war/",
-        "published": "2026-07-01T20:11:44Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "TEN Ltd. Announces Second LNG Carrier Order in Hyundai Heavy Industries",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/07/01/3320982/0/en/TEN-Ltd-Announces-Second-LNG-Carrier-Order-in-Hyundai-Heavy-Industries.html",
-        "published": "2026-07-01T20:05:00Z",
+        "title": "Fuel-Injected 1966 Dodge Charger 383 at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1966-dodge-charger-55-2/",
+        "published": "2026-07-01T21:30:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "Crude Extends Losses on Glut Fears",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/crude_extends_losses_on_glut_fears-01-jul-2026-184038-article/",
-        "published": "2026-07-01T19:54:31Z",
+        "title": "The Hydrogen Industry's Efficiency Problem May Have Just Met Its Fix",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/The-Hydrogen-Industrys-Efficiency-Problem-May-Have-Just-Met-Its-Fix.html",
+        "published": "2026-07-01T21:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Frantic search for US airman as Navy chopper crashes in Arabian Sea",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15945943/us-navy-chopper-crash-arabian-sea.html",
-        "published": "2026-07-01T19:28:44Z",
+        "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar",
+        "published": "2026-07-01T20:55:04Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Dangote refinery eased foreign exchange pressure, stabilised naira — Afreximbank",
+        "source": "The Punch",
+        "url": "https://punchng.com/dangote-refinery-eased-foreign-exchange-pressure-stabilised-naira-afreximbank/",
+        "published": "2026-07-01T20:50:05Z",
         "sentiment": "watch"
       }
     ],
