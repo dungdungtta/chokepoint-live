@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T21:51:23.439Z",
+    "generated_at": "2026-07-02T23:16:04.538Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Renewed oil flows give US leverage",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/714e7de436fabe28",
+        "published": "2026-07-01T22:34:48Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US, Iran Leave Qatar Talks With Hormuz Future Still Unclear",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/strait-of-hormuz-tolls-fees-iran-war-oman-qatar-surcharges-hapag-lloyd-maersk-1239050434/",
+        "published": "2026-07-01T22:31:12Z",
+        "sentiment": "neutral"
+      },
+      {
         "title": "A self-taught Yorkshire carpenter’s son spent forty years building four increasingly precise sea clocks to solve a navigation problem that was killing sailors by the thousands, and won a £20,000 prize from Parliament equivalent to approximately £4 million today, but had to be personally supported by King George III before the astronomers who dominated the prize committee would agree to pay him",
         "source": "Space Daily",
         "url": "https://spacedaily.com/k-a-self-taught-yorkshire-carpenters-son-spent-forty-years-building-four-increasingly-precise-sea-clocks-to-solve-a-navigation-problem-that-was-killing-sailors-by-the-thousands-and-won-a-20000-prize/",
@@ -45,20 +59,6 @@
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Energy/Energy-General/The-Hydrogen-Industrys-Efficiency-Problem-May-Have-Just-Met-Its-Fix.html",
         "published": "2026-07-01T21:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar",
-        "published": "2026-07-01T20:55:04Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Dangote refinery eased foreign exchange pressure, stabilised naira — Afreximbank",
-        "source": "The Punch",
-        "url": "https://punchng.com/dangote-refinery-eased-foreign-exchange-pressure-stabilised-naira-afreximbank/",
-        "published": "2026-07-01T20:50:05Z",
         "sentiment": "watch"
       }
     ],
