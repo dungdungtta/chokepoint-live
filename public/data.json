@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T23:57:49.947Z",
+    "generated_at": "2026-07-02T04:15:20.943Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "One-Owner 2007 Harley-Davidson Softail Deuce at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2007-harley-davidson-softail-21/",
-        "published": "2026-06-30T23:23:26Z",
+        "title": "Are America’s Gulf bases Turning Allies into Targets?",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/07/americas-turning-targets.html",
+        "published": "2026-07-01T04:06:29Z",
         "sentiment": "watch"
       },
       {
-        "title": "India’s Russian Oil Boom Outlives the Hormuz Shock",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Indias-Russian-Oil-Boom-Outlives-the-Hormuz-Shock.html",
-        "published": "2026-06-30T23:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US ally proposes teaming up with Iran to charge Strait of Hormuz toll — despite strong opposition",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/06/30/world-news/us-ally-proposes-teaming-up-with-iran-to-charge-strait-of-hormuz-toll/",
-        "published": "2026-06-30T21:32:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. lifts oil sanctions on Iran amid chaotic talks",
-        "source": "The Week Magazine",
-        "url": "https://theweek.com/politics/us-lifts-oil-sanctions-on-iran-amid-chaotic-talks",
-        "published": "2026-06-30T21:07:53Z",
+        "title": "Kushner, Witkoff Claim 'Positive' Qatar Talks as Technical Negotiations Move Ahead — Report",
+        "source": "Sputnikglobe.com",
+        "url": "https://sputnikglobe.com/20260701/kushner-witkoff-claim-positive-qatar-talks-as-technical-negotiations-move-ahead--report-1124380202.html",
+        "published": "2026-07-01T03:58:00Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Why a Supply Crunch From Iran Could Send Oil Back Below $40 a Barrel",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Oil-Prices/Why-a-Supply-Crunch-From-Iran-Could-Send-Oil-Back-Below-40-a-Barrel.html",
-        "published": "2026-06-30T21:00:00Z",
+        "title": "Sanctions Lifted: Iran Selling Oil 20% More Expensive — Ghalibaf",
+        "source": "Sputnikglobe.com",
+        "url": "https://sputnikglobe.com/20260701/sanctions-lifted-iran-selling-oil-20-more-expensive--ghalibaf-1124379966.html",
+        "published": "2026-07-01T03:44:00Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "LPG Gas Rate Today: Check domestic 14 KG cylinder price today in Delhi, Mumbai, Chandigarh, Hyderabad, Bengaluru and other cities",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/lpg-gas-rate-today-check-domestic-14-kg-cylinder-price-today-in-delhi-mumbai-chandigarh-hyderabad-bengaluru-and-other-cities/articleshow/132104999.cms",
+        "published": "2026-07-01T03:20:49Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Steadies as Peace Talks Continue, Hormuz Traffic Recovers",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/oil-steadies-as-peace-talks-continue-hormuz-traffic-recovers",
+        "published": "2026-07-01T02:40:14Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
