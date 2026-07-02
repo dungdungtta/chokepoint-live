@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T07:50:50.169Z",
+    "generated_at": "2026-07-02T10:48:28.716Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "US Keeps Military Option Alive As Iran Talks Near A Critical Test",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/iran-us-military-option-talks-cfr-vance/33793182.html",
-        "published": "2026-07-01T07:26:49Z",
+        "title": "Australia's Fuel Crisis in 2026: What's Happening Now, What the Government Is Doing and What Comes Next",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/australias-fuel-crisis-stabilisation-global-tensions-1871641",
+        "published": "2026-07-01T10:45:59Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Greek ports as strategic security and energy hubs in the Eastern Mediterranean",
+        "source": "Naftemporiki.gr",
+        "url": "https://www.naftemporiki.gr/english/2131761/greek-ports-as-strategic-security-and-energy-hubs-in-the-eastern-mediterranean/",
+        "published": "2026-07-01T10:38:56Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Ship Runs Aground in Strait of Hormuz: Iran",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/392040/ship-runs-aground-in-strait-of-hormuz-iran.html",
+        "published": "2026-07-01T10:36:56Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil prices edge higher as uncertainty over Iran-US talks fuels supply concerns",
+        "source": "Advfn.com",
+        "url": "https://investorshub.advfn.com/market-news/article/31242/oil-prices-edge-higher-as-uncertainty-over-iran-us-talks-fuels-supply-concerns",
+        "published": "2026-07-01T10:23:50Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Alberta poised to make West Coast pipeline announcement on Thursday",
-        "source": "National Observer",
-        "url": "https://www.nationalobserver.com/2026/06/30/news/alberta-poised-make-west-coast-pipeline-announcement-thursday",
-        "published": "2026-07-01T07:16:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil steadies as Hormuz traffic recovers",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/markets/2026/07/01/oil-steadies-as-hormuz-traffic-recovers/",
-        "published": "2026-07-01T06:22:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Energy bills soar by £221 today to £1,862 as new price cap kicks in: Experts say take a meter reading and shop around for best deal",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15943787/Energy-bills-increase-new-Ofgem-price-cap.html",
-        "published": "2026-07-01T06:18:19Z",
-        "sentiment": "watch"
+        "title": "Iran accelerates crude sales as US blockade hits oil exports",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-accelerates-crude-sales-as-us-blockade-hits-oil-exports/",
+        "published": "2026-07-01T10:16:52Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
