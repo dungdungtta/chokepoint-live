@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T15:33:27.113Z",
+    "generated_at": "2026-07-02T17:20:47.640Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran’s Ceasefire Runs Out August 21. The Rest Of The Middle East Isn't Even On A Clock",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/guneyyildiz/2026/07/01/irans-ceasefire-runs-out-august-21-the-rest-of-the-middle-east-isnt-even-on-a-clock/",
-        "published": "2026-07-01T15:31:15Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "US and Iran Enter Technical Talks to Secure Peace Deal, Shipping Restart",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/us-and-iran-enter-technical-talks-to-secure-peace-deal-shipping-restart/",
-        "published": "2026-07-01T15:17:13Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "2016 Triumph Thruxton 1200 R at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2016-triumph-thruxton-1200-r-22/",
-        "published": "2026-07-01T15:14:53Z",
+        "title": "US military support boosts oil flows through Strait of Hormuz to 10M barrels per day",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-military-hormuz-oil-flows-crypto-payments/",
+        "published": "2026-07-01T16:55:35Z",
         "sentiment": "watch"
       },
       {
-        "title": "Hydrogen Demand Shrinks When It Is Counted Properly",
-        "source": "CleanTechnica",
-        "url": "https://cleantechnica.com/2026/07/01/hydrogen-demand-shrinks-counted-properly/",
-        "published": "2026-07-01T14:57:42Z",
+        "title": "US Sees 10 Million Barrels Via Hormuz Sapping Iran Oil Leverage",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/us-sees-10-million-barrels-via-hormuz-sapping-iran-oil-leverage",
+        "published": "2026-07-01T16:45:25Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Chokepoint Economy: Seven Gates Between You and Your Audience",
-        "source": "Jeffbullas.com",
-        "url": "https://www.jeffbullas.com/chokepoint-economy/",
-        "published": "2026-07-01T14:57:31Z",
+        "title": "US sees Strait of Hormuz blockade cutting Iran’s oil leverage",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-sees-strait-of-hormuz-blockade-cutting-irans-oil-leverage/",
+        "published": "2026-07-01T16:34:33Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "UAE restores oil exports to pre-war levels despite Hormuz blockade",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/uae-restores-oil-exports-to-pre-war-levels-despite-hormuz-blockade/",
+        "published": "2026-07-01T16:26:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/132119002.cms",
+        "published": "2026-07-01T16:06:45Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Tel Aviv should build broader alliance from India to US via West Asia: Top Israeli defence official",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/tel-aviv-should-build-broader-alliance-from-india-to-us-via-west-asia-top-israeli-defence-official/articleshow/132118666.cms",
+        "published": "2026-07-01T15:34:49Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China, US urge caution over Taiwan in diplomatic call",
         "source": "Crypto Briefing",
@@ -90,13 +97,6 @@
         "url": "https://cryptobriefing.com/us-deploys-iron-dome-on-guam-amid-china-missile-threat-drills/",
         "published": "2026-07-01T11:15:50Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "The Three Nevers: To Invade Taiwan, China Would Have to Make Military History Thrice",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/the-three-nevers-to-invade-taiwan-china-would-have-to-make-military-history-thrice/",
-        "published": "2026-07-01T07:15:02Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
