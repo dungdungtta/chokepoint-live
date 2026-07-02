@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T10:48:28.716Z",
+    "generated_at": "2026-07-02T13:02:13.119Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,63 @@
   "news": {
     "hormuz": [
       {
-        "title": "Australia's Fuel Crisis in 2026: What's Happening Now, What the Government Is Doing and What Comes Next",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/australias-fuel-crisis-stabilisation-global-tensions-1871641",
-        "published": "2026-07-01T10:45:59Z",
+        "title": "Current price of oil as of July 1, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-07-01-2026/",
+        "published": "2026-07-01T12:42:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "Greek ports as strategic security and energy hubs in the Eastern Mediterranean",
-        "source": "Naftemporiki.gr",
-        "url": "https://www.naftemporiki.gr/english/2131761/greek-ports-as-strategic-security-and-energy-hubs-in-the-eastern-mediterranean/",
-        "published": "2026-07-01T10:38:56Z",
+        "title": "Iran Peace Deal Sends Oil Lower: Viking Holdings (VIK) Is A Top Travel Stock To Buy",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/iran-peace-deal-sends-oil-122749243.html",
+        "published": "2026-07-01T12:27:49Z",
         "sentiment": "watch"
       },
       {
-        "title": "Ship Runs Aground in Strait of Hormuz: Iran",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/392040/ship-runs-aground-in-strait-of-hormuz-iran.html",
-        "published": "2026-07-01T10:36:56Z",
+        "title": "Ship Runs Aground in Strait of Hormuz, Iranian State TV Reports",
+        "source": "Military.com",
+        "url": "https://military.com/ship-runs-aground-in-strait-of-hormuz-iranian-state-tv-reports",
+        "published": "2026-07-01T12:26:40Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil prices edge higher as uncertainty over Iran-US talks fuels supply concerns",
-        "source": "Advfn.com",
-        "url": "https://investorshub.advfn.com/market-news/article/31242/oil-prices-edge-higher-as-uncertainty-over-iran-us-talks-fuels-supply-concerns",
-        "published": "2026-07-01T10:23:50Z",
+        "title": "Why are oil prices down today, and will Brent futures and US WTI crude prices continue to fall or rise again? Iran-US talks, Strait of Hormuz recovery and US inventory data keep crude market under focus",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-down-today-and-will-brent-futures-and-us-wti-crude-prices-continue-to-fall-or-rise-again-iran-us-talks-strait-of-hormuz-recovery-and-us-inventory-data-keep-crude-market-under-focus/articleshow/132114734.cms",
+        "published": "2026-07-01T12:26:10Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Iran accelerates crude sales as US blockade hits oil exports",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-accelerates-crude-sales-as-us-blockade-hits-oil-exports/",
-        "published": "2026-07-01T10:16:52Z",
-        "sentiment": "danger"
+        "title": "Stuff We Love: Chef-Approved Mail-Order Gifts for the Cook in Your Life",
+        "source": "TODAY",
+        "url": "https://www.today.com/food/groceries/chef-approved-mail-order-food-gifts-rcna264922",
+        "published": "2026-07-01T12:22:41Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Defense Ministry chief warns: Iran threat demands new regional alliance",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/429479",
+        "published": "2026-07-01T11:56:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump’s War in the Middle East Has One Clear Winner: China",
+        "source": "Mother Jones",
+        "url": "https://www.motherjones.com/politics/2026/07/trump-iran-war-middle-east-winner-china-clean-energy/",
+        "published": "2026-07-01T11:30:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US deploys Iron Dome on Guam amid China missile threat drills",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-deploys-iron-dome-on-guam-amid-china-missile-threat-drills/",
+        "published": "2026-07-01T11:15:50Z",
+        "sentiment": "danger"
+      },
       {
         "title": "The Three Nevers: To Invade Taiwan, China Would Have to Make Military History Thrice",
         "source": "War on the Rocks",
@@ -75,27 +96,6 @@
         "source": "Financial Post",
         "url": "https://financialpost.com/pmn/business-pmn/takaichi-heads-to-india-to-bolster-ties-as-china-tensions-deepen",
         "published": "2026-07-01T06:05:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Xi Jinping Just Made It a Crime to Be Taiwanese",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/06/xi-jinping-just-made-it-a-crime-to-be-taiwanese/",
-        "published": "2026-06-30T12:51:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Daily Geopolitical Review - 30/06/2026",
-        "source": "Blogspot.com",
-        "url": "https://i-epikaira.blogspot.com/2026/06/daily-geopolitical-review-30062026.html",
-        "published": "2026-06-30T11:44:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "'I was a two-time NEET aspirant': Old video of fake Army Brigadier Aryan Verma motivating UPSC aspirants resurfaces— watch",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/education/news/i-was-a-two-time-neet-aspirant-old-video-of-fake-army-brigadier-aryan-verma-motivating-upsc-aspirants-resurfaces-watch/articleshow/132090039.cms",
-        "published": "2026-06-30T10:09:58Z",
         "sentiment": "watch"
       }
     ],
