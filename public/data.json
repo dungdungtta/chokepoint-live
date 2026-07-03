@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-03T04:59:55.335Z",
+    "generated_at": "2026-07-03T08:22:01.464Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,25 @@
   "news": {
     "hormuz": [
       {
-        "title": "New: Iran Hardliners Now Calling for Trump, Netanyahu Hits As Peace Talks Teeter",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4386324/posts",
-        "published": "2026-07-02T04:04:18Z",
+        "title": "Oil prices fall to pre-war levels as Strait of Hormuz shipping slowly recovers",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/97e251ee18e3758d",
+        "published": "2026-07-02T07:14:49Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil falls for a third day in a row as US, Iran talks end",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0702/1581362-world-oil-prices/",
+        "published": "2026-07-02T06:40:25Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Sensex jumps over 400 points, Nifty tops 24,100 as oil slips below $70/bbl on US-Iran peace talks",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-400-points-nifty-above-24100-as-oil-prices-fall-below-70-infosys-tcs-shares-jump-up-to-3/articleshow/132128415.cms",
-        "published": "2026-07-02T03:56:33Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "One Missing After Helicopter Makes ‘Emergency Water Landing’ Near Iran, US Navy Says",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4386308/posts",
-        "published": "2026-07-02T02:09:24Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Price Today (July 2): Crude oil at $70, falls for 2nd session as US-Iran talks progress. Worst over?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-2-crude-oil-at-70-falls-for-2nd-session-as-us-iran-talks-progress-worst-over/articleshow/132127110.cms",
-        "published": "2026-07-02T01:58:49Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Oil falls after US, Iran talks conclude in Doha",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-after-us-iran-talks-conclude-in-doha/articleshow/132126892.cms",
-        "published": "2026-07-02T01:15:30Z",
-        "sentiment": "neutral"
+        "title": "Energy security: how logistics helped India sail through the Gulf war's Hormuz chokehold",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/opinion/online-views/energy-security-logistics-india-gulf-war-strait-of-hormuz-chokehold-oil-gas-lpg-vulnerability-11782900659354.html",
+        "published": "2026-07-02T06:31:09Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
