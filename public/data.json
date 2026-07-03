@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T23:16:04.538Z",
+    "generated_at": "2026-07-03T01:11:16.617Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Renewed oil flows give US leverage",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/714e7de436fabe28",
-        "published": "2026-07-01T22:34:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US, Iran Leave Qatar Talks With Hormuz Future Still Unclear",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/strait-of-hormuz-tolls-fees-iran-war-oman-qatar-surcharges-hapag-lloyd-maersk-1239050434/",
-        "published": "2026-07-01T22:31:12Z",
+        "title": "Qatar reports positive progress in US-Iran talks on June memorandum",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/qatar-us-iran-talks-positive-progress/",
+        "published": "2026-07-02T00:55:30Z",
         "sentiment": "neutral"
       },
       {
-        "title": "A self-taught Yorkshire carpenter’s son spent forty years building four increasingly precise sea clocks to solve a navigation problem that was killing sailors by the thousands, and won a £20,000 prize from Parliament equivalent to approximately £4 million today, but had to be personally supported by King George III before the astronomers who dominated the prize committee would agree to pay him",
-        "source": "Space Daily",
-        "url": "https://spacedaily.com/k-a-self-taught-yorkshire-carpenters-son-spent-forty-years-building-four-increasingly-precise-sea-clocks-to-solve-a-navigation-problem-that-was-killing-sailors-by-the-thousands-and-won-a-20000-prize/",
-        "published": "2026-07-01T21:30:39Z",
+        "title": "US-Iran talks end without breakthrough as Tehran's nuclear prowess stays off the table",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-iran-talks-end-without-breakthrough-as-nuclear-issue-stays-off-table/articleshow/132126802.cms",
+        "published": "2026-07-02T00:47:27Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Oil prices fall as US-Iran talks ease supply disruption fears",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oil-prices-fall-as-us-iran-talks-ease-supply-disruption-fears/",
+        "published": "2026-07-02T00:32:53Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Shipowners hopeful as CVFF enters implementation phase",
+        "source": "The Punch",
+        "url": "https://punchng.com/shipowners-hopeful-as-cvff-enters-implementation-phase/",
+        "published": "2026-07-02T00:24:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "Fuel-Injected 1966 Dodge Charger 383 at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1966-dodge-charger-55-2/",
-        "published": "2026-07-01T21:30:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Hydrogen Industry's Efficiency Problem May Have Just Met Its Fix",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/The-Hydrogen-Industrys-Efficiency-Problem-May-Have-Just-Met-Its-Fix.html",
-        "published": "2026-07-01T21:00:00Z",
+        "title": "Oil flows through Strait of Hormuz reportedly surge past 10M bbl/day",
+        "source": "Seeking Alpha",
+        "url": "https://seekingalpha.com/news/4609506-oil-flows-through-strait-of-hormuz-reportedly-surge-past-10m-bblday",
+        "published": "2026-07-01T23:55:47Z",
         "sentiment": "watch"
       }
     ],
