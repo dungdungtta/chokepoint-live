@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-03T13:14:31.006Z",
+    "generated_at": "2026-07-03T15:29:36.225Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "The Phony Ceasefire: Calm Before The Storm?",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/arielcohen/2026/07/02/the-phony-ceasefire-calm-before-the-storm/",
-        "published": "2026-07-02T12:20:15Z",
-        "sentiment": "neutral"
+        "title": "Natural gas set to surpass oil as top US energy source by 2030",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/natural-gas-surpass-oil-us-energy-2030/",
+        "published": "2026-07-02T15:25:07Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Oil falls for a third straight day after US, Iran conclude talks in Doha",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/news/oil-falls-us-iran-talks-013010346.html",
-        "published": "2026-07-02T12:13:29Z",
-        "sentiment": "neutral"
+        "title": "Iranian oil tycoon Mohammad Hossein Shamkhani sanctioned by the West in largest Iran package since 2018",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-shamkhani-oil-sanctions-shadow-fleet/",
+        "published": "2026-07-02T15:00:38Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Waltz Warns Iran Against Holding The World's Economy 'Hostage'",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260702-rferl01.htm",
-        "published": "2026-07-02T12:00:00Z",
+        "title": "European nations now believe some Hormuz fees are inevitable",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/european-nations-now-believe-some-hormuz-fees-are-inevitable/articleshow/132140957.cms",
+        "published": "2026-07-02T14:40:45Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Russia boosts oil exports to record 3 million barrels per day in June as drone strikes reshape supply flows",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/russia-oil-exports-record-june/",
+        "published": "2026-07-02T14:27:22Z",
         "sentiment": "danger"
       },
       {
-        "title": "As Iran Tests Hormuz And Attacks The Gulf, A Former US Ambassador Says Trust Is Gone",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260702-rferl04.htm",
-        "published": "2026-07-02T12:00:00Z",
-        "sentiment": "danger"
+        "title": "Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/2/who-is-iranian-oil-tycoon-shamkhani-whose-ship-is-stranded-in-hormuz",
+        "published": "2026-07-02T14:15:42Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Japan’s key agenda",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/opinion/japans-key-agenda/article71175287.ece",
+        "published": "2026-07-02T15:27:48Z",
+        "sentiment": "watch"
+      },
       {
         "title": "U.S. still China's main rival despite report on Japan and Philippines' capabilities",
         "source": "Globalsecurity.org",
@@ -83,13 +97,6 @@
         "url": "https://cryptobriefing.com/china-us-urge-caution-over-taiwan-in-diplomatic-call/",
         "published": "2026-07-01T14:21:15Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Defense Ministry chief warns: Iran threat demands new regional alliance",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/429479",
-        "published": "2026-07-01T11:56:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
