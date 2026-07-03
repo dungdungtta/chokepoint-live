@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-03T21:33:28.048Z",
+    "generated_at": "2026-07-03T22:43:49.332Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "New Atomic Age Underway As Three Mini Reactors Go ‘Critical’ By Trump’s July 4 Deadline",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/christopherhelman/2026/07/02/new-atomic-age-underway-as-three-mini-reactors-go-critical-by-trumps-july-4-deadline/",
+        "published": "2026-07-02T22:27:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Tehran Is Racing the Clock to Export as Much Oil as Possible",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Tehran-Is-Racing-the-Clock-to-Export-as-Much-Oil-as-Possible.html",
+        "published": "2026-07-02T22:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "1967 Chevrolet Corvette Coupe L71 427/435 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1967-chevrolet-corvette-coupe-121/",
+        "published": "2026-07-02T21:53:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "House GOP Wants Trump to Let Jones Act Waiver Expire",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/jones-act-waiver-expire-house-gop-mike-johnson-trump-administration-oil-prices-1239051927/",
+        "published": "2026-07-02T21:44:40Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "AstroAI Portable Tire Inflator for $26 + free shipping",
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/Astro-AI-Portable-Tire-Inflator-for-26-free-shipping/21867183.html",
         "published": "2026-07-02T21:13:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "'Indirect' Qatar Talks with Iran Conclude Quietly, with No Breakthrough on Strait of Hormuz",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/07/02/indirect-qatar-talks-with-iran-conclude-quietly-with-no-breakthrough-on-strait-of-hormuz/",
-        "published": "2026-07-02T20:38:26Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Oil Holds Near Prewar Lows",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_holds_near_prewar_lows-02-jul-2026-184049-article/",
-        "published": "2026-07-02T19:56:56Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "S&P 500 US Stock Market Today: Index Rises on Cooling Jobs Data as Strait of Hormuz Optimism Boosts Wall Street",
-        "source": "The Sunday Guardian",
-        "url": "https://sundayguardianlive.com/business/sp-500-us-stock-market-today-index-rises-on-cooling-jobs-data-as-strait-of-hormuz-optimism-boosts-wall-street-heres-us-stock-market-1-july-what-investors-need-to-know-224243/",
-        "published": "2026-07-02T19:56:33Z",
         "sentiment": "watch"
       }
     ],
