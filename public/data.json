@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-03T22:43:49.332Z",
+    "generated_at": "2026-07-03T23:48:51.485Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "BC, feds reach deal on LNG that keeps tanker ban in place",
+        "source": "National Observer",
+        "url": "https://www.nationalobserver.com/2026/07/02/news/bc-tanker-ban-lng",
+        "published": "2026-07-02T23:25:20Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "New Atomic Age Underway As Three Mini Reactors Go ‘Critical’ By Trump’s July 4 Deadline",
         "source": "Forbes",
         "url": "https://www.forbes.com/sites/christopherhelman/2026/07/02/new-atomic-age-underway-as-three-mini-reactors-go-critical-by-trumps-july-4-deadline/",
@@ -52,13 +59,6 @@
         "source": "WWD",
         "url": "http://wwd.com/sourcing-journal/logistics/jones-act-waiver-expire-house-gop-mike-johnson-trump-administration-oil-prices-1239051927/",
         "published": "2026-07-02T21:44:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "AstroAI Portable Tire Inflator for $26 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Astro-AI-Portable-Tire-Inflator-for-26-free-shipping/21867183.html",
-        "published": "2026-07-02T21:13:09Z",
         "sentiment": "watch"
       }
     ],
