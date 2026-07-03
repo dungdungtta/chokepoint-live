@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-03T20:04:30.068Z",
+    "generated_at": "2026-07-03T21:33:28.048Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "AstroAI Portable Tire Inflator for $26 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Astro-AI-Portable-Tire-Inflator-for-26-free-shipping/21867183.html",
+        "published": "2026-07-02T21:13:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "'Indirect' Qatar Talks with Iran Conclude Quietly, with No Breakthrough on Strait of Hormuz",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/07/02/indirect-qatar-talks-with-iran-conclude-quietly-with-no-breakthrough-on-strait-of-hormuz/",
+        "published": "2026-07-02T20:38:26Z",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Oil Holds Near Prewar Lows",
         "source": "Rigzone",
         "url": "https://www.rigzone.com/news/wire/oil_holds_near_prewar_lows-02-jul-2026-184049-article/",
@@ -38,27 +52,6 @@
         "source": "The Sunday Guardian",
         "url": "https://sundayguardianlive.com/business/sp-500-us-stock-market-today-index-rises-on-cooling-jobs-data-as-strait-of-hormuz-optimism-boosts-wall-street-heres-us-stock-market-1-july-what-investors-need-to-know-224243/",
         "published": "2026-07-02T19:56:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "2000 BMW R1150GS at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2000-bmw-r1150gs-5/",
-        "published": "2026-07-02T19:55:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Carney, Eby agree to keep oil tanker ban, as Alberta to unveil proposed pipeline route",
-        "source": "National Post",
-        "url": "https://nationalpost.com/news/canada/carney-eby-agree-to-keep-oil-tanker-ban-as-alberta-to-unveil-proposed-pipeline-route",
-        "published": "2026-07-02T19:39:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "FMCG companies ride the heatwave to make cool gains",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/fmcg-companies-ride-the-heatwave-to-make-cool-gains/articleshow/132147311.cms",
-        "published": "2026-07-02T19:29:53Z",
         "sentiment": "watch"
       }
     ],
