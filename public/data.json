@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-03T15:29:36.225Z",
+    "generated_at": "2026-07-03T17:00:58.210Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil Glut Calls May Be Getting Ahead of Reality",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Glut-Calls-May-Be-Getting-Ahead-of-Reality.html",
+        "published": "2026-07-02T16:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The MOU Is Paying Off Early for Iran",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/07/02/mou-iran-us-talks-doha-strait-hormuz-oil-sanctions-profits-exports/",
+        "published": "2026-07-02T15:56:26Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US and Oman seek alternatives to Iran’s tolls on Strait of Hormuz, where crypto payments loom large",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-oman-iran-hormuz-tolls-crypto/",
+        "published": "2026-07-02T15:42:10Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Natural gas set to surpass oil as top US energy source by 2030",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/natural-gas-surpass-oil-us-energy-2030/",
@@ -38,27 +59,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/iran-shamkhani-oil-sanctions-shadow-fleet/",
         "published": "2026-07-02T15:00:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "European nations now believe some Hormuz fees are inevitable",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/european-nations-now-believe-some-hormuz-fees-are-inevitable/articleshow/132140957.cms",
-        "published": "2026-07-02T14:40:45Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Russia boosts oil exports to record 3 million barrels per day in June as drone strikes reshape supply flows",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/russia-oil-exports-record-june/",
-        "published": "2026-07-02T14:27:22Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/2/who-is-iranian-oil-tycoon-shamkhani-whose-ship-is-stranded-in-hormuz",
-        "published": "2026-07-02T14:15:42Z",
         "sentiment": "watch"
       }
     ],
