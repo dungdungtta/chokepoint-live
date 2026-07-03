@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-03T17:00:58.210Z",
+    "generated_at": "2026-07-03T18:40:23.085Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Glut Calls May Be Getting Ahead of Reality",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Glut-Calls-May-Be-Getting-Ahead-of-Reality.html",
-        "published": "2026-07-02T16:00:00Z",
-        "sentiment": "watch"
+        "title": "Oil prices are now back to prewar levels, but the market is not. Here’s what could happen next",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/a05811e37714a268",
+        "published": "2026-07-02T18:23:39Z",
+        "sentiment": "danger"
       },
       {
-        "title": "The MOU Is Paying Off Early for Iran",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/07/02/mou-iran-us-talks-doha-strait-hormuz-oil-sanctions-profits-exports/",
-        "published": "2026-07-02T15:56:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US and Oman seek alternatives to Iran’s tolls on Strait of Hormuz, where crypto payments loom large",
+        "title": "US refiners profit from Hormuz disruptions as crude price odds decline",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-oman-iran-hormuz-tolls-crypto/",
-        "published": "2026-07-02T15:42:10Z",
+        "url": "https://cryptobriefing.com/us-refiners-profit-from-hormuz-disruptions-as-crude-price-odds-decline/",
+        "published": "2026-07-02T18:15:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "Natural gas set to surpass oil as top US energy source by 2030",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/natural-gas-surpass-oil-us-energy-2030/",
-        "published": "2026-07-02T15:25:07Z",
+        "title": "Oil slide deepens as Saudi exports reach 90% of pre-war level",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/saudi-arabia/oil-slide-deepens-as-saudi-exports-reach-90-of-pre-war-level/articleshow/132144867.cms",
+        "published": "2026-07-02T18:10:24Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "South Korea, Taiwan stocks fall as investors reassess AI bets; FX muted",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/south-korea-taiwan-stocks-fall-as-investors-reassess-ai-bets-fx-muted/article71175608.ece",
+        "published": "2026-07-02T18:00:15Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iranian oil tycoon Mohammad Hossein Shamkhani sanctioned by the West in largest Iran package since 2018",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-shamkhani-oil-sanctions-shadow-fleet/",
-        "published": "2026-07-02T15:00:38Z",
-        "sentiment": "watch"
+        "title": "BBC reports from the Strait of Hormuz during fragile ceasefire",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c04yxq2dldpo",
+        "published": "2026-07-02T17:56:11Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
