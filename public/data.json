@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T06:53:37.839Z",
+    "generated_at": "2026-07-04T09:27:43.236Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "The 'little boy' in the Pacific, India's monsoon and the big test ahead",
+        "title": "Oil Remains in a Divided Market",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/oil_remains_in_a_divided_market-03-jul-2026-184051-article/",
+        "published": "2026-07-03T09:14:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Russia’s Urals crude falls 60% since March peak, now under $45 a barrel",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/russias-urals-crude-falls-60-since-march-peak-now-under-45-a-barrel/",
+        "published": "2026-07-03T09:14:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "How a fertilizer shortage caused by the Iran war could affect U.S. food prices",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/07/03/nx-s1-5877344/fertilizer-shortage-food-prices",
+        "published": "2026-07-03T09:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Global food prices decline as US-Iran ceasefire eases supply concerns",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/global-food-prices-decline-us-iran-ceasefire/",
+        "published": "2026-07-03T08:13:09Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Citi sees Brent crude sliding to $60 as supply fears ease",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/agriculture/indias-monsoon-dilemma-el-nios-impact-on-agriculture-and-food-inflation/articleshow/132153699.cms",
-        "published": "2026-07-03T06:44:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil up ahead of long US weekend as peace efforts hold",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/0703/1581534-world-oil-prices/",
-        "published": "2026-07-03T06:27:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Citi Says Oil May Slump to $60 as Hormuz Shock Fades Away",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/citi-says-oil-may-slump-to-60-as-hormuz-shock-fades-away",
-        "published": "2026-07-03T06:19:37Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Strait of Hormuz crisis and the collapse of green energy fantasies",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-03-hormuz-crisis-collapse-green-energy.html",
-        "published": "2026-07-03T06:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. seeks to compete with Russia in the Arctic, invests in six Coast Guard Icebreakers",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-03-us-to-compete-with-russia-in-arctic.html",
-        "published": "2026-07-03T06:00:00Z",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/citi-sees-brent-crude-sliding-to-60-as-supply-fears-ease/articleshow/132156275.cms",
+        "published": "2026-07-03T08:12:15Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China's latest activities near Taiwan indicate new strategy",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-07-03/australia-concerns-about-china-action-east-of-taiwan/106877030",
+        "published": "2026-07-03T08:03:05Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan faces potential Chinese blockade, invasion amid rising tensions: Reuters",
         "source": "Crypto Briefing",
@@ -89,13 +96,6 @@
         "source": "Globalsecurity.org",
         "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/07/china-260702-rfa01.htm",
         "published": "2026-07-02T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan urged to boost drone arsenal amid rising China tensions: US diplomat",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/taiwan-urged-to-boost-drone-arsenal-amid-rising-china-tensions-us-diplomat/",
-        "published": "2026-07-02T03:22:25Z",
         "sentiment": "watch"
       }
     ],
