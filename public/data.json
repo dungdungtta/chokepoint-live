@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T17:50:09.021Z",
+    "generated_at": "2026-07-04T19:25:16.721Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Mighty Mint Peppermint Oil 1-Gallon Rodent Repellent Spray for $34 + free shipping",
+        "title": "Garvee Independence Day Sale: Up to 59% off + free shipping",
         "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Mighty-Mint-Peppermint-Oil-1-Gallon-Rodent-Repellent-Spray-for-34-free-shipping/21871462.html",
-        "published": "2026-07-03T17:04:16Z",
+        "url": "https://www.dealnews.com/Garvee-Independence-Day-Sale-Up-to-59-off-free-shipping/21871493.html",
+        "published": "2026-07-03T19:14:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "Abib Airy Sunstick SPF50+ 0.81 oz. Sunscreen Stick for $14 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Abib-Airy-Sunstick-SPF50-0-81-oz-Sunscreen-Stick-for-14-free-shipping-w-Prime/21871461.html",
-        "published": "2026-07-03T16:57:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Planning Act 2008: Introduction to National Infrastructure Planning Guidance (July 2026)",
-        "source": "Www.gov.uk",
-        "url": "https://www.gov.uk/guidance/planning-act-2008-introduction-to-national-infrastructure-planning-guidance-july-2026",
-        "published": "2026-07-03T16:49:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Scott Bessent Rejects Idea That Trump’s Crypto Billions Are a ‘Problem’: ‘All Americans Are Benefitting’",
-        "source": "Mediaite",
-        "url": "https://www.mediaite.com/media/tv/scott-bessent-rejects-idea-that-trumps-crypto-billions-are-a-problem-all-americans-are-benefitting/",
-        "published": "2026-07-03T15:46:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Garware rides non-salmon aquaculture wave",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/agri-business/garware-rides-non-salmon-aquaculture-wave/article71179831.ece",
-        "published": "2026-07-03T15:41:48Z",
+        "title": "June: 10 mbpd, May: 3 mbpd: Gulf oil exports up, but 40% below pre-war level",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/business/june-10-mbpd-may-3-mbpd-gulf-oil-exports-up-but-40-below-pre-war-level/articleshow/132169948.cms",
+        "published": "2026-07-03T19:01:46Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Copper's Next Move Depends On Washington, Not The Strait Of Hormuz",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Metals/Commodities/Coppers-Next-Move-Depends-On-Washington-Not-The-Strait-Of-Hormuz.html",
+        "published": "2026-07-03T19:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Hormuz Turns Oil Outlooks Into a Guessing Game",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Hormuz-Turns-Oil-Outlooks-Into-a-Guessing-Game.html",
+        "published": "2026-07-03T18:51:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Ideas & Innovations, LLC, Launches Patented, Eco-Friendly, Print-on-Demand Gift Card Kiosks Across High-Traffic U.S. Locations.",
+        "source": "International Business Times",
+        "url": "https://www.ibtimes.com/ideas-innovations-llc-launches-patented-eco-friendly-print-demand-gift-card-kiosks-across-3804889",
+        "published": "2026-07-03T18:41:06Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
