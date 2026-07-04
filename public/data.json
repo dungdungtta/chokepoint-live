@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T19:25:16.721Z",
+    "generated_at": "2026-07-04T20:30:26.739Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "46-Years-Owned 1967 BSA West Coast Hornet 650 at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1967-bsa-hornet-650-4/",
+        "published": "2026-07-03T20:23:24Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Refiner Profits Are Soaring",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/refiner_profits_are_soaring-03-jul-2026-184059-article/",
+        "published": "2026-07-03T20:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Garvee Independence Day Sale: Up to 59% off + free shipping",
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/Garvee-Independence-Day-Sale-Up-to-59-off-free-shipping/21871493.html",
@@ -45,20 +59,6 @@
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Metals/Commodities/Coppers-Next-Move-Depends-On-Washington-Not-The-Strait-Of-Hormuz.html",
         "published": "2026-07-03T19:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hormuz Turns Oil Outlooks Into a Guessing Game",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Hormuz-Turns-Oil-Outlooks-Into-a-Guessing-Game.html",
-        "published": "2026-07-03T18:51:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ideas & Innovations, LLC, Launches Patented, Eco-Friendly, Print-on-Demand Gift Card Kiosks Across High-Traffic U.S. Locations.",
-        "source": "International Business Times",
-        "url": "https://www.ibtimes.com/ideas-innovations-llc-launches-patented-eco-friendly-print-demand-gift-card-kiosks-across-3804889",
-        "published": "2026-07-03T18:41:06Z",
         "sentiment": "watch"
       }
     ],
