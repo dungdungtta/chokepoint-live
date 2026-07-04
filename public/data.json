@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T14:16:46.501Z",
+    "generated_at": "2026-07-04T15:43:18.176Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "China Urges 'Unimpeded Passage' of Hormuz",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/china_urges_unimpeded_passage_of_hormuz-03-jul-2026-184057-article/",
-        "published": "2026-07-03T14:16:07Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Gold Climbs Back Toward $4,200 as Weak Jobs Report Hammers Rate Hike Odds and Dollar Slides Friday",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/gold-prices-surge-us-iran-tensions-economic-shifts-1871789",
-        "published": "2026-07-03T13:57:27Z",
+        "title": "Garware rides non-salmon aquaculture wave",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/agri-business/garware-rides-non-salmon-aquaculture-wave/article71179831.ece",
+        "published": "2026-07-03T15:41:48Z",
         "sentiment": "danger"
       },
       {
-        "title": "Japan Weighs Return to Iranian Oil as Shipping Risks Cloud Sanctions Waiver",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/japan-weighs-return-to-iranian-oil-as-shipping-risks-cloud-sanctions-waiver/",
-        "published": "2026-07-03T13:57:26Z",
+        "title": "Oil prices stable as US-Iran peace efforts hold",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/news/oil-prices-little-changed-ahead-075928204.html",
+        "published": "2026-07-03T15:40:32Z",
         "sentiment": "watch"
       },
       {
-        "title": "US Oil Companies See Big Profit Jump, Gird for Clash Over Pump Prices With Trump",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/us-oil-companies-see-big-profit-jump-gird-for-clash-over-pump-prices-with-trump/",
-        "published": "2026-07-03T13:10:46Z",
+        "title": "Iran plans to sell oil to Japan under US sanctions waiver",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-oil-japan-us-sanctions-waiver/",
+        "published": "2026-07-03T15:35:42Z",
         "sentiment": "watch"
       },
       {
-        "title": "China Urges ‘Unimpeded Passage’ of Hormuz as Fee Chatter Mounts",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/china-urges-unimpeded-passage-of-hormuz-as-fee-chatter-mounts/",
-        "published": "2026-07-03T12:54:43Z",
+        "title": "Americans hit the road in record numbers for 4th of July — in spite of high gas prices",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/07/03/business/americans-hit-the-road-in-record-numbers-for-july-fourth-in-spite-of-pricey-gas/",
+        "published": "2026-07-03T15:31:54Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "TotalEnergies Offers Millions of Barrels of Iraqi Crude to Asian Buyers",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Offers-Millions-of-Barrels-of-Iraqi-Crude-to-Asian-Buyers.html",
+        "published": "2026-07-03T15:30:00Z",
         "sentiment": "watch"
       }
     ],
