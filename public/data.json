@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T12:36:12.162Z",
+    "generated_at": "2026-07-04T14:16:46.501Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran discusses resuming oil exports to Japan amid US sanctions waiver",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-oil-exports-japan-sanctions-waiver/",
-        "published": "2026-07-03T12:06:55Z",
+        "title": "China Urges 'Unimpeded Passage' of Hormuz",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/china_urges_unimpeded_passage_of_hormuz-03-jul-2026-184057-article/",
+        "published": "2026-07-03T14:16:07Z",
         "sentiment": "watch"
       },
       {
-        "title": "Hormuz transits increase as US-Iran ceasefire holds",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260703-azertac02.htm",
-        "published": "2026-07-03T12:00:00Z",
-        "sentiment": "neutral"
+        "title": "Gold Climbs Back Toward $4,200 as Weak Jobs Report Hammers Rate Hike Odds and Dollar Slides Friday",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/gold-prices-surge-us-iran-tensions-economic-shifts-1871789",
+        "published": "2026-07-03T13:57:27Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Who's Shipping Bananas To Russia, And Who's Shipping Cocaine?",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/07/russia-260703-rferl01.htm",
-        "published": "2026-07-03T12:00:00Z",
+        "title": "Japan Weighs Return to Iranian Oil as Shipping Risks Cloud Sanctions Waiver",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/japan-weighs-return-to-iranian-oil-as-shipping-risks-cloud-sanctions-waiver/",
+        "published": "2026-07-03T13:57:26Z",
         "sentiment": "watch"
       },
       {
-        "title": "David Des Roches: Iran Is Losing The Long Game",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260703-rferl03.htm",
-        "published": "2026-07-03T12:00:00Z",
+        "title": "US Oil Companies See Big Profit Jump, Gird for Clash Over Pump Prices With Trump",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/us-oil-companies-see-big-profit-jump-gird-for-clash-over-pump-prices-with-trump/",
+        "published": "2026-07-03T13:10:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China Urges ‘Unimpeded Passage’ of Hormuz as Fee Chatter Mounts",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/china-urges-unimpeded-passage-of-hormuz-as-fee-chatter-mounts/",
+        "published": "2026-07-03T12:54:43Z",
         "sentiment": "watch"
       }
     ],
