@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T03:52:05.555Z",
+    "generated_at": "2026-07-04T06:53:37.839Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "ASX 200 Surges 1.36% on Friday as Gold Miners Soar and Weak US Jobs Report Kills Rate Hike Fears",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/asx-200-surges-us-payrolls-miss-eases-rate-hike-fears-1871741",
-        "published": "2026-07-03T03:13:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Canada’s Carney Taps State-Owned Firm to Build Oil Pipeline to Serve Asia",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/canadas-carney-taps-state-owned-firm-to-build-oil-pipeline-to-serve-asia",
-        "published": "2026-07-03T02:54:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Price Today (July 3): Crude oil heads for 4th weekly loss on Hormuz traffic, US-Iran talks. Where is liquid gold headed?",
+        "title": "The 'little boy' in the Pacific, India's monsoon and the big test ahead",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-3-crude-oil-heads-for-4th-weekly-loss-on-hormuz-traffic-us-iran-talks-where-is-liquid-gold-headed/articleshow/132150799.cms",
-        "published": "2026-07-03T02:09:34Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Oil up slightly ahead of long US weekend as peace efforts hold",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-up-slightly-ahead-long-us-weekend-peace-efforts-hold-6229381",
-        "published": "2026-07-03T02:06:26Z",
+        "url": "https://economictimes.indiatimes.com/news/economy/agriculture/indias-monsoon-dilemma-el-nios-impact-on-agriculture-and-food-inflation/articleshow/132153699.cms",
+        "published": "2026-07-03T06:44:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran and Oman propose fee plan for Strait of Hormuz, sources say",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/iran-oman-propose-fee-plan-strait-hormuz-sources-say-rcna352822",
-        "published": "2026-07-03T02:03:00Z",
+        "title": "Oil up ahead of long US weekend as peace efforts hold",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0703/1581534-world-oil-prices/",
+        "published": "2026-07-03T06:27:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Citi Says Oil May Slump to $60 as Hormuz Shock Fades Away",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/citi-says-oil-may-slump-to-60-as-hormuz-shock-fades-away",
+        "published": "2026-07-03T06:19:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Strait of Hormuz crisis and the collapse of green energy fantasies",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-03-hormuz-crisis-collapse-green-energy.html",
+        "published": "2026-07-03T06:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S. seeks to compete with Russia in the Arctic, invests in six Coast Guard Icebreakers",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-03-us-to-compete-with-russia-in-arctic.html",
+        "published": "2026-07-03T06:00:00Z",
         "sentiment": "watch"
       }
     ],
