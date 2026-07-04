@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T16:44:42.566Z",
+    "generated_at": "2026-07-04T17:50:09.021Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Mighty Mint Peppermint Oil 1-Gallon Rodent Repellent Spray for $34 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Mighty-Mint-Peppermint-Oil-1-Gallon-Rodent-Repellent-Spray-for-34-free-shipping/21871462.html",
+        "published": "2026-07-03T17:04:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Abib Airy Sunstick SPF50+ 0.81 oz. Sunscreen Stick for $14 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Abib-Airy-Sunstick-SPF50-0-81-oz-Sunscreen-Stick-for-14-free-shipping-w-Prime/21871461.html",
+        "published": "2026-07-03T16:57:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Planning Act 2008: Introduction to National Infrastructure Planning Guidance (July 2026)",
+        "source": "Www.gov.uk",
+        "url": "https://www.gov.uk/guidance/planning-act-2008-introduction-to-national-infrastructure-planning-guidance-july-2026",
+        "published": "2026-07-03T16:49:54Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Scott Bessent Rejects Idea That Trump’s Crypto Billions Are a ‘Problem’: ‘All Americans Are Benefitting’",
         "source": "Mediaite",
         "url": "https://www.mediaite.com/media/tv/scott-bessent-rejects-idea-that-trumps-crypto-billions-are-a-problem-all-americans-are-benefitting/",
@@ -39,27 +60,6 @@
         "url": "https://www.thehindubusinessline.com/economy/agri-business/garware-rides-non-salmon-aquaculture-wave/article71179831.ece",
         "published": "2026-07-03T15:41:48Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices stable as US-Iran peace efforts hold",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/news/oil-prices-little-changed-ahead-075928204.html",
-        "published": "2026-07-03T15:40:32Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran plans to sell oil to Japan under US sanctions waiver",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-oil-japan-us-sanctions-waiver/",
-        "published": "2026-07-03T15:35:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Americans hit the road in record numbers for 4th of July — in spite of high gas prices",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/07/03/business/americans-hit-the-road-in-record-numbers-for-july-fourth-in-spite-of-pricey-gas/",
-        "published": "2026-07-03T15:31:54Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
