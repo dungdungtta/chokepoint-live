@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T11:07:12.298Z",
+    "generated_at": "2026-07-04T12:36:12.162Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "All Your Favorite Gadgets Are Getting Way More Expensive … Again",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/",
-        "published": "2026-07-03T11:00:00Z",
+        "title": "Iran discusses resuming oil exports to Japan amid US sanctions waiver",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-oil-exports-japan-sanctions-waiver/",
+        "published": "2026-07-03T12:06:55Z",
         "sentiment": "watch"
       },
       {
-        "title": "What is Nayara, the Indian firm Russia is reportedly importing oil from?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/3/what-is-nayara-the-indian-firm-russia-is-reportedly-importing-oil-from",
-        "published": "2026-07-03T10:53:12Z",
+        "title": "Hormuz transits increase as US-Iran ceasefire holds",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260703-azertac02.htm",
+        "published": "2026-07-03T12:00:00Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Who's Shipping Bananas To Russia, And Who's Shipping Cocaine?",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/07/russia-260703-rferl01.htm",
+        "published": "2026-07-03T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Italy joins Bulgaria in resisting EU sanctions against Putin ally Patriarch Kirill",
-        "source": "POLITICO.eu",
-        "url": "https://www.politico.eu/article/italy-bulgaria-resist-eu-sanctions-patriarch-kirill-russia-orthodox/",
-        "published": "2026-07-03T10:46:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Apple's Foldable iPhone Surge Saves the S&P 500 From a Chip Rout as Weak Jobs Report Divides Wall Street",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/apples-stock-surge-offsets-sp500-decline-foldable-iphone-news-1871770",
-        "published": "2026-07-03T10:28:22Z",
+        "title": "David Des Roches: Iran Is Losing The Long Game",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260703-rferl03.htm",
+        "published": "2026-07-03T12:00:00Z",
         "sentiment": "watch"
       }
     ],
