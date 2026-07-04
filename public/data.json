@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T15:43:18.176Z",
+    "generated_at": "2026-07-04T16:44:42.566Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Scott Bessent Rejects Idea That Trump’s Crypto Billions Are a ‘Problem’: ‘All Americans Are Benefitting’",
+        "source": "Mediaite",
+        "url": "https://www.mediaite.com/media/tv/scott-bessent-rejects-idea-that-trumps-crypto-billions-are-a-problem-all-americans-are-benefitting/",
+        "published": "2026-07-03T15:46:52Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Garware rides non-salmon aquaculture wave",
         "source": "BusinessLine",
         "url": "https://www.thehindubusinessline.com/economy/agri-business/garware-rides-non-salmon-aquaculture-wave/article71179831.ece",
@@ -52,13 +59,6 @@
         "source": "New York Post",
         "url": "https://nypost.com/2026/07/03/business/americans-hit-the-road-in-record-numbers-for-july-fourth-in-spite-of-pricey-gas/",
         "published": "2026-07-03T15:31:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "TotalEnergies Offers Millions of Barrels of Iraqi Crude to Asian Buyers",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Offers-Millions-of-Barrels-of-Iraqi-Crude-to-Asian-Buyers.html",
-        "published": "2026-07-03T15:30:00Z",
         "sentiment": "watch"
       }
     ],
