@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T09:27:43.236Z",
+    "generated_at": "2026-07-04T11:07:12.298Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Remains in a Divided Market",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/oil_remains_in_a_divided_market-03-jul-2026-184051-article/",
-        "published": "2026-07-03T09:14:31Z",
+        "title": "All Your Favorite Gadgets Are Getting Way More Expensive … Again",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/",
+        "published": "2026-07-03T11:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Russia’s Urals crude falls 60% since March peak, now under $45 a barrel",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/russias-urals-crude-falls-60-since-march-peak-now-under-45-a-barrel/",
-        "published": "2026-07-03T09:14:29Z",
+        "title": "What is Nayara, the Indian firm Russia is reportedly importing oil from?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/3/what-is-nayara-the-indian-firm-russia-is-reportedly-importing-oil-from",
+        "published": "2026-07-03T10:53:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "How a fertilizer shortage caused by the Iran war could affect U.S. food prices",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/07/03/nx-s1-5877344/fertilizer-shortage-food-prices",
-        "published": "2026-07-03T09:00:00Z",
-        "sentiment": "danger"
+        "title": "Italy joins Bulgaria in resisting EU sanctions against Putin ally Patriarch Kirill",
+        "source": "POLITICO.eu",
+        "url": "https://www.politico.eu/article/italy-bulgaria-resist-eu-sanctions-patriarch-kirill-russia-orthodox/",
+        "published": "2026-07-03T10:46:14Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Global food prices decline as US-Iran ceasefire eases supply concerns",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/global-food-prices-decline-us-iran-ceasefire/",
-        "published": "2026-07-03T08:13:09Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Citi sees Brent crude sliding to $60 as supply fears ease",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/citi-sees-brent-crude-sliding-to-60-as-supply-fears-ease/articleshow/132156275.cms",
-        "published": "2026-07-03T08:12:15Z",
+        "title": "Apple's Foldable iPhone Surge Saves the S&P 500 From a Chip Rout as Weak Jobs Report Divides Wall Street",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/apples-stock-surge-offsets-sp500-decline-foldable-iphone-news-1871770",
+        "published": "2026-07-03T10:28:22Z",
         "sentiment": "watch"
       }
     ],
