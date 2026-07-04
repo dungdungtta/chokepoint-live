@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-03T23:48:51.485Z",
+    "generated_at": "2026-07-04T03:52:05.555Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "BC, feds reach deal on LNG that keeps tanker ban in place",
-        "source": "National Observer",
-        "url": "https://www.nationalobserver.com/2026/07/02/news/bc-tanker-ban-lng",
-        "published": "2026-07-02T23:25:20Z",
+        "title": "ASX 200 Surges 1.36% on Friday as Gold Miners Soar and Weak US Jobs Report Kills Rate Hike Fears",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/asx-200-surges-us-payrolls-miss-eases-rate-hike-fears-1871741",
+        "published": "2026-07-03T03:13:31Z",
         "sentiment": "watch"
       },
       {
-        "title": "New Atomic Age Underway As Three Mini Reactors Go ‘Critical’ By Trump’s July 4 Deadline",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/christopherhelman/2026/07/02/new-atomic-age-underway-as-three-mini-reactors-go-critical-by-trumps-july-4-deadline/",
-        "published": "2026-07-02T22:27:16Z",
+        "title": "Canada’s Carney Taps State-Owned Firm to Build Oil Pipeline to Serve Asia",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/canadas-carney-taps-state-owned-firm-to-build-oil-pipeline-to-serve-asia",
+        "published": "2026-07-03T02:54:59Z",
         "sentiment": "watch"
       },
       {
-        "title": "Tehran Is Racing the Clock to Export as Much Oil as Possible",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Tehran-Is-Racing-the-Clock-to-Export-as-Much-Oil-as-Possible.html",
-        "published": "2026-07-02T22:00:00Z",
+        "title": "Oil Price Today (July 3): Crude oil heads for 4th weekly loss on Hormuz traffic, US-Iran talks. Where is liquid gold headed?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-3-crude-oil-heads-for-4th-weekly-loss-on-hormuz-traffic-us-iran-talks-where-is-liquid-gold-headed/articleshow/132150799.cms",
+        "published": "2026-07-03T02:09:34Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Oil up slightly ahead of long US weekend as peace efforts hold",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-up-slightly-ahead-long-us-weekend-peace-efforts-hold-6229381",
+        "published": "2026-07-03T02:06:26Z",
         "sentiment": "watch"
       },
       {
-        "title": "1967 Chevrolet Corvette Coupe L71 427/435 4-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1967-chevrolet-corvette-coupe-121/",
-        "published": "2026-07-02T21:53:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "House GOP Wants Trump to Let Jones Act Waiver Expire",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/jones-act-waiver-expire-house-gop-mike-johnson-trump-administration-oil-prices-1239051927/",
-        "published": "2026-07-02T21:44:40Z",
+        "title": "Iran and Oman propose fee plan for Strait of Hormuz, sources say",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/iran-oman-propose-fee-plan-strait-hormuz-sources-say-rcna352822",
+        "published": "2026-07-03T02:03:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan faces potential Chinese blockade, invasion amid rising tensions: Reuters",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/taiwan-faces-potential-chinese-blockade-invasion-amid-rising-tensions-reuters/",
+        "published": "2026-07-03T03:22:58Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US diplomat wants to turn Taiwan into ‘hornet’s nest of drones’",
+        "source": "RT",
+        "url": "https://www.rt.com/news/642513-taiwan-drone-hornet-nest/",
+        "published": "2026-07-03T00:47:49Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Japan’s key agenda",
         "source": "BusinessLine",
@@ -82,20 +96,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/taiwan-urged-to-boost-drone-arsenal-amid-rising-china-tensions-us-diplomat/",
         "published": "2026-07-02T03:22:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Tel Aviv should build broader alliance from India to US via West Asia: Top Israeli defence official",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/tel-aviv-should-build-broader-alliance-from-india-to-us-via-west-asia-top-israeli-defence-official/articleshow/132118666.cms",
-        "published": "2026-07-01T15:34:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China, US urge caution over Taiwan in diplomatic call",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/china-us-urge-caution-over-taiwan-in-diplomatic-call/",
-        "published": "2026-07-01T14:21:15Z",
         "sentiment": "watch"
       }
     ],
