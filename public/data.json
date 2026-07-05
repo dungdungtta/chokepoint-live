@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T12:56:36.915Z",
+    "generated_at": "2026-07-05T14:49:33.523Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "“Time has come to move from promise to practice”: Harsh Vardhan Shringla calls for India and Indonesia to match strategic intent with implementation",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/india/time-has-come-to-move-from-promise-to-practice-harsh-vardhan-shringla-calls-for-india-and-indonesia-to-match-strategic-intent-with-implementation/articleshow/132182311.cms",
+        "published": "2026-07-04T13:38:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran’s Envoy to China Says Beijing to Get Hormuz Concessions",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/irans-envoy-to-china-says-beijing-to-get-hormuz-concessions",
+        "published": "2026-07-04T13:26:29Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Thousands of Iranians gather in Tehran to mourn Khamenei",
         "source": "RTE",
         "url": "https://www.rte.ie/news/middle-east/2026/0704/1581758-khamenei-funeral/",
@@ -46,20 +60,6 @@
         "url": "https://www.cnbc.com/2026/07/04/uk-france-agree-with-oman-to-ensure-safety-of-its-territorial-waters.html",
         "published": "2026-07-04T09:29:53Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Alberta’s pipeline pitch is heavy on public, light on private investment — so who benefits?",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/canada/calgary/public-private-alberta-pipeline-9.7257602",
-        "published": "2026-07-04T08:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran asserts Hormuz control as Qatar reports progress in indirect talks with U.S.",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-04-iran-asserts-hormuz-control-qatar-indirect-talks-us.html",
-        "published": "2026-07-04T06:00:00Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
