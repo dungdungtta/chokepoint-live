@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T18:47:53.599Z",
+    "generated_at": "2026-07-05T20:19:10.056Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Why Norway Brought In 1,276 Pounds Of Food For The 2026 FIFA World Cup",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/brucelee/2026/07/04/why-norway-brought-in-1276-pounds-of-food-for-the-2026-fifa-world-cup/",
+        "published": "2026-07-04T19:05:22Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "2005 Triumph Rocket 3 at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/2005-triumph-rocket-3-2/",
+        "published": "2026-07-04T19:00:01Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "'Let us wail!' Iranians flock to Khamenei's funeral after wartime death",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/let-us-wail-iranians-flock-to-khameneis-funeral-after-wartime-death/articleshow/132186886.cms",
+        "published": "2026-07-04T18:56:35Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Oil Price Crash: 1 Top Oil Stock to Buy Now",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/851a70ad4655c70a",
@@ -39,27 +60,6 @@
         "url": "https://cryptobriefing.com/iran-us-ceasefire-mou-hormuz-oil-markets/",
         "published": "2026-07-04T16:23:39Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Trump says Iran gets ‘week off’ for lengthy funeral for former supreme leader Ali Khamenei: ‘Isn’t that nice?’",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/07/04/world-news/trump-says-iran-gets-week-off-for-lengthy-khamenei-funeral-isnt-that-nice/",
-        "published": "2026-07-04T15:40:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hormuz Ship Transits Quadruple as Trump Plan Works",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4386641/posts",
-        "published": "2026-07-04T15:39:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran’s envoy to China says Beijing to get Hormuz concessions",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/04/iran-envoy-china-strait-of-hormuz-concessions-service-fees/",
-        "published": "2026-07-04T15:07:46Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
