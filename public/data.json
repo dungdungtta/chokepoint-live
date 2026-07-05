@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T04:11:06.666Z",
+    "generated_at": "2026-07-05T07:40:08.288Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran asserts Hormuz control as Qatar reports progress in indirect talks with U.S.",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-04-iran-asserts-hormuz-control-qatar-indirect-talks-us.html",
+        "published": "2026-07-04T06:00:00Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Oil is little changed as Persian Gulf flows near pre-war levels",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-02/latest-oil-market-news-and-analysis-for-july-1",
+        "published": "2026-07-04T04:50:17Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Oil prices little changed as US-Iran peace efforts hold",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-little-changed-as-us-iran-peace-efforts-hold/articleshow/132174283.cms",
@@ -46,23 +60,16 @@
         "url": "https://freerepublic.com/focus/f-chat/4386546/posts",
         "published": "2026-07-03T21:43:28Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "46-Years-Owned 1967 BSA West Coast Hornet 650 at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1967-bsa-hornet-650-4/",
-        "published": "2026-07-03T20:23:24Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Refiner Profits Are Soaring",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/refiner_profits_are_soaring-03-jul-2026-184059-article/",
-        "published": "2026-07-03T20:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China launches coast guard patrol east of Taiwan amid regional tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/china-launches-coast-guard-patrol-east-of-taiwan-amid-regional-tensions/",
+        "published": "2026-07-04T04:31:51Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China's latest activities near Taiwan indicate new strategy",
         "source": "ABC News (AU)",
@@ -89,13 +96,6 @@
         "source": "BusinessLine",
         "url": "https://www.thehindubusinessline.com/opinion/japans-key-agenda/article71175287.ece",
         "published": "2026-07-02T15:27:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. still China's main rival despite report on Japan and Philippines' capabilities",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/07/china-260702-rfa01.htm",
-        "published": "2026-07-02T12:00:00Z",
         "sentiment": "watch"
       }
     ],
