@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T11:43:12.482Z",
+    "generated_at": "2026-07-05T12:56:36.915Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Thousands of Iranians gather in Tehran to mourn Khamenei",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/0704/1581758-khamenei-funeral/",
+        "published": "2026-07-04T12:28:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oman Agrees With Britain, France To Safeguard Hormuz Shipping",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260704-rferl02.htm",
+        "published": "2026-07-04T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "UK and France agree with Oman to ensure safety of its territorial waters",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/07/04/uk-france-agree-with-oman-to-ensure-safety-of-its-territorial-waters.html",
@@ -46,20 +60,6 @@
         "url": "https://www.naturalnews.com/2026-07-04-iran-asserts-hormuz-control-qatar-indirect-talks-us.html",
         "published": "2026-07-04T06:00:00Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Oil is little changed as Persian Gulf flows near pre-war levels",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-02/latest-oil-market-news-and-analysis-for-july-1",
-        "published": "2026-07-04T04:50:17Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices little changed as US-Iran peace efforts hold",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-little-changed-as-us-iran-peace-efforts-hold/articleshow/132174283.cms",
-        "published": "2026-07-04T03:49:59Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
