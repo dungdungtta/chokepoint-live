@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T16:15:08.327Z",
+    "generated_at": "2026-07-05T17:34:15.934Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran signs ceasefire MOU with US amid deep skepticism over American commitments",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-us-ceasefire-mou-hormuz-oil-markets/",
+        "published": "2026-07-04T16:23:39Z",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Trump says Iran gets ‘week off’ for lengthy funeral for former supreme leader Ali Khamenei: ‘Isn’t that nice?’",
         "source": "New York Post",
         "url": "https://nypost.com/2026/07/04/world-news/trump-says-iran-gets-week-off-for-lengthy-khamenei-funeral-isnt-that-nice/",
@@ -52,13 +59,6 @@
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/india/time-has-come-to-move-from-promise-to-practice-harsh-vardhan-shringla-calls-for-india-and-indonesia-to-match-strategic-intent-with-implementation/articleshow/132182311.cms",
         "published": "2026-07-04T13:38:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran’s Envoy to China Says Beijing to Get Hormuz Concessions",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/irans-envoy-to-china-says-beijing-to-get-hormuz-concessions",
-        "published": "2026-07-04T13:26:29Z",
         "sentiment": "watch"
       }
     ],
