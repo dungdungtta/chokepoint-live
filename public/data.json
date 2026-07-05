@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T23:45:35.161Z",
+    "generated_at": "2026-07-05T04:11:06.666Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil prices little changed as US-Iran peace efforts hold",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-little-changed-as-us-iran-peace-efforts-hold/articleshow/132174283.cms",
+        "published": "2026-07-04T03:49:59Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "France and UK partner with Oman to restore safe transit through Strait of Hormuz, and crypto markets are watching",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/france-uk-oman-strait-hormuz-crypto-impact/",
@@ -52,13 +59,6 @@
         "source": "Rigzone",
         "url": "https://www.rigzone.com/news/wire/refiner_profits_are_soaring-03-jul-2026-184059-article/",
         "published": "2026-07-03T20:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Garvee Independence Day Sale: Up to 59% off + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Garvee-Independence-Day-Sale-Up-to-59-off-free-shipping/21871493.html",
-        "published": "2026-07-03T19:14:17Z",
         "sentiment": "watch"
       }
     ],
