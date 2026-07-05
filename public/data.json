@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T17:34:15.934Z",
+    "generated_at": "2026-07-05T18:47:53.599Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil Price Crash: 1 Top Oil Stock to Buy Now",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/851a70ad4655c70a",
+        "published": "2026-07-04T18:11:25Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran signs ceasefire MOU with US amid deep skepticism over American commitments",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/iran-us-ceasefire-mou-hormuz-oil-markets/",
@@ -52,13 +59,6 @@
         "source": "Fortune",
         "url": "https://fortune.com/2026/07/04/iran-envoy-china-strait-of-hormuz-concessions-service-fees/",
         "published": "2026-07-04T15:07:46Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "“Time has come to move from promise to practice”: Harsh Vardhan Shringla calls for India and Indonesia to match strategic intent with implementation",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/india/time-has-come-to-move-from-promise-to-practice-harsh-vardhan-shringla-calls-for-india-and-indonesia-to-match-strategic-intent-with-implementation/articleshow/132182311.cms",
-        "published": "2026-07-04T13:38:16Z",
         "sentiment": "watch"
       }
     ],
