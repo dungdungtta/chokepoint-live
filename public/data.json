@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-06T20:28:43.902Z",
+    "generated_at": "2026-07-06T21:59:47.604Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "The Race To Rescue 8,000 Sailors Still Stranded Behind Hormuz",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/the-race-to-rescue-8000-sailors-still-stranded-behind-hormuz/",
-        "published": "2026-07-05T20:10:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "OPEC+ raises crude output despite falling prices, and crypto markets are paying attention",
+        "title": "OPEC+ approves cumulative production increase of 940,000 barrels per day as oil strategy shifts",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/opec-crude-output-crypto-implications/",
-        "published": "2026-07-05T20:02:58Z",
+        "url": "https://cryptobriefing.com/opec-production-increase-940k-bpd/",
+        "published": "2026-07-05T21:36:06Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Supertanker Tycoon Making Millions on Hormuz Shuttle Runs",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/the-supertanker-tycoon-making-millions-on-hormuz-shuttle-runs",
-        "published": "2026-07-05T19:38:12Z",
+        "title": "[SnS, AC] $11.96 | 2 × 6-Oz Hawaiian Tropic Dry Oil Tanning Spray Sunscreen SPF 15 ($5.98 each) at Amazon",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19725027-sns-ac-11-96-2-6-oz-hawaiian-tropic-dry-oil-tanning-spray-sunscreen-spf-15-5-98-each-at-amazon",
+        "published": "2026-07-05T21:33:56Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The supertanker tycoon making millions on Hormuz shuttle runs",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/05/supertanker-tycoon-sinokor-ga-hyun-chung-hormuz-oil-tanker-shuttles/",
+        "published": "2026-07-05T21:04:20Z",
         "sentiment": "watch"
       },
       {
         "title": "7 OPEC+ countries agree to expand monthly oil production modestly as prices slide",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/7-opec-countries-agree-expand-184751385.html",
-        "published": "2026-07-05T18:47:51Z",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/7-opec-countries-agree-expand-monthly-oil-production-134501573",
+        "published": "2026-07-05T20:43:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Race To Rescue 8,000 Sailors Still Stranded Behind Hormuz",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/the-race-to-rescue-8000-sailors-still-stranded-behind-hormuz/",
+        "published": "2026-07-05T20:10:58Z",
         "sentiment": "watch"
       }
     ],
