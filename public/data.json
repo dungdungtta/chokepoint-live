@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-06T18:27:11.150Z",
+    "generated_at": "2026-07-06T20:28:43.902Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil, gas tankers cross Hormuz via Oman-side route after U-turns",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/05/oil-gas-tankers-strait-of-hormuz-transit-oman-side-route/",
-        "published": "2026-07-05T18:15:14Z",
+        "title": "The Race To Rescue 8,000 Sailors Still Stranded Behind Hormuz",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/the-race-to-rescue-8000-sailors-still-stranded-behind-hormuz/",
+        "published": "2026-07-05T20:10:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "Another Aircraft Carrier Is Set To Depart From The Middle East",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/petersuciu/2026/07/05/another-aircraft-carrier-is-set-to-depart-from-the-middle-east/",
-        "published": "2026-07-05T17:47:31Z",
+        "title": "OPEC+ raises crude output despite falling prices, and crypto markets are paying attention",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/opec-crude-output-crypto-implications/",
+        "published": "2026-07-05T20:02:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "VIVA Moments River Cruise Review: What It’s Really Like Onboard",
-        "source": "Johnnyjet.com",
-        "url": "https://johnnyjet.com/viva-moments-river-cruise-review-what-its-really-like-onboard/",
-        "published": "2026-07-05T13:54:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil, Gas Tankers Cross Hormuz Via Oman-Side Route After U-Turns",
+        "title": "The Supertanker Tycoon Making Millions on Hormuz Shuttle Runs",
         "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-gas-tankers-cross-hormuz-via-oman-side-route-after-u-turns",
-        "published": "2026-07-05T13:31:18Z",
+        "url": "https://financialpost.com/pmn/business-pmn/the-supertanker-tycoon-making-millions-on-hormuz-shuttle-runs",
+        "published": "2026-07-05T19:38:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "Ecocide in the Arctic: How Western Policies Are Damaging the Northern Environment and the Rights of Indigenous Peoples",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/western-policies-damaging-northern-environment-rights-indigenous-peoples/5932415",
-        "published": "2026-07-05T12:41:06Z",
+        "title": "7 OPEC+ countries agree to expand monthly oil production modestly as prices slide",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/7-opec-countries-agree-expand-184751385.html",
+        "published": "2026-07-05T18:47:51Z",
         "sentiment": "watch"
       }
     ],
