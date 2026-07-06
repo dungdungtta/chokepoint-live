@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-06T16:25:56.652Z",
+    "generated_at": "2026-07-06T18:27:11.150Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil, gas tankers cross Hormuz via Oman-side route after U-turns",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/05/oil-gas-tankers-strait-of-hormuz-transit-oman-side-route/",
+        "published": "2026-07-05T18:15:14Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Another Aircraft Carrier Is Set To Depart From The Middle East",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/petersuciu/2026/07/05/another-aircraft-carrier-is-set-to-depart-from-the-middle-east/",
+        "published": "2026-07-05T17:47:31Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "VIVA Moments River Cruise Review: What It’s Really Like Onboard",
         "source": "Johnnyjet.com",
         "url": "https://johnnyjet.com/viva-moments-river-cruise-review-what-its-really-like-onboard/",
@@ -45,20 +59,6 @@
         "source": "Globalresearch.ca",
         "url": "https://www.globalresearch.ca/western-policies-damaging-northern-environment-rights-indigenous-peoples/5932415",
         "published": "2026-07-05T12:41:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "OPEC+ raises quotas again as Middle East calms",
-        "source": "The Punch",
-        "url": "https://punchng.com/opec-raises-quotas-again-as-middle-east-calms/",
-        "published": "2026-07-05T12:23:44Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi-U.S. Ties Face Their Deepest Rift in Years Over Iran, Regional Security, and Diplomatic Priorities",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/saudi-us-deepest-rift-iran-regional-security-diplomatic-priorities/5932426",
-        "published": "2026-07-05T12:12:02Z",
         "sentiment": "watch"
       }
     ],
