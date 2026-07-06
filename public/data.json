@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-06T08:47:31.710Z",
+    "generated_at": "2026-07-06T12:55:11.032Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "During the Second World War, the American company Hormel shipped more than 100 million pounds of canned Spam to Allied soldiers on every front from the Pacific islands to the Soviet Red Army — and after the war, Nikita Khrushchev wrote in his memoirs that without American Spam, the Soviet Union would not have been able to feed its army",
-        "source": "Space Daily",
-        "url": "https://spacedaily.com/d-during-the-second-world-war-the-american-company-hormel-shipped-more-than-100-million-pounds-of-canned-spam-to-allied-soldiers-on-every-front-from-the-pacific-islands-to-the-soviet-red-army/",
-        "published": "2026-07-05T08:30:06Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Citi forecasts Brent Crude may drop to $60 by year-end despite US-Iran tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/citi-forecasts-brent-crude-may-drop-to-60-by-year-end-despite-us-iran-tensions/",
-        "published": "2026-07-05T07:14:37Z",
+        "title": "Ecocide in the Arctic: How Western Policies Are Damaging the Northern Environment and the Rights of Indigenous Peoples",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/western-policies-damaging-northern-environment-rights-indigenous-peoples/5932415",
+        "published": "2026-07-05T12:41:06Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iranian Commander Warns U.S., Israel Against Attacks as Khamenei Funeral Preparations Underway",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-05-iranian-commander-warns-against-attacks-khamenei-funeral.html",
-        "published": "2026-07-05T06:00:00Z",
+        "title": "OPEC+ raises quotas again as Middle East calms",
+        "source": "The Punch",
+        "url": "https://punchng.com/opec-raises-quotas-again-as-middle-east-calms/",
+        "published": "2026-07-05T12:23:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Saudi-U.S. Ties Face Their Deepest Rift in Years Over Iran, Regional Security, and Diplomatic Priorities",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/saudi-us-deepest-rift-iran-regional-security-diplomatic-priorities/5932426",
+        "published": "2026-07-05T12:12:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Cargo Ship Reports Attack Off Yemen",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260705-rferl02.htm",
+        "published": "2026-07-05T12:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Report: Saudi Crown Prince Lost Confidence in Trump After U.S. Failure in Iran",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-05-saudi-crown-prince-lost-faith-in-trump.html",
-        "published": "2026-07-05T06:00:00Z",
+        "title": "OPEC+ agrees to modest oil production increase that probably won’t matter much",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/opec-plus-oil-production-quota-increase-july/",
+        "published": "2026-07-05T10:58:50Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "America’s battlefield dominance is under serious threat",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/americas-battlefield-dominance-is-under-serious-threat/articleshow/132193035.cms",
+        "published": "2026-07-05T09:03:28Z",
+        "sentiment": "danger"
+      },
       {
         "title": "China raises pressure on Taiwan with expanded coast guard patrols",
         "source": "Crypto Briefing",
@@ -83,13 +97,6 @@
         "url": "https://www.abc.net.au/news/2026-07-03/australia-concerns-about-china-action-east-of-taiwan/106877030",
         "published": "2026-07-03T08:03:05Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan faces potential Chinese blockade, invasion amid rising tensions: Reuters",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/taiwan-faces-potential-chinese-blockade-invasion-amid-rising-tensions-reuters/",
-        "published": "2026-07-03T03:22:58Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
