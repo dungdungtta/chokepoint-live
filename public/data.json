@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-06T04:18:27.850Z",
+    "generated_at": "2026-07-06T08:47:31.710Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Tehran asserts Hormuz transit fees while offering breaks to 'friendly' states",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/429638",
-        "published": "2026-07-05T03:25:13Z",
-        "sentiment": "watch"
+        "title": "During the Second World War, the American company Hormel shipped more than 100 million pounds of canned Spam to Allied soldiers on every front from the Pacific islands to the Soviet Red Army — and after the war, Nikita Khrushchev wrote in his memoirs that without American Spam, the Soviet Union would not have been able to feed its army",
+        "source": "Space Daily",
+        "url": "https://spacedaily.com/d-during-the-second-world-war-the-american-company-hormel-shipped-more-than-100-million-pounds-of-canned-spam-to-allied-soldiers-on-every-front-from-the-pacific-islands-to-the-soviet-red-army/",
+        "published": "2026-07-05T08:30:06Z",
+        "sentiment": "danger"
       },
       {
-        "title": "OPEC+ tipped to raise quotas again as Middle East calms",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/opec-tipped-to-raise-quotas-again-as-middle-east-calms/articleshow/132190175.cms",
-        "published": "2026-07-05T03:03:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Eight Saints High Society Botanical Face Oil w/ Neroli, Marula & Jojoba Oil (1 oz) $34.10 + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19722612-eight-saints-high-society-botanical-face-oil-w-neroli-marula-jojoba-oil-1-oz-34-10-free-shipping-w-prime-or-on-35",
-        "published": "2026-07-05T02:58:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "America’s Energy Dominance: The Fruit Of Freedom On Our 250th",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/07/04/opinion-america-250-energy-dominance-david-blackmon/",
-        "published": "2026-07-04T23:37:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran to charge service fees for ships in Strait of Hormuz, with Bitcoin payments and friendly-nation discounts",
+        "title": "Citi forecasts Brent Crude may drop to $60 by year-end despite US-Iran tensions",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-hormuz-strait-fees-bitcoin-payments/",
-        "published": "2026-07-04T23:19:10Z",
+        "url": "https://cryptobriefing.com/citi-forecasts-brent-crude-may-drop-to-60-by-year-end-despite-us-iran-tensions/",
+        "published": "2026-07-05T07:14:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iranian Commander Warns U.S., Israel Against Attacks as Khamenei Funeral Preparations Underway",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-05-iranian-commander-warns-against-attacks-khamenei-funeral.html",
+        "published": "2026-07-05T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Report: Saudi Crown Prince Lost Confidence in Trump After U.S. Failure in Iran",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-05-saudi-crown-prince-lost-faith-in-trump.html",
+        "published": "2026-07-05T06:00:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China raises pressure on Taiwan with expanded coast guard patrols",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/china-raises-pressure-on-taiwan-with-expanded-coast-guard-patrols/",
+        "published": "2026-07-05T08:26:58Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan resumes anti-communist classes amid rising China threat",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/taiwan-resumes-anti-communist-classes-amid-rising-china-threat/",
+        "published": "2026-07-05T07:39:38Z",
+        "sentiment": "danger"
+      },
       {
         "title": "China launches coast guard patrol east of Taiwan amid regional tensions",
         "source": "Crypto Briefing",
@@ -83,20 +90,6 @@
         "url": "https://cryptobriefing.com/taiwan-faces-potential-chinese-blockade-invasion-amid-rising-tensions-reuters/",
         "published": "2026-07-03T03:22:58Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "US diplomat wants to turn Taiwan into ‘hornet’s nest of drones’",
-        "source": "RT",
-        "url": "https://www.rt.com/news/642513-taiwan-drone-hornet-nest/",
-        "published": "2026-07-03T00:47:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Japan’s key agenda",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/opinion/japans-key-agenda/article71175287.ece",
-        "published": "2026-07-02T15:27:48Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
