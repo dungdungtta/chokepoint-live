@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T23:47:32.825Z",
+    "generated_at": "2026-07-06T04:18:27.850Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Tehran asserts Hormuz transit fees while offering breaks to 'friendly' states",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/429638",
+        "published": "2026-07-05T03:25:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "OPEC+ tipped to raise quotas again as Middle East calms",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/opec-tipped-to-raise-quotas-again-as-middle-east-calms/articleshow/132190175.cms",
+        "published": "2026-07-05T03:03:33Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Eight Saints High Society Botanical Face Oil w/ Neroli, Marula & Jojoba Oil (1 oz) $34.10 + Free Shipping w/ Prime or on $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19722612-eight-saints-high-society-botanical-face-oil-w-neroli-marula-jojoba-oil-1-oz-34-10-free-shipping-w-prime-or-on-35",
+        "published": "2026-07-05T02:58:57Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "America’s Energy Dominance: The Fruit Of Freedom On Our 250th",
         "source": "The Daily Caller",
         "url": "https://dailycaller.com/2026/07/04/opinion-america-250-energy-dominance-david-blackmon/",
@@ -38,27 +59,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/iran-hormuz-strait-fees-bitcoin-payments/",
         "published": "2026-07-04T23:19:10Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "6.5-Oz Johnson's Baby Oil Gel w/ Aloe Vera & Vitamin E $3.28 w/ S&S + Free Shipping",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19721943-6-5-oz-johnson-s-baby-oil-gel-w-aloe-vera-vitamin-e-3-28-w-s-s-free-shipping",
-        "published": "2026-07-04T21:17:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why Norway Brought In 1,276 Pounds Of Food For The 2026 FIFA World Cup",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/brucelee/2026/07/04/why-norway-brought-in-1276-pounds-of-food-for-the-2026-fifa-world-cup/",
-        "published": "2026-07-04T19:05:22Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "2005 Triumph Rocket 3 at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2005-triumph-rocket-3-2/",
-        "published": "2026-07-04T19:00:01Z",
         "sentiment": "watch"
       }
     ],
