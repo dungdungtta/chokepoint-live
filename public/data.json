@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-06T23:19:27.474Z",
+    "generated_at": "2026-07-07T01:18:37.388Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil slips after OPEC+ agrees to raise output targets",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-slips-after-opec-agrees-to-raise-output-targets/articleshow/132205113.cms",
+        "published": "2026-07-06T01:02:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil supply wave, tumbling prices rekindle fears of global glut",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/companies-markets/oil-supply-wave-tumbling-prices-rekindle-fears-of-global-glut",
+        "published": "2026-07-06T00:58:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Asia’s loan market hits a five-year low as Iran conflict chills lender confidence",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/asia-loan-market-iran-conflict-five-year-low/",
+        "published": "2026-07-06T00:20:41Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Exclusive: Lucid Motors’ Saudi Bet Meets Harsh Reality As New CEO Cuts Deep To Keep Cosmos Alive",
+        "source": "CleanTechnica",
+        "url": "https://cleantechnica.com/2026/07/05/exclusive-lucid-motors-saudi-bet-meets-harsh-reality-as-new-ceo-cuts-deep-to-keep-cosmos-alive/",
+        "published": "2026-07-05T23:59:06Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Oil Drops as Flows in Hormuz Persist and OPEC+ Flags More Supply",
         "source": "Financial Post",
         "url": "https://financialpost.com/pmn/business-pmn/oil-drops-as-flows-in-hormuz-persist-and-opec-flags-more-supply",
         "published": "2026-07-05T22:47:22Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "7 OPEC+ countries agree to expand monthly oil production modestly as prices slide",
-        "source": "KSAT San Antonio",
-        "url": "https://www.ksat.com/business/2026/07/05/7-opec-countries-agree-to-expand-monthly-oil-production-modestly-as-prices-slide/",
-        "published": "2026-07-05T22:24:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Is the NZ economy looking up at last?",
-        "source": "New Zealand Herald",
-        "url": "https://www.nzherald.co.nz/business/economy/is-the-nz-economy-looking-up-at-last/2FYDYWJY3BCETMFRQZPLCBG43Q/",
-        "published": "2026-07-05T22:04:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Commentary: The fragile reopening of Hormuz is no return to normal for Asia",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/commentary/iran-war-strait-hormuz-fragile-reopening-what-it-means-asia-6229406",
-        "published": "2026-07-05T22:00:00Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "OPEC+ approves cumulative production increase of 940,000 barrels per day as oil strategy shifts",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/opec-production-increase-940k-bpd/",
-        "published": "2026-07-05T21:36:06Z",
         "sentiment": "watch"
       }
     ],
