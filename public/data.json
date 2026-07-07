@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-07T21:08:23.413Z",
+    "generated_at": "2026-07-07T22:32:23.626Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Shipping Thrived After Trump Waived the Jones Act",
+        "source": "Reason",
+        "url": "https://reason.com/2026/07/06/shipping-thrived-after-trump-waived-the-jones-act/",
+        "published": "2026-07-06T21:42:43Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Saudi Arabia Ships 34 Million Barrels Through Hormuz Despite Thin Tanker Traffic",
         "source": "OilPrice.com",
@@ -53,13 +60,6 @@
         "url": "https://www.cbc.ca/news/business/canada-iran-war-business-outlook-survey-9.7260279",
         "published": "2026-07-06T19:35:35Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "2012 Harley-Davidson Electra Glide Ultra Limited at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2012-harley-davidson-electra-glide-2/",
-        "published": "2026-07-06T19:05:05Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
