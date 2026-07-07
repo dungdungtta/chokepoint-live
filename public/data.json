@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-07T12:32:24.355Z",
+    "generated_at": "2026-07-07T15:35:46.799Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Current price of oil as of July 6, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-07-06-2026/",
-        "published": "2026-07-06T12:32:12Z",
+        "title": "Washington's Plan to Neutralize Iran’s Hormuz Leverage",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Washingtons-Plan-to-Neutralize-Irans-Hormuz-Leverage.html",
+        "published": "2026-07-06T15:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "OPEC+ raises oil output for fifth straight month as Hormuz recovers",
-        "source": "Quartz India",
-        "url": "https://qz.com/opec-plus-output-hike-fifth-month-hormuz-070626",
-        "published": "2026-07-06T12:13:28Z",
+        "title": "Future Proof Shipping Wasn’t Future Proof For Hydrogen Cargo",
+        "source": "CleanTechnica",
+        "url": "https://cleantechnica.com/2026/07/06/future-proof-shipping-hydrogen-cargo/",
+        "published": "2026-07-06T14:52:52Z",
         "sentiment": "watch"
       },
       {
-        "title": "The ‘navalization’ of economic warfare sees trade routes become zones of force rather than rules",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/the-navalization-of-economic-warfare-sees-trade-routes-become-zones-of-force-rather-than-rules-286057",
-        "published": "2026-07-06T12:07:24Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "10 Japan-Linked Ships Exiting Gulf After Being Stranded For Months",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260706-rferl05.htm",
-        "published": "2026-07-06T12:00:00Z",
+        "title": "Samaras is talking (to himself!), the disgrace at the airports, from xylene to wind turbines…one Maria away, the exodus of SYRIZA members",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/07/06/samaras-is-talking-to-himself-the-disgrace-at-the-airports-from-xylene-to-wind-turbinesone-maria-away-the-exodus-of-syriza-members/",
+        "published": "2026-07-06T14:04:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "How Shrimp Shells Are Being Turned Into 'Carbon Negative' Fuel, Food and Construction Materials",
-        "source": "Smithsonian.com",
-        "url": "https://www.smithsonianmag.com/innovation/how-shrimp-shells-are-being-turned-into-carbon-negative-fuel-food-and-construction-materials-180989061/",
-        "published": "2026-07-06T12:00:00Z",
+        "title": "Palestinian olive oil importers struggle with drought, tariffs, and settler violence to bring their product to Chicago.",
+        "source": "Chicago Reader",
+        "url": "http://chicagoreader.com/food/food-drink-feature/palestinian-olive-oil-importers-trader-farmers-west-bank-chicago/",
+        "published": "2026-07-06T14:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Engine Room Problem And Why Machinery Failure Remains Shipping’s Dominant Risk",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/the-engine-room-problem-and-why-machinery-failure-remains-shippings-dominant-risk/",
+        "published": "2026-07-06T13:35:57Z",
         "sentiment": "watch"
       }
     ],
@@ -101,6 +101,13 @@
     ],
     "malacca": [
       {
+        "title": "Prabowo, Wong reaffirm open Malacca Strait under UNCLOS",
+        "source": "Antaranews.com",
+        "url": "https://en.antaranews.com/news/421707/prabowo-wong-reaffirm-open-malacca-strait-under-unclos",
+        "published": "2026-07-06T14:19:44Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Singapore and Indonesia 'strategically aligned' to keep Strait of Malacca and Singapore open to all: PM Wong",
         "source": "CNA",
         "url": "https://www.channelnewsasia.com/singapore/indonesia-strait-hormuz-singapore-prabowo-lawrence-wong-6235256",
@@ -127,13 +134,6 @@
         "url": "https://en.antaranews.com/news/421653/prabowo-highlights-warm-heart-to-heart-talks-in-ri-singapore-meeting",
         "published": "2026-07-06T09:52:36Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "When Neutrality Fails: ASEAN in a Malacca Disruption Scenario",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/06/when-neutrality-fails-asean-in-a-malacca-disruption-scenario/",
-        "published": "2026-06-17T15:07:00Z",
-        "sentiment": "watch"
       }
     ]
   },
