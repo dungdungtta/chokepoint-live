@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-07T09:55:52.571Z",
+    "generated_at": "2026-07-07T12:32:24.355Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "STEVE MOORE: Politicians are blaming the wrong villain for America’s rising food prices",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/steve-moore-politicians-blaming-wrong-villain-americas-rising-food-prices",
-        "published": "2026-07-06T09:00:14Z",
+        "title": "Current price of oil as of July 6, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-07-06-2026/",
+        "published": "2026-07-06T12:32:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "ADNOC Consolidates LNG Sales Activities",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/adnoc_consolidates_lng_sales_activities-06-jul-2026-184062-article/",
-        "published": "2026-07-06T08:49:53Z",
+        "title": "OPEC+ raises oil output for fifth straight month as Hormuz recovers",
+        "source": "Quartz India",
+        "url": "https://qz.com/opec-plus-output-hike-fifth-month-hormuz-070626",
+        "published": "2026-07-06T12:13:28Z",
         "sentiment": "watch"
       },
       {
-        "title": "Johnson's Baby Oil 3-oz. Bottle for $1.38 via Sub. & Save + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Johnsons-Baby-Oil-3-oz-Bottle-for-1-38-via-Sub-Save-free-shipping-w-Prime/21883335.html",
-        "published": "2026-07-06T08:24:43Z",
+        "title": "The ‘navalization’ of economic warfare sees trade routes become zones of force rather than rules",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/the-navalization-of-economic-warfare-sees-trade-routes-become-zones-of-force-rather-than-rules-286057",
+        "published": "2026-07-06T12:07:24Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "10 Japan-Linked Ships Exiting Gulf After Being Stranded For Months",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260706-rferl05.htm",
+        "published": "2026-07-06T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil & Gas News (OGN)- Adnoc launches global LNG marketing, trading platform",
-        "source": "Ognnews.com",
-        "url": "https://ognnews.com/ArticleTA/464710/adnoc-launches-global-lng-marketing%2c-trading-platform",
-        "published": "2026-07-06T08:22:50Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Tankers Cross Hormuz Near Oman",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/tankers_cross_hormuz_near_oman-06-jul-2026-184061-article/",
-        "published": "2026-07-06T07:13:29Z",
+        "title": "How Shrimp Shells Are Being Turned Into 'Carbon Negative' Fuel, Food and Construction Materials",
+        "source": "Smithsonian.com",
+        "url": "https://www.smithsonianmag.com/innovation/how-shrimp-shells-are-being-turned-into-carbon-negative-fuel-food-and-construction-materials-180989061/",
+        "published": "2026-07-06T12:00:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "War Has Become Pointless",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/07/06/war-iran-ukraine-israel-united-states-russia-pointless/",
+        "published": "2026-07-06T12:00:37Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Is the U.S. Preparing to Ramp Up the Dirty Wars Against China?",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/07/is-the-u-s-preparing-to-ramp-up-the-dirty-wars-against-china.html",
+        "published": "2026-07-06T10:53:30Z",
+        "sentiment": "danger"
+      },
       {
         "title": "China to test nuclear-capable missile in South Pacific within 24 hours",
         "source": "Crypto Briefing",
@@ -83,23 +97,30 @@
         "url": "https://economictimes.indiatimes.com/news/defence/americas-battlefield-dominance-is-under-serious-threat/articleshow/132193035.cms",
         "published": "2026-07-05T09:03:28Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "China raises pressure on Taiwan with expanded coast guard patrols",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/china-raises-pressure-on-taiwan-with-expanded-coast-guard-patrols/",
-        "published": "2026-07-05T08:26:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan resumes anti-communist classes amid rising China threat",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/taiwan-resumes-anti-communist-classes-amid-rising-china-threat/",
-        "published": "2026-07-05T07:39:38Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
+      {
+        "title": "Singapore and Indonesia 'strategically aligned' to keep Strait of Malacca and Singapore open to all: PM Wong",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/singapore/indonesia-strait-hormuz-singapore-prabowo-lawrence-wong-6235256",
+        "published": "2026-07-06T11:34:23Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Indonesia, Singapore Reaffirm Free Passage in Strait of Malacca",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/indonesia-singapore-reaffirm-free-passage-in-strait-of-malacca/",
+        "published": "2026-07-06T11:02:01Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Indonesia, Singapore Reaffirm Free Passage in Strait of Malacca",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/indonesia-singapore-reaffirm-free-passage-in-strait-of-malacca",
+        "published": "2026-07-06T10:36:54Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Prabowo highlights warm, heart-to-heart talks in RI-Singapore meeting",
         "source": "Antaranews.com",
@@ -113,27 +134,6 @@
         "url": "https://thediplomat.com/2026/06/when-neutrality-fails-asean-in-a-malacca-disruption-scenario/",
         "published": "2026-06-17T15:07:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "The Strait of Malacca and Singapore Strait grow so shallow in places that fully laden supertankers carrying a quarter of the world’s seaborne oil are required to keep at least three and a half metres of water beneath their keels — about the height of a one-storey room — and squat and swell can quietly shave even that",
-        "source": "Space Daily",
-        "url": "https://spacedaily.com/j-the-strait-of-malacca-and-singapore-strait-grow-so-shallow-in-places-that-fully-laden-supertankers-carrying-a-quarter-of-the-worlds-seaborne-oil-are-required-to-keep-at-least-three-and-a-half-metr/",
-        "published": "2026-06-11T13:45:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Singapore Strait funnels roughly a third of the world’s traded goods through a channel narrowing to about 3 kilometres wide near Phillip Channel, making it one of the busiest and most pirate-prone waterways on Earth, where ships sometimes queue for days awaiting passage",
-        "source": "Space Daily",
-        "url": "https://spacedaily.com/j-the-singapore-strait-funnels-roughly-a-third-of-the-worlds-traded-goods-through-a-channel-narrowing-to-about-3-kilometres-wide-near-phillip-channel-making-it-one-of-the-busiest-and-most-pirate-prone/",
-        "published": "2026-06-11T08:23:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How the US naval blockade has bled Iran of nearly $6bn in oil revenues",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/5/how-the-us-naval-blockade-has-bled-iran-of-nearly-6bn-in-oil-revenues",
-        "published": "2026-06-05T13:18:18Z",
-        "sentiment": "danger"
       }
     ]
   },
