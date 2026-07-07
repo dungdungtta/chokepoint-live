@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-07T17:44:59.876Z",
+    "generated_at": "2026-07-07T19:27:30.182Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,42 @@
   "news": {
     "hormuz": [
       {
+        "title": "2012 Harley-Davidson Electra Glide Ultra Limited at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/2012-harley-davidson-electra-glide-2/",
+        "published": "2026-07-06T19:05:05Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "GMS Sees U.S. Recycling License as Blueprint to Retire Shadow Fleet Vessels",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/gms-sees-u-s-recycling-license-as-blueprint-to-retire-shadow-fleet-vessels/",
+        "published": "2026-07-06T18:40:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The token economy: The state of AI mid-2026",
+        "source": "SiliconANGLE News",
+        "url": "https://siliconangle.com/2026/07/06/token-economy-state-ai-mid-2026/",
+        "published": "2026-07-06T18:06:56Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Russia’s Oil Windfall Vanishes as Urals Crashes to $42 a Barrel",
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Oil-Windfall-Vanishes-as-Urals-Crashes-to-42-a-Barrel.html",
         "published": "2026-07-06T17:30:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "The Tanker Tycoon Making Millions on Hormuz Shuttle Runs",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/the-tanker-tycoon-making-millions-on-hormuz-shuttle-runs/",
-        "published": "2026-07-06T17:08:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Alberta, Ontario announce proposal for new west-east oil pipeline and minerals corridor",
-        "source": "National Post",
-        "url": "https://nationalpost.com/news/canada/alberta-ontario-announce-proposal-for-new-west-east-oil-pipeline-and-minerals-corridor",
-        "published": "2026-07-06T16:51:55Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Arabia slashes crude oil prices for Asian buyers as US-Iran deal reshapes energy markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/saudi-arabia-cuts-crude-oil-prices-asia/",
-        "published": "2026-07-06T16:17:07Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Ημερήσια Γεωπολιτική Επισκόπηση - 06/07/2026",
+        "source": "Blogspot.com",
+        "url": "https://i-epikaira.blogspot.com/2026/07/06072026.html",
+        "published": "2026-07-06T19:09:24Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China’s Closest Island to Taiwan Is a Monument to Reunification",
         "source": "The Diplomat",
@@ -82,13 +89,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/china-to-test-nuclear-capable-missile-in-south-pacific-within-24-hours/",
         "published": "2026-07-06T04:35:46Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "American Decline, Chinese Exposure | Sinification: June 2026",
-        "source": "Sinocism.com",
-        "url": "https://sinocism.com/p/american-decline-chinese-exposure",
-        "published": "2026-07-05T22:31:12Z",
         "sentiment": "watch"
       }
     ],
