@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-07T05:46:08.565Z",
+    "generated_at": "2026-07-07T09:55:52.571Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Sensex gains 176 points, Nifty above 24,300 as Indian markets open in green",
-        "source": "ANI News",
-        "url": "https://www.aninews.in/news/business/sensex-gains-176-points-nifty-above-24300-as-indian-markets-open-in-green20260706094417",
-        "published": "2026-07-06T04:51:27Z",
+        "title": "STEVE MOORE: Politicians are blaming the wrong villain for America’s rising food prices",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/opinion/steve-moore-politicians-blaming-wrong-villain-americas-rising-food-prices",
+        "published": "2026-07-06T09:00:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "One tycoon makes millions from 'dark' journeys on a dangerous oil route while others feared Hormuz",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/one-tycoon-makes-millions-from-dark-journeys-on-a-dangerous-oil-route-while-others-feared-hormuz-sinokor-supertankers-korea-ga-hyun-chung/articleshow/132207066.cms",
-        "published": "2026-07-06T04:24:25Z",
+        "title": "ADNOC Consolidates LNG Sales Activities",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/adnoc_consolidates_lng_sales_activities-06-jul-2026-184062-article/",
+        "published": "2026-07-06T08:49:53Z",
         "sentiment": "watch"
       },
       {
-        "title": "One tycoon makes millions from 'dark' journeys on a dangerous oil route while others feared Hormuz",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/one-tycoon-makes-millions-from-dark-journeys-on-a-dangerous-oil-route-while-others-feared-hormuz-sinokor-supertankers-korea-ga-hyun-chung/articleshow/132207302.cms",
-        "published": "2026-07-06T04:24:25Z",
+        "title": "Johnson's Baby Oil 3-oz. Bottle for $1.38 via Sub. & Save + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Johnsons-Baby-Oil-3-oz-Bottle-for-1-38-via-Sub-Save-free-shipping-w-Prime/21883335.html",
+        "published": "2026-07-06T08:24:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "Asian shares rise on tech, oil slips after OPEC: Markets wrap",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-05/stock-market-today-dow-s-p-live-updates",
-        "published": "2026-07-06T03:27:00Z",
+        "title": "Oil & Gas News (OGN)- Adnoc launches global LNG marketing, trading platform",
+        "source": "Ognnews.com",
+        "url": "https://ognnews.com/ArticleTA/464710/adnoc-launches-global-lng-marketing%2c-trading-platform",
+        "published": "2026-07-06T08:22:50Z",
         "sentiment": "watch"
       },
       {
-        "title": "OPEC+ countries say they will expand monthly oil production",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/7/6/opec-countries-say-they-will-expand-monthly-oil-production",
-        "published": "2026-07-06T03:04:06Z",
+        "title": "Tankers Cross Hormuz Near Oman",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/tankers_cross_hormuz_near_oman-06-jul-2026-184061-article/",
+        "published": "2026-07-06T07:13:29Z",
         "sentiment": "watch"
       }
     ],
@@ -100,6 +100,13 @@
       }
     ],
     "malacca": [
+      {
+        "title": "Prabowo highlights warm, heart-to-heart talks in RI-Singapore meeting",
+        "source": "Antaranews.com",
+        "url": "https://en.antaranews.com/news/421653/prabowo-highlights-warm-heart-to-heart-talks-in-ri-singapore-meeting",
+        "published": "2026-07-06T09:52:36Z",
+        "sentiment": "danger"
+      },
       {
         "title": "When Neutrality Fails: ASEAN in a Malacca Disruption Scenario",
         "source": "The Diplomat",
