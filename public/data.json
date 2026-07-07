@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-07T15:35:46.799Z",
+    "generated_at": "2026-07-07T17:44:59.876Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Washington's Plan to Neutralize Iran’s Hormuz Leverage",
+        "title": "Russia’s Oil Windfall Vanishes as Urals Crashes to $42 a Barrel",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Washingtons-Plan-to-Neutralize-Irans-Hormuz-Leverage.html",
-        "published": "2026-07-06T15:00:00Z",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Oil-Windfall-Vanishes-as-Urals-Crashes-to-42-a-Barrel.html",
+        "published": "2026-07-06T17:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Future Proof Shipping Wasn’t Future Proof For Hydrogen Cargo",
-        "source": "CleanTechnica",
-        "url": "https://cleantechnica.com/2026/07/06/future-proof-shipping-hydrogen-cargo/",
-        "published": "2026-07-06T14:52:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Samaras is talking (to himself!), the disgrace at the airports, from xylene to wind turbines…one Maria away, the exodus of SYRIZA members",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/07/06/samaras-is-talking-to-himself-the-disgrace-at-the-airports-from-xylene-to-wind-turbinesone-maria-away-the-exodus-of-syriza-members/",
-        "published": "2026-07-06T14:04:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Palestinian olive oil importers struggle with drought, tariffs, and settler violence to bring their product to Chicago.",
-        "source": "Chicago Reader",
-        "url": "http://chicagoreader.com/food/food-drink-feature/palestinian-olive-oil-importers-trader-farmers-west-bank-chicago/",
-        "published": "2026-07-06T14:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Engine Room Problem And Why Machinery Failure Remains Shipping’s Dominant Risk",
+        "title": "The Tanker Tycoon Making Millions on Hormuz Shuttle Runs",
         "source": "gcaptain.com",
-        "url": "https://gcaptain.com/the-engine-room-problem-and-why-machinery-failure-remains-shippings-dominant-risk/",
-        "published": "2026-07-06T13:35:57Z",
+        "url": "https://gcaptain.com/the-tanker-tycoon-making-millions-on-hormuz-shuttle-runs/",
+        "published": "2026-07-06T17:08:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Alberta, Ontario announce proposal for new west-east oil pipeline and minerals corridor",
+        "source": "National Post",
+        "url": "https://nationalpost.com/news/canada/alberta-ontario-announce-proposal-for-new-west-east-oil-pipeline-and-minerals-corridor",
+        "published": "2026-07-06T16:51:55Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Saudi Arabia slashes crude oil prices for Asian buyers as US-Iran deal reshapes energy markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/saudi-arabia-cuts-crude-oil-prices-asia/",
+        "published": "2026-07-06T16:17:07Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China’s Closest Island to Taiwan Is a Monument to Reunification",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/07/chinas-closest-island-to-taiwan-is-a-monument-to-reunification/",
+        "published": "2026-07-06T16:50:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "War Has Become Pointless",
         "source": "Foreign Policy",
@@ -90,13 +90,6 @@
         "url": "https://sinocism.com/p/american-decline-chinese-exposure",
         "published": "2026-07-05T22:31:12Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "America’s battlefield dominance is under serious threat",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/americas-battlefield-dominance-is-under-serious-threat/articleshow/132193035.cms",
-        "published": "2026-07-05T09:03:28Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
