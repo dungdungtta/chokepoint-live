@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-07T22:32:23.626Z",
+    "generated_at": "2026-07-07T23:38:50.859Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Tanker Struck by Projectile Near Hormuz, Sparking Fire",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/tanker-struck-by-projectile-near-hormuz-sparking-fire/",
+        "published": "2026-07-06T23:36:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "After months of Trump threats, Cuba says he's committing 'genocide'",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-07-07/cuba-us-genocide-humanitarian-crisis-accusation-explained/106855482",
+        "published": "2026-07-06T23:14:02Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Shipping Thrived After Trump Waived the Jones Act",
         "source": "Reason",
         "url": "https://reason.com/2026/07/06/shipping-thrived-after-trump-waived-the-jones-act/",
@@ -46,20 +60,6 @@
         "url": "https://www.rigzone.com/news/wire/saudi_price_cut_sends_oil_lower-06-jul-2026-184071-article/",
         "published": "2026-07-06T20:12:22Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Russia Oil Price Falls to Pre-Iran War Level",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/russia_oil_price_falls_to_preiran_war_level-06-jul-2026-184069-article/",
-        "published": "2026-07-06T20:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran war drove inflation expectations up, hurt business confidence: BoC",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/business/canada-iran-war-business-outlook-survey-9.7260279",
-        "published": "2026-07-06T19:35:35Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
