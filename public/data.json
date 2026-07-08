@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-08T09:56:59.646Z",
+    "generated_at": "2026-07-08T11:52:31.893Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Seoul dives on tough day for Asia as Samsung fails to ease tech woes",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/tech/technology/seoul-dives-on-tough-day-for-asia-as-samsung-fails-to-ease-tech-woes/articleshow/132234738.cms",
-        "published": "2026-07-07T09:12:00Z",
+        "title": "Tanker Reports Incoming Projectile, Causing Fire, Near Oman Coast",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260707-rferl01.htm",
+        "published": "2026-07-07T11:50:47Z",
         "sentiment": "watch"
       },
       {
-        "title": "Energy, Water, & Climate Change are interdependent",
-        "source": "Energyskeptic.com",
-        "url": "https://energyskeptic.com/2026/interdependencies-of-energy-infrastructure-water-and-climate-change-gao-2014/",
-        "published": "2026-07-07T09:01:00Z",
+        "title": "Cuba power grid suffers 'total disconnection'",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4386998/posts",
+        "published": "2026-07-07T11:42:56Z",
         "sentiment": "watch"
       },
       {
-        "title": "Report says traffickers exploit inspection gap at Canada's Pacific ports",
-        "source": "National Post",
-        "url": "https://nationalpost.com/news/report-traffickers-exploit-inspection-gap-canadas-pacific-ports",
-        "published": "2026-07-07T09:00:03Z",
+        "title": "Iran Missiles Reportedly Hit Ships in Hormuz, Testing US Talks",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/07/07/876415.htm",
+        "published": "2026-07-07T11:42:27Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Heidmar Maritime Holdings Corp. Expands Ship Management Platform",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/07/07/3323069/0/en/Heidmar-Maritime-Holdings-Corp-Expands-Ship-Management-Platform.html",
+        "published": "2026-07-07T11:40:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Game over for 20% of Xbox staff as Microsoft hits reset: We ‘didn’t focus on the core business,’ CEO says. ‘We simply spread ourselves too thin.’",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/07/microsoft-xbox-layoffs-20-percent-asha-sharma/",
-        "published": "2026-07-07T08:58:07Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil expert doubts Alberta and Ontario's pipeline can deliver",
-        "source": "National Observer",
-        "url": "https://www.nationalobserver.com/2026/07/07/news/northern-shield-pipeline-expert-reacts",
-        "published": "2026-07-07T08:55:12Z",
+        "title": "ADNOC, XRG, and Mitsui Expand Energy Partnership Across LNG and Trading",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/adnoc-xrg-mitsui-expand-energy-113646500.html",
+        "published": "2026-07-07T11:36:46Z",
         "sentiment": "watch"
       }
     ],
