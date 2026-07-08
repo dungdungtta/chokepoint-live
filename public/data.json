@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-08T14:32:29.583Z",
+    "generated_at": "2026-07-08T16:21:52.453Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "UAE Pumps 3.8 Million Bpd, Defying OPEC+ Quotas",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/UAE-Pumps-38-Million-Bpd-Defying-OPEC-Quotas.html",
-        "published": "2026-07-07T14:00:00Z",
+        "title": "Iran asserts authority over parts of Strait of Hormuz, raising crypto sanctions questions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-strait-hormuz-crypto-sanctions/",
+        "published": "2026-07-07T16:07:26Z",
         "sentiment": "watch"
       },
       {
-        "title": "UAE Oil Output Climbs After Leaving OPEC",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/UAE-Oil-Output-Climbs-After-Leaving-OPEC.html",
-        "published": "2026-07-07T14:00:00Z",
+        "title": "The World Reprices Risk",
+        "source": "Dailyreckoning.com",
+        "url": "https://dailyreckoning.com/the-world-reprices-risk/",
+        "published": "2026-07-07T16:07:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "LNG tanker at risk of exploding after two vessels struck near Strait of Hormuz",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/lng-tanker-at-risk-of-exploding-after-two-vessels-struck-near-strait-of-hormuz/articleshow/132241076.cms",
-        "published": "2026-07-07T13:39:03Z",
-        "sentiment": "watch"
+        "title": "Iran asserts control over parts of Strait of Hormuz amid US talks",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-asserts-control-over-parts-of-strait-of-hormuz-amid-us-talks/",
+        "published": "2026-07-07T16:06:19Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "LNG Tanker ‘Al Rekayyat’ at Risk of Exploding After Attack Near Hormuz",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/lng-tanker-al-rekayyat-at-risk-of-exploding-after-attack-near-hormuz/",
-        "published": "2026-07-07T13:26:12Z",
+        "title": "Crude Oil Prices Jump as Ships Attacked in the Strait of Hormuz",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/c401c411be4152f3",
+        "published": "2026-07-07T15:53:12Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Current price of oil as of July 7, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-07-07-2026/",
-        "published": "2026-07-07T13:00:06Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
