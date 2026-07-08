@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-08T18:02:18.721Z",
+    "generated_at": "2026-07-08T19:56:39.502Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "India-bound vessel hit by suspected drone attack in Gulf of Oman, all crew members safe: Sources",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-bound-vessel-hit-by-suspected-drone-attack-in-gulf-of-oman-all-crew-members-safe-sources/articleshow/132244836.cms",
-        "published": "2026-07-07T17:45:26Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Stocks slip as Samsung’s record profit revives jitters on AI outlook",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/2026/07/07/stocks-slip-as-samsungs-record-profit-revives-jitters-on-ai-outlook/",
-        "published": "2026-07-07T17:29:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "John Swinney under pressure as two senior Nats back oil and gas drilling in North Sea",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15960099/John-Swinney-pressure-two-senior-Nats-oil-gas-drilling-North-Sea.html",
-        "published": "2026-07-07T17:28:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Qatar’s Role as US-Iran Mediator Jeopardized by Shipping Attacks",
+        "title": "Iran Mines Meant to Steer Ships Near Its Shore, US Navy Says",
         "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/qatars-role-as-us-iran-mediator-jeopardized-by-shipping-attacks",
-        "published": "2026-07-07T17:14:26Z",
+        "url": "https://financialpost.com/pmn/business-pmn/iran-mines-meant-to-steer-ships-near-its-shore-us-navy-says",
+        "published": "2026-07-07T19:48:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Crude Oil Prices Sharply Higher on Supply Disruptions",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/6dcee5eb69b6511d",
+        "published": "2026-07-07T19:41:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil jumps after settlement as US revokes general license for Iran oil sales",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-jumps-after-settlement-us-revokes-general-license-iran-oil-sales-6239271",
+        "published": "2026-07-07T19:34:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump admin reimposes oil sanctions after Iran strikes ships near Strait of Hormuz | CNN Politics",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/07/07/politics/iran-sanctions-trump-strait-hormuz-attack",
+        "published": "2026-07-07T19:27:35Z",
         "sentiment": "danger"
       },
       {
-        "title": "This Spanish Officer Besieged the British During the American Revolution, Giving George Washington Time to Plan a Pivotal Attack",
-        "source": "Smithsonian.com",
-        "url": "https://www.smithsonianmag.com/smithsonian-institution/this-spanish-officer-besieged-the-british-during-the-american-revolution-giving-george-washington-time-to-plan-a-pivotal-attack-180989079/",
-        "published": "2026-07-07T17:05:03Z",
-        "sentiment": "danger"
+        "title": "US revokes Iran’s oil export license amid Strait of Hormuz tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-revokes-irans-oil-export-license-amid-strait-of-hormuz-tensions/",
+        "published": "2026-07-07T18:52:41Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Show HN: Brief: a news reader that condenses ~140k daily articles to few stories",
+        "source": "Briefnews.co",
+        "url": "https://briefnews.co/",
+        "published": "2026-07-07T19:08:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan Believes Japan Will Help Defend Against China",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/07/07/china-taiwan-japan-invasion-polling/",
+        "published": "2026-07-07T18:46:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Illusion of the Grand Bargain: Decoding Trump’s 2026 Beijing Summit",
         "source": "Fair Observer",
@@ -76,23 +90,16 @@
         "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/07/china-260707-rfa01.htm",
         "published": "2026-07-07T12:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "China And Russia Prowl High Seas In Joint Training",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/07/06/china-russia-joint-training-yellow-sea/",
-        "published": "2026-07-06T20:51:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ημερήσια Γεωπολιτική Επισκόπηση - 06/07/2026",
-        "source": "Blogspot.com",
-        "url": "https://i-epikaira.blogspot.com/2026/07/06072026.html",
-        "published": "2026-07-06T19:09:24Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
+      {
+        "title": "Iran Stakes New Claim Over Strait of Hormuz as Fresh Attacks Hit Tankers",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/iran-strait-of-hormuz-un-imo-attacks-hit-tankers-malacca-indonesia-singapore-1239056685/",
+        "published": "2026-07-07T18:12:07Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Growing trust: Indonesia, Singapore ties reach new high",
         "source": "Antaranews.com",
@@ -119,13 +126,6 @@
         "source": "CNA",
         "url": "https://www.channelnewsasia.com/singapore/indonesia-strait-hormuz-singapore-prabowo-lawrence-wong-6235256",
         "published": "2026-07-06T11:34:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Indonesia, Singapore Reaffirm Free Passage in Strait of Malacca",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/indonesia-singapore-reaffirm-free-passage-in-strait-of-malacca/",
-        "published": "2026-07-06T11:02:01Z",
         "sentiment": "watch"
       }
     ]
