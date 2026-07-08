@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-08T19:56:39.502Z",
+    "generated_at": "2026-07-08T21:18:44.613Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran Mines Meant to Steer Ships Near Its Shore, US Navy Says",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/iran-mines-meant-to-steer-ships-near-its-shore-us-navy-says",
-        "published": "2026-07-07T19:48:11Z",
+        "title": "'Projectiles' hit Strait of Hormuz tankers, as US revokes Iran oil license",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-07-08/three-tankers-struck-in-strait-of-hormuz/106891128",
+        "published": "2026-07-07T20:45:28Z",
         "sentiment": "watch"
       },
       {
-        "title": "Crude Oil Prices Sharply Higher on Supply Disruptions",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/6dcee5eb69b6511d",
-        "published": "2026-07-07T19:41:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil jumps after settlement as US revokes general license for Iran oil sales",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-jumps-after-settlement-us-revokes-general-license-iran-oil-sales-6239271",
-        "published": "2026-07-07T19:34:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump admin reimposes oil sanctions after Iran strikes ships near Strait of Hormuz | CNN Politics",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/07/07/politics/iran-sanctions-trump-strait-hormuz-attack",
-        "published": "2026-07-07T19:27:35Z",
+        "title": "Oil Jumps on Hormuz Shipping Attacks",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_jumps_on_hormuz_shipping_attacks-07-jul-2026-184082-article/",
+        "published": "2026-07-07T20:35:18Z",
         "sentiment": "danger"
       },
       {
-        "title": "US revokes Iran’s oil export license amid Strait of Hormuz tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-revokes-irans-oil-export-license-amid-strait-of-hormuz-tensions/",
-        "published": "2026-07-07T18:52:41Z",
-        "sentiment": "watch"
+        "title": "U.S. revokes Iran oil sales authorization after tanker attacks",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4387078/posts",
+        "published": "2026-07-07T20:21:38Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US Revokes Waiver Allowing Iran Oil Sales After Attacks",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/us-revokes-waiver-allowing-iran-oil-sales-after-attacks",
+        "published": "2026-07-07T20:03:39Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "China’s rare ballistic missile test sends ripple through risk markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/china-ballistic-missile-test-crypto-risk/",
+        "published": "2026-07-07T20:12:56Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Show HN: Brief: a news reader that condenses ~140k daily articles to few stories",
         "source": "Briefnews.co",
