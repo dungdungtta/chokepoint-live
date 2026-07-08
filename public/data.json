@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-08T11:52:31.893Z",
+    "generated_at": "2026-07-08T14:32:29.583Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Tanker Reports Incoming Projectile, Causing Fire, Near Oman Coast",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260707-rferl01.htm",
-        "published": "2026-07-07T11:50:47Z",
+        "title": "UAE Pumps 3.8 Million Bpd, Defying OPEC+ Quotas",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/UAE-Pumps-38-Million-Bpd-Defying-OPEC-Quotas.html",
+        "published": "2026-07-07T14:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Cuba power grid suffers 'total disconnection'",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4386998/posts",
-        "published": "2026-07-07T11:42:56Z",
+        "title": "UAE Oil Output Climbs After Leaving OPEC",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/UAE-Oil-Output-Climbs-After-Leaving-OPEC.html",
+        "published": "2026-07-07T14:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran Missiles Reportedly Hit Ships in Hormuz, Testing US Talks",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/07/07/876415.htm",
-        "published": "2026-07-07T11:42:27Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Heidmar Maritime Holdings Corp. Expands Ship Management Platform",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/07/07/3323069/0/en/Heidmar-Maritime-Holdings-Corp-Expands-Ship-Management-Platform.html",
-        "published": "2026-07-07T11:40:00Z",
+        "title": "LNG tanker at risk of exploding after two vessels struck near Strait of Hormuz",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/lng-tanker-at-risk-of-exploding-after-two-vessels-struck-near-strait-of-hormuz/articleshow/132241076.cms",
+        "published": "2026-07-07T13:39:03Z",
         "sentiment": "watch"
       },
       {
-        "title": "ADNOC, XRG, and Mitsui Expand Energy Partnership Across LNG and Trading",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/adnoc-xrg-mitsui-expand-energy-113646500.html",
-        "published": "2026-07-07T11:36:46Z",
+        "title": "LNG Tanker ‘Al Rekayyat’ at Risk of Exploding After Attack Near Hormuz",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/lng-tanker-al-rekayyat-at-risk-of-exploding-after-attack-near-hormuz/",
+        "published": "2026-07-07T13:26:12Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Current price of oil as of July 7, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-07-07-2026/",
+        "published": "2026-07-07T13:00:06Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Illusion of the Grand Bargain: Decoding Trump’s 2026 Beijing Summit",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/economics/the-illusion-of-the-grand-bargain-decoding-trumps-2026-beijing-summit/",
+        "published": "2026-07-07T13:08:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China's Pacific missile test sends message to U.S. allies, analysts say",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/07/china-260707-rfa01.htm",
+        "published": "2026-07-07T12:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China And Russia Prowl High Seas In Joint Training",
         "source": "The Daily Caller",
@@ -76,20 +90,6 @@
         "url": "https://i-epikaira.blogspot.com/2026/07/06072026.html",
         "published": "2026-07-06T19:09:24Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "China’s Closest Island to Taiwan Is a Monument to Reunification",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/07/chinas-closest-island-to-taiwan-is-a-monument-to-reunification/",
-        "published": "2026-07-06T16:50:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "War Has Become Pointless",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/07/06/war-iran-ukraine-israel-united-states-russia-pointless/",
-        "published": "2026-07-06T12:00:37Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
