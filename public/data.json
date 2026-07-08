@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-08T22:34:51.100Z",
+    "generated_at": "2026-07-08T23:48:52.065Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran Mining Hormuz to Funnel Ships Into Its Waters, U.S. Navy Says",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/iran-mining-hormuz-to-funnel-ships-into-its-waters-u-s-navy-says/",
-        "published": "2026-07-07T22:31:45Z",
+        "title": "Stock Trades Up, Here Is Why",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/2bfc5efd038f5aad",
+        "published": "2026-07-07T23:46:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "WATCH: U.S. launches new series of ‘powerful strikes’ against Iran",
-        "source": "Wnd.com",
-        "url": "https://www.wnd.com/2026/07/watch-u-s-launches-new-series-powerful-strikes/",
-        "published": "2026-07-07T22:26:45Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Enerpac Tool Group Reports Third Quarter Fiscal 2026 Results*",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/07/07/3323753/0/en/Enerpac-Tool-Group-Reports-Third-Quarter-Fiscal-2026-Results.html",
-        "published": "2026-07-07T22:24:00Z",
+        "title": "ExxonMobil and Chevron Shares Skyrocket, What You Need To Know",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/cae14ed72e100db8",
+        "published": "2026-07-07T23:46:03Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Prices Up As U.S. Cancels Iran’s Sales License, Launches Strikes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/gauravsharma/2026/07/07/oil-prices-up-as-us-cancels-irans-sales-license-launches-strikes/",
-        "published": "2026-07-07T22:22:54Z",
+        "title": "Oil Jumps on Iran Attack, Asian Stocks Set to Drop: Markets Wrap",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/oil-jumps-on-iran-attack-asian-stocks-set-to-drop-markets-wrap",
+        "published": "2026-07-07T23:28:16Z",
         "sentiment": "danger"
       },
       {
-        "title": "US Renews Strikes On Iran After Vessels Hit In Hormuz Strait",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/us-renews-strikes-on-iran-vessels-hit-hormuz-strait/33798855.html",
-        "published": "2026-07-07T22:17:44Z",
+        "title": "US airlines’ monthly fuel spending topped $6 billion again in May, up 84% from year ago",
+        "source": "Medianewsgroup.com",
+        "url": "https://wirehub.medianewsgroup.com/2026/07/07/us-airlines-monthly-fuel-spending-topped-6-billion-again-in-may-up-84-from-year-ago/",
+        "published": "2026-07-07T23:07:43Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Surges as US Strikes Targets in Iran Following Ship Attacks",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/oil-surges-as-us-strikes-targets-in-iran-following-ship-attacks",
+        "published": "2026-07-07T23:02:34Z",
         "sentiment": "danger"
       }
     ],
