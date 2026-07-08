@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-08T04:35:34.799Z",
+    "generated_at": "2026-07-08T07:16:28.733Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "FIIs return, crude eases: Markets open higher with Nifty at 24,453",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/stock-markets/fiis-return-crude-eases-markets-open-higher-with-nifty-at-24453/article71192128.ece",
-        "published": "2026-07-07T04:25:58Z",
+        "title": "Tanker set ablaze after being struck by projectile in the Strait of Hormuz as Iran mourns Khamenei",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4386983/posts",
+        "published": "2026-07-07T06:46:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "Greek shipping companies made almost $4bn shipping Russian oil in past three years",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/bef903db47db4653",
-        "published": "2026-07-07T04:15:52Z",
+        "title": "Qatari LNG Carrier Struck in Hormuz",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/qatari_lng_carrier_struck_in_hormuz-07-jul-2026-184072-article/",
+        "published": "2026-07-07T06:43:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "With Iran firing rockets, Trump uses a smart approach to deal with them UPDATE",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/blog/2026/07/with-iran-firing-rockets-trump-uses-a-smart-approach-to-deal-with-them/",
-        "published": "2026-07-07T04:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran fires missiles at ships in Strait of Hormuz, escalating tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-fires-missiles-at-ships-in-strait-of-hormuz-escalating-tensions/",
-        "published": "2026-07-07T03:48:13Z",
+        "title": "The likely loser in Gulf's post-war race for oil market share",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/business/the-likely-loser-in-gulfs-post-war-race-for-oil-market-share/articleshow/132232404.cms",
+        "published": "2026-07-07T06:29:12Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran fires missiles at commercial ships in Strait of Hormuz: report",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/07/06/world-news/iran-fires-missiles-at-commercial-ships-in-strait-of-hormuz/",
-        "published": "2026-07-07T03:39:42Z",
-        "sentiment": "watch"
+        "title": "The likely loser in Gulf's post-war race for oil market share",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/business/the-likely-loser-in-gulfs-post-war-race-for-oil-market-share/articleshow/132232238.cms",
+        "published": "2026-07-07T06:29:12Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Natural gas tanker set ablaze in Strait of Hormuz as Iran launches latest strike while country mourns Ayatollah",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15958371/Tanker-set-ablaze-Strait-Hormuz-strike-Iran-mourns-Ayatollah.html",
+        "published": "2026-07-07T06:02:39Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -101,6 +101,13 @@
     ],
     "malacca": [
       {
+        "title": "Indonesia and Singapore Pledge That Malacca Strait Will Remain ‘Open to All’",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/07/indonesia-and-singapore-pledge-that-malacca-strait-will-remain-open-to-all/",
+        "published": "2026-07-07T04:45:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Prabowo, Wong reaffirm open Malacca Strait under UNCLOS",
         "source": "Antaranews.com",
         "url": "https://en.antaranews.com/news/421707/prabowo-wong-reaffirm-open-malacca-strait-under-unclos",
@@ -127,13 +134,6 @@
         "url": "https://financialpost.com/pmn/business-pmn/indonesia-singapore-reaffirm-free-passage-in-strait-of-malacca",
         "published": "2026-07-06T10:36:54Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Prabowo highlights warm, heart-to-heart talks in RI-Singapore meeting",
-        "source": "Antaranews.com",
-        "url": "https://en.antaranews.com/news/421653/prabowo-highlights-warm-heart-to-heart-talks-in-ri-singapore-meeting",
-        "published": "2026-07-06T09:52:36Z",
-        "sentiment": "danger"
       }
     ]
   },
