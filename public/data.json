@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-07T23:38:50.859Z",
+    "generated_at": "2026-07-08T01:12:55.543Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "US threats are impediment to deal-making - Iran minister",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/0707/1582110-hormuz-projectile/",
+        "published": "2026-07-07T00:59:37Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil tanker hit by 'projectile' near Strait of Hormuz",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/2026/0707/1582110-hormuz-projectile/",
+        "published": "2026-07-07T00:59:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "SEDC: Reinventing Michael Okpara’s agricultural and agro-industrial revolution",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/07/sedc-reinventing-michael-okparas-agricultural-and-agro-industrial-revolution/",
+        "published": "2026-07-07T00:28:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Tanker catches fire after projectile strike near Strait of Hormuz amid US-Iran tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/tanker-catches-fire-after-projectile-strike-near-strait-of-hormuz-amid-us-iran/",
+        "published": "2026-07-06T23:49:00Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Tanker Struck by Projectile Near Hormuz, Sparking Fire",
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/tanker-struck-by-projectile-near-hormuz-sparking-fire/",
         "published": "2026-07-06T23:36:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "After months of Trump threats, Cuba says he's committing 'genocide'",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-07-07/cuba-us-genocide-humanitarian-crisis-accusation-explained/106855482",
-        "published": "2026-07-06T23:14:02Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Shipping Thrived After Trump Waived the Jones Act",
-        "source": "Reason",
-        "url": "https://reason.com/2026/07/06/shipping-thrived-after-trump-waived-the-jones-act/",
-        "published": "2026-07-06T21:42:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Arabia Ships 34 Million Barrels Through Hormuz Despite Thin Tanker Traffic",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Ships-34-Million-Barrels-Through-Hormuz-Despite-Thin-Tanker-Traffic.html",
-        "published": "2026-07-06T20:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Price Cut Sends Oil Lower",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/saudi_price_cut_sends_oil_lower-06-jul-2026-184071-article/",
-        "published": "2026-07-06T20:12:22Z",
         "sentiment": "watch"
       }
     ],
