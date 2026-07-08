@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-08T07:16:28.733Z",
+    "generated_at": "2026-07-08T09:56:59.646Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Tanker set ablaze after being struck by projectile in the Strait of Hormuz as Iran mourns Khamenei",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4386983/posts",
-        "published": "2026-07-07T06:46:21Z",
+        "title": "Seoul dives on tough day for Asia as Samsung fails to ease tech woes",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/tech/technology/seoul-dives-on-tough-day-for-asia-as-samsung-fails-to-ease-tech-woes/articleshow/132234738.cms",
+        "published": "2026-07-07T09:12:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Qatari LNG Carrier Struck in Hormuz",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/qatari_lng_carrier_struck_in_hormuz-07-jul-2026-184072-article/",
-        "published": "2026-07-07T06:43:21Z",
+        "title": "Energy, Water, & Climate Change are interdependent",
+        "source": "Energyskeptic.com",
+        "url": "https://energyskeptic.com/2026/interdependencies-of-energy-infrastructure-water-and-climate-change-gao-2014/",
+        "published": "2026-07-07T09:01:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "The likely loser in Gulf's post-war race for oil market share",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/business/the-likely-loser-in-gulfs-post-war-race-for-oil-market-share/articleshow/132232404.cms",
-        "published": "2026-07-07T06:29:12Z",
-        "sentiment": "danger"
+        "title": "Report says traffickers exploit inspection gap at Canada's Pacific ports",
+        "source": "National Post",
+        "url": "https://nationalpost.com/news/report-traffickers-exploit-inspection-gap-canadas-pacific-ports",
+        "published": "2026-07-07T09:00:03Z",
+        "sentiment": "watch"
       },
       {
-        "title": "The likely loser in Gulf's post-war race for oil market share",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/business/the-likely-loser-in-gulfs-post-war-race-for-oil-market-share/articleshow/132232238.cms",
-        "published": "2026-07-07T06:29:12Z",
-        "sentiment": "danger"
+        "title": "Game over for 20% of Xbox staff as Microsoft hits reset: We ‘didn’t focus on the core business,’ CEO says. ‘We simply spread ourselves too thin.’",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/07/microsoft-xbox-layoffs-20-percent-asha-sharma/",
+        "published": "2026-07-07T08:58:07Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Natural gas tanker set ablaze in Strait of Hormuz as Iran launches latest strike while country mourns Ayatollah",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15958371/Tanker-set-ablaze-Strait-Hormuz-strike-Iran-mourns-Ayatollah.html",
-        "published": "2026-07-07T06:02:39Z",
-        "sentiment": "danger"
+        "title": "Oil expert doubts Alberta and Ontario's pipeline can deliver",
+        "source": "National Observer",
+        "url": "https://www.nationalobserver.com/2026/07/07/news/northern-shield-pipeline-expert-reacts",
+        "published": "2026-07-07T08:55:12Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -89,13 +89,6 @@
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/07/06/war-iran-ukraine-israel-united-states-russia-pointless/",
         "published": "2026-07-06T12:00:37Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Is the U.S. Preparing to Ramp Up the Dirty Wars Against China?",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/07/is-the-u-s-preparing-to-ramp-up-the-dirty-wars-against-china.html",
-        "published": "2026-07-06T10:53:30Z",
         "sentiment": "danger"
       }
     ],
