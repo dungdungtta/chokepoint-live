@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-08T21:18:44.613Z",
+    "generated_at": "2026-07-08T22:34:51.100Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "'Projectiles' hit Strait of Hormuz tankers, as US revokes Iran oil license",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-07-08/three-tankers-struck-in-strait-of-hormuz/106891128",
-        "published": "2026-07-07T20:45:28Z",
+        "title": "Iran Mining Hormuz to Funnel Ships Into Its Waters, U.S. Navy Says",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/iran-mining-hormuz-to-funnel-ships-into-its-waters-u-s-navy-says/",
+        "published": "2026-07-07T22:31:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Jumps on Hormuz Shipping Attacks",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_jumps_on_hormuz_shipping_attacks-07-jul-2026-184082-article/",
-        "published": "2026-07-07T20:35:18Z",
+        "title": "WATCH: U.S. launches new series of ‘powerful strikes’ against Iran",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/07/watch-u-s-launches-new-series-powerful-strikes/",
+        "published": "2026-07-07T22:26:45Z",
         "sentiment": "danger"
       },
       {
-        "title": "U.S. revokes Iran oil sales authorization after tanker attacks",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4387078/posts",
-        "published": "2026-07-07T20:21:38Z",
+        "title": "Enerpac Tool Group Reports Third Quarter Fiscal 2026 Results*",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/07/07/3323753/0/en/Enerpac-Tool-Group-Reports-Third-Quarter-Fiscal-2026-Results.html",
+        "published": "2026-07-07T22:24:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Prices Up As U.S. Cancels Iran’s Sales License, Launches Strikes",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/gauravsharma/2026/07/07/oil-prices-up-as-us-cancels-irans-sales-license-launches-strikes/",
+        "published": "2026-07-07T22:22:54Z",
         "sentiment": "danger"
       },
       {
-        "title": "US Revokes Waiver Allowing Iran Oil Sales After Attacks",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/us-revokes-waiver-allowing-iran-oil-sales-after-attacks",
-        "published": "2026-07-07T20:03:39Z",
+        "title": "US Renews Strikes On Iran After Vessels Hit In Hormuz Strait",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/us-renews-strikes-on-iran-vessels-hit-hormuz-strait/33798855.html",
+        "published": "2026-07-07T22:17:44Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "China tests nuclear-capable missile in Pacific, alarming neighbors",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/china-tests-nuclear-capable-missile-in-pacific-alarming-neighbors/",
+        "published": "2026-07-07T21:41:44Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China’s rare ballistic missile test sends ripple through risk markets",
         "source": "Crypto Briefing",
@@ -82,13 +96,6 @@
         "source": "Fair Observer",
         "url": "https://www.fairobserver.com/economics/the-illusion-of-the-grand-bargain-decoding-trumps-2026-beijing-summit/",
         "published": "2026-07-07T13:08:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China's Pacific missile test sends message to U.S. allies, analysts say",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/07/china-260707-rfa01.htm",
-        "published": "2026-07-07T12:00:00Z",
         "sentiment": "watch"
       }
     ],
