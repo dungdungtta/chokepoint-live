@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-07-08T16:21:52.453Z",
+    "generated_at": "2026-07-08T18:02:18.721Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 71.59,
-      "change_pct": 2,
-      "date": "2026-06-29",
+      "price": 69.56,
+      "change_pct": 1.3,
+      "date": "2026-07-06",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran asserts authority over parts of Strait of Hormuz, raising crypto sanctions questions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-strait-hormuz-crypto-sanctions/",
-        "published": "2026-07-07T16:07:26Z",
+        "title": "India-bound vessel hit by suspected drone attack in Gulf of Oman, all crew members safe: Sources",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-bound-vessel-hit-by-suspected-drone-attack-in-gulf-of-oman-all-crew-members-safe-sources/articleshow/132244836.cms",
+        "published": "2026-07-07T17:45:26Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Stocks slip as Samsung’s record profit revives jitters on AI outlook",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/2026/07/07/stocks-slip-as-samsungs-record-profit-revives-jitters-on-ai-outlook/",
+        "published": "2026-07-07T17:29:29Z",
         "sentiment": "watch"
       },
       {
-        "title": "The World Reprices Risk",
-        "source": "Dailyreckoning.com",
-        "url": "https://dailyreckoning.com/the-world-reprices-risk/",
-        "published": "2026-07-07T16:07:21Z",
+        "title": "John Swinney under pressure as two senior Nats back oil and gas drilling in North Sea",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15960099/John-Swinney-pressure-two-senior-Nats-oil-gas-drilling-North-Sea.html",
+        "published": "2026-07-07T17:28:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran asserts control over parts of Strait of Hormuz amid US talks",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-asserts-control-over-parts-of-strait-of-hormuz-amid-us-talks/",
-        "published": "2026-07-07T16:06:19Z",
-        "sentiment": "neutral"
+        "title": "Qatar’s Role as US-Iran Mediator Jeopardized by Shipping Attacks",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/qatars-role-as-us-iran-mediator-jeopardized-by-shipping-attacks",
+        "published": "2026-07-07T17:14:26Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Crude Oil Prices Jump as Ships Attacked in the Strait of Hormuz",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/c401c411be4152f3",
-        "published": "2026-07-07T15:53:12Z",
+        "title": "This Spanish Officer Besieged the British During the American Revolution, Giving George Washington Time to Plan a Pivotal Attack",
+        "source": "Smithsonian.com",
+        "url": "https://www.smithsonianmag.com/smithsonian-institution/this-spanish-officer-besieged-the-british-during-the-american-revolution-giving-george-washington-time-to-plan-a-pivotal-attack-180989079/",
+        "published": "2026-07-07T17:05:03Z",
         "sentiment": "danger"
       }
     ],
@@ -87,6 +94,13 @@
     ],
     "malacca": [
       {
+        "title": "Growing trust: Indonesia, Singapore ties reach new high",
+        "source": "Antaranews.com",
+        "url": "https://en.antaranews.com/news/421825/growing-trust-indonesia-singapore-ties-reach-new-high",
+        "published": "2026-07-07T17:06:13Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Indonesia and Singapore Pledge That Malacca Strait Will Remain ‘Open to All’",
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/07/indonesia-and-singapore-pledge-that-malacca-strait-will-remain-open-to-all/",
@@ -112,13 +126,6 @@
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/indonesia-singapore-reaffirm-free-passage-in-strait-of-malacca/",
         "published": "2026-07-06T11:02:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Indonesia, Singapore Reaffirm Free Passage in Strait of Malacca",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/indonesia-singapore-reaffirm-free-passage-in-strait-of-malacca",
-        "published": "2026-07-06T10:36:54Z",
         "sentiment": "watch"
       }
     ]
