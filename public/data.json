@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-08T01:12:55.543Z",
+    "generated_at": "2026-07-08T04:35:34.799Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US threats are impediment to deal-making - Iran minister",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/0707/1582110-hormuz-projectile/",
-        "published": "2026-07-07T00:59:37Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil tanker hit by 'projectile' near Strait of Hormuz",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/2026/0707/1582110-hormuz-projectile/",
-        "published": "2026-07-07T00:59:37Z",
+        "title": "FIIs return, crude eases: Markets open higher with Nifty at 24,453",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/stock-markets/fiis-return-crude-eases-markets-open-higher-with-nifty-at-24453/article71192128.ece",
+        "published": "2026-07-07T04:25:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "SEDC: Reinventing Michael Okpara’s agricultural and agro-industrial revolution",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/07/sedc-reinventing-michael-okparas-agricultural-and-agro-industrial-revolution/",
-        "published": "2026-07-07T00:28:00Z",
+        "title": "Greek shipping companies made almost $4bn shipping Russian oil in past three years",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/bef903db47db4653",
+        "published": "2026-07-07T04:15:52Z",
         "sentiment": "watch"
       },
       {
-        "title": "Tanker catches fire after projectile strike near Strait of Hormuz amid US-Iran tensions",
+        "title": "With Iran firing rockets, Trump uses a smart approach to deal with them UPDATE",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/blog/2026/07/with-iran-firing-rockets-trump-uses-a-smart-approach-to-deal-with-them/",
+        "published": "2026-07-07T04:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran fires missiles at ships in Strait of Hormuz, escalating tensions",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/tanker-catches-fire-after-projectile-strike-near-strait-of-hormuz-amid-us-iran/",
-        "published": "2026-07-06T23:49:00Z",
+        "url": "https://cryptobriefing.com/iran-fires-missiles-at-ships-in-strait-of-hormuz-escalating-tensions/",
+        "published": "2026-07-07T03:48:13Z",
         "sentiment": "danger"
       },
       {
-        "title": "Tanker Struck by Projectile Near Hormuz, Sparking Fire",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/tanker-struck-by-projectile-near-hormuz-sparking-fire/",
-        "published": "2026-07-06T23:36:29Z",
+        "title": "Iran fires missiles at commercial ships in Strait of Hormuz: report",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/07/06/world-news/iran-fires-missiles-at-commercial-ships-in-strait-of-hormuz/",
+        "published": "2026-07-07T03:39:42Z",
         "sentiment": "watch"
       }
     ],
