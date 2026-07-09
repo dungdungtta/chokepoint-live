@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-09T16:43:38.501Z",
+    "generated_at": "2026-07-09T18:31:19.304Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Brent crude tops $80 amid Strait of Hormuz tensions, Iran waiver revocation",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/brent-crude-tops-80-amid-strait-of-hormuz-tensions-iran-waiver-revocation/",
-        "published": "2026-07-08T16:42:57Z",
+        "title": "Fed Minutes Show ‘a Few’ Officials Saw Case for June Hike",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/fed-minutes-show-a-few-officials-saw-case-for-june-hike",
+        "published": "2026-07-08T18:31:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Some War Insurers Advise Shipowners to Pause Hormuz Voyages After Attacks: Sources",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/07/08/876716.htm",
-        "published": "2026-07-08T16:22:09Z",
+        "title": "US diesel and propane demand surges as Iran conflict squeezes global fuel supplies",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-diesel-demand-surges-iran-conflict/",
+        "published": "2026-07-08T18:26:59Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Russia Bans Diesel Exports After Ukrainian Strikes Threaten Domestic Supplies",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/russia-bans-diesel-exports-after-ukrainian-strikes-threaten-domestic-supplies/",
+        "published": "2026-07-08T18:22:59Z",
         "sentiment": "danger"
       },
       {
-        "title": "Russia bans diesel exports to ensure domestic supply after targeted Ukrainian drone strikes",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/russia-bans-diesel-exports-to-ensure-domestic-supply-after-targeted-ukrainian-drone-strikes/articleshow/132267886.cms",
-        "published": "2026-07-08T16:15:48Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Deeply concerned: India on escalating tensions in West Asia",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/india/deeply-concerned-india-on-escalating-tensions-in-west-asia/articleshow/132267806.cms",
-        "published": "2026-07-08T16:10:34Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Another Trump Ceasefire with Iran Crumbles",
-        "source": "The Intercept",
-        "url": "https://theintercept.com/2026/07/08/trump-us-iran-ceasefire/",
-        "published": "2026-07-08T16:08:10Z",
-        "sentiment": "neutral"
+        "title": "Trump unsure on Iran deal amid Strait of Hormuz tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-unsure-on-iran-deal-amid-strait-of-hormuz-tensions/",
+        "published": "2026-07-08T18:18:40Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "What Will Happen to Iran’s Sea Mines?",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/07/08/iran-hormuz-strait-mines-trade-economy-china-us/",
+        "published": "2026-07-08T16:44:09Z",
+        "sentiment": "watch"
+      },
       {
         "title": "AIT says US policy, commitment to Taiwan unchanged amid TAO criticism",
         "source": "Globalsecurity.org",
@@ -89,13 +89,6 @@
         "source": "Yahoo Entertainment",
         "url": "https://ca.news.yahoo.com/chinas-actions-risk-creation-status-064151977.html",
         "published": "2026-07-08T06:41:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China tests nuclear-capable missile in Pacific, alarming neighbors",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/china-tests-nuclear-capable-missile-in-pacific-alarming-neighbors/",
-        "published": "2026-07-07T21:41:44Z",
         "sentiment": "watch"
       }
     ],
