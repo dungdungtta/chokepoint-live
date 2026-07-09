@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-09T11:13:56.976Z",
+    "generated_at": "2026-07-09T14:00:22.973Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,63 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran asserts control over Strait of Hormuz, oil prices rise amid disruptions",
+        "title": "Trump Declares Iran Deal “Over” After Fresh Military Escalation",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Trump-Declares-Iran-Deal-Over-After-Fresh-Military-Escalation.html",
+        "published": "2026-07-08T14:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US strikes Iranian targets, threatens naval blockade amid 2026 tensions",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-asserts-control-over-strait-of-hormuz-oil-prices-rise-amid-disruptions/",
-        "published": "2026-07-08T11:11:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Says Ceasefire “Over” After Iran Renews Attack on Hormuz Shipping",
-        "source": "Legalinsurrection.com",
-        "url": "https://legalinsurrection.com/2026/07/trump-says-ceasefire-over-after-iran-renews-attack-on-hormuz-shipping/",
-        "published": "2026-07-08T11:00:56Z",
+        "url": "https://cryptobriefing.com/us-strikes-iranian-targets-threatens-naval-blockade-amid-2026-tensions/",
+        "published": "2026-07-08T13:58:15Z",
         "sentiment": "danger"
       },
       {
-        "title": "Aya Gold & Silver Reports Record Q2-2026 Silver Production",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/07/08/3323945/0/en/Aya-Gold-Silver-Reports-Record-Q2-2026-Silver-Production.html",
-        "published": "2026-07-08T11:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran War: Trump Declares MOU Over After Biggest US-Iran Exchange of Strikes Since Signing in Struggle Over Strait of Hormuz Control; US Suspends Iran Oil Sanction Waiver",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/07/iran-war-trump-declares-mou-over-after-biggest-us-iran-exchange-of-strikes-since-signing-in-struggle-over-strait-of-hormuz-control-us-suspends-iran-oil-sanction-waiver.html",
-        "published": "2026-07-08T10:54:17Z",
+        "title": "US strikes Iran as Trump declares ceasefire over, oil surges 5% and markets reel",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-strikes-iran-trump-ceasefire-markets/",
+        "published": "2026-07-08T13:53:50Z",
         "sentiment": "danger"
       },
       {
-        "title": "Crude oil prices jump 6%, hit two-week high after Trump says Iran peace deal is ‘over’. What are experts saying?",
+        "title": "Iran voids US memorandum, escalates Gulf tensions with missile attacks",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-voids-us-memorandum-escalates-gulf-tensions-with-missile-attacks/",
+        "published": "2026-07-08T13:46:04Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Is an Iran deal 'over' and war back on? A timeline of the conflict and talks",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/crude-oil-prices-jump-6-hit-two-week-high-after-trump-says-iran-peace-deal-is-over-what-are-experts-saying/articleshow/132261211.cms",
-        "published": "2026-07-08T10:53:38Z",
-        "sentiment": "watch"
+        "url": "https://economictimes.indiatimes.com/news/defence/is-an-iran-deal-over-and-war-back-on-a-timeline-of-the-conflict-and-talks/articleshow/132265420.cms",
+        "published": "2026-07-08T13:45:28Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "AIT says US policy, commitment to Taiwan unchanged amid TAO criticism",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260708-cna02.htm",
+        "published": "2026-07-08T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Freedom of navigation key to deterring China lawfare: U.S. senator",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260708-cna04.htm",
+        "published": "2026-07-08T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S. and allies must respond to China's gray-zone tactics: Congressman",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260708-cna03.htm",
+        "published": "2026-07-08T12:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China's actions risk creation of new status quo, Taiwan official says",
         "source": "Yahoo Entertainment",
@@ -75,27 +96,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/china-tests-nuclear-capable-missile-in-pacific-alarming-neighbors/",
         "published": "2026-07-07T21:41:44Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China’s rare ballistic missile test sends ripple through risk markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/china-ballistic-missile-test-crypto-risk/",
-        "published": "2026-07-07T20:12:56Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Show HN: Brief: a news reader that condenses ~140k daily articles to few stories",
-        "source": "Briefnews.co",
-        "url": "https://briefnews.co/",
-        "published": "2026-07-07T19:08:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan Believes Japan Will Help Defend Against China",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/07/07/china-taiwan-japan-invasion-polling/",
-        "published": "2026-07-07T18:46:00Z",
         "sentiment": "watch"
       }
     ],
