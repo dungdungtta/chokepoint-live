@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-09T22:06:07.458Z",
+    "generated_at": "2026-07-09T23:38:50.974Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "IMF says US AI investment boom is cushioning the global economy from Iran conflict fallout",
+        "title": "US government retaliates against Iran, vows 20-to-1 response ratio as crypto sanctions tighten",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/imf-ai-investment-boom-iran-conflict/",
-        "published": "2026-07-08T22:04:53Z",
+        "url": "https://cryptobriefing.com/us-iran-retaliation-crypto-sanctions/",
+        "published": "2026-07-08T23:28:59Z",
         "sentiment": "watch"
       },
       {
-        "title": "Why Do Iran and the U.S. Keep Fighting During a Cease-Fire?",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/national-security/2026/07/trump-iran-airstrikes-ceasefire-hormuz/687851/",
-        "published": "2026-07-08T22:04:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Secret History of Polymarket – Part 1",
-        "source": "Activistpost.com",
-        "url": "https://www.activistpost.com/the-secret-history-of-polymarket-part-1/",
-        "published": "2026-07-08T22:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Hits Iran Hours After Trump Warning",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/392490/us-hits-iran-hours-after-trump-warning.html",
-        "published": "2026-07-08T21:45:00Z",
+        "title": "Trump Greenlights Iran Strikes After Declaring Ceasefire ‘Over’",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/zacharyfolk/2026/07/08/trump-greenlights-iran-strikes-after-declaring-ceasefire-over/",
+        "published": "2026-07-08T23:22:09Z",
         "sentiment": "danger"
       },
       {
-        "title": "US Strikes Targets In Iran Hours After Trump Vows To Hit 'Hard'",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/us-strikes-iran-trump-threat/33799674.html",
-        "published": "2026-07-08T21:36:42Z",
+        "title": "Gold holds decline as US strikes on Iran drive energy prices higher, crypto markets feel the heat",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/gold-decline-us-iran-strikes-crypto-impact/",
+        "published": "2026-07-08T23:09:17Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump dubs Iran's leaders cuckoo... then declares ceasefire over and launches fresh attacks",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15963745/Trump-Iran-leaders-cuckoo-declares-ceasefire-fresh-attacks.html",
+        "published": "2026-07-08T23:02:48Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "U.S. Launches New Strikes on Iran After Trump Says Ceasefire Is ‘Over’",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/07/08/u-s-launches-new-strikes-on-iran-after-trump-says-ceasefire-is-over/",
+        "published": "2026-07-08T23:00:36Z",
         "sentiment": "danger"
       }
     ],
