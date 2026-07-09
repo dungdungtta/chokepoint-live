@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-09T14:00:22.973Z",
+    "generated_at": "2026-07-09T16:43:38.501Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump Declares Iran Deal “Over” After Fresh Military Escalation",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Trump-Declares-Iran-Deal-Over-After-Fresh-Military-Escalation.html",
-        "published": "2026-07-08T14:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US strikes Iranian targets, threatens naval blockade amid 2026 tensions",
+        "title": "Brent crude tops $80 amid Strait of Hormuz tensions, Iran waiver revocation",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-strikes-iranian-targets-threatens-naval-blockade-amid-2026-tensions/",
-        "published": "2026-07-08T13:58:15Z",
+        "url": "https://cryptobriefing.com/brent-crude-tops-80-amid-strait-of-hormuz-tensions-iran-waiver-revocation/",
+        "published": "2026-07-08T16:42:57Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Some War Insurers Advise Shipowners to Pause Hormuz Voyages After Attacks: Sources",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/07/08/876716.htm",
+        "published": "2026-07-08T16:22:09Z",
         "sentiment": "danger"
       },
       {
-        "title": "US strikes Iran as Trump declares ceasefire over, oil surges 5% and markets reel",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-strikes-iran-trump-ceasefire-markets/",
-        "published": "2026-07-08T13:53:50Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran voids US memorandum, escalates Gulf tensions with missile attacks",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-voids-us-memorandum-escalates-gulf-tensions-with-missile-attacks/",
-        "published": "2026-07-08T13:46:04Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Is an Iran deal 'over' and war back on? A timeline of the conflict and talks",
+        "title": "Russia bans diesel exports to ensure domestic supply after targeted Ukrainian drone strikes",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/is-an-iran-deal-over-and-war-back-on-a-timeline-of-the-conflict-and-talks/articleshow/132265420.cms",
-        "published": "2026-07-08T13:45:28Z",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/russia-bans-diesel-exports-to-ensure-domestic-supply-after-targeted-ukrainian-drone-strikes/articleshow/132267886.cms",
+        "published": "2026-07-08T16:15:48Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Deeply concerned: India on escalating tensions in West Asia",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/india/deeply-concerned-india-on-escalating-tensions-in-west-asia/articleshow/132267806.cms",
+        "published": "2026-07-08T16:10:34Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Another Trump Ceasefire with Iran Crumbles",
+        "source": "The Intercept",
+        "url": "https://theintercept.com/2026/07/08/trump-us-iran-ceasefire/",
+        "published": "2026-07-08T16:08:10Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
