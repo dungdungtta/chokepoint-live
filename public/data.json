@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-09T07:54:01.666Z",
+    "generated_at": "2026-07-09T11:13:56.976Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Santos Shares Jump Nearly 6% as Oil Prices Surge on Renewed Iran-US Strikes Near the Strait of Hormuz",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/santos-shares-surge-middle-east-tensions-oil-price-hike-1872007",
-        "published": "2026-07-08T07:53:07Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Gulf states raise nearly $10 billion in private debt as Iran war reshapes capital markets",
+        "title": "Iran asserts control over Strait of Hormuz, oil prices rise amid disruptions",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/gulf-private-debt-iran-war-volatility/",
-        "published": "2026-07-08T07:44:34Z",
+        "url": "https://cryptobriefing.com/iran-asserts-control-over-strait-of-hormuz-oil-prices-rise-amid-disruptions/",
+        "published": "2026-07-08T11:11:03Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump Says Ceasefire “Over” After Iran Renews Attack on Hormuz Shipping",
+        "source": "Legalinsurrection.com",
+        "url": "https://legalinsurrection.com/2026/07/trump-says-ceasefire-over-after-iran-renews-attack-on-hormuz-shipping/",
+        "published": "2026-07-08T11:00:56Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran Attacks US Military Sites in Bahrain and Kuwait After New American Strikes Over Ship Attacks This Week",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/iran-us-strikes-escalate-tensions-1872002",
-        "published": "2026-07-08T07:39:10Z",
+        "title": "Aya Gold & Silver Reports Record Q2-2026 Silver Production",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/07/08/3323945/0/en/Aya-Gold-Silver-Reports-Record-Q2-2026-Silver-Production.html",
+        "published": "2026-07-08T11:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran War: Trump Declares MOU Over After Biggest US-Iran Exchange of Strikes Since Signing in Struggle Over Strait of Hormuz Control; US Suspends Iran Oil Sanction Waiver",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/07/iran-war-trump-declares-mou-over-after-biggest-us-iran-exchange-of-strikes-since-signing-in-struggle-over-strait-of-hormuz-control-us-suspends-iran-oil-sanction-waiver.html",
+        "published": "2026-07-08T10:54:17Z",
         "sentiment": "danger"
       },
       {
-        "title": "Private Placements Surge in Middle East on Iran War Volatility",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/private-placements-surge-in-middle-east-on-iran-war-volatility",
-        "published": "2026-07-08T07:38:35Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Jumps on Iran Attack, Asian Stocks Set to Drop: Markets Wrap - Bloomberg.com",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184355028",
-        "published": "2026-07-08T07:32:51Z",
-        "sentiment": "danger"
+        "title": "Crude oil prices jump 6%, hit two-week high after Trump says Iran peace deal is ‘over’. What are experts saying?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/crude-oil-prices-jump-6-hit-two-week-high-after-trump-says-iran-peace-deal-is-over-what-are-experts-saying/articleshow/132261211.cms",
+        "published": "2026-07-08T10:53:38Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
