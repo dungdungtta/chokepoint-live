@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-09T18:31:19.304Z",
+    "generated_at": "2026-07-09T20:28:25.493Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Fed Minutes Show ‘a Few’ Officials Saw Case for June Hike",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/fed-minutes-show-a-few-officials-saw-case-for-june-hike",
-        "published": "2026-07-08T18:31:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US diesel and propane demand surges as Iran conflict squeezes global fuel supplies",
+        "title": "US strikes on Iran rattle markets as Bitcoin’s safe-haven narrative gets another test",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-diesel-demand-surges-iran-conflict/",
-        "published": "2026-07-08T18:26:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Russia Bans Diesel Exports After Ukrainian Strikes Threaten Domestic Supplies",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/russia-bans-diesel-exports-after-ukrainian-strikes-threaten-domestic-supplies/",
-        "published": "2026-07-08T18:22:59Z",
+        "url": "https://cryptobriefing.com/us-strikes-iran-bitcoin-safe-haven/",
+        "published": "2026-07-08T20:26:32Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump unsure on Iran deal amid Strait of Hormuz tensions",
+        "title": "NASDAQ gains 66 points amid US-Iran tensions over Strait of Hormuz",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-unsure-on-iran-deal-amid-strait-of-hormuz-tensions/",
-        "published": "2026-07-08T18:18:40Z",
+        "url": "https://cryptobriefing.com/nasdaq-gains-66-points-amid-us-iran-tensions-over-strait-of-hormuz/",
+        "published": "2026-07-08T20:09:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Surges on Renewed Iran Strikes",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_surges_on_renewed_iran_strikes-08-jul-2026-184093-article/",
+        "published": "2026-07-08T20:00:59Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil Prices Rise As US And Iran Return To War",
+        "source": "Shtfplan.com",
+        "url": "https://www.shtfplan.com/war/oil-prices-rise-as-us-and-iran-return-to-war",
+        "published": "2026-07-08T20:00:42Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Qatar Role as USA-Iran Mediator Jeopardized",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/qatar_role_as_usairan_mediator_jeopardized-08-jul-2026-184090-article/",
+        "published": "2026-07-08T20:00:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump Just Upturned China’s Illicit Petroleum Network",
+        "source": "Daily Signal",
+        "url": "https://www.dailysignal.com/2026/07/08/china-illicit-petroleum-network/",
+        "published": "2026-07-08T19:32:14Z",
+        "sentiment": "watch"
+      },
       {
         "title": "What Will Happen to Iran’s Sea Mines?",
         "source": "Foreign Policy",
@@ -82,13 +96,6 @@
         "source": "Globalsecurity.org",
         "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260708-cna03.htm",
         "published": "2026-07-08T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China's actions risk creation of new status quo, Taiwan official says",
-        "source": "Yahoo Entertainment",
-        "url": "https://ca.news.yahoo.com/chinas-actions-risk-creation-status-064151977.html",
-        "published": "2026-07-08T06:41:51Z",
         "sentiment": "watch"
       }
     ],
