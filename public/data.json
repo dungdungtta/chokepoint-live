@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-08T23:48:52.065Z",
+    "generated_at": "2026-07-09T07:54:01.666Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Stock Trades Up, Here Is Why",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/2bfc5efd038f5aad",
-        "published": "2026-07-07T23:46:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "ExxonMobil and Chevron Shares Skyrocket, What You Need To Know",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/cae14ed72e100db8",
-        "published": "2026-07-07T23:46:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Jumps on Iran Attack, Asian Stocks Set to Drop: Markets Wrap",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-jumps-on-iran-attack-asian-stocks-set-to-drop-markets-wrap",
-        "published": "2026-07-07T23:28:16Z",
+        "title": "Santos Shares Jump Nearly 6% as Oil Prices Surge on Renewed Iran-US Strikes Near the Strait of Hormuz",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/santos-shares-surge-middle-east-tensions-oil-price-hike-1872007",
+        "published": "2026-07-08T07:53:07Z",
         "sentiment": "danger"
       },
       {
-        "title": "US airlines’ monthly fuel spending topped $6 billion again in May, up 84% from year ago",
-        "source": "Medianewsgroup.com",
-        "url": "https://wirehub.medianewsgroup.com/2026/07/07/us-airlines-monthly-fuel-spending-topped-6-billion-again-in-may-up-84-from-year-ago/",
-        "published": "2026-07-07T23:07:43Z",
-        "sentiment": "watch"
+        "title": "Gulf states raise nearly $10 billion in private debt as Iran war reshapes capital markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/gulf-private-debt-iran-war-volatility/",
+        "published": "2026-07-08T07:44:34Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Oil Surges as US Strikes Targets in Iran Following Ship Attacks",
+        "title": "Iran Attacks US Military Sites in Bahrain and Kuwait After New American Strikes Over Ship Attacks This Week",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/iran-us-strikes-escalate-tensions-1872002",
+        "published": "2026-07-08T07:39:10Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Private Placements Surge in Middle East on Iran War Volatility",
         "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-surges-as-us-strikes-targets-in-iran-following-ship-attacks",
-        "published": "2026-07-07T23:02:34Z",
+        "url": "https://financialpost.com/pmn/business-pmn/private-placements-surge-in-middle-east-on-iran-war-volatility",
+        "published": "2026-07-08T07:38:35Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil Jumps on Iran Attack, Asian Stocks Set to Drop: Markets Wrap - Bloomberg.com",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184355028",
+        "published": "2026-07-08T07:32:51Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "China's actions risk creation of new status quo, Taiwan official says",
+        "source": "Yahoo Entertainment",
+        "url": "https://ca.news.yahoo.com/chinas-actions-risk-creation-status-064151977.html",
+        "published": "2026-07-08T06:41:51Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China tests nuclear-capable missile in Pacific, alarming neighbors",
         "source": "Crypto Briefing",
@@ -89,13 +96,6 @@
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/07/07/china-taiwan-japan-invasion-polling/",
         "published": "2026-07-07T18:46:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Illusion of the Grand Bargain: Decoding Trump’s 2026 Beijing Summit",
-        "source": "Fair Observer",
-        "url": "https://www.fairobserver.com/economics/the-illusion-of-the-grand-bargain-decoding-trumps-2026-beijing-summit/",
-        "published": "2026-07-07T13:08:13Z",
         "sentiment": "watch"
       }
     ],
