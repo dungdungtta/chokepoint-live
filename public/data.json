@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-09T20:28:25.493Z",
+    "generated_at": "2026-07-09T22:06:07.458Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "US strikes on Iran rattle markets as Bitcoin’s safe-haven narrative gets another test",
+        "title": "IMF says US AI investment boom is cushioning the global economy from Iran conflict fallout",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-strikes-iran-bitcoin-safe-haven/",
-        "published": "2026-07-08T20:26:32Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "NASDAQ gains 66 points amid US-Iran tensions over Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/nasdaq-gains-66-points-amid-us-iran-tensions-over-strait-of-hormuz/",
-        "published": "2026-07-08T20:09:09Z",
+        "url": "https://cryptobriefing.com/imf-ai-investment-boom-iran-conflict/",
+        "published": "2026-07-08T22:04:53Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Surges on Renewed Iran Strikes",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_surges_on_renewed_iran_strikes-08-jul-2026-184093-article/",
-        "published": "2026-07-08T20:00:59Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Prices Rise As US And Iran Return To War",
-        "source": "Shtfplan.com",
-        "url": "https://www.shtfplan.com/war/oil-prices-rise-as-us-and-iran-return-to-war",
-        "published": "2026-07-08T20:00:42Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Qatar Role as USA-Iran Mediator Jeopardized",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/qatar_role_as_usairan_mediator_jeopardized-08-jul-2026-184090-article/",
-        "published": "2026-07-08T20:00:00Z",
+        "title": "Why Do Iran and the U.S. Keep Fighting During a Cease-Fire?",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/national-security/2026/07/trump-iran-airstrikes-ceasefire-hormuz/687851/",
+        "published": "2026-07-08T22:04:25Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "The Secret History of Polymarket – Part 1",
+        "source": "Activistpost.com",
+        "url": "https://www.activistpost.com/the-secret-history-of-polymarket-part-1/",
+        "published": "2026-07-08T22:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US Hits Iran Hours After Trump Warning",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/392490/us-hits-iran-hours-after-trump-warning.html",
+        "published": "2026-07-08T21:45:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US Strikes Targets In Iran Hours After Trump Vows To Hit 'Hard'",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/us-strikes-iran-trump-threat/33799674.html",
+        "published": "2026-07-08T21:36:42Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
