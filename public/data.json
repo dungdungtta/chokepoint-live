@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-10T20:37:29.258Z",
+    "generated_at": "2026-07-10T21:43:34.235Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "The Third Iran War Is Going To Be Crazy: The Fighting Just Won’t Stop As U.S. Officials Prepare For A Prolonged Period Of Conflict",
-        "source": "Theeconomiccollapseblog.com",
-        "url": "http://theeconomiccollapseblog.com/the-third-iran-war-is-going-to-be-crazy-the-fighting-just-wont-stop-as-u-s-officials-prepare-for-a-prolonged-period-of-conflict/",
-        "published": "2026-07-09T20:34:55Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Global ISO Tank Container Market Size to Reach USD 5.03 Billion by 2035 | Growing at 9.5% CAGR | Trends, Industry Analysis, Market Share & Forecast – Custom Market Insights",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/07/09/3325228/0/en/Global-ISO-Tank-Container-Market-Size-to-Reach-USD-5-03-Billion-by-2035-Growing-at-9-5-CAGR-Trends-Industry-Analysis-Market-Share-Forecast-Custom-Market-Insights.html",
-        "published": "2026-07-09T20:30:00Z",
+        "title": "Live: Wall Street and European stocks rebound, ASX 200 set to flatline on opening",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-07-10/asx-markets-business-live-news-10-july-2026/106900270",
+        "published": "2026-07-09T21:39:06Z",
         "sentiment": "watch"
       },
       {
-        "title": "20VC x SaaStr: Washington Lifts the Fable 5 Ban, Sam Floats Handing the Government 5%, and Why Every Tech Giant Is Racing to Become the Next IBM",
-        "source": "Saastr.com",
-        "url": "https://www.saastr.com/20vc-x-saastr-washington-lifts-the-fable-5-ban-sam-floats-handing-the-government-5-and-why-every-tech-giant-is-racing-to-become-the-next-ibm/",
-        "published": "2026-07-09T20:24:32Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran attacked: reports point to Bahrain and Kuwait as suspects as Bitcoin sells off",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-attacked-bahrain-kuwait-suspects-bitcoin-sells-off/",
-        "published": "2026-07-09T20:06:48Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Why the US Strategic Petroleum Reserve matters amid US-Iran tensions",
+        "title": "How Strait of Hormuz dispute led to latest US-Iran cycle of fighting",
         "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/7/9/why-the-us-strategic-petroleum-reserve-matters-amid-us-iran-tensions",
-        "published": "2026-07-09T20:03:00Z",
+        "url": "https://www.aljazeera.com/news/2026/7/9/how-strait-of-hormuz-dispute-led-to-latest-us-iran-cycle-of-fighting",
+        "published": "2026-07-09T21:38:48Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Fed Sees Oil Prices Cooling Despite Renewed Iran War",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Fed-Sees-Oil-Prices-Cooling-Despite-Renewed-Iran-War.html",
+        "published": "2026-07-09T21:30:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US military denies involvement after explosions heard in Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement",
+        "published": "2026-07-09T21:14:30Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iranian Navy base in Konarak attacked as crypto markets react with sharp volatility",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-konarak-attack-crypto-market-reaction/",
+        "published": "2026-07-09T21:12:38Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "U.S., Iran Return to the Brink of All-Out War",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/07/09/us-iran-war-strikes-intensify-cease-fire-over-trump-strait-hormuz/",
+        "published": "2026-07-09T21:10:18Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Global Research Daily: The News Behind the News",
         "source": "Globalresearch.ca",
@@ -89,13 +96,6 @@
         "source": "Yahoo Entertainment",
         "url": "https://www.yahoo.com/news/world/articles/taiwan-pushes-back-china-patrols-073109600.html",
         "published": "2026-07-09T10:49:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Philippines rejects Chinese scholars' claim over its island province near Taiwan",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/articles/philippines-rejects-chinese-scholars-claim-090339485.html",
-        "published": "2026-07-09T09:03:39Z",
         "sentiment": "watch"
       }
     ],
