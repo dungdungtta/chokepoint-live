@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-10T05:43:06.544Z",
+    "generated_at": "2026-07-10T08:52:25.863Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Global markets on edge as oil rally revives inflation and rate concerns.",
+        "title": "Indonesia Gets First Russian Oil Shipment After Deal with Moscow",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/indonesia-gets-first-russian-oil-shipment-after-deal-with-moscow/",
+        "published": "2026-07-09T08:42:58Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Indonesia Gets First Russian Oil Shipment After Deal with Moscow",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/indonesia-gets-first-russian-oil-shipment-after-deal-with-moscow",
+        "published": "2026-07-09T08:40:27Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran calls US strikes a 'gross war crime'; says 'deal breaches' won't affect national interests",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-on-edge-as-oil-rally-revives-inflation-and-rate-concerns-/articleshow/132278203.cms",
-        "published": "2026-07-09T05:41:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Gold falls as West Asia hostilities revive inflation woes",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/gold/gold-falls-as-west-asia-hostilities-revive-inflation-woes/article71200918.ece",
-        "published": "2026-07-09T05:23:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Govt bonds pause after slump as oil, Treasury risks linger",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/money-and-banking/govt-bonds-pause-after-slump-as-oil-treasury-risks-linger/article71200980.ece",
-        "published": "2026-07-09T05:16:28Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US, Iran trade new strikes in fight over Hormuz strait",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/us-iran-trade-new-strikes-in-fight-over-hormuz-strait-224172",
-        "published": "2026-07-09T05:14:45Z",
+        "url": "https://economictimes.indiatimes.com/news/defence/iran-calls-us-strikes-a-gross-war-crime-says-deal-breaches-wont-affect-national-interests/articleshow/132281204.cms",
+        "published": "2026-07-09T08:33:20Z",
         "sentiment": "danger"
       },
       {
-        "title": "Gulf earnings are set to reveal the true toll of Iran war",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/gulf-earnings-are-set-to-reveal-the-true-toll-of-iran-war/article71200919.ece",
-        "published": "2026-07-09T05:06:49Z",
+        "title": "Gulf companies are set to reveal the unequal toll of Iran war",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/business/gulf-companies-are-set-to-reveal-the-unequal-toll-of-iran-war/articleshow/132281381.cms",
+        "published": "2026-07-09T08:33:06Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Rogaine Men's Thickening 2-in-1 Shampoo & Conditioner 8.4-oz. Bottle for $9.49 via Sub. & Save + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Rogaine-Mens-Thickening-2-in-1-Shampoo-Conditioner-8-4-oz-Bottle-for-9-49-via-Sub-Save-free-shipping-w-Prime/21889807.html",
+        "published": "2026-07-09T08:31:06Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
