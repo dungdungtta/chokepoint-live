@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-10T22:44:13.075Z",
+    "generated_at": "2026-07-10T23:42:28.682Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "396-Powered 1970 Chevrolet Chevelle Sport Coupe",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1970-chevrolet-chevelle-157/",
+        "published": "2026-07-09T23:37:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "How the US-Iran ceasefire and MOU broke down -- a timeline",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Politics/us-iran-ceasefire-mou-broke-timeline/story?id=134622392",
+        "published": "2026-07-09T23:36:11Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Commercial Chef 2-in-1 5-Qt. Cast Iron Dutch Oven for $21 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/products/Commercial-Chef-2-in-1-5-Qt-Cast-Iron-Dutch-Oven/507232.html",
+        "published": "2026-07-09T23:03:16Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US-Iran military strikes shatter ceasefire, sending Bitcoin sliding toward $60K",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/us-iran-strikes-bitcoin-crypto-impact/",
@@ -39,27 +60,6 @@
         "url": "https://oilprice.com/Energy/Energy-General/The-Strait-Of-Malacca-Faces-Growing-Fears-Of-Copycat-Shipping-Fees.html",
         "published": "2026-07-09T22:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Live: Wall Street and European stocks rebound, ASX 200 set to flatline on opening",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-07-10/asx-markets-business-live-news-10-july-2026/106900270",
-        "published": "2026-07-09T21:39:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How Strait of Hormuz dispute led to latest US-Iran cycle of fighting",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/9/how-strait-of-hormuz-dispute-led-to-latest-us-iran-cycle-of-fighting",
-        "published": "2026-07-09T21:38:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Fed Sees Oil Prices Cooling Despite Renewed Iran War",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Fed-Sees-Oil-Prices-Cooling-Despite-Renewed-Iran-War.html",
-        "published": "2026-07-09T21:30:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
