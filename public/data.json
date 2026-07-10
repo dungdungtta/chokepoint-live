@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-10T12:05:26.465Z",
+    "generated_at": "2026-07-10T15:03:29.795Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S. Launches New Wave of Overnight Strikes as Iran Escalates",
-        "source": "Legalinsurrection.com",
-        "url": "https://legalinsurrection.com/2026/07/u-s-launches-new-wave-of-overnight-strikes-as-iran-escalates/",
-        "published": "2026-07-09T12:00:42Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The Iran Deal Couldn't Restore Old Maritime Order, Analyst Raydan Says",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260709-rferl01.htm",
-        "published": "2026-07-09T12:00:00Z",
+        "title": "Hormuz Ship Insurance Demand Drops as Owners Get Nervous",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/07/09/876855.htm",
+        "published": "2026-07-09T15:03:20Z",
         "sentiment": "watch"
       },
       {
-        "title": "US-Iran war leaves shipping at near-standstill in Hormuz again",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260709-unnews01.htm",
-        "published": "2026-07-09T12:00:00Z",
+        "title": "Shippers Cool on Green Fuels as Costs Stay Too High",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Shippers-Cool-on-Green-Fuels-as-Costs-Stay-Too-High.html",
+        "published": "2026-07-09T15:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran says it hits US military targets in Gulf, lays slain leader to rest",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/iran-says-it-hits-us-military-targets-in-gulf-lays-slain-leader-to-rest/articleshow/132289634.cms",
+        "published": "2026-07-09T14:45:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran warns Gulf nations to shut oil wells amid US attack threats, rattling energy and crypto markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-gulf-oil-threat-crypto-markets/",
+        "published": "2026-07-09T14:44:31Z",
         "sentiment": "danger"
       },
       {
-        "title": "Fresh US Strikes Hit Iran As Tehran Issues Retaliation Warning",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260709-rferl02.htm",
-        "published": "2026-07-09T12:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Chevron’s (CVX) Data Center Ambitions Are A Great Way To Play The AI Power Bottleneck",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/chevron-cvx-data-center-ambitions-115828783.html",
-        "published": "2026-07-09T11:58:28Z",
+        "title": "End of Iran sanctions reprieve unlikely to impact India’s crude oil imports",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/companies/end-of-iran-sanctions-reprieve-unlikely-to-impact-indias-crude-oil-imports/article71202647.ece",
+        "published": "2026-07-09T14:36:43Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Global Research Daily: The News Behind the News",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/global-research-daily-the-news-behind-the-news-8/5932868",
+        "published": "2026-07-09T13:53:34Z",
+        "sentiment": "watch"
+      },
       {
         "title": "U.S., Japan, South Korea reaffirm commitment to Taiwan Strait peace",
         "source": "Globalsecurity.org",
@@ -89,13 +96,6 @@
         "source": "Yahoo Entertainment",
         "url": "https://www.yahoo.com/news/articles/philippines-rejects-chinese-scholars-claim-090339485.html",
         "published": "2026-07-09T09:03:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Just Upturned China’s Illicit Petroleum Network",
-        "source": "Daily Signal",
-        "url": "https://www.dailysignal.com/2026/07/08/china-illicit-petroleum-network/",
-        "published": "2026-07-08T19:32:14Z",
         "sentiment": "watch"
       }
     ],
