@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-10T08:52:25.863Z",
+    "generated_at": "2026-07-10T12:05:26.465Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,75 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "Indonesia Gets First Russian Oil Shipment After Deal with Moscow",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/indonesia-gets-first-russian-oil-shipment-after-deal-with-moscow/",
-        "published": "2026-07-09T08:42:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Indonesia Gets First Russian Oil Shipment After Deal with Moscow",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/indonesia-gets-first-russian-oil-shipment-after-deal-with-moscow",
-        "published": "2026-07-09T08:40:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran calls US strikes a 'gross war crime'; says 'deal breaches' won't affect national interests",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/iran-calls-us-strikes-a-gross-war-crime-says-deal-breaches-wont-affect-national-interests/articleshow/132281204.cms",
-        "published": "2026-07-09T08:33:20Z",
+        "title": "U.S. Launches New Wave of Overnight Strikes as Iran Escalates",
+        "source": "Legalinsurrection.com",
+        "url": "https://legalinsurrection.com/2026/07/u-s-launches-new-wave-of-overnight-strikes-as-iran-escalates/",
+        "published": "2026-07-09T12:00:42Z",
         "sentiment": "danger"
       },
       {
-        "title": "Gulf companies are set to reveal the unequal toll of Iran war",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/business/gulf-companies-are-set-to-reveal-the-unequal-toll-of-iran-war/articleshow/132281381.cms",
-        "published": "2026-07-09T08:33:06Z",
+        "title": "The Iran Deal Couldn't Restore Old Maritime Order, Analyst Raydan Says",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260709-rferl01.htm",
+        "published": "2026-07-09T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US-Iran war leaves shipping at near-standstill in Hormuz again",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260709-unnews01.htm",
+        "published": "2026-07-09T12:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Rogaine Men's Thickening 2-in-1 Shampoo & Conditioner 8.4-oz. Bottle for $9.49 via Sub. & Save + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Rogaine-Mens-Thickening-2-in-1-Shampoo-Conditioner-8-4-oz-Bottle-for-9-49-via-Sub-Save-free-shipping-w-Prime/21889807.html",
-        "published": "2026-07-09T08:31:06Z",
+        "title": "Fresh US Strikes Hit Iran As Tehran Issues Retaliation Warning",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260709-rferl02.htm",
+        "published": "2026-07-09T12:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Chevron’s (CVX) Data Center Ambitions Are A Great Way To Play The AI Power Bottleneck",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/chevron-cvx-data-center-ambitions-115828783.html",
+        "published": "2026-07-09T11:58:28Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
+        "title": "U.S., Japan, South Korea reaffirm commitment to Taiwan Strait peace",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260709-cna01.htm",
+        "published": "2026-07-09T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Sensex today | Stock Market Live: Sensex ends 238 points higher; Nifty closes above 23,950",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-9th-july-2026/article71198232.ece",
+        "published": "2026-07-09T11:07:27Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan pushes back at China patrols with Coast Guard trip for foreign lawmakers",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/world/articles/taiwan-pushes-back-china-patrols-073109600.html",
+        "published": "2026-07-09T10:49:49Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Philippines rejects Chinese scholars' claim over its island province near Taiwan",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/articles/philippines-rejects-chinese-scholars-claim-090339485.html",
+        "published": "2026-07-09T09:03:39Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump Just Upturned China’s Illicit Petroleum Network",
         "source": "Daily Signal",
         "url": "https://www.dailysignal.com/2026/07/08/china-illicit-petroleum-network/",
         "published": "2026-07-08T19:32:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What Will Happen to Iran’s Sea Mines?",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/07/08/iran-hormuz-strait-mines-trade-economy-china-us/",
-        "published": "2026-07-08T16:44:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "AIT says US policy, commitment to Taiwan unchanged amid TAO criticism",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260708-cna02.htm",
-        "published": "2026-07-08T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Freedom of navigation key to deterring China lawfare: U.S. senator",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260708-cna04.htm",
-        "published": "2026-07-08T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. and allies must respond to China's gray-zone tactics: Congressman",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260708-cna03.htm",
-        "published": "2026-07-08T12:00:00Z",
         "sentiment": "watch"
       }
     ],
