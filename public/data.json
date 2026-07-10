@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-10T18:47:37.072Z",
+    "generated_at": "2026-07-10T20:37:29.258Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "US military strikes hit Iran’s Konarak port city as crypto markets brace for oil-driven volatility",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-explosions-crypto-oil-volatility/",
-        "published": "2026-07-09T18:30:20Z",
+        "title": "The Third Iran War Is Going To Be Crazy: The Fighting Just Won’t Stop As U.S. Officials Prepare For A Prolonged Period Of Conflict",
+        "source": "Theeconomiccollapseblog.com",
+        "url": "http://theeconomiccollapseblog.com/the-third-iran-war-is-going-to-be-crazy-the-fighting-just-wont-stop-as-u-s-officials-prepare-for-a-prolonged-period-of-conflict/",
+        "published": "2026-07-09T20:34:55Z",
         "sentiment": "danger"
       },
       {
-        "title": "Hormuz War-Risk Cover Climbs as Shipowners Pull Back",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/hormuz-war-risk-cover-climbs-as-shipowners-pull-back/",
-        "published": "2026-07-09T18:27:36Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "NRF: US Container Imports to Reach Record in July as Retailers Rush Ahead of Tariffs",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/nrf-us-container-imports-july-retailers-rush-tariffs-back-to-school-peak-season-1239061183/",
-        "published": "2026-07-09T17:59:51Z",
+        "title": "Global ISO Tank Container Market Size to Reach USD 5.03 Billion by 2035 | Growing at 9.5% CAGR | Trends, Industry Analysis, Market Share & Forecast – Custom Market Insights",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/07/09/3325228/0/en/Global-ISO-Tank-Container-Market-Size-to-Reach-USD-5-03-Billion-by-2035-Growing-at-9-5-CAGR-Trends-Industry-Analysis-Market-Share-Forecast-Custom-Market-Insights.html",
+        "published": "2026-07-09T20:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran targets US military sites in Gulf as Israel warns it could 'strike again'",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-07-10/iran-us-trade-strikes-/106899742",
-        "published": "2026-07-09T17:18:16Z",
+        "title": "20VC x SaaStr: Washington Lifts the Fable 5 Ban, Sam Floats Handing the Government 5%, and Why Every Tech Giant Is Racing to Become the Next IBM",
+        "source": "Saastr.com",
+        "url": "https://www.saastr.com/20vc-x-saastr-washington-lifts-the-fable-5-ban-sam-floats-handing-the-government-5-and-why-every-tech-giant-is-racing-to-become-the-next-ibm/",
+        "published": "2026-07-09T20:24:32Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran attacked: reports point to Bahrain and Kuwait as suspects as Bitcoin sells off",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-attacked-bahrain-kuwait-suspects-bitcoin-sells-off/",
+        "published": "2026-07-09T20:06:48Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran strikes back at US targets in Gulf states and warns Trump faces a 'crushing response' if attacks continue as ceasefire crumbles",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15966051/Iran-strikes-US-targets-Gulf-states-warns-Trump-faces-crushing-response-attacks-continue-ceasefire-crumbles.html",
-        "published": "2026-07-09T17:18:01Z",
-        "sentiment": "danger"
+        "title": "Why the US Strategic Petroleum Reserve matters amid US-Iran tensions",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/7/9/why-the-us-strategic-petroleum-reserve-matters-amid-us-iran-tensions",
+        "published": "2026-07-09T20:03:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
