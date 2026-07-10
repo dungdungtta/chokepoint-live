@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-10T15:03:29.795Z",
+    "generated_at": "2026-07-10T17:10:53.016Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Hormuz Ship Insurance Demand Drops as Owners Get Nervous",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/07/09/876855.htm",
-        "published": "2026-07-09T15:03:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Shippers Cool on Green Fuels as Costs Stay Too High",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Shippers-Cool-on-Green-Fuels-as-Costs-Stay-Too-High.html",
-        "published": "2026-07-09T15:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran says it hits US military targets in Gulf, lays slain leader to rest",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/iran-says-it-hits-us-military-targets-in-gulf-lays-slain-leader-to-rest/articleshow/132289634.cms",
-        "published": "2026-07-09T14:45:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran warns Gulf nations to shut oil wells amid US attack threats, rattling energy and crypto markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-gulf-oil-threat-crypto-markets/",
-        "published": "2026-07-09T14:44:31Z",
+        "title": "Oil Tanker Traffic Through Hormuz at Near Standstill as Attacks Strain MoU",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/oil-tanker-traffic-through-hormuz-at-near-standstill-as-attacks-strain-mou/",
+        "published": "2026-07-09T16:53:33Z",
         "sentiment": "danger"
       },
       {
-        "title": "End of Iran sanctions reprieve unlikely to impact India’s crude oil imports",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/companies/end-of-iran-sanctions-reprieve-unlikely-to-impact-indias-crude-oil-imports/article71202647.ece",
-        "published": "2026-07-09T14:36:43Z",
+        "title": "China Demands Iran 'Follow Through' on U.S. Peace Deal, Signaling Frustration with Hormuz Situation",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/asia/2026/07/09/china-demands-iran-follow-through-on-u-s-peace-deal-signaling-frustration-with-hormuz-situation/",
+        "published": "2026-07-09T16:44:01Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Trump’s Iran deal faces strain over poorly worded paragraph that could reshape oil markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-iran-deal-poorly-worded-paragraph/",
+        "published": "2026-07-09T16:40:15Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "World faces diesel supply crunch as Russia cuts off exports",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/russia-diesel-export-ban-supply-crunch/",
+        "published": "2026-07-09T16:14:45Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US fighters, tankers, and AWACS deploy toward Iran as crypto markets feel the heat",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-military-iran-crypto-market-impact/",
+        "published": "2026-07-09T16:04:23Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
