@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-10T17:10:53.016Z",
+    "generated_at": "2026-07-10T18:47:37.072Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Tanker Traffic Through Hormuz at Near Standstill as Attacks Strain MoU",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/oil-tanker-traffic-through-hormuz-at-near-standstill-as-attacks-strain-mou/",
-        "published": "2026-07-09T16:53:33Z",
+        "title": "US military strikes hit Iran’s Konarak port city as crypto markets brace for oil-driven volatility",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-explosions-crypto-oil-volatility/",
+        "published": "2026-07-09T18:30:20Z",
         "sentiment": "danger"
       },
       {
-        "title": "China Demands Iran 'Follow Through' on U.S. Peace Deal, Signaling Frustration with Hormuz Situation",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/asia/2026/07/09/china-demands-iran-follow-through-on-u-s-peace-deal-signaling-frustration-with-hormuz-situation/",
-        "published": "2026-07-09T16:44:01Z",
+        "title": "Hormuz War-Risk Cover Climbs as Shipowners Pull Back",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/hormuz-war-risk-cover-climbs-as-shipowners-pull-back/",
+        "published": "2026-07-09T18:27:36Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "NRF: US Container Imports to Reach Record in July as Retailers Rush Ahead of Tariffs",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/nrf-us-container-imports-july-retailers-rush-tariffs-back-to-school-peak-season-1239061183/",
+        "published": "2026-07-09T17:59:51Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump’s Iran deal faces strain over poorly worded paragraph that could reshape oil markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-deal-poorly-worded-paragraph/",
-        "published": "2026-07-09T16:40:15Z",
-        "sentiment": "watch"
+        "title": "Iran targets US military sites in Gulf as Israel warns it could 'strike again'",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-07-10/iran-us-trade-strikes-/106899742",
+        "published": "2026-07-09T17:18:16Z",
+        "sentiment": "danger"
       },
       {
-        "title": "World faces diesel supply crunch as Russia cuts off exports",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/russia-diesel-export-ban-supply-crunch/",
-        "published": "2026-07-09T16:14:45Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US fighters, tankers, and AWACS deploy toward Iran as crypto markets feel the heat",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-military-iran-crypto-market-impact/",
-        "published": "2026-07-09T16:04:23Z",
+        "title": "Iran strikes back at US targets in Gulf states and warns Trump faces a 'crushing response' if attacks continue as ceasefire crumbles",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15966051/Iran-strikes-US-targets-Gulf-states-warns-Trump-faces-crushing-response-attacks-continue-ceasefire-crumbles.html",
+        "published": "2026-07-09T17:18:01Z",
         "sentiment": "danger"
       }
     ],
