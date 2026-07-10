@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-10T21:43:34.235Z",
+    "generated_at": "2026-07-10T22:44:13.075Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "US-Iran military strikes shatter ceasefire, sending Bitcoin sliding toward $60K",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-strikes-bitcoin-crypto-impact/",
+        "published": "2026-07-09T22:16:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The Strait Of Malacca Faces Growing Fears Of Copycat Shipping Fees",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/The-Strait-Of-Malacca-Faces-Growing-Fears-Of-Copycat-Shipping-Fees.html",
+        "published": "2026-07-09T22:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Live: Wall Street and European stocks rebound, ASX 200 set to flatline on opening",
         "source": "ABC News (AU)",
         "url": "https://www.abc.net.au/news/2026-07-10/asx-markets-business-live-news-10-july-2026/106900270",
@@ -45,20 +59,6 @@
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Latest-Energy-News/World-News/Fed-Sees-Oil-Prices-Cooling-Despite-Renewed-Iran-War.html",
         "published": "2026-07-09T21:30:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US military denies involvement after explosions heard in Iran",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement",
-        "published": "2026-07-09T21:14:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iranian Navy base in Konarak attacked as crypto markets react with sharp volatility",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-konarak-attack-crypto-market-reaction/",
-        "published": "2026-07-09T21:12:38Z",
         "sentiment": "danger"
       }
     ],
