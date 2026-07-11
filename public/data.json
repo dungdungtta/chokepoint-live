@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T17:34:22.399Z",
+    "generated_at": "2026-07-11T18:37:50.884Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "UN shipping agency condemns Iran’s Strait of Hormuz sovereignty claims as crypto markets brace for volatility",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/imo-condemns-iran-hormuz-sovereignty-crypto/",
+        "published": "2026-07-10T18:25:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Senator Graham posts agreement to hold Russia energy buyers accountable with 500% tariff threat",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/graham-russia-energy-sanctions-tariffs/",
+        "published": "2026-07-10T17:42:58Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "The US was overconfident before the war. Iran may be overconfident now.",
         "source": "Vox",
         "url": "https://www.vox.com/politics/494968/iran-us-strait-hormuz",
@@ -45,20 +59,6 @@
         "source": "ABC News (AU)",
         "url": "https://www.abc.net.au/news/2026-07-11/trump-flags-us-iran-talks-but-says-ceasefire-is-over/106904360",
         "published": "2026-07-10T16:55:19Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Does Trump have a Plan C for Iran?",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/us/2026/07/10/does-trump-have-a-plan-c-for-iran/",
-        "published": "2026-07-10T16:39:53Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump says U.S. agreed to Iran’s request to continue talks, but ceasefire is over",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/trump-us-agreed-iran-request-continue-talks-ceasefire-rcna385833",
-        "published": "2026-07-10T16:06:11Z",
         "sentiment": "neutral"
       }
     ],
