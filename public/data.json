@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-10T23:42:28.682Z",
+    "generated_at": "2026-07-11T01:11:56.857Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
+        "title": "US official says 'technical talks continue' with Iran, no new strikes in past hours",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-official-says-technical-talks-continue-with-iran-no-new-strikes-in-past-hours/articleshow/132300675.cms",
+        "published": "2026-07-10T01:04:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US strike on Iranian railway bridge puts global trade corridors and crypto risk sentiment in focus",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-strike-transport-crypto-risk/",
+        "published": "2026-07-10T00:33:33Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "India’s MSMEs brace for impact as US-Iran ceasefire crumbles",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/industry/manufacturing/us-iran-ceasefire-collapse-impact-on-india-msmes-11783599089985.html",
+        "published": "2026-07-10T00:28:13Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The Coming Power War That Will Define the AI Era",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/The-Coming-Power-War-That-Will-Define-the-AI-Era.html",
+        "published": "2026-07-10T00:00:00Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "396-Powered 1970 Chevrolet Chevelle Sport Coupe",
         "source": "Bringatrailer.com",
         "url": "https://bringatrailer.com/listing/1970-chevrolet-chevelle-157/",
         "published": "2026-07-09T23:37:16Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "How the US-Iran ceasefire and MOU broke down -- a timeline",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Politics/us-iran-ceasefire-mou-broke-timeline/story?id=134622392",
-        "published": "2026-07-09T23:36:11Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Commercial Chef 2-in-1 5-Qt. Cast Iron Dutch Oven for $21 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/products/Commercial-Chef-2-in-1-5-Qt-Cast-Iron-Dutch-Oven/507232.html",
-        "published": "2026-07-09T23:03:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US-Iran military strikes shatter ceasefire, sending Bitcoin sliding toward $60K",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-strikes-bitcoin-crypto-impact/",
-        "published": "2026-07-09T22:16:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The Strait Of Malacca Faces Growing Fears Of Copycat Shipping Fees",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/The-Strait-Of-Malacca-Faces-Growing-Fears-Of-Copycat-Shipping-Fees.html",
-        "published": "2026-07-09T22:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan’s radar system tracks PLA ballistic missile launch, raising fresh geopolitical risks for markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/taiwan-radar-tracks-pla-missile-launch/",
+        "published": "2026-07-10T01:09:33Z",
+        "sentiment": "watch"
+      },
       {
         "title": "U.S., Iran Return to the Brink of All-Out War",
         "source": "Foreign Policy",
@@ -89,13 +96,6 @@
         "source": "BusinessLine",
         "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-9th-july-2026/article71198232.ece",
         "published": "2026-07-09T11:07:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan pushes back at China patrols with Coast Guard trip for foreign lawmakers",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/world/articles/taiwan-pushes-back-china-patrols-073109600.html",
-        "published": "2026-07-09T10:49:49Z",
         "sentiment": "watch"
       }
     ],
