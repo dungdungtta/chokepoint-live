@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T08:56:23.607Z",
+    "generated_at": "2026-07-11T10:21:34.565Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil heads for weekly gain as Middle East supply risks persist - Reuters",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184390640",
-        "published": "2026-07-10T08:52:52Z",
+        "title": "Current price of oil as of July 10, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-07-10-2026/",
+        "published": "2026-07-10T10:17:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "World oil demand set for first annual decline since 2020, IEA says",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/10/iea-world-oil-demand-declines-iran-war.html",
-        "published": "2026-07-10T08:37:53Z",
+        "title": "Synthetic Rope Market worth $3.85 billion by 2031 - Exclusive Report by MarketsandMarkets™",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/synthetic-rope-market-worth-3-85-billion-by-2031---exclusive-report-by-marketsandmarkets-302822591.html",
+        "published": "2026-07-10T10:15:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "UAE’s Oil Output Hit Record High in June, IEA Says",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/uaes-oil-output-hit-record-high-in-june-iea-says",
-        "published": "2026-07-10T08:32:57Z",
+        "title": "Iran's biggest weapon against the US may be slipping away, experts say",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/irans-biggest-weapon-against-us-may-slipping-away-experts-say",
+        "published": "2026-07-10T10:00:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "More LNG Carriers Brave the Strait of Hormuz Despite Renewed Hostilities",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/More-LNG-Carriers-Brave-the-Strait-of-Hormuz-Despite-Renewed-Hostilities.html",
-        "published": "2026-07-10T08:30:00Z",
+        "title": "Oil Prices Wobble As a Week of Hostilities Derails Shipping",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/5d725fe1e394ffa3",
+        "published": "2026-07-10T09:55:38Z",
         "sentiment": "watch"
       },
       {
-        "title": "IEA slashes Russian oil output forecast as Ukrainian drone strikes take their toll",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iea-cuts-russian-oil-output-forecast/",
-        "published": "2026-07-10T08:29:25Z",
-        "sentiment": "danger"
+        "title": "Bitcoin returns to $64.3K with new three-week BTC price highs imminent",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/markets/bitcoin-returns-to-64k-with-three-week-btc-price-highs-imminent",
+        "published": "2026-07-10T09:32:23Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
