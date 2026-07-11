@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T01:11:56.857Z",
+    "generated_at": "2026-07-11T04:31:09.975Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "US official says 'technical talks continue' with Iran, no new strikes in past hours",
+        "title": "K.M. and Erdogan’s pistol, Nikos at the funeral, Alexis in Sardinia, and Polakis… ready for a procession!",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/07/10/k-m-and-erdogans-pistol-nikos-at-the-funeral-alexis-in-sardinia-and-polakis-ready-for-a-procession/",
+        "published": "2026-07-10T04:26:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "LNG tankers return to Strait of Hormuz despite renewed Middle East tensions",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-official-says-technical-talks-continue-with-iran-no-new-strikes-in-past-hours/articleshow/132300675.cms",
-        "published": "2026-07-10T01:04:00Z",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/lng-tankers-return-to-strait-of-hormuz-despite-renewed-middle-east-tensions/articleshow/132302831.cms",
+        "published": "2026-07-10T04:23:33Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Puri explains why India has among world's cheapest petrol, spells out country's fuel strategy",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/puri-explains-why-india-has-among-worlds-cheapest-petrol-spells-out-countrys-fuel-strategy-ethanol-blending-sugarcane/articleshow/132302541.cms",
+        "published": "2026-07-10T04:20:41Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Crude oil futures gain on reports of Iranian strikes on US military targets in West Asia",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-gain-on-reports-of-iranian-strikes-on-us-military-targets-in-west-asia/article71205233.ece",
+        "published": "2026-07-10T04:18:21Z",
         "sentiment": "danger"
       },
       {
-        "title": "US strike on Iranian railway bridge puts global trade corridors and crypto risk sentiment in focus",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-strike-transport-crypto-risk/",
-        "published": "2026-07-10T00:33:33Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "India’s MSMEs brace for impact as US-Iran ceasefire crumbles",
-        "source": "Livemint",
-        "url": "https://www.livemint.com/industry/manufacturing/us-iran-ceasefire-collapse-impact-on-india-msmes-11783599089985.html",
-        "published": "2026-07-10T00:28:13Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "The Coming Power War That Will Define the AI Era",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/The-Coming-Power-War-That-Will-Define-the-AI-Era.html",
-        "published": "2026-07-10T00:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "396-Powered 1970 Chevrolet Chevelle Sport Coupe",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1970-chevrolet-chevelle-157/",
-        "published": "2026-07-09T23:37:16Z",
+        "title": "Renewed Gulf Hostilities, Elevated Regional and Global Uncertainty",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/07/hostilities-elevated-uncertainty.html",
+        "published": "2026-07-10T04:15:17Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Why We Know More About China’s Next-Generation Fighters Than America’s",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/07/10/china-next-generation-fighters-internet-intelligence/",
+        "published": "2026-07-10T04:01:06Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan’s radar system tracks PLA ballistic missile launch, raising fresh geopolitical risks for markets",
         "source": "Crypto Briefing",
@@ -89,13 +96,6 @@
         "source": "Globalsecurity.org",
         "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260709-cna01.htm",
         "published": "2026-07-09T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Sensex today | Stock Market Live: Sensex ends 238 points higher; Nifty closes above 23,950",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-9th-july-2026/article71198232.ece",
-        "published": "2026-07-09T11:07:27Z",
         "sentiment": "watch"
       }
     ],
