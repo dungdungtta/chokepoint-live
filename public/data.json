@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T04:31:09.975Z",
+    "generated_at": "2026-07-11T06:59:40.469Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "K.M. and Erdogan’s pistol, Nikos at the funeral, Alexis in Sardinia, and Polakis… ready for a procession!",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/07/10/k-m-and-erdogans-pistol-nikos-at-the-funeral-alexis-in-sardinia-and-polakis-ready-for-a-procession/",
-        "published": "2026-07-10T04:26:11Z",
+        "title": "Oil heads for weekly gain as Middle East risks persist",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0710/1582695-world-oil-prices/",
+        "published": "2026-07-10T06:33:02Z",
         "sentiment": "watch"
       },
       {
-        "title": "LNG tankers return to Strait of Hormuz despite renewed Middle East tensions",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/lng-tankers-return-to-strait-of-hormuz-despite-renewed-middle-east-tensions/articleshow/132302831.cms",
-        "published": "2026-07-10T04:23:33Z",
+        "title": "Taiwan blacklists dozens of shadow fleet ships tied to North Korea smuggling networks",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/taiwan-blacklist-ships-north-korea-smuggling/",
+        "published": "2026-07-10T06:22:47Z",
         "sentiment": "watch"
       },
       {
-        "title": "Puri explains why India has among world's cheapest petrol, spells out country's fuel strategy",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/puri-explains-why-india-has-among-worlds-cheapest-petrol-spells-out-countrys-fuel-strategy-ethanol-blending-sugarcane/articleshow/132302541.cms",
-        "published": "2026-07-10T04:20:41Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Crude oil futures gain on reports of Iranian strikes on US military targets in West Asia",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-gain-on-reports-of-iranian-strikes-on-us-military-targets-in-west-asia/article71205233.ece",
-        "published": "2026-07-10T04:18:21Z",
+        "title": "U.S. and Iran exchange intensifying fire across Mideast, threatening ceasefire deal",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/07/10/g-s1-132927/us-iran-war",
+        "published": "2026-07-10T06:12:36Z",
         "sentiment": "danger"
       },
       {
-        "title": "Renewed Gulf Hostilities, Elevated Regional and Global Uncertainty",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/07/hostilities-elevated-uncertainty.html",
-        "published": "2026-07-10T04:15:17Z",
+        "title": "U.S.-Iran Strait of Hormuz Clash Threatens Fragile Maritime Deal",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-10-us-iran-hormuz-clash-threatens-fragile-maritime-deal.html",
+        "published": "2026-07-10T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iraq and Turkey rush to revive a 53-year-old oil lifeline",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-10-iraq-turkey-rush-to-revive-old-oil-lifeline.html",
+        "published": "2026-07-10T06:00:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "How Taiwan's US$1.4 billion radar detected and tracked China's ballistic missile",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/how-taiwans-us1-4-billion-radar-detected-and-tracked-chinas-ballistic-missile/articleshow/132302983.cms",
+        "published": "2026-07-10T04:55:25Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Why We Know More About China’s Next-Generation Fighters Than America’s",
         "source": "Foreign Policy",
@@ -89,13 +96,6 @@
         "source": "Globalresearch.ca",
         "url": "https://www.globalresearch.ca/global-research-daily-the-news-behind-the-news-8/5932868",
         "published": "2026-07-09T13:53:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S., Japan, South Korea reaffirm commitment to Taiwan Strait peace",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260709-cna01.htm",
-        "published": "2026-07-09T12:00:00Z",
         "sentiment": "watch"
       }
     ],
