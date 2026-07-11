@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T12:41:19.711Z",
+    "generated_at": "2026-07-11T14:12:56.481Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Differin Acne Daily Deep Cleanser 4-oz. Tube for $7 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Differin-Acne-Daily-Deep-Cleanser-4-oz-Tube-for-7-free-shipping-w-Prime/21891729.html",
-        "published": "2026-07-10T12:17:21Z",
+        "title": "2-Pack 2-Oz Organic Vitamin D3 K2 Liquid 10000 IU w/ Vegan Omega-3 & Coconut MCT Oil $12.29 + Free Shipping w/ Prime or on $35+ (1 replies)",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19744914-2-pack-2-oz-organic-vitamin-d3-k2-liquid-10000-iu-w-vegan-omega-3-coconut-mct-oil-12-29-free-shipping-w-prime-or-on-35",
+        "published": "2026-07-10T14:07:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump 'Holds All The Cards' In Dealing With Iran, Says Heritage Foundation's James Jay Carafano",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260710-rferl04.htm",
-        "published": "2026-07-10T12:00:00Z",
+        "title": "Why Iran broke the ceasefire in the Strait of Hormuz and what might happen next – expert Q&A",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/why-iran-broke-the-ceasefire-in-the-strait-of-hormuz-and-what-might-happen-next-expert-qanda-287218",
+        "published": "2026-07-10T14:05:13Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Coleman Citronella Candle Outdoor Lantern - 70+ Hours, 6.7 Ounce - Free Pick-Up Or Free Shipping On Orders Over $35 - $5.98",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19744794-coleman-citronella-candle-outdoor-lantern-70-hours-6-7-ounce-free-pick-up-or-free-shipping-on-orders-over-35-5-98",
+        "published": "2026-07-10T13:50:47Z",
         "sentiment": "watch"
       },
       {
-        "title": "Ukraine Intensifies Attacks On Russian Energy Assets, Reportedly Forcing Halt To Azov Traffic",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260710-rferl01.htm",
-        "published": "2026-07-10T12:00:00Z",
-        "sentiment": "danger"
+        "title": "First Nation Challenges Vancouver Port Dredging Approval Over Tanker Expansion Concerns",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/first-nation-challenges-vancouver-port-dredging-approval-over-tanker-expansion-concerns/",
+        "published": "2026-07-10T13:46:57Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Trump Says US Agrees To Further Talks With Iran, But Warns Cease-Fire Is 'Over'",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260710-rferl02.htm",
-        "published": "2026-07-10T12:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US Expands Pressure Campaign With New Sanctions On Iran's Financial Networks",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260710-rferl01.htm",
-        "published": "2026-07-10T12:00:00Z",
+        "title": "American Mariners Protest Chinese Tanker as Jones Act Waiver Faces Growing Scrutiny",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/american-mariners-protest-chinese-tanker-as-jones-act-waiver-faces-growing-scrutiny/",
+        "published": "2026-07-10T13:34:55Z",
         "sentiment": "watch"
       }
     ],
