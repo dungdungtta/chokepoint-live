@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T11:32:01.902Z",
+    "generated_at": "2026-07-11T12:41:19.711Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "ADNOC Orders $900 Million in New LNG Carriers to Expand Global Fleet",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Orders-900-Million-in-New-LNG-Carriers-to-Expand-Global-Fleet.html",
-        "published": "2026-07-10T11:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Nord Stream Loses Landmark Insurance Case as War Exclusion Prevails",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Nord-Stream-Loses-Landmark-Insurance-Case-as-War-Exclusion-Prevails.html",
-        "published": "2026-07-10T11:30:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Prices Rally on Renewed Hormuz Supply Risks",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rally-on-Renewed-Hormuz-Supply-Risks.html",
-        "published": "2026-07-10T11:30:00Z",
+        "title": "Differin Acne Daily Deep Cleanser 4-oz. Tube for $7 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Differin-Acne-Daily-Deep-Cleanser-4-oz-Tube-for-7-free-shipping-w-Prime/21891729.html",
+        "published": "2026-07-10T12:17:21Z",
         "sentiment": "watch"
       },
       {
         "title": "Trump 'Holds All The Cards' In Dealing With Iran, Says Heritage Foundation's James Jay Carafano",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/trump-iran-negotiations-heritage-foundation-james-jay-carafano/33800905.html",
-        "published": "2026-07-10T11:07:51Z",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260710-rferl04.htm",
+        "published": "2026-07-10T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran War: Conflicting Reports on Momentary Pause – Restart of Talks or Iran Readying Big Strike? Russia Diesel Export Halt and Qatar LNG Pullback Increase Energy Pressure",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/07/iran-war-conflicting-reports-on-momentary-pause-restart-of-talks-or-iran-readying-big-strike-russia-diesel-export-halt-and-qatar-lng-pullback-increase-energy-pressure.html",
-        "published": "2026-07-10T10:54:58Z",
+        "title": "Ukraine Intensifies Attacks On Russian Energy Assets, Reportedly Forcing Halt To Azov Traffic",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260710-rferl01.htm",
+        "published": "2026-07-10T12:00:00Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Trump Says US Agrees To Further Talks With Iran, But Warns Cease-Fire Is 'Over'",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260710-rferl02.htm",
+        "published": "2026-07-10T12:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US Expands Pressure Campaign With New Sanctions On Iran's Financial Networks",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260710-rferl01.htm",
+        "published": "2026-07-10T12:00:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan given prominent role in European Parliament resolution: Diplomat",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260710-cna01.htm",
+        "published": "2026-07-10T12:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Sensex today | Stock Market Highlights: Markets end in green; Sensex gains 827 pts, Nifty closes at 24,207",
         "source": "BusinessLine",
@@ -90,13 +97,6 @@
         "url": "https://cryptobriefing.com/taiwan-radar-tracks-pla-missile-launch/",
         "published": "2026-07-10T01:09:33Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "U.S., Iran Return to the Brink of All-Out War",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/07/09/us-iran-war-strikes-intensify-cease-fire-over-trump-strait-hormuz/",
-        "published": "2026-07-09T21:10:18Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
