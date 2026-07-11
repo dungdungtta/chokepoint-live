@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T22:00:46.522Z",
+    "generated_at": "2026-07-11T23:11:46.170Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Hiware 3-Piece Bamboo Cutting Board Set for $9.99 w/ Prime + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Hiware-3-Piece-Bamboo-Cutting-Board-Set-for-9-99-w-Prime-free-shipping-w-Prime/21891933.html",
+        "published": "2026-07-10T22:10:41Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran admits mistake over Strait of Hormuz attacks, seeks to continue talks with US as crypto markets react",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-hormuz-attacks-crypto-markets/",
+        "published": "2026-07-10T22:04:06Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Strait of Hormuz shipping traffic collapses after US strikes on Iran",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/strait-of-hormuz-shipping-collapse-us-iran-strikes/",
@@ -45,20 +59,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/us-iran-strait-hormuz-crypto-deadline/",
         "published": "2026-07-10T21:27:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump declares Iran ceasefire over, warns of retaliation as Bitcoin slides more than 3%",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-ceasefire-over-bitcoin-drops-3/",
-        "published": "2026-07-10T21:25:47Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US officials say Strait of Hormuz will soon open to all traffic, but oil markets aren’t buying it yet",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/strait-of-hormuz-reopening-oil-crypto-markets/",
-        "published": "2026-07-10T21:09:33Z",
         "sentiment": "watch"
       }
     ],
