@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T15:25:47.218Z",
+    "generated_at": "2026-07-11T16:28:09.883Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US agrees to more Iran talks but ceasefire 'over' - Trump",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/0710/1582791-middle-east/",
-        "published": "2026-07-10T15:24:12Z",
+        "title": "Trump says U.S. agreed to Iran’s request to continue talks, but ceasefire is over",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/trump-us-agreed-iran-request-continue-talks-ceasefire-rcna385833",
+        "published": "2026-07-10T16:06:11Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Countries Must Reject Iran Efforts to Control Hormuz, UN Agency Document Says",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/countries-must-reject-iran-efforts-to-control-hormuz-un-agency-document-says/",
-        "published": "2026-07-10T15:24:10Z",
+        "title": "US-Iran talks expected next week in Switzerland as crypto markets watch for volatility signals",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-talks-switzerland-crypto-markets/",
+        "published": "2026-07-10T16:01:47Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "How the U.S.-Iran deal set the stage for renewed fighting over the Strait of Hormuz",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/2c296ef671bdec1f",
+        "published": "2026-07-10T16:00:27Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Gulf region is back to a dangerous impasse",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/opinion/the-gulf-region-is-back-to-a-dangerous-impasse/article71207437.ece",
-        "published": "2026-07-10T15:19:30Z",
+        "title": "Russian Fuel Disruptions Push Central Asia Into an Energy Crisis",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Russian-Fuel-Disruptions-Push-Central-Asia-Into-an-Energy-Crisis.html",
+        "published": "2026-07-10T16:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump Says US Agrees To Further Talks With Iran, But Warns Cease-Fire Is 'Over'",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/trump-iran-ceasefire-talks-qatar-hormuz/33801090.html",
-        "published": "2026-07-10T15:19:06Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Warsh believes America's $700B AI buildout will lower prices — but his colleagues warn it will fuel persistent inflation",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/economy/policy/articles/warsh-believes-americas-700b-ai-151500764.html",
-        "published": "2026-07-10T15:15:00Z",
+        "title": "Trump Says Iran Peace Talks Will Continue Despite Latest Strikes—Repeats Ceasefire Is ‘Over’",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/10/trump-says-iran-peace-talks-will-continue-despite-latest-strikes-repeats-ceasefire-is-over/",
+        "published": "2026-07-10T15:55:29Z",
         "sentiment": "danger"
       }
     ],
