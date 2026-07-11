@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T18:37:50.884Z",
+    "generated_at": "2026-07-11T19:53:59.630Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "US Expands Pressure Campaign With New Sanctions On Iran's Financial Networks",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/iran-sanctions-khamenei-financial-exchange/33801202.html",
+        "published": "2026-07-10T19:40:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump says US agreed to Iran's request to continue talks, but ceasefire is over",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/politics/articles/tanker-traffic-slows-strait-hormuz-120600473.html",
+        "published": "2026-07-10T19:30:47Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Ukraine creates 'long-range' command to step up strikes on Russia",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/articles/ukraine-creates-long-range-command-192152178.html",
+        "published": "2026-07-10T19:21:52Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "UN shipping agency condemns Iran’s Strait of Hormuz sovereignty claims as crypto markets brace for volatility",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/imo-condemns-iran-hormuz-sovereignty-crypto/",
@@ -39,27 +60,6 @@
         "url": "https://cryptobriefing.com/graham-russia-energy-sanctions-tariffs/",
         "published": "2026-07-10T17:42:58Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "The US was overconfident before the war. Iran may be overconfident now.",
-        "source": "Vox",
-        "url": "https://www.vox.com/politics/494968/iran-us-strait-hormuz",
-        "published": "2026-07-10T17:24:22Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Ukraine Intensifies Attacks On Russian Energy Sites, Reportedly Forcing Halt To Azov Traffic",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/ukraine-russia-energy-strikes-azov-ilsky-oil/33801161.html",
-        "published": "2026-07-10T17:21:29Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump flags more US-Iran talks but maintains ceasefire is 'over'",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-07-11/trump-flags-us-iran-talks-but-says-ceasefire-is-over/106904360",
-        "published": "2026-07-10T16:55:19Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
