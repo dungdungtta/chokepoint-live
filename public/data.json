@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T16:28:09.883Z",
+    "generated_at": "2026-07-11T17:34:22.399Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "The US was overconfident before the war. Iran may be overconfident now.",
+        "source": "Vox",
+        "url": "https://www.vox.com/politics/494968/iran-us-strait-hormuz",
+        "published": "2026-07-10T17:24:22Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Ukraine Intensifies Attacks On Russian Energy Sites, Reportedly Forcing Halt To Azov Traffic",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/ukraine-russia-energy-strikes-azov-ilsky-oil/33801161.html",
+        "published": "2026-07-10T17:21:29Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump flags more US-Iran talks but maintains ceasefire is 'over'",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-07-11/trump-flags-us-iran-talks-but-says-ceasefire-is-over/106904360",
+        "published": "2026-07-10T16:55:19Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Does Trump have a Plan C for Iran?",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/us/2026/07/10/does-trump-have-a-plan-c-for-iran/",
+        "published": "2026-07-10T16:39:53Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump says U.S. agreed to Iran’s request to continue talks, but ceasefire is over",
         "source": "NBC News",
         "url": "https://www.nbcnews.com/world/iran/trump-us-agreed-iran-request-continue-talks-ceasefire-rcna385833",
         "published": "2026-07-10T16:06:11Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "US-Iran talks expected next week in Switzerland as crypto markets watch for volatility signals",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-talks-switzerland-crypto-markets/",
-        "published": "2026-07-10T16:01:47Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "How the U.S.-Iran deal set the stage for renewed fighting over the Strait of Hormuz",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/2c296ef671bdec1f",
-        "published": "2026-07-10T16:00:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Russian Fuel Disruptions Push Central Asia Into an Energy Crisis",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Russian-Fuel-Disruptions-Push-Central-Asia-Into-an-Energy-Crisis.html",
-        "published": "2026-07-10T16:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Says Iran Peace Talks Will Continue Despite Latest Strikes—Repeats Ceasefire Is ‘Over’",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/10/trump-says-iran-peace-talks-will-continue-despite-latest-strikes-repeats-ceasefire-is-over/",
-        "published": "2026-07-10T15:55:29Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
