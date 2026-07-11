@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T10:21:34.565Z",
+    "generated_at": "2026-07-11T11:32:01.902Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Current price of oil as of July 10, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-07-10-2026/",
-        "published": "2026-07-10T10:17:05Z",
+        "title": "ADNOC Orders $900 Million in New LNG Carriers to Expand Global Fleet",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Orders-900-Million-in-New-LNG-Carriers-to-Expand-Global-Fleet.html",
+        "published": "2026-07-10T11:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Synthetic Rope Market worth $3.85 billion by 2031 - Exclusive Report by MarketsandMarkets™",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/synthetic-rope-market-worth-3-85-billion-by-2031---exclusive-report-by-marketsandmarkets-302822591.html",
-        "published": "2026-07-10T10:15:00Z",
+        "title": "Nord Stream Loses Landmark Insurance Case as War Exclusion Prevails",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Nord-Stream-Loses-Landmark-Insurance-Case-as-War-Exclusion-Prevails.html",
+        "published": "2026-07-10T11:30:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil Prices Rally on Renewed Hormuz Supply Risks",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rally-on-Renewed-Hormuz-Supply-Risks.html",
+        "published": "2026-07-10T11:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran's biggest weapon against the US may be slipping away, experts say",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/irans-biggest-weapon-against-us-may-slipping-away-experts-say",
-        "published": "2026-07-10T10:00:45Z",
+        "title": "Trump 'Holds All The Cards' In Dealing With Iran, Says Heritage Foundation's James Jay Carafano",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/trump-iran-negotiations-heritage-foundation-james-jay-carafano/33800905.html",
+        "published": "2026-07-10T11:07:51Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Prices Wobble As a Week of Hostilities Derails Shipping",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/5d725fe1e394ffa3",
-        "published": "2026-07-10T09:55:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Bitcoin returns to $64.3K with new three-week BTC price highs imminent",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/markets/bitcoin-returns-to-64k-with-three-week-btc-price-highs-imminent",
-        "published": "2026-07-10T09:32:23Z",
-        "sentiment": "watch"
+        "title": "Iran War: Conflicting Reports on Momentary Pause – Restart of Talks or Iran Readying Big Strike? Russia Diesel Export Halt and Qatar LNG Pullback Increase Energy Pressure",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/07/iran-war-conflicting-reports-on-momentary-pause-restart-of-talks-or-iran-readying-big-strike-russia-diesel-export-halt-and-qatar-lng-pullback-increase-energy-pressure.html",
+        "published": "2026-07-10T10:54:58Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Sensex today | Stock Market Highlights: Markets end in green; Sensex gains 827 pts, Nifty closes at 24,207",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-10th-july-2026/article71203430.ece",
+        "published": "2026-07-10T10:33:33Z",
+        "sentiment": "watch"
+      },
       {
         "title": "How Taiwan's US$1.4 billion radar detected and tracked China's ballistic missile",
         "source": "The Times of India",
@@ -90,13 +97,6 @@
         "url": "http://foreignpolicy.com/2026/07/09/us-iran-war-strikes-intensify-cease-fire-over-trump-strait-hormuz/",
         "published": "2026-07-09T21:10:18Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Global Research Daily: The News Behind the News",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/global-research-daily-the-news-behind-the-news-8/5932868",
-        "published": "2026-07-09T13:53:34Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
