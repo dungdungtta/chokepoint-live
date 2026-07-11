@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T20:59:25.288Z",
+    "generated_at": "2026-07-11T22:00:46.522Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump Declares Iran Ceasefire Over as U.S. Unveils New Sanctions",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/trump-declares-iran-ceasefire-over-as-u-s-unveils-new-sanctions/",
-        "published": "2026-07-10T20:55:50Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Tsleil-Waututh Nation seeks to overturn permits allowing dredging to accommodate larger tankers in Vancouver",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/canada/british-columbia/tsleil-waututh-nation-overturn-dredging-burrard-inlet-9.7266334",
-        "published": "2026-07-10T20:51:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Explosions Heard Across Iran, But U.S. Says No Strikes Launched",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/national-security/2026/07/10/explosions-heard-across-iran-but-u-s-says-no-strikes-launched/",
-        "published": "2026-07-10T20:35:15Z",
+        "title": "Strait of Hormuz shipping traffic collapses after US strikes on Iran",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/strait-of-hormuz-shipping-collapse-us-iran-strikes/",
+        "published": "2026-07-10T21:55:13Z",
         "sentiment": "danger"
       },
       {
-        "title": "IEA Says UAE Oil Output Surged to Record High in June",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/iea_says_uae_oil_output_surged_to_record_high_in_june-10-jul-2026-184115-article/",
-        "published": "2026-07-10T20:00:00Z",
+        "title": "US-Iran escalation threatens oil supply recovery, warns IEA - Al Jazeera",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184397702",
+        "published": "2026-07-10T21:52:39Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US gives Iran Saturday deadline to declare Strait of Hormuz open, with crypto toll system at the center of the standoff",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-strait-hormuz-crypto-deadline/",
+        "published": "2026-07-10T21:27:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "Gundry MD Celebrates National Day on July 11 with Exclusive Offers and Antioxidant-Rich Health Tips",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/gundry-md-celebrates-national--day-on-july-11-with-exclusive-offers-and-antioxidant-rich-health-tips-302823054.html",
-        "published": "2026-07-10T19:54:00Z",
+        "title": "Trump declares Iran ceasefire over, warns of retaliation as Bitcoin slides more than 3%",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-iran-ceasefire-over-bitcoin-drops-3/",
+        "published": "2026-07-10T21:25:47Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US officials say Strait of Hormuz will soon open to all traffic, but oil markets aren’t buying it yet",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/strait-of-hormuz-reopening-oil-crypto-markets/",
+        "published": "2026-07-10T21:09:33Z",
         "sentiment": "watch"
       }
     ],
