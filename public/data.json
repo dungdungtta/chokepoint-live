@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T14:12:56.481Z",
+    "generated_at": "2026-07-11T15:25:47.218Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "2-Pack 2-Oz Organic Vitamin D3 K2 Liquid 10000 IU w/ Vegan Omega-3 & Coconut MCT Oil $12.29 + Free Shipping w/ Prime or on $35+ (1 replies)",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19744914-2-pack-2-oz-organic-vitamin-d3-k2-liquid-10000-iu-w-vegan-omega-3-coconut-mct-oil-12-29-free-shipping-w-prime-or-on-35",
-        "published": "2026-07-10T14:07:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why Iran broke the ceasefire in the Strait of Hormuz and what might happen next – expert Q&A",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/why-iran-broke-the-ceasefire-in-the-strait-of-hormuz-and-what-might-happen-next-expert-qanda-287218",
-        "published": "2026-07-10T14:05:13Z",
+        "title": "US agrees to more Iran talks but ceasefire 'over' - Trump",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/0710/1582791-middle-east/",
+        "published": "2026-07-10T15:24:12Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Coleman Citronella Candle Outdoor Lantern - 70+ Hours, 6.7 Ounce - Free Pick-Up Or Free Shipping On Orders Over $35 - $5.98",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19744794-coleman-citronella-candle-outdoor-lantern-70-hours-6-7-ounce-free-pick-up-or-free-shipping-on-orders-over-35-5-98",
-        "published": "2026-07-10T13:50:47Z",
+        "title": "Countries Must Reject Iran Efforts to Control Hormuz, UN Agency Document Says",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/countries-must-reject-iran-efforts-to-control-hormuz-un-agency-document-says/",
+        "published": "2026-07-10T15:24:10Z",
         "sentiment": "watch"
       },
       {
-        "title": "First Nation Challenges Vancouver Port Dredging Approval Over Tanker Expansion Concerns",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/first-nation-challenges-vancouver-port-dredging-approval-over-tanker-expansion-concerns/",
-        "published": "2026-07-10T13:46:57Z",
+        "title": "The Gulf region is back to a dangerous impasse",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/opinion/the-gulf-region-is-back-to-a-dangerous-impasse/article71207437.ece",
+        "published": "2026-07-10T15:19:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "American Mariners Protest Chinese Tanker as Jones Act Waiver Faces Growing Scrutiny",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/american-mariners-protest-chinese-tanker-as-jones-act-waiver-faces-growing-scrutiny/",
-        "published": "2026-07-10T13:34:55Z",
-        "sentiment": "watch"
+        "title": "Trump Says US Agrees To Further Talks With Iran, But Warns Cease-Fire Is 'Over'",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/trump-iran-ceasefire-talks-qatar-hormuz/33801090.html",
+        "published": "2026-07-10T15:19:06Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Warsh believes America's $700B AI buildout will lower prices — but his colleagues warn it will fuel persistent inflation",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/economy/policy/articles/warsh-believes-americas-700b-ai-151500764.html",
+        "published": "2026-07-10T15:15:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
