@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T23:11:46.170Z",
+    "generated_at": "2026-07-12T00:13:08.421Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Traffic Through The Strait Of Hormuz Is Way Below Pre-War Levels As Trump Is Briefed On Options For “All-Out War”",
+        "source": "Activistpost.com",
+        "url": "https://www.activistpost.com/traffic-through-the-strait-of-hormuz-is-way-below-pre-war-levels-as-trump-is-briefed-on-options-for-all-out-war/",
+        "published": "2026-07-11T00:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Global oil demand is dropping, but US drivers keep buying more gas - AP News",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184398606",
+        "published": "2026-07-10T23:12:26Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Hiware 3-Piece Bamboo Cutting Board Set for $9.99 w/ Prime + free shipping w/ Prime",
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/Hiware-3-Piece-Bamboo-Cutting-Board-Set-for-9-99-w-Prime-free-shipping-w-Prime/21891933.html",
@@ -46,20 +60,6 @@
         "url": "https://cryptobriefing.com/strait-of-hormuz-shipping-collapse-us-iran-strikes/",
         "published": "2026-07-10T21:55:13Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "US-Iran escalation threatens oil supply recovery, warns IEA - Al Jazeera",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184397702",
-        "published": "2026-07-10T21:52:39Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US gives Iran Saturday deadline to declare Strait of Hormuz open, with crypto toll system at the center of the standoff",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-strait-hormuz-crypto-deadline/",
-        "published": "2026-07-10T21:27:17Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
