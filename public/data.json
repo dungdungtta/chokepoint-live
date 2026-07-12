@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T04:02:33.355Z",
+    "generated_at": "2026-07-12T06:47:08.739Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Wall Street Week Ahead: Investors to grapple with packed week of earnings, CPI, Iran headlines",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-st-week-ahead-investors-to-grapple-with-packed-week-of-earnings-cpi-iran-headlines/articleshow/132324249.cms",
-        "published": "2026-07-11T03:41:45Z",
+        "title": "The plan for cheaper petrol and diesel this summer: curbing fuel price hikes with a discount at the pump",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/07/11/the-plan-for-cheaper-petrol-and-diesel-this-summer-curbing-fuel-price-hikes-with-a-discount-at-the-pump/",
+        "published": "2026-07-11T06:28:47Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran gives US a 'reality check', says Washington broke ceasefire terms",
+        "title": "Could oil prices spike further? Inside the fragile US-Iran stance in the Gulf",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/iran-gives-us-a-reality-check-says-washington-broke-ceasefire-terms/articleshow/132323886.cms",
-        "published": "2026-07-11T03:05:18Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "US gives Iran deadline to declare Strait of Hormuz fully open – Axios",
-        "source": "RT",
-        "url": "https://www.rt.com/news/642878-iran-hormuz-reopen-deadline/",
-        "published": "2026-07-11T01:36:39Z",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/could-oil-prices-spike-further-inside-the-fragile-us-iran-stance-in-the-gulf/articleshow/132325682.cms",
+        "published": "2026-07-11T06:15:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "US insists Iran commit to stopping attacks in Hormuz strait, say US officials",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/us-insists-iran-commit-to-stopping-attacks-in-hormuz-strait-say-us-officials/articleshow/132323066.cms",
-        "published": "2026-07-11T01:00:49Z",
+        "title": "Trump says US will 'completely decimate' Iran if they try to assassinate him",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/trump-says-us-will-completely-decimate-iran-if-they-try-to-assassinate-him-7098433-Jul2026/",
+        "published": "2026-07-11T06:12:32Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The highs and lows and highs of fuel prices",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0711/1582766-fuel-prices-ireland/",
+        "published": "2026-07-11T06:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S. Missiles Strike Near Bushehr Nuclear Plant; Flights Disrupted Across Region",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-11-us-missiles-strike-near-bushehr-nuclear-plant.html",
+        "published": "2026-07-11T06:00:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Select Locations: 6.7-Oz Coleman Citronella Candle Outdoor Lantern $6",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19744794-select-locations-6-7-oz-coleman-citronella-candle-outdoor-lantern-6",
-        "published": "2026-07-11T00:36:15Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
