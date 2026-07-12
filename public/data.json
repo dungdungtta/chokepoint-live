@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T09:08:33.380Z",
+    "generated_at": "2026-07-12T10:44:13.349Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,25 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran indefinitely closes Strait of Hormuz and attacks ship, prompting more U.S. strikes",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/trump-threatens-iran-attempt-assassinate-open-calls-killing-khamenei-rcna434515",
-        "published": "2026-07-11T08:04:11Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The plan for cheaper petrol and diesel this summer: curbing fuel price hikes with a discount at the pump",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/07/11/the-plan-for-cheaper-petrol-and-diesel-this-summer-curbing-fuel-price-hikes-with-a-discount-at-the-pump/",
-        "published": "2026-07-11T06:28:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Could oil prices spike further? Inside the fragile US-Iran stance in the Gulf",
+        "title": "Fight for Hormuz swings between missiles & diplomacy as Iran minister reaches Oman",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/could-oil-prices-spike-further-inside-the-fragile-us-iran-stance-in-the-gulf/articleshow/132325682.cms",
-        "published": "2026-07-11T06:15:01Z",
+        "url": "https://economictimes.indiatimes.com/news/defence/fight-for-hormuz-swings-between-missiles-and-diplomacy-as-iran-reaches-oman-for-key-meeting/articleshow/132328910.cms",
+        "published": "2026-07-11T10:35:23Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump says US will 'completely decimate' Iran if they try to assassinate him",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/trump-says-us-will-completely-decimate-iran-if-they-try-to-assassinate-him-7098433-Jul2026/",
-        "published": "2026-07-11T06:12:32Z",
+        "title": "Eni’s Descalzi Says Energy Crisis May Worsen in Short Term: Sole",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/enis-descalzi-says-energy-crisis-may-worsen-in-short-term-sole",
+        "published": "2026-07-11T09:42:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "The highs and lows and highs of fuel prices",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/0711/1582766-fuel-prices-ireland/",
-        "published": "2026-07-11T06:00:00Z",
-        "sentiment": "watch"
+        "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/11/trump-threat.html",
+        "published": "2026-07-11T09:36:03Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
