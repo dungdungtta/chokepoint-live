@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T10:44:13.349Z",
+    "generated_at": "2026-07-12T11:46:33.454Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,28 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Fight for Hormuz swings between missiles & diplomacy as Iran minister reaches Oman",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/fight-for-hormuz-swings-between-missiles-and-diplomacy-as-iran-reaches-oman-for-key-meeting/articleshow/132328910.cms",
-        "published": "2026-07-11T10:35:23Z",
+        "title": "US gives Iran ultimatum to reopen Strait of Hormuz as Bitcoin feels the pressure",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-ultimatum-strait-hormuz-bitcoin/",
+        "published": "2026-07-11T11:46:07Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Nike Men's Air Jordan 1 Mid SE Shoes for $53 in cart + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Nike-Mens-Air-Jordan-1-Mid-SE-Shoes-for-53-in-cart-free-shipping/21893520.html",
+        "published": "2026-07-11T11:30:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "Eni’s Descalzi Says Energy Crisis May Worsen in Short Term: Sole",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/enis-descalzi-says-energy-crisis-may-worsen-in-short-term-sole",
-        "published": "2026-07-11T09:42:14Z",
+        "title": "Nike Men's Air Jordan 1 Mid SE Shoes for $53 in cart + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Nike-Mens-Air-Jordan-1-Mid-SE-Shoes-for-53-in-cart-free-shipping/21893520.html",
+        "published": "2026-07-11T11:30:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/11/trump-threat.html",
-        "published": "2026-07-11T09:36:03Z",
+        "title": "No Gas, No Lights, No Comms, No Tourists: Ukraine’s Crimea Blockade Starts To Bite",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/no-gas-no-lights-no-comms-no-tourists-ukraine-s-crimea-blockade-starts-to-bite/33801579.html",
+        "published": "2026-07-11T11:11:11Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The U.S. war of choice against Iran has now become the War of Hormuz",
+        "source": "Mondoweiss",
+        "url": "https://mondoweiss.net/2026/07/the-u-s-war-of-choice-against-iran-has-now-become-the-war-of-hormuz/",
+        "published": "2026-07-11T11:00:00Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Links 7/11/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/07/links-7-11-2026.html",
+        "published": "2026-07-11T10:55:28Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Martiime Security in the Red Sea",
         "source": "Americanthinker.com",
@@ -75,13 +96,6 @@
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/defence/how-taiwans-us1-4-billion-radar-detected-and-tracked-chinas-ballistic-missile/articleshow/132302983.cms",
         "published": "2026-07-10T04:55:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why We Know More About China’s Next-Generation Fighters Than America’s",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/07/10/china-next-generation-fighters-internet-intelligence/",
-        "published": "2026-07-10T04:01:06Z",
         "sentiment": "watch"
       }
     ],
