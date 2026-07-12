@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T06:47:08.739Z",
+    "generated_at": "2026-07-12T09:08:33.380Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Iran indefinitely closes Strait of Hormuz and attacks ship, prompting more U.S. strikes",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/trump-threatens-iran-attempt-assassinate-open-calls-killing-khamenei-rcna434515",
+        "published": "2026-07-11T08:04:11Z",
+        "sentiment": "danger"
+      },
       {
         "title": "The plan for cheaper petrol and diesel this summer: curbing fuel price hikes with a discount at the pump",
         "source": "Protothema.gr",
@@ -53,13 +60,6 @@
         "url": "https://www.rte.ie/news/business/2026/0711/1582766-fuel-prices-ireland/",
         "published": "2026-07-11T06:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "U.S. Missiles Strike Near Bushehr Nuclear Plant; Flights Disrupted Across Region",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-11-us-missiles-strike-near-bushehr-nuclear-plant.html",
-        "published": "2026-07-11T06:00:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
