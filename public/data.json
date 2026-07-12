@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T11:46:33.454Z",
+    "generated_at": "2026-07-12T13:44:33.361Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "US gives Iran ultimatum to reopen Strait of Hormuz as Bitcoin feels the pressure",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-ultimatum-strait-hormuz-bitcoin/",
-        "published": "2026-07-11T11:46:07Z",
+        "title": "Χαρτογραφώντας το Ρευστό Διεθνές Σύστημα - Ημερήσια Γεωπολιτική Επισκόπηση (11/07/2026)",
+        "source": "Blogspot.com",
+        "url": "https://i-epikaira.blogspot.com/2026/07/11072026.html",
+        "published": "2026-07-11T13:40:49Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran Rejects US Talks Unless Washington Meets Its Conditions",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/iran-rejects-us-talks-unless-washington-meets-its-conditions",
+        "published": "2026-07-11T13:18:02Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Nike Men's Air Jordan 1 Mid SE Shoes for $53 in cart + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Nike-Mens-Air-Jordan-1-Mid-SE-Shoes-for-53-in-cart-free-shipping/21893520.html",
-        "published": "2026-07-11T11:30:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Nike Men's Air Jordan 1 Mid SE Shoes for $53 in cart + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Nike-Mens-Air-Jordan-1-Mid-SE-Shoes-for-53-in-cart-free-shipping/21893520.html",
-        "published": "2026-07-11T11:30:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "No Gas, No Lights, No Comms, No Tourists: Ukraine’s Crimea Blockade Starts To Bite",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/no-gas-no-lights-no-comms-no-tourists-ukraine-s-crimea-blockade-starts-to-bite/33801579.html",
-        "published": "2026-07-11T11:11:11Z",
+        "title": "Iran threatens to abandon US ceasefire deal as geopolitical risk rattles crypto markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-mou-threat-crypto-market-volatility/",
+        "published": "2026-07-11T13:10:06Z",
         "sentiment": "danger"
       },
       {
-        "title": "The U.S. war of choice against Iran has now become the War of Hormuz",
-        "source": "Mondoweiss",
-        "url": "https://mondoweiss.net/2026/07/the-u-s-war-of-choice-against-iran-has-now-become-the-war-of-hormuz/",
-        "published": "2026-07-11T11:00:00Z",
-        "sentiment": "danger"
+        "title": "Cat Shape Soap/Lotion/Hand Sanitizer Stainless Steel and Ceramic Pump (Matt White) - Free Shipping w/Amazon Prime or Orders Over $35 - $8.54",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19748151-cat-shape-soap-lotion-hand-sanitizer-stainless-steel-and-ceramic-pump-matt-white-free-shipping-w-amazon-prime-or-orders-over-35-8-54",
+        "published": "2026-07-11T12:59:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Day 1,599 of WW3: Russia halts Azov Sea shipping as Ukrainian drone campaign targets Moscow's sanctioned \"shadow fleet\" of oil tankers. This is your Saturday Ukraine invasion conversation [News]",
+        "source": "Fark.com",
+        "url": "https://www.fark.com/comments/14127374/Day-1599-of-WW3-Russia-halts-Azov-Sea-shipping-as-Ukrainian-drone-campaign-targets-Moscows-sanctioned-shadow-fleet-of-oil-tankers-This-is-your-Saturday-Ukraine-invasion-conversation",
+        "published": "2026-07-11T12:15:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
