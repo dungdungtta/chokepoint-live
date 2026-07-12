@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T19:55:05.816Z",
+    "generated_at": "2026-07-12T21:00:14.216Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -18,14 +18,19 @@
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
-      "price_index": 15.9,
-      "change_pct": 3.3,
-      "date": "2026-05-01",
-      "unit": "USD/MMBtu (EU nat-gas proxy)"
+      "price_index": null,
+      "unit": "proxy"
     }
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Iran faces US ultimatum to reopen Strait of Hormuz by Saturday, and Bitcoin is already flinching",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-us-ultimatum-strait-hormuz-bitcoin/",
+        "published": "2026-07-11T20:47:23Z",
+        "sentiment": "neutral"
+      },
       {
         "title": "There’s no escape from inflation as a perfect storm of the ‘Godzilla’ El Niño, AI boom, Trump tariffs, fuel crunch, and Ukraine war keep prices high",
         "source": "Fortune",
@@ -53,13 +58,6 @@
         "url": "https://punchng.com/iran-supreme-leader-vows-revenge-for-fathers-killing/",
         "published": "2026-07-11T15:57:13Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Donald Trump sets deadline for US negotiators to finalize Iran deal, and crypto markets are paying attention",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-deal-deadline-crypto-markets/",
-        "published": "2026-07-11T15:05:19Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
