@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T18:41:45.137Z",
+    "generated_at": "2026-07-12T19:55:05.816Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -64,6 +64,13 @@
     ],
     "taiwan": [
       {
+        "title": "The battle for Taiwan: Long? Short? Bomb? Seize? Or what?",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/07/battle-taiwan-long-short-bomb-seize-what/",
+        "published": "2026-07-11T19:41:07Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Links 7/11/2026",
         "source": "Nakedcapitalism.com",
         "url": "https://www.nakedcapitalism.com/2026/07/links-7-11-2026.html",
@@ -89,13 +96,6 @@
         "source": "BusinessLine",
         "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-10th-july-2026/article71203430.ece",
         "published": "2026-07-10T10:33:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How Taiwan's US$1.4 billion radar detected and tracked China's ballistic missile",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/how-taiwans-us1-4-billion-radar-detected-and-tracked-chinas-ballistic-missile/articleshow/132302983.cms",
-        "published": "2026-07-10T04:55:25Z",
         "sentiment": "watch"
       }
     ],
