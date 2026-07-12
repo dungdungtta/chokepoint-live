@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T16:39:02.992Z",
+    "generated_at": "2026-07-12T17:44:17.888Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "There’s no escape from inflation as a perfect storm of the ‘Godzilla’ El Niño, AI boom, Trump tariffs, fuel crunch, and Ukraine war keep prices high",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/11/inflation-outlook-godzilla-el-nino-ai-boom-trump-tariffs-fuel-crunch-ukraine-war-prices/",
+        "published": "2026-07-11T17:19:51Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Qatar joins Iran-Oman talks on Strait of Hormuz, where transit fees can be paid in Bitcoin",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/qatar-iran-hormuz-bitcoin-transit-fees/",
+        "published": "2026-07-11T17:19:05Z",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up",
@@ -46,20 +60,6 @@
         "url": "https://cryptobriefing.com/trump-iran-deal-deadline-crypto-markets/",
         "published": "2026-07-11T15:05:19Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "IEA reports first global oil demand decline since 2020, and crypto miners are paying attention",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iea-global-oil-demand-decline-2026-crypto/",
-        "published": "2026-07-11T14:53:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "BREAKING: President Trump Gives Iran A Saturday Deadline — Or Else!",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-bloggers/4387570/posts",
-        "published": "2026-07-11T14:34:51Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
