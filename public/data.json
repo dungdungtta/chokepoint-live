@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T00:13:08.421Z",
+    "generated_at": "2026-07-12T04:02:33.355Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Traffic Through The Strait Of Hormuz Is Way Below Pre-War Levels As Trump Is Briefed On Options For “All-Out War”",
-        "source": "Activistpost.com",
-        "url": "https://www.activistpost.com/traffic-through-the-strait-of-hormuz-is-way-below-pre-war-levels-as-trump-is-briefed-on-options-for-all-out-war/",
-        "published": "2026-07-11T00:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Global oil demand is dropping, but US drivers keep buying more gas - AP News",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184398606",
-        "published": "2026-07-10T23:12:26Z",
+        "title": "Wall Street Week Ahead: Investors to grapple with packed week of earnings, CPI, Iran headlines",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-st-week-ahead-investors-to-grapple-with-packed-week-of-earnings-cpi-iran-headlines/articleshow/132324249.cms",
+        "published": "2026-07-11T03:41:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "Hiware 3-Piece Bamboo Cutting Board Set for $9.99 w/ Prime + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Hiware-3-Piece-Bamboo-Cutting-Board-Set-for-9-99-w-Prime-free-shipping-w-Prime/21891933.html",
-        "published": "2026-07-10T22:10:41Z",
+        "title": "Iran gives US a 'reality check', says Washington broke ceasefire terms",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/iran-gives-us-a-reality-check-says-washington-broke-ceasefire-terms/articleshow/132323886.cms",
+        "published": "2026-07-11T03:05:18Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "US gives Iran deadline to declare Strait of Hormuz fully open – Axios",
+        "source": "RT",
+        "url": "https://www.rt.com/news/642878-iran-hormuz-reopen-deadline/",
+        "published": "2026-07-11T01:36:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US insists Iran commit to stopping attacks in Hormuz strait, say US officials",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-insists-iran-commit-to-stopping-attacks-in-hormuz-strait-say-us-officials/articleshow/132323066.cms",
+        "published": "2026-07-11T01:00:49Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran admits mistake over Strait of Hormuz attacks, seeks to continue talks with US as crypto markets react",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-hormuz-attacks-crypto-markets/",
-        "published": "2026-07-10T22:04:06Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Strait of Hormuz shipping traffic collapses after US strikes on Iran",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/strait-of-hormuz-shipping-collapse-us-iran-strikes/",
-        "published": "2026-07-10T21:55:13Z",
-        "sentiment": "danger"
+        "title": "Select Locations: 6.7-Oz Coleman Citronella Candle Outdoor Lantern $6",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19744794-select-locations-6-7-oz-coleman-citronella-candle-outdoor-lantern-6",
+        "published": "2026-07-11T00:36:15Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Martiime Security in the Red Sea",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/articles/2026/07/the-law-of-the-sea-and-martiime-security/",
+        "published": "2026-07-11T04:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan given prominent role in European Parliament resolution: Diplomat",
         "source": "Globalsecurity.org",
@@ -89,13 +96,6 @@
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/07/10/china-next-generation-fighters-internet-intelligence/",
         "published": "2026-07-10T04:01:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan’s radar system tracks PLA ballistic missile launch, raising fresh geopolitical risks for markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/taiwan-radar-tracks-pla-missile-launch/",
-        "published": "2026-07-10T01:09:33Z",
         "sentiment": "watch"
       }
     ],
