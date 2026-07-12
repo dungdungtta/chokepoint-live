@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T15:43:28.077Z",
+    "generated_at": "2026-07-12T16:39:02.992Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up",
+        "published": "2026-07-11T16:05:18Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran supreme leader vows revenge for father’s killing",
+        "source": "The Punch",
+        "url": "https://punchng.com/iran-supreme-leader-vows-revenge-for-fathers-killing/",
+        "published": "2026-07-11T15:57:13Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Donald Trump sets deadline for US negotiators to finalize Iran deal, and crypto markets are paying attention",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/trump-iran-deal-deadline-crypto-markets/",
@@ -45,20 +59,6 @@
         "source": "Freerepublic.com",
         "url": "https://freerepublic.com/focus/f-bloggers/4387570/posts",
         "published": "2026-07-11T14:34:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran supreme leader vows revenge for father’s killing",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/07/iran-supreme-leader-vows-revenge-for-fathers-killing/",
-        "published": "2026-07-11T14:06:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Χαρτογραφώντας το Ρευστό Διεθνές Σύστημα - Ημερήσια Γεωπολιτική Επισκόπηση (11/07/2026)",
-        "source": "Blogspot.com",
-        "url": "https://i-epikaira.blogspot.com/2026/07/11072026.html",
-        "published": "2026-07-11T13:40:49Z",
         "sentiment": "watch"
       }
     ],
