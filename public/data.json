@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T13:44:33.361Z",
+    "generated_at": "2026-07-12T14:44:01.884Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "BREAKING: President Trump Gives Iran A Saturday Deadline — Or Else!",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-bloggers/4387570/posts",
+        "published": "2026-07-11T14:34:51Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran supreme leader vows revenge for father’s killing",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/07/iran-supreme-leader-vows-revenge-for-fathers-killing/",
+        "published": "2026-07-11T14:06:34Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Χαρτογραφώντας το Ρευστό Διεθνές Σύστημα - Ημερήσια Γεωπολιτική Επισκόπηση (11/07/2026)",
         "source": "Blogspot.com",
         "url": "https://i-epikaira.blogspot.com/2026/07/11072026.html",
@@ -46,20 +60,6 @@
         "url": "https://cryptobriefing.com/iran-mou-threat-crypto-market-volatility/",
         "published": "2026-07-11T13:10:06Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Cat Shape Soap/Lotion/Hand Sanitizer Stainless Steel and Ceramic Pump (Matt White) - Free Shipping w/Amazon Prime or Orders Over $35 - $8.54",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19748151-cat-shape-soap-lotion-hand-sanitizer-stainless-steel-and-ceramic-pump-matt-white-free-shipping-w-amazon-prime-or-orders-over-35-8-54",
-        "published": "2026-07-11T12:59:44Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Day 1,599 of WW3: Russia halts Azov Sea shipping as Ukrainian drone campaign targets Moscow's sanctioned \"shadow fleet\" of oil tankers. This is your Saturday Ukraine invasion conversation [News]",
-        "source": "Fark.com",
-        "url": "https://www.fark.com/comments/14127374/Day-1599-of-WW3-Russia-halts-Azov-Sea-shipping-as-Ukrainian-drone-campaign-targets-Moscows-sanctioned-shadow-fleet-of-oil-tankers-This-is-your-Saturday-Ukraine-invasion-conversation",
-        "published": "2026-07-11T12:15:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
