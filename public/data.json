@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T21:00:14.216Z",
+    "generated_at": "2026-07-12T22:02:57.435Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -18,12 +18,28 @@
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
-      "price_index": null,
-      "unit": "proxy"
+      "price_index": 15.9,
+      "change_pct": 3.3,
+      "date": "2026-05-01",
+      "unit": "USD/MMBtu (EU nat-gas proxy)"
     }
   },
   "news": {
     "hormuz": [
+      {
+        "title": "US seeks free Hormuz access from Iran as talks focus on strait",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/us-seeks-free-hormuz-access-iran-talks-focus-strait-6248521",
+        "published": "2026-07-11T21:30:00Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "901-Mile, Carbon-Fiber-Bodied 2002 Ducati MH900e",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/2002-ducati-mh900e-35/",
+        "published": "2026-07-11T21:20:07Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Iran faces US ultimatum to reopen Strait of Hormuz by Saturday, and Bitcoin is already flinching",
         "source": "Crypto Briefing",
@@ -44,20 +60,6 @@
         "url": "https://cryptobriefing.com/qatar-iran-hormuz-bitcoin-transit-fees/",
         "published": "2026-07-11T17:19:05Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up",
-        "published": "2026-07-11T16:05:18Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran supreme leader vows revenge for father’s killing",
-        "source": "The Punch",
-        "url": "https://punchng.com/iran-supreme-leader-vows-revenge-for-fathers-killing/",
-        "published": "2026-07-11T15:57:13Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
