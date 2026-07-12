@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T14:44:01.884Z",
+    "generated_at": "2026-07-12T15:43:28.077Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Donald Trump sets deadline for US negotiators to finalize Iran deal, and crypto markets are paying attention",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-iran-deal-deadline-crypto-markets/",
+        "published": "2026-07-11T15:05:19Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "IEA reports first global oil demand decline since 2020, and crypto miners are paying attention",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iea-global-oil-demand-decline-2026-crypto/",
+        "published": "2026-07-11T14:53:59Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "BREAKING: President Trump Gives Iran A Saturday Deadline — Or Else!",
         "source": "Freerepublic.com",
         "url": "https://freerepublic.com/focus/f-bloggers/4387570/posts",
@@ -46,20 +60,6 @@
         "url": "https://i-epikaira.blogspot.com/2026/07/11072026.html",
         "published": "2026-07-11T13:40:49Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran Rejects US Talks Unless Washington Meets Its Conditions",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/iran-rejects-us-talks-unless-washington-meets-its-conditions",
-        "published": "2026-07-11T13:18:02Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Iran threatens to abandon US ceasefire deal as geopolitical risk rattles crypto markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-mou-threat-crypto-market-volatility/",
-        "published": "2026-07-11T13:10:06Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
