@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T23:10:35.629Z",
+    "generated_at": "2026-07-13T00:12:35.954Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "US Central Command strikes Iranian facilities after attacks on commercial ships in Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-strikes-iran-crypto-market-impact-8/",
+        "published": "2026-07-11T23:46:12Z",
+        "sentiment": "danger"
+      },
       {
         "title": "IRGC missile strikes on commercial ships in Strait of Hormuz rattle oil markets and spotlight Iran’s crypto sanctions playbook",
         "source": "Crypto Briefing",
@@ -53,13 +60,6 @@
         "url": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-warns-against-unauthorized-shipping-routes/",
         "published": "2026-07-11T22:42:08Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "The U.S. and Iran can’t agree on fully reopening the Strait of Hormuz. The solution could be straight out of the Old Testament",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/11/strait-of-hormuz-separate-corridors-oman-iran-us-military-protection-persian-gulf-oil/",
-        "published": "2026-07-11T22:30:12Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
