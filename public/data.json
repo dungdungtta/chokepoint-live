@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-13T10:43:49.096Z",
+    "generated_at": "2026-07-13T13:08:51.933Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump's ambitious energy bet could be a winning hand as the world burns more oil, gas than ever",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/trumps-ambitious-energy-bet-winning-hand-world-burns-more-oil-gas-than-ever",
-        "published": "2026-07-12T10:00:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ukraine strikes Rosneft refinery in Russia’s Samara region, targets tankers in Sea of Azov",
+        "title": "US Central Command asserts Strait of Hormuz remains open amid Iran war",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/ukraine-strikes-samara-refinery-tankers/",
-        "published": "2026-07-12T08:52:36Z",
+        "url": "https://cryptobriefing.com/us-central-command-asserts-strait-of-hormuz-remains-open-amid-iran-war/",
+        "published": "2026-07-12T12:53:59Z",
         "sentiment": "danger"
       },
       {
-        "title": "Ukraine Says It Hit Russia’s Syzran Refinery, Azov Sea Tankers",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/ukraine-says-it-hit-russias-syzran-refinery-azov-sea-tankers",
-        "published": "2026-07-12T08:50:05Z",
+        "title": "Winslow Homer Printmaking and Paintings Are Reunited in an Ambitious Landmark Exhibition",
+        "source": "My Modern Met",
+        "url": "https://mymodernmet.com/winslow-homer-portland-museum-art/",
+        "published": "2026-07-12T12:50:51Z",
         "sentiment": "watch"
       },
       {
-        "title": "US launches fresh strikes on Iran after Hormuz closure",
-        "source": "Peoplesreview.com.np",
-        "url": "https://peoplesreview.com.np/2026/07/12/us-launches-fresh-strikes-on-iran-after-hormuz-closure/",
-        "published": "2026-07-12T08:15:00Z",
+        "title": "Iran closes Strait of Hormuz, maritime traffic plummets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-maritime-traffic-plummets/",
+        "published": "2026-07-12T12:11:27Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "What The '70s Oil Crisis Can Teach Us About Living Through Fuel Shortages",
+        "source": "Jalopnik",
+        "url": "https://www.jalopnik.com/2212267/what-1970s-oil-crisis-teaches-us-about-fuel-shortages/",
+        "published": "2026-07-12T12:05:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US Launches New Attacks Seeking To Degrade Iran's Ability To Threaten Shipping",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260712-rferl02.htm",
+        "published": "2026-07-12T12:00:00Z",
         "sentiment": "danger"
       }
     ],
