@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-13T15:59:45.098Z",
+    "generated_at": "2026-07-13T18:03:18.158Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US Launches Fresh Iran Strikes As Tehran Declares Hormuz Closed",
+        "title": "IRGC drone strikes on US military sites in Kuwait send crypto markets reeling",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/irgc-drone-strikes-kuwait-crypto-markets/",
+        "published": "2026-07-12T17:46:31Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Russia and Ukraine Strikes Hit Key Grain Sea Export Ports",
         "source": "gcaptain.com",
-        "url": "https://gcaptain.com/us-launches-fresh-iran-strikes-as-tehran-declares-hormuz-closed/",
-        "published": "2026-07-12T15:40:40Z",
+        "url": "https://gcaptain.com/russia-and-ukraine-strikes-hit-key-grain-sea-export-ports/",
+        "published": "2026-07-12T17:34:03Z",
         "sentiment": "danger"
       },
       {
-        "title": "US-Iran war: Oil shipments through Strait of Hormuz rise after ceasefire, renewed strikes revive fears, IEA says",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-war-oil-shipments-through-strait-of-hormuz-rise-after-ceasefire-renewed-strikes-revive-fears-iea-says-crude-price/articleshow/132347710.cms",
-        "published": "2026-07-12T15:23:11Z",
+        "title": "US military strikes IRGC targets near Strait of Hormuz amid ongoing conflict",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-military-strikes-irgc-targets-near-strait-of-hormuz-amid-ongoing-conflict/",
+        "published": "2026-07-12T16:45:02Z",
         "sentiment": "danger"
       },
       {
-        "title": "Hormuz route open despite Iran declaration, maritime group says",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/12/oman-strait-of-hormuz-route-open-us-iran-attacks-joint-maritime-information-center/",
-        "published": "2026-07-12T15:13:59Z",
+        "title": "Hormuz Route Open Despite Iran Declaration, Maritime Group Says",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/hormuz-route-open-despite-iran-declaration-maritime-group-says/",
+        "published": "2026-07-12T16:38:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "U.S. military hits 140 Iranian targets in latest round of strikes while Tehran attacks Persian Gulf neighbors",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/12/us-military-140-iranian-targets-latest-strikes-tehran-persian-gulf-neighbors-hormuz/",
-        "published": "2026-07-12T14:39:51Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Hormuz closure threatens India’s gas, crude supplies",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/hormuz-closure-threatens-indias-gas-crude-supplies/article71214334.ece",
-        "published": "2026-07-12T14:15:55Z",
+        "title": "'Don't Talk About It': Trump Tells Journalists to Stop Asking About Strait of Hormuz After Latest Closure",
+        "source": "Common Dreams",
+        "url": "https://www.commondreams.org/news/trump-strait-of-hormuz",
+        "published": "2026-07-12T16:10:49Z",
         "sentiment": "danger"
       }
     ],
