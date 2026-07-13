@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-13T19:51:21.685Z",
+    "generated_at": "2026-07-13T21:05:36.259Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iraq urges restraint as US-Iran tensions threaten Strait of Hormuz shipping",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iraq-urges-restraint-as-us-iran-tensions-threaten-strait-of-hormuz-shipping/",
+        "published": "2026-07-12T20:25:35Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Iran wants the POTUS dead - and answered Washington’s Strait deadline with a missile",
         "source": "Israelnationalnews.com",
         "url": "https://www.israelnationalnews.com/news/430045",
@@ -52,13 +59,6 @@
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/russia-and-ukraine-strikes-hit-key-grain-sea-export-ports/",
         "published": "2026-07-12T17:34:03Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US military strikes IRGC targets near Strait of Hormuz amid ongoing conflict",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-military-strikes-irgc-targets-near-strait-of-hormuz-amid-ongoing-conflict/",
-        "published": "2026-07-12T16:45:02Z",
         "sentiment": "danger"
       }
     ],
