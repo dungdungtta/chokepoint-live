@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-13T04:04:28.786Z",
+    "generated_at": "2026-07-13T07:41:38.530Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran’s Revolutionary Guards strike US military sites in Kuwait as Bitcoin whipsaws near $100K",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-irgc-kuwait-strikes-bitcoin-volatility/",
-        "published": "2026-07-12T04:01:30Z",
+        "title": "Iran War: Iran Rejects Trump 24 Hour Ultimatum; US Launches Intense Attacks With Kuwait and Bahrain; Iran Closes Strait of Hormuz, Starts Counter-Strikes; Rumors of Mining of Oman Channel",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/07/iran-war-iran-rejects-trump-24-hour-ultimatum-us-launches-intense-attacks-with-kuwait-and-bahrain-iran-closes-strait-of-hormuz-starts-counter-strikes-rumors-of-mining-of-oman-channel.html",
+        "published": "2026-07-12T07:26:54Z",
         "sentiment": "danger"
       },
       {
-        "title": "What Americans Don’t Appreciate About Iran",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/articles/2026/07/what-americans-don-t-appreciate-about-iran/",
-        "published": "2026-07-12T04:00:00Z",
+        "title": "Trump’s time is running out to avoid a nightmare Strait of Hormuz scenario",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/12/trumps-time-running-out-nightmare-hormuz-scenario/",
+        "published": "2026-07-12T07:13:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran reportedly planting mines among fishing boats in Strait of Hormuz",
+        "title": "Iran asserts control over Strait of Hormuz, disrupting global shipping routes",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-reportedly-planting-mines-among-fishing-boats-in-strait-of-hormuz/",
-        "published": "2026-07-12T03:55:13Z",
+        "url": "https://cryptobriefing.com/iran-asserts-control-over-strait-of-hormuz-disrupting-global-shipping-routes/",
+        "published": "2026-07-12T07:03:53Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran missile strike ignites fire at US Navy Fifth Fleet in Bahrain",
+        "title": "Iranian forces strike US-linked targets across five Middle Eastern countries, sending shockwaves through global markets",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-missile-strike-ignites-fire-at-us-navy-fifth-fleet-in-bahrain/",
-        "published": "2026-07-12T03:21:51Z",
+        "url": "https://cryptobriefing.com/iran-strikes-us-targets-middle-east-crypto-impact/",
+        "published": "2026-07-12T07:02:16Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran closes Strait of Hormuz amid US tensions, impacting global oil markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-amid-us-tensions-impacting-global-oil-markets/",
-        "published": "2026-07-12T03:09:18Z",
-        "sentiment": "watch"
+        "title": "India condemns attack on commercial vessel off Oman coast; 10 Indians rescued, one missing",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/india/india-condemns-attack-on-commercial-vessel-off-oman-coast-10-indians-rescued-one-missing/articleshow/132341690.cms",
+        "published": "2026-07-12T06:47:10Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
