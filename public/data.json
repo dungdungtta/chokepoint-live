@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-13T21:05:36.259Z",
+    "generated_at": "2026-07-13T22:12:21.524Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "US military says began new wave of strikes in Iran",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/us-new-strikes-iran-hormuz-6249701",
+        "published": "2026-07-12T22:06:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump launches more strikes on Iran in effort to secure Strait of Hormuz amid attacks",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15972307/Trump-strikes-Iran-Strait-Hormuz.html",
+        "published": "2026-07-12T21:45:29Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Iraq urges restraint as US-Iran tensions threaten Strait of Hormuz shipping",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/iraq-urges-restraint-as-us-iran-tensions-threaten-strait-of-hormuz-shipping/",
@@ -46,20 +60,6 @@
         "url": "https://financialpost.com/pmn/business-pmn/traders-grapple-with-world-thats-good-for-dollar-bad-for-bonds",
         "published": "2026-07-12T19:23:20Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "IRGC drone strikes on US military sites in Kuwait send crypto markets reeling",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/irgc-drone-strikes-kuwait-crypto-markets/",
-        "published": "2026-07-12T17:46:31Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Russia and Ukraine Strikes Hit Key Grain Sea Export Ports",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/russia-and-ukraine-strikes-hit-key-grain-sea-export-ports/",
-        "published": "2026-07-12T17:34:03Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
