@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-13T00:12:35.954Z",
+    "generated_at": "2026-07-13T04:04:28.786Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "US Central Command strikes Iranian facilities after attacks on commercial ships in Strait of Hormuz",
+        "title": "Iran’s Revolutionary Guards strike US military sites in Kuwait as Bitcoin whipsaws near $100K",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-strikes-iran-crypto-market-impact-8/",
-        "published": "2026-07-11T23:46:12Z",
+        "url": "https://cryptobriefing.com/iran-irgc-kuwait-strikes-bitcoin-volatility/",
+        "published": "2026-07-12T04:01:30Z",
         "sentiment": "danger"
       },
       {
-        "title": "IRGC missile strikes on commercial ships in Strait of Hormuz rattle oil markets and spotlight Iran’s crypto sanctions playbook",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/irgc-hormuz-missile-strikes-crypto-sanctions/",
-        "published": "2026-07-11T23:07:17Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The Next Bull Market Could Be Built on Inventory Replenishment",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/The-Next-Bull-Market-Could-Be-Built-on-Inventory-Replenishment.html",
-        "published": "2026-07-11T23:00:00Z",
+        "title": "What Americans Don’t Appreciate About Iran",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/articles/2026/07/what-americans-don-t-appreciate-about-iran/",
+        "published": "2026-07-12T04:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran’s IRGC navy says Strait of Hormuz is closed after firing on container ship, warns of ‘severe’ retaliation",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/07/11/world-news/iran-says-strait-of-hormuz-is-closed-after-firing-on-container-ship-warns-of-severe-retaliation/",
-        "published": "2026-07-11T22:57:29Z",
+        "title": "Iran reportedly planting mines among fishing boats in Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-reportedly-planting-mines-among-fishing-boats-in-strait-of-hormuz/",
+        "published": "2026-07-12T03:55:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran missile strike ignites fire at US Navy Fifth Fleet in Bahrain",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-missile-strike-ignites-fire-at-us-navy-fifth-fleet-in-bahrain/",
+        "published": "2026-07-12T03:21:51Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran closes Strait of Hormuz, warns against unauthorized shipping routes",
+        "title": "Iran closes Strait of Hormuz amid US tensions, impacting global oil markets",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-warns-against-unauthorized-shipping-routes/",
-        "published": "2026-07-11T22:42:08Z",
-        "sentiment": "danger"
+        "url": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-amid-us-tensions-impacting-global-oil-markets/",
+        "published": "2026-07-12T03:09:18Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
