@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-13T22:12:21.524Z",
+    "generated_at": "2026-07-13T23:15:25.659Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil prices rise as U.S. and Iran fight for control of Strait of Hormuz - CNBC",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184430908",
+        "published": "2026-07-12T22:52:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Jumps as US and Iran Trade Strikes, Dispute Hormuz Status",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/oil-jumps-as-us-and-iran-trade-strikes-dispute-hormuz-status",
+        "published": "2026-07-12T22:36:44Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil Climbs, US Futures Dip on Fresh Iran Strikes: Markets Wrap",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/oil-climbs-us-futures-dip-on-fresh-iran-strikes-markets-wrap",
+        "published": "2026-07-12T22:31:43Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "US military says began new wave of strikes in Iran",
         "source": "CNA",
         "url": "https://www.channelnewsasia.com/world/us-new-strikes-iran-hormuz-6249701",
@@ -39,27 +60,6 @@
         "url": "https://www.dailymail.com/news/article-15972307/Trump-strikes-Iran-Strait-Hormuz.html",
         "published": "2026-07-12T21:45:29Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Iraq urges restraint as US-Iran tensions threaten Strait of Hormuz shipping",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iraq-urges-restraint-as-us-iran-tensions-threaten-strait-of-hormuz-shipping/",
-        "published": "2026-07-12T20:25:35Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran wants the POTUS dead - and answered Washington’s Strait deadline with a missile",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/430045",
-        "published": "2026-07-12T19:44:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Traders Grapple With World That’s Good for Dollar, Bad for Bonds",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/traders-grapple-with-world-thats-good-for-dollar-bad-for-bonds",
-        "published": "2026-07-12T19:23:20Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
