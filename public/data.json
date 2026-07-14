@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T10:25:52.469Z",
+    "generated_at": "2026-07-14T11:57:41.794Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran escalates attacks on U.S. bases in Gulf states, warns of more 'incidents' in strait",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/iran-attacks-us-bases-gulf-states-9.7267800",
-        "published": "2026-07-13T10:23:28Z",
+        "title": "UK maritime authority reports warning shots fired at tanker in Red Sea crisis",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/uk-maritime-authority-reports-warning-shots-fired-at-tanker-in-red-sea-crisis/",
+        "published": "2026-07-13T11:51:14Z",
         "sentiment": "danger"
       },
       {
-        "title": "Bitcoin Weakens as Oil-Price Spike Revives Inflation Concerns",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/bitcoin-weakens-as-oil-price-spike-revives-inflation-concerns",
-        "published": "2026-07-13T10:17:38Z",
+        "title": "Iran fires warning shots at ships in Strait of Hormuz amid tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-fires-warning-shots-at-ships-in-strait-of-hormuz-amid-tensions/",
+        "published": "2026-07-13T11:51:07Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Security incident near Bab al-Mandab Strait raises maritime concerns",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/security-incident-near-bab-al-mandab-strait-raises-maritime-concerns/",
+        "published": "2026-07-13T11:50:29Z",
         "sentiment": "watch"
       },
       {
-        "title": "Ships go dark as the clock runs out on Trump’s ‘undeclared naval war’ in the Strait of Hormuz",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/13/ships-go-dark-clock-runs-out-trump-undeclared-naval-war-strait-of-hormuz/",
-        "published": "2026-07-13T10:16:28Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Strait of Hormuz Tanker Traffic Falls to Five-Week Low",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Strait-of-Hormuz-Tanker-Traffic-Falls-to-Five-Week-Low.html",
-        "published": "2026-07-13T10:15:00Z",
+        "title": "Resurgent U.S.-Iran hostilities send bitcoin lower even as ETF flows show demand",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/daybook-us/2026/07/13/resurgent-u-s-iran-hostilities-send-bitcoin-lower-even-as-etf-flows-show-demand",
+        "published": "2026-07-13T11:20:49Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Ships Transit Hormuz in Secret as US and Iran Trade Strikes",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/ships-transit-hormuz-in-secret-as-us-and-iran-trade-strikes/",
-        "published": "2026-07-13T10:06:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
