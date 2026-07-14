@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T14:05:55.538Z",
+    "generated_at": "2026-07-14T15:48:21.508Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump: US to seek compensation for guarding Strait of Hormuz",
+        "title": "2-in-1 Oil Sprayer for $3 + free shipping w/ $25",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/2-in-1-Oil-Sprayer-for-3-free-shipping-w-25/21900314.html",
+        "published": "2026-07-13T15:39:28Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "CENTCOM uses sea drones to strike Iranian ship facility in Hormuz Strait",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-us-to-seek-compensation-for-guarding-strait-of-hormuz/",
-        "published": "2026-07-13T14:00:43Z",
+        "url": "https://cryptobriefing.com/centcom-uses-sea-drones-to-strike-iranian-ship-facility-in-hormuz-strait/",
+        "published": "2026-07-13T15:34:11Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Dubai plans new port to bypass Strait of Hormuz, reshaping global energy chokepoint dynamics",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/dubai-port-bypass-strait-hormuz/",
+        "published": "2026-07-13T15:31:32Z",
         "sentiment": "watch"
       },
       {
-        "title": "Seafarers Attacked in Strait of Hormuz Sue Shipping Company in Thailand",
+        "title": "Dollar mostly flat amid escalating US-Iran tension, yen slides on pension doubts",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/dollar-mostly-flat-amid-escalating-us-iran-tension-yen-slides-pension-doubts-6249851",
+        "published": "2026-07-13T15:27:39Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump Says US Reinstates Blockade of Strait of Hormuz After New Clashes With Iran",
         "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/07/13/877320.htm",
-        "published": "2026-07-13T13:57:28Z",
+        "url": "https://www.insurancejournal.com/news/international/2026/07/13/877324.htm",
+        "published": "2026-07-13T15:27:34Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/563d1ca30ca86263",
-        "published": "2026-07-13T13:38:15Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US stocks today: S&P 500, Nasdaq decline as Iran tensions jolt sentiment; chip stocks fall",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-decline-as-iran-tensions-jolt-sentiment-chip-stocks-fall/articleshow/132368301.cms",
-        "published": "2026-07-13T13:37:01Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
