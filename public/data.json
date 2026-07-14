@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T17:22:17.738Z",
+    "generated_at": "2026-07-14T18:41:51.583Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump’s Temporary Jones Act Waiver Sparks Long-Term Policy Fight",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/trumps-temporary-jones-act-waiver-sparks-long-term-policy-fight",
-        "published": "2026-07-13T17:22:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "128-Ounce Amazon Grocery Vegetable Oil $7.34 w/ S&S + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19755957-128-ounce-amazon-grocery-vegetable-oil-7-34-w-s-s-free-shipping-w-prime-or-on-35",
-        "published": "2026-07-13T17:01:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump says US will reinstate Iran blockade and charge for Strait of Hormuz shipping",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/strait-of-hormuz-latest-2-7100525-Jul2026/",
-        "published": "2026-07-13T16:44:52Z",
+        "title": "Trump Says US Will Blockade Iranian Ports Again, Charge 20% Strait of Hormuz Cargo Fee",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/trump-us-blockade-iran-ports-charge-20-percent-strait-of-hormuz-cargo-fee-1239064518/",
+        "published": "2026-07-13T18:37:36Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran exports 57M barrels of oil amid temporary US blockade suspension",
+        "title": "Oil Prices Surge 8% After Trump Reimposes Iran Blockade",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-8-After-Trump-Reimposes-Iran-Blockade.html",
+        "published": "2026-07-13T18:30:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US to enforce maritime blockade on Iran starting Tuesday",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-exports-57m-barrels-of-oil-amid-temporary-us-blockade-suspension/",
-        "published": "2026-07-13T16:43:21Z",
+        "url": "https://cryptobriefing.com/us-to-enforce-maritime-blockade-on-iran-starting-tuesday/",
+        "published": "2026-07-13T18:29:30Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Oil jumps 4% to $79 per barrel as US-Iran tensions escalate",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/07/oil-jumps-4-to-79-per-barrel-as-us-iran-tensions-escalate/",
+        "published": "2026-07-13T18:22:37Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "WTI crude jumps to $77.77 amid US-Iran tensions in Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/wti-crude-jumps-to-7777-amid-us-iran-tensions-in-strait-of-hormuz/",
+        "published": "2026-07-13T18:21:53Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
