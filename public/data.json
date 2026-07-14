@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T22:14:44.871Z",
+    "generated_at": "2026-07-14T23:15:14.944Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "US targets Iran’s military near Strait of Hormuz, escalating tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-targets-irans-military-near-strait-of-hormuz-escalating-tensions/",
-        "published": "2026-07-13T22:03:17Z",
+        "title": "Strait talk: Iran’s Hormuz attacks must end the ‘phony peace’",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/07/13/opinion/strait-talk-irans-hormuz-attacks-must-end-the-phony-peace/",
+        "published": "2026-07-13T23:14:52Z",
         "sentiment": "danger"
       },
       {
-        "title": "Stock market today: Live updates",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/13/stock-market-today-live-updates.html",
-        "published": "2026-07-13T22:02:19Z",
+        "title": "Oil surges as Trump says U.S. wants 20% charge for Hormuz flows",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/344cc27e93c40ff1",
+        "published": "2026-07-13T23:14:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "1969 Chevrolet El Camino SS 396 4-Speed at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1969-chevrolet-el-camino-63/",
-        "published": "2026-07-13T21:54:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US government maxes out oil reserves as Trump vows control over Strait of Hormuz",
+        "title": "Oil prices surge nearly 10% amid US-Iran tensions, biggest rise since 2020",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-oil-reserves-trump-strait-hormuz/",
-        "published": "2026-07-13T21:32:50Z",
+        "url": "https://cryptobriefing.com/oil-prices-surge-nearly-10-amid-us-iran-tensions-biggest-rise-since-2020/",
+        "published": "2026-07-13T23:12:18Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S. launches new strikes on Iran while Tehran mocks Trump’s reversal on charging for Hormuz transits — ‘20% is of course too much. We will be fair’",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/13/us-strikes-iran-naval-blockade-trump-reversal-hormuz-fees/",
+        "published": "2026-07-13T23:07:05Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Inflation slows house building, figures from AIB show",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/2026/07/14/inflation-slows-house-building-new-figures-say/",
+        "published": "2026-07-13T23:01:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China builds full-scale model of US destroyer in desert for missile targeting",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/china-builds-full-scale-model-of-us-destroyer-in-desert-for-missile-targeting/",
+        "published": "2026-07-13T22:54:19Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Ships go dark as the clock runs out on Trump’s ‘undeclared naval war’ in the Strait of Hormuz",
         "source": "Fortune",
@@ -82,13 +96,6 @@
         "source": "Nakedcapitalism.com",
         "url": "https://www.nakedcapitalism.com/2026/07/links-7-11-2026.html",
         "published": "2026-07-11T10:55:28Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Martiime Security in the Red Sea",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/articles/2026/07/the-law-of-the-sea-and-martiime-security/",
-        "published": "2026-07-11T04:00:00Z",
         "sentiment": "watch"
       }
     ],
