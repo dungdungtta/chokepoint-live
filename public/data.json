@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T08:38:19.611Z",
+    "generated_at": "2026-07-14T10:25:52.469Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "USA, Iran Trade Fresh Strikes",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/usa_iran_trade_fresh_strikes-13-jul-2026-184117-article/",
-        "published": "2026-07-13T08:31:54Z",
+        "title": "Iran escalates attacks on U.S. bases in Gulf states, warns of more 'incidents' in strait",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/iran-attacks-us-bases-gulf-states-9.7267800",
+        "published": "2026-07-13T10:23:28Z",
         "sentiment": "danger"
       },
       {
-        "title": "Bitcoin’s $60K price floor is back in play as Hormuz oil shock returns",
-        "source": "CryptoSlate",
-        "url": "https://cryptoslate.com/?p=547456",
-        "published": "2026-07-13T08:30:06Z",
+        "title": "Bitcoin Weakens as Oil-Price Spike Revives Inflation Concerns",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/bitcoin-weakens-as-oil-price-spike-revives-inflation-concerns",
+        "published": "2026-07-13T10:17:38Z",
         "sentiment": "watch"
       },
       {
-        "title": "US-Iran conflict escalates as Iran blocks Strait of Hormuz, targets US bases",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-conflict-escalates-as-iran-blocks-strait-of-hormuz-targets-us-bases/",
-        "published": "2026-07-13T08:17:32Z",
+        "title": "Ships go dark as the clock runs out on Trump’s ‘undeclared naval war’ in the Strait of Hormuz",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/13/ships-go-dark-clock-runs-out-trump-undeclared-naval-war-strait-of-hormuz/",
+        "published": "2026-07-13T10:16:28Z",
         "sentiment": "danger"
       },
       {
-        "title": "European Stocks Drop After US-Iran Strikes, Oil Lifts Energy",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/european-stocks-drop-after-us-iran-strikes-oil-lifts-energy",
-        "published": "2026-07-13T08:14:54Z",
+        "title": "Strait of Hormuz Tanker Traffic Falls to Five-Week Low",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Strait-of-Hormuz-Tanker-Traffic-Falls-to-Five-Week-Low.html",
+        "published": "2026-07-13T10:15:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Ships Transit Hormuz in Secret as US and Iran Trade Strikes",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/ships-transit-hormuz-in-secret-as-us-and-iran-trade-strikes/",
+        "published": "2026-07-13T10:06:00Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Ships go dark as the clock runs out on Trump’s ‘undeclared naval war’ in the Strait of Hormuz",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/13/ships-go-dark-clock-runs-out-trump-undeclared-naval-war-strait-of-hormuz/",
+        "published": "2026-07-13T10:16:28Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Chinese Type 076 vessel Sichuan enhances combat capabilities in South China Sea",
         "source": "Crypto Briefing",
@@ -82,13 +96,6 @@
         "source": "Americanthinker.com",
         "url": "https://www.americanthinker.com/articles/2026/07/the-law-of-the-sea-and-martiime-security/",
         "published": "2026-07-11T04:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan given prominent role in European Parliament resolution: Diplomat",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260710-cna01.htm",
-        "published": "2026-07-10T12:00:00Z",
         "sentiment": "watch"
       }
     ],
