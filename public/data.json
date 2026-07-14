@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T00:54:48.451Z",
+    "generated_at": "2026-07-14T04:08:37.776Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-expands-attacks-on-gulf-states-after-us-strikes-says-strait-of-hormuz-closed/articleshow/132354201.cms",
-        "published": "2026-07-13T00:38:20Z",
+        "title": "US launches new attacks on Iran, killing one person, state media reports",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo",
+        "published": "2026-07-13T04:06:57Z",
         "sentiment": "danger"
       },
       {
-        "title": "Dollar jumps as Middle East tensions rise, Hormuz Strait closed",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/dollar-jumps-as-middle-east-tensions-rise-hormuz-strait-closed/",
-        "published": "2026-07-13T00:37:52Z",
+        "title": "Why is market falling today? Sensex plunges 700 points, Nifty tests 24,000. 6 key factors behind the selloff",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-plunges-700-points-nifty-tests-24000-key-factors-behind-the-selloff/articleshow/132355904.cms",
+        "published": "2026-07-13T03:56:46Z",
         "sentiment": "watch"
       },
       {
-        "title": "US strikes Iran after Strait of Hormuz ship attack; Tehran hits Gulf states",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/us-strikes-iran-after-strait-of-hormuz-ship-attack-tehran-hits-gulf-states/article71215778.ece",
-        "published": "2026-07-13T00:35:58Z",
+        "title": "Oil Jumps As Conflict Over Hormuz Escalates With Fresh Strikes",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/oil-jumps-as-conflict-over-hormuz-escalates-with-fresh-strikes/",
+        "published": "2026-07-13T03:51:02Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil jumps 3% after US, Iran escalate strikes in Mideast",
+        "title": "KOSPI Plunges Nearly 7% Below 7,000 as US-Iran Conflict Escalates, SK Hynix Stock Slides Sharply",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/kospi-index-plummets-us-iran-tensions-chip-stock-decline-1872174",
+        "published": "2026-07-13T03:49:51Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US and Iran vie for Strait of Hormuz, waterway key to global energy supplies, in latest attacks",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-jumps-3-after-us-iran-escalate-strikes-in-mideast/articleshow/132354187.cms",
-        "published": "2026-07-13T00:26:55Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Rises After Weekend of Back-and-Forth Strikes by U.S. and Iran - The New York Times",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184431698",
-        "published": "2026-07-13T00:12:38Z",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-and-iran-vie-for-strait-of-hormuz-waterway-key-to-global-energy-supplies-in-latest-attacks/articleshow/132355809.cms",
+        "published": "2026-07-13T03:47:07Z",
         "sentiment": "danger"
       }
     ],
