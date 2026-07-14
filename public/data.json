@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T11:57:41.794Z",
+    "generated_at": "2026-07-14T14:05:55.538Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "UK maritime authority reports warning shots fired at tanker in Red Sea crisis",
+        "title": "Trump: US to seek compensation for guarding Strait of Hormuz",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/uk-maritime-authority-reports-warning-shots-fired-at-tanker-in-red-sea-crisis/",
-        "published": "2026-07-13T11:51:14Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran fires warning shots at ships in Strait of Hormuz amid tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-fires-warning-shots-at-ships-in-strait-of-hormuz-amid-tensions/",
-        "published": "2026-07-13T11:51:07Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Security incident near Bab al-Mandab Strait raises maritime concerns",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/security-incident-near-bab-al-mandab-strait-raises-maritime-concerns/",
-        "published": "2026-07-13T11:50:29Z",
+        "url": "https://cryptobriefing.com/trump-us-to-seek-compensation-for-guarding-strait-of-hormuz/",
+        "published": "2026-07-13T14:00:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "Resurgent U.S.-Iran hostilities send bitcoin lower even as ETF flows show demand",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/daybook-us/2026/07/13/resurgent-u-s-iran-hostilities-send-bitcoin-lower-even-as-etf-flows-show-demand",
-        "published": "2026-07-13T11:20:49Z",
+        "title": "Seafarers Attacked in Strait of Hormuz Sue Shipping Company in Thailand",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/07/13/877320.htm",
+        "published": "2026-07-13T13:57:28Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/563d1ca30ca86263",
+        "published": "2026-07-13T13:38:15Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US stocks today: S&P 500, Nasdaq decline as Iran tensions jolt sentiment; chip stocks fall",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-decline-as-iran-tensions-jolt-sentiment-chip-stocks-fall/articleshow/132368301.cms",
+        "published": "2026-07-13T13:37:01Z",
         "sentiment": "watch"
       }
     ],
