@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T06:26:48.295Z",
+    "generated_at": "2026-07-14T08:38:19.611Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "US hits Iran as Gulf states targeted in flare up over Hormuz",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/us-hits-iran-as-gulf-states-targeted-in-flareup-over-hormuz-7099796-Jul2026/",
-        "published": "2026-07-13T06:23:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "DAX set to open lower amid Iran conflict and aviation sector impact",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/dax-set-to-open-lower-amid-iran-conflict-and-aviation-sector-impact/",
-        "published": "2026-07-13T06:18:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "NZ sharemarket falls nearly 0.5% amid Middle East tensions – Market close",
-        "source": "New Zealand Herald",
-        "url": "https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-falls-nearly-05-amid-middle-east-tensions-market-close/premium/K5RPQDGZL5BHHOWCSET7MR7STE/",
-        "published": "2026-07-13T06:14:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ships pass through Strait of Hormuz in secret as US and Iran trade strikes",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/ships-pass-through-strait-of-hormuz-in-secret-as-us-and-iran-trade-strikes/articleshow/132357738.cms",
-        "published": "2026-07-13T06:11:45Z",
+        "title": "USA, Iran Trade Fresh Strikes",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/usa_iran_trade_fresh_strikes-13-jul-2026-184117-article/",
+        "published": "2026-07-13T08:31:54Z",
         "sentiment": "danger"
       },
       {
-        "title": "Tourism heads for a record, Tsipras… switches sides on Molotov cocktails, Samaras and the blessing of Nea Ionia, the Niarchos daughter’s gallery, and the Greeks’ deals at sea",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/07/13/tourism-heads-for-a-record-tsipras-switches-sides-on-molotov-cocktails-samaras-and-the-blessing-of-nea-ionia-the-niarchos-daughters-gallery-and-the-greeks-deals-at-sea/",
-        "published": "2026-07-13T06:03:11Z",
+        "title": "Bitcoin’s $60K price floor is back in play as Hormuz oil shock returns",
+        "source": "CryptoSlate",
+        "url": "https://cryptoslate.com/?p=547456",
+        "published": "2026-07-13T08:30:06Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "US-Iran conflict escalates as Iran blocks Strait of Hormuz, targets US bases",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-conflict-escalates-as-iran-blocks-strait-of-hormuz-targets-us-bases/",
+        "published": "2026-07-13T08:17:32Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "European Stocks Drop After US-Iran Strikes, Oil Lifts Energy",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/european-stocks-drop-after-us-iran-strikes-oil-lifts-energy",
+        "published": "2026-07-13T08:14:54Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
