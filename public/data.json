@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T04:08:37.776Z",
+    "generated_at": "2026-07-14T06:26:48.295Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "US launches new attacks on Iran, killing one person, state media reports",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo",
-        "published": "2026-07-13T04:06:57Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Why is market falling today? Sensex plunges 700 points, Nifty tests 24,000. 6 key factors behind the selloff",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-plunges-700-points-nifty-tests-24000-key-factors-behind-the-selloff/articleshow/132355904.cms",
-        "published": "2026-07-13T03:56:46Z",
+        "title": "US hits Iran as Gulf states targeted in flare up over Hormuz",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/us-hits-iran-as-gulf-states-targeted-in-flareup-over-hormuz-7099796-Jul2026/",
+        "published": "2026-07-13T06:23:52Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Jumps As Conflict Over Hormuz Escalates With Fresh Strikes",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/oil-jumps-as-conflict-over-hormuz-escalates-with-fresh-strikes/",
-        "published": "2026-07-13T03:51:02Z",
-        "sentiment": "danger"
+        "title": "DAX set to open lower amid Iran conflict and aviation sector impact",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/dax-set-to-open-lower-amid-iran-conflict-and-aviation-sector-impact/",
+        "published": "2026-07-13T06:18:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "KOSPI Plunges Nearly 7% Below 7,000 as US-Iran Conflict Escalates, SK Hynix Stock Slides Sharply",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/kospi-index-plummets-us-iran-tensions-chip-stock-decline-1872174",
-        "published": "2026-07-13T03:49:51Z",
-        "sentiment": "danger"
+        "title": "NZ sharemarket falls nearly 0.5% amid Middle East tensions – Market close",
+        "source": "New Zealand Herald",
+        "url": "https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-falls-nearly-05-amid-middle-east-tensions-market-close/premium/K5RPQDGZL5BHHOWCSET7MR7STE/",
+        "published": "2026-07-13T06:14:12Z",
+        "sentiment": "watch"
       },
       {
-        "title": "US and Iran vie for Strait of Hormuz, waterway key to global energy supplies, in latest attacks",
+        "title": "Ships pass through Strait of Hormuz in secret as US and Iran trade strikes",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-and-iran-vie-for-strait-of-hormuz-waterway-key-to-global-energy-supplies-in-latest-attacks/articleshow/132355809.cms",
-        "published": "2026-07-13T03:47:07Z",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/ships-pass-through-strait-of-hormuz-in-secret-as-us-and-iran-trade-strikes/articleshow/132357738.cms",
+        "published": "2026-07-13T06:11:45Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Tourism heads for a record, Tsipras… switches sides on Molotov cocktails, Samaras and the blessing of Nea Ionia, the Niarchos daughter’s gallery, and the Greeks’ deals at sea",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/07/13/tourism-heads-for-a-record-tsipras-switches-sides-on-molotov-cocktails-samaras-and-the-blessing-of-nea-ionia-the-niarchos-daughters-gallery-and-the-greeks-deals-at-sea/",
+        "published": "2026-07-13T06:03:11Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
