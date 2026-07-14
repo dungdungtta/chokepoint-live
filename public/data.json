@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T15:48:21.508Z",
+    "generated_at": "2026-07-14T17:22:17.738Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "2-in-1 Oil Sprayer for $3 + free shipping w/ $25",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/2-in-1-Oil-Sprayer-for-3-free-shipping-w-25/21900314.html",
-        "published": "2026-07-13T15:39:28Z",
+        "title": "Trump’s Temporary Jones Act Waiver Sparks Long-Term Policy Fight",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/trumps-temporary-jones-act-waiver-sparks-long-term-policy-fight",
+        "published": "2026-07-13T17:22:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "CENTCOM uses sea drones to strike Iranian ship facility in Hormuz Strait",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/centcom-uses-sea-drones-to-strike-iranian-ship-facility-in-hormuz-strait/",
-        "published": "2026-07-13T15:34:11Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Dubai plans new port to bypass Strait of Hormuz, reshaping global energy chokepoint dynamics",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/dubai-port-bypass-strait-hormuz/",
-        "published": "2026-07-13T15:31:32Z",
+        "title": "128-Ounce Amazon Grocery Vegetable Oil $7.34 w/ S&S + Free Shipping w/ Prime or on $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19755957-128-ounce-amazon-grocery-vegetable-oil-7-34-w-s-s-free-shipping-w-prime-or-on-35",
+        "published": "2026-07-13T17:01:25Z",
         "sentiment": "watch"
       },
       {
-        "title": "Dollar mostly flat amid escalating US-Iran tension, yen slides on pension doubts",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/dollar-mostly-flat-amid-escalating-us-iran-tension-yen-slides-pension-doubts-6249851",
-        "published": "2026-07-13T15:27:39Z",
+        "title": "Trump says US will reinstate Iran blockade and charge for Strait of Hormuz shipping",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/strait-of-hormuz-latest-2-7100525-Jul2026/",
+        "published": "2026-07-13T16:44:52Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump Says US Reinstates Blockade of Strait of Hormuz After New Clashes With Iran",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/07/13/877324.htm",
-        "published": "2026-07-13T15:27:34Z",
+        "title": "Iran exports 57M barrels of oil amid temporary US blockade suspension",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-exports-57m-barrels-of-oil-amid-temporary-us-blockade-suspension/",
+        "published": "2026-07-13T16:43:21Z",
         "sentiment": "danger"
       }
     ],
