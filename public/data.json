@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T18:41:51.583Z",
+    "generated_at": "2026-07-14T19:58:52.184Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump Says US Will Blockade Iranian Ports Again, Charge 20% Strait of Hormuz Cargo Fee",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/trump-us-blockade-iran-ports-charge-20-percent-strait-of-hormuz-cargo-fee-1239064518/",
-        "published": "2026-07-13T18:37:36Z",
+        "title": "Trump reinstating naval blockade of Iranian ports",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/32dd0d5ba1d30416",
+        "published": "2026-07-13T19:57:25Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil Prices Surge 8% After Trump Reimposes Iran Blockade",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-8-After-Trump-Reimposes-Iran-Blockade.html",
-        "published": "2026-07-13T18:30:00Z",
-        "sentiment": "danger"
+        "title": "Waiting For Discounts To Buy Electronics Is A Risky Choice - Here's Why",
+        "source": "BGR",
+        "url": "https://www.bgr.com/2211368/why-waiting-electronics-discounts-risky/",
+        "published": "2026-07-13T19:47:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "US to enforce maritime blockade on Iran starting Tuesday",
+        "title": "Iran's Bridges Are Down, Its Power Grid Is Next — Here's What the U.S. Just Hit",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4387821/posts",
+        "published": "2026-07-13T19:38:32Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Explosions reported on Iran’s Larak Island in Strait of Hormuz: Tasnim",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-to-enforce-maritime-blockade-on-iran-starting-tuesday/",
-        "published": "2026-07-13T18:29:30Z",
-        "sentiment": "danger"
+        "url": "https://cryptobriefing.com/explosions-reported-on-irans-larak-island-in-strait-of-hormuz-tasnim/",
+        "published": "2026-07-13T19:29:16Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Oil jumps 4% to $79 per barrel as US-Iran tensions escalate",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/07/oil-jumps-4-to-79-per-barrel-as-us-iran-tensions-escalate/",
-        "published": "2026-07-13T18:22:37Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "WTI crude jumps to $77.77 amid US-Iran tensions in Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/wti-crude-jumps-to-7777-amid-us-iran-tensions-in-strait-of-hormuz/",
-        "published": "2026-07-13T18:21:53Z",
+        "title": "Why Lower Gas Costs Take Time to Reach the Pump",
+        "source": "Daily Signal",
+        "url": "https://www.dailysignal.com/2026/07/13/gas-costs/",
+        "published": "2026-07-13T19:25:00Z",
         "sentiment": "watch"
       }
     ],
