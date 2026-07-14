@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T19:58:52.184Z",
+    "generated_at": "2026-07-14T21:09:49.318Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump reinstating naval blockade of Iranian ports",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/32dd0d5ba1d30416",
-        "published": "2026-07-13T19:57:25Z",
+        "title": "President Trump Reinstates Blockade of Iranian Ports",
+        "source": "Legalinsurrection.com",
+        "url": "https://legalinsurrection.com/2026/07/president-trump-reinstates-blockade-of-iranian-ports/",
+        "published": "2026-07-13T21:02:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Waiting For Discounts To Buy Electronics Is A Risky Choice - Here's Why",
-        "source": "BGR",
-        "url": "https://www.bgr.com/2211368/why-waiting-electronics-discounts-risky/",
-        "published": "2026-07-13T19:47:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran's Bridges Are Down, Its Power Grid Is Next — Here's What the U.S. Just Hit",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4387821/posts",
-        "published": "2026-07-13T19:38:32Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Explosions reported on Iran’s Larak Island in Strait of Hormuz: Tasnim",
+        "title": "Iran targets US military in Kuwait with drones, cruise missiles in 2026 war escalation",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/explosions-reported-on-irans-larak-island-in-strait-of-hormuz-tasnim/",
-        "published": "2026-07-13T19:29:16Z",
+        "url": "https://cryptobriefing.com/iran-targets-us-military-in-kuwait-with-drones-cruise-missiles-in-2026-war/",
+        "published": "2026-07-13T20:59:43Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran targets US vessel with cruise missiles amid Gulf tensions: Iran state TV",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-targets-us-vessel-with-cruise-missiles-amid-gulf-tensions-iran-state-tv/",
+        "published": "2026-07-13T20:58:53Z",
         "sentiment": "watch"
       },
       {
-        "title": "Why Lower Gas Costs Take Time to Reach the Pump",
-        "source": "Daily Signal",
-        "url": "https://www.dailysignal.com/2026/07/13/gas-costs/",
-        "published": "2026-07-13T19:25:00Z",
+        "title": "US and Iran exchange air strikes as Trump declares ceasefire over, rattling crypto markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-air-strikes-crypto-market-impact/",
+        "published": "2026-07-13T20:58:13Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The 1980s cars that you've (probably) forgotten about",
+        "source": "Autocar",
+        "url": "https://www.autocar.co.uk/car-news/slideshow/1980s-cars-youve-probably-forgotten-about-1",
+        "published": "2026-07-13T20:36:19Z",
         "sentiment": "watch"
       }
     ],
