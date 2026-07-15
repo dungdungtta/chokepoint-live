@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-15T18:46:21.939Z",
+    "generated_at": "2026-07-15T20:15:21.103Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "US and Iran launch strikes as Trump reverses threat to tax ships passing through Strait of Hormuz",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/us-and-iran-launch-strikes-trump-reverses-threat-tax-ships-passing-strait-of-hormuz-7101901-Jul2026/",
-        "published": "2026-07-14T18:44:26Z",
+        "title": "Iran declares withdrawal from MoU with US, cites naval blockade as justification",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-withdraws-mou-us-naval-blockade-crypto/",
+        "published": "2026-07-14T20:12:02Z",
         "sentiment": "danger"
       },
       {
-        "title": "India can find alternative sources for crude, but LPG at risk: Executives",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-can-find-alternative-sources-for-crude-but-lpg-at-risk-executives/articleshow/132399902.cms",
-        "published": "2026-07-14T18:39:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Drops Shipping Transit Fee, Says Hormuz Strait ‘Open to All Except Iran’",
-        "source": "Legalinsurrection.com",
-        "url": "https://legalinsurrection.com/2026/07/trump-drops-shipping-transit-fee-says-hormuz-strait-open-to-all-except-iran/",
-        "published": "2026-07-14T18:32:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US-Iran War Live Updates: Indian seafarer missing after attack off Oman coast confirmed dead",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-updates-west-asia-conflict-strait-of-hormuz-trump-tehran-talks-ceasefire-gulf-states/liveblog/132399535.cms",
-        "published": "2026-07-14T18:32:00Z",
+        "title": "US launches new wave of strikes on Iran as naval blockade begins",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/430171",
+        "published": "2026-07-14T20:09:00Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "US naval blockade on Iranian ports sends ripple effects through crypto and energy markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-naval-blockade-iran-crypto-markets/",
+        "published": "2026-07-14T20:08:33Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US reinstates naval blockade on Iranian ports, escalating tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-reinstates-naval-blockade-on-iranian-ports-escalating-tensions/",
+        "published": "2026-07-14T20:08:10Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump proposes 20% charge on cargo passing through Strait of Hormuz, risking global energy price shock",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-strait-of-hormuz-cargo-charge/",
+        "published": "2026-07-14T20:07:26Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
