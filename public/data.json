@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-15T20:15:21.103Z",
+    "generated_at": "2026-07-15T21:30:57.427Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran declares withdrawal from MoU with US, cites naval blockade as justification",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-withdraws-mou-us-naval-blockade-crypto/",
-        "published": "2026-07-14T20:12:02Z",
+        "title": "Southeast Asia Has Weathered the Hormuz Crisis",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/07/southeast-asia-has-weathered-the-hormuz-crisis/",
+        "published": "2026-07-14T21:17:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump unleashes more strikes on Iran amid their UNHOLY missile taunt",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15977751/Trump-unleashes-strikes-Iran-amid-UNHOLY-missile-taunt.html",
+        "published": "2026-07-14T21:07:12Z",
         "sentiment": "danger"
       },
       {
-        "title": "US launches new wave of strikes on Iran as naval blockade begins",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/430171",
-        "published": "2026-07-14T20:09:00Z",
+        "title": "U.S. Intensifies Sanctions on Iranian Shipping Network as Naval Blockade Resumes",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/u-s-intensifies-sanctions-on-iranian-shipping-network-as-naval-blockade-resumes/",
+        "published": "2026-07-14T21:06:25Z",
         "sentiment": "danger"
       },
       {
-        "title": "US naval blockade on Iranian ports sends ripple effects through crypto and energy markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-naval-blockade-iran-crypto-markets/",
-        "published": "2026-07-14T20:08:33Z",
-        "sentiment": "danger"
+        "title": "Trump Drops 20% Strait of Hormuz Reimbursement Fee, Says Gulf States Will Make ‘Massive’ U.S. Investments",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/07/14/trump-drops-20-strait-of-hormuz-reimbursement-fee-says-gulf-states-will-make-massive-u-s-investments/",
+        "published": "2026-07-14T21:03:15Z",
+        "sentiment": "watch"
       },
       {
-        "title": "US reinstates naval blockade on Iranian ports, escalating tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-reinstates-naval-blockade-on-iranian-ports-escalating-tensions/",
-        "published": "2026-07-14T20:08:10Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump proposes 20% charge on cargo passing through Strait of Hormuz, risking global energy price shock",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-strait-of-hormuz-cargo-charge/",
-        "published": "2026-07-14T20:07:26Z",
+        "title": "Mike Huckabee rejects Ro Khanna's Israel visit claims: 'Not held at gunpoint'",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/mike-huckabee-rejects-ro-khannas-israel-visit-claims-not-held-gunpoint",
+        "published": "2026-07-14T20:45:34Z",
         "sentiment": "watch"
       }
     ],
