@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-15T10:58:28.125Z",
+    "generated_at": "2026-07-15T12:21:43.090Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran War: Trump Lashes Himself to Strait of Hormuz Mast With Renewed Blockade, Intensified Attacks on Iran; Oil Crunch Worsens as Iran Halt Fujairah Shipments, Houthis Threaten to Close Bab el-Mandeb",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/07/iran-war-trump-lashes-himself-to-strait-of-hormuz-mast-with-renewed-blockade-intensified-attacks-on-iran-oil-crunch-worsens-as-iran-halt-fujairah-shipments-houthis-threaten-to-close-bab-el-mandeb.html",
-        "published": "2026-07-14T10:57:25Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Tankers Attacked Carrying UAE Oil in Strait of Hormuz",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-tankers-attacked-carrying-uae-oil-in-strait-of-hormuz",
-        "published": "2026-07-14T10:45:02Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran And U.S. Stage New Attacks, Battle Over Control Of Strait Of Hormuz",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/iran-us-new-attacks-strait-of-hormuz_n_6a561167e4b0ac1765ef842c",
-        "published": "2026-07-14T10:43:34Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran strikes Gulf supertankers and US bases as Hormuz conflict reshapes oil and crypto markets",
+        "title": "US-Iran conflict escalates after deadly tanker attack in Strait of Hormuz",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-strikes-gulf-tankers-hormuz-crypto-markets/",
-        "published": "2026-07-14T10:38:34Z",
+        "url": "https://cryptobriefing.com/us-iran-conflict-escalates-after-deadly-tanker-attack-in-strait-of-hormuz/",
+        "published": "2026-07-14T12:21:04Z",
         "sentiment": "danger"
       },
       {
-        "title": "Tehran retaliates across Mideast after U.S. restarts blockade",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/us-attacks-iran-tehran-blockade-9.7269216",
-        "published": "2026-07-14T10:35:52Z",
+        "title": "U.S. to instate Strait blockade. And, states sue to stop Paramount-Warner Bros merger",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/07/14/g-s1-133443/up-first-newsletter-iran-strait-hormuz-maine-ice-shooting-paramount-warner-bros-merger",
+        "published": "2026-07-14T12:18:58Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Russia readies to reroute exports from Sea of Azov after Ukrainian attacks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/14/russia-readies-to-reroute-exports-from-sea-of-azov-after-ukrainian-attacks",
+        "published": "2026-07-14T12:14:10Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil soars 3.2% as Trump swears the US is 'taking over' the Strait of Hormuz. Protect your riches before the shock hits",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/oil-soars-3-2-trump-121000199.html",
+        "published": "2026-07-14T12:10:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
