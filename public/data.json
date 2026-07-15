@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-15T06:29:28.125Z",
+    "generated_at": "2026-07-15T08:56:50.709Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "UAE says Iran attacked two ships in Hormuz, one dead",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/07/uae-says-iran-attacked-two-ships-in-hormuz-one-dead/",
-        "published": "2026-07-14T06:26:14Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump's relentless series of punishing strikes on Iran compared to Civil War-era military strategy: 'We're going to grind them down'",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15975535/Trump-Iran-Civil-War-strategy.html",
-        "published": "2026-07-14T06:22:32Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump proposes 20% shipping fee for Hormuz cargo amid rising geopolitical tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-hormuz-shipping-fee-crypto-impact/",
-        "published": "2026-07-14T06:08:02Z",
+        "title": "Bitcoin price has less than 8 hours to outrun $60,000 before Hormuz conflict takes over again",
+        "source": "CryptoSlate",
+        "url": "https://cryptoslate.com/bitcoin-price-has-less-than-8-hours-to-outrun-60000-before-hormuz-conflict-takes-over-again/",
+        "published": "2026-07-14T08:53:26Z",
         "sentiment": "watch"
       },
       {
-        "title": "CNBC Daily Open: The Hormuz blockade is back and Trump is tolling",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/14/cnbc-daily-open-hormuz-blockade-iran-trump-oil-tolls.html",
-        "published": "2026-07-14T06:02:18Z",
+        "title": "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest",
+        "published": "2026-07-14T08:52:22Z",
         "sentiment": "danger"
       },
       {
-        "title": "Report: Trump Granted Saudi Crown Prince Approval for Strike on Yemen’s Sanaa Airport",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-14-trump-granted-saudi-prince-approval-strike-yemen.html",
-        "published": "2026-07-14T06:00:00Z",
+        "title": "Is Hormuz open? Trump's toll threat intensifies rush to bypass the Strait altogether",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/14/strait-hormuz-uae-saudi-gulf-trump-tolls.html",
+        "published": "2026-07-14T08:48:16Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Brent Surges Above $86 After Iran Strikes Two UAE Tankers in Hormuz",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Oil-Prices/Brent-Surges-Above-86-After-Iran-Strikes-Two-UAE-Tankers-in-Hormuz.html",
+        "published": "2026-07-14T08:45:53Z",
         "sentiment": "danger"
       }
     ],
