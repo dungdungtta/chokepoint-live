@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-15T21:30:57.427Z",
+    "generated_at": "2026-07-15T22:41:56.730Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Southeast Asia Has Weathered the Hormuz Crisis",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/07/southeast-asia-has-weathered-the-hormuz-crisis/",
-        "published": "2026-07-14T21:17:00Z",
+        "title": "Iran-US tensions rise as clashes erupt in Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-us-tensions-rise-as-clashes-erupt-in-strait-of-hormuz/",
+        "published": "2026-07-14T22:18:36Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump unleashes more strikes on Iran amid their UNHOLY missile taunt",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15977751/Trump-unleashes-strikes-Iran-amid-UNHOLY-missile-taunt.html",
-        "published": "2026-07-14T21:07:12Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S. Intensifies Sanctions on Iranian Shipping Network as Naval Blockade Resumes",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/u-s-intensifies-sanctions-on-iranian-shipping-network-as-naval-blockade-resumes/",
-        "published": "2026-07-14T21:06:25Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump Drops 20% Strait of Hormuz Reimbursement Fee, Says Gulf States Will Make ‘Massive’ U.S. Investments",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/07/14/trump-drops-20-strait-of-hormuz-reimbursement-fee-says-gulf-states-will-make-massive-u-s-investments/",
-        "published": "2026-07-14T21:03:15Z",
+        "title": "Trump reverses Hormuz toll plan in 26 hours as Iran conflict strategy unravels",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-reverses-hormuz-toll-iran-conflict/",
+        "published": "2026-07-14T22:15:26Z",
         "sentiment": "watch"
       },
       {
-        "title": "Mike Huckabee rejects Ro Khanna's Israel visit claims: 'Not held at gunpoint'",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/mike-huckabee-rejects-ro-khannas-israel-visit-claims-not-held-gunpoint",
-        "published": "2026-07-14T20:45:34Z",
+        "title": "US launches new Iran strikes, reimposes naval blockade",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/us-iran-war-new-strikes-naval-blockade-strait-hormuz-6254611",
+        "published": "2026-07-14T22:13:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US strikes Iranian Coast Guard station, escalating Strait of Hormuz tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-strikes-iranian-coast-guard-station-escalating-strait-of-hormuz-tensions/",
+        "published": "2026-07-14T22:04:26Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Has Anyone Tried Gundry MD Phyto Collagen Complex? Read Real Reviews, Ingredients, and Benefits",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/has-anyone-tried-gundry-md-phyto-collagen-complex-read-real-reviews-ingredients-and-benefits-302825675.html",
+        "published": "2026-07-14T22:04:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Victor Davis Hanson: The World Is Becoming More Pro-American Than It Has Been in Years",
+        "source": "Daily Signal",
+        "url": "https://www.dailysignal.com/2026/07/14/world-trump-pro-american/",
+        "published": "2026-07-14T21:45:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The World Made Anew",
         "source": "Victorhanson.com",
@@ -83,13 +90,6 @@
         "url": "https://fortune.com/2026/07/13/ships-go-dark-clock-runs-out-trump-undeclared-naval-war-strait-of-hormuz/",
         "published": "2026-07-13T10:16:28Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Chinese Type 076 vessel Sichuan enhances combat capabilities in South China Sea",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/chinese-type-076-vessel-sichuan-enhances-combat-capabilities-in-south-china-sea/",
-        "published": "2026-07-12T14:06:49Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
