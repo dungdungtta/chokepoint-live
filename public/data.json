@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-15T22:41:56.730Z",
+    "generated_at": "2026-07-15T23:43:12.562Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran-US tensions rise as clashes erupt in Strait of Hormuz",
+        "title": "US Central Command accuses Iran of targeting seven commercial ships as crypto enters the Strait of Hormuz",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-us-tensions-rise-as-clashes-erupt-in-strait-of-hormuz/",
-        "published": "2026-07-14T22:18:36Z",
+        "url": "https://cryptobriefing.com/iran-targets-ships-bitcoin-strait-hormuz/",
+        "published": "2026-07-14T23:29:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump reverses Hormuz toll plan in 26 hours as Iran conflict strategy unravels",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-reverses-hormuz-toll-iran-conflict/",
-        "published": "2026-07-14T22:15:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US launches new Iran strikes, reimposes naval blockade",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/us-iran-war-new-strikes-naval-blockade-strait-hormuz-6254611",
-        "published": "2026-07-14T22:13:00Z",
+        "title": "Iran war: US launches fresh wave of strikes",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/iran-war-us-launches-fresh-wave-of-strikes/live-77960667",
+        "published": "2026-07-14T23:24:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "US strikes Iranian Coast Guard station, escalating Strait of Hormuz tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-strikes-iranian-coast-guard-station-escalating-strait-of-hormuz-tensions/",
-        "published": "2026-07-14T22:04:26Z",
+        "title": "Iran war: Tehran says it 'never welcomed war'",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/iran-war-tehran-says-it-never-welcomed-war/live-77960667",
+        "published": "2026-07-14T23:24:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Has Anyone Tried Gundry MD Phyto Collagen Complex? Read Real Reviews, Ingredients, and Benefits",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/has-anyone-tried-gundry-md-phyto-collagen-complex-read-real-reviews-ingredients-and-benefits-302825675.html",
-        "published": "2026-07-14T22:04:00Z",
+        "title": "Trumps Says Strikes On Iran To Continue As Battle Over Strait Of Hormuz Escalates",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/trumps-strikes-iran-battle-strait-of-hormuz-escalates/33803719.html",
+        "published": "2026-07-14T23:11:10Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran launches ballistic missiles from Tabriz and Urmia as Middle East conflict intensifies",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-ballistic-missiles-tabriz-urmia-crypto-impact/",
+        "published": "2026-07-14T23:10:03Z",
         "sentiment": "watch"
       }
     ],
