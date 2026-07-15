@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-07-15T17:40:07.260Z",
+    "generated_at": "2026-07-15T18:46:21.939Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 69.56,
-      "change_pct": 1.3,
-      "date": "2026-07-06",
+      "price": 81.62,
+      "change_pct": 9.8,
+      "date": "2026-07-13",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Korea’s Thirst for Canadian Crude Is Poised to Outlast Iran War",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/koreas-thirst-for-canadian-crude-is-poised-to-outlast-iran-war",
-        "published": "2026-07-14T17:39:33Z",
+        "title": "US and Iran launch strikes as Trump reverses threat to tax ships passing through Strait of Hormuz",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/us-and-iran-launch-strikes-trump-reverses-threat-tax-ships-passing-strait-of-hormuz-7101901-Jul2026/",
+        "published": "2026-07-14T18:44:26Z",
         "sentiment": "danger"
       },
       {
-        "title": "After Hormuz, Iran turns to Red Sea gateway as new pressure point",
+        "title": "India can find alternative sources for crude, but LPG at risk: Executives",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/after-hormuz-iran-turns-to-red-sea-gateway-as-new-pressure-point/articleshow/132397784.cms",
-        "published": "2026-07-14T17:37:47Z",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-can-find-alternative-sources-for-crude-but-lpg-at-risk-executives/articleshow/132399902.cms",
+        "published": "2026-07-14T18:39:29Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump Shelves 20% Fee for Hormuz Cargo After Gulf Pressure",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/trump-shelves-20-fee-for-hormuz-cargo-after-gulf-pressure",
-        "published": "2026-07-14T17:34:23Z",
+        "title": "Trump Drops Shipping Transit Fee, Says Hormuz Strait ‘Open to All Except Iran’",
+        "source": "Legalinsurrection.com",
+        "url": "https://legalinsurrection.com/2026/07/trump-drops-shipping-transit-fee-says-hormuz-strait-open-to-all-except-iran/",
+        "published": "2026-07-14T18:32:20Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump ditches plan to charge shipping fees in Strait of Hormuz",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-07-15/trump-backs-down-on-strait-of-hormuz-fees/106916144",
-        "published": "2026-07-14T17:32:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran says the Strait of Hormuz reopens on its terms, and global oil markets are feeling every bit of it",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-strait-of-hormuz-reopening-terms/",
-        "published": "2026-07-14T17:30:40Z",
-        "sentiment": "neutral"
+        "title": "US-Iran War Live Updates: Indian seafarer missing after attack off Oman coast confirmed dead",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-updates-west-asia-conflict-strait-of-hormuz-trump-tehran-talks-ceasefire-gulf-states/liveblog/132399535.cms",
+        "published": "2026-07-14T18:32:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -89,13 +82,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/chinese-type-076-vessel-sichuan-enhances-combat-capabilities-in-south-china-sea/",
         "published": "2026-07-12T14:06:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The battle for Taiwan: Long? Short? Bomb? Seize? Or what?",
-        "source": "Wnd.com",
-        "url": "https://www.wnd.com/2026/07/battle-taiwan-long-short-bomb-seize-what/",
-        "published": "2026-07-11T19:41:07Z",
         "sentiment": "watch"
       }
     ],
