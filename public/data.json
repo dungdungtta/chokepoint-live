@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-15T04:10:24.640Z",
+    "generated_at": "2026-07-15T06:29:28.125Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Gold prices snap 2-day fall, silver at Rs 2.18 lakh/kg despite rising oil prices, rate hike fears. Key levels to watch today",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-snap-2-day-fall-silver-at-rs-2-18-lakh/kg-despite-rising-oil-prices-rate-hike-fears-key-levels-to-watch-today/articleshow/132380620.cms",
-        "published": "2026-07-14T04:07:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran conflict, crude surge drag Sensex, Nifty lower at open; IT, NBFC stocks lead losses",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/stock-markets/iran-conflict-crude-surge-drag-sensex-nifty-lower-at-open-it-nbfc-stocks-lead-losses/article71219806.ece",
-        "published": "2026-07-14T04:06:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Gold, silver prices today, 14 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-        "source": "Livemint",
-        "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-14-july-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11783907196416.html",
-        "published": "2026-07-14T04:06:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why reopening the Strait of Hormuz may demand more than US airstrikes",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/why-reopening-the-strait-of-hormuz-may-demand-more-than-us-airstrikes/articleshow/132380563.cms",
-        "published": "2026-07-14T04:06:08Z",
+        "title": "UAE says Iran attacked two ships in Hormuz, one dead",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/07/uae-says-iran-attacked-two-ships-in-hormuz-one-dead/",
+        "published": "2026-07-14T06:26:14Z",
         "sentiment": "danger"
       },
       {
-        "title": "Brent oil prices hit one-month high after Trump announces Iran blockade",
+        "title": "Trump's relentless series of punishing strikes on Iran compared to Civil War-era military strategy: 'We're going to grind them down'",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15975535/Trump-Iran-Civil-War-strategy.html",
+        "published": "2026-07-14T06:22:32Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump proposes 20% shipping fee for Hormuz cargo amid rising geopolitical tensions",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/brent-oil-one-month-high-trump-iran-blockade/",
-        "published": "2026-07-14T04:05:15Z",
+        "url": "https://cryptobriefing.com/trump-hormuz-shipping-fee-crypto-impact/",
+        "published": "2026-07-14T06:08:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "CNBC Daily Open: The Hormuz blockade is back and Trump is tolling",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/14/cnbc-daily-open-hormuz-blockade-iran-trump-oil-tolls.html",
+        "published": "2026-07-14T06:02:18Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Report: Trump Granted Saudi Crown Prince Approval for Strike on Yemen’s Sanaa Airport",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-14-trump-granted-saudi-prince-approval-strike-yemen.html",
+        "published": "2026-07-14T06:00:00Z",
         "sentiment": "danger"
       }
     ],
