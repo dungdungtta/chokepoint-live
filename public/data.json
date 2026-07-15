@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-15T00:53:16.321Z",
+    "generated_at": "2026-07-15T04:10:24.640Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Dollar steady before US inflation data, yen under pressure",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/dollar-steady-us-inflation-data-yen-under-pressure-6252256",
-        "published": "2026-07-14T00:50:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Dollar steady before US inflation data, yen under pressure",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-steady-us-inflation-data-005030793.html",
-        "published": "2026-07-14T00:50:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran's military 'demolished', being hit 'very hard': Trump",
+        "title": "Gold prices snap 2-day fall, silver at Rs 2.18 lakh/kg despite rising oil prices, rate hike fears. Key levels to watch today",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/irans-military-demolished-being-hit-very-hard-trump/articleshow/132378627.cms",
-        "published": "2026-07-14T00:46:17Z",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-snap-2-day-fall-silver-at-rs-2-18-lakh/kg-despite-rising-oil-prices-rate-hike-fears-key-levels-to-watch-today/articleshow/132380620.cms",
+        "published": "2026-07-14T04:07:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil gains over 2% as Mideast tensions and Hormuz toll prospects raise supply worries",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/8d6b8cc6a5cc20f4",
-        "published": "2026-07-14T00:45:07Z",
+        "title": "Iran conflict, crude surge drag Sensex, Nifty lower at open; IT, NBFC stocks lead losses",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/stock-markets/iran-conflict-crude-surge-drag-sensex-nifty-lower-at-open-it-nbfc-stocks-lead-losses/article71219806.ece",
+        "published": "2026-07-14T04:06:57Z",
         "sentiment": "watch"
       },
       {
-        "title": "U.S. military renews strikes on Iran while tankers come under attack in Strait of Hormuz",
+        "title": "Gold, silver prices today, 14 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-14-july-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11783907196416.html",
+        "published": "2026-07-14T04:06:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Why reopening the Strait of Hormuz may demand more than US airstrikes",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/u-s-military-renews-strikes-on-iran-while-tankers-come-under-attack-in-strait-of-hormuz/articleshow/132378602.cms",
-        "published": "2026-07-14T00:39:51Z",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/why-reopening-the-strait-of-hormuz-may-demand-more-than-us-airstrikes/articleshow/132380563.cms",
+        "published": "2026-07-14T04:06:08Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Brent oil prices hit one-month high after Trump announces Iran blockade",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/brent-oil-one-month-high-trump-iran-blockade/",
+        "published": "2026-07-14T04:05:15Z",
         "sentiment": "danger"
       }
     ],
