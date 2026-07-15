@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-15T08:56:50.709Z",
+    "generated_at": "2026-07-15T10:58:28.125Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Bitcoin price has less than 8 hours to outrun $60,000 before Hormuz conflict takes over again",
-        "source": "CryptoSlate",
-        "url": "https://cryptoslate.com/bitcoin-price-has-less-than-8-hours-to-outrun-60000-before-hormuz-conflict-takes-over-again/",
-        "published": "2026-07-14T08:53:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest",
-        "published": "2026-07-14T08:52:22Z",
+        "title": "Iran War: Trump Lashes Himself to Strait of Hormuz Mast With Renewed Blockade, Intensified Attacks on Iran; Oil Crunch Worsens as Iran Halt Fujairah Shipments, Houthis Threaten to Close Bab el-Mandeb",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/07/iran-war-trump-lashes-himself-to-strait-of-hormuz-mast-with-renewed-blockade-intensified-attacks-on-iran-oil-crunch-worsens-as-iran-halt-fujairah-shipments-houthis-threaten-to-close-bab-el-mandeb.html",
+        "published": "2026-07-14T10:57:25Z",
         "sentiment": "danger"
       },
       {
-        "title": "Is Hormuz open? Trump's toll threat intensifies rush to bypass the Strait altogether",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/14/strait-hormuz-uae-saudi-gulf-trump-tolls.html",
-        "published": "2026-07-14T08:48:16Z",
+        "title": "Oil Tankers Attacked Carrying UAE Oil in Strait of Hormuz",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/oil-tankers-attacked-carrying-uae-oil-in-strait-of-hormuz",
+        "published": "2026-07-14T10:45:02Z",
         "sentiment": "danger"
       },
       {
-        "title": "Brent Surges Above $86 After Iran Strikes Two UAE Tankers in Hormuz",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Oil-Prices/Brent-Surges-Above-86-After-Iran-Strikes-Two-UAE-Tankers-in-Hormuz.html",
-        "published": "2026-07-14T08:45:53Z",
+        "title": "Iran And U.S. Stage New Attacks, Battle Over Control Of Strait Of Hormuz",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/iran-us-new-attacks-strait-of-hormuz_n_6a561167e4b0ac1765ef842c",
+        "published": "2026-07-14T10:43:34Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran strikes Gulf supertankers and US bases as Hormuz conflict reshapes oil and crypto markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-strikes-gulf-tankers-hormuz-crypto-markets/",
+        "published": "2026-07-14T10:38:34Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Tehran retaliates across Mideast after U.S. restarts blockade",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/us-attacks-iran-tehran-blockade-9.7269216",
+        "published": "2026-07-14T10:35:52Z",
         "sentiment": "danger"
       }
     ],
