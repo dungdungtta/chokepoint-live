@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T23:15:14.944Z",
+    "generated_at": "2026-07-15T00:53:16.321Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Strait talk: Iran’s Hormuz attacks must end the ‘phony peace’",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/07/13/opinion/strait-talk-irans-hormuz-attacks-must-end-the-phony-peace/",
-        "published": "2026-07-13T23:14:52Z",
-        "sentiment": "danger"
+        "title": "Dollar steady before US inflation data, yen under pressure",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/dollar-steady-us-inflation-data-yen-under-pressure-6252256",
+        "published": "2026-07-14T00:50:30Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Oil surges as Trump says U.S. wants 20% charge for Hormuz flows",
+        "title": "Dollar steady before US inflation data, yen under pressure",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-steady-us-inflation-data-005030793.html",
+        "published": "2026-07-14T00:50:30Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran's military 'demolished', being hit 'very hard': Trump",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/irans-military-demolished-being-hit-very-hard-trump/articleshow/132378627.cms",
+        "published": "2026-07-14T00:46:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil gains over 2% as Mideast tensions and Hormuz toll prospects raise supply worries",
         "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/344cc27e93c40ff1",
-        "published": "2026-07-13T23:14:14Z",
+        "url": "https://biztoc.com/x/8d6b8cc6a5cc20f4",
+        "published": "2026-07-14T00:45:07Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil prices surge nearly 10% amid US-Iran tensions, biggest rise since 2020",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-prices-surge-nearly-10-amid-us-iran-tensions-biggest-rise-since-2020/",
-        "published": "2026-07-13T23:12:18Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. launches new strikes on Iran while Tehran mocks Trump’s reversal on charging for Hormuz transits — ‘20% is of course too much. We will be fair’",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/13/us-strikes-iran-naval-blockade-trump-reversal-hormuz-fees/",
-        "published": "2026-07-13T23:07:05Z",
+        "title": "U.S. military renews strikes on Iran while tankers come under attack in Strait of Hormuz",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/u-s-military-renews-strikes-on-iran-while-tankers-come-under-attack-in-strait-of-hormuz/articleshow/132378602.cms",
+        "published": "2026-07-14T00:39:51Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Inflation slows house building, figures from AIB show",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/2026/07/14/inflation-slows-house-building-new-figures-say/",
-        "published": "2026-07-13T23:01:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The World Made Anew",
+        "source": "Victorhanson.com",
+        "url": "https://victorhanson.com/the-world-made-anew/",
+        "published": "2026-07-14T00:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China builds full-scale model of US destroyer in desert for missile targeting",
         "source": "Crypto Briefing",
@@ -89,13 +96,6 @@
         "source": "Wnd.com",
         "url": "https://www.wnd.com/2026/07/battle-taiwan-long-short-bomb-seize-what/",
         "published": "2026-07-11T19:41:07Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Links 7/11/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/07/links-7-11-2026.html",
-        "published": "2026-07-11T10:55:28Z",
         "sentiment": "watch"
       }
     ],
