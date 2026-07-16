@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T09:30:20.905Z",
+    "generated_at": "2026-07-16T11:21:44.638Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -12,9 +12,10 @@
       "unit": "USD/bbl"
     },
     "freight": {
-      "asia_europe": null,
-      "asia_us_wc": null,
-      "unit": "USD/FEU"
+      "freight_index": 185.1,
+      "change_pct": 0.4,
+      "date": "2026-06-01",
+      "unit": "index (WPU30 proxy)"
     },
     "helium": {
       "price_index": 15.09,
@@ -26,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Ukraine: Three dead as Russia intensifies attacks on Odesea",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/ukraine-three-dead-as-russia-intensifies-attacks-on-odesea/live-77962795",
-        "published": "2026-07-15T09:26:00Z",
+        "title": "US strikes Iran city hosting nuclear plant",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/us-strikes-iran-city-hosting-nuclear-plant-224411",
+        "published": "2026-07-15T11:17:10Z",
         "sentiment": "danger"
       },
       {
-        "title": "Ukraine: 3 dead as Russia intensifies attacks on Odesa",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/ukraine-3-dead-as-russia-intensifies-attacks-on-odesa/live-77962795",
-        "published": "2026-07-15T09:26:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump warns U.S. strikes on Iran could get ‘really bad’ next week with power plants targeted",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/15/trump-iran-hormuz-strikes-power-plants-targeted.html",
-        "published": "2026-07-15T09:24:29Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Victoria Cast Iron 12\" Pizza Pan for $24 + free shipping w/ Prime",
+        "title": "IAMS Wet Pouch Dog Food Sample: Free + free shipping",
         "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Victoria-Cast-Iron-12-Pizza-Pan-for-24-free-shipping-w-Prime/21903573.html",
-        "published": "2026-07-15T09:07:40Z",
+        "url": "https://www.dealnews.com/IAMS-Wet-Pouch-Dog-Food-Sample-Free-free-shipping/21903618.html",
+        "published": "2026-07-15T11:13:26Z",
         "sentiment": "watch"
       },
       {
-        "title": "Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/15/russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-black-sea",
-        "published": "2026-07-15T08:55:40Z",
+        "title": "Iran-US conflict in Hormuz prompts ECB to reconsider interest rates",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-us-conflict-in-hormuz-prompts-ecb-to-reconsider-interest-rates/",
+        "published": "2026-07-15T11:04:32Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Ukraine Intensifies Attacks on Russian Tankers in the Black Sea",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Intensifies-Attacks-on-Russian-Tankers-in-the-Black-Sea.html",
+        "published": "2026-07-15T11:00:00Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Sensex today | Stock Market Highlights: Sensex closed at 77,185.43; Nifty 50 was to 24,078.50",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-15-july-2026/article71220956.ece",
+        "published": "2026-07-15T10:58:29Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -84,10 +85,10 @@
         "sentiment": "watch"
       },
       {
-        "title": "The World Made Anew",
-        "source": "Victorhanson.com",
-        "url": "https://victorhanson.com/the-world-made-anew/",
-        "published": "2026-07-14T00:00:00Z",
+        "title": "China's sanctions on Philippine defense chief put Japan ties in spotlight",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260714-rfa01.htm",
+        "published": "2026-07-14T12:00:00Z",
         "sentiment": "watch"
       }
     ],
