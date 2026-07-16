@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T15:14:19.857Z",
+    "generated_at": "2026-07-16T16:45:18.167Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Bank of Canada holds key rate steady at 2.25 per cent, predicts economic rebound",
-        "source": "National Observer",
-        "url": "https://www.nationalobserver.com/2026/07/15/news/bank-canada-holds-key-rate-steady-225-cent-predicts-economic-rebound",
-        "published": "2026-07-15T14:51:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Greece joins nine countries to push for changes to the EU emissions trading system",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/07/15/greece-joins-nine-countries-to-push-for-changes-to-the-eu-emissions-trading-system/",
-        "published": "2026-07-15T14:51:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "WTI Dips As US Crude Production Hits Record High, SPR Draw Slows, Cushing Remains At 'Tank Bottoms'",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/83d225b79a656c2a",
-        "published": "2026-07-15T14:50:24Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Smoke rises over Iran’s Chabahar port amid US military strikes",
+        "title": "White House weighs extending Jones Act waivers amid Iran conflict, and crypto markets are paying attention",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-strikes-iran-chabahar-port-shipping-markets/",
-        "published": "2026-07-15T14:48:33Z",
+        "url": "https://cryptobriefing.com/jones-act-waiver-iran-conflict-crypto/",
+        "published": "2026-07-15T16:42:56Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Ships refuse US military guided transits in Hormuz as Iran demands crypto tolls",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/hormuz-iran-crypto-tolls-shipping-crisis/",
+        "published": "2026-07-15T16:41:03Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran’s southern coast resembles a war zone as US strikes escalate, and markets are watching",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-southern-coast-war-zone-market-impact/",
+        "published": "2026-07-15T16:37:59Z",
         "sentiment": "danger"
       },
       {
-        "title": "Gold Trades Flat At ₹1.46 Lakh Per 10 Grams; Silver Slips ₹100 For Third Straight Session",
-        "source": "Free Press Journal",
-        "url": "https://www.freepressjournal.in/business/gold-trades-flat-at-146-lakh-per-10-grams-silver-slips-100-for-third-straight-session",
-        "published": "2026-07-15T14:34:50Z",
-        "sentiment": "watch"
+        "title": "US strikes Iranian coastal defenses and missile sites at Chabahar port",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-strikes-iran-chabahar-port-crypto-markets/",
+        "published": "2026-07-15T16:32:56Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US eases UAE access to coveted AI chips after Gulf nation provided help in Iran war",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/07/15/business/us-eases-uae-access-to-ai-chips-after-providing-help-in-iran-war/",
+        "published": "2026-07-15T16:14:28Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
