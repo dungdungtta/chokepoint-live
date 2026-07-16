@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T16:45:18.167Z",
+    "generated_at": "2026-07-16T18:12:19.665Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "White House weighs extending Jones Act waivers amid Iran conflict, and crypto markets are paying attention",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/jones-act-waiver-iran-conflict-crypto/",
-        "published": "2026-07-15T16:42:56Z",
+        "title": "Shipping Choke Points Raise Business Costs Even After The Iran War",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/billconerly/2026/07/15/shipping-choke-points-raise-business-costs-even-after-the-iran-war/",
+        "published": "2026-07-15T18:01:50Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Senate Democrats Act Like An Opposition Party, Block $1 Trillion Defense Bill",
+        "source": "Wonkette.com",
+        "url": "https://www.wonkette.com/p/senate-democrats-act-like-an-opposition",
+        "published": "2026-07-15T17:55:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "Ships refuse US military guided transits in Hormuz as Iran demands crypto tolls",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/hormuz-iran-crypto-tolls-shipping-crisis/",
-        "published": "2026-07-15T16:41:03Z",
+        "title": "After Hormuz, Here’s Why the Red Sea Is Now the World’s Most Vulnerable Shipping Route",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/after-hormuz-heres-why-the-red-sea-is-now-the-worlds-most-vulnerable-shipping-route/",
+        "published": "2026-07-15T17:54:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran’s southern coast resembles a war zone as US strikes escalate, and markets are watching",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-southern-coast-war-zone-market-impact/",
-        "published": "2026-07-15T16:37:59Z",
+        "title": "Mapping the latest US strikes across Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/15/mapping-the-latest-us-strikes-across-iran",
+        "published": "2026-07-15T17:38:54Z",
         "sentiment": "danger"
       },
       {
-        "title": "US strikes Iranian coastal defenses and missile sites at Chabahar port",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-strikes-iran-chabahar-port-crypto-markets/",
-        "published": "2026-07-15T16:32:56Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US eases UAE access to coveted AI chips after Gulf nation provided help in Iran war",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/07/15/business/us-eases-uae-access-to-ai-chips-after-providing-help-in-iran-war/",
-        "published": "2026-07-15T16:14:28Z",
-        "sentiment": "danger"
+        "title": "Dangote Refinery shields Nigerians from global fuel price shock – S&P",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/07/dangote-refinery-shields-nigerians-from-global-fuel-price-shock-sp-2/",
+        "published": "2026-07-15T17:27:05Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -94,6 +94,13 @@
     ],
     "malacca": [
       {
+        "title": "Shipping Choke Points Raise Business Costs Even After The Iran War",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/billconerly/2026/07/15/shipping-choke-points-raise-business-costs-even-after-the-iran-war/",
+        "published": "2026-07-15T18:01:50Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Iran Stakes New Claim Over Strait of Hormuz as Fresh Attacks Hit Tankers",
         "source": "WWD",
         "url": "http://wwd.com/sourcing-journal/logistics/iran-strait-of-hormuz-un-imo-attacks-hit-tankers-malacca-indonesia-singapore-1239056685/",
@@ -119,13 +126,6 @@
         "source": "Antaranews.com",
         "url": "https://en.antaranews.com/news/421707/prabowo-wong-reaffirm-open-malacca-strait-under-unclos",
         "published": "2026-07-06T14:19:44Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Singapore and Indonesia 'strategically aligned' to keep Strait of Malacca and Singapore open to all: PM Wong",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/singapore/indonesia-strait-hormuz-singapore-prabowo-lawrence-wong-6235256",
-        "published": "2026-07-06T11:34:23Z",
         "sentiment": "watch"
       }
     ]
