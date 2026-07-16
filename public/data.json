@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-15T23:43:12.562Z",
+    "generated_at": "2026-07-16T01:10:45.356Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US Central Command accuses Iran of targeting seven commercial ships as crypto enters the Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-targets-ships-bitcoin-strait-hormuz/",
-        "published": "2026-07-14T23:29:14Z",
+        "title": "Global Market Today: Asian stocks rise after soft US CPI, Kospi rallies",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-after-soft-us-cpi-kospi-rallies/articleshow/132403636.cms",
+        "published": "2026-07-15T01:05:29Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran war: US launches fresh wave of strikes",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/iran-war-us-launches-fresh-wave-of-strikes/live-77960667",
-        "published": "2026-07-14T23:24:00Z",
+        "title": "Iran's IRGC attacks on US military assets in Bahrain, Kuwait in 'Operation Nasr 2'",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/irans-irgc-attacks-on-us-military-assets-in-bahrain-kuwait-in-operation-nasr-2/articleshow/132403619.cms",
+        "published": "2026-07-15T00:59:46Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran war: Tehran says it 'never welcomed war'",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/iran-war-tehran-says-it-never-welcomed-war/live-77960667",
-        "published": "2026-07-14T23:24:00Z",
+        "title": "Trump resumes Iran port blockade and threatens strikes on energy targets",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-resumes-iran-port-blockade-and-threatens-strikes-on-energy-targets/articleshow/132403575.cms",
+        "published": "2026-07-15T00:44:07Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trumps Says Strikes On Iran To Continue As Battle Over Strait Of Hormuz Escalates",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/trumps-strikes-iran-battle-strait-of-hormuz-escalates/33803719.html",
-        "published": "2026-07-14T23:11:10Z",
-        "sentiment": "danger"
+        "title": "As Labour FINALLY proscribes the IRGC... why we must sanction everyone who spreads Iran's malignant tentacles into the heart of Britain: DAVID PATRIKARAKOS",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/debate/article-15978133/Labour-proscribes-IRGC-sanction.html",
+        "published": "2026-07-15T00:43:51Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Iran launches ballistic missiles from Tabriz and Urmia as Middle East conflict intensifies",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-ballistic-missiles-tabriz-urmia-crypto-impact/",
-        "published": "2026-07-14T23:10:03Z",
+        "title": "US pump prices may climb back up to US$4 as resurgent oil prices rekindle inflation fears",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/economy/us-pump-prices-may-climb-back-up-to-us4-as-resurgent-oil-prices-rekindle-inflation-fears",
+        "published": "2026-07-15T00:36:34Z",
         "sentiment": "watch"
       }
     ],
