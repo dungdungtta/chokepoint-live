@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T04:27:15.050Z",
+    "generated_at": "2026-07-16T07:04:11.524Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,21 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "The Middle East at the Crossroads of Global Power, Energy and Nuclear Risk",
-        "source": "Lewrockwell.com",
-        "url": "https://www.lewrockwell.com/2026/07/no_author/the-middle-east-at-the-crossroads-of-global-power-energy-and-nuclear-risk/",
-        "published": "2026-07-15T04:01:00Z",
+        "title": "US expands sanctions targeting Iran oil, cryptocurrency sectors",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/07/us-expands-sanctions-targeting-iran-oil-cryptocurrency-sectors/",
+        "published": "2026-07-15T06:58:54Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran-linked vessels pass through Strait of Hormuz ahead of US blockade",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/logistics/iran-linked-vessels-pass-through-strait-of-hormuz-ahead-of-us-blockade/article71223949.ece",
-        "published": "2026-07-15T03:58:51Z",
+        "title": "US expands sanctions targeting Iran oil, cryptocurrency sectors",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/7e5e882d4bb3cca1",
+        "published": "2026-07-15T06:44:42Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China's economic growth hits slowest pace in over 3 years",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0715/1583415-china-second-quarter-gdp-figures/",
+        "published": "2026-07-15T06:43:53Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China's economic growth hits slowest pace in more than three years",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/chinas-economic-growth-hits-slowest-pace-in-more-than-three-years-224391",
+        "published": "2026-07-15T06:38:47Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US airstrikes wound over 260 in Iran as Bitcoin drops 2% and $350M in crypto positions get liquidated",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-airstrikes-bitcoin-crypto-liquidations/",
+        "published": "2026-07-15T06:36:46Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump’s illegal war against Iran RESUMES, burdening Americans and draining military resources",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-15-trumps-illegal-war-against-iran-resumes-burdening-americans-and-draining-military-resources.html",
+        "published": "2026-07-15T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump’s Iran gamble: A battlefield win Americans could pay for at home",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-15-trump-iran-gamble-battlefield-americans-home.html",
+        "published": "2026-07-15T06:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Victor Davis Hanson: The World Is Becoming More Pro-American Than It Has Been in Years",
         "source": "Daily Signal",
@@ -55,20 +90,6 @@
         "url": "https://victorhanson.com/the-world-made-anew/",
         "published": "2026-07-14T00:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "China builds full-scale model of US destroyer in desert for missile targeting",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/china-builds-full-scale-model-of-us-destroyer-in-desert-for-missile-targeting/",
-        "published": "2026-07-13T22:54:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ships go dark as the clock runs out on Trump’s ‘undeclared naval war’ in the Strait of Hormuz",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/13/ships-go-dark-clock-runs-out-trump-undeclared-naval-war-strait-of-hormuz/",
-        "published": "2026-07-13T10:16:28Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
