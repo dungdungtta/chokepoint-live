@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T19:35:39.239Z",
+    "generated_at": "2026-07-16T20:35:13.457Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "US Central Command launches second wave of strikes against Iran as crypto markets absorb the shock",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-strikes-iran-crypto-market-impact-9/",
-        "published": "2026-07-15T19:24:28Z",
+        "title": "U.S. Strikes Iran Again as Brent Slips Despite Escalating Conflict",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Strikes-Iran-Again-as-Brent-Slips-Despite-Escalating-Conflict.html",
+        "published": "2026-07-15T20:30:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Staring down the barrel: India Inc stockpiles ahead of festive season",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/india/staring-down-the-barrel-india-inc-stockpiles-ahead-of-festive-season/articleshow/132424081.cms",
-        "published": "2026-07-15T18:59:18Z",
+        "title": "Oil Settles Higher",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_settles_higher-15-jul-2026-184140-article/",
+        "published": "2026-07-15T20:12:44Z",
         "sentiment": "watch"
       },
       {
-        "title": "US strikes on Iran strengthen escalation options, reduce 2026 deal prospects",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-strikes-on-iran-strengthen-escalation-options-reduce-2026-deal-prospects/",
-        "published": "2026-07-15T18:51:54Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Domestic fuel price rises will be 'muted' compared to start of war, experts say",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-07-16/petrol-temperature-check-what-happens-with-prices/106917442",
-        "published": "2026-07-15T18:48:56Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "India raises windfall tax on diesel, ATF exports; cuts levy on petrol exports",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-raises-windfall-tax-on-diesel-atf-exports-cuts-levy-on-petrol-exports/articleshow/132423479.cms",
-        "published": "2026-07-15T18:39:04Z",
+        "title": "La Tourangelle 16.9-oz. Organic Extra Virgin Olive Oil for $11 via Sub & Save + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/La-Tourangelle-16-9-oz-Organic-Extra-Virgin-Olive-Oil-for-11-via-Sub-Save-free-shipping-w-Prime/21903739.html",
+        "published": "2026-07-15T19:51:20Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Attacks on seafarers hit hiring, raise costs for shipping companies",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/attacks-on-seafarers-hit-hiring-raise-costs-for-shipping-companies/articleshow/132424686.cms",
+        "published": "2026-07-15T19:49:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Attacks on seafarers hit hiring, raise costs for shipping companies",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/attacks-on-seafarers-hit-hiring-raise-costs-for-shipping-companies/articleshow/132424656.cms",
+        "published": "2026-07-15T19:49:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
