@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T11:21:44.638Z",
+    "generated_at": "2026-07-16T13:03:18.380Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "US strikes Iran city hosting nuclear plant",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/us-strikes-iran-city-hosting-nuclear-plant-224411",
-        "published": "2026-07-15T11:17:10Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "IAMS Wet Pouch Dog Food Sample: Free + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/IAMS-Wet-Pouch-Dog-Food-Sample-Free-free-shipping/21903618.html",
-        "published": "2026-07-15T11:13:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran-US conflict in Hormuz prompts ECB to reconsider interest rates",
+        "title": "UAE condemns Iranian missile and drone attacks on Bahrain, Kuwait, and Jordan amid Gulf escalation",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-us-conflict-in-hormuz-prompts-ecb-to-reconsider-interest-rates/",
-        "published": "2026-07-15T11:04:32Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ukraine Intensifies Attacks on Russian Tankers in the Black Sea",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Intensifies-Attacks-on-Russian-Tankers-in-the-Black-Sea.html",
-        "published": "2026-07-15T11:00:00Z",
+        "url": "https://cryptobriefing.com/uae-condemns-iran-missile-attacks-gulf-states/",
+        "published": "2026-07-15T13:02:01Z",
         "sentiment": "danger"
       },
       {
-        "title": "Sensex today | Stock Market Highlights: Sensex closed at 77,185.43; Nifty 50 was to 24,078.50",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-15-july-2026/article71220956.ece",
-        "published": "2026-07-15T10:58:29Z",
+        "title": "‘Either for everyone or for no one’: Iran turns oil into a weapon again",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/15/iran-blockade-oil-buffer-imf-warning/",
+        "published": "2026-07-15T12:58:29Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "US Launches Fourth Straight Night of Strikes on Iran as Hormuz Conflict Escalates Toward Wider War",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/us-iran-conflict-strait-hormuz-1872345",
+        "published": "2026-07-15T12:51:40Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Rubico Announces Acquisition of Additional Newbuilding MR Tanker and a 33% Increase of Potential Gross Revenue Backlog to About $305 Million",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/07/15/3327742/0/en/Rubico-Announces-Acquisition-of-Additional-Newbuilding-MR-Tanker-and-a-33-Increase-of-Potential-Gross-Revenue-Backlog-to-About-305-Million.html",
+        "published": "2026-07-15T12:50:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US reports ‘wave of strikes’ on Iran as war returns",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/07/us-reports-wave-of-strikes-on-iran-as-war-returns/",
+        "published": "2026-07-15T12:40:22Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
