@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T07:04:11.524Z",
+    "generated_at": "2026-07-16T09:30:20.905Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -12,10 +12,9 @@
       "unit": "USD/bbl"
     },
     "freight": {
-      "freight_index": 185.1,
-      "change_pct": 0.4,
-      "date": "2026-06-01",
-      "unit": "index (WPU30 proxy)"
+      "asia_europe": null,
+      "asia_us_wc": null,
+      "unit": "USD/FEU"
     },
     "helium": {
       "price_index": 15.09,
@@ -27,38 +26,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US expands sanctions targeting Iran oil, cryptocurrency sectors",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/07/us-expands-sanctions-targeting-iran-oil-cryptocurrency-sectors/",
-        "published": "2026-07-15T06:58:54Z",
+        "title": "Ukraine: Three dead as Russia intensifies attacks on Odesea",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/ukraine-three-dead-as-russia-intensifies-attacks-on-odesea/live-77962795",
+        "published": "2026-07-15T09:26:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Ukraine: 3 dead as Russia intensifies attacks on Odesa",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/ukraine-3-dead-as-russia-intensifies-attacks-on-odesa/live-77962795",
+        "published": "2026-07-15T09:26:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump warns U.S. strikes on Iran could get ‘really bad’ next week with power plants targeted",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/15/trump-iran-hormuz-strikes-power-plants-targeted.html",
+        "published": "2026-07-15T09:24:29Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Victoria Cast Iron 12\" Pizza Pan for $24 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Victoria-Cast-Iron-12-Pizza-Pan-for-24-free-shipping-w-Prime/21903573.html",
+        "published": "2026-07-15T09:07:40Z",
         "sentiment": "watch"
       },
       {
-        "title": "US expands sanctions targeting Iran oil, cryptocurrency sectors",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/7e5e882d4bb3cca1",
-        "published": "2026-07-15T06:44:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China's economic growth hits slowest pace in over 3 years",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/0715/1583415-china-second-quarter-gdp-figures/",
-        "published": "2026-07-15T06:43:53Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China's economic growth hits slowest pace in more than three years",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/chinas-economic-growth-hits-slowest-pace-in-more-than-three-years-224391",
-        "published": "2026-07-15T06:38:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US airstrikes wound over 260 in Iran as Bitcoin drops 2% and $350M in crypto positions get liquidated",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-airstrikes-bitcoin-crypto-liquidations/",
-        "published": "2026-07-15T06:36:46Z",
+        "title": "Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/15/russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-black-sea",
+        "published": "2026-07-15T08:55:40Z",
         "sentiment": "danger"
       }
     ],
