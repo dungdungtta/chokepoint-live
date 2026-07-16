@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T13:03:18.380Z",
+    "generated_at": "2026-07-16T15:14:19.857Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "UAE condemns Iranian missile and drone attacks on Bahrain, Kuwait, and Jordan amid Gulf escalation",
+        "title": "Bank of Canada holds key rate steady at 2.25 per cent, predicts economic rebound",
+        "source": "National Observer",
+        "url": "https://www.nationalobserver.com/2026/07/15/news/bank-canada-holds-key-rate-steady-225-cent-predicts-economic-rebound",
+        "published": "2026-07-15T14:51:15Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Greece joins nine countries to push for changes to the EU emissions trading system",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/07/15/greece-joins-nine-countries-to-push-for-changes-to-the-eu-emissions-trading-system/",
+        "published": "2026-07-15T14:51:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "WTI Dips As US Crude Production Hits Record High, SPR Draw Slows, Cushing Remains At 'Tank Bottoms'",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/83d225b79a656c2a",
+        "published": "2026-07-15T14:50:24Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Smoke rises over Iran’s Chabahar port amid US military strikes",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/uae-condemns-iran-missile-attacks-gulf-states/",
-        "published": "2026-07-15T13:02:01Z",
+        "url": "https://cryptobriefing.com/us-strikes-iran-chabahar-port-shipping-markets/",
+        "published": "2026-07-15T14:48:33Z",
         "sentiment": "danger"
       },
       {
-        "title": "‘Either for everyone or for no one’: Iran turns oil into a weapon again",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/15/iran-blockade-oil-buffer-imf-warning/",
-        "published": "2026-07-15T12:58:29Z",
+        "title": "Gold Trades Flat At ₹1.46 Lakh Per 10 Grams; Silver Slips ₹100 For Third Straight Session",
+        "source": "Free Press Journal",
+        "url": "https://www.freepressjournal.in/business/gold-trades-flat-at-146-lakh-per-10-grams-silver-slips-100-for-third-straight-session",
+        "published": "2026-07-15T14:34:50Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "US Launches Fourth Straight Night of Strikes on Iran as Hormuz Conflict Escalates Toward Wider War",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/us-iran-conflict-strait-hormuz-1872345",
-        "published": "2026-07-15T12:51:40Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Rubico Announces Acquisition of Additional Newbuilding MR Tanker and a 33% Increase of Potential Gross Revenue Backlog to About $305 Million",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/07/15/3327742/0/en/Rubico-Announces-Acquisition-of-Additional-Newbuilding-MR-Tanker-and-a-33-Increase-of-Potential-Gross-Revenue-Backlog-to-About-305-Million.html",
-        "published": "2026-07-15T12:50:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US reports ‘wave of strikes’ on Iran as war returns",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/07/us-reports-wave-of-strikes-on-iran-as-war-returns/",
-        "published": "2026-07-15T12:40:22Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "REVEALED: CHINA'S PLAN TO BOMB AMERICAN WARSHIPS",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4388058/posts",
+        "published": "2026-07-15T14:56:55Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Trump’s illegal war against Iran RESUMES, burdening Americans and draining military resources",
         "source": "Naturalnews.com",
@@ -82,13 +89,6 @@
         "source": "Daily Signal",
         "url": "https://www.dailysignal.com/2026/07/14/world-trump-pro-american/",
         "published": "2026-07-14T21:45:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China's sanctions on Philippine defense chief put Japan ties in spotlight",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260714-rfa01.htm",
-        "published": "2026-07-14T12:00:00Z",
         "sentiment": "watch"
       }
     ],
