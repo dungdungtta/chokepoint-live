@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T20:35:13.457Z",
+    "generated_at": "2026-07-16T21:46:53.849Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S. Strikes Iran Again as Brent Slips Despite Escalating Conflict",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Strikes-Iran-Again-as-Brent-Slips-Despite-Escalating-Conflict.html",
-        "published": "2026-07-15T20:30:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Settles Higher",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_settles_higher-15-jul-2026-184140-article/",
-        "published": "2026-07-15T20:12:44Z",
+        "title": "Toxic Leak Deepens Congestion at Europe’s Second-Busiest Port",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/port-of-antwerp-toxic-acid-leak-congestion-europe-msc-cargo-ship-1239067660/",
+        "published": "2026-07-15T21:32:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "La Tourangelle 16.9-oz. Organic Extra Virgin Olive Oil for $11 via Sub & Save + free shipping w/ Prime",
+        "title": "Ex-captain pleads guilty to drugging and raping a US Merchant Marine Academy cadet on a cargo ship",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/captain-pleads-guilty-drugging-raping-us-merchant-marine-134796875",
+        "published": "2026-07-15T21:31:41Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Kalshi traders see gas prices crossing $4 by end of July",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/15/kalshi-traders-see-gas-prices-crossing-4-by-end-of-july-.html",
+        "published": "2026-07-15T21:11:03Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Russia Shifts Its Focus to the Black Sea",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/07/15/russia-ukraine-war-strikes-black-sea-ports-odesa-zelensky-koretskyi-fedorov/",
+        "published": "2026-07-15T20:45:20Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Nature's Bounty 200-Countn 1200mg Fish Oil Omega 3 Softgels for $6.84 w/ Subscribe & Save + free shipping w/ Prime",
         "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/La-Tourangelle-16-9-oz-Organic-Extra-Virgin-Olive-Oil-for-11-via-Sub-Save-free-shipping-w-Prime/21903739.html",
-        "published": "2026-07-15T19:51:20Z",
+        "url": "https://www.dealnews.com/products/Natures-Bounty/Natures-Bounty-200-Countn-1200-mg-Fish-Oil-Omega-3-Softgels/490720.html",
+        "published": "2026-07-15T20:42:28Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Attacks on seafarers hit hiring, raise costs for shipping companies",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/attacks-on-seafarers-hit-hiring-raise-costs-for-shipping-companies/articleshow/132424686.cms",
-        "published": "2026-07-15T19:49:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Attacks on seafarers hit hiring, raise costs for shipping companies",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/attacks-on-seafarers-hit-hiring-raise-costs-for-shipping-companies/articleshow/132424656.cms",
-        "published": "2026-07-15T19:49:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
