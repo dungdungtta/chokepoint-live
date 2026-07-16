@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T01:10:45.356Z",
+    "generated_at": "2026-07-16T04:27:15.050Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,18 @@
   "news": {
     "hormuz": [
       {
-        "title": "Global Market Today: Asian stocks rise after soft US CPI, Kospi rallies",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-after-soft-us-cpi-kospi-rallies/articleshow/132403636.cms",
-        "published": "2026-07-15T01:05:29Z",
+        "title": "The Middle East at the Crossroads of Global Power, Energy and Nuclear Risk",
+        "source": "Lewrockwell.com",
+        "url": "https://www.lewrockwell.com/2026/07/no_author/the-middle-east-at-the-crossroads-of-global-power-energy-and-nuclear-risk/",
+        "published": "2026-07-15T04:01:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran's IRGC attacks on US military assets in Bahrain, Kuwait in 'Operation Nasr 2'",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/irans-irgc-attacks-on-us-military-assets-in-bahrain-kuwait-in-operation-nasr-2/articleshow/132403619.cms",
-        "published": "2026-07-15T00:59:46Z",
+        "title": "Iran-linked vessels pass through Strait of Hormuz ahead of US blockade",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/logistics/iran-linked-vessels-pass-through-strait-of-hormuz-ahead-of-us-blockade/article71223949.ece",
+        "published": "2026-07-15T03:58:51Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Trump resumes Iran port blockade and threatens strikes on energy targets",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-resumes-iran-port-blockade-and-threatens-strikes-on-energy-targets/articleshow/132403575.cms",
-        "published": "2026-07-15T00:44:07Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "As Labour FINALLY proscribes the IRGC... why we must sanction everyone who spreads Iran's malignant tentacles into the heart of Britain: DAVID PATRIKARAKOS",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/debate/article-15978133/Labour-proscribes-IRGC-sanction.html",
-        "published": "2026-07-15T00:43:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US pump prices may climb back up to US$4 as resurgent oil prices rekindle inflation fears",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/economy/us-pump-prices-may-climb-back-up-to-us4-as-resurgent-oil-prices-rekindle-inflation-fears",
-        "published": "2026-07-15T00:36:34Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
