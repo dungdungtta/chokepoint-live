@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T21:46:53.849Z",
+    "generated_at": "2026-07-16T23:03:39.951Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Russian attacks kill eight as Ukraine hits Black Sea oil tankers - BBC",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184473154",
+        "published": "2026-07-15T22:33:21Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Toxic Leak Deepens Congestion at Europe’s Second-Busiest Port",
         "source": "WWD",
         "url": "http://wwd.com/sourcing-journal/logistics/port-of-antwerp-toxic-acid-leak-congestion-europe-msc-cargo-ship-1239067660/",
@@ -52,13 +59,6 @@
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/07/15/russia-ukraine-war-strikes-black-sea-ports-odesa-zelensky-koretskyi-fedorov/",
         "published": "2026-07-15T20:45:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Nature's Bounty 200-Countn 1200mg Fish Oil Omega 3 Softgels for $6.84 w/ Subscribe & Save + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/products/Natures-Bounty/Natures-Bounty-200-Countn-1200-mg-Fish-Oil-Omega-3-Softgels/490720.html",
-        "published": "2026-07-15T20:42:28Z",
         "sentiment": "watch"
       }
     ],
