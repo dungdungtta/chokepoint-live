@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T18:12:19.665Z",
+    "generated_at": "2026-07-16T19:35:39.239Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Shipping Choke Points Raise Business Costs Even After The Iran War",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/billconerly/2026/07/15/shipping-choke-points-raise-business-costs-even-after-the-iran-war/",
-        "published": "2026-07-15T18:01:50Z",
+        "title": "US Central Command launches second wave of strikes against Iran as crypto markets absorb the shock",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-strikes-iran-crypto-market-impact-9/",
+        "published": "2026-07-15T19:24:28Z",
         "sentiment": "danger"
       },
       {
-        "title": "Senate Democrats Act Like An Opposition Party, Block $1 Trillion Defense Bill",
-        "source": "Wonkette.com",
-        "url": "https://www.wonkette.com/p/senate-democrats-act-like-an-opposition",
-        "published": "2026-07-15T17:55:58Z",
+        "title": "Staring down the barrel: India Inc stockpiles ahead of festive season",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/india/staring-down-the-barrel-india-inc-stockpiles-ahead-of-festive-season/articleshow/132424081.cms",
+        "published": "2026-07-15T18:59:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "After Hormuz, Here’s Why the Red Sea Is Now the World’s Most Vulnerable Shipping Route",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/after-hormuz-heres-why-the-red-sea-is-now-the-worlds-most-vulnerable-shipping-route/",
-        "published": "2026-07-15T17:54:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Mapping the latest US strikes across Iran",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/15/mapping-the-latest-us-strikes-across-iran",
-        "published": "2026-07-15T17:38:54Z",
+        "title": "US strikes on Iran strengthen escalation options, reduce 2026 deal prospects",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-strikes-on-iran-strengthen-escalation-options-reduce-2026-deal-prospects/",
+        "published": "2026-07-15T18:51:54Z",
         "sentiment": "danger"
       },
       {
-        "title": "Dangote Refinery shields Nigerians from global fuel price shock – S&P",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/07/dangote-refinery-shields-nigerians-from-global-fuel-price-shock-sp-2/",
-        "published": "2026-07-15T17:27:05Z",
+        "title": "Domestic fuel price rises will be 'muted' compared to start of war, experts say",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-07-16/petrol-temperature-check-what-happens-with-prices/106917442",
+        "published": "2026-07-15T18:48:56Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "India raises windfall tax on diesel, ATF exports; cuts levy on petrol exports",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-raises-windfall-tax-on-diesel-atf-exports-cuts-levy-on-petrol-exports/articleshow/132423479.cms",
+        "published": "2026-07-15T18:39:04Z",
         "sentiment": "watch"
       }
     ],
