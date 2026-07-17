@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T17:48:03.436Z",
+    "generated_at": "2026-07-17T19:21:16.780Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,25 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Report: Iran Urges Houthis to Threaten Red Sea Oil Route",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/392967/report-iran-urges-houthis-to-threaten-red-sea-oil-route.html",
-        "published": "2026-07-16T17:20:00Z",
+        "title": "Video: US halts tanker with Hellfire missiles as shipping in the Persian Gulf goes on ‘red alert’",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/07/16/video-us-halts-tanker-with-hellfire-missiles-as-shipping-in-the-persian-gulf-goes-on-red-alert/",
+        "published": "2026-07-16T19:14:20Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Eni CEO: Big Oil Bets on Southeast Asia and Latin America",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Eni-CEO-Big-Oil-Bets-on-Southeast-Asia-and-Latin-America.html",
+        "published": "2026-07-16T19:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US Launches New Strikes on Iran as Hormuz Shipping Traffic Falls",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/us-launches-new-strikes-on-iran-as-hormuz-shipping-traffic-falls",
+        "published": "2026-07-16T18:55:29Z",
         "sentiment": "danger"
       },
       {
-        "title": "‘Goose egg!’: CNBC anchor stunned by largest US inflation decline in over 6 years — is Trump’s plan working?",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/economy/articles/goose-egg-cnbc-anchor-stunned-162000953.html",
-        "published": "2026-07-16T16:20:00Z",
+        "title": "A 'Trump put' for oil? Indian refiners aren't worried about an immediate supply crunch",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/a-trump-put-for-oil-indian-refiners-arent-worried-about-an-immediate-supply-crunch/articleshow/132447280.cms",
+        "published": "2026-07-16T18:53:54Z",
         "sentiment": "watch"
       },
       {
-        "title": "Chevron to Sign Oil Investment Accords With Iraq on Friday",
+        "title": "Oil Traders Crowd Around Cheap TACO Hedge as Iran War Escalates",
         "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/chevron-to-sign-oil-investment-accords-with-iraq-on-friday",
-        "published": "2026-07-16T16:16:42Z",
-        "sentiment": "watch"
+        "url": "https://financialpost.com/pmn/business-pmn/oil-traders-crowd-around-cheap-taco-hedge-as-iran-war-escalates",
+        "published": "2026-07-16T18:46:37Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
