@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T16:41:21.512Z",
+    "generated_at": "2026-07-17T17:48:03.436Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Report: Iran Urges Houthis to Threaten Red Sea Oil Route",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/392967/report-iran-urges-houthis-to-threaten-red-sea-oil-route.html",
+        "published": "2026-07-16T17:20:00Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "‘Goose egg!’: CNBC anchor stunned by largest US inflation decline in over 6 years — is Trump’s plan working?",
         "source": "Yahoo Entertainment",
         "url": "https://finance.yahoo.com/economy/articles/goose-egg-cnbc-anchor-stunned-162000953.html",
@@ -38,13 +45,6 @@
         "source": "Financial Post",
         "url": "https://financialpost.com/pmn/business-pmn/chevron-to-sign-oil-investment-accords-with-iraq-on-friday",
         "published": "2026-07-16T16:16:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran calls on Houthis to prepare to cut off Red Sea gateway — can the terror group do it?",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/iran-calls-houthis-prepare-cut-off-red-sea-gateway-can-terror-group-do-it",
-        "published": "2026-07-16T15:53:39Z",
         "sentiment": "watch"
       }
     ],
