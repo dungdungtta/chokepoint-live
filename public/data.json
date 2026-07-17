@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T19:21:16.780Z",
+    "generated_at": "2026-07-17T20:28:22.938Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Video: US halts tanker with Hellfire missiles as shipping in the Persian Gulf goes on ‘red alert’",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/07/16/video-us-halts-tanker-with-hellfire-missiles-as-shipping-in-the-persian-gulf-goes-on-red-alert/",
-        "published": "2026-07-16T19:14:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Eni CEO: Big Oil Bets on Southeast Asia and Latin America",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Eni-CEO-Big-Oil-Bets-on-Southeast-Asia-and-Latin-America.html",
-        "published": "2026-07-16T19:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Launches New Strikes on Iran as Hormuz Shipping Traffic Falls",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/us-launches-new-strikes-on-iran-as-hormuz-shipping-traffic-falls",
-        "published": "2026-07-16T18:55:29Z",
+        "title": "US military strikes supertanker near Iran’s oil export terminal, rattling energy and crypto markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-military-strikes-supertanker-iran-crypto-impact/",
+        "published": "2026-07-16T20:26:40Z",
         "sentiment": "danger"
       },
       {
-        "title": "A 'Trump put' for oil? Indian refiners aren't worried about an immediate supply crunch",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/a-trump-put-for-oil-indian-refiners-arent-worried-about-an-immediate-supply-crunch/articleshow/132447280.cms",
-        "published": "2026-07-16T18:53:54Z",
+        "title": "A 28 Item Grocery Order From Target That Cost $64.50 In 2020 Is Now $158.30 In 2026",
+        "source": "Theeconomiccollapseblog.com",
+        "url": "http://theeconomiccollapseblog.com/a-28-item-grocery-order-from-target-that-cost-64-50-in-2020-is-now-158-30-in-2026/",
+        "published": "2026-07-16T20:25:42Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Traders Crowd Around Cheap TACO Hedge as Iran War Escalates",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-traders-crowd-around-cheap-taco-hedge-as-iran-war-escalates",
-        "published": "2026-07-16T18:46:37Z",
+        "title": "US military targets supertanker near Iran’s Kharg Island amid rising tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-military-targets-supertanker-near-irans-kharg-island-amid-rising-tensions/",
+        "published": "2026-07-16T20:22:53Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "American drivers face $5 diesel prices as Middle East tensions push fuel costs to historic levels",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-diesel-prices-five-dollars-middle-east/",
+        "published": "2026-07-16T20:20:42Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US targets Iranian bridge, disrupts logistics amid resumed 2026 Iran war",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-targets-iranian-bridge-disrupts-logistics-amid-resumed-2026-iran-war/",
+        "published": "2026-07-16T20:12:16Z",
         "sentiment": "danger"
       }
     ],
