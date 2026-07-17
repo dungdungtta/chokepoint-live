@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T06:05:15.807Z",
+    "generated_at": "2026-07-17T08:29:26.461Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "US unleashes strikes near Tehran and targets a ship breaking the blockade as Trump threatens to 'finish it off'",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15981353/us-strikes-iran-tehran-ship-blockade-trump.html",
-        "published": "2026-07-16T06:02:29Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Gulf States Signal Openness to Strait of Hormuz Fees, Reject Iranian Control",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-16-gulf-states-signal-openness-to-hormuz-fees.html",
-        "published": "2026-07-16T06:00:00Z",
+        "title": "USA-Iran Skirmishes Worsen as Hormuz Traffic Dwindles",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/usairan_skirmishes_worsen_as_hormuz_traffic_dwindles-16-jul-2026-184141-article/",
+        "published": "2026-07-16T08:24:15Z",
         "sentiment": "watch"
       },
       {
-        "title": "Strait of Hormuz closure tests Iran-Oman alliance as US-Israeli war escalates into regional crisis",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-16-strait-of-hormuz-closure-tests-iran-oman-alliance.html",
-        "published": "2026-07-16T06:00:00Z",
+        "title": "US strikes Iran, tanker, as Tehran hits Kuwait, Jordan: What’s the latest",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/16/us-strikes-iran-tanker-as-tehran-hits-kuwait-jordan-whats-the-latest",
+        "published": "2026-07-16T08:23:40Z",
         "sentiment": "danger"
       },
       {
-        "title": "The pros & cons that matter for autumn or spring elections, Samaras’s headquarters (at Livanis’s?), seven people in one room & fierce exchanges in SYRIZA",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/07/16/the-pros-cons-that-matter-for-autumn-or-spring-elections-samarass-headquarters-at-livaniss-seven-people-in-one-room-fierce-exchanges-in-syriza/",
-        "published": "2026-07-16T05:41:00Z",
+        "title": "US launches new attacks on Iran as Tehran targets Gulf sites",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/16/us-launches-new-attacks-on-iran-as-tehran-targets-gulf-sites",
+        "published": "2026-07-16T08:18:23Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Carney was iffy on a pipeline. Now his government's building one itself. Here's what changed his mind",
+        "source": "National Post",
+        "url": "https://nationalpost.com/news/carney-was-iffy-on-a-pipeline-now-his-governments-building-one-itself-heres-what-changed-his-mind",
+        "published": "2026-07-16T08:00:18Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "US strikes expand into northern Iran as it disables ship trying to run blockade",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/us-strikes-expand-northern-iran-disables-ship-run-134805777",
-        "published": "2026-07-16T05:28:10Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -94,6 +87,13 @@
     ],
     "malacca": [
       {
+        "title": "Talks for release of 3 ships held by Somali pirates in advanced stage: Sources",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/talks-for-release-of-3-ships-held-by-somali-pirates-in-advanced-stage-sources/articleshow/132433123.cms",
+        "published": "2026-07-16T07:51:52Z",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Shipping Choke Points Raise Business Costs Even After The Iran War",
         "source": "Forbes",
         "url": "https://www.forbes.com/sites/billconerly/2026/07/15/shipping-choke-points-raise-business-costs-even-after-the-iran-war/",
@@ -119,13 +119,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/07/indonesia-and-singapore-pledge-that-malacca-strait-will-remain-open-to-all/",
         "published": "2026-07-07T04:45:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Prabowo, Wong reaffirm open Malacca Strait under UNCLOS",
-        "source": "Antaranews.com",
-        "url": "https://en.antaranews.com/news/421707/prabowo-wong-reaffirm-open-malacca-strait-under-unclos",
-        "published": "2026-07-06T14:19:44Z",
         "sentiment": "watch"
       }
     ]
