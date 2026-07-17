@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T11:53:28.414Z",
+    "generated_at": "2026-07-17T13:54:41.267Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,28 @@
   "news": {
     "hormuz": [
       {
-        "title": "US-Iran hostilities deepen as Hormuz traffic slows",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-iran-hostilities-deepen-as-hormuz-traffic-slows/articleshow/132438364.cms",
-        "published": "2026-07-16T11:53:09Z",
+        "title": "Retail sales up a modest 0.2% in June amid economic uncertainty",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/retail-sales-modest-02-june-amid-economic-uncertainty-134813307",
+        "published": "2026-07-16T13:51:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "Thursday: Hili dialogue",
-        "source": "Whyevolutionistrue.com",
-        "url": "https://whyevolutionistrue.com/2026/07/16/thursday-hili-dialogue-596/",
-        "published": "2026-07-16T11:45:24Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Energy stocks surge 20% in 2026 amid US-Israel-Iran tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/energy-stocks-surge-20-in-2026-amid-us-israel-iran-tensions/",
-        "published": "2026-07-16T11:36:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Analysts Examine Hormuz Crossings",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/analysts_examine_hormuz_crossings-16-jul-2026-184145-article/",
-        "published": "2026-07-16T11:34:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The EU climate policy the world copied is under fire — what's at stake?",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/backlash-ets-europe-price-tag-on-pollution-carbon-neutral/a-77979725",
-        "published": "2026-07-16T11:33:00Z",
+        "title": "Ukraine Says Drone Campaign Has Hit 147 Russian-Linked Vessels in 11 Days",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/ukraine-says-drone-campaign-has-hit-147-russian-linked-vessels-in-11-days/",
+        "published": "2026-07-16T13:50:15Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "U.S.-led drills forging deterrence network around Taiwan: Scholar",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260716-cna02.htm",
+        "published": "2026-07-16T12:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "REVEALED: CHINA'S PLAN TO BOMB AMERICAN WARSHIPS",
         "source": "Freerepublic.com",
