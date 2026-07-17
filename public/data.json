@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T08:29:26.461Z",
+    "generated_at": "2026-07-17T10:22:19.630Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "USA-Iran Skirmishes Worsen as Hormuz Traffic Dwindles",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/usairan_skirmishes_worsen_as_hormuz_traffic_dwindles-16-jul-2026-184141-article/",
-        "published": "2026-07-16T08:24:15Z",
+        "title": "US strikes Iranian-linked oil tanker deep within Persian Gulf",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-16/us-strikes-iranian-linked-oil-tanker-deep-within-persian-gulf",
+        "published": "2026-07-16T10:12:04Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US Expands Strikes into Northern Iran and Disables Ship Trying to Run Blockade",
+        "source": "Military.com",
+        "url": "https://military.com/us-expands-strikes-into-northern-iran-and-disables-ship-trying-to-run-blockade",
+        "published": "2026-07-16T10:01:15Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Πώς ο πόλεμος στο Ορμούζ άνοιξε τον δρόμο για αγωγούς υδρογονανθράκων από τον Κόλπο προς την Τουρκία διαμέσου... Κουρδιστάν!",
+        "source": "Blogspot.com",
+        "url": "https://i-epikaira.blogspot.com/2026/07/blog-post_328.html",
+        "published": "2026-07-16T09:46:27Z",
         "sentiment": "watch"
       },
       {
-        "title": "US strikes Iran, tanker, as Tehran hits Kuwait, Jordan: What’s the latest",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/16/us-strikes-iran-tanker-as-tehran-hits-kuwait-jordan-whats-the-latest",
-        "published": "2026-07-16T08:23:40Z",
+        "title": "India Bars Seafarers From Hormuz Voyages After Attacks",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/07/16/877751.htm",
+        "published": "2026-07-16T09:37:18Z",
         "sentiment": "danger"
       },
       {
-        "title": "US launches new attacks on Iran as Tehran targets Gulf sites",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/16/us-launches-new-attacks-on-iran-as-tehran-targets-gulf-sites",
-        "published": "2026-07-16T08:18:23Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Carney was iffy on a pipeline. Now his government's building one itself. Here's what changed his mind",
-        "source": "National Post",
-        "url": "https://nationalpost.com/news/carney-was-iffy-on-a-pipeline-now-his-governments-building-one-itself-heres-what-changed-his-mind",
-        "published": "2026-07-16T08:00:18Z",
+        "title": "Ukraine lawmakers approve Koretskyi as new PM amid protests",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/ukraine-lawmakers-approve-koretskyi-as-new-pm-amid-protests/live-77980338",
+        "published": "2026-07-16T09:36:00Z",
         "sentiment": "watch"
       }
     ],
