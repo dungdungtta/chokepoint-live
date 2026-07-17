@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T10:22:19.630Z",
+    "generated_at": "2026-07-17T11:53:28.414Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US strikes Iranian-linked oil tanker deep within Persian Gulf",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-16/us-strikes-iranian-linked-oil-tanker-deep-within-persian-gulf",
-        "published": "2026-07-16T10:12:04Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US Expands Strikes into Northern Iran and Disables Ship Trying to Run Blockade",
-        "source": "Military.com",
-        "url": "https://military.com/us-expands-strikes-into-northern-iran-and-disables-ship-trying-to-run-blockade",
-        "published": "2026-07-16T10:01:15Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Πώς ο πόλεμος στο Ορμούζ άνοιξε τον δρόμο για αγωγούς υδρογονανθράκων από τον Κόλπο προς την Τουρκία διαμέσου... Κουρδιστάν!",
-        "source": "Blogspot.com",
-        "url": "https://i-epikaira.blogspot.com/2026/07/blog-post_328.html",
-        "published": "2026-07-16T09:46:27Z",
+        "title": "US-Iran hostilities deepen as Hormuz traffic slows",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-iran-hostilities-deepen-as-hormuz-traffic-slows/articleshow/132438364.cms",
+        "published": "2026-07-16T11:53:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "India Bars Seafarers From Hormuz Voyages After Attacks",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/07/16/877751.htm",
-        "published": "2026-07-16T09:37:18Z",
-        "sentiment": "danger"
+        "title": "Thursday: Hili dialogue",
+        "source": "Whyevolutionistrue.com",
+        "url": "https://whyevolutionistrue.com/2026/07/16/thursday-hili-dialogue-596/",
+        "published": "2026-07-16T11:45:24Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Ukraine lawmakers approve Koretskyi as new PM amid protests",
+        "title": "Energy stocks surge 20% in 2026 amid US-Israel-Iran tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/energy-stocks-surge-20-in-2026-amid-us-israel-iran-tensions/",
+        "published": "2026-07-16T11:36:35Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Analysts Examine Hormuz Crossings",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/analysts_examine_hormuz_crossings-16-jul-2026-184145-article/",
+        "published": "2026-07-16T11:34:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The EU climate policy the world copied is under fire — what's at stake?",
         "source": "DW (English)",
-        "url": "https://www.dw.com/en/ukraine-lawmakers-approve-koretskyi-as-new-pm-amid-protests/live-77980338",
-        "published": "2026-07-16T09:36:00Z",
+        "url": "https://www.dw.com/en/backlash-ets-europe-price-tag-on-pollution-carbon-neutral/a-77979725",
+        "published": "2026-07-16T11:33:00Z",
         "sentiment": "watch"
       }
     ],
