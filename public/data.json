@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T00:13:43.454Z",
+    "generated_at": "2026-07-17T03:42:31.620Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "CENTCOM enforces blockade: Missiles strike tanker headed to Kharg Island",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/430242",
-        "published": "2026-07-15T23:08:07Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Russian attacks kill eight as Ukraine hits Black Sea oil tankers - BBC",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184473154",
-        "published": "2026-07-15T22:33:21Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Toxic Leak Deepens Congestion at Europe’s Second-Busiest Port",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/port-of-antwerp-toxic-acid-leak-congestion-europe-msc-cargo-ship-1239067660/",
-        "published": "2026-07-15T21:32:24Z",
+        "title": "What does 'Las Malvinas Son Argentinas' mean? All about the Falkland row that followed Messi's Argentina into the World Cup final",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/what-does-las-malvinas-son-argentinas-mean-all-about-the-falkland-row-that-followed-messis-argentina-into-the-world-cup-final/articleshow/132428679.cms",
+        "published": "2026-07-16T03:30:19Z",
         "sentiment": "watch"
       },
       {
-        "title": "Ex-captain pleads guilty to drugging and raping a US Merchant Marine Academy cadet on a cargo ship",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/captain-pleads-guilty-drugging-raping-us-merchant-marine-134796875",
-        "published": "2026-07-15T21:31:41Z",
-        "sentiment": "watch"
+        "title": "Ship traffic through Strait of Hormuz drops after U.S. blockade",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/ship-traffic-through-strait-of-hormuz-drops-after-u-s-blockade/articleshow/132428688.cms",
+        "published": "2026-07-16T03:26:44Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran’s army targets US-linked Al Azraq Air Base in Jordan with drone and missile strikes",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-targets-al-azraq-air-base-jordan-missiles/",
+        "published": "2026-07-16T02:42:53Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US airstrikes on northern Iran kill over 35 as naval blockade intensifies, rattling crypto markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-strikes-crypto-market-impact-4/",
+        "published": "2026-07-16T02:41:47Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US strikes northern Iran, hitting a ship accused of trying to break blockade on Islamic Republic",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/07/15/us-news/us-strikes-northern-iran-hitting-a-ship-accused-of-trying-to-break-blockade-on-islamic-republic/",
+        "published": "2026-07-16T02:35:31Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
