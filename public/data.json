@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T21:25:25.830Z",
+    "generated_at": "2026-07-17T22:25:07.961Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "US strikes hit Iran’s Lorestan and Bushehr provinces as crypto markets flash risk-off signals",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-strikes-iran-crypto-markets-react-2/",
+        "published": "2026-07-16T22:13:19Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US Marines board tanker as Navy enforces blockade on Iran",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/430304",
+        "published": "2026-07-16T22:09:29Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran warns ‘entire region will pay the price’ as US bombs bridges (PHOTOS, VIDEOS)",
+        "source": "RT",
+        "url": "https://www.rt.com/news/643155-iran-bridges-region-price/",
+        "published": "2026-07-16T22:03:17Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The America First Contradiction",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/07/16/elbridge-colby-middle-powers-america-first-trump/",
+        "published": "2026-07-16T21:54:10Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US airstrikes hit Iran’s Hormozgan province as Strait of Hormuz tensions rattle oil and crypto markets",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/us-airstrikes-iran-hormozgan-strait-hormuz-bitcoin/",
         "published": "2026-07-16T21:21:22Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "U.S. hits Iran with fresh round of strikes for 6th consecutive night",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/iran-us-strikes-strait-hormuz-9.7273067",
-        "published": "2026-07-16T21:10:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran instructs Houthis to close Red Sea gateway if US strikes, threatening global trade chokepoint",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-houthis-red-sea-closure-us-strikes/",
-        "published": "2026-07-16T20:48:05Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "India Tells Seafarers to Avoid Strait of Hormuz After Crew Deaths",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/07/16/india-tells-seafarers-to-avoid-strait-of-hormuz-after-crew-deaths/",
-        "published": "2026-07-16T20:43:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump declares Strait of Hormuz open for all ships except Iran’s, wiping $20B from crypto markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-strait-hormuz-blockade-crypto-selloff/",
-        "published": "2026-07-16T20:35:34Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
