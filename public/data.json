@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T13:54:41.267Z",
+    "generated_at": "2026-07-17T15:19:17.407Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,21 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Retail sales up a modest 0.2% in June amid economic uncertainty",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/retail-sales-modest-02-june-amid-economic-uncertainty-134813307",
-        "published": "2026-07-16T13:51:43Z",
+        "title": "Iran, US Step Up Attacks, Though Release of American May Signal Path to Climbdown",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/07/16/877887.htm",
+        "published": "2026-07-16T15:13:15Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US projectiles strike areas around Iran’s Qeshm Island as Strait of Hormuz tensions escalate",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-strikes-iran-qeshm-island-strait-hormuz/",
+        "published": "2026-07-16T15:06:05Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran Accuses The US Of Acting Like “Pirates”",
+        "source": "Shtfplan.com",
+        "url": "https://www.shtfplan.com/war/iran-accuses-the-us-of-acting-like-pirates",
+        "published": "2026-07-16T15:00:54Z",
         "sentiment": "watch"
       },
       {
-        "title": "Ukraine Says Drone Campaign Has Hit 147 Russian-Linked Vessels in 11 Days",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/ukraine-says-drone-campaign-has-hit-147-russian-linked-vessels-in-11-days/",
-        "published": "2026-07-16T13:50:15Z",
+        "title": "Report: Iran tells Houthis to prepare Red Sea shipping shutdown",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/430286",
+        "published": "2026-07-16T14:58:13Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Pakistan worries about being drawn into US-Iran conflict after Houthis attack Saudi Arabia",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/pakistan-worries-about-being-drawn-into-us-iran-conflict-after-houthis-attack-saudi-arabia/articleshow/132442200.cms",
+        "published": "2026-07-16T14:56:40Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Russia–China vs. US–Australia: Military Build Up. Rival Blocs Race to Secure Asia-Pacific. “Confrontation”?",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/russia-china-vs-us-australia-military-build-up-rival-blocs-race-to-secure-asia-pacific-confrontation/5933463",
+        "published": "2026-07-16T14:13:54Z",
+        "sentiment": "watch"
+      },
       {
         "title": "U.S.-led drills forging deterrence network around Taiwan: Scholar",
         "source": "Globalsecurity.org",
@@ -68,13 +96,6 @@
         "source": "Naturalnews.com",
         "url": "https://www.naturalnews.com/2026-07-15-trump-iran-gamble-battlefield-americans-home.html",
         "published": "2026-07-15T06:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Victor Davis Hanson: The World Is Becoming More Pro-American Than It Has Been in Years",
-        "source": "Daily Signal",
-        "url": "https://www.dailysignal.com/2026/07/14/world-trump-pro-american/",
-        "published": "2026-07-14T21:45:00Z",
         "sentiment": "watch"
       }
     ],
