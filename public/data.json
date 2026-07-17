@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T15:19:17.407Z",
+    "generated_at": "2026-07-17T16:41:21.512Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,25 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran, US Step Up Attacks, Though Release of American May Signal Path to Climbdown",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/07/16/877887.htm",
-        "published": "2026-07-16T15:13:15Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US projectiles strike areas around Iran’s Qeshm Island as Strait of Hormuz tensions escalate",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-strikes-iran-qeshm-island-strait-hormuz/",
-        "published": "2026-07-16T15:06:05Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran Accuses The US Of Acting Like “Pirates”",
-        "source": "Shtfplan.com",
-        "url": "https://www.shtfplan.com/war/iran-accuses-the-us-of-acting-like-pirates",
-        "published": "2026-07-16T15:00:54Z",
+        "title": "‘Goose egg!’: CNBC anchor stunned by largest US inflation decline in over 6 years — is Trump’s plan working?",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/economy/articles/goose-egg-cnbc-anchor-stunned-162000953.html",
+        "published": "2026-07-16T16:20:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Report: Iran tells Houthis to prepare Red Sea shipping shutdown",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/430286",
-        "published": "2026-07-16T14:58:13Z",
+        "title": "Chevron to Sign Oil Investment Accords With Iraq on Friday",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/chevron-to-sign-oil-investment-accords-with-iraq-on-friday",
+        "published": "2026-07-16T16:16:42Z",
         "sentiment": "watch"
       },
       {
-        "title": "Pakistan worries about being drawn into US-Iran conflict after Houthis attack Saudi Arabia",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/pakistan-worries-about-being-drawn-into-us-iran-conflict-after-houthis-attack-saudi-arabia/articleshow/132442200.cms",
-        "published": "2026-07-16T14:56:40Z",
-        "sentiment": "danger"
+        "title": "Iran calls on Houthis to prepare to cut off Red Sea gateway — can the terror group do it?",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/iran-calls-houthis-prepare-cut-off-red-sea-gateway-can-terror-group-do-it",
+        "published": "2026-07-16T15:53:39Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
