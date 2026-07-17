@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T23:03:39.951Z",
+    "generated_at": "2026-07-17T00:13:43.454Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "CENTCOM enforces blockade: Missiles strike tanker headed to Kharg Island",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/430242",
+        "published": "2026-07-15T23:08:07Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Russian attacks kill eight as Ukraine hits Black Sea oil tankers - BBC",
         "source": "Slashdot.org",
         "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184473154",
@@ -45,20 +52,6 @@
         "source": "Abcnews.com",
         "url": "https://abcnews.com/US/wireStory/captain-pleads-guilty-drugging-raping-us-merchant-marine-134796875",
         "published": "2026-07-15T21:31:41Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Kalshi traders see gas prices crossing $4 by end of July",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/15/kalshi-traders-see-gas-prices-crossing-4-by-end-of-july-.html",
-        "published": "2026-07-15T21:11:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Russia Shifts Its Focus to the Black Sea",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/07/15/russia-ukraine-war-strikes-black-sea-ports-odesa-zelensky-koretskyi-fedorov/",
-        "published": "2026-07-15T20:45:20Z",
         "sentiment": "watch"
       }
     ],
