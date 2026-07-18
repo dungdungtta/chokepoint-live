@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T01:00:41.625Z",
+    "generated_at": "2026-07-18T04:16:03.765Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "US strikes bridges in Iran, expanding its airstrike campaign over the Strait of Hormuz",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-strikes-bridges-in-iran-expanding-its-airstrike-campaign-over-the-strait-of-hormuz/articleshow/132450348.cms",
-        "published": "2026-07-17T00:58:22Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump threatens new Iran escalation and risks repeating old mistakes",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-threatens-new-iran-escalation-and-risks-repeating-old-mistakes/articleshow/132450282.cms",
-        "published": "2026-07-17T00:39:12Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "1969 Chevrolet Corvette Convertible L88 427/430 4-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1969-chevrolet-corvette-convertible-101/",
-        "published": "2026-07-17T00:06:27Z",
+        "title": "For Whom the Strait Tolls",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/07/whom-strait-tolls.html",
+        "published": "2026-07-17T04:15:49Z",
         "sentiment": "watch"
       },
       {
-        "title": "1969 Mercedes-Benz 280SL",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1969-mercedes-benz-280sl-186/",
-        "published": "2026-07-16T23:15:02Z",
+        "title": "Iran launches fresh attacks after sixth day of US strikes",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/2026/0717/1583774-iran-launches-fresh-attacks-after-sixth-day-of-us-strikes/",
+        "published": "2026-07-17T04:15:11Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran launches fresh attacks after sixth day of US strikes",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/2026/0717/1583774-middle-east/",
+        "published": "2026-07-17T04:15:11Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Just what is government doing for us? By Adekunle Adekoya",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/07/just-what-is-government-doing-for-us-by-adekunle-adekoya/",
+        "published": "2026-07-17T04:15:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "Framing The Trojan War As A Trade War Over A Shipping Route",
-        "source": "Scienceblogs.com",
-        "url": "https://scienceblogs.com/sb-admin/2026/07/16/framing-trojan-war-trade-war-over-shipping-route-151475",
-        "published": "2026-07-16T23:13:42Z",
+        "title": "US strikes bridges and collapses a tower at a key port as its Iran campaign expands",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/world/articles/us-airstrikes-iran-appear-damaged-041126104.html",
+        "published": "2026-07-17T04:11:26Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "ETMarkets Smart Talk | India’s indirect AI play could create wealth in power, data centres and capital goods: Hiren Ved",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-indias-indirect-ai-play-could-create-wealth-in-power-data-centres-and-capital-goods-hiren-ved/articleshow/132431395.cms",
+        "published": "2026-07-17T03:30:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Russia–China vs. US–Australia: Military Build Up. Rival Blocs Race to Secure Asia-Pacific. “Confrontation”?",
         "source": "Globalresearch.ca",
@@ -90,13 +97,6 @@
         "url": "https://www.naturalnews.com/2026-07-15-trumps-illegal-war-against-iran-resumes-burdening-americans-and-draining-military-resources.html",
         "published": "2026-07-15T06:00:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Trump’s Iran gamble: A battlefield win Americans could pay for at home",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-15-trump-iran-gamble-battlefield-americans-home.html",
-        "published": "2026-07-15T06:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
