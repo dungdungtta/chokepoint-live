@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T04:16:03.765Z",
+    "generated_at": "2026-07-18T06:29:44.745Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "For Whom the Strait Tolls",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/07/whom-strait-tolls.html",
-        "published": "2026-07-17T04:15:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran launches fresh attacks after sixth day of US strikes",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/2026/0717/1583774-iran-launches-fresh-attacks-after-sixth-day-of-us-strikes/",
-        "published": "2026-07-17T04:15:11Z",
+        "title": "US strikes kill eight in Iran as crypto markets absorb another geopolitical shock",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-strikes-iran-crypto-market-impact-10/",
+        "published": "2026-07-17T06:26:09Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran launches fresh attacks after sixth day of US strikes",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/2026/0717/1583774-middle-east/",
-        "published": "2026-07-17T04:15:11Z",
+        "title": "US hits bridges and collapses tower at key Iranian port as it expands airstrike campaign",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/07/17/world-news/us-hits-bridges-and-collapses-tower-at-key-iranian-port-as-it-expands-airstrike-campaign/",
+        "published": "2026-07-17T06:23:41Z",
         "sentiment": "danger"
       },
       {
-        "title": "Just what is government doing for us? By Adekunle Adekoya",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/07/just-what-is-government-doing-for-us-by-adekunle-adekoya/",
-        "published": "2026-07-17T04:15:05Z",
-        "sentiment": "watch"
+        "title": "US airstrikes hit dozens of Iranian targets in sixth night of new attacks as Donald Trump insists: 'We are winning big in Iran'",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15984337/US-airstrikes-dozens-Iranian-targets-new-attacks.html",
+        "published": "2026-07-17T06:07:54Z",
+        "sentiment": "danger"
       },
       {
-        "title": "US strikes bridges and collapses a tower at a key port as its Iran campaign expands",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/world/articles/us-airstrikes-iran-appear-damaged-041126104.html",
-        "published": "2026-07-17T04:11:26Z",
+        "title": "Iran warns of blocking regional oil exports after claiming strike on U.S. Navy in Bahrain",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-17-iran-warns-of-blocking-regional-oil-exports.html",
+        "published": "2026-07-17T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US ramps up airstrikes on Iran by hitting more bridges",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/us-airstrikes-iran-7104975-Jul2026/",
+        "published": "2026-07-17T05:55:56Z",
         "sentiment": "danger"
       }
     ],
