@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T12:29:38.127Z",
+    "generated_at": "2026-07-18T14:02:46.381Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "US-Iran war: UN chief calls for new diplomatic push following attacks on civilian areas",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260717-unnews01.htm",
-        "published": "2026-07-17T12:00:00Z",
+        "title": "US, Iran Each Attack Infrastructure in Risky Escalation of Conflict",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/07/17/878039.htm",
+        "published": "2026-07-17T13:56:34Z",
         "sentiment": "danger"
       },
       {
-        "title": "Day 1,605 of WW3. Hungary starts investigating Eraserhead cosplayer and former Foreign Minister for ties to russia. UAF drones keep hitting orc shipping, and Moscow returns 500 bodies they claim are Ukrainian. This is your Friday Ukraine war thread [News]",
-        "source": "Fark.com",
-        "url": "https://www.fark.com/comments/14133746/Day-1605-of-WW3-Hungary-starts-investigating-Eraserhead-cosplayer-former-Foreign-Minister-for-ties-to-russia-UAF-drones-keep-hitting-orc-shipping-Moscow-returns-500-bodies-they-claim-are-Ukrainian-This-is-your-Friday-Ukraine-war-thread",
-        "published": "2026-07-17T12:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Only 3 vessels transit Strait of Hormuz over past 24 hours amid renewed US-Iran hostilities",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260717-azertac01.htm",
-        "published": "2026-07-17T12:00:00Z",
+        "title": "Suspected Pirates Seize Tanker Off Yemen Coast in Gulf of Aden, Sources Say",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/suspected-pirates-seize-tanker-off-yemen-coast-in-gulf-of-aden-sources-say/",
+        "published": "2026-07-17T13:53:27Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iranians Send Anti-War Message To Hard-Liners With Rare Petition",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260717-rferl02.htm",
-        "published": "2026-07-17T12:00:00Z",
+        "title": "Geopolitical Risk Premium Returns as Crude Posts Biggest Weekly Gain in Months",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Geopolitical-Risk-Premium-Returns-as-Crude-Posts-Biggest-Weekly-Gain-in-Months.html",
+        "published": "2026-07-17T13:30:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran Expands Oil Chokepoint Threat as Houthis Eye Red Sea Shipping",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Iran-Expands-Oil-Chokepoint-Threat-as-Houthis-Eye-Red-Sea-Shipping.html",
+        "published": "2026-07-17T13:30:00Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Baghdad Bets on Syria and Turkey Pipelines to Secure Oil Exports",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Baghdad-Bets-on-Syria-and-Turkey-Pipelines-to-Secure-Oil-Exports.html",
+        "published": "2026-07-17T13:30:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
