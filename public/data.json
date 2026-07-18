@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T17:35:58.178Z",
+    "generated_at": "2026-07-18T18:38:14.861Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump's 60-day Iran deal reaches halfway mark as ceasefire collapses into escalating war",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/trumps-60-day-iran-deal-reaches-halfway-mark-ceasefire-collapses-escalating-war",
-        "published": "2026-07-17T17:11:32Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices may actually be driving the U.S. Iran war",
-        "source": "BNNBloomberg.ca",
-        "url": "https://www.bnnbloomberg.ca/business/2026/07/17/the-cheaper-oil-gets-the-more-us-iran-war-could-escalate-says-expert/",
-        "published": "2026-07-17T17:05:21Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/07/17/nx-s1-5884849/us-iran-strait-hormuz-global-shipping-risk",
-        "published": "2026-07-17T16:50:10Z",
+        "title": "Beyond LNG: Berlin’s red-carpet diplomacy signals a bigger bet on Algeria",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/7/17/beyond-lng-berlins-red-carpet-diplomacy-signals-a-bigger-bet-on-algeria",
+        "published": "2026-07-17T18:28:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "Select Accts: 60-Ct Sports Research 12mg Triple Strength Astaxanthin Softgels $14.55 w/ S&S",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19769262-select-accounts-60-count-sports-research-12mg-triple-strength-astaxanthin-softgels-14-55-w-s-s-free-shipping-w-prime-or-on-35",
-        "published": "2026-07-17T16:30:32Z",
-        "sentiment": "watch"
+        "title": "Oil tankers face 'worst case scenario' in Hormuz as Iran steps up attacks on ships, maritime risk CEO says",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/17/iran-war-oil-tanker-strait-hormuz-traffic-attacks-trump.html",
+        "published": "2026-07-17T18:20:37Z",
+        "sentiment": "danger"
       },
       {
-        "title": "US missile strike on Iranian oil tanker near Kharg Island rattles energy markets, ripples into crypto",
+        "title": "Explosions rock Iran’s Bandar Abbas as crypto markets shrug off escalating Gulf tensions",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-missile-strike-iran-oil-tanker-crypto-impact/",
-        "published": "2026-07-17T15:39:17Z",
+        "url": "https://cryptobriefing.com/bandar-abbas-explosions-crypto-markets-reaction/",
+        "published": "2026-07-17T18:08:15Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "US airstrike damages IRGC warehouse in Rask as crypto markets feel the heat",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-airstrike-irgc-rask-crypto-impact/",
+        "published": "2026-07-17T18:05:56Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran Revolutionary Guards fire on Thai-flagged ship in Strait of Hormuz, sparking oil surge and crypto toll demands",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-strait-hormuz-ship-attack-crypto-tolls/",
+        "published": "2026-07-17T17:41:21Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
