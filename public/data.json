@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T20:59:14.675Z",
+    "generated_at": "2026-07-18T22:00:35.746Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "US oil firms sign deals with Iraq to develop alternative shipping routes",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/us-oil-firms-sign-deals-iraq-develop-alternative-134859838",
+        "published": "2026-07-17T21:51:47Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "1966 Plymouth Satellite Hardtop 426 Hemi",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1966-plymouth-satellite-23/",
+        "published": "2026-07-17T21:10:15Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "1969 Shelby GT500 Fastback 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1969-shelby-gt500-3/",
+        "published": "2026-07-17T21:05:05Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Suspected Somali pirates seize tanker near Yemen amid wave of hijackings",
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/7/17/suspected-somali-pirates-seize-tanker-near-yemen-amid-wave-of-hijackings",
@@ -39,27 +60,6 @@
         "url": "http://www.winnipegfreepress.com/business/2026/07/17/us-oil-firms-sign-deals-with-iraq-to-develop-alternative-shipping-routes",
         "published": "2026-07-17T20:16:05Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Strikes on infrastructure by Iran and U.S. raise fears of escalation in war",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/iran-us-war-infrastructure-attack-9.7274603",
-        "published": "2026-07-17T20:10:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Strikes on infrastructure by Iran and U.S. raise fears of escalation in war",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/iran-us-insfrastructure-attack-9.7274603",
-        "published": "2026-07-17T20:10:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Report: U.S. Airstrikes Expand to Bridges, Railroads, and Airports in Southern Iran",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/07/17/report-u-s-airstrikes-expand-bridges-railroads-airports-southern-iran/",
-        "published": "2026-07-17T20:04:22Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
