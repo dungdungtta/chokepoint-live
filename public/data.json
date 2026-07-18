@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T19:53:30.616Z",
+    "generated_at": "2026-07-18T20:59:14.675Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Nikkei Enters Correction as Chip Rout Deepens",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/150013.php",
-        "published": "2026-07-17T19:36:59Z",
+        "title": "Suspected Somali pirates seize tanker near Yemen amid wave of hijackings",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/17/suspected-somali-pirates-seize-tanker-near-yemen-amid-wave-of-hijackings",
+        "published": "2026-07-17T20:57:27Z",
         "sentiment": "watch"
       },
       {
-        "title": "Ukrainian strikes on Russian energy disrupt grain exports, fuel costs soar",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/ukrainian-strikes-on-russian-energy-disrupt-grain-exports-fuel-costs-soar/",
-        "published": "2026-07-17T19:32:07Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Sixth Day of US, Iran Counterattacks Puts Ceasefire Out of Reach",
-        "source": "Military.com",
-        "url": "https://military.com/sixth-day-of-us-iran-counterattacks-puts-ceasefire-out-of-reach",
-        "published": "2026-07-17T19:28:54Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "ConocoPhillips Joins US Firms Vowing $60 Billion for Iraqi Deals",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/conocophillips-joins-us-firms-vowing-60-billion-for-iraqi-deals",
-        "published": "2026-07-17T19:08:28Z",
+        "title": "US oil firms sign deals with Iraq to develop alternative shipping routes",
+        "source": "Winnipeg Free Press",
+        "url": "http://www.winnipegfreepress.com/business/2026/07/17/us-oil-firms-sign-deals-with-iraq-to-develop-alternative-shipping-routes",
+        "published": "2026-07-17T20:16:05Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Strikes on infrastructure by Iran and U.S. raise fears of escalation in war",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/iran-us-war-infrastructure-attack-9.7274603",
+        "published": "2026-07-17T20:10:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Strikes on infrastructure by Iran and U.S. raise fears of escalation in war",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/iran-us-insfrastructure-attack-9.7274603",
+        "published": "2026-07-17T20:10:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Report: U.S. Airstrikes Expand to Bridges, Railroads, and Airports in Southern Iran",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/07/17/report-u-s-airstrikes-expand-bridges-railroads-airports-southern-iran/",
+        "published": "2026-07-17T20:04:22Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
