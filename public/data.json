@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T16:28:52.959Z",
+    "generated_at": "2026-07-18T17:35:58.178Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump's 60-day Iran deal reaches halfway mark as ceasefire collapses into escalating war",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/trumps-60-day-iran-deal-reaches-halfway-mark-ceasefire-collapses-escalating-war",
+        "published": "2026-07-17T17:11:32Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil prices may actually be driving the U.S. Iran war",
+        "source": "BNNBloomberg.ca",
+        "url": "https://www.bnnbloomberg.ca/business/2026/07/17/the-cheaper-oil-gets-the-more-us-iran-war-could-escalate-says-expert/",
+        "published": "2026-07-17T17:05:21Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/07/17/nx-s1-5884849/us-iran-strait-hormuz-global-shipping-risk",
+        "published": "2026-07-17T16:50:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Select Accts: 60-Ct Sports Research 12mg Triple Strength Astaxanthin Softgels $14.55 w/ S&S",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19769262-select-accounts-60-count-sports-research-12mg-triple-strength-astaxanthin-softgels-14-55-w-s-s-free-shipping-w-prime-or-on-35",
+        "published": "2026-07-17T16:30:32Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US missile strike on Iranian oil tanker near Kharg Island rattles energy markets, ripples into crypto",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/us-missile-strike-iran-oil-tanker-crypto-impact/",
         "published": "2026-07-17T15:39:17Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Bull market remains historically strong despite recent tech stock pain: Chart",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/article/bull-market-remains-historically-strong-despite-recent-tech-stock-pain-chart-152657879.html",
-        "published": "2026-07-17T15:26:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US forces destroy Iranian surveillance tower at Chabahar port for the third time",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-forces-destroy-iran-chabahar-surveillance-tower/",
-        "published": "2026-07-17T15:13:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US, Iran Each Attack Infrastructure in Risky Escalation",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/us-iran-each-attack-infrastructure-in-risky-escalation/",
-        "published": "2026-07-17T15:11:02Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "EU Softens Carbon Market to Ease Pressure on Industry",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/eu-softens-carbon-market-to-ease-pressure-on-industry/",
-        "published": "2026-07-17T15:08:57Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
