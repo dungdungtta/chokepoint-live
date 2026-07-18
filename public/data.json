@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T22:00:35.746Z",
+    "generated_at": "2026-07-18T23:12:17.591Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "US oil firms sign deals with Iraq to develop alternative shipping routes",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/us-oil-firms-sign-deals-iraq-develop-alternative-134859838",
-        "published": "2026-07-17T21:51:47Z",
+        "title": "New US Attacks On Roads, Bridges Reported As Iran Hits Back At Gulf States",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/iran-attacks-hormuz-infrastructure-centcom-jets/33806044.html",
+        "published": "2026-07-17T23:07:48Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "IRGC claims strikes on US drone depot and AI hub in Bahrain",
+        "source": "RT",
+        "url": "https://www.rt.com/news/643193-iran-us-drone-ai-bahrain/",
+        "published": "2026-07-17T22:59:49Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Are Retailers Paying Too Much in Ocean Fuel Surcharges? New Analysis Suggests They Could Be.",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/retailers-ocean-fuel-surcharges-costs-vesselbot-benchmark-carriers-bunker-fees-1239074442/",
+        "published": "2026-07-17T22:31:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "1966 Plymouth Satellite Hardtop 426 Hemi",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1966-plymouth-satellite-23/",
-        "published": "2026-07-17T21:10:15Z",
-        "sentiment": "watch"
+        "title": "Iran Warns of Blocking Regional Oil Exports After Claiming Strike on U.S. Navy in Bahrain",
+        "source": "Shtfplan.com",
+        "url": "https://www.shtfplan.com/war/iran-warns-of-blocking-regional-oil-exports-after-claiming-strike-on-u-s-navy-in-bahrain",
+        "published": "2026-07-17T22:30:29Z",
+        "sentiment": "danger"
       },
       {
-        "title": "1969 Shelby GT500 Fastback 4-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1969-shelby-gt500-3/",
-        "published": "2026-07-17T21:05:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Suspected Somali pirates seize tanker near Yemen amid wave of hijackings",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/17/suspected-somali-pirates-seize-tanker-near-yemen-amid-wave-of-hijackings",
-        "published": "2026-07-17T20:57:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US oil firms sign deals with Iraq to develop alternative shipping routes",
-        "source": "Winnipeg Free Press",
-        "url": "http://www.winnipegfreepress.com/business/2026/07/17/us-oil-firms-sign-deals-with-iraq-to-develop-alternative-shipping-routes",
-        "published": "2026-07-17T20:16:05Z",
-        "sentiment": "watch"
+        "title": "Reopening Hormuz Strait Easier Than Restoring Confidence, Naval Analyst Tallis Says",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/hormuz-strait-confidence-naval-tallis-us-iran/33805855.html",
+        "published": "2026-07-17T22:28:06Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
