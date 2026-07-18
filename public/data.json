@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T08:24:56.609Z",
+    "generated_at": "2026-07-18T10:02:06.464Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Strait of Hormuz transits drop as US and Iran escalate attacks across Gulf",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/strait-of-hormuz-transits-drop-as-us-and-iran-escalate-attacks-across-gulf/article71233158.ece",
-        "published": "2026-07-17T08:24:10Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US, Iran trade attacks in return to full-blown war",
-        "source": "The Punch",
-        "url": "https://punchng.com/us-iran-trade-attacks-in-return-to-full-blown-war/",
-        "published": "2026-07-17T08:01:34Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Unearthing the Ground: Architecture and the Politics of Extraction",
-        "source": "ArchDaily",
-        "url": "https://www.archdaily.com/1042864/unearthing-the-ground-architecture-and-the-politics-of-extraction",
-        "published": "2026-07-17T07:30:00Z",
+        "title": "Gulf exporters turn to pipelines as Hormuz risks grow",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/us-iran-crisis-puts-gulf-oil-and-gas-routes-beyond-the-strait-of-hormuz-at-risk/a-77980704",
+        "published": "2026-07-17T09:53:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US military strike destroys maritime control tower at Iran’s Chabahar port",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-military-strike-destroys-maritime-control-tower-at-irans-chabahar-port/",
-        "published": "2026-07-17T07:23:20Z",
+        "title": "Current price of oil as of July 17, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-07-17-2026/",
+        "published": "2026-07-17T09:50:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran War: US Sixth Wave of Escalation Strikes Hits Bridges, Civilian Infrastructure, More Promised Next Week; Iran Hits Bahrain Refinery, Signaling Ability to Destroy Gulf Energy Assets; Closure of Bab el-Mandeb Strait Expected",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/07/iran-war-us-sixth-wave-of-escalation-strikes-hits-bridges-civilian-infrastructure-more-promised-next-week-iran-hits-bahrain-refinery-signaling-ability-to-destroy-gulf-energy-assets-closure-of-ba.html",
+        "published": "2026-07-17T09:18:18Z",
         "sentiment": "danger"
       },
       {
-        "title": "US strikes Iran as Tehran warns of Mideast reprisals",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/07/us-strikes-iran-as-tehran-warns-of-mideast-reprisals/",
-        "published": "2026-07-17T07:14:49Z",
-        "sentiment": "danger"
+        "title": "Ukraine decimates Putin's shadow-fleet: Sea of Azov becomes Russian shipping graveyard as Kyiv his 116 vessels hit in week-long drone onslaught",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15984441/Ukraine-decimates-Putins-shadow-fleet-Sea-Azov-Russian-shipping-graveyard-Kyiv-116-vessels-hit-week-long-drone-onslaught.html",
+        "published": "2026-07-17T09:06:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil tanker hit near CPC terminal in Black Sea amid Russia-Ukraine tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oil-tanker-hit-near-cpc-terminal-in-black-sea-amid-russia-ukraine-tensions/",
+        "published": "2026-07-17T09:05:24Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Hawaii becomes strategic launch site for B-2 bombers with hot-pit refueling",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/hawaii-becomes-strategic-launch-site-for-b-2-bombers-with-hot-pit-refueling/",
+        "published": "2026-07-17T09:03:51Z",
+        "sentiment": "watch"
+      },
       {
         "title": "ETMarkets Smart Talk | India’s indirect AI play could create wealth in power, data centres and capital goods: Hiren Ved",
         "source": "The Times of India",
@@ -89,13 +96,6 @@
         "source": "Freerepublic.com",
         "url": "https://freerepublic.com/focus/f-chat/4388058/posts",
         "published": "2026-07-15T14:56:55Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump’s illegal war against Iran RESUMES, burdening Americans and draining military resources",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-15-trumps-illegal-war-against-iran-resumes-burdening-americans-and-draining-military-resources.html",
-        "published": "2026-07-15T06:00:00Z",
         "sentiment": "danger"
       }
     ],
