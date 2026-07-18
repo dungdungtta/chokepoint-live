@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T10:02:06.464Z",
+    "generated_at": "2026-07-18T11:18:30.074Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Gulf exporters turn to pipelines as Hormuz risks grow",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/us-iran-crisis-puts-gulf-oil-and-gas-routes-beyond-the-strait-of-hormuz-at-risk/a-77980704",
-        "published": "2026-07-17T09:53:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Current price of oil as of July 17, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-07-17-2026/",
-        "published": "2026-07-17T09:50:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran War: US Sixth Wave of Escalation Strikes Hits Bridges, Civilian Infrastructure, More Promised Next Week; Iran Hits Bahrain Refinery, Signaling Ability to Destroy Gulf Energy Assets; Closure of Bab el-Mandeb Strait Expected",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/07/iran-war-us-sixth-wave-of-escalation-strikes-hits-bridges-civilian-infrastructure-more-promised-next-week-iran-hits-bahrain-refinery-signaling-ability-to-destroy-gulf-energy-assets-closure-of-ba.html",
-        "published": "2026-07-17T09:18:18Z",
+        "title": "U.S. strikes bridges in Iran, Tehran targets U.S. bases in the Gulf",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
+        "published": "2026-07-17T11:13:58Z",
         "sentiment": "danger"
       },
       {
-        "title": "Ukraine decimates Putin's shadow-fleet: Sea of Azov becomes Russian shipping graveyard as Kyiv his 116 vessels hit in week-long drone onslaught",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15984441/Ukraine-decimates-Putins-shadow-fleet-Sea-Azov-Russian-shipping-graveyard-Kyiv-116-vessels-hit-week-long-drone-onslaught.html",
-        "published": "2026-07-17T09:06:02Z",
+        "title": "Cutting excise duties on petrol and diesel is the wrong approach, EU commissioner warns",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/europe/2026/07/17/cutting-excise-duties-on-petrol-and-diesel-is-the-wrong-approach-eu-commissioner-warns/",
+        "published": "2026-07-17T11:01:48Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil prices rise as US-Iran hostilities threaten major shipping routes",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/238748cad1897d12",
+        "published": "2026-07-17T11:00:50Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Pirates allegedly hijack chemical tanker off Yemen coast in Gulf of Aden: Report",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/pirates-allegedly-hijack-chemical-tanker-off-yemen-coast-in-gulf-of-aden-report/articleshow/132458848.cms",
+        "published": "2026-07-17T10:39:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil tanker hit near CPC terminal in Black Sea amid Russia-Ukraine tensions",
+        "title": "Bond investors demand highest compensation since October 2022 for Middle Eastern governments amid US-Iran tensions",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-tanker-hit-near-cpc-terminal-in-black-sea-amid-russia-ukraine-tensions/",
-        "published": "2026-07-17T09:05:24Z",
+        "url": "https://cryptobriefing.com/middle-east-bond-spreads-widen-iran-tensions/",
+        "published": "2026-07-17T10:29:13Z",
         "sentiment": "watch"
       }
     ],
