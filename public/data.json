@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T14:02:46.381Z",
+    "generated_at": "2026-07-18T15:16:30.243Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,76 +27,76 @@
   "news": {
     "hormuz": [
       {
-        "title": "US, Iran Each Attack Infrastructure in Risky Escalation of Conflict",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/07/17/878039.htm",
-        "published": "2026-07-17T13:56:34Z",
-        "sentiment": "danger"
+        "title": "US forces destroy Iranian surveillance tower at Chabahar port for the third time",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-forces-destroy-iran-chabahar-surveillance-tower/",
+        "published": "2026-07-17T15:13:59Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Suspected Pirates Seize Tanker Off Yemen Coast in Gulf of Aden, Sources Say",
+        "title": "US, Iran Each Attack Infrastructure in Risky Escalation",
         "source": "gcaptain.com",
-        "url": "https://gcaptain.com/suspected-pirates-seize-tanker-off-yemen-coast-in-gulf-of-aden-sources-say/",
-        "published": "2026-07-17T13:53:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Geopolitical Risk Premium Returns as Crude Posts Biggest Weekly Gain in Months",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Geopolitical-Risk-Premium-Returns-as-Crude-Posts-Biggest-Weekly-Gain-in-Months.html",
-        "published": "2026-07-17T13:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran Expands Oil Chokepoint Threat as Houthis Eye Red Sea Shipping",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Iran-Expands-Oil-Chokepoint-Threat-as-Houthis-Eye-Red-Sea-Shipping.html",
-        "published": "2026-07-17T13:30:00Z",
+        "url": "https://gcaptain.com/us-iran-each-attack-infrastructure-in-risky-escalation/",
+        "published": "2026-07-17T15:11:02Z",
         "sentiment": "danger"
       },
       {
-        "title": "Baghdad Bets on Syria and Turkey Pipelines to Secure Oil Exports",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Baghdad-Bets-on-Syria-and-Turkey-Pipelines-to-Secure-Oil-Exports.html",
-        "published": "2026-07-17T13:30:00Z",
+        "title": "EU Softens Carbon Market to Ease Pressure on Industry",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/eu-softens-carbon-market-to-ease-pressure-on-industry/",
+        "published": "2026-07-17T15:08:57Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Trump Confronts Limits to US Power to Secure Strait of Hormuz",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/trump-confronts-limits-to-us-power-to-secure-strait-of-hormuz/",
+        "published": "2026-07-17T15:08:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US airstrikes hit Iran’s Bushehr port city as crypto markets barely flinch",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-airstrikes-iran-bushehr-crypto-markets/",
+        "published": "2026-07-17T15:06:44Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "The EU’s Contradictory Narratives on China",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/07/the-eus-contradictory-narratives-on-china/",
+        "published": "2026-07-17T14:55:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Is Taiwan Pinning Its Strategy on an Outdated Vision of America?",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/07/is-taiwan-pinning-its-strategy-on-an-outdated-vision-of-america/",
+        "published": "2026-07-17T14:34:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S.-China Relations Are More Volatile Than Ever",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/07/17/china-united-states-diplomacy-trump-xi-taiwan-stability-chaos-rivalry-partnership/",
+        "published": "2026-07-17T14:15:08Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Papua New Guinea Just Closed Taiwan’s Economic Office",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/07/papua-new-guinea-just-closed-taiwans-economic-office/",
+        "published": "2026-07-17T14:15:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Hawaii becomes strategic launch site for B-2 bombers with hot-pit refueling",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/hawaii-becomes-strategic-launch-site-for-b-2-bombers-with-hot-pit-refueling/",
         "published": "2026-07-17T09:03:51Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "ETMarkets Smart Talk | India’s indirect AI play could create wealth in power, data centres and capital goods: Hiren Ved",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-indias-indirect-ai-play-could-create-wealth-in-power-data-centres-and-capital-goods-hiren-ved/articleshow/132431395.cms",
-        "published": "2026-07-17T03:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Russia–China vs. US–Australia: Military Build Up. Rival Blocs Race to Secure Asia-Pacific. “Confrontation”?",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/russia-china-vs-us-australia-military-build-up-rival-blocs-race-to-secure-asia-pacific-confrontation/5933463",
-        "published": "2026-07-16T14:13:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S.-led drills forging deterrence network around Taiwan: Scholar",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260716-cna02.htm",
-        "published": "2026-07-16T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "REVEALED: CHINA'S PLAN TO BOMB AMERICAN WARSHIPS",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4388058/posts",
-        "published": "2026-07-15T14:56:55Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
