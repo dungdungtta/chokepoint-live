@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T15:16:30.243Z",
+    "generated_at": "2026-07-18T16:28:52.959Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "US missile strike on Iranian oil tanker near Kharg Island rattles energy markets, ripples into crypto",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-missile-strike-iran-oil-tanker-crypto-impact/",
+        "published": "2026-07-17T15:39:17Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Bull market remains historically strong despite recent tech stock pain: Chart",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/article/bull-market-remains-historically-strong-despite-recent-tech-stock-pain-chart-152657879.html",
+        "published": "2026-07-17T15:26:57Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US forces destroy Iranian surveillance tower at Chabahar port for the third time",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/us-forces-destroy-iran-chabahar-surveillance-tower/",
@@ -46,20 +60,6 @@
         "url": "https://gcaptain.com/eu-softens-carbon-market-to-ease-pressure-on-industry/",
         "published": "2026-07-17T15:08:57Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Trump Confronts Limits to US Power to Secure Strait of Hormuz",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/trump-confronts-limits-to-us-power-to-secure-strait-of-hormuz/",
-        "published": "2026-07-17T15:08:02Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US airstrikes hit Iran’s Bushehr port city as crypto markets barely flinch",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-airstrikes-iran-bushehr-crypto-markets/",
-        "published": "2026-07-17T15:06:44Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
