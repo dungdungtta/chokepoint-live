@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T11:18:30.074Z",
+    "generated_at": "2026-07-18T12:29:38.127Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S. strikes bridges in Iran, Tehran targets U.S. bases in the Gulf",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
-        "published": "2026-07-17T11:13:58Z",
+        "title": "US-Iran war: UN chief calls for new diplomatic push following attacks on civilian areas",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260717-unnews01.htm",
+        "published": "2026-07-17T12:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Cutting excise duties on petrol and diesel is the wrong approach, EU commissioner warns",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/europe/2026/07/17/cutting-excise-duties-on-petrol-and-diesel-is-the-wrong-approach-eu-commissioner-warns/",
-        "published": "2026-07-17T11:01:48Z",
+        "title": "Day 1,605 of WW3. Hungary starts investigating Eraserhead cosplayer and former Foreign Minister for ties to russia. UAF drones keep hitting orc shipping, and Moscow returns 500 bodies they claim are Ukrainian. This is your Friday Ukraine war thread [News]",
+        "source": "Fark.com",
+        "url": "https://www.fark.com/comments/14133746/Day-1605-of-WW3-Hungary-starts-investigating-Eraserhead-cosplayer-former-Foreign-Minister-for-ties-to-russia-UAF-drones-keep-hitting-orc-shipping-Moscow-returns-500-bodies-they-claim-are-Ukrainian-This-is-your-Friday-Ukraine-war-thread",
+        "published": "2026-07-17T12:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil prices rise as US-Iran hostilities threaten major shipping routes",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/238748cad1897d12",
-        "published": "2026-07-17T11:00:50Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Pirates allegedly hijack chemical tanker off Yemen coast in Gulf of Aden: Report",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/pirates-allegedly-hijack-chemical-tanker-off-yemen-coast-in-gulf-of-aden-report/articleshow/132458848.cms",
-        "published": "2026-07-17T10:39:14Z",
+        "title": "Only 3 vessels transit Strait of Hormuz over past 24 hours amid renewed US-Iran hostilities",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260717-azertac01.htm",
+        "published": "2026-07-17T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Bond investors demand highest compensation since October 2022 for Middle Eastern governments amid US-Iran tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/middle-east-bond-spreads-widen-iran-tensions/",
-        "published": "2026-07-17T10:29:13Z",
-        "sentiment": "watch"
+        "title": "Iranians Send Anti-War Message To Hard-Liners With Rare Petition",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260717-rferl02.htm",
+        "published": "2026-07-17T12:00:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
