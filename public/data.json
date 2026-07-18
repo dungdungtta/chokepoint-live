@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T18:38:14.861Z",
+    "generated_at": "2026-07-18T19:53:30.616Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Beyond LNG: Berlin’s red-carpet diplomacy signals a bigger bet on Algeria",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/7/17/beyond-lng-berlins-red-carpet-diplomacy-signals-a-bigger-bet-on-algeria",
-        "published": "2026-07-17T18:28:34Z",
+        "title": "Nikkei Enters Correction as Chip Rout Deepens",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150013.php",
+        "published": "2026-07-17T19:36:59Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil tankers face 'worst case scenario' in Hormuz as Iran steps up attacks on ships, maritime risk CEO says",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/17/iran-war-oil-tanker-strait-hormuz-traffic-attacks-trump.html",
-        "published": "2026-07-17T18:20:37Z",
+        "title": "Ukrainian strikes on Russian energy disrupt grain exports, fuel costs soar",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/ukrainian-strikes-on-russian-energy-disrupt-grain-exports-fuel-costs-soar/",
+        "published": "2026-07-17T19:32:07Z",
         "sentiment": "danger"
       },
       {
-        "title": "Explosions rock Iran’s Bandar Abbas as crypto markets shrug off escalating Gulf tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/bandar-abbas-explosions-crypto-markets-reaction/",
-        "published": "2026-07-17T18:08:15Z",
+        "title": "Sixth Day of US, Iran Counterattacks Puts Ceasefire Out of Reach",
+        "source": "Military.com",
+        "url": "https://military.com/sixth-day-of-us-iran-counterattacks-puts-ceasefire-out-of-reach",
+        "published": "2026-07-17T19:28:54Z",
         "sentiment": "danger"
       },
       {
-        "title": "US airstrike damages IRGC warehouse in Rask as crypto markets feel the heat",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-airstrike-irgc-rask-crypto-impact/",
-        "published": "2026-07-17T18:05:56Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran Revolutionary Guards fire on Thai-flagged ship in Strait of Hormuz, sparking oil surge and crypto toll demands",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-strait-hormuz-ship-attack-crypto-tolls/",
-        "published": "2026-07-17T17:41:21Z",
+        "title": "ConocoPhillips Joins US Firms Vowing $60 Billion for Iraqi Deals",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/conocophillips-joins-us-firms-vowing-60-billion-for-iraqi-deals",
+        "published": "2026-07-17T19:08:28Z",
         "sentiment": "watch"
       }
     ],
