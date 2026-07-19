@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-19T21:02:07.219Z",
+    "generated_at": "2026-07-19T22:10:30.760Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Sanctioned Tanker Is Leaking Oil Near Oman",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/sanctioned-tanker-is-leaking-oil-near-oman/",
+        "published": "2026-07-18T21:48:29Z",
+        "sentiment": "watch"
+      },
       {
         "title": "EU and Persian Gulf states pressure Iran to keep Strait of Hormuz open as crypto toll payments reshape sanctions landscape",
         "source": "Crypto Briefing",
