@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-19T22:10:30.760Z",
+    "generated_at": "2026-07-19T23:13:28.244Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "“Whoever Attacks You, Attack Them In The Same Manner”: Iran’s Revolutionary Guard Warns Gulf States to Expect More Strikes",
+        "source": "Thoughtcatalog.com",
+        "url": "https://thoughtcatalog.com/jeremy-london/2026/07/whoever-attacks-you-attack-them-in-the-same-manner-irans-revolutionary-guard-warns-gulf-states-to-expect-more-strikes/",
+        "published": "2026-07-18T23:01:16Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "U.S. military launches new airstrikes to ‘swiftly punish’ Iran for attack on Jordan that killed American troops",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/18/us-military-airstrikes-punish-iran-attack-jordan-american-troops-deaths/",
+        "published": "2026-07-18T22:46:47Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US Central Command launches airstrikes against Iranian targets as crypto markets feel the heat",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-airstrikes-iran-crypto-market-impact-3/",
+        "published": "2026-07-18T22:24:34Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Sanctioned Tanker Is Leaking Oil Near Oman",
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/sanctioned-tanker-is-leaking-oil-near-oman/",
@@ -39,27 +60,6 @@
         "url": "https://cryptobriefing.com/eu-gulf-states-iran-strait-hormuz-crypto/",
         "published": "2026-07-18T20:16:59Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran just crossed Trump’s red line for resuming all-out war as fighting continues to escalate with no end in sight",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/18/iran-trump-red-line-all-out-war-us-troops-deaths-oil-hormuz/",
-        "published": "2026-07-18T19:55:49Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "America In Focus: US inflation cooled in June, but AI build-out poses latest threat",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/inflation-economy-iran-trump-unemployment-ai-c8ed0b54d80fe1bdaa5edcef671e6608",
-        "published": "2026-07-18T19:02:58Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "SUPREME LEADER WARNING",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/world/irans-supreme-leader-in-a-new-statement-warns-of-unforgettable-lessons-if-u-s-continues-attacks",
-        "published": "2026-07-18T18:28:45Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
