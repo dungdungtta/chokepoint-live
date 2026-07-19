@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-19T06:39:46.998Z",
+    "generated_at": "2026-07-19T08:58:10.281Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Amid elections, Sao Tome and Principe balances global powers",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/amid-elections-sao-tome-and-principe-balances-global-powers/a-77884067",
-        "published": "2026-07-18T06:02:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. and Iran escalate strikes across Mideast",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
-        "published": "2026-07-18T06:01:20Z",
+        "title": "Kuwait says Iran has struck a water desalination plant, the second such attack in 2 days",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/kuwait-says-iran-has-struck-a-water-desalination-plant-the-second-such-attack-in-2-days/articleshow/132476620.cms",
+        "published": "2026-07-18T08:38:24Z",
         "sentiment": "danger"
       },
       {
-        "title": "China’s Oil Imports Plunge 40% as Conflict Flares in Strait of Hormuz",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-18-china-oil-imports-plunge-conflict-flares-in-hormuz.html",
-        "published": "2026-07-18T06:00:00Z",
+        "title": "Trump may have to choose between an endless quagmire and ceding the Strait of Hormuz to Iran",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/18/trump-choose-endless-quagmire-ceding-strait-hormuz-iran/",
+        "published": "2026-07-18T08:07:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US warns Americans to reconsider Middle East travel amid rising tensions",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-warns-americans-to-reconsider-middle-east-travel-amid-rising-tensions/articleshow/132474296.cms",
-        "published": "2026-07-18T05:17:46Z",
+        "title": "Trump may have to choose between an endless quagmire and ceding the Strait of Hormuz to Iran",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-may-choose-between-endless-080700006.html",
+        "published": "2026-07-18T08:07:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran renews attacks on Gulf states after another night of US strikes",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/07/18/us-iran-war-latest-news/",
+        "published": "2026-07-18T07:59:32Z",
         "sentiment": "danger"
       }
     ],
