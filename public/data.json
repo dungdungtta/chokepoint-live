@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-19T11:43:47.140Z",
+    "generated_at": "2026-07-19T12:40:09.722Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Tensions escalate as Iran and U.S. continue to exchange strikes",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/iran-us-war-gulf-9.7275317",
+        "published": "2026-07-18T12:22:58Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "U.S. And Iran Trade Strikes Over Strait Of Hormuz. Kuwait Suffers Infrastructure Damage",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/us-iran-trade-strikes-over-strait-of-hormuz-kuwait-suffers-infrastructure-damage_n_6a5b69d7e4b0dbc7658797de",
+        "published": "2026-07-18T12:19:52Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "EU's 'Swiss Cheese' Russian Sanctions Package Exposes Persistent Divisions",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/07/russia-260718-rferl01.htm",
+        "published": "2026-07-18T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Cancellation of a Blue Hydrogen Boondoggle Proves No Project Is Inevitable",
+        "source": "Ciel.org",
+        "url": "https://www.ciel.org/air-products-louisiana-blue-hydrogen-and-ammonia-project-canceled/",
+        "published": "2026-07-18T11:47:01Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran Renews Attacks on Gulf States After Another Night of US strikes",
         "source": "Insurance Journal",
         "url": "https://www.insurancejournal.com/news/international/2026/07/18/878126.htm",
         "published": "2026-07-18T11:25:30Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Links 7/18/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/07/links-7-18-2026.html",
-        "published": "2026-07-18T10:59:37Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "EU's 'Swiss Cheese' Russian Sanctions Package Exposes Persistent Divisions",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/eu-watered-down-emmental-russia-sanctions-package/33806031.html",
-        "published": "2026-07-18T10:45:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The US and Iran have blown past red lines as they lurch back toward all-out war",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/us-iran-blown-past-red-lines-lurch-back-134870539",
-        "published": "2026-07-18T10:41:23Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Majority of Canadians support both pipelines, but Alberta-B.C. project is favoured: poll",
-        "source": "National Post",
-        "url": "https://nationalpost.com/news/canada/most-canadians-support-oil-pipelines-poll",
-        "published": "2026-07-18T10:00:06Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
