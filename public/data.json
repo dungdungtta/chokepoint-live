@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-19T00:12:17.927Z",
+    "generated_at": "2026-07-19T03:59:04.125Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S. to send refueling aircraft to Israel amid Iran escalation fears",
-        "source": "Haaretz",
-        "url": "https://www.haaretz.com/israel-news/israel-security/2026-07-18/ty-article/u-s-to-send-refueling-aircraft-to-israel-amid-iran-escalation-fears/0000019f-71f0-d784-abff-fff6ec8c0000",
-        "published": "2026-07-18T00:00:34Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran-US tensions disrupt Strait of Hormuz, Brent oil jumps 5% to $85.58",
+        "title": "Iran may impose Strait of Hormuz transit fees by August 31, 2026",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-us-tensions-disrupt-strait-of-hormuz-brent-oil-jumps-5-to-8558/",
-        "published": "2026-07-17T23:37:43Z",
+        "url": "https://cryptobriefing.com/iran-may-impose-strait-of-hormuz-transit-fees-by-august-31-2026/",
+        "published": "2026-07-18T03:58:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "Shipping in Straight of Hormuz under attack as US-Iran conflict heightens",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-07-18/us-and-iran-attack-civilian-infrastructure-in-latest-strikes/106931002",
-        "published": "2026-07-17T23:21:59Z",
+        "title": "US firms sign $60 billion Iraq deals to develop oil routes beyond Strait of Hormuz",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/us-firms-sign-60-billion-iraq-deals-to-develop-oil-routes-beyond-strait-of-hormuz/article71236916.ece",
+        "published": "2026-07-18T02:40:33Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US launches seventh straight night of attacks on Iran; bridges, water plant hit",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/us-launches-seventh-straight-night-of-attacks-on-iran-bridges-water-plant-hit/article71236914.ece",
+        "published": "2026-07-18T01:30:55Z",
         "sentiment": "danger"
       },
       {
-        "title": "New US Attacks On Roads, Bridges Reported As Iran Hits Back At Gulf States",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/iran-attacks-hormuz-infrastructure-centcom-jets/33806044.html",
-        "published": "2026-07-17T23:07:48Z",
-        "sentiment": "danger"
+        "title": "US forces target site near Jask, Iran amid 2026 tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-forces-target-site-near-jask-iran-amid-2026-tensions/",
+        "published": "2026-07-18T01:24:46Z",
+        "sentiment": "watch"
       },
       {
-        "title": "IRGC claims strikes on US drone depot and AI hub in Bahrain",
-        "source": "RT",
-        "url": "https://www.rt.com/news/643193-iran-us-drone-ai-bahrain/",
-        "published": "2026-07-17T22:59:49Z",
+        "title": "US strikes hit Iran for seventh consecutive night",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro",
+        "published": "2026-07-18T01:16:11Z",
         "sentiment": "danger"
       }
     ],
