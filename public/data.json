@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-19T17:35:59.143Z",
+    "generated_at": "2026-07-19T18:40:26.232Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -28,37 +28,30 @@
     "hormuz": [
       {
         "title": "SUPREME LEADER WARNING",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-18-2026-5adfef67554652580963684d9a663af2",
-        "published": "2026-07-18T17:22:36Z",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/world/irans-supreme-leader-in-a-new-statement-warns-of-unforgettable-lessons-if-u-s-continues-attacks",
+        "published": "2026-07-18T18:28:45Z",
         "sentiment": "danger"
       },
       {
-        "title": "Bitcoin is trading through a dangerous weekend as 20% of the world’s oil hangs in the balance",
-        "source": "CryptoSlate",
-        "url": "https://cryptoslate.com/bitcoin-is-trading-through-a-dangerous-weekend-as-20-of-the-worlds-oil-hangs-in-the-balance/",
-        "published": "2026-07-18T17:00:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What to expect after the US reimposes naval blockade on Iran’s ports?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports",
-        "published": "2026-07-18T16:47:14Z",
+        "title": "Two U.S. troops are dead and another is missing after Iran attacks a base in Jordan as supreme leader calls Trump’s signature ‘worthless and invalid’",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/18/us-troops-killed-missing-iran-attacks-base-jordan-supreme-leader-trump/",
+        "published": "2026-07-18T18:02:42Z",
         "sentiment": "danger"
       },
       {
-        "title": "1956 Morgan Plus 4 Project at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1956-morgan-plus-4-7/",
-        "published": "2026-07-18T16:21:17Z",
+        "title": "13 claims we've investigated involving Strait of Hormuz",
+        "source": "Snopes.com",
+        "url": "https://www.snopes.com/collections/strait-of-hormuz-iran-war-collection/",
+        "published": "2026-07-18T18:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Exxon-Chartered Oil Tanker Attacked By Drones Near Black Sea Terminal",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/exxon-chartered-oil-tanker-attacked-by-drones-near-black-sea-terminal/",
-        "published": "2026-07-18T16:18:55Z",
+        "title": "Iran's supreme leader warns of 'unforgettable lessons' if US continues attacks",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/irans-supreme-leader-warns-of-unforgettable-lessons-if-us-continues-attacks/articleshow/132484915.cms",
+        "published": "2026-07-18T17:48:50Z",
         "sentiment": "danger"
       }
     ],
