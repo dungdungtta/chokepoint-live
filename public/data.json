@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-19T15:26:57.472Z",
+    "generated_at": "2026-07-19T16:29:01.516Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "1956 Morgan Plus 4 Project at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1956-morgan-plus-4-7/",
+        "published": "2026-07-18T16:21:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Exxon-Chartered Oil Tanker Attacked By Drones Near Black Sea Terminal",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/exxon-chartered-oil-tanker-attacked-by-drones-near-black-sea-terminal/",
+        "published": "2026-07-18T16:18:55Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Why oil inventories matter more than ever",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/portfolio/big-story/why-oil-inventories-matter-more-than-ever/article71234902.ece",
+        "published": "2026-07-18T15:46:51Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Thousands Of Trucks Haul Iraq’s Oil Through Syria In Sign Of Hormuz Legacy",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/thousands-of-trucks-haul-iraqs-oil-through-syria-in-sign-of-hormuz-legacy/",
+        "published": "2026-07-18T15:37:05Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran says it is suspending commitments to interim deal with US as they exchange attacks",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-it-is-suspending-commitments-to-interim-deal-with-us-as-they-exchange-attacks/articleshow/132482693.cms",
         "published": "2026-07-18T15:24:32Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Iraq signs 48 deals with US companies during PM’s visit to Washington",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington",
-        "published": "2026-07-18T14:23:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran says it is suspending commitments to interim deal with US as the two exchange attacks",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/iran-suspending-commitments-interim-deal-us-exchange-attacks-134869749",
-        "published": "2026-07-18T14:10:40Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Desalination plants, a vital source of Mideast drinking water, come under attack as renewed U.S.-Iran war escalates to target infrastructure",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/18/desalination-plants-mideast-drinking-water-under-attack-us-iran-war-infrastructure/",
-        "published": "2026-07-18T14:09:32Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "France pulled $15B in gold from US vaults, and more European countries may follow. Is a global currency shift coming?",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/commodities/articles/france-pulled-15b-gold-us-134500746.html",
-        "published": "2026-07-18T13:45:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
