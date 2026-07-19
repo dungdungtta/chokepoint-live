@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T23:12:17.591Z",
+    "generated_at": "2026-07-19T00:12:17.927Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "U.S. to send refueling aircraft to Israel amid Iran escalation fears",
+        "source": "Haaretz",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-07-18/ty-article/u-s-to-send-refueling-aircraft-to-israel-amid-iran-escalation-fears/0000019f-71f0-d784-abff-fff6ec8c0000",
+        "published": "2026-07-18T00:00:34Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran-US tensions disrupt Strait of Hormuz, Brent oil jumps 5% to $85.58",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-us-tensions-disrupt-strait-of-hormuz-brent-oil-jumps-5-to-8558/",
+        "published": "2026-07-17T23:37:43Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Shipping in Straight of Hormuz under attack as US-Iran conflict heightens",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-07-18/us-and-iran-attack-civilian-infrastructure-in-latest-strikes/106931002",
+        "published": "2026-07-17T23:21:59Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "New US Attacks On Roads, Bridges Reported As Iran Hits Back At Gulf States",
         "source": "Radio Free Europe/ Radio Liberty",
         "url": "https://www.rferl.org/a/iran-attacks-hormuz-infrastructure-centcom-jets/33806044.html",
@@ -39,27 +60,6 @@
         "url": "https://www.rt.com/news/643193-iran-us-drone-ai-bahrain/",
         "published": "2026-07-17T22:59:49Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Are Retailers Paying Too Much in Ocean Fuel Surcharges? New Analysis Suggests They Could Be.",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/retailers-ocean-fuel-surcharges-costs-vesselbot-benchmark-carriers-bunker-fees-1239074442/",
-        "published": "2026-07-17T22:31:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran Warns of Blocking Regional Oil Exports After Claiming Strike on U.S. Navy in Bahrain",
-        "source": "Shtfplan.com",
-        "url": "https://www.shtfplan.com/war/iran-warns-of-blocking-regional-oil-exports-after-claiming-strike-on-u-s-navy-in-bahrain",
-        "published": "2026-07-17T22:30:29Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Reopening Hormuz Strait Easier Than Restoring Confidence, Naval Analyst Tallis Says",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/hormuz-strait-confidence-naval-tallis-us-iran/33805855.html",
-        "published": "2026-07-17T22:28:06Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
