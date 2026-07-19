@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-19T08:58:10.281Z",
+    "generated_at": "2026-07-19T10:40:30.982Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Kuwait says Iran has struck a water desalination plant, the second such attack in 2 days",
+        "title": "Majority of Canadians support both pipelines, but Alberta-B.C. project is favoured: poll",
+        "source": "National Post",
+        "url": "https://nationalpost.com/news/canada/most-canadians-support-oil-pipelines-poll",
+        "published": "2026-07-18T10:00:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump targets Iran's infrastructure in bid to squeeze regime",
+        "source": "The Hill",
+        "url": "https://thehill.com/policy/defense/5975693-us-military-widens-iran-strikes/",
+        "published": "2026-07-18T10:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US and Iran exchange strikes as they struggle over Strait of Hormuz",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/kuwait-says-iran-has-struck-a-water-desalination-plant-the-second-such-attack-in-2-days/articleshow/132476620.cms",
-        "published": "2026-07-18T08:38:24Z",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-and-iran-exchange-strikes-as-they-struggle-over-strait-of-hormuz/articleshow/132477414.cms",
+        "published": "2026-07-18T09:42:09Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump may have to choose between an endless quagmire and ceding the Strait of Hormuz to Iran",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/18/trump-choose-endless-quagmire-ceding-strait-hormuz-iran/",
-        "published": "2026-07-18T08:07:00Z",
-        "sentiment": "watch"
+        "title": "Reopening Hormuz Strait Easier Than Restoring Confidence, Naval Analyst Tallis Says",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260718-rferl01.htm",
+        "published": "2026-07-18T09:40:54Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Trump may have to choose between an endless quagmire and ceding the Strait of Hormuz to Iran",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-may-choose-between-endless-080700006.html",
-        "published": "2026-07-18T08:07:00Z",
+        "title": "Hormuz Shipping Comes To Near Halt Amid Latest Flareup Of Violence",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260718-rferl02.htm",
+        "published": "2026-07-18T09:40:54Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran renews attacks on Gulf states after another night of US strikes",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/07/18/us-iran-war-latest-news/",
-        "published": "2026-07-18T07:59:32Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Michael Hudson with Radhika Desai: We’re Headed for a Depression Worse Than 2008",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/07/michael-hudson-with-radhika-desai-were-headed-for-a-depression-worse-than-2008.html",
+        "published": "2026-07-18T09:00:35Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The EU’s Contradictory Narratives on China",
         "source": "The Diplomat",
@@ -82,13 +96,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/07/papua-new-guinea-just-closed-taiwans-economic-office/",
         "published": "2026-07-17T14:15:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hawaii becomes strategic launch site for B-2 bombers with hot-pit refueling",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/hawaii-becomes-strategic-launch-site-for-b-2-bombers-with-hot-pit-refueling/",
-        "published": "2026-07-17T09:03:51Z",
         "sentiment": "watch"
       }
     ],
