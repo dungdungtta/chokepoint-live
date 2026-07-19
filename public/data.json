@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-19T12:40:09.722Z",
+    "generated_at": "2026-07-19T14:14:13.060Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Tensions escalate as Iran and U.S. continue to exchange strikes",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/iran-us-war-gulf-9.7275317",
-        "published": "2026-07-18T12:22:58Z",
+        "title": "Iran says it is suspending commitments to interim deal with US as the two exchange attacks",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/iran-suspending-commitments-interim-deal-us-exchange-attacks-134869749",
+        "published": "2026-07-18T14:10:40Z",
         "sentiment": "danger"
       },
       {
-        "title": "U.S. And Iran Trade Strikes Over Strait Of Hormuz. Kuwait Suffers Infrastructure Damage",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/us-iran-trade-strikes-over-strait-of-hormuz-kuwait-suffers-infrastructure-damage_n_6a5b69d7e4b0dbc7658797de",
-        "published": "2026-07-18T12:19:52Z",
+        "title": "Desalination plants, a vital source of Mideast drinking water, come under attack as renewed U.S.-Iran war escalates to target infrastructure",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/18/desalination-plants-mideast-drinking-water-under-attack-us-iran-war-infrastructure/",
+        "published": "2026-07-18T14:09:32Z",
         "sentiment": "danger"
       },
       {
-        "title": "EU's 'Swiss Cheese' Russian Sanctions Package Exposes Persistent Divisions",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/07/russia-260718-rferl01.htm",
-        "published": "2026-07-18T12:00:00Z",
+        "title": "France pulled $15B in gold from US vaults, and more European countries may follow. Is a global currency shift coming?",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/commodities/articles/france-pulled-15b-gold-us-134500746.html",
+        "published": "2026-07-18T13:45:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Cancellation of a Blue Hydrogen Boondoggle Proves No Project Is Inevitable",
-        "source": "Ciel.org",
-        "url": "https://www.ciel.org/air-products-louisiana-blue-hydrogen-and-ammonia-project-canceled/",
-        "published": "2026-07-18T11:47:01Z",
-        "sentiment": "watch"
+        "title": "Iranian ballistic missiles strike Kuwait security academy as Gulf conflict rattles crypto markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-missiles-kuwait-crypto-markets-impact/",
+        "published": "2026-07-18T13:35:07Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Iran Renews Attacks on Gulf States After Another Night of US strikes",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/07/18/878126.htm",
-        "published": "2026-07-18T11:25:30Z",
-        "sentiment": "danger"
+        "title": "Iraq signs deals with Western oil firms, including to revive Syria pipeline - Al Jazeera",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184503070",
+        "published": "2026-07-18T13:32:38Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
