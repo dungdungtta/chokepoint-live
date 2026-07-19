@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-19T14:14:13.060Z",
+    "generated_at": "2026-07-19T15:26:57.472Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran says it is suspending commitments to interim deal with US as they exchange attacks",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-it-is-suspending-commitments-to-interim-deal-with-us-as-they-exchange-attacks/articleshow/132482693.cms",
+        "published": "2026-07-18T15:24:32Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iraq signs 48 deals with US companies during PM’s visit to Washington",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington",
+        "published": "2026-07-18T14:23:33Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran says it is suspending commitments to interim deal with US as the two exchange attacks",
         "source": "Abcnews.com",
         "url": "https://abcnews.com/International/wireStory/iran-suspending-commitments-interim-deal-us-exchange-attacks-134869749",
@@ -45,20 +59,6 @@
         "source": "Yahoo Entertainment",
         "url": "https://finance.yahoo.com/markets/commodities/articles/france-pulled-15b-gold-us-134500746.html",
         "published": "2026-07-18T13:45:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iranian ballistic missiles strike Kuwait security academy as Gulf conflict rattles crypto markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-missiles-kuwait-crypto-markets-impact/",
-        "published": "2026-07-18T13:35:07Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iraq signs deals with Western oil firms, including to revive Syria pipeline - Al Jazeera",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184503070",
-        "published": "2026-07-18T13:32:38Z",
         "sentiment": "watch"
       }
     ],
