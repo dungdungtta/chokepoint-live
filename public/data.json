@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-19T19:56:28.746Z",
+    "generated_at": "2026-07-19T21:02:07.219Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "EU and Persian Gulf states pressure Iran to keep Strait of Hormuz open as crypto toll payments reshape sanctions landscape",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/eu-gulf-states-iran-strait-hormuz-crypto/",
+        "published": "2026-07-18T20:16:59Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran just crossed Trump’s red line for resuming all-out war as fighting continues to escalate with no end in sight",
         "source": "Fortune",
         "url": "https://fortune.com/2026/07/18/iran-trump-red-line-all-out-war-us-troops-deaths-oil-hormuz/",
@@ -45,13 +52,6 @@
         "source": "PBS",
         "url": "https://www.pbs.org/newshour/world/irans-supreme-leader-in-a-new-statement-warns-of-unforgettable-lessons-if-u-s-continues-attacks",
         "published": "2026-07-18T18:28:45Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Two U.S. troops are dead and another is missing after Iran attacks a base in Jordan as supreme leader calls Trump’s signature ‘worthless and invalid’",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/18/us-troops-killed-missing-iran-attacks-base-jordan-supreme-leader-trump/",
-        "published": "2026-07-18T18:02:42Z",
         "sentiment": "danger"
       }
     ],
