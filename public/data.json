@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-19T16:29:01.516Z",
+    "generated_at": "2026-07-19T17:35:59.143Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "SUPREME LEADER WARNING",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-18-2026-5adfef67554652580963684d9a663af2",
+        "published": "2026-07-18T17:22:36Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Bitcoin is trading through a dangerous weekend as 20% of the world’s oil hangs in the balance",
+        "source": "CryptoSlate",
+        "url": "https://cryptoslate.com/bitcoin-is-trading-through-a-dangerous-weekend-as-20-of-the-worlds-oil-hangs-in-the-balance/",
+        "published": "2026-07-18T17:00:49Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "What to expect after the US reimposes naval blockade on Iran’s ports?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports",
+        "published": "2026-07-18T16:47:14Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "1956 Morgan Plus 4 Project at No Reserve",
         "source": "Bringatrailer.com",
         "url": "https://bringatrailer.com/listing/1956-morgan-plus-4-7/",
@@ -38,27 +59,6 @@
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/exxon-chartered-oil-tanker-attacked-by-drones-near-black-sea-terminal/",
         "published": "2026-07-18T16:18:55Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Why oil inventories matter more than ever",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/portfolio/big-story/why-oil-inventories-matter-more-than-ever/article71234902.ece",
-        "published": "2026-07-18T15:46:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Thousands Of Trucks Haul Iraq’s Oil Through Syria In Sign Of Hormuz Legacy",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/thousands-of-trucks-haul-iraqs-oil-through-syria-in-sign-of-hormuz-legacy/",
-        "published": "2026-07-18T15:37:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran says it is suspending commitments to interim deal with US as they exchange attacks",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-it-is-suspending-commitments-to-interim-deal-with-us-as-they-exchange-attacks/articleshow/132482693.cms",
-        "published": "2026-07-18T15:24:32Z",
         "sentiment": "danger"
       }
     ],
