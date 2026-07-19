@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-19T03:59:04.125Z",
+    "generated_at": "2026-07-19T06:39:46.998Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran may impose Strait of Hormuz transit fees by August 31, 2026",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-may-impose-strait-of-hormuz-transit-fees-by-august-31-2026/",
-        "published": "2026-07-18T03:58:08Z",
+        "title": "Amid elections, Sao Tome and Principe balances global powers",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/amid-elections-sao-tome-and-principe-balances-global-powers/a-77884067",
+        "published": "2026-07-18T06:02:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US firms sign $60 billion Iraq deals to develop oil routes beyond Strait of Hormuz",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/us-firms-sign-60-billion-iraq-deals-to-develop-oil-routes-beyond-strait-of-hormuz/article71236916.ece",
-        "published": "2026-07-18T02:40:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US launches seventh straight night of attacks on Iran; bridges, water plant hit",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/us-launches-seventh-straight-night-of-attacks-on-iran-bridges-water-plant-hit/article71236914.ece",
-        "published": "2026-07-18T01:30:55Z",
+        "title": "U.S. and Iran escalate strikes across Mideast",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
+        "published": "2026-07-18T06:01:20Z",
         "sentiment": "danger"
       },
       {
-        "title": "US forces target site near Jask, Iran amid 2026 tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-forces-target-site-near-jask-iran-amid-2026-tensions/",
-        "published": "2026-07-18T01:24:46Z",
+        "title": "China’s Oil Imports Plunge 40% as Conflict Flares in Strait of Hormuz",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-18-china-oil-imports-plunge-conflict-flares-in-hormuz.html",
+        "published": "2026-07-18T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US strikes hit Iran for seventh consecutive night",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro",
-        "published": "2026-07-18T01:16:11Z",
+        "title": "US warns Americans to reconsider Middle East travel amid rising tensions",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-warns-americans-to-reconsider-middle-east-travel-amid-rising-tensions/articleshow/132474296.cms",
+        "published": "2026-07-18T05:17:46Z",
         "sentiment": "danger"
       }
     ],
