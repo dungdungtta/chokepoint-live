@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-20T17:00:22.166Z",
+    "generated_at": "2026-07-20T19:08:38.652Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Caspian Pipeline Consortium Oil Loadings Suspended After Drone Attacks On Tankers",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/caspian-pipeline-consortium-oil-loadings-suspended-after-drone-attacks-on-tankers/",
-        "published": "2026-07-19T16:55:27Z",
+        "title": "Cuba’s Grid Collapses, HHS Uncovers $3.5 Billion Hospice Fraud, AI to Compete with Big Pharma",
+        "source": "Activistpost.com",
+        "url": "https://www.activistpost.com/cubas-grid-collapses-hhs-uncovers-3-5-billion-hospice-fraud-ai-to-compete-with-big-pharma/",
+        "published": "2026-07-19T19:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "War’s Escalation in Iran Is an Attack on Civilians’ Basic Needs",
+        "source": "Mother Jones",
+        "url": "https://www.motherjones.com/politics/2026/07/wars-escalation-in-iran-is-an-attack-on-civilians-basic-needs/",
+        "published": "2026-07-19T18:44:28Z",
         "sentiment": "danger"
       },
       {
-        "title": "US hits under-construction nuke plant in Iran, says furious Tehran: ‘Clear violation’",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/07/19/world-news/us-hits-under-construction-nuke-plant-in-iran-tehran/",
-        "published": "2026-07-19T15:58:47Z",
+        "title": "Ferry capsizes off Guyana leaving 66 people missing",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/ferry-capsizes-guyana-people-missing-7107396-Jul2026/",
+        "published": "2026-07-19T18:38:03Z",
         "sentiment": "watch"
       },
       {
-        "title": "Dash Peanuts Fresh Pop Oil-Free Air Popcorn Popper for $12 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Dash-Peanuts-Fresh-Pop-Oil-Free-Air-Popcorn-Popper-for-12-free-shipping-w-Prime/21912610.html",
-        "published": "2026-07-19T15:53:49Z",
+        "title": "16-Cup Peanuts DASH Fresh Pop Hot Air Popcorn Maker $12.25",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19781064-16-cup-peanuts-dash-fresh-pop-hot-air-popcorn-maker-12-25",
+        "published": "2026-07-19T18:15:16Z",
         "sentiment": "watch"
       },
       {
-        "title": "Peanuts DASH Fresh Pop Air Popcorn Maker 16 Cup Capacity For $12.25 From Amazon",
-        "source": "Dansdeals.com",
-        "url": "https://www.dansdeals.com/shopping-deals/amazon/peanuts-dash-fresh-pop-air-popcorn-maker-16-cup-capacity-for-12-25-from-amazon/",
-        "published": "2026-07-19T15:52:41Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Algeria seeks larger EU energy role amid regional tensions",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/algeria-seeks-larger-eu-energy-role-amid-regional-tensions/a-78007849",
-        "published": "2026-07-19T15:51:00Z",
-        "sentiment": "watch"
+        "title": "The world is looking ahead toward a post-Iran oil market that offsets most Hormuz volumes in a few years as ships reject a U.S.-backed alternate route",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/19/global-oil-market-post-iran-export-offsets-hormuz-new-pipline-capacity/",
+        "published": "2026-07-19T17:51:03Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
