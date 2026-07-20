@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-20T00:15:21.448Z",
+    "generated_at": "2026-07-20T04:23:24.876Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Nigerians yet to benefit from higher crude prices — Olatide",
-        "source": "The Punch",
-        "url": "https://punchng.com/nigerians-yet-to-benefit-from-higher-crude-prices-olatide/",
-        "published": "2026-07-19T00:09:10Z",
+        "title": "Iran’s Kuwait Water Plant Strike: Oil Prices and Trans-regional War",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/07/kuwait-strike-regional.html",
+        "published": "2026-07-19T04:15:19Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "U.S. Renews Strikes On Iran After Two Military Personnel Killed By Iranian Attack",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/us-strikes-iran_n_6a5c4de6e4b063a1f5f1a3bb",
+        "published": "2026-07-19T04:14:40Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Will Sensex, Nifty extend gains on Monday? Q1 earnings, global tech selloff among 6 factors to steer D-St this week",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-extend-gains-on-monday-q1-earnings-global-tech-selloff-among-6-factors-to-steer-d-st-this-week/articleshow/132489722.cms",
+        "published": "2026-07-19T04:07:40Z",
         "sentiment": "watch"
       },
       {
-        "title": "State Department warns Americans flights may be canceled amid escalating Iran conflict as it issues worldwide travel caution",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15987901/state-department-americans-flights-iran-conflict.html",
-        "published": "2026-07-18T23:44:09Z",
+        "title": "Iran's Warning Shot",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/articles/2026/07/iran-s-warning-shot/",
+        "published": "2026-07-19T04:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "“Whoever Attacks You, Attack Them In The Same Manner”: Iran’s Revolutionary Guard Warns Gulf States to Expect More Strikes",
-        "source": "Thoughtcatalog.com",
-        "url": "https://thoughtcatalog.com/jeremy-london/2026/07/whoever-attacks-you-attack-them-in-the-same-manner-irans-revolutionary-guard-warns-gulf-states-to-expect-more-strikes/",
-        "published": "2026-07-18T23:01:16Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S. military launches new airstrikes to ‘swiftly punish’ Iran for attack on Jordan that killed American troops",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/18/us-military-airstrikes-punish-iran-attack-jordan-american-troops-deaths/",
-        "published": "2026-07-18T22:46:47Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US Central Command launches airstrikes against Iranian targets as crypto markets feel the heat",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-airstrikes-iran-crypto-market-impact-3/",
-        "published": "2026-07-18T22:24:34Z",
-        "sentiment": "danger"
+        "title": "Strange Things Are Happening",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/articles/2026/07/strange-things-are-happening/",
+        "published": "2026-07-19T04:00:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
