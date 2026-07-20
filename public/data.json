@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-20T19:08:38.652Z",
+    "generated_at": "2026-07-20T20:42:17.329Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "U.S. military announces the death of another service member, blaming the ‘controlled detonation’ of a downed Iranian drone in Iraq",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/19/us-military-death-service-member-controlled-detonation-iranian-drone-iraq/",
+        "published": "2026-07-19T20:36:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "[NEW, SnS, AC] $4.95 | Nature Made Extra Strength Omega 3 Fish Oil Supplements, 2800mg, 60 Softgels, 30 Day Supply at Amazon",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19782831-new-sns-ac-4-95-nature-made-extra-strength-omega-3-fish-oil-supplements-2800mg-60-softgels-30-day-supply-at-amazon",
+        "published": "2026-07-19T20:35:43Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Cuba’s Grid Collapses, HHS Uncovers $3.5 Billion Hospice Fraud, AI to Compete with Big Pharma",
         "source": "Activistpost.com",
         "url": "https://www.activistpost.com/cubas-grid-collapses-hhs-uncovers-3-5-billion-hospice-fraud-ai-to-compete-with-big-pharma/",
@@ -46,20 +60,6 @@
         "url": "https://www.thejournal.ie/ferry-capsizes-guyana-people-missing-7107396-Jul2026/",
         "published": "2026-07-19T18:38:03Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "16-Cup Peanuts DASH Fresh Pop Hot Air Popcorn Maker $12.25",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19781064-16-cup-peanuts-dash-fresh-pop-hot-air-popcorn-maker-12-25",
-        "published": "2026-07-19T18:15:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The world is looking ahead toward a post-Iran oil market that offsets most Hormuz volumes in a few years as ships reject a U.S.-backed alternate route",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/19/global-oil-market-post-iran-export-offsets-hormuz-new-pipline-capacity/",
-        "published": "2026-07-19T17:51:03Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
