@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-20T21:51:31.357Z",
+    "generated_at": "2026-07-20T23:06:41.764Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "We Are Being Warned That Global Oil Inventories Are “Close To Nothing” As We Plunge Into The Most Severe Oil Crisis In History",
+        "source": "Theeconomiccollapseblog.com",
+        "url": "http://theeconomiccollapseblog.com/we-are-being-warned-that-global-oil-inventories-are-close-to-nothing-as-we-plunge-into-the-most-severe-oil-crisis-in-history/",
+        "published": "2026-07-19T22:53:11Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "6 Pack Of T.N. Dickinson’s Witch Hazel Astringent Bottles For $11.39-$12.73 From Amazon",
+        "source": "Dansdeals.com",
+        "url": "https://www.dansdeals.com/shopping-deals/amazon/6-pack-of-t-n-dickinsons-witch-hazel-astringent-bottles-for-11-39-12-73-from-amazon/",
+        "published": "2026-07-19T22:29:21Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Russian strike on cargo ship in Black Sea kills five, threatening global commodity flows",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/russian-strike-cargo-ship-black-sea-odesa/",
@@ -45,20 +59,6 @@
         "source": "HuffPost",
         "url": "https://www.huffpost.com/entry/trump-chris-wright-iran-retaliation-plans-dead-troops_n_6a5d221de4b0252a18dd7a56",
         "published": "2026-07-19T21:14:12Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US Announces Another Troop Death as Israel Warns Tehran's Attacks Are Coming Close",
-        "source": "Military.com",
-        "url": "https://military.com/us-announces-another-troop-death-as-israel-warns-tehrans-attacks-are-coming-close",
-        "published": "2026-07-19T21:12:14Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US Central Command redirects 6 vessels as Iran naval blockade resumes, rattling oil and crypto markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/centcom-iran-blockade-crypto-markets/",
-        "published": "2026-07-19T21:05:15Z",
         "sentiment": "danger"
       }
     ],
