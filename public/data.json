@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-20T10:32:42.601Z",
+    "generated_at": "2026-07-20T12:56:24.273Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Strait of Hormuz Update: US Blockade Holds as Renewed Fighting Sends Oil Prices Surging Sharply This Week",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/us-iran-ceasefire-collapse-strait-hormuz-crisis-1872556",
-        "published": "2026-07-19T10:21:57Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
-        "published": "2026-07-19T09:47:28Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Air raid sirens sound in Bahrain as Iranian attacks rattle Gulf region and crypto markets",
+        "title": "Iran launches missiles toward Jordan’s Aqaba as IDF warns of threat spillover into Israel",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/bahrain-air-raid-sirens-iran-crypto-markets/",
-        "published": "2026-07-19T08:47:11Z",
+        "url": "https://cryptobriefing.com/iran-launches-aqaba-jordan-idf-warning/",
+        "published": "2026-07-19T12:24:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Agricultural economist explains why you’re paying 32% more for lettuce and 20% more for tomatoes — and why it will stay that way",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/19/lettuce-tomato-prices-tariff-mexico-trade-deal/",
-        "published": "2026-07-19T08:00:00Z",
+        "title": "Peanuts DASH Fresh Pop Popcorn Maker 16 Cups $12.25 + Free S&H w/ Prime or $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19781064-peanuts-dash-fresh-pop-popcorn-maker-16-cups-12-25-free-s-h-w-prime-or-35",
+        "published": "2026-07-19T12:20:56Z",
         "sentiment": "watch"
       },
       {
-        "title": "Deloitte projects 6.5-6.8% GDP expansion in FY27, growth to strengthen in second half",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/indicators/deloitte-projects-6-5-6-8-gdp-expansion-in-fy27-growth-to-strengthen-in-second-half/articleshow/132491362.cms",
-        "published": "2026-07-19T07:58:04Z",
+        "title": "Iran Warns No Tanker Can Pass Hormuz Without Permit After Incidents Aboard Violator Ships",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260719-sputnik01.htm",
+        "published": "2026-07-19T12:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iraq eyes Syria route to ease Hormuz dependence",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/iraq-eyes-syria-route-to-ease-hormuz-dependence-224546",
+        "published": "2026-07-19T11:25:19Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Iran Warns No Tanker Can Pass Hormuz Without Permit After Incidents Aboard Violator Ships",
+        "source": "Sputnikglobe.com",
+        "url": "https://sputnikglobe.com/20260719/iran-warns-no-tanker-can-pass-hormuz-without-permit-after-incidents-aboard-violator-ships-1124465713.html",
+        "published": "2026-07-19T11:20:38Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Cross-regional military drills validate Taiwan's wartime plans: Experts",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260719-cna03.htm",
+        "published": "2026-07-19T12:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Duckworth warns China may opt for economic blockade of Taiwan in 2028",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260719-cna02.htm",
+        "published": "2026-07-19T12:00:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "China’s Oil Inventory Draw Reshapes Global Crude Market During Iran Conflict",
         "source": "Naturalnews.com",
@@ -82,20 +96,6 @@
         "source": "Nakedcapitalism.com",
         "url": "https://www.nakedcapitalism.com/2026/07/michael-hudson-with-radhika-desai-were-headed-for-a-depression-worse-than-2008.html",
         "published": "2026-07-18T09:00:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The EU’s Contradictory Narratives on China",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/07/the-eus-contradictory-narratives-on-china/",
-        "published": "2026-07-17T14:55:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Is Taiwan Pinning Its Strategy on an Outdated Vision of America?",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/07/is-taiwan-pinning-its-strategy-on-an-outdated-vision-of-america/",
-        "published": "2026-07-17T14:34:00Z",
         "sentiment": "watch"
       }
     ],
