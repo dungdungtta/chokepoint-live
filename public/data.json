@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-20T15:17:51.820Z",
+    "generated_at": "2026-07-20T17:00:22.166Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "NOW Lemon Essential Oil 4oz 100% Pure Aromatherapy $2.04 + Free S&H w/ Prime or $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19781478-now-lemon-essential-oil-4oz-100-pure-aromatherapy-2-04-free-s-h-w-prime-or-35",
-        "published": "2026-07-19T14:31:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran claims U.S. hit its nuclear site — satellite images show mostly dirt. But return to all-out war is nearly inevitable",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/19/us-iran-all-out-war-missiles-jordan-israel-territory/",
-        "published": "2026-07-19T14:26:55Z",
+        "title": "Caspian Pipeline Consortium Oil Loadings Suspended After Drone Attacks On Tankers",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/caspian-pipeline-consortium-oil-loadings-suspended-after-drone-attacks-on-tankers/",
+        "published": "2026-07-19T16:55:27Z",
         "sentiment": "danger"
       },
       {
-        "title": "Gorilla Epoxy 7 Piece 275 Sq. Ft. Coverage Garage Floor Coating Kit For Just $114.30-$124.97 Shipped From Amazon After $115 Price Drop!",
-        "source": "Dansdeals.com",
-        "url": "https://www.dansdeals.com/shopping-deals/amazon/gorilla-epoxy-7-piece-275-sq-ft-coverage-garage-floor-coating-kit-for-just-114-30-124-97-shipped-from-amazon-after-115-price-drop/",
-        "published": "2026-07-19T13:52:03Z",
+        "title": "US hits under-construction nuke plant in Iran, says furious Tehran: ‘Clear violation’",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/07/19/world-news/us-hits-under-construction-nuke-plant-in-iran-tehran/",
+        "published": "2026-07-19T15:58:47Z",
         "sentiment": "watch"
       },
       {
-        "title": "Greenworks 60V 18\" Cordless Battery Brushless 2.5kW Chainsaw 5.0 ah battery and rapid charger + Free Shipping $170",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19781289-greenworks-60v-18-cordless-battery-brushless-2-5kw-chainsaw-5-0-ah-battery-and-rapid-charger-free-shipping-170",
-        "published": "2026-07-19T13:34:08Z",
+        "title": "Dash Peanuts Fresh Pop Oil-Free Air Popcorn Popper for $12 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Dash-Peanuts-Fresh-Pop-Oil-Free-Air-Popcorn-Popper-for-12-free-shipping-w-Prime/21912610.html",
+        "published": "2026-07-19T15:53:49Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Peanuts DASH Fresh Pop Air Popcorn Maker 16 Cup Capacity For $12.25 From Amazon",
+        "source": "Dansdeals.com",
+        "url": "https://www.dansdeals.com/shopping-deals/amazon/peanuts-dash-fresh-pop-air-popcorn-maker-16-cup-capacity-for-12-25-from-amazon/",
+        "published": "2026-07-19T15:52:41Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Algeria seeks larger EU energy role amid regional tensions",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/algeria-seeks-larger-eu-energy-role-amid-regional-tensions/a-78007849",
+        "published": "2026-07-19T15:51:00Z",
         "sentiment": "watch"
       }
     ],
