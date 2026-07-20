@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-20T04:23:24.876Z",
+    "generated_at": "2026-07-20T07:42:02.952Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran’s Kuwait Water Plant Strike: Oil Prices and Trans-regional War",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/07/kuwait-strike-regional.html",
-        "published": "2026-07-19T04:15:19Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S. Renews Strikes On Iran After Two Military Personnel Killed By Iranian Attack",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/us-strikes-iran_n_6a5c4de6e4b063a1f5f1a3bb",
-        "published": "2026-07-19T04:14:40Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Will Sensex, Nifty extend gains on Monday? Q1 earnings, global tech selloff among 6 factors to steer D-St this week",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-extend-gains-on-monday-q1-earnings-global-tech-selloff-among-6-factors-to-steer-d-st-this-week/articleshow/132489722.cms",
-        "published": "2026-07-19T04:07:40Z",
+        "title": "The 1980s cars that you've (probably) forgotten about",
+        "source": "Autocar",
+        "url": "https://www.autocar.co.uk/car-news/slideshow/1980s-cars-youve-probably-forgotten-about-6",
+        "published": "2026-07-19T07:35:28Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran's Warning Shot",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/articles/2026/07/iran-s-warning-shot/",
-        "published": "2026-07-19T04:00:00Z",
+        "title": "The 1980s cars that you've (probably) forgotten about",
+        "source": "Autocar",
+        "url": "https://www.autocar.co.uk/car-news/slideshow/1980s-cars-youve-probably-forgotten-about-4",
+        "published": "2026-07-19T07:35:21Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran targets Kurdistan Region, spiking gas prices and tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-targets-kurdistan-region-spiking-gas-prices-and-tensions/",
+        "published": "2026-07-19T07:33:04Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Russia launches largest ballistic missile attack on Kyiv since start of war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war",
+        "published": "2026-07-19T07:28:08Z",
         "sentiment": "danger"
       },
       {
-        "title": "Strange Things Are Happening",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/articles/2026/07/strange-things-are-happening/",
-        "published": "2026-07-19T04:00:00Z",
+        "title": "Deloitte projects 6.5-6.8% GDP expansion in FY27",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/deloitte-projects-65-68-gdp-expansion-in-fy27/article71240875.ece",
+        "published": "2026-07-19T07:24:29Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China’s Oil Inventory Draw Reshapes Global Crude Market During Iran Conflict",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-19-china-oil-inventory-draw-reshapes-global-market.html",
+        "published": "2026-07-19T06:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Links 7/18/2026",
         "source": "Nakedcapitalism.com",
@@ -89,13 +96,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/07/is-taiwan-pinning-its-strategy-on-an-outdated-vision-of-america/",
         "published": "2026-07-17T14:34:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S.-China Relations Are More Volatile Than Ever",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/07/17/china-united-states-diplomacy-trump-xi-taiwan-stability-chaos-rivalry-partnership/",
-        "published": "2026-07-17T14:15:08Z",
         "sentiment": "watch"
       }
     ],
