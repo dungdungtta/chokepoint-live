@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-20T20:42:17.329Z",
+    "generated_at": "2026-07-20T21:51:31.357Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S. military announces the death of another service member, blaming the ‘controlled detonation’ of a downed Iranian drone in Iraq",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/19/us-military-death-service-member-controlled-detonation-iranian-drone-iraq/",
-        "published": "2026-07-19T20:36:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "[NEW, SnS, AC] $4.95 | Nature Made Extra Strength Omega 3 Fish Oil Supplements, 2800mg, 60 Softgels, 30 Day Supply at Amazon",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19782831-new-sns-ac-4-95-nature-made-extra-strength-omega-3-fish-oil-supplements-2800mg-60-softgels-30-day-supply-at-amazon",
-        "published": "2026-07-19T20:35:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Cuba’s Grid Collapses, HHS Uncovers $3.5 Billion Hospice Fraud, AI to Compete with Big Pharma",
-        "source": "Activistpost.com",
-        "url": "https://www.activistpost.com/cubas-grid-collapses-hhs-uncovers-3-5-billion-hospice-fraud-ai-to-compete-with-big-pharma/",
-        "published": "2026-07-19T19:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "War’s Escalation in Iran Is an Attack on Civilians’ Basic Needs",
-        "source": "Mother Jones",
-        "url": "https://www.motherjones.com/politics/2026/07/wars-escalation-in-iran-is-an-attack-on-civilians-basic-needs/",
-        "published": "2026-07-19T18:44:28Z",
+        "title": "Russian strike on cargo ship in Black Sea kills five, threatening global commodity flows",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/russian-strike-cargo-ship-black-sea-odesa/",
+        "published": "2026-07-19T21:50:47Z",
         "sentiment": "danger"
       },
       {
-        "title": "Ferry capsizes off Guyana leaving 66 people missing",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/ferry-capsizes-guyana-people-missing-7107396-Jul2026/",
-        "published": "2026-07-19T18:38:03Z",
-        "sentiment": "watch"
+        "title": "Three US soldiers killed as US-Iran conflict escalates with strikes in Jordan and Iraq",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-conflict-soldiers-killed-hormuz-escalation/",
+        "published": "2026-07-19T21:19:53Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump Official Says Trump’s ‘Mission Will Go On’ After 2 U.S. Troops Killed In Iranian Strikes",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/trump-chris-wright-iran-retaliation-plans-dead-troops_n_6a5d221de4b0252a18dd7a56",
+        "published": "2026-07-19T21:14:12Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US Announces Another Troop Death as Israel Warns Tehran's Attacks Are Coming Close",
+        "source": "Military.com",
+        "url": "https://military.com/us-announces-another-troop-death-as-israel-warns-tehrans-attacks-are-coming-close",
+        "published": "2026-07-19T21:12:14Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US Central Command redirects 6 vessels as Iran naval blockade resumes, rattling oil and crypto markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/centcom-iran-blockade-crypto-markets/",
+        "published": "2026-07-19T21:05:15Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
