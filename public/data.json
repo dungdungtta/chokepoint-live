@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T11:25:09.340Z",
+    "generated_at": "2026-07-21T12:57:10.363Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Rupee hits two-month low, oil prices remain focal point",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-two-month-low-oil-prices-remain-focal-point/articleshow/132513954.cms",
-        "published": "2026-07-20T11:16:56Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "[Latest] Renewable Natural Gas Market Size Expected to Reach USD 31.55 Billion by 2034, With 8.32% CAGR; Rising Environmental Awareness Across the Globe to Propel Market Growth",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/07/20/3329625/0/en/Latest-Renewable-Natural-Gas-Market-Size-Expected-to-Reach-USD-31-55-Billion-by-2034-With-8-32-CAGR-Rising-Environmental-Awareness-Across-the-Globe-to-Propel-Market-Growth.html",
-        "published": "2026-07-20T11:08:00Z",
+        "title": "Houthis declare immediate naval blockade on Saudi Arabia",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/430460",
+        "published": "2026-07-20T12:53:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Sensex today | Stock Market Highlights: Sensex drops 442 pts to end at 77,708, Nifty closes below 24,240; Axis Bank, HDFC Bank fall most",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-20th-july-2026/article71241122.ece",
-        "published": "2026-07-20T11:01:09Z",
+        "title": "US names two soldiers killed in Jordan as Iran conflict widens",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-07-20/us-identifies-two-soldiers-killed-in-jordan-after-iranian-attack/106937952",
+        "published": "2026-07-20T12:44:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "Bitcoin ETF inflows return, but $2.3 billion stablecoin liquidity drain leaves $57,000 exposed",
-        "source": "CryptoSlate",
-        "url": "https://cryptoslate.com/bitcoin-etf-inflows-return-but-2-3-billion-stablecoin-liquidity-drain-leaves-57000-exposed/",
-        "published": "2026-07-20T10:45:46Z",
+        "title": "Garvee 7.8x18-Foot Garage Floor Mat for $115 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Garvee-7-8-x18-Foot-Garage-Floor-Mat-for-115-free-shipping/21915311.html",
+        "published": "2026-07-20T12:43:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "U.S. and Iran trade fire for ninth day, with two oil tankers destroyed",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/61cbd66f55743d94",
-        "published": "2026-07-20T10:42:49Z",
-        "sentiment": "watch"
+        "title": "Attacks on Greek tankers heighten shipping security concerns",
+        "source": "Naftemporiki.gr",
+        "url": "https://www.naftemporiki.gr/english/2140123/attacks-on-greek-tankers-heighten-shipping-security-concerns/",
+        "published": "2026-07-20T12:36:16Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran-US war impact: Gas, oil prices jump big again, check how latest escalation is burning a hole in common Americans' pockets. What to expect in coming days",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/iran-us-war-news-impact-gas-oil-prices-jump-big-again-check-how-latest-escalation-is-burning-a-hole-in-common-americans-pockets/articleshow/132515178.cms",
+        "published": "2026-07-20T12:32:09Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
