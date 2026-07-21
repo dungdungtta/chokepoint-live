@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T06:35:46.688Z",
+    "generated_at": "2026-07-21T09:17:17.737Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo",
-        "published": "2026-07-20T06:31:55Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Asian markets mixed as AI selloff deepens; South Korea's Kospi slides nearly 5%",
-        "source": "Emirates 24|7",
-        "url": "https://www.emirates247.com/business/asian-markets-mixed-as-ai-selloff-deepens-south-koreas-kospi-slides-nearly-5/3788",
-        "published": "2026-07-20T06:27:02Z",
+        "title": "U.S. bombing of Iran expands as American troops killed",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/us-bombing-iran-expands-9.7276152",
+        "published": "2026-07-20T09:16:13Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil jumps 3% as US, Iran expand strikes in Middle East",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/0720/1584139-world-oil-prices/",
-        "published": "2026-07-20T06:26:30Z",
+        "title": "Aftermath: Trump’s Hormuz Crisis Threatens to Break Into Regional War",
+        "source": "The American Prospect",
+        "url": "http://prospect.org/2026/07/20/aftermath-trumps-hormuz-crisis-threatens-to-break-into-regional-war/",
+        "published": "2026-07-20T09:15:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "US strikes on Iran expand as Tehran lashes out",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/us-strikes-on-iran-expand-as-tehran-lashes-out-224563",
-        "published": "2026-07-20T06:08:37Z",
-        "sentiment": "danger"
+        "title": "Oil Prices Reach Highest Levels in More Than a Month",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/oil_prices_reach_highest_levels_in_more_than_a_month-20-jul-2026-184162-article/",
+        "published": "2026-07-20T09:13:35Z",
+        "sentiment": "watch"
       },
       {
-        "title": "US-Iran military actions escalate, but a return to talks is likely",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/2026/07/20/us-iran-military-actions-escalate-but-a-return-to-talks-is-likely/",
-        "published": "2026-07-20T06:07:38Z",
+        "title": "AP Business SummaryBrief at 12:46 a.m. EDT",
+        "source": "Mankato Free Press",
+        "url": "https://www.mankatofreepress.com/news/business/ap-business-summarybrief-at-8-50-a-m-edt/article_90378419-a170-552d-a039-0a4b401980e2.html",
+        "published": "2026-07-20T09:10:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US signals openness to Iran diplomacy after nine nights of airstrikes as crypto markets absorb $350M in liquidations",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-bombing-crypto-market-liquidations/",
+        "published": "2026-07-20T09:09:50Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Before Q-Day: The Race to Quantum First",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/cogs-of-war/before-q-day-the-race-to-quantum-first/",
+        "published": "2026-07-20T08:00:11Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Iran war, Myanmar crisis and South China Sea rifts under spotlight in ASEAN ministerial talks",
         "source": "BusinessLine",
@@ -88,13 +95,6 @@
         "title": "Cross-regional military drills validate Taiwan's wartime plans: Experts",
         "source": "Globalsecurity.org",
         "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260719-cna03.htm",
-        "published": "2026-07-19T12:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Duckworth warns China may opt for economic blockade of Taiwan in 2028",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260719-cna02.htm",
         "published": "2026-07-19T12:00:00Z",
         "sentiment": "danger"
       }
