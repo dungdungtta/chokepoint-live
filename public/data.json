@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T21:18:57.787Z",
+    "generated_at": "2026-07-21T22:28:48.050Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Furious Trump promises payback 'many times over' for each American soldier killed in war against Iran as US launches strikes for 10th consecutive night",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15991973/Trump-payback-American-soldiers-killed-Iran.html",
+        "published": "2026-07-20T22:05:22Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "All-out war edges closer with 10th consecutive night of US strikes on Iran",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/07/20/us-carry-out-10th-consecutive-night-of-strikes-on-iran-bringing-all-out-war-closer/",
+        "published": "2026-07-20T21:29:41Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "U.S. Carrying Out 10th Consecutive Night Of Strikes On Iran",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/us-carrying-out-10th-consecutive-night-of-strikes-on-iran_n_6a5e9002e4b06bbe43f37012",
+        "published": "2026-07-20T21:24:19Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Saudi oil loadings drop by 36% as Houthi threats disrupt Bab Al Mandeb passage | The National",
         "source": "Thenationalnews.com",
         "url": "https://www.thenationalnews.com/business/energy/2026/07/20/saudi-oil-loadings-drop-by-36-as-houthi-threats-disrupt-bab-al-mandeb-passage/",
@@ -39,27 +60,6 @@
         "url": "http://foreignpolicy.com/2026/07/20/houthi-blockade-saudi-iran-war-red-sea-gulf-aden-hormuz/",
         "published": "2026-07-20T20:56:10Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Trump’s War in Iran Was Already Going Poorly. Then This Weekend Happened.",
-        "source": "Slate Magazine",
-        "url": "https://slate.com/news-and-politics/2026/07/trump-iran-war-casualties.html",
-        "published": "2026-07-20T20:50:26Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "From Chanel to YSL, Save Big on These Luxury Beauty Sets at Nordstrom’s Anniversary Sale",
-        "source": "WWD",
-        "url": "http://wwd.com/shop/shop-beauty/best-nordstrom-anniversary-sale-luxury-beauty-deals-2026-1239075952/",
-        "published": "2026-07-20T20:49:45Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Mark Carney offers to double oil exports to US in trade talks, reshaping North American energy dynamics",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/carney-double-oil-exports-us-trade/",
-        "published": "2026-07-20T20:47:44Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
