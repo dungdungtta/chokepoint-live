@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T16:44:49.440Z",
+    "generated_at": "2026-07-21T18:02:56.709Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Equinox Professional Razor Edge Series 6.5′′ Barber Hair Cutting Scissors For $8.90 From Amazon",
-        "source": "Dansdeals.com",
-        "url": "https://www.dansdeals.com/shopping-deals/amazon/equinox-professional-razor-edge-series-6-5′′-barber-hair-cutting-scissors-for-8-90-from-amazon/",
-        "published": "2026-07-20T16:39:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Russian attack on corn ship off Ukraine's Odesa kills 10",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/russia-ukraine-strike-ship-odesa-black-sea-6266221",
-        "published": "2026-07-20T16:34:10Z",
+        "title": "Iran’s President Pezeshkian Says Regime at ‘Full-Scale War’ With The U.S.",
+        "source": "Legalinsurrection.com",
+        "url": "https://legalinsurrection.com/2026/07/irans-president-pezeshkian-says-regime-at-full-scale-war-with-the-u-s/",
+        "published": "2026-07-20T18:00:22Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran-Backed Houthi Terrorists Announce ‘Maritime Blockade’ of Saudi Arabia",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/07/20/iran-backed-houthi-terrorists-announce-maritime-blockade-of-saudi-arabia/",
-        "published": "2026-07-20T16:32:37Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Ryanair’s profits take a hit but Michael O’Leary remains upbeat on its prospects",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/2026/07/20/ryanairs-profits-take-a-hit-but-michael-oleary-remains-upbeat-on-its-prospects/",
-        "published": "2026-07-20T16:10:24Z",
+        "title": "The Slow Death of the Global Commons",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/07/20/trump-hormuz-iran-global-commons-fonops/",
+        "published": "2026-07-20T17:51:53Z",
         "sentiment": "watch"
       },
       {
-        "title": "US forces complete ninth consecutive night of strikes against Iranian military sites",
+        "title": "Trump Vows Iran ‘Will Pay’ for US Deaths as Mediators Push Truce",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/trump-vows-iran-will-pay-for-us-deaths-as-mediators-push-truce",
+        "published": "2026-07-20T17:48:21Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Petrol prices climb as US–Iran tensions disrupt markets",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt",
+        "published": "2026-07-20T17:40:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Houthis impose maritime embargo on Saudi Arabia, threaten global oil supply",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-strikes-iran-ninth-night-crypto-markets/",
-        "published": "2026-07-20T15:54:00Z",
+        "url": "https://cryptobriefing.com/houthis-impose-maritime-embargo-on-saudi-arabia-threaten-global-oil-supply/",
+        "published": "2026-07-20T17:40:09Z",
         "sentiment": "danger"
       }
     ],
