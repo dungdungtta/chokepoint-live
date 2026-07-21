@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-20T23:06:41.764Z",
+    "generated_at": "2026-07-21T00:11:58.754Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "US military strikes on Iran enter ninth night as Strait of Hormuz crisis deepens",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/centcom-strikes-iran-strait-hormuz-crypto-impact/",
+        "published": "2026-07-19T23:20:51Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Brent Oil Tops $90 as Middle East Attacks Threaten Hormuz Flows",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/brent-oil-tops-90-as-middle-east-attacks-threaten-hormuz-flows",
+        "published": "2026-07-19T23:13:54Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "We Are Being Warned That Global Oil Inventories Are “Close To Nothing” As We Plunge Into The Most Severe Oil Crisis In History",
         "source": "Theeconomiccollapseblog.com",
         "url": "http://theeconomiccollapseblog.com/we-are-being-warned-that-global-oil-inventories-are-close-to-nothing-as-we-plunge-into-the-most-severe-oil-crisis-in-history/",
@@ -45,20 +59,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/russian-strike-cargo-ship-black-sea-odesa/",
         "published": "2026-07-19T21:50:47Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Three US soldiers killed as US-Iran conflict escalates with strikes in Jordan and Iraq",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-conflict-soldiers-killed-hormuz-escalation/",
-        "published": "2026-07-19T21:19:53Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump Official Says Trump’s ‘Mission Will Go On’ After 2 U.S. Troops Killed In Iranian Strikes",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/trump-chris-wright-iran-retaliation-plans-dead-troops_n_6a5d221de4b0252a18dd7a56",
-        "published": "2026-07-19T21:14:12Z",
         "sentiment": "danger"
       }
     ],
