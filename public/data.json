@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T12:57:10.363Z",
+    "generated_at": "2026-07-21T15:11:05.393Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,24 @@
   "news": {
     "hormuz": [
       {
-        "title": "Houthis declare immediate naval blockade on Saudi Arabia",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/430460",
-        "published": "2026-07-20T12:53:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US names two soldiers killed in Jordan as Iran conflict widens",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-07-20/us-identifies-two-soldiers-killed-in-jordan-after-iranian-attack/106937952",
-        "published": "2026-07-20T12:44:01Z",
+        "title": "US gasoline prices climb back above $4 as Strait of Hormuz tensions rattle oil markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-gasoline-prices-above-4-hormuz-crypto/",
+        "published": "2026-07-20T15:07:36Z",
         "sentiment": "watch"
       },
       {
-        "title": "Garvee 7.8x18-Foot Garage Floor Mat for $115 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Garvee-7-8-x18-Foot-Garage-Floor-Mat-for-115-free-shipping/21915311.html",
-        "published": "2026-07-20T12:43:18Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Attacks on Greek tankers heighten shipping security concerns",
-        "source": "Naftemporiki.gr",
-        "url": "https://www.naftemporiki.gr/english/2140123/attacks-on-greek-tankers-heighten-shipping-security-concerns/",
-        "published": "2026-07-20T12:36:16Z",
+        "title": "Houthis declare naval blockade on Saudi Arabia, threatening oil exports",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/houthis-declare-naval-blockade-on-saudi-arabia-threatening-oil-exports/",
+        "published": "2026-07-20T14:49:18Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran-US war impact: Gas, oil prices jump big again, check how latest escalation is burning a hole in common Americans' pockets. What to expect in coming days",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/iran-us-war-news-impact-gas-oil-prices-jump-big-again-check-how-latest-escalation-is-burning-a-hole-in-common-americans-pockets/articleshow/132515178.cms",
-        "published": "2026-07-20T12:32:09Z",
+        "title": "Houthis announce maritime blockade on Saudi Arabia, threatening global energy flows and risk asset calculus",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/houthis-saudi-blockade-crypto-market-impact/",
+        "published": "2026-07-20T14:44:14Z",
         "sentiment": "danger"
       }
     ],
