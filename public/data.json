@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T22:28:48.050Z",
+    "generated_at": "2026-07-21T23:34:31.239Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "With The U.S.-Iran Deal Collapsing, How Exposed Are Oil Markets Right Now?",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/With-The-US-Iran-Deal-Collapsing-How-Exposed-Are-Oil-Markets-Right-Now.html",
+        "published": "2026-07-20T23:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S. launches more strikes on Iran after deaths of service members",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/show/u-s-launches-more-strikes-on-iran-after-deaths-of-service-members",
+        "published": "2026-07-20T22:55:17Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran war hurting U.S. allies in region, former Jordanian foreign minister says",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/show/iran-war-hurting-u-s-allies-in-region-former-jordanian-foreign-minister-says",
+        "published": "2026-07-20T22:52:05Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "U.S. military launches 10th straight night of airstrikes on Iran as Houthi allies threaten Red Sea, but glimmers of hope appear on diplomatic front",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/20/us-military-10th-straight-airstrikes-iran-houthi-allies-red-sea-diplomatic-front/",
+        "published": "2026-07-20T22:43:15Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Furious Trump promises payback 'many times over' for each American soldier killed in war against Iran as US launches strikes for 10th consecutive night",
         "source": "Dailymail.com",
         "url": "https://www.dailymail.com/news/article-15991973/Trump-payback-American-soldiers-killed-Iran.html",
         "published": "2026-07-20T22:05:22Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "All-out war edges closer with 10th consecutive night of US strikes on Iran",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/07/20/us-carry-out-10th-consecutive-night-of-strikes-on-iran-bringing-all-out-war-closer/",
-        "published": "2026-07-20T21:29:41Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S. Carrying Out 10th Consecutive Night Of Strikes On Iran",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/us-carrying-out-10th-consecutive-night-of-strikes-on-iran_n_6a5e9002e4b06bbe43f37012",
-        "published": "2026-07-20T21:24:19Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Saudi oil loadings drop by 36% as Houthi threats disrupt Bab Al Mandeb passage | The National",
-        "source": "Thenationalnews.com",
-        "url": "https://www.thenationalnews.com/business/energy/2026/07/20/saudi-oil-loadings-drop-by-36-as-houthi-threats-disrupt-bab-al-mandeb-passage/",
-        "published": "2026-07-20T21:13:09Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Houthis Declare a Naval Blockade on Saudi Arabia",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/07/20/houthi-blockade-saudi-iran-war-red-sea-gulf-aden-hormuz/",
-        "published": "2026-07-20T20:56:10Z",
         "sentiment": "danger"
       }
     ],
