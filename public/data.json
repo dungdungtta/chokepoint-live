@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T03:50:02.833Z",
+    "generated_at": "2026-07-21T06:35:46.688Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,63 @@
   "news": {
     "hormuz": [
       {
-        "title": "Tanker attacked in Strait of Hormuz as US strikes Iran for 10th night",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-20-2026-8b37952906cbec6351fdcc47a0fa6297",
-        "published": "2026-07-20T03:44:22Z",
+        "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo",
+        "published": "2026-07-20T06:31:55Z",
         "sentiment": "danger"
       },
       {
-        "title": "US bombing of Iran expands as American troops killed and Tehran retaliates against the Gulf states",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/world/articles/iran-launches-attacks-latest-round-034421338.html",
-        "published": "2026-07-20T03:44:21Z",
+        "title": "Asian markets mixed as AI selloff deepens; South Korea's Kospi slides nearly 5%",
+        "source": "Emirates 24|7",
+        "url": "https://www.emirates247.com/business/asian-markets-mixed-as-ai-selloff-deepens-south-koreas-kospi-slides-nearly-5/3788",
+        "published": "2026-07-20T06:27:02Z",
         "sentiment": "watch"
       },
       {
-        "title": "5 Quart Mobil 1 Truck & SUV Full Synthetic Motor Oil (0W-20) $20 + Free S&H w/ Prime or $35+ (7 replies)",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19783536-5-quart-mobil-1-truck-suv-full-synthetic-motor-oil-0w-20-20-free-s-h-w-prime-or-35",
-        "published": "2026-07-20T03:00:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "ASX 200 Edges Higher as Oil Spikes on Iran War Escalation and Chinese AI Model Sparks Chip Stock Rout",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/asx-200-gains-oil-price-surge-semiconductor-selloff-1872606",
-        "published": "2026-07-20T02:46:38Z",
+        "title": "Oil jumps 3% as US, Iran expand strikes in Middle East",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0720/1584139-world-oil-prices/",
+        "published": "2026-07-20T06:26:30Z",
         "sentiment": "danger"
       },
       {
-        "title": "Few tankers enter Hormuz to load oil as US-Iran conflict intensifies, LNG floating storage rises",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/few-tankers-enter-hormuz-to-load-oil-as-us-iran-conflict-intensifies-lng-floating-storage-rises/article71243682.ece",
-        "published": "2026-07-20T02:38:13Z",
-        "sentiment": "watch"
+        "title": "US strikes on Iran expand as Tehran lashes out",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/us-strikes-on-iran-expand-as-tehran-lashes-out-224563",
+        "published": "2026-07-20T06:08:37Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US-Iran military actions escalate, but a return to talks is likely",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/2026/07/20/us-iran-military-actions-escalate-but-a-return-to-talks-is-likely/",
+        "published": "2026-07-20T06:07:38Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Iran war, Myanmar crisis and South China Sea rifts under spotlight in ASEAN ministerial talks",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/iran-war-myanmar-crisis-and-south-china-sea-rifts-under-spotlight-in-asean-ministerial-talks/article71243772.ece",
+        "published": "2026-07-20T04:24:39Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The 2026 NATO Summit Confirmed A New Transatlantic Bargain",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/articles/2026/07/the-2026-nato-summit-confirmed-a-new-transatlantic-bargain/",
+        "published": "2026-07-20T04:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "ASEAN ministerial talks: Iran war, Myanmar crisis and South China Sea rifts under spotlight",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/asean-ministerial-talks-iran-war-myanmar-crisis-and-south-china-sea-rifts-under-spotlight/articleshow/132505425.cms",
+        "published": "2026-07-20T03:50:25Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Cross-regional military drills validate Taiwan's wartime plans: Experts",
         "source": "Globalsecurity.org",
@@ -76,27 +97,6 @@
         "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260719-cna02.htm",
         "published": "2026-07-19T12:00:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "China’s Oil Inventory Draw Reshapes Global Crude Market During Iran Conflict",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-19-china-oil-inventory-draw-reshapes-global-market.html",
-        "published": "2026-07-19T06:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Links 7/18/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/07/links-7-18-2026.html",
-        "published": "2026-07-18T10:59:37Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Michael Hudson with Radhika Desai: We’re Headed for a Depression Worse Than 2008",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/07/michael-hudson-with-radhika-desai-were-headed-for-a-depression-worse-than-2008.html",
-        "published": "2026-07-18T09:00:35Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
