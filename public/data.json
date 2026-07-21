@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T18:02:56.709Z",
+    "generated_at": "2026-07-21T19:53:44.227Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran’s President Pezeshkian Says Regime at ‘Full-Scale War’ With The U.S.",
-        "source": "Legalinsurrection.com",
-        "url": "https://legalinsurrection.com/2026/07/irans-president-pezeshkian-says-regime-at-full-scale-war-with-the-u-s/",
-        "published": "2026-07-20T18:00:22Z",
+        "title": "Over $10 million, 35 coastal organizations, and 16 states led to a comeback of the Oystercatcher bird population",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/20/oystercatcher-conservation-national-wildlife-refuge-biologist/",
+        "published": "2026-07-20T19:45:41Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S. bombs Iran for ninth straight night as Tehran strikes Kuwait, Jordan, and Bahrain",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/20/iran-us-bombing-ninth-night-kuwait-jordan-bahrain/",
+        "published": "2026-07-20T19:42:19Z",
         "sentiment": "danger"
       },
       {
-        "title": "The Slow Death of the Global Commons",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/07/20/trump-hormuz-iran-global-commons-fonops/",
-        "published": "2026-07-20T17:51:53Z",
+        "title": "Japan Scrambles for Oil",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150044.php",
+        "published": "2026-07-20T19:22:44Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump Vows Iran ‘Will Pay’ for US Deaths as Mediators Push Truce",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/trump-vows-iran-will-pay-for-us-deaths-as-mediators-push-truce",
-        "published": "2026-07-20T17:48:21Z",
+        "title": "LNG consumption declines 6.5%on costly import, lower output",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/lng-consumption-declines-6-5on-costly-import-lower-output/articleshow/132522869.cms",
+        "published": "2026-07-20T18:36:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "Petrol prices climb as US–Iran tensions disrupt markets",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt",
-        "published": "2026-07-20T17:40:29Z",
+        "title": "Energy shock vs AI boom: RBI should act as and when external shocks push domestic data in a direction, not until then",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/energy-shock-vs-ai-boom-rbi-should-act-as-and-when-external-shocks-push-domestic-data-in-a-direction-not-until-then/articleshow/132522377.cms",
+        "published": "2026-07-20T18:20:39Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Houthis impose maritime embargo on Saudi Arabia, threaten global oil supply",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/houthis-impose-maritime-embargo-on-saudi-arabia-threaten-global-oil-supply/",
-        "published": "2026-07-20T17:40:09Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
