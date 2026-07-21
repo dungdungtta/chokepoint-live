@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T19:53:44.227Z",
+    "generated_at": "2026-07-21T21:18:57.787Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Over $10 million, 35 coastal organizations, and 16 states led to a comeback of the Oystercatcher bird population",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/20/oystercatcher-conservation-national-wildlife-refuge-biologist/",
-        "published": "2026-07-20T19:45:41Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. bombs Iran for ninth straight night as Tehran strikes Kuwait, Jordan, and Bahrain",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/20/iran-us-bombing-ninth-night-kuwait-jordan-bahrain/",
-        "published": "2026-07-20T19:42:19Z",
+        "title": "Saudi oil loadings drop by 36% as Houthi threats disrupt Bab Al Mandeb passage | The National",
+        "source": "Thenationalnews.com",
+        "url": "https://www.thenationalnews.com/business/energy/2026/07/20/saudi-oil-loadings-drop-by-36-as-houthi-threats-disrupt-bab-al-mandeb-passage/",
+        "published": "2026-07-20T21:13:09Z",
         "sentiment": "danger"
       },
       {
-        "title": "Japan Scrambles for Oil",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/150044.php",
-        "published": "2026-07-20T19:22:44Z",
+        "title": "Houthis Declare a Naval Blockade on Saudi Arabia",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/07/20/houthi-blockade-saudi-iran-war-red-sea-gulf-aden-hormuz/",
+        "published": "2026-07-20T20:56:10Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump’s War in Iran Was Already Going Poorly. Then This Weekend Happened.",
+        "source": "Slate Magazine",
+        "url": "https://slate.com/news-and-politics/2026/07/trump-iran-war-casualties.html",
+        "published": "2026-07-20T20:50:26Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "From Chanel to YSL, Save Big on These Luxury Beauty Sets at Nordstrom’s Anniversary Sale",
+        "source": "WWD",
+        "url": "http://wwd.com/shop/shop-beauty/best-nordstrom-anniversary-sale-luxury-beauty-deals-2026-1239075952/",
+        "published": "2026-07-20T20:49:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "LNG consumption declines 6.5%on costly import, lower output",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/lng-consumption-declines-6-5on-costly-import-lower-output/articleshow/132522869.cms",
-        "published": "2026-07-20T18:36:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Energy shock vs AI boom: RBI should act as and when external shocks push domestic data in a direction, not until then",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/energy-shock-vs-ai-boom-rbi-should-act-as-and-when-external-shocks-push-domestic-data-in-a-direction-not-until-then/articleshow/132522377.cms",
-        "published": "2026-07-20T18:20:39Z",
-        "sentiment": "watch"
+        "title": "Mark Carney offers to double oil exports to US in trade talks, reshaping North American energy dynamics",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/carney-double-oil-exports-us-trade/",
+        "published": "2026-07-20T20:47:44Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "US missile stockpile likely unable to handle prolonged war as Iran adapts to defenses: experts",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/07/20/world-news/us-missile-stockpile-likely-unable-to-handle-prolonged-war-as-iran-adapts-to-defenses-experts/",
+        "published": "2026-07-20T20:56:40Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Before Q-Day: The Race to Quantum First",
         "source": "War on the Rocks",
@@ -89,13 +96,6 @@
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/international/world-news/asean-ministerial-talks-iran-war-myanmar-crisis-and-south-china-sea-rifts-under-spotlight/articleshow/132505425.cms",
         "published": "2026-07-20T03:50:25Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Cross-regional military drills validate Taiwan's wartime plans: Experts",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260719-cna03.htm",
-        "published": "2026-07-19T12:00:00Z",
         "sentiment": "danger"
       }
     ],
