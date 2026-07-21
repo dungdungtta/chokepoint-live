@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T15:11:05.393Z",
+    "generated_at": "2026-07-21T16:44:49.440Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,24 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US gasoline prices climb back above $4 as Strait of Hormuz tensions rattle oil markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-gasoline-prices-above-4-hormuz-crypto/",
-        "published": "2026-07-20T15:07:36Z",
+        "title": "Equinox Professional Razor Edge Series 6.5′′ Barber Hair Cutting Scissors For $8.90 From Amazon",
+        "source": "Dansdeals.com",
+        "url": "https://www.dansdeals.com/shopping-deals/amazon/equinox-professional-razor-edge-series-6-5′′-barber-hair-cutting-scissors-for-8-90-from-amazon/",
+        "published": "2026-07-20T16:39:54Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthis declare naval blockade on Saudi Arabia, threatening oil exports",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/houthis-declare-naval-blockade-on-saudi-arabia-threatening-oil-exports/",
-        "published": "2026-07-20T14:49:18Z",
+        "title": "Russian attack on corn ship off Ukraine's Odesa kills 10",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/russia-ukraine-strike-ship-odesa-black-sea-6266221",
+        "published": "2026-07-20T16:34:10Z",
         "sentiment": "danger"
       },
       {
-        "title": "Houthis announce maritime blockade on Saudi Arabia, threatening global energy flows and risk asset calculus",
+        "title": "Iran-Backed Houthi Terrorists Announce ‘Maritime Blockade’ of Saudi Arabia",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/07/20/iran-backed-houthi-terrorists-announce-maritime-blockade-of-saudi-arabia/",
+        "published": "2026-07-20T16:32:37Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Ryanair’s profits take a hit but Michael O’Leary remains upbeat on its prospects",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/2026/07/20/ryanairs-profits-take-a-hit-but-michael-oleary-remains-upbeat-on-its-prospects/",
+        "published": "2026-07-20T16:10:24Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US forces complete ninth consecutive night of strikes against Iranian military sites",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/houthis-saudi-blockade-crypto-market-impact/",
-        "published": "2026-07-20T14:44:14Z",
+        "url": "https://cryptobriefing.com/us-strikes-iran-ninth-night-crypto-markets/",
+        "published": "2026-07-20T15:54:00Z",
         "sentiment": "danger"
       }
     ],
