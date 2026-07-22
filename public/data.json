@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-22T10:02:35.314Z",
+    "generated_at": "2026-07-22T12:04:50.166Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Shipping transits slow to a trickle as Strait of Hormuz faces “worst-case scenario”",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/21/shipping-transits-slow-trickle-strait-of-hormuz-faces-worst-case-scenario/",
-        "published": "2026-07-21T09:59:25Z",
+        "title": "Brent crude rises above $91 as US-Iran conflict sends gas prices past $4",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/brent-crude-rises-91-us-iran-conflict-gas-prices/",
+        "published": "2026-07-21T12:02:47Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthis Warn All Ships Against Calling at Saudi Arabia’s Ports",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/houthis-warn-all-ships-against-calling-at-saudi-arabias-ports",
-        "published": "2026-07-21T09:44:39Z",
+        "title": "How Commodity Trading Is Quietly Shaping Geneva’s Prestige Property Market",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/forbes-global-properties/2026/07/21/how-commodity-trading-is-quietly-shaping-genevas-prestige-property-market/",
+        "published": "2026-07-21T12:01:21Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran launches missile and drone attacks on 11 US bases, triggering $350M in crypto liquidations",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-attacks-us-bases-crypto-liquidations/",
+        "published": "2026-07-21T12:00:04Z",
         "sentiment": "danger"
       },
       {
-        "title": "IRGC: Two offending oil tankers trying to travel through Strait of Hormuz stopped",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260721-irna04.htm",
-        "published": "2026-07-21T09:41:07Z",
-        "sentiment": "watch"
+        "title": "Day 1,609 of WW3. Putin is attacking Ukrainian shipping in the Black Sea as Ukraine attacks russian shipping. This is your Tuesday Ukraine War thread [News]",
+        "source": "Fark.com",
+        "url": "https://www.fark.com/comments/14137600/Day-1609-of-WW3-Putin-is-attacking-Ukrainian-shipping-in-Black-Sea-as-Ukraine-attacks-russian-shipping-This-is-your-Tuesday-Ukraine-War-thread",
+        "published": "2026-07-21T12:00:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "A record El Niño is poised to be this year's next big supply shock for the global economy",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/el-nino-record-supply-shock-inflation-global-economy-iran-war-2026-7#article",
-        "published": "2026-07-21T09:20:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Dollar softens as investors weigh Middle East jitters against inflation data",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/news/dollar-near-one-week-high-013614377.html",
-        "published": "2026-07-21T09:17:05Z",
+        "title": "Oil Prices Top $90 as Kuwaiti Tanker Hit in Strait of Hormuz",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Top-90-as-Kuwaiti-Tanker-Hit-in-Strait-of-Hormuz.html",
+        "published": "2026-07-21T11:55:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Links 7/21/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/07/links-7-21-2026.html",
+        "published": "2026-07-21T10:59:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Sensex today | Stock Market Highlights: Sensex declines 238.41 points to settle at 77,470.11; Nifty dips 50.80 points to 24,187.70",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-21st-may-2026/article71245381.ece",
+        "published": "2026-07-21T10:33:03Z",
+        "sentiment": "watch"
+      },
       {
         "title": "US missile stockpile likely unable to handle prolonged war as Iran adapts to defenses: experts",
         "source": "New York Post",
@@ -76,27 +90,6 @@
         "url": "https://warontherocks.com/cogs-of-war/before-q-day-the-race-to-quantum-first/",
         "published": "2026-07-20T08:00:11Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran war, Myanmar crisis and South China Sea rifts under spotlight in ASEAN ministerial talks",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/iran-war-myanmar-crisis-and-south-china-sea-rifts-under-spotlight-in-asean-ministerial-talks/article71243772.ece",
-        "published": "2026-07-20T04:24:39Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The 2026 NATO Summit Confirmed A New Transatlantic Bargain",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/articles/2026/07/the-2026-nato-summit-confirmed-a-new-transatlantic-bargain/",
-        "published": "2026-07-20T04:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "ASEAN ministerial talks: Iran war, Myanmar crisis and South China Sea rifts under spotlight",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/asean-ministerial-talks-iran-war-myanmar-crisis-and-south-china-sea-rifts-under-spotlight/articleshow/132505425.cms",
-        "published": "2026-07-20T03:50:25Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
