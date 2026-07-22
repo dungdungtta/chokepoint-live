@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-22T01:09:26.486Z",
+    "generated_at": "2026-07-22T04:36:07.422Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran War Live Updates: U.S. and Iran Trade Attacks, After Killing of U.S. Soldiers - The New York Times",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184536798",
-        "published": "2026-07-21T00:52:42Z",
+        "title": "ASEAN Foreign Ministers Convene Meeting Under the Shadow of Iran War, Regional Crises",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/07/asean-foreign-ministers-convene-meeting-under-the-shadow-of-iran-war-regional-crises/",
+        "published": "2026-07-21T04:33:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Greek tanker hit off southern Iran amid rising Strait of Hormuz tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/greek-tanker-hit-off-southern-iran-amid-rising-strait-of-hormuz-tensions/",
-        "published": "2026-07-21T00:15:37Z",
+        "title": "Goldman says Brent could top $120 if Hormuz disruptions persist",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-21/goldman-says-brent-could-top-120-if-hormuz-disruptions-persist",
+        "published": "2026-07-21T04:21:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "US attacks Iran for tenth consecutive night",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/21/us-launches-tenth-consecutive-night-of-attacks-on-iran",
-        "published": "2026-07-21T00:06:33Z",
+        "title": "Kazakhstan condemns attack on vessels carrying hydrocarbons in Black Sea",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/kazakhstan-condemns-attack-on-vessels-carrying-hydrocarbons-in-black-sea/articleshow/132527645.cms",
+        "published": "2026-07-21T04:11:10Z",
         "sentiment": "danger"
       },
       {
-        "title": "With The U.S.-Iran Deal Collapsing, How Exposed Are Oil Markets Right Now?",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/With-The-US-Iran-Deal-Collapsing-How-Exposed-Are-Oil-Markets-Right-Now.html",
-        "published": "2026-07-20T23:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. launches more strikes on Iran after deaths of service members",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/show/u-s-launches-more-strikes-on-iran-after-deaths-of-service-members",
-        "published": "2026-07-20T22:55:17Z",
-        "sentiment": "danger"
+        "title": "Crude oil futures trade lower on possible ceasefire reports",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-trade-lower-on-possible-ceasefire-reports/article71247995.ece",
+        "published": "2026-07-21T04:09:32Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
