@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-22T12:04:50.166Z",
+    "generated_at": "2026-07-22T14:25:04.982Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,68 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "Brent crude rises above $91 as US-Iran conflict sends gas prices past $4",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/brent-crude-rises-91-us-iran-conflict-gas-prices/",
-        "published": "2026-07-21T12:02:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How Commodity Trading Is Quietly Shaping Geneva’s Prestige Property Market",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/forbes-global-properties/2026/07/21/how-commodity-trading-is-quietly-shaping-genevas-prestige-property-market/",
-        "published": "2026-07-21T12:01:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran launches missile and drone attacks on 11 US bases, triggering $350M in crypto liquidations",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-attacks-us-bases-crypto-liquidations/",
-        "published": "2026-07-21T12:00:04Z",
+        "title": "Houthis open a second war front: Threat of a Saudi Arabia blockade brings new risk to oil",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/07/21/houthis-open-a-second-war-front-threat-of-a-saudi-arabia-blockade-brings-new-risk-to-oil/",
+        "published": "2026-07-21T14:06:05Z",
         "sentiment": "danger"
       },
       {
-        "title": "Day 1,609 of WW3. Putin is attacking Ukrainian shipping in the Black Sea as Ukraine attacks russian shipping. This is your Tuesday Ukraine War thread [News]",
-        "source": "Fark.com",
-        "url": "https://www.fark.com/comments/14137600/Day-1609-of-WW3-Putin-is-attacking-Ukrainian-shipping-in-Black-Sea-as-Ukraine-attacks-russian-shipping-This-is-your-Tuesday-Ukraine-War-thread",
-        "published": "2026-07-21T12:00:00Z",
-        "sentiment": "danger"
+        "title": "Indian Refiners Halt Iraq Oil Loadings",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/indian_refiners_halt_iraq_oil_loadings-21-jul-2026-184177-article/",
+        "published": "2026-07-21T14:03:02Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Oil Prices Top $90 as Kuwaiti Tanker Hit in Strait of Hormuz",
+        "title": "Trump Vows Tehran Will 'Pay' As U.S. Strikes Iran for 10th Consecutive Night",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Top-90-as-Kuwaiti-Tanker-Hit-in-Strait-of-Hormuz.html",
-        "published": "2026-07-21T11:55:00Z",
+        "url": "https://oilprice.com/Energy/Energy-General/Trump-Vows-Tehran-Will-Pay-As-US-Strikes-Iran-for-10th-Consecutive-Night.html",
+        "published": "2026-07-21T14:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Skip summer traffic with one of these discounted Ausom e-scooters",
+        "source": "How-To Geek",
+        "url": "https://www.howtogeek.com/skip-summer-traffic-with-discounted-ausom-scooters/",
+        "published": "2026-07-21T13:55:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "12 Pack Of Near East Roasted Garlic And Olive Oil Couscous Mix Boxes For Just $12.70-$14.19 From Amazon!",
+        "source": "Dansdeals.com",
+        "url": "https://www.dansdeals.com/shopping-deals/amazon/12-pack-of-near-east-roasted-garlic-and-olive-oil-couscous-mix-boxes-for-just-12-70-14-19-from-amazon/",
+        "published": "2026-07-21T13:50:21Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "Links 7/21/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/07/links-7-21-2026.html",
-        "published": "2026-07-21T10:59:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Sensex today | Stock Market Highlights: Sensex declines 238.41 points to settle at 77,470.11; Nifty dips 50.80 points to 24,187.70",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-21st-may-2026/article71245381.ece",
-        "published": "2026-07-21T10:33:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US missile stockpile likely unable to handle prolonged war as Iran adapts to defenses: experts",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/07/20/world-news/us-missile-stockpile-likely-unable-to-handle-prolonged-war-as-iran-adapts-to-defenses-experts/",
-        "published": "2026-07-20T20:56:40Z",
+        "title": "Rubio Heads To ASEAN As Iran War Fuels Energy Security Fears",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/rubio-asean-iran-war-china-energy-security-russia/33809063.html",
+        "published": "2026-07-21T13:03:15Z",
         "sentiment": "danger"
       },
       {
-        "title": "Before Q-Day: The Race to Quantum First",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/cogs-of-war/before-q-day-the-race-to-quantum-first/",
-        "published": "2026-07-20T08:00:11Z",
+        "title": "Locked Into the Loop: “Predictive History” and the End of Statesmanship — Part 2",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/more/science/locked-into-the-loop-predictive-history-and-the-end-of-statesmanship-part-2/",
+        "published": "2026-07-21T12:56:57Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Could The US-Iran Battle For Hormuz Be A Win For Russia And China?",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/us-iran-hormuz-russia-china/33808969.html",
+        "published": "2026-07-21T12:39:50Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Rubio Attends ASEAN As Iran War Fuels Energy Security Fears",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260721-rferl01.htm",
+        "published": "2026-07-21T12:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "In apparent 1st, PLA chopper crosses Taiwan Strait median line",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260721-cna02.htm",
+        "published": "2026-07-21T12:00:00Z",
         "sentiment": "watch"
       }
     ],
