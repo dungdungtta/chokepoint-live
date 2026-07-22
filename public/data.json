@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-22T18:48:52.895Z",
+    "generated_at": "2026-07-22T20:16:35.157Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "India Pulls Back From Iraqi Oil as Hormuz Turns Too Dangerous",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Pulls-Back-From-Iraqi-Oil-as-Hormuz-Turns-Too-Dangerous.html",
-        "published": "2026-07-21T18:30:00Z",
+        "title": "US considers 20% toll on Strait of Hormuz amid Iran tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-considers-20-toll-on-strait-of-hormuz-amid-iran-tensions/",
+        "published": "2026-07-21T20:13:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "'Not finished': Trump signals US strikes on Iran's Pickaxe Mountain site",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-07-22/trump-pickaxe-mountain/106942520",
-        "published": "2026-07-21T18:00:15Z",
+        "title": "Why new Houthi threats in the Red Sea could spell trouble for global oil prices and inflation",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/why-new-houthi-threats-in-the-red-sea-could-spell-trouble-for-global-oil-prices-and-inflation-287948",
+        "published": "2026-07-21T20:10:09Z",
         "sentiment": "danger"
       },
       {
-        "title": "'Not finished': Trump signals US strikes on Iran's 'Pickaxe Mountain' site",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-07-22/trump-says-us-will-target-iran-nuclear-development-site/106942520",
-        "published": "2026-07-21T18:00:15Z",
-        "sentiment": "danger"
+        "title": "US stocks today: US stocks end higher on chip stocks recovery; earnings draw focus",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-on-chip-stocks-recovery-earnings-draw-focus/articleshow/132546607.cms",
+        "published": "2026-07-21T20:04:14Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Houthis threaten to attack shipping tankers if they use Saudi Arabian ports on Red Sea",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/34c04c9d8f108676",
-        "published": "2026-07-21T17:59:12Z",
-        "sentiment": "danger"
+        "title": "Norway's Oil Output Beats Forecasts as Hormuz Traffic Stays Near Crisis Lows",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Norways-Oil-Output-Beats-Forecasts-as-Hormuz-Traffic-Stays-Near-Crisis-Lows.html",
+        "published": "2026-07-21T20:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "At least 41 dead in Guyana capsized ferry disaster",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/07/at-least-41-dead-in-guyana-capsized-ferry-disaster/",
+        "published": "2026-07-21T19:59:52Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
