@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-22T22:43:16.286Z",
+    "generated_at": "2026-07-22T23:46:04.264Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Asian Stocks Set for Gains as Chipmakers Rebound: Markets Wrap",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/asian-stocks-set-for-gains-as-chipmakers-rebound-markets-wrap",
-        "published": "2026-07-21T22:34:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Renewed US-Iran strikes: Is a major war looming?",
-        "source": "RT",
-        "url": "https://www.rt.com/news/643312-us-iran-strikes-major-war/",
-        "published": "2026-07-21T22:29:02Z",
+        "title": "2 tankers carrying Saudi oil reverse course in Red Sea after Houthi threat, amid widening U.S.-Iran war",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/iran-tankers-war-us-9.7278658",
+        "published": "2026-07-21T23:32:03Z",
         "sentiment": "danger"
       },
       {
-        "title": "Asian refiners reroute Saudi oil via Suez Canal amid Houthi threats",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/asian-refiners-reroute-saudi-oil-via-suez-canal-amid-houthi-threats/",
-        "published": "2026-07-21T21:53:33Z",
-        "sentiment": "danger"
+        "title": "1929 Cadillac Type 341-B Coupe Project",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1929-cadillac-type-341-b/",
+        "published": "2026-07-21T23:30:06Z",
+        "sentiment": "watch"
       },
       {
-        "title": "The Oil Market Is Much More Vulnerable Than Trump Believes",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/07/21/iran-war-oil-markets-crude-prices-hormuz-strait-reserves-houthi-blockade-united-states-saudi-arabia/",
-        "published": "2026-07-21T21:45:54Z",
+        "title": "Trade all at sea: Freight rattled by delays, ship shortages and port congestion as West Asia conflict flares up again",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/trade-all-at-sea-freight-rattled-by-delays-ship-shortages-and-port-congestion-as-west-asia-conflict-flares-up-again/articleshow/132545840.cms",
+        "published": "2026-07-21T23:30:00Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Oil tops $90 as Iran hits tankers in Hormuz",
+        "source": "The Punch",
+        "url": "https://punchng.com/oil-tops-90-as-iran-hits-tankers-in-hormuz/",
+        "published": "2026-07-21T23:08:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "High prices to squeeze families’ cash, Bank of Ireland warns",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/2026/07/22/high-prices-to-squeeze-families-cash-bank-warns/",
+        "published": "2026-07-21T23:01:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
