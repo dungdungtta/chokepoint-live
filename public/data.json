@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-22T17:42:27.500Z",
+    "generated_at": "2026-07-22T18:48:52.895Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Houthi Warning on Saudi Ports Could Have Carriers Again Rethinking Red Sea",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/houthis-saudi-arabia-ports-ocean-carriers-container-market-energy-iran-war-1239077182/",
-        "published": "2026-07-21T17:38:44Z",
+        "title": "India Pulls Back From Iraqi Oil as Hormuz Turns Too Dangerous",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Pulls-Back-From-Iraqi-Oil-as-Hormuz-Turns-Too-Dangerous.html",
+        "published": "2026-07-21T18:30:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "'Not finished': Trump signals US strikes on Iran's Pickaxe Mountain site",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-07-22/trump-pickaxe-mountain/106942520",
+        "published": "2026-07-21T18:00:15Z",
         "sentiment": "danger"
       },
       {
-        "title": "Asian refiners look to Suez Canal to move Saudi oil amid Houthi shipping threats",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/asian-refiners-look-suez-canal-move-saudi-oil-amid-houthi-shipping-threats-6268866",
-        "published": "2026-07-21T17:36:38Z",
+        "title": "'Not finished': Trump signals US strikes on Iran's 'Pickaxe Mountain' site",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-07-22/trump-says-us-will-target-iran-nuclear-development-site/106942520",
+        "published": "2026-07-21T18:00:15Z",
         "sentiment": "danger"
       },
       {
-        "title": "EXCLUSIVE: Donald Trump 'Went to War With JD Vance' Over His Bombardment of Iran — 'Over the Use of the Word Obliterated'",
-        "source": "Radaronline.com",
-        "url": "https://radaronline.com/p/donald-trump-jd-vance-iran-war-obliterated-dispute/",
-        "published": "2026-07-21T17:14:20Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran War Causes Massive Disruptions in Jordan, Kuwait, Saudi Arabia",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/07/21/iran-war-causes-massive-disruptions-in-jordan-kuwait-saudi-arabia/",
-        "published": "2026-07-21T17:08:11Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Saudi tankers reroute via Cape of Good Hope amid Houthi blockade threat",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/saudi-tankers-reroute-via-cape-of-good-hope-amid-houthi-blockade-threat/",
-        "published": "2026-07-21T17:01:40Z",
+        "title": "Houthis threaten to attack shipping tankers if they use Saudi Arabian ports on Red Sea",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/34c04c9d8f108676",
+        "published": "2026-07-21T17:59:12Z",
         "sentiment": "danger"
       }
     ],
