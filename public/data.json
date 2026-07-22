@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-22T20:16:35.157Z",
+    "generated_at": "2026-07-22T21:38:38.287Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US considers 20% toll on Strait of Hormuz amid Iran tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-considers-20-toll-on-strait-of-hormuz-amid-iran-tensions/",
-        "published": "2026-07-21T20:13:24Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why new Houthi threats in the Red Sea could spell trouble for global oil prices and inflation",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/why-new-houthi-threats-in-the-red-sea-could-spell-trouble-for-global-oil-prices-and-inflation-287948",
-        "published": "2026-07-21T20:10:09Z",
+        "title": "Goldman Sachs Warns That Oil Could Soon Hit $120 As The “Crack Spread” Soars To New All-Time Highs",
+        "source": "Theeconomiccollapseblog.com",
+        "url": "http://theeconomiccollapseblog.com/goldman-sachs-warns-that-oil-could-soon-hit-120-as-the-crack-spread-soars-to-new-all-time-highs/",
+        "published": "2026-07-21T21:30:54Z",
         "sentiment": "danger"
       },
       {
-        "title": "US stocks today: US stocks end higher on chip stocks recovery; earnings draw focus",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-on-chip-stocks-recovery-earnings-draw-focus/articleshow/132546607.cms",
-        "published": "2026-07-21T20:04:14Z",
-        "sentiment": "watch"
+        "title": "UN’s worst-case scenario: Energy and fertilizer shock from Iran war could push nearly 19 million more into chronic hunger by 2030",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/e658a80db1529ebf",
+        "published": "2026-07-21T21:30:51Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Norway's Oil Output Beats Forecasts as Hormuz Traffic Stays Near Crisis Lows",
+        "title": "US Crude Oil Inventories Build As Hormuz Shipping Headache Drags On",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Norways-Oil-Output-Beats-Forecasts-as-Hormuz-Traffic-Stays-Near-Crisis-Lows.html",
-        "published": "2026-07-21T20:00:00Z",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Build-As-Hormuz-Shipping-Headache-Drags-On.html",
+        "published": "2026-07-21T21:10:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "At least 41 dead in Guyana capsized ferry disaster",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/07/at-least-41-dead-in-guyana-capsized-ferry-disaster/",
-        "published": "2026-07-21T19:59:52Z",
+        "title": "Wall St ends higher on chip stocks recovery; earnings in focus",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/companies-markets/wall-st-ends-higher-on-chip-stocks-recovery-earnings-in-focus",
+        "published": "2026-07-21T21:00:23Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Guyana reports ferry disaster death toll rises to 41",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/guyana-reports-ferry-disaster-death-toll-rises-to-41",
+        "published": "2026-07-21T20:54:41Z",
         "sentiment": "watch"
       }
     ],
