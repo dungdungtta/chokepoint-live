@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-22T07:24:57.181Z",
+    "generated_at": "2026-07-22T10:02:35.314Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran warns that conflict is now a 'full-scale war' after latest round of US attacks",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/iran-pesident-full-scale-war-us-attacks-7108778-Jul2026/",
-        "published": "2026-07-21T07:09:32Z",
+        "title": "Shipping transits slow to a trickle as Strait of Hormuz faces “worst-case scenario”",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/21/shipping-transits-slow-trickle-strait-of-hormuz-faces-worst-case-scenario/",
+        "published": "2026-07-21T09:59:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Houthis Warn All Ships Against Calling at Saudi Arabia’s Ports",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/houthis-warn-all-ships-against-calling-at-saudi-arabias-ports",
+        "published": "2026-07-21T09:44:39Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil prices to hit $120 soon? Goldman Sachs makes big prediction as Hormuz concerns loom",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-to-hit-120-soon-goldman-sachs-makes-big-prediction-as-hormuz-concerns-loom/articleshow/132530153.cms",
-        "published": "2026-07-21T06:59:19Z",
+        "title": "IRGC: Two offending oil tankers trying to travel through Strait of Hormuz stopped",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260721-irna04.htm",
+        "published": "2026-07-21T09:41:07Z",
         "sentiment": "watch"
       },
       {
-        "title": "Yemen’s Iranian-backed Houthis say they will block Saudi shipping at Red Sea gateway - AP News",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184543262",
-        "published": "2026-07-21T06:52:46Z",
+        "title": "A record El Niño is poised to be this year's next big supply shock for the global economy",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/el-nino-record-supply-shock-inflation-global-economy-iran-war-2026-7#article",
+        "published": "2026-07-21T09:20:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "Another Tanker Hit in Hormuz as Houthis Add to Regional Risks",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/another-tanker-hit-in-hormuz-as-houthis-add-to-regional-risks",
-        "published": "2026-07-21T06:51:05Z",
+        "title": "Dollar softens as investors weigh Middle East jitters against inflation data",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/news/dollar-near-one-week-high-013614377.html",
+        "published": "2026-07-21T09:17:05Z",
         "sentiment": "watch"
       }
     ],
