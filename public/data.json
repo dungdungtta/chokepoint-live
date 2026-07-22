@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-22T14:25:04.982Z",
+    "generated_at": "2026-07-22T16:03:36.634Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Houthis open a second war front: Threat of a Saudi Arabia blockade brings new risk to oil",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/07/21/houthis-open-a-second-war-front-threat-of-a-saudi-arabia-blockade-brings-new-risk-to-oil/",
-        "published": "2026-07-21T14:06:05Z",
+        "title": "Two Tankers Carrying Saudi Crude Make U-turns in Red Sea After Houthi Warning",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/two-tankers-carrying-saudi-crude-make-u-turns-in-red-sea-after-houthi-warning/",
+        "published": "2026-07-21T15:59:16Z",
         "sentiment": "danger"
       },
       {
-        "title": "Indian Refiners Halt Iraq Oil Loadings",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/indian_refiners_halt_iraq_oil_loadings-21-jul-2026-184177-article/",
-        "published": "2026-07-21T14:03:02Z",
-        "sentiment": "watch"
+        "title": "US, Iran intensify attacks as diplomacy struggles to revive truce",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-iran-intensify-attacks-as-diplomacy-struggles-to-revive-truce/articleshow/132540759.cms",
+        "published": "2026-07-21T15:55:34Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Trump Vows Tehran Will 'Pay' As U.S. Strikes Iran for 10th Consecutive Night",
+        "title": "Houthi Threats Ignite New Oil Price Surge",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Trump-Vows-Tehran-Will-Pay-As-US-Strikes-Iran-for-10th-Consecutive-Night.html",
-        "published": "2026-07-21T14:00:00Z",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Houthi-Threats-Ignite-New-Oil-Price-Surge.html",
+        "published": "2026-07-21T15:53:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Skip summer traffic with one of these discounted Ausom e-scooters",
-        "source": "How-To Geek",
-        "url": "https://www.howtogeek.com/skip-summer-traffic-with-discounted-ausom-scooters/",
-        "published": "2026-07-21T13:55:36Z",
-        "sentiment": "watch"
+        "title": "Trump Says Houthi Red Sea Blockade ‘Might Happen’ But ‘We’ll Take Care of It’",
+        "source": "Mediaite",
+        "url": "https://www.mediaite.com/media/tv/trump-says-houthi-red-sea-blockade-might-happen-but-well-take-care-of-it/",
+        "published": "2026-07-21T15:49:21Z",
+        "sentiment": "danger"
       },
       {
-        "title": "12 Pack Of Near East Roasted Garlic And Olive Oil Couscous Mix Boxes For Just $12.70-$14.19 From Amazon!",
-        "source": "Dansdeals.com",
-        "url": "https://www.dansdeals.com/shopping-deals/amazon/12-pack-of-near-east-roasted-garlic-and-olive-oil-couscous-mix-boxes-for-just-12-70-14-19-from-amazon/",
-        "published": "2026-07-21T13:50:21Z",
-        "sentiment": "watch"
+        "title": "Houthis declare Saudi blockade as tankers turn back in the Red Sea",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/houthis-saudi-blockade-red-sea-tankers/",
+        "published": "2026-07-21T15:47:25Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
