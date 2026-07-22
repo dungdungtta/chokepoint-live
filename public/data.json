@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-07-22T16:03:36.634Z",
+    "generated_at": "2026-07-22T17:42:27.500Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 81.62,
-      "change_pct": 9.8,
-      "date": "2026-07-13",
+      "price": 86.99,
+      "change_pct": 2.3,
+      "date": "2026-07-20",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Two Tankers Carrying Saudi Crude Make U-turns in Red Sea After Houthi Warning",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/two-tankers-carrying-saudi-crude-make-u-turns-in-red-sea-after-houthi-warning/",
-        "published": "2026-07-21T15:59:16Z",
+        "title": "Houthi Warning on Saudi Ports Could Have Carriers Again Rethinking Red Sea",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/houthis-saudi-arabia-ports-ocean-carriers-container-market-energy-iran-war-1239077182/",
+        "published": "2026-07-21T17:38:44Z",
         "sentiment": "danger"
       },
       {
-        "title": "US, Iran intensify attacks as diplomacy struggles to revive truce",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/us-iran-intensify-attacks-as-diplomacy-struggles-to-revive-truce/articleshow/132540759.cms",
-        "published": "2026-07-21T15:55:34Z",
+        "title": "Asian refiners look to Suez Canal to move Saudi oil amid Houthi shipping threats",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/asian-refiners-look-suez-canal-move-saudi-oil-amid-houthi-shipping-threats-6268866",
+        "published": "2026-07-21T17:36:38Z",
         "sentiment": "danger"
       },
       {
-        "title": "Houthi Threats Ignite New Oil Price Surge",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Houthi-Threats-Ignite-New-Oil-Price-Surge.html",
-        "published": "2026-07-21T15:53:00Z",
+        "title": "EXCLUSIVE: Donald Trump 'Went to War With JD Vance' Over His Bombardment of Iran — 'Over the Use of the Word Obliterated'",
+        "source": "Radaronline.com",
+        "url": "https://radaronline.com/p/donald-trump-jd-vance-iran-war-obliterated-dispute/",
+        "published": "2026-07-21T17:14:20Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump Says Houthi Red Sea Blockade ‘Might Happen’ But ‘We’ll Take Care of It’",
-        "source": "Mediaite",
-        "url": "https://www.mediaite.com/media/tv/trump-says-houthi-red-sea-blockade-might-happen-but-well-take-care-of-it/",
-        "published": "2026-07-21T15:49:21Z",
+        "title": "Iran War Causes Massive Disruptions in Jordan, Kuwait, Saudi Arabia",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/07/21/iran-war-causes-massive-disruptions-in-jordan-kuwait-saudi-arabia/",
+        "published": "2026-07-21T17:08:11Z",
         "sentiment": "danger"
       },
       {
-        "title": "Houthis declare Saudi blockade as tankers turn back in the Red Sea",
+        "title": "Saudi tankers reroute via Cape of Good Hope amid Houthi blockade threat",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/houthis-saudi-blockade-red-sea-tankers/",
-        "published": "2026-07-21T15:47:25Z",
+        "url": "https://cryptobriefing.com/saudi-tankers-reroute-via-cape-of-good-hope-amid-houthi-blockade-threat/",
+        "published": "2026-07-21T17:01:40Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Beyond a ‘Non-Red’ Supply Chain, Taiwan Should Export a Drone Ecosystem",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/07/beyond-a-non-red-supply-chain-taiwan-should-export-a-drone-ecosystem/",
+        "published": "2026-07-21T16:15:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Rubio Heads To ASEAN As Iran War Fuels Energy Security Fears",
         "source": "Radio Free Europe/ Radio Liberty",
@@ -90,13 +97,6 @@
         "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260721-rferl01.htm",
         "published": "2026-07-21T12:00:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "In apparent 1st, PLA chopper crosses Taiwan Strait median line",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260721-cna02.htm",
-        "published": "2026-07-21T12:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
