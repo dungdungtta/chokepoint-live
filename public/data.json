@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T23:34:31.239Z",
+    "generated_at": "2026-07-22T01:09:26.486Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran War Live Updates: U.S. and Iran Trade Attacks, After Killing of U.S. Soldiers - The New York Times",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184536798",
+        "published": "2026-07-21T00:52:42Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Greek tanker hit off southern Iran amid rising Strait of Hormuz tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/greek-tanker-hit-off-southern-iran-amid-rising-strait-of-hormuz-tensions/",
+        "published": "2026-07-21T00:15:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US attacks Iran for tenth consecutive night",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/us-launches-tenth-consecutive-night-of-attacks-on-iran",
+        "published": "2026-07-21T00:06:33Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "With The U.S.-Iran Deal Collapsing, How Exposed Are Oil Markets Right Now?",
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Energy/Crude-Oil/With-The-US-Iran-Deal-Collapsing-How-Exposed-Are-Oil-Markets-Right-Now.html",
@@ -38,27 +59,6 @@
         "source": "PBS",
         "url": "https://www.pbs.org/newshour/show/u-s-launches-more-strikes-on-iran-after-deaths-of-service-members",
         "published": "2026-07-20T22:55:17Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran war hurting U.S. allies in region, former Jordanian foreign minister says",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/show/iran-war-hurting-u-s-allies-in-region-former-jordanian-foreign-minister-says",
-        "published": "2026-07-20T22:52:05Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S. military launches 10th straight night of airstrikes on Iran as Houthi allies threaten Red Sea, but glimmers of hope appear on diplomatic front",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/20/us-military-10th-straight-airstrikes-iran-houthi-allies-red-sea-diplomatic-front/",
-        "published": "2026-07-20T22:43:15Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Furious Trump promises payback 'many times over' for each American soldier killed in war against Iran as US launches strikes for 10th consecutive night",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15991973/Trump-payback-American-soldiers-killed-Iran.html",
-        "published": "2026-07-20T22:05:22Z",
         "sentiment": "danger"
       }
     ],
