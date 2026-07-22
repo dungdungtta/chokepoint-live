@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-22T04:36:07.422Z",
+    "generated_at": "2026-07-22T07:24:57.181Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "ASEAN Foreign Ministers Convene Meeting Under the Shadow of Iran War, Regional Crises",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/07/asean-foreign-ministers-convene-meeting-under-the-shadow-of-iran-war-regional-crises/",
-        "published": "2026-07-21T04:33:00Z",
+        "title": "Iran warns that conflict is now a 'full-scale war' after latest round of US attacks",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/iran-pesident-full-scale-war-us-attacks-7108778-Jul2026/",
+        "published": "2026-07-21T07:09:32Z",
         "sentiment": "danger"
       },
       {
-        "title": "Goldman says Brent could top $120 if Hormuz disruptions persist",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-21/goldman-says-brent-could-top-120-if-hormuz-disruptions-persist",
-        "published": "2026-07-21T04:21:58Z",
+        "title": "Oil prices to hit $120 soon? Goldman Sachs makes big prediction as Hormuz concerns loom",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-to-hit-120-soon-goldman-sachs-makes-big-prediction-as-hormuz-concerns-loom/articleshow/132530153.cms",
+        "published": "2026-07-21T06:59:19Z",
         "sentiment": "watch"
       },
       {
-        "title": "Kazakhstan condemns attack on vessels carrying hydrocarbons in Black Sea",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/kazakhstan-condemns-attack-on-vessels-carrying-hydrocarbons-in-black-sea/articleshow/132527645.cms",
-        "published": "2026-07-21T04:11:10Z",
-        "sentiment": "danger"
+        "title": "Yemen’s Iranian-backed Houthis say they will block Saudi shipping at Red Sea gateway - AP News",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184543262",
+        "published": "2026-07-21T06:52:46Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Crude oil futures trade lower on possible ceasefire reports",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-trade-lower-on-possible-ceasefire-reports/article71247995.ece",
-        "published": "2026-07-21T04:09:32Z",
-        "sentiment": "neutral"
+        "title": "Another Tanker Hit in Hormuz as Houthis Add to Regional Risks",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/another-tanker-hit-in-hormuz-as-houthis-add-to-regional-risks",
+        "published": "2026-07-21T06:51:05Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
