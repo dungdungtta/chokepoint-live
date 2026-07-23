@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-23T15:26:03.458Z",
+    "generated_at": "2026-07-23T17:00:42.947Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says - CNBC",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184583540",
-        "published": "2026-07-22T15:13:50Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/132561965.cms",
-        "published": "2026-07-22T15:12:48Z",
+        "title": "Brazil’s Oil Boom Is Accelerating as Asian Buyers Flee the Middle East",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Brazils-Oil-Boom-Is-Accelerating-as-Asian-Buyers-Flee-the-Middle-East.html",
+        "published": "2026-07-22T17:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Ukraine hits more warehouses of top Russian retailer Wildberries",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-07-23/ukraine-strikes-russian-wildberries-retail/106947118",
-        "published": "2026-07-22T15:11:33Z",
+        "title": "Dow Jones turns positive despite Trump’s threats on Iran",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/dow-jones-positive-despite-trump-iran-threats/",
+        "published": "2026-07-22T16:41:03Z",
         "sentiment": "danger"
       },
       {
-        "title": "Market Trading Guide: Bajaj Auto among 7 stock recommendations for Thursday",
-        "source": "Economictimes.com",
-        "url": "https://m.economictimes.com/markets/stocks/news/market-trading-guide-bajaj-auto-among-7-stock-recommendations-for-thursday/cautious-trade/slideshow/132562171.cms",
-        "published": "2026-07-22T15:08:22Z",
+        "title": "Trump issues chilling red-line threat as Iran opens new front and oil prices go haywire",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15997393/trump-iran-threat-oil-hormuz.html",
+        "published": "2026-07-22T16:38:28Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Ghana Holds Rate Steady as US-Iran War Drives Inflation Risk",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/ghana-holds-rate-steady-as-us-iran-war-drives-inflation-risk",
+        "published": "2026-07-22T16:09:57Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil Tops $95 With US-Iran Hostilities Ratcheting Up Supply Risks",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/oil-tops-95-with-us-iran-hostilities-ratcheting-up-supply-risks",
+        "published": "2026-07-22T16:09:43Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Houthi Threat Squeezes Options for Oil Shippers",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/houthi_threat_squeezes_options_for_oil_shippers-22-jul-2026-184182-article/",
-        "published": "2026-07-22T15:03:06Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Top Gun: Maverick Theory of Pete Hegseth",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/national-security/2026/07/top-gun-hegseth-pentagon-leadership/687997/",
+        "published": "2026-07-22T16:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Hormuz Crisis Is Driving a Geopolitical Shift Across Asia",
         "source": "OilPrice.com",
@@ -89,13 +96,6 @@
         "source": "Smallwarsjournal.com",
         "url": "https://smallwarsjournal.com/2026/07/22/rethinking-landpower-first-island-chain/",
         "published": "2026-07-22T06:00:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Beyond a ‘Non-Red’ Supply Chain, Taiwan Should Export a Drone Ecosystem",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/07/beyond-a-non-red-supply-chain-taiwan-should-export-a-drone-ecosystem/",
-        "published": "2026-07-21T16:15:00Z",
         "sentiment": "watch"
       }
     ],
