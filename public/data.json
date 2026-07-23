@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-22T23:46:04.264Z",
+    "generated_at": "2026-07-23T03:34:15.304Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "2 tankers carrying Saudi oil reverse course in Red Sea after Houthi threat, amid widening U.S.-Iran war",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/iran-tankers-war-us-9.7278658",
-        "published": "2026-07-21T23:32:03Z",
+        "title": "Tech lifts Asia stocks, Brent crude back above US$92",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/asia/tech-lifts-asia-stocks-brent-crude-back-above-us92-6269771",
+        "published": "2026-07-22T03:16:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Prices Climb as U.S.-Iran Conflict Shows No Signs of Slowing",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-US-Iran-Conflict-Shows-No-Signs-of-Slowing.html",
+        "published": "2026-07-22T03:08:20Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Tech lifts Asia stocks, Brent crude back above $92",
+        "source": "Digital Journal",
+        "url": "https://www.digitaljournal.com/article/tech-lifts-asia-stocks-brent-crude-back-above-92/",
+        "published": "2026-07-22T03:05:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US renews strikes on Iran as Trump threatens to attack Pickaxe Mountain",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo",
+        "published": "2026-07-22T03:05:08Z",
         "sentiment": "danger"
       },
       {
-        "title": "1929 Cadillac Type 341-B Coupe Project",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1929-cadillac-type-341-b/",
-        "published": "2026-07-21T23:30:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trade all at sea: Freight rattled by delays, ship shortages and port congestion as West Asia conflict flares up again",
+        "title": "Oil Price Today (July 22): Crude oil crosses $90, hits 2-month high as US strikes enter 11th day. $120 possible, say experts",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/trade-all-at-sea-freight-rattled-by-delays-ship-shortages-and-port-congestion-as-west-asia-conflict-flares-up-again/articleshow/132545840.cms",
-        "published": "2026-07-21T23:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil tops $90 as Iran hits tankers in Hormuz",
-        "source": "The Punch",
-        "url": "https://punchng.com/oil-tops-90-as-iran-hits-tankers-in-hormuz/",
-        "published": "2026-07-21T23:08:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "High prices to squeeze families’ cash, Bank of Ireland warns",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/2026/07/22/high-prices-to-squeeze-families-cash-bank-warns/",
-        "published": "2026-07-21T23:01:00Z",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-22-crude-oil-crosses-90-hits-2-month-high-as-us-strikes-enter-11th-day-120-possible-say-experts/articleshow/132532829.cms",
+        "published": "2026-07-22T02:16:04Z",
         "sentiment": "danger"
       }
     ],
