@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-23T11:20:58.633Z",
+    "generated_at": "2026-07-23T13:05:29.595Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Three Tankers Carrying Saudi Crude Make U-Turns in Red Sea After Houthi Warning",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/07/22/878526.htm",
-        "published": "2026-07-22T11:12:56Z",
+        "title": "World Bank warns Iran conflict could derail global growth as Hormuz disruptions bite",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/world-bank-iran-conflict-global-growth-warning/",
+        "published": "2026-07-22T12:40:53Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil Jumps Nearly 4% as Houthis Threaten Red Sea Blockade",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-Nearly-4-as-Houthis-Threaten-Red-Sea-Blockade.html",
-        "published": "2026-07-22T11:10:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Hegseth requests more funding for Iran war and Zelenskyy fires his commander in chief: Morning Rundown",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/news/us-news/hegseth-funding-iran-war-zelenskyy-fires-syrskyi-morning-rundown-rcna588656",
-        "published": "2026-07-22T11:07:44Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia",
-        "published": "2026-07-22T11:04:43Z",
+        "title": "EU Naval Force Boards Sanctioned Russian Shadow Fleet Tanker Over Suspected False Flag",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/eu-naval-force-boards-sanctioned-russian-shadow-fleet-tanker-over-suspected-false-flag/",
+        "published": "2026-07-22T12:38:03Z",
         "sentiment": "watch"
       },
       {
-        "title": "Sensex today | Stock Market Highlights: Sensex falls 715 points, Nifty slips below 24,000; media, realty drag, FMCG and auto resilient",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-22nd-july-2026/article71249266.ece",
-        "published": "2026-07-22T10:54:13Z",
+        "title": "Can the Suez save Asian oil consumers after Houthis shut Bab al-Mandeb?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/22/can-the-suez-save-asian-oil-consumers-after-houthis-shut-bab-al-mandeb",
+        "published": "2026-07-22T12:36:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Pakistan Scrambles for Oil Alternatives as Hormuz, Red Sea Risks Mount",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Scrambles-for-Oil-Alternatives-as-Hormuz-Red-Sea-Risks-Mount.html",
+        "published": "2026-07-22T12:30:00Z",
         "sentiment": "watch"
       }
     ],
