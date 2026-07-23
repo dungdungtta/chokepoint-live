@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-23T13:05:29.595Z",
+    "generated_at": "2026-07-23T15:26:03.458Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "World Bank warns Iran conflict could derail global growth as Hormuz disruptions bite",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/world-bank-iran-conflict-global-growth-warning/",
-        "published": "2026-07-22T12:40:53Z",
+        "title": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says - CNBC",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184583540",
+        "published": "2026-07-22T15:13:50Z",
         "sentiment": "danger"
       },
       {
-        "title": "EU Naval Force Boards Sanctioned Russian Shadow Fleet Tanker Over Suspected False Flag",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/eu-naval-force-boards-sanctioned-russian-shadow-fleet-tanker-over-suspected-false-flag/",
-        "published": "2026-07-22T12:38:03Z",
+        "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/132561965.cms",
+        "published": "2026-07-22T15:12:48Z",
         "sentiment": "watch"
       },
       {
-        "title": "Can the Suez save Asian oil consumers after Houthis shut Bab al-Mandeb?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/22/can-the-suez-save-asian-oil-consumers-after-houthis-shut-bab-al-mandeb",
-        "published": "2026-07-22T12:36:06Z",
+        "title": "Ukraine hits more warehouses of top Russian retailer Wildberries",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-07-23/ukraine-strikes-russian-wildberries-retail/106947118",
+        "published": "2026-07-22T15:11:33Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Market Trading Guide: Bajaj Auto among 7 stock recommendations for Thursday",
+        "source": "Economictimes.com",
+        "url": "https://m.economictimes.com/markets/stocks/news/market-trading-guide-bajaj-auto-among-7-stock-recommendations-for-thursday/cautious-trade/slideshow/132562171.cms",
+        "published": "2026-07-22T15:08:22Z",
         "sentiment": "watch"
       },
       {
-        "title": "Pakistan Scrambles for Oil Alternatives as Hormuz, Red Sea Risks Mount",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Scrambles-for-Oil-Alternatives-as-Hormuz-Red-Sea-Risks-Mount.html",
-        "published": "2026-07-22T12:30:00Z",
-        "sentiment": "watch"
+        "title": "Houthi Threat Squeezes Options for Oil Shippers",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/houthi_threat_squeezes_options_for_oil_shippers-22-jul-2026-184182-article/",
+        "published": "2026-07-22T15:03:06Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Hormuz Crisis Is Driving a Geopolitical Shift Across Asia",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Geopolitics/Asia/The-Hormuz-Crisis-Is-Driving-a-Geopolitical-Shift-Across-Asia.html",
+        "published": "2026-07-22T14:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China is building a massive ship that should scare Americans about the future",
         "source": "Fox News",
@@ -83,13 +97,6 @@
         "url": "https://thediplomat.com/2026/07/beyond-a-non-red-supply-chain-taiwan-should-export-a-drone-ecosystem/",
         "published": "2026-07-21T16:15:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Rubio Heads To ASEAN As Iran War Fuels Energy Security Fears",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/rubio-asean-iran-war-china-energy-security-russia/33809063.html",
-        "published": "2026-07-21T13:03:15Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
