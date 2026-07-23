@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-23T09:10:38.910Z",
+    "generated_at": "2026-07-23T11:20:58.633Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Houthis plan to block Red Sea oil route, threatening global shipping lane",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/houthis-plan-to-block-red-sea-oil-route-threatening-global-shipping-lane/",
-        "published": "2026-07-22T09:05:08Z",
+        "title": "Three Tankers Carrying Saudi Crude Make U-Turns in Red Sea After Houthi Warning",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/07/22/878526.htm",
+        "published": "2026-07-22T11:12:56Z",
         "sentiment": "danger"
       },
       {
-        "title": "Spyderco Sage 5 Salt Adds G-10 and Black MagnaCut Versions for 2026",
-        "source": "The Gadgeteer",
-        "url": "https://the-gadgeteer.com/2026/07/22/spyderco-sage-5-salt-g10-magnacut/",
-        "published": "2026-07-22T09:00:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil near six-week highs as conflict threatens key routes",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/0722/1584542-world-oil-prices/",
-        "published": "2026-07-22T08:43:39Z",
+        "title": "Oil Jumps Nearly 4% as Houthis Threaten Red Sea Blockade",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-Nearly-4-as-Houthis-Threaten-Red-Sea-Blockade.html",
+        "published": "2026-07-22T11:10:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran, Gulf hit as Hormuz, Bab al-Mandeb close: What’s the latest?",
+        "title": "Hegseth requests more funding for Iran war and Zelenskyy fires his commander in chief: Morning Rundown",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/hegseth-funding-iran-war-zelenskyy-fires-syrskyi-morning-rundown-rcna588656",
+        "published": "2026-07-22T11:07:44Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
         "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/22/iran-gulf-hit-as-hormuz-bab-al-mandeb-close-whats-the-latest",
-        "published": "2026-07-22T08:43:26Z",
+        "url": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia",
+        "published": "2026-07-22T11:04:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "US hits Iran, says war cost at $37.5 bn",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/07/us-hits-iran-says-war-cost-at-37-5-bn/",
-        "published": "2026-07-22T08:37:08Z",
-        "sentiment": "danger"
+        "title": "Sensex today | Stock Market Highlights: Sensex falls 715 points, Nifty slips below 24,000; media, realty drag, FMCG and auto resilient",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-22nd-july-2026/article71249266.ece",
+        "published": "2026-07-22T10:54:13Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
