@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-23T18:38:34.459Z",
+    "generated_at": "2026-07-23T20:01:37.294Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Greece derails EU’s Russia sanctions plan",
-        "source": "POLITICO.eu",
-        "url": "https://www.politico.eu/article/greece-derail-eu-russia-sanctions-plan/",
-        "published": "2026-07-22T18:15:26Z",
+        "title": "Iran Apparently Seizes Greek Billionaire’s Shipping Tanker In Strait Of Hormuz, Report Says",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/maryroeloffs/2026/07/22/iran-apparently-seizes-greek-billionaires-shipping-tanker-in-strait-of-hormuz-report-says/",
+        "published": "2026-07-22T19:37:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "Obasanjo urges Ibru Family to preserve unity, legacy at book launch",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/07/obasanjo-urges-ibru-family-to-preserve-unity-legacy-at-book-launch/",
-        "published": "2026-07-22T18:13:26Z",
+        "title": "Even Trump’s Friend Bill O’Reilly Is Raising Concerns About His Age",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/bill-oreilly-trump-break-old-age_n_6a610b17e4b063cecec81d1b",
+        "published": "2026-07-22T19:36:42Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump threatens Iran bridges, power as payback for Hormuz attacks",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/trump-threatens-iran-bridges-power-payback-hormuz-attacks-6271671",
-        "published": "2026-07-22T18:03:09Z",
+        "title": "U.S. will destroy Iranian bridges for each attack in Strait of Hormuz, Trump says",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/27dfd97a986e86b3",
+        "published": "2026-07-22T19:29:03Z",
         "sentiment": "danger"
       },
       {
-        "title": "More tankers turn back as Houthi threat rattles Red Sea oil trade",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/more-tankers-turn-back-as-houthi-threat-rattles-red-sea-oil-trade/articleshow/132565611.cms",
-        "published": "2026-07-22T18:01:56Z",
-        "sentiment": "danger"
+        "title": "Active Pet Odor & Stain Eliminator 32-oz. Enzyme Cleaner for $19 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Active-Pet-Odor-Stain-Eliminator-32-oz-Enzyme-Cleaner-for-19-free-shipping-w-Prime/21920672.html",
+        "published": "2026-07-22T19:20:05Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Tankers make sharp U-turns after Houthi shipping threat - BBC",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184586834",
-        "published": "2026-07-22T17:53:25Z",
-        "sentiment": "danger"
+        "title": "Shipping insider says \"nothing is going through\" the Strait of Hormuz, despite U.S. insisting it's open",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4388967/posts",
+        "published": "2026-07-22T19:19:08Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
