@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-23T06:19:05.013Z",
+    "generated_at": "2026-07-23T09:10:38.910Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump plays down prospects of Iran talks amid Red Sea threat",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-21/trump-plays-down-prospects-for-iran-talks-amid-red-sea-threat",
-        "published": "2026-07-22T06:17:40Z",
+        "title": "Houthis plan to block Red Sea oil route, threatening global shipping lane",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/houthis-plan-to-block-red-sea-oil-route-threatening-global-shipping-lane/",
+        "published": "2026-07-22T09:05:08Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump says US 'not finished' with Iran as fresh strikes hit Tehran",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/trump-iran-us-strikes-tehran-middle-east-7109770-Jul2026/",
-        "published": "2026-07-22T06:02:59Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The Red Sea Blockade: Why the Coming Energy Shock Will Hit America Hard",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-22-red-sea-blockade-the-coming-energy-shock.html",
-        "published": "2026-07-22T06:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "No One is Ready for the Civilizational Collapse That’s Coming",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-22-no-one-is-ready-for-civilizational-collapse.html",
-        "published": "2026-07-22T06:00:00Z",
+        "title": "Spyderco Sage 5 Salt Adds G-10 and Black MagnaCut Versions for 2026",
+        "source": "The Gadgeteer",
+        "url": "https://the-gadgeteer.com/2026/07/22/spyderco-sage-5-salt-g10-magnacut/",
+        "published": "2026-07-22T09:00:36Z",
         "sentiment": "watch"
       },
       {
-        "title": "U.S.-Iran ceasefire proposal emerges as 10-day truce plan circulates amid escalating conflict",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-22-us-iran-ceasefire-proposal-emerges-amid-escalating-conflict.html",
-        "published": "2026-07-22T06:00:00Z",
+        "title": "Oil near six-week highs as conflict threatens key routes",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0722/1584542-world-oil-prices/",
+        "published": "2026-07-22T08:43:39Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran, Gulf hit as Hormuz, Bab al-Mandeb close: What’s the latest?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/22/iran-gulf-hit-as-hormuz-bab-al-mandeb-close-whats-the-latest",
+        "published": "2026-07-22T08:43:26Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US hits Iran, says war cost at $37.5 bn",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/07/us-hits-iran-says-war-cost-at-37-5-bn/",
+        "published": "2026-07-22T08:37:08Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "China is building a massive ship that should scare Americans about the future",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/opinion/china-building-massive-ship-scare-americans-future",
+        "published": "2026-07-22T09:00:24Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China’s Law on Promoting Ethnic Unity and Progress and Extraterritorial Jurisdiction",
+        "source": "Opiniojuris.org",
+        "url": "http://opiniojuris.org/2026/07/22/chinas-law-on-promoting-ethnic-unity-and-progress-and-extraterritorial-jurisdiction/",
+        "published": "2026-07-22T08:00:31Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Mind the Gaps: Rethinking Landpower in a Maritime Environment",
         "source": "Smallwarsjournal.com",
@@ -83,20 +97,6 @@
         "url": "https://www.rferl.org/a/rubio-asean-iran-war-china-energy-security-russia/33809063.html",
         "published": "2026-07-21T13:03:15Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Locked Into the Loop: “Predictive History” and the End of Statesmanship — Part 2",
-        "source": "Fair Observer",
-        "url": "https://www.fairobserver.com/more/science/locked-into-the-loop-predictive-history-and-the-end-of-statesmanship-part-2/",
-        "published": "2026-07-21T12:56:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Could The US-Iran Battle For Hormuz Be A Win For Russia And China?",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/us-iran-hormuz-russia-china/33808969.html",
-        "published": "2026-07-21T12:39:50Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
