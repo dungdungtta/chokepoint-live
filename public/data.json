@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-23T20:01:37.294Z",
+    "generated_at": "2026-07-23T21:29:29.545Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran Apparently Seizes Greek Billionaire’s Shipping Tanker In Strait Of Hormuz, Report Says",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/maryroeloffs/2026/07/22/iran-apparently-seizes-greek-billionaires-shipping-tanker-in-strait-of-hormuz-report-says/",
-        "published": "2026-07-22T19:37:12Z",
+        "title": "Ships shun Strait of Hormuz as renewed fighting strains key oil corridor",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4388978/posts",
+        "published": "2026-07-22T21:15:57Z",
         "sentiment": "watch"
       },
       {
-        "title": "Even Trump’s Friend Bill O’Reilly Is Raising Concerns About His Age",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/bill-oreilly-trump-break-old-age_n_6a610b17e4b063cecec81d1b",
-        "published": "2026-07-22T19:36:42Z",
+        "title": "Iran conflict drives diesel prices to $5.05, impacting groceries and housing",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-conflict-drives-diesel-prices-to-505-impacting-groceries-and-housing/",
+        "published": "2026-07-22T20:28:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "U.S. will destroy Iranian bridges for each attack in Strait of Hormuz, Trump says",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/27dfd97a986e86b3",
-        "published": "2026-07-22T19:29:03Z",
+        "title": "Oil Extends Rally on Iran Tensions",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_extends_rally_on_iran_tensions-22-jul-2026-184192-article/",
+        "published": "2026-07-22T20:22:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "CENTCOM Unleashes Military Strikes Against Iran, Destroys Aircraft Hangars and Drone Storage Facilities (VIDEO)",
+        "source": "Thegatewaypundit.com",
+        "url": "https://www.thegatewaypundit.com/2026/07/centcom-unleashes-military-strikes-against-iran-video/",
+        "published": "2026-07-22T20:20:50Z",
         "sentiment": "danger"
       },
       {
-        "title": "Active Pet Odor & Stain Eliminator 32-oz. Enzyme Cleaner for $19 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Active-Pet-Odor-Stain-Eliminator-32-oz-Enzyme-Cleaner-for-19-free-shipping-w-Prime/21920672.html",
-        "published": "2026-07-22T19:20:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Shipping insider says \"nothing is going through\" the Strait of Hormuz, despite U.S. insisting it's open",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4388967/posts",
-        "published": "2026-07-22T19:19:08Z",
+        "title": "Trump: Iran wants a deal, but they're not ready for one",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/430606",
+        "published": "2026-07-22T20:17:16Z",
         "sentiment": "watch"
       }
     ],
