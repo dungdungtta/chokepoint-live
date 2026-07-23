@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-23T21:29:29.545Z",
+    "generated_at": "2026-07-23T22:33:38.218Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Ships shun Strait of Hormuz as renewed fighting strains key oil corridor",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4388978/posts",
-        "published": "2026-07-22T21:15:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran conflict drives diesel prices to $5.05, impacting groceries and housing",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-conflict-drives-diesel-prices-to-505-impacting-groceries-and-housing/",
-        "published": "2026-07-22T20:28:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Extends Rally on Iran Tensions",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_extends_rally_on_iran_tensions-22-jul-2026-184192-article/",
-        "published": "2026-07-22T20:22:10Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "CENTCOM Unleashes Military Strikes Against Iran, Destroys Aircraft Hangars and Drone Storage Facilities (VIDEO)",
-        "source": "Thegatewaypundit.com",
-        "url": "https://www.thegatewaypundit.com/2026/07/centcom-unleashes-military-strikes-against-iran-video/",
-        "published": "2026-07-22T20:20:50Z",
+        "title": "Trump Eyes Pickaxe Mountain Nuclear Site Heavy Strikes: “Iran Hasn’t Seen Anything Yet, We’ve Been Nice”",
+        "source": "Shtfplan.com",
+        "url": "https://www.shtfplan.com/war/trump-eyes-pickaxe-mountain-nuclear-site-heavy-strikes-iran-hasnt-seen-anything-yet-weve-been-nice",
+        "published": "2026-07-22T22:30:05Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump: Iran wants a deal, but they're not ready for one",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/430606",
-        "published": "2026-07-22T20:17:16Z",
+        "title": "Yemen’s Houthis claim attack on two Saudi oil tankers",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/22/yemens-houthis-claim-attack-on-two-saudi-oil-tankers",
+        "published": "2026-07-22T22:26:14Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Houthis Resume Attacks on Shipping, Claim Strikes on Two Saudi Tankers",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/houthis-resume-attacks-on-shipping-claim-strikes-on-two-saudi-tankers/",
+        "published": "2026-07-22T22:09:17Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Houthi militants target Saudi tankers, oil prices hit six-week highs",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/houthi-militants-target-saudi-tankers-oil-prices-hit-six-week-highs/",
+        "published": "2026-07-22T22:07:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "1969 Chevrolet Corvette Convertible L71 427/435 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1969-chevrolet-corvette-convertible-103/",
+        "published": "2026-07-22T22:02:35Z",
         "sentiment": "watch"
       }
     ],
