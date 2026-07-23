@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-23T03:34:15.304Z",
+    "generated_at": "2026-07-23T06:19:05.013Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Tech lifts Asia stocks, Brent crude back above US$92",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/asia/tech-lifts-asia-stocks-brent-crude-back-above-us92-6269771",
-        "published": "2026-07-22T03:16:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Prices Climb as U.S.-Iran Conflict Shows No Signs of Slowing",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-US-Iran-Conflict-Shows-No-Signs-of-Slowing.html",
-        "published": "2026-07-22T03:08:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Tech lifts Asia stocks, Brent crude back above $92",
-        "source": "Digital Journal",
-        "url": "https://www.digitaljournal.com/article/tech-lifts-asia-stocks-brent-crude-back-above-92/",
-        "published": "2026-07-22T03:05:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US renews strikes on Iran as Trump threatens to attack Pickaxe Mountain",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo",
-        "published": "2026-07-22T03:05:08Z",
+        "title": "Trump plays down prospects of Iran talks amid Red Sea threat",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-21/trump-plays-down-prospects-for-iran-talks-amid-red-sea-threat",
+        "published": "2026-07-22T06:17:40Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil Price Today (July 22): Crude oil crosses $90, hits 2-month high as US strikes enter 11th day. $120 possible, say experts",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-22-crude-oil-crosses-90-hits-2-month-high-as-us-strikes-enter-11th-day-120-possible-say-experts/articleshow/132532829.cms",
-        "published": "2026-07-22T02:16:04Z",
+        "title": "Trump says US 'not finished' with Iran as fresh strikes hit Tehran",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/trump-iran-us-strikes-tehran-middle-east-7109770-Jul2026/",
+        "published": "2026-07-22T06:02:59Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The Red Sea Blockade: Why the Coming Energy Shock Will Hit America Hard",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-22-red-sea-blockade-the-coming-energy-shock.html",
+        "published": "2026-07-22T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "No One is Ready for the Civilizational Collapse That’s Coming",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-22-no-one-is-ready-for-civilizational-collapse.html",
+        "published": "2026-07-22T06:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S.-Iran ceasefire proposal emerges as 10-day truce plan circulates amid escalating conflict",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-22-us-iran-ceasefire-proposal-emerges-amid-escalating-conflict.html",
+        "published": "2026-07-22T06:00:00Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Mind the Gaps: Rethinking Landpower in a Maritime Environment",
+        "source": "Smallwarsjournal.com",
+        "url": "https://smallwarsjournal.com/2026/07/22/rethinking-landpower-first-island-chain/",
+        "published": "2026-07-22T06:00:12Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Beyond a ‘Non-Red’ Supply Chain, Taiwan Should Export a Drone Ecosystem",
         "source": "The Diplomat",
@@ -90,13 +97,6 @@
         "url": "https://www.rferl.org/a/us-iran-hormuz-russia-china/33808969.html",
         "published": "2026-07-21T12:39:50Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Rubio Attends ASEAN As Iran War Fuels Energy Security Fears",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260721-rferl01.htm",
-        "published": "2026-07-21T12:00:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
