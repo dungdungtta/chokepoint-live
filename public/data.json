@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-23T17:00:42.947Z",
+    "generated_at": "2026-07-23T18:38:34.459Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Brazil’s Oil Boom Is Accelerating as Asian Buyers Flee the Middle East",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Brazils-Oil-Boom-Is-Accelerating-as-Asian-Buyers-Flee-the-Middle-East.html",
-        "published": "2026-07-22T17:00:00Z",
+        "title": "Greece derails EU’s Russia sanctions plan",
+        "source": "POLITICO.eu",
+        "url": "https://www.politico.eu/article/greece-derail-eu-russia-sanctions-plan/",
+        "published": "2026-07-22T18:15:26Z",
         "sentiment": "watch"
       },
       {
-        "title": "Dow Jones turns positive despite Trump’s threats on Iran",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/dow-jones-positive-despite-trump-iran-threats/",
-        "published": "2026-07-22T16:41:03Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump issues chilling red-line threat as Iran opens new front and oil prices go haywire",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15997393/trump-iran-threat-oil-hormuz.html",
-        "published": "2026-07-22T16:38:28Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Ghana Holds Rate Steady as US-Iran War Drives Inflation Risk",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/ghana-holds-rate-steady-as-us-iran-war-drives-inflation-risk",
-        "published": "2026-07-22T16:09:57Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Tops $95 With US-Iran Hostilities Ratcheting Up Supply Risks",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-tops-95-with-us-iran-hostilities-ratcheting-up-supply-risks",
-        "published": "2026-07-22T16:09:43Z",
+        "title": "Obasanjo urges Ibru Family to preserve unity, legacy at book launch",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/07/obasanjo-urges-ibru-family-to-preserve-unity-legacy-at-book-launch/",
+        "published": "2026-07-22T18:13:26Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Trump threatens Iran bridges, power as payback for Hormuz attacks",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/trump-threatens-iran-bridges-power-payback-hormuz-attacks-6271671",
+        "published": "2026-07-22T18:03:09Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "More tankers turn back as Houthi threat rattles Red Sea oil trade",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/more-tankers-turn-back-as-houthi-threat-rattles-red-sea-oil-trade/articleshow/132565611.cms",
+        "published": "2026-07-22T18:01:56Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Tankers make sharp U-turns after Houthi shipping threat - BBC",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184586834",
+        "published": "2026-07-22T17:53:25Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
