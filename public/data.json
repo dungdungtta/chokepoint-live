@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-24T17:44:33.074Z",
+    "generated_at": "2026-07-24T19:05:07.982Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran War Day 146: Oil Cracks $100 Per Barrel as U.S. and Iran Trade Strikes",
-        "source": "The American Conservative",
-        "url": "https://www.theamericanconservative.com/iran-war-day-146-oil-cracks-100-per-barrel-as-u-s-and-iran-trade-strikes/",
-        "published": "2026-07-23T17:40:00Z",
+        "title": "China Demands Middle East Parties 'Remain Calm' as Houthis Threaten Its Oil Tankers",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/07/23/china-demands-middle-east-parties-remain-calm-as-houthis-threaten-its-oil-tankers/",
+        "published": "2026-07-23T18:55:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Here's how much higher oil prices could go as hopes for an Iran peace deal fade",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/oil-prices-brent-100-barrel-iran-war-inflation-goldman-sachs-2026-7#article",
-        "published": "2026-07-23T17:32:41Z",
+        "title": "Trump threatens Houthis with 'major military punishment'",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/houthis-red-sea-attacks-trump-warn-iran-6274446",
+        "published": "2026-07-23T18:37:01Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Shoppers may see higher oil prices surface through groceries, back-to-school items",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/gas-groceries-back-school-items-shoppers-higher-oil-135027906",
+        "published": "2026-07-23T18:34:33Z",
         "sentiment": "watch"
       },
       {
-        "title": "Putin's 'inner circle' blames him for devastating Russian losses with Ukraine strikes creating 'toxic' Kremlin atmosphere, says Zelensky",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16000491/Putins-inner-circle-blames-Russian-losses-Ukraine-strikes-Zelensky.html",
-        "published": "2026-07-23T17:10:25Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "There’s Only One Way Out of Trump’s Reckless War",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/07/23/iran-united-states-trump-hormuz-war-nuclear/",
-        "published": "2026-07-23T17:09:50Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US House passes symbolic Iran war rebuke to Trump",
-        "source": "The Punch",
-        "url": "https://punchng.com/us-house-passes-symbolic-iran-war-rebuke-to-trump/",
-        "published": "2026-07-23T17:06:14Z",
+        "title": "Trump close to deciding on ‘massive attack’ against Iran after Houthis strike Red Sea tankers",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/07/23/trump-close-to-deciding-on-massive-attack-against-iran-after-houthis-strike-red-sea-tankers/",
+        "published": "2026-07-23T18:09:45Z",
         "sentiment": "danger"
       }
     ],
