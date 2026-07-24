@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-24T04:38:32.905Z",
+    "generated_at": "2026-07-24T07:19:58.800Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "The Invisible Man (excuse me, sir, who are you?), the Spring election & the blue repatriation, a fund enters the bread market & EKTER’s Odyssey",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/07/23/the-invisible-man-excuse-me-sir-who-are-you-the-spring-election-the-blue-repatriation-a-fund-enters-the-bread-market-ekters-odyssey/",
-        "published": "2026-07-23T04:33:00Z",
+        "title": "ECB to pause rate hikes but may signal that more is needed",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/economy/2026/07/23/ecb-to-pause-rate-hikes-but-may-signal-that-more-is-needed/",
+        "published": "2026-07-23T07:12:59Z",
         "sentiment": "watch"
       },
       {
-        "title": "Hormuz, Mandeb, Black Sea: Wars and Diesel Chokepoints Spike World Inflation",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/07/hormuz-chokepoints-inflation.html",
-        "published": "2026-07-23T04:15:31Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Live updates: Oil tops $100 a barrel as Red Sea attacks mark new escalation in Iran conflict | CNN",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/07/23/world/live-news/iran-war-trump",
-        "published": "2026-07-23T04:09:49Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Gold, silver prices today, 23 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-        "source": "Livemint",
-        "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-23-july-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11784602864857.html",
-        "published": "2026-07-23T04:03:53Z",
+        "title": "Explained: Why Cotton is India's \"White Gold\"",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/education/news/explained-why-cotton-is-indias-white-gold/articleshow/132560378.cms",
+        "published": "2026-07-23T07:02:45Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "The Global Food Crisis",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/07/the-global-food-crisis.html",
+        "published": "2026-07-23T06:57:01Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Hormuz, Red Sea spark a 1,000% war-risk premium shock",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/war-risk-premiums-surge-1000-as-hormuz-red-sea-gulf-oil-amid-shipping-tensions-due-to-middle-east-conflict-and-troubles-for-india-crude-imports/articleshow/132573750.cms",
+        "published": "2026-07-23T06:56:44Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "China Stages Military Drills in Key Trade Waters After Rubio Warning",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/edab90041589dd79",
+        "published": "2026-07-23T07:16:50Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "China conducts live-fire military drills near Taiwan amid rising tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/china-conducts-live-fire-military-drills-near-taiwan-amid-rising-tensions/",
+        "published": "2026-07-23T05:54:08Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump, Taiwan, and the Reagan Doctrine",
         "source": "Hoover.org",
@@ -75,20 +89,6 @@
         "source": "The Atlantic",
         "url": "https://www.theatlantic.com/national-security/2026/07/top-gun-hegseth-pentagon-leadership/687997/",
         "published": "2026-07-22T16:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Hormuz Crisis Is Driving a Geopolitical Shift Across Asia",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Geopolitics/Asia/The-Hormuz-Crisis-Is-Driving-a-Geopolitical-Shift-Across-Asia.html",
-        "published": "2026-07-22T14:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China is building a massive ship that should scare Americans about the future",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/china-building-massive-ship-scare-americans-future",
-        "published": "2026-07-22T09:00:24Z",
         "sentiment": "watch"
       }
     ],
