@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-24T09:57:29.708Z",
+    "generated_at": "2026-07-24T11:50:02.220Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,35 @@
   "news": {
     "hormuz": [
       {
-        "title": "India loses Russia oil discount as Red Sea, Hormuz risks upend crude markets",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-loses-russia-oil-discount-as-red-sea-hormuz-risks-upend-crude-markets/articleshow/132576917.cms",
-        "published": "2026-07-23T09:53:37Z",
+        "title": "Looks Like $5 Gas Is Back on the Menu",
+        "source": "Jezebel",
+        "url": "https://www.jezebel.com/gas-prices-5-dollars-oil-prices-climbing-again-iran-war-peace-collapse-houthis-blockade-bab-al-mandab-saudi-arabia",
+        "published": "2026-07-23T11:30:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran army vows continuous strikes if US doesn’t halt attacks",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/07/iran-army-vows-continuous-strikes-if-us-doesnt-halt-attacks/",
-        "published": "2026-07-23T09:47:30Z",
+        "title": "Chinese Tankers Push Through Bab el-Mandeb Despite Houthi Blockade Threats",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Tankers-Push-Through-Bab-el-Mandeb-Despite-Houthi-Blockade-Threats.html",
+        "published": "2026-07-23T11:30:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran, Houthis attack oil tankers, escalating Gulf tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-houthis-attack-oil-tankers-escalating-gulf-tensions/",
-        "published": "2026-07-23T09:36:31Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Mint Explainer | India has its first hydrogen train. Is its green hydrogen mission on track?",
-        "source": "Livemint",
-        "url": "https://www.livemint.com/industry/energy/india-has-its-first-hydrogen-train-is-its-green-hydrogen-mission-on-track-fossil-fuels-renewable-energy-clean-energy-11784790221391.html",
-        "published": "2026-07-23T09:35:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Houthis strike two Saudi oil tankers in Red Sea amid U.S. threat of escalation",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/df21b594408eb237",
-        "published": "2026-07-23T09:32:42Z",
+        "title": "Houthi blockade of Saudi Arabia could further disrupt global trade",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/yemen-saudi-houthis-attack-shipping-red-sea-iran-6ee98d611669dc84953d2f2e15958bf9",
+        "published": "2026-07-23T11:28:57Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "US is ready to help end the 'senseless war' in Ukraine, Rubio says",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/us-ready-end-senseless-war-ukraine-quick-deal-135004865",
+        "published": "2026-07-23T11:42:39Z",
+        "sentiment": "danger"
+      },
       {
         "title": "China Stages Military Drills in Key Trade Waters After Rubio Warning",
         "source": "Biztoc.com",
@@ -89,13 +82,6 @@
         "source": "Hoover.org",
         "url": "https://cms.hoover.org/research/trump-taiwan-and-reagan-doctrine",
         "published": "2026-07-23T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Top Gun: Maverick Theory of Pete Hegseth",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/national-security/2026/07/top-gun-hegseth-pentagon-leadership/687997/",
-        "published": "2026-07-22T16:00:00Z",
         "sentiment": "watch"
       }
     ],
