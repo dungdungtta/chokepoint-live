@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-24T07:19:58.800Z",
+    "generated_at": "2026-07-24T09:57:29.708Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "ECB to pause rate hikes but may signal that more is needed",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/economy/2026/07/23/ecb-to-pause-rate-hikes-but-may-signal-that-more-is-needed/",
-        "published": "2026-07-23T07:12:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Explained: Why Cotton is India's \"White Gold\"",
+        "title": "India loses Russia oil discount as Red Sea, Hormuz risks upend crude markets",
         "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/education/news/explained-why-cotton-is-indias-white-gold/articleshow/132560378.cms",
-        "published": "2026-07-23T07:02:45Z",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-loses-russia-oil-discount-as-red-sea-hormuz-risks-upend-crude-markets/articleshow/132576917.cms",
+        "published": "2026-07-23T09:53:37Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Global Food Crisis",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/07/the-global-food-crisis.html",
-        "published": "2026-07-23T06:57:01Z",
+        "title": "Iran army vows continuous strikes if US doesn’t halt attacks",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/07/iran-army-vows-continuous-strikes-if-us-doesnt-halt-attacks/",
+        "published": "2026-07-23T09:47:30Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran, Houthis attack oil tankers, escalating Gulf tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-houthis-attack-oil-tankers-escalating-gulf-tensions/",
+        "published": "2026-07-23T09:36:31Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Mint Explainer | India has its first hydrogen train. Is its green hydrogen mission on track?",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/industry/energy/india-has-its-first-hydrogen-train-is-its-green-hydrogen-mission-on-track-fossil-fuels-renewable-energy-clean-energy-11784790221391.html",
+        "published": "2026-07-23T09:35:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "Hormuz, Red Sea spark a 1,000% war-risk premium shock",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/war-risk-premiums-surge-1000-as-hormuz-red-sea-gulf-oil-amid-shipping-tensions-due-to-middle-east-conflict-and-troubles-for-india-crude-imports/articleshow/132573750.cms",
-        "published": "2026-07-23T06:56:44Z",
+        "title": "Houthis strike two Saudi oil tankers in Red Sea amid U.S. threat of escalation",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/df21b594408eb237",
+        "published": "2026-07-23T09:32:42Z",
         "sentiment": "danger"
       }
     ],
