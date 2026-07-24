@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-24T20:41:14.054Z",
+    "generated_at": "2026-07-24T21:46:54.581Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran’s frightening missile accuracy sparks fears adversaries are helping Tehran target US troops, CIA sites",
+        "title": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf",
+        "published": "2026-07-23T21:43:28Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump imposes new forced labour duties to replace expiring U.S. tariffs",
+        "source": "The Globe And Mail",
+        "url": "https://www.theglobeandmail.com/world/us-politics/article-trump-us-forced-labour-tariffs-10-per-cent-expiring-tariffs/",
+        "published": "2026-07-23T21:34:45Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Is the Red Sea the New Hormuz Crisis?",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/07/23/houthi-rebels-saudi-arabia-shipping-red-sea-iran-war/",
+        "published": "2026-07-23T21:30:04Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Gas, groceries and back-to-school items inflated as shoppers now see higher oil prices surface",
         "source": "New York Post",
-        "url": "https://nypost.com/2026/07/23/world-news/irans-strikes-on-us-troops-cia-facilities-expose-deadly-new-threat-with-russia-and-chinas-help-feared/",
-        "published": "2026-07-23T20:19:05Z",
+        "url": "https://nypost.com/2026/07/23/business/gas-groceries-and-back-to-school-items-inflated-as-shoppers-now-see-higher-oil-prices-surface/",
+        "published": "2026-07-23T21:26:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "Who Are The Houthis And What Do Their Attacks On Tankers In The Red Sea Mean For U.S.-Iran War?",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/forbestv/2026/07/23/who-are-the-houthis-and-what-do-their-attacks-on-tankers-in-the-red-sea-mean-for-us-iran-war/",
-        "published": "2026-07-23T20:18:42Z",
+        "title": "FAFO: Despair As Russian Sellers Lose Everything In Wildberries Attacks",
+        "source": "Crooksandliars.com",
+        "url": "https://crooksandliars.com/2026/07/fafo-despondent-russian-sellers-lose",
+        "published": "2026-07-23T21:06:49Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Oil Surges Above $100",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_surges_above_100-23-jul-2026-184203-article/",
-        "published": "2026-07-23T20:12:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Strike on Saudi tanker in Red Sea sends oil above $100 a barrel",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/strike-on-saudi-tanker-in-red-sea-sends-oil-above-100-a-barrel/",
-        "published": "2026-07-23T20:08:46Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices surge amid US-Iran tensions; tech stocks decline",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-prices-surge-amid-us-iran-tensions-tech-stocks-decline/",
-        "published": "2026-07-23T20:02:47Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
