@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-24T11:50:02.220Z",
+    "generated_at": "2026-07-24T14:01:48.573Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,24 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Looks Like $5 Gas Is Back on the Menu",
-        "source": "Jezebel",
-        "url": "https://www.jezebel.com/gas-prices-5-dollars-oil-prices-climbing-again-iran-war-peace-collapse-houthis-blockade-bab-al-mandab-saudi-arabia",
-        "published": "2026-07-23T11:30:18Z",
+        "title": "India, Panama to strengthen maritime connectivity, supply chains",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/india-panama-to-strengthen-maritime-connectivity-supply-chains/article71258288.ece",
+        "published": "2026-07-23T13:49:15Z",
         "sentiment": "watch"
       },
       {
-        "title": "Chinese Tankers Push Through Bab el-Mandeb Despite Houthi Blockade Threats",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Tankers-Push-Through-Bab-el-Mandeb-Despite-Houthi-Blockade-Threats.html",
-        "published": "2026-07-23T11:30:00Z",
+        "title": "Oil hits $100 after Houthi attack on Saudi tankers worsens oil supply disruption",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/bd8b4b11f3539fe9",
+        "published": "2026-07-23T13:37:07Z",
         "sentiment": "danger"
       },
       {
-        "title": "Houthi blockade of Saudi Arabia could further disrupt global trade",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/yemen-saudi-houthis-attack-shipping-red-sea-iran-6ee98d611669dc84953d2f2e15958bf9",
-        "published": "2026-07-23T11:28:57Z",
+        "title": "Brent crude tops $100 a barrel. How the next stop could be $120",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/23/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
+        "published": "2026-07-23T13:36:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil prices jump as Hormuz, Red Sea crises deepen",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/as-oil-hits-100-a-barrel-whats-next/a-78078835",
+        "published": "2026-07-23T13:36:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump Threatens More Attacks on Iran After Houthis Join War",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/trump-threatens-more-attacks-on-iran-after-houthis-join-war",
+        "published": "2026-07-23T13:32:19Z",
         "sentiment": "danger"
       }
     ],
