@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-24T21:46:54.581Z",
+    "generated_at": "2026-07-24T23:09:04.948Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf",
-        "published": "2026-07-23T21:43:28Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump imposes new forced labour duties to replace expiring U.S. tariffs",
-        "source": "The Globe And Mail",
-        "url": "https://www.theglobeandmail.com/world/us-politics/article-trump-us-forced-labour-tariffs-10-per-cent-expiring-tariffs/",
-        "published": "2026-07-23T21:34:45Z",
+        "title": "1966 Plymouth Fury III Convertible at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1966-plymouth-fury-iii-convertible-9-2/",
+        "published": "2026-07-23T22:59:51Z",
         "sentiment": "watch"
       },
       {
-        "title": "Is the Red Sea the New Hormuz Crisis?",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/07/23/houthi-rebels-saudi-arabia-shipping-red-sea-iran-war/",
-        "published": "2026-07-23T21:30:04Z",
+        "title": "Oil Prices Top $100 On Cargo Squeeze From The Middle East",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/gauravsharma/2026/07/23/oil-prices-top-100-on-cargo-squeeze-from-the-middle-east/",
+        "published": "2026-07-23T22:40:46Z",
         "sentiment": "watch"
       },
       {
-        "title": "Gas, groceries and back-to-school items inflated as shoppers now see higher oil prices surface",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/07/23/business/gas-groceries-and-back-to-school-items-inflated-as-shoppers-now-see-higher-oil-prices-surface/",
-        "published": "2026-07-23T21:26:05Z",
+        "title": "Asian Stocks Set to Fall as Oil Surges Past $100: Markets Wrap",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/asian-stocks-set-to-fall-as-oil-surges-past-100-markets-wrap",
+        "published": "2026-07-23T22:25:19Z",
         "sentiment": "watch"
       },
       {
-        "title": "FAFO: Despair As Russian Sellers Lose Everything In Wildberries Attacks",
-        "source": "Crooksandliars.com",
-        "url": "https://crooksandliars.com/2026/07/fafo-despondent-russian-sellers-lose",
-        "published": "2026-07-23T21:06:49Z",
-        "sentiment": "danger"
+        "title": "Asian stocks set to fall as oil prices surge past $100",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/asian-stocks-set-to-fall-as-oil-prices-surge-past-100/",
+        "published": "2026-07-23T22:19:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US Imports First Iraqi Fuel Oil Cargoes Via Syria",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/bc13ba093e82ab74",
+        "published": "2026-07-23T22:06:42Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
