@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-23T23:42:05.863Z",
+    "generated_at": "2026-07-24T01:13:11.555Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Houthis strike Saudi oil tanker to enforce new maritime blockade",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/430609",
-        "published": "2026-07-22T23:15:34Z",
+        "title": "CNBC Daily Open: Trump ratchets up war rhetoric, Houthis target Red Sea",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/23/cnbc-daily-open-iran-trump-power-plants-bridges.html",
+        "published": "2026-07-23T01:12:08Z",
         "sentiment": "danger"
       },
       {
-        "title": "US hits Iran as Houthis claim strikes on Saudi tankers",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/us-hits-iran-as-houthis-claim-strikes-on-saudi-tankers/live-78077811",
-        "published": "2026-07-22T23:02:00Z",
+        "title": "US carrying out new wave of Iran strikes as military attacks Islamic Republic for 12th straight night",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/07/22/world-news/us-carrying-out-new-wave-of-iran-strikes-as-military-attacks-islamic-republic-for-12th-straight-night/",
+        "published": "2026-07-23T01:07:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump Eyes Pickaxe Mountain Nuclear Site Heavy Strikes: “Iran Hasn’t Seen Anything Yet, We’ve Been Nice”",
-        "source": "Shtfplan.com",
-        "url": "https://www.shtfplan.com/war/trump-eyes-pickaxe-mountain-nuclear-site-heavy-strikes-iran-hasnt-seen-anything-yet-weve-been-nice",
-        "published": "2026-07-22T22:30:05Z",
+        "title": "LG ELECTRONICS STRENGTHENS GLOBAL SUPPLY CHAIN FOR ADVANCED ANTIMICROBIAL MATERIALS",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/lg-electronics-strengthens-global-supply-chain-for-advanced-antimicrobial-materials-302832735.html",
+        "published": "2026-07-23T01:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US military strikes Iran for 12th straight night as conflict escalates",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-military-strikes-iran-for-12th-straight-night-as-conflict-escalates/articleshow/132570199.cms",
+        "published": "2026-07-23T00:57:15Z",
         "sentiment": "danger"
       },
       {
-        "title": "Yemen’s Houthis claim attack on two Saudi oil tankers",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/22/yemens-houthis-claim-attack-on-two-saudi-oil-tankers",
-        "published": "2026-07-22T22:26:14Z",
-        "sentiment": "danger"
+        "title": "Pre-market action: Here's the trade setup for today's session",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132564232.cms",
+        "published": "2026-07-23T00:41:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
