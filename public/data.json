@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-24T14:01:48.573Z",
+    "generated_at": "2026-07-24T15:45:19.822Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "India, Panama to strengthen maritime connectivity, supply chains",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/india-panama-to-strengthen-maritime-connectivity-supply-chains/article71258288.ece",
-        "published": "2026-07-23T13:49:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil hits $100 after Houthi attack on Saudi tankers worsens oil supply disruption",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/bd8b4b11f3539fe9",
-        "published": "2026-07-23T13:37:07Z",
+        "title": "Trump considering ‘massive attack’ on Iran bigger than previous strikes, Axios reports",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-hes-close-to-deciding-on-massive-attack-against-iran-axios-reports/articleshow/132586498.cms",
+        "published": "2026-07-23T15:44:29Z",
         "sentiment": "danger"
       },
       {
-        "title": "Brent crude tops $100 a barrel. How the next stop could be $120",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/23/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
-        "published": "2026-07-23T13:36:29Z",
+        "title": "US Benefits From Oil Supply Disruptions in Strait of Hormuz – Ex-UK Ambassador",
+        "source": "Sputnikglobe.com",
+        "url": "https://sputnikglobe.com/20260723/us-benefits-from-oil-supply-disruptions-in-strait-of-hormuz--ex-uk-ambassador-1124485664.html",
+        "published": "2026-07-23T15:42:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil prices jump as Hormuz, Red Sea crises deepen",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/as-oil-hits-100-a-barrel-whats-next/a-78078835",
-        "published": "2026-07-23T13:36:00Z",
+        "title": "Gold prices today, Thursday, July 23, 2026: Gold price opens below $4,100 as inflation worries clash with safe-haven demand",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-23-2026-gold-price-opens-below-4100-as-inflation-worries-clash-with-safe-haven-demand-153539220.html",
+        "published": "2026-07-23T15:35:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump Threatens More Attacks on Iran After Houthis Join War",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/trump-threatens-more-attacks-on-iran-after-houthis-join-war",
-        "published": "2026-07-23T13:32:19Z",
+        "title": "WTI crude jumps 7% to $93 amid US-Iran tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/wti-crude-jumps-7-to-93-amid-us-iran-tensions/",
+        "published": "2026-07-23T15:26:56Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Rubio accuses Iran of flying IRGC personnel into Yemen as Houthi threat escalates",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4389072/posts",
+        "published": "2026-07-23T15:22:30Z",
         "sentiment": "danger"
       }
     ],
