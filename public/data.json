@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-25T03:50:12.933Z",
+    "generated_at": "2026-07-25T06:24:43.693Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "1,500 ships trapped in Gulf of Hormuz is quietly multiplying an underwater army that could unleash World's biggest bioinvasion event",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/1500-ships-trapped-in-gulf-of-hormuz-is-quietly-multiplying-an-underwater-army-that-could-unleash-worlds-biggest-bioinvasion-event/articleshow/132595366.cms",
-        "published": "2026-07-24T03:34:00Z",
+        "title": "U.S. Gasoline Prices Climb Back Above $4 Per Gallon Amid Middle East Conflict",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-24-us-gasoline-cost-climb-middle-east-conflict.html",
+        "published": "2026-07-24T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Drivers urged not to panic buy as fuel price hikes nowhere near record high",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-07-24/nsw-petrol-prices-tipped-to-rise-australia-household-budgets/106953716",
-        "published": "2026-07-24T03:25:00Z",
+        "title": "Houthi strikes on Saudi tankers threaten to ignite broader regional war",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-24-houthi-strikes-saudi-tankers-threaten-broader-regional-war.html",
+        "published": "2026-07-24T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Journalist Ben Swann reports on ENGINEERED SCARCITY of global food, fertilizer, and fuel",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-24-journalist-ben-swann-reports-on-engineered-scarcity-of-global-food-fertilizer-and-fuel.html",
+        "published": "2026-07-24T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran war: US launches new strikes over shipping routes threat",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/iran-war-us-launches-new-strikes-over-shipping-routes-threat/live-78093040",
-        "published": "2026-07-24T03:12:00Z",
-        "sentiment": "danger"
+        "title": "Shipping Firms Offer ‘Massive Bonuses’ for Strait of Hormuz Crossings, Report Says",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-24-shipping-firms-offer-bonuses-for-hormuz-crossings.html",
+        "published": "2026-07-24T06:00:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Iran war: US launches new strikes over shipping routes threat",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/iran-war-us-launches-new-strikes-over-shipping-routes-threat/live-78093040",
-        "published": "2026-07-24T03:12:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US launches new strikes on Iran over shipping routes threat",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/us-launches-new-strikes-on-iran-over-shipping-routes-threat/live-78093040",
-        "published": "2026-07-24T03:12:00Z",
+        "title": "US says it will use frozen Iranian assets to fund damage to ships as strikes continue",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do",
+        "published": "2026-07-24T05:59:40Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war",
+        "published": "2026-07-24T05:45:47Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The Liberal Internationalist Delusion.",
+        "source": "Kiwipolitico.com",
+        "url": "https://www.kiwipolitico.com/2026/07/the-liberal-internationalist-delusion/",
+        "published": "2026-07-24T05:08:57Z",
+        "sentiment": "watch"
+      },
       {
         "title": "US is ready to help end the 'senseless war' in Ukraine but no quick deal ahead, Rubio says",
         "source": "The Times of India",
@@ -83,20 +97,6 @@
         "url": "https://biztoc.com/x/edab90041589dd79",
         "published": "2026-07-23T07:16:50Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "China conducts live-fire military drills near Taiwan amid rising tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/china-conducts-live-fire-military-drills-near-taiwan-amid-rising-tensions/",
-        "published": "2026-07-23T05:54:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump, Taiwan, and the Reagan Doctrine",
-        "source": "Hoover.org",
-        "url": "https://www.hoover.org/research/trump-taiwan-and-reagan-doctrine",
-        "published": "2026-07-23T00:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
