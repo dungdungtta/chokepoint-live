@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-24T23:09:04.948Z",
+    "generated_at": "2026-07-25T00:16:03.364Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "1966 Plymouth Fury III Convertible at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1966-plymouth-fury-iii-convertible-9-2/",
-        "published": "2026-07-23T22:59:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Prices Top $100 On Cargo Squeeze From The Middle East",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/gauravsharma/2026/07/23/oil-prices-top-100-on-cargo-squeeze-from-the-middle-east/",
-        "published": "2026-07-23T22:40:46Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Asian Stocks Set to Fall as Oil Surges Past $100: Markets Wrap",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/asian-stocks-set-to-fall-as-oil-surges-past-100-markets-wrap",
-        "published": "2026-07-23T22:25:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Asian stocks set to fall as oil prices surge past $100",
+        "title": "Houthi attacks on Red Sea shipping push oil prices above $100 per barrel",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/asian-stocks-set-to-fall-as-oil-prices-surge-past-100/",
-        "published": "2026-07-23T22:19:00Z",
+        "url": "https://cryptobriefing.com/houthi-attacks-on-red-sea-shipping-push-oil-prices-above-100-per-barrel/",
+        "published": "2026-07-24T00:12:49Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "UN envoy for Yemen ‘alarmed’ by Houthis’ Red Sea attacks, calls for talks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/24/un-envoy-for-yemen-alarmed-by-houthis-red-sea-attacks-calls-for-talks",
+        "published": "2026-07-24T00:03:25Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Indian refiners scout new crude sources as Gulf risks rise",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indian-refiners-scout-new-crude-sources-as-gulf-risks-rise/articleshow/132591441.cms",
+        "published": "2026-07-24T00:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US Imports First Iraqi Fuel Oil Cargoes Via Syria",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/bc13ba093e82ab74",
-        "published": "2026-07-23T22:06:42Z",
+        "title": "July 23, 2026 - PBS News Hour full episode",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/show/july-23-2026-pbs-news-hour-full-episode",
+        "published": "2026-07-23T23:49:26Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Heads for Weekly Surge as Middle East Supply Risks Mount",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/oil-heads-for-weekly-surge-as-middle-east-supply-risks-mount",
+        "published": "2026-07-23T23:42:39Z",
         "sentiment": "watch"
       }
     ],
