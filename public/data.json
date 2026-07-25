@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-25T16:13:00.530Z",
+    "generated_at": "2026-07-25T17:25:34.189Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "US Strikes Iran From South to North After Trump Threats Over Red Sea Shipping",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/us-strikes-iran-from-south-to-north-after-trump-threats-over-red-sea-shipping/",
-        "published": "2026-07-24T16:08:37Z",
+        "title": "Trump Seethes as Iran War Spirals Anew With No End in Sight",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/trump-seethes-as-iran-war-spirals-anew-with-no-end-in-sight",
+        "published": "2026-07-24T17:20:54Z",
         "sentiment": "danger"
       },
       {
-        "title": "Nuclear molten salt could power future cargo ships",
-        "source": "Popular Science",
-        "url": "https://www.popsci.com/technology/nuclear-powered-cargo-ships-salt/",
-        "published": "2026-07-24T16:06:00Z",
+        "title": "Billionaire Ray Dalio Says 'Battle' For Strait Of Hormuz Will Determine America's Future",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/maryroeloffs/2026/07/24/billionaire-ray-dalio-says-battle-for-strait-of-hormuz-will-determine-americas-future/",
+        "published": "2026-07-24T17:15:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthi attacks slow but don’t halt Red Sea oil shipments",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/houthi-attacks-slow-but-dont-halt-red-sea-oil-shipments/",
-        "published": "2026-07-24T15:53:50Z",
+        "title": "Oil down more than 4% on profit taking, report of China-backed push to end US-Iran fighting",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/news/oil-prices-slide-but-head-for-weekly-rise-on-middle-east-escalation-084515480.html",
+        "published": "2026-07-24T17:07:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Here’s How Trump’s Houthi Headache Could Turn Into Full Blown Migraine",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/07/24/donald-trump-houthis-red-sea-iran-war",
+        "published": "2026-07-24T17:04:35Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Yemen teeters towards renewed war in shadow of Iran conflict",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/yemen-teeters-towards-renewed-war-in-shadow-of-iran-conflict/articleshow/132610690.cms",
+        "published": "2026-07-24T16:54:46Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Fleximounts 5x3-Foot Garage Floor Mat for $21 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Fleximounts-5-x3-Foot-Garage-Floor-Mat-for-21-free-shipping-w-Prime/21926113.html",
-        "published": "2026-07-24T15:45:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Letters to Editor",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/opinion/letters/letters-to-editor/article71263338.ece",
-        "published": "2026-07-24T15:31:57Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
