@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-25T11:46:20.232Z",
+    "generated_at": "2026-07-25T13:52:18.958Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Friday: Hili dialogue",
-        "source": "Whyevolutionistrue.com",
-        "url": "https://whyevolutionistrue.com/2026/07/24/friday-hili-dialogue-587/",
-        "published": "2026-07-24T11:45:52Z",
+        "title": "Tariff-Driven Frontloading Pays Off as Trump Reinstates Global Import Duties",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/tariff-driven-frontloading-pays-off-as-trump-reinstates-global-import-duties/",
+        "published": "2026-07-24T13:51:57Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
-        "published": "2026-07-24T11:37:58Z",
+        "title": "Dow Ticks Up 0.10% Friday as Wall Street Steadies After Sharp Tech-Led Selloff and New Trump Tariffs",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/dow-jones-recovery-tech-selloff-tariffs-1872857",
+        "published": "2026-07-24T13:35:16Z",
         "sentiment": "watch"
       },
       {
-        "title": "US imports Iraqi fuel oil via Syria for first time",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-imports-iraqi-fuel-oil-via-syria-for-first-time/",
-        "published": "2026-07-24T11:33:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ukraine hits Russia's largest online marketplace, hurting small businesses and bringing the war home",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/ukraine-hits-russias-largest-online-marketplace-hurting-small-135009736",
-        "published": "2026-07-24T11:09:01Z",
+        "title": "Trump Had Expletive-Laden Tantrum Over Iran War Failures",
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/post/213483/donald-trump-expletive-laden-tantrum-iran-war-failures",
+        "published": "2026-07-24T13:35:16Z",
         "sentiment": "danger"
       },
       {
-        "title": "Rupee recovers 18 paise to settle at 96.55 against US dollar",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/forex/rupee-recovers-18-paise-to-settle-at-9655-against-us-dollar/article71261958.ece",
-        "published": "2026-07-24T11:00:55Z",
+        "title": "U.S. military base in Iraq targeted by Iran as renewed fighting nears 2-week mark",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/us-iran-war-iraq-base-9.7282046",
+        "published": "2026-07-24T13:13:34Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Overseas Buyers In Hot Pursuit of USA Crude",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/overseas_buyers_in_hot_pursuit_of_usa_crude-24-jul-2026-184210-article/",
+        "published": "2026-07-24T13:09:47Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan Requests Compensation for Endless F-16 Fighter Jets Delays",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/taiwan-requests-compensation-for-endless-f-16-fighter-jets-delays/5934414",
+        "published": "2026-07-24T13:00:14Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Chinese ship shoots water cannon at Philippine vessel with CNN crew on board near flashpoint shoal",
         "source": "CNN",
@@ -89,13 +96,6 @@
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/international/world-news/us-is-ready-to-help-end-the-senseless-war-in-ukraine-but-no-quick-deal-ahead-rubio-says/articleshow/132594732.cms",
         "published": "2026-07-24T02:08:38Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US is ready to help end the 'senseless war' in Ukraine, Rubio says",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/us-ready-end-senseless-war-ukraine-quick-deal-135004865",
-        "published": "2026-07-23T11:42:39Z",
         "sentiment": "danger"
       }
     ],
