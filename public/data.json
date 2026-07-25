@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-25T22:11:49.562Z",
+    "generated_at": "2026-07-25T23:15:22.855Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "Houthi attacks raise Red Sea shipping insurance premiums, threaten oil supply",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/houthi-attacks-raise-red-sea-shipping-insurance-premiums-threaten-oil-supply/",
+        "published": "2026-07-24T23:06:40Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The Strait of Hormuz Closure Is Already Hitting Supermarket Prices",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Finance/the-Economy/The-Strait-of-Hormuz-Closure-Is-Already-Hitting-Supermarket-Prices.html",
+        "published": "2026-07-24T23:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "U.S. Gasoline Prices Climb Back Above $4 Per Gallon Amid Middle East Conflict",
+        "source": "Shtfplan.com",
+        "url": "https://www.shtfplan.com/economics/u-s-gasoline-prices-climb-back-above-4-per-gallon-amid-middle-east-conflict",
+        "published": "2026-07-24T22:30:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Ships transiting Strait of Hormuz go dark, hug Iran’s Coast to evade Tehran’s wrath",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/07/24/world-news/ships-transiting-strait-of-hormuz-go-dark-hug-irans-coast-to-evade-tehrans-wrath/",
+        "published": "2026-07-24T22:30:11Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US forces disable M/T Lavine merchant ship in Gulf of Oman: AP",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/us-forces-disable-mt-lavine-merchant-ship-in-gulf-of-oman-ap/",
         "published": "2026-07-24T21:53:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "360 Energy Pulse: What mattered this week in energy",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/a18a04217b559cbd",
-        "published": "2026-07-24T21:46:53Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Mozambique-flagged LPG tanker attacked in Iranian waters, Indian crew safe",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/mozambique-flagged-lpg-tanker-attacked-in-iranian-waters-indian-crew-safe/",
-        "published": "2026-07-24T21:43:31Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Grains Markets Hit New Highs on Black Sea Attacks, Crude Oil Rally",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/grains-markets-hit-new-highs-on-black-sea-attacks-crude-oil-rally/",
-        "published": "2026-07-24T20:40:21Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Brent Pulls Back From $100",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/brent_pulls_back_from_100-24-jul-2026-184215-article/",
-        "published": "2026-07-24T20:29:29Z",
         "sentiment": "watch"
       }
     ],
