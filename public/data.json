@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-25T21:01:10.259Z",
+    "generated_at": "2026-07-25T22:11:49.562Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "US forces disable M/T Lavine merchant ship in Gulf of Oman: AP",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-forces-disable-mt-lavine-merchant-ship-in-gulf-of-oman-ap/",
+        "published": "2026-07-24T21:53:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "360 Energy Pulse: What mattered this week in energy",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/a18a04217b559cbd",
+        "published": "2026-07-24T21:46:53Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Mozambique-flagged LPG tanker attacked in Iranian waters, Indian crew safe",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/mozambique-flagged-lpg-tanker-attacked-in-iranian-waters-indian-crew-safe/",
+        "published": "2026-07-24T21:43:31Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Grains Markets Hit New Highs on Black Sea Attacks, Crude Oil Rally",
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/grains-markets-hit-new-highs-on-black-sea-attacks-crude-oil-rally/",
@@ -38,27 +59,6 @@
         "source": "Rigzone",
         "url": "https://www.rigzone.com/news/wire/brent_pulls_back_from_100-24-jul-2026-184215-article/",
         "published": "2026-07-24T20:29:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "1963 Chevrolet Corvette Split-Window Coupe L84 327/360 Fuelie 4-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1963-chevrolet-corvette-coupe-251/",
-        "published": "2026-07-24T20:10:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Republican War Hawks Urge Trump to Finish the Job in Iran",
-        "source": "The New Republic",
-        "url": "https://newrepublic.com/post/213525/republicans-war-hawks-congress-urge-trump-finish-job-iran",
-        "published": "2026-07-24T19:47:39Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "ANDREW NEIL: I'm told Trump's physical and mental health are in visible decline - and there's ever more talk about a ground invasion. 150 days on, he has no good options left in Iran debacle",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/debate/article-16003555/ANDREW-NEIL-Im-told-Trumps-physical-mental-health-visible-decline-theres-talk-ground-invasion-150-days-no-good-options-left-Iran-debacle.html",
-        "published": "2026-07-24T19:31:56Z",
         "sentiment": "watch"
       }
     ],
