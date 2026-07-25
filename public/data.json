@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-25T10:16:42.545Z",
+    "generated_at": "2026-07-25T11:46:20.232Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil prices ease but are set for 10% weekly gain as Trump mulls 'bigger than ever' attack on Iran",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/24/oil-price-trump-hormuz-red-sea-iran-war.html",
-        "published": "2026-07-24T10:12:25Z",
+        "title": "Friday: Hili dialogue",
+        "source": "Whyevolutionistrue.com",
+        "url": "https://whyevolutionistrue.com/2026/07/24/friday-hili-dialogue-587/",
+        "published": "2026-07-24T11:45:52Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
+        "published": "2026-07-24T11:37:58Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US imports Iraqi fuel oil via Syria for first time",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-imports-iraqi-fuel-oil-via-syria-for-first-time/",
+        "published": "2026-07-24T11:33:08Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Ukraine hits Russia's largest online marketplace, hurting small businesses and bringing the war home",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/ukraine-hits-russias-largest-online-marketplace-hurting-small-135009736",
+        "published": "2026-07-24T11:09:01Z",
         "sentiment": "danger"
       },
       {
-        "title": "The Houthis’ commandeering of a Red Sea strait is a huge deal",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/b164971a25dc2627",
-        "published": "2026-07-24T10:09:42Z",
+        "title": "Rupee recovers 18 paise to settle at 96.55 against US dollar",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/forex/rupee-recovers-18-paise-to-settle-at-9655-against-us-dollar/article71261958.ece",
+        "published": "2026-07-24T11:00:55Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Kiehl's 1-Day Sitewide Sale: 30% off + free shipping w/$50",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Kiehls-1-Day-Sitewide-Sale-30-off-free-shipping-w-50/21925990.html",
-        "published": "2026-07-24T10:01:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Global market: Euro zone bond yields ease after multi-year highs as oil retreats below $100",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-bond-yields-ease-after-multi-year-highs-as-oil-retreats-below-100/articleshow/132601832.cms",
-        "published": "2026-07-24T09:47:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Indonesia condemns Red Sea attacks on oil tankers",
-        "source": "Antaranews.com",
-        "url": "https://en.antaranews.com/news/423919/indonesia-condemns-red-sea-attacks-on-oil-tankers",
-        "published": "2026-07-24T09:40:17Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
