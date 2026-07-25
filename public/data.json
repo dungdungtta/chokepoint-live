@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-25T08:31:44.158Z",
+    "generated_at": "2026-07-25T10:16:42.545Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Take 5 - a $100 oil prices question",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/0724/1584906-take-5-a-100-oil-prices-question/",
-        "published": "2026-07-24T08:21:24Z",
+        "title": "Oil prices ease but are set for 10% weekly gain as Trump mulls 'bigger than ever' attack on Iran",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/24/oil-price-trump-hormuz-red-sea-iran-war.html",
+        "published": "2026-07-24T10:12:25Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The Houthis’ commandeering of a Red Sea strait is a huge deal",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/b164971a25dc2627",
+        "published": "2026-07-24T10:09:42Z",
         "sentiment": "watch"
       },
       {
-        "title": "A $100 question and all you need to know about markets for next week",
+        "title": "Kiehl's 1-Day Sitewide Sale: 30% off + free shipping w/$50",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Kiehls-1-Day-Sitewide-Sale-30-off-free-shipping-w-50/21925990.html",
+        "published": "2026-07-24T10:01:49Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Global market: Euro zone bond yields ease after multi-year highs as oil retreats below $100",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/a-100-question-and-all-you-need-to-know-about-markets-for-next-week/articleshow/132599936.cms",
-        "published": "2026-07-24T08:07:51Z",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-bond-yields-ease-after-multi-year-highs-as-oil-retreats-below-100/articleshow/132601832.cms",
+        "published": "2026-07-24T09:47:25Z",
         "sentiment": "watch"
       },
       {
-        "title": "Explosions Break Out Near U.S. Base In Northern Iraq",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/us-iran-escalating-strikes_n_6a631adce4b0811ae03ff1c7",
-        "published": "2026-07-24T08:02:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran weaponized the Strait of Hormuz. Now its neighbors are building around it",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/07/24/politics/middle-east-energy-map-redrawn-pipeline-projects-mcgurk-vis",
-        "published": "2026-07-24T08:00:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Alberta's got a new plan for a southern pipeline to B.C.'s coast — it still won't be easy",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/canada/alberta-southern-pipeline-plan-9.7281355",
-        "published": "2026-07-24T08:00:00Z",
-        "sentiment": "watch"
+        "title": "Indonesia condemns Red Sea attacks on oil tankers",
+        "source": "Antaranews.com",
+        "url": "https://en.antaranews.com/news/423919/indonesia-condemns-red-sea-attacks-on-oil-tankers",
+        "published": "2026-07-24T09:40:17Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Chinese ship shoots water cannon at Philippine vessel with CNN crew on board near flashpoint shoal",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/07/24/asia/china-philippines-south-china-sea-scarborough-intl-hnk",
+        "published": "2026-07-24T09:19:41Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
         "source": "NPR",
@@ -89,13 +96,6 @@
         "source": "Abcnews.com",
         "url": "https://abcnews.com/International/wireStory/us-ready-end-senseless-war-ukraine-quick-deal-135004865",
         "published": "2026-07-23T11:42:39Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "China Stages Military Drills in Key Trade Waters After Rubio Warning",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/edab90041589dd79",
-        "published": "2026-07-23T07:16:50Z",
         "sentiment": "danger"
       }
     ],
