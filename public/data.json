@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-25T18:29:19.924Z",
+    "generated_at": "2026-07-25T19:48:36.323Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/24/oman-talking-with-tehran-on-hormuz-as-us-and-iran-continue-strikes",
-        "published": "2026-07-24T18:15:01Z",
+        "title": "Republican War Hawks Urge Trump to Finish the Job in Iran",
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/post/213525/republicans-war-hawks-congress-urge-trump-finish-job-iran",
+        "published": "2026-07-24T19:47:39Z",
         "sentiment": "danger"
       },
       {
-        "title": "Russia's Biggest Black Sea Oil Port Goes Quiet as Drone Threat Grows",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Biggest-Black-Sea-Oil-Port-Goes-Quiet-as-Drone-Threat-Grows.html",
-        "published": "2026-07-24T18:00:00Z",
-        "sentiment": "danger"
+        "title": "ANDREW NEIL: I'm told Trump's physical and mental health are in visible decline - and there's ever more talk about a ground invasion. 150 days on, he has no good options left in Iran debacle",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/debate/article-16003555/ANDREW-NEIL-Im-told-Trumps-physical-mental-health-visible-decline-theres-talk-ground-invasion-150-days-no-good-options-left-Iran-debacle.html",
+        "published": "2026-07-24T19:31:56Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Trump Wants to Use Frozen Iranian Funds to Cover for Attacks on Ships",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/trump-cargo-ships-frozen-iranian-funds-iran-houthi-attacks-red-sea-strait-hormuz-1239081845/",
-        "published": "2026-07-24T17:50:47Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump Threatens To Seize Iran’s Assets To Cover “Any And All Damages” Done to Ships And Cargo",
-        "source": "Shtfplan.com",
-        "url": "https://www.shtfplan.com/headline-news/trump-threatens-to-seize-irans-assets-to-cover-any-and-all-damages-done-to-ships-and-cargo",
-        "published": "2026-07-24T17:30:40Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump Seethes as Iran War Spirals Anew With No End in Sight",
+        "title": "Oil to End Year Near $100 on Mideast Disruptions, Rapidan Says",
         "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/trump-seethes-as-iran-war-spirals-anew-with-no-end-in-sight",
-        "published": "2026-07-24T17:20:54Z",
-        "sentiment": "danger"
+        "url": "https://financialpost.com/pmn/business-pmn/oil-to-end-year-near-100-on-mideast-disruptions-rapidan-says",
+        "published": "2026-07-24T19:23:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Does Iran Have a Plan?",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/ideas/2026/07/war-strategy-shift-isolation/688061/",
+        "published": "2026-07-24T19:22:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "“Quagmire of the vanities”",
+        "source": "Lawyersgunsmoneyblog.com",
+        "url": "https://www.lawyersgunsmoneyblog.com/2026/07/quagmire-of-the-vanities",
+        "published": "2026-07-24T19:17:44Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
