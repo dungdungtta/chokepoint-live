@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-25T19:48:36.323Z",
+    "generated_at": "2026-07-25T21:01:10.259Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Grains Markets Hit New Highs on Black Sea Attacks, Crude Oil Rally",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/grains-markets-hit-new-highs-on-black-sea-attacks-crude-oil-rally/",
+        "published": "2026-07-24T20:40:21Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Brent Pulls Back From $100",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/brent_pulls_back_from_100-24-jul-2026-184215-article/",
+        "published": "2026-07-24T20:29:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "1963 Chevrolet Corvette Split-Window Coupe L84 327/360 Fuelie 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1963-chevrolet-corvette-coupe-251/",
+        "published": "2026-07-24T20:10:16Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Republican War Hawks Urge Trump to Finish the Job in Iran",
         "source": "The New Republic",
         "url": "https://newrepublic.com/post/213525/republicans-war-hawks-congress-urge-trump-finish-job-iran",
@@ -38,27 +59,6 @@
         "source": "Dailymail.com",
         "url": "https://www.dailymail.com/debate/article-16003555/ANDREW-NEIL-Im-told-Trumps-physical-mental-health-visible-decline-theres-talk-ground-invasion-150-days-no-good-options-left-Iran-debacle.html",
         "published": "2026-07-24T19:31:56Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil to End Year Near $100 on Mideast Disruptions, Rapidan Says",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-to-end-year-near-100-on-mideast-disruptions-rapidan-says",
-        "published": "2026-07-24T19:23:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Does Iran Have a Plan?",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/ideas/2026/07/war-strategy-shift-isolation/688061/",
-        "published": "2026-07-24T19:22:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "“Quagmire of the vanities”",
-        "source": "Lawyersgunsmoneyblog.com",
-        "url": "https://www.lawyersgunsmoneyblog.com/2026/07/quagmire-of-the-vanities",
-        "published": "2026-07-24T19:17:44Z",
         "sentiment": "watch"
       }
     ],
