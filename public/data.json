@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-25T00:16:03.364Z",
+    "generated_at": "2026-07-25T03:50:12.933Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Houthi attacks on Red Sea shipping push oil prices above $100 per barrel",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/houthi-attacks-on-red-sea-shipping-push-oil-prices-above-100-per-barrel/",
-        "published": "2026-07-24T00:12:49Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "UN envoy for Yemen ‘alarmed’ by Houthis’ Red Sea attacks, calls for talks",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/24/un-envoy-for-yemen-alarmed-by-houthis-red-sea-attacks-calls-for-talks",
-        "published": "2026-07-24T00:03:25Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Indian refiners scout new crude sources as Gulf risks rise",
+        "title": "1,500 ships trapped in Gulf of Hormuz is quietly multiplying an underwater army that could unleash World's biggest bioinvasion event",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indian-refiners-scout-new-crude-sources-as-gulf-risks-rise/articleshow/132591441.cms",
-        "published": "2026-07-24T00:00:00Z",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/1500-ships-trapped-in-gulf-of-hormuz-is-quietly-multiplying-an-underwater-army-that-could-unleash-worlds-biggest-bioinvasion-event/articleshow/132595366.cms",
+        "published": "2026-07-24T03:34:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "July 23, 2026 - PBS News Hour full episode",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/show/july-23-2026-pbs-news-hour-full-episode",
-        "published": "2026-07-23T23:49:26Z",
+        "title": "Drivers urged not to panic buy as fuel price hikes nowhere near record high",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-07-24/nsw-petrol-prices-tipped-to-rise-australia-household-budgets/106953716",
+        "published": "2026-07-24T03:25:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Heads for Weekly Surge as Middle East Supply Risks Mount",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-heads-for-weekly-surge-as-middle-east-supply-risks-mount",
-        "published": "2026-07-23T23:42:39Z",
-        "sentiment": "watch"
+        "title": "Iran war: US launches new strikes over shipping routes threat",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/iran-war-us-launches-new-strikes-over-shipping-routes-threat/live-78093040",
+        "published": "2026-07-24T03:12:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran war: US launches new strikes over shipping routes threat",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/iran-war-us-launches-new-strikes-over-shipping-routes-threat/live-78093040",
+        "published": "2026-07-24T03:12:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US launches new strikes on Iran over shipping routes threat",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/us-launches-new-strikes-on-iran-over-shipping-routes-threat/live-78093040",
+        "published": "2026-07-24T03:12:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "US is ready to help end the 'senseless war' in Ukraine but no quick deal ahead, Rubio says",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-is-ready-to-help-end-the-senseless-war-in-ukraine-but-no-quick-deal-ahead-rubio-says/articleshow/132594732.cms",
+        "published": "2026-07-24T02:08:38Z",
+        "sentiment": "danger"
+      },
       {
         "title": "US is ready to help end the 'senseless war' in Ukraine, Rubio says",
         "source": "Abcnews.com",
@@ -88,13 +95,6 @@
         "title": "Trump, Taiwan, and the Reagan Doctrine",
         "source": "Hoover.org",
         "url": "https://www.hoover.org/research/trump-taiwan-and-reagan-doctrine",
-        "published": "2026-07-23T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump, Taiwan, and the Reagan Doctrine",
-        "source": "Hoover.org",
-        "url": "https://cms.hoover.org/research/trump-taiwan-and-reagan-doctrine",
         "published": "2026-07-23T00:00:00Z",
         "sentiment": "watch"
       }
