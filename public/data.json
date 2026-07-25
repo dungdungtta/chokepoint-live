@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-25T06:24:43.693Z",
+    "generated_at": "2026-07-25T08:31:44.158Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S. Gasoline Prices Climb Back Above $4 Per Gallon Amid Middle East Conflict",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-24-us-gasoline-cost-climb-middle-east-conflict.html",
-        "published": "2026-07-24T06:00:00Z",
+        "title": "Take 5 - a $100 oil prices question",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0724/1584906-take-5-a-100-oil-prices-question/",
+        "published": "2026-07-24T08:21:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthi strikes on Saudi tankers threaten to ignite broader regional war",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-24-houthi-strikes-saudi-tankers-threaten-broader-regional-war.html",
-        "published": "2026-07-24T06:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Journalist Ben Swann reports on ENGINEERED SCARCITY of global food, fertilizer, and fuel",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-24-journalist-ben-swann-reports-on-engineered-scarcity-of-global-food-fertilizer-and-fuel.html",
-        "published": "2026-07-24T06:00:00Z",
+        "title": "A $100 question and all you need to know about markets for next week",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/a-100-question-and-all-you-need-to-know-about-markets-for-next-week/articleshow/132599936.cms",
+        "published": "2026-07-24T08:07:51Z",
         "sentiment": "watch"
       },
       {
-        "title": "Shipping Firms Offer ‘Massive Bonuses’ for Strait of Hormuz Crossings, Report Says",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-24-shipping-firms-offer-bonuses-for-hormuz-crossings.html",
-        "published": "2026-07-24T06:00:00Z",
+        "title": "Explosions Break Out Near U.S. Base In Northern Iraq",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/us-iran-escalating-strikes_n_6a631adce4b0811ae03ff1c7",
+        "published": "2026-07-24T08:02:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "US says it will use frozen Iranian assets to fund damage to ships as strikes continue",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do",
-        "published": "2026-07-24T05:59:40Z",
-        "sentiment": "danger"
+        "title": "Iran weaponized the Strait of Hormuz. Now its neighbors are building around it",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/07/24/politics/middle-east-energy-map-redrawn-pipeline-projects-mcgurk-vis",
+        "published": "2026-07-24T08:00:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Alberta's got a new plan for a southern pipeline to B.C.'s coast — it still won't be easy",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/canada/alberta-southern-pipeline-plan-9.7281355",
+        "published": "2026-07-24T08:00:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
