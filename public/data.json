@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-25T13:52:18.958Z",
+    "generated_at": "2026-07-25T15:10:49.740Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Tariff-Driven Frontloading Pays Off as Trump Reinstates Global Import Duties",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/tariff-driven-frontloading-pays-off-as-trump-reinstates-global-import-duties/",
-        "published": "2026-07-24T13:51:57Z",
+        "title": "Houthis say they don't seek to close key Bab al-Mandeb Strait",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/houthis-say-they-dont-seek-to-close-key-bab-al-mandeb-strait/articleshow/132608780.cms",
+        "published": "2026-07-24T15:09:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "Dow Ticks Up 0.10% Friday as Wall Street Steadies After Sharp Tech-Led Selloff and New Trump Tariffs",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/dow-jones-recovery-tech-selloff-tariffs-1872857",
-        "published": "2026-07-24T13:35:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Had Expletive-Laden Tantrum Over Iran War Failures",
-        "source": "The New Republic",
-        "url": "https://newrepublic.com/post/213483/donald-trump-expletive-laden-tantrum-iran-war-failures",
-        "published": "2026-07-24T13:35:16Z",
+        "title": "Houthis impose blockade on Saudi-linked shipping in Red Sea",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/houthis-impose-blockade-on-saudi-linked-shipping-in-red-sea/",
+        "published": "2026-07-24T15:03:08Z",
         "sentiment": "danger"
       },
       {
-        "title": "U.S. military base in Iraq targeted by Iran as renewed fighting nears 2-week mark",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/us-iran-war-iraq-base-9.7282046",
-        "published": "2026-07-24T13:13:34Z",
+        "title": "Apple Stock Climbs 2.59% After Baird Lifts Price Target to $330 Ahead of Next Week's Earnings Report",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/apple-stock-surges-analysts-raise-price-targets-1872869",
+        "published": "2026-07-24T14:56:19Z",
         "sentiment": "watch"
       },
       {
-        "title": "Overseas Buyers In Hot Pursuit of USA Crude",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/overseas_buyers_in_hot_pursuit_of_usa_crude-24-jul-2026-184210-article/",
-        "published": "2026-07-24T13:09:47Z",
+        "title": "Southern California’s used EV market sizzles as gas prices soar",
+        "source": "Medianewsgroup.com",
+        "url": "https://wpdash.medianewsgroup.com/?p=9641606",
+        "published": "2026-07-24T14:33:01Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Rubico Inc. Announces Letter of Intent for Acquisition of a High Specification Newbuilding MR Tanker",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/07/24/3332933/0/en/Rubico-Inc-Announces-Letter-of-Intent-for-Acquisition-of-a-High-Specification-Newbuilding-MR-Tanker.html",
+        "published": "2026-07-24T14:32:00Z",
         "sentiment": "watch"
       }
     ],
