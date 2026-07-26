@@ -1,13 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-07-26T20:31:27.754Z",
+    "generated_at": "2026-07-26T21:41:40.519Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": null,
-      "change_pct": null,
+      "price": 86.99,
+      "change_pct": 2.3,
+      "date": "2026-07-20",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -25,6 +26,20 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Houthi Rebels Claim Missile Strike on Giant Saudi Refinery at Jazan",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4389341/posts",
+        "published": "2026-07-25T20:39:50Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Houthis Fire Missiles At Saudi Arabia In Response To Airstrikes In Yemen",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/ap-ml-iran-us-houthis-saudi-arabia_n_6a651d0ce4b021af4925b01c",
+        "published": "2026-07-25T20:37:11Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Trump pulls back after Iran crosses his red line as U.S. military breaks two-week streak of airstrikes amid talks for potential Hormuz deal",
         "source": "Fortune",
@@ -44,20 +59,6 @@
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/9966faf804445dc0",
         "published": "2026-07-25T19:05:44Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran sold $18B in oil during war and ceasefire period, exposing limits of sanctions enforcement",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-18b-oil-sales-war-ceasefire/",
-        "published": "2026-07-25T18:54:49Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran-backed Houthis fire missiles at Saudi Arabia in response to airstrikes in Yemen",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/iran-backed-houthis-fire-missiles-at-saudi-arabia-in-response-to-airstrikes-in-yemen/articleshow/132632167.cms",
-        "published": "2026-07-25T18:20:42Z",
         "sentiment": "danger"
       }
     ],
