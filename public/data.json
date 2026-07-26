@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-26T21:41:40.519Z",
+    "generated_at": "2026-07-26T22:43:44.831Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "Three Endgames: Scenarios for the Iran War and the Post-American Order",
+        "source": "Blogspot.com",
+        "url": "https://i-epikaira.blogspot.com/2026/07/three-endgames-scenarios-for-iran-war.html",
+        "published": "2026-07-25T22:20:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Saudi Arabia strikes Houthis after attacks on energy sites, sending Brent crude past $100",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/saudi-arabia-strikes-houthis-oil-prices/",
+        "published": "2026-07-25T22:13:17Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Saudi Arabia strikes Houthis after rebel attacks on energy sites",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/saudi-arabia-strikes-houthis-after-rebel-attacks-on-energy-sites/",
+        "published": "2026-07-25T22:11:45Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The Praxian Genocidal Kill Chain — Part 3",
+        "source": "Activistpost.com",
+        "url": "https://www.activistpost.com/the-praxian-genocidal-kill-chain-part-3/",
+        "published": "2026-07-25T22:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Houthi Rebels Claim Missile Strike on Giant Saudi Refinery at Jazan",
         "source": "Freerepublic.com",
         "url": "https://freerepublic.com/focus/f-news/4389341/posts",
         "published": "2026-07-25T20:39:50Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Houthis Fire Missiles At Saudi Arabia In Response To Airstrikes In Yemen",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/ap-ml-iran-us-houthis-saudi-arabia_n_6a651d0ce4b021af4925b01c",
-        "published": "2026-07-25T20:37:11Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump pulls back after Iran crosses his red line as U.S. military breaks two-week streak of airstrikes amid talks for potential Hormuz deal",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/25/trump-iran-war-red-line-us-military-pause-airstrikes-talks-hormuz-deal/",
-        "published": "2026-07-25T19:46:56Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran reports Ukrainian drone strike killed sailor on Caspian Sea vessel",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/ukraine-caspian-sea-drone-strike-iran/",
-        "published": "2026-07-25T19:14:45Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "BofA warns oil volatility could force c. banks to abandon look-through’ policy",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/9966faf804445dc0",
-        "published": "2026-07-25T19:05:44Z",
         "sentiment": "danger"
       }
     ],
