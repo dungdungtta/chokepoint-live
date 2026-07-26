@@ -1,14 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-26T19:22:10.620Z",
+    "generated_at": "2026-07-26T20:31:27.754Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 86.99,
-      "change_pct": 2.3,
-      "date": "2026-07-20",
+      "price": null,
+      "change_pct": null,
       "unit": "USD/bbl"
     },
     "freight": {
@@ -26,6 +25,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Trump pulls back after Iran crosses his red line as U.S. military breaks two-week streak of airstrikes amid talks for potential Hormuz deal",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/25/trump-iran-war-red-line-us-military-pause-airstrikes-talks-hormuz-deal/",
+        "published": "2026-07-25T19:46:56Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Iran reports Ukrainian drone strike killed sailor on Caspian Sea vessel",
         "source": "Crypto Briefing",
@@ -53,13 +59,6 @@
         "url": "https://economictimes.indiatimes.com/news/defence/iran-backed-houthis-fire-missiles-at-saudi-arabia-in-response-to-airstrikes-in-yemen/articleshow/132632167.cms",
         "published": "2026-07-25T18:20:42Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Houthis Fire On Saudi Red Sea Oil Sites",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/houthis-fire-on-saudi-red-sea-oil-sites/",
-        "published": "2026-07-25T18:08:45Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
