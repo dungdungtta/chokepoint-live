@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-26T14:10:24.764Z",
+    "generated_at": "2026-07-26T15:31:44.386Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "U.S. military suddenly goes silent on Iran airstrikes while Houthi rebels and Saudi Arabia exchange attacks in battle over Red Sea shipping",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/25/us-military-silent-iran-airstrikes-houthi-rebels-saudi-arabia-battle-red-sea-shipping/",
+        "published": "2026-07-25T15:13:40Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US-Iran war spreads as Saudi Arabia, Houthis trade airstrikes in Red Sea escalation",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/07/25/world-news/us-iran-war-spreads-as-saudi-arabia-houthis-trade-airstrikes-in-red-sea-escalation/",
+        "published": "2026-07-25T14:47:25Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "The Hegemon’s Escape: Why America is blowing up its own world order",
         "source": "Blogspot.com",
         "url": "https://i-epikaira.blogspot.com/2026/07/the-hegemons-escape-why-america-is.html",
@@ -39,20 +53,6 @@
         "url": "https://nypost.com/2026/07/25/us-news/as-california-gas-prices-surge-experts-warn-this-spike-is-different/",
         "published": "2026-07-25T14:00:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Houthis Fire On Saudi Oil Installations On The Red Sea Coast",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/houthis-fire-saudi-oil-installations-on-the-red-seacoast_n_6a64bcc5e4b089c33066a05c",
-        "published": "2026-07-25T13:59:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Meet the Americans learning to go without after the biggest grocery inflation in 50 years",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/25/grocery-inflation-families-texas-san-francisco-hawaii/",
-        "published": "2026-07-25T13:54:52Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
