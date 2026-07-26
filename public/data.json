@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-26T04:43:56.382Z",
+    "generated_at": "2026-07-26T07:26:34.321Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Crude oil prices rise 10% this week but China enters fray to push for end to Iran war. What’s next?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-prices-rise-10-this-week-but-china-enters-fray-to-push-for-end-to-iran-war-whats-next/articleshow/132619080.cms",
-        "published": "2026-07-25T04:35:15Z",
+        "title": "Houthis say hit Saudi Arabia as Trump weighs harder Iran strikes",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/houthis-say-hit-saudi-arabia-as-trump-weighs-harder-iran-strikes-224781",
+        "published": "2026-07-25T06:22:36Z",
         "sentiment": "danger"
       },
       {
-        "title": "Federal government says fuel supply 'solid and secure' as prices climb again",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-07-25/bowen-fuel-supply-solid-and-secure-as-prices-climb-again/106957876",
-        "published": "2026-07-25T04:19:32Z",
+        "title": "U.S. Officials Say Iran War Nearly Won, but Military Data Shows Unmet Objectives and Depleted Stockpiles",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-25-us-iran-military-data-unmet-objectives-depleted-stockpiles.html",
+        "published": "2026-07-25T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Nobody knows what a used GPU cluster is worth",
+        "source": "Substack.com",
+        "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
+        "published": "2026-07-25T05:47:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil falls on report China pushing for end US-Iran war",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-on-report-china-pushing-for-end-us-iran-war/articleshow/132618787.cms",
-        "published": "2026-07-25T04:14:07Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran war: Houthis vow response to 'dangerous escalation' by Saudi Arabia",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/iran-war-houthis-vow-response-to-dangerous-escalation-by-saudi-arabia/live-78107211",
-        "published": "2026-07-25T03:54:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran-aligned groups target Red Sea shipping, escalating US-Iran tensions",
+        "title": "Iran’s Strait of Hormuz closure slashes oil trade with China",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-aligned-groups-target-red-sea-shipping-escalating-us-iran-tensions/",
-        "published": "2026-07-25T02:44:09Z",
+        "url": "https://cryptobriefing.com/irans-strait-of-hormuz-closure-slashes-oil-trade-with-china/",
+        "published": "2026-07-25T05:23:13Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Saudi Arabia and Houthis exchange fire as US attacks tanker in Hormuz Strait",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o",
+        "published": "2026-07-25T04:48:40Z",
         "sentiment": "danger"
       }
     ],
