@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-26T09:35:30.040Z",
+    "generated_at": "2026-07-26T11:09:40.717Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Higher prices are rewriting grocery lists and family menus in 2026",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/grocery-shopping-prices-food-affordability-8468c1d6532ca762bbcfa17e3c7707d1",
-        "published": "2026-07-25T09:32:43Z",
+        "title": "The Ticking Clock on the Strait of Hormuz",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/international/2026/07/iran-war-hormuz-strait/688062/",
+        "published": "2026-07-25T11:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthis claim missile attack on Saudi Arabia as conflict deepens",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/07/houthis-claim-missile-attack-on-saudi-arabia-as-conflict-deepens/",
-        "published": "2026-07-25T07:39:46Z",
-        "sentiment": "danger"
+        "title": "Links 7/25/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/07/links-7-25-2026.html",
+        "published": "2026-07-25T10:59:24Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Houthis say hit Saudi Arabia as Trump weighs harder Iran strikes",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/houthis-say-hit-saudi-arabia-as-trump-weighs-harder-iran-strikes-224781",
-        "published": "2026-07-25T06:22:36Z",
-        "sentiment": "danger"
+        "title": "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/americans-rewire-grocery-shopping-routines-digesting-biggest-price-135077702",
+        "published": "2026-07-25T10:53:06Z",
+        "sentiment": "watch"
       },
       {
-        "title": "U.S. Officials Say Iran War Nearly Won, but Military Data Shows Unmet Objectives and Depleted Stockpiles",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-25-us-iran-military-data-unmet-objectives-depleted-stockpiles.html",
-        "published": "2026-07-25T06:00:00Z",
+        "title": "Iran reports no new U.S. strikes as tensions remain high",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/iran-reports-new-us-strikes-tensions-remain-high-135077829",
+        "published": "2026-07-25T10:53:03Z",
         "sentiment": "danger"
       }
     ],
