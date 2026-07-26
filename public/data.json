@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-25T23:15:22.855Z",
+    "generated_at": "2026-07-26T01:08:25.368Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "US military says it fired on another merchant vessel trying to breach its blockade of Iranian ports",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-military-says-it-fired-on-another-merchant-vessel-trying-to-breach-its-blockade-of-iranian-ports/articleshow/132617321.cms",
+        "published": "2026-07-25T00:53:30Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US missiles hit Iran as path towards de-escalation uncertain",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-missiles-hit-iran-as-path-towards-de-escalation-uncertain/articleshow/132617297.cms",
+        "published": "2026-07-25T00:44:16Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/saudi-led-coalition-strikes-houthi-controlled-hodeidah",
+        "published": "2026-07-25T00:31:16Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "WTI Explodes Higher as Middle East Shipping Risks Multiply - Crude Oil Prices Today | OilPrice.com",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184671144",
+        "published": "2026-07-24T23:52:41Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Houthi attacks raise Red Sea shipping insurance premiums, threaten oil supply",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/houthi-attacks-raise-red-sea-shipping-insurance-premiums-threaten-oil-supply/",
         "published": "2026-07-24T23:06:40Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "The Strait of Hormuz Closure Is Already Hitting Supermarket Prices",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Finance/the-Economy/The-Strait-of-Hormuz-Closure-Is-Already-Hitting-Supermarket-Prices.html",
-        "published": "2026-07-24T23:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S. Gasoline Prices Climb Back Above $4 Per Gallon Amid Middle East Conflict",
-        "source": "Shtfplan.com",
-        "url": "https://www.shtfplan.com/economics/u-s-gasoline-prices-climb-back-above-4-per-gallon-amid-middle-east-conflict",
-        "published": "2026-07-24T22:30:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ships transiting Strait of Hormuz go dark, hug Iran’s Coast to evade Tehran’s wrath",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/07/24/world-news/ships-transiting-strait-of-hormuz-go-dark-hug-irans-coast-to-evade-tehrans-wrath/",
-        "published": "2026-07-24T22:30:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US forces disable M/T Lavine merchant ship in Gulf of Oman: AP",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-forces-disable-mt-lavine-merchant-ship-in-gulf-of-oman-ap/",
-        "published": "2026-07-24T21:53:06Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
