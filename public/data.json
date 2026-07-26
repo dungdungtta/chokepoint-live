@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-26T12:17:40.304Z",
+    "generated_at": "2026-07-26T14:10:24.764Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Houthis strike Saudi Aramco facilities as Brent crude hits $100, crypto pulls back",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/houthis-aramco-strikes-brent-crude-crypto/",
-        "published": "2026-07-25T12:10:23Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Houthis Claim Strike On Saudi Arabia After Riyadh Hits Yemen Targets",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260725-rferl04.htm",
-        "published": "2026-07-25T12:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US pauses strikes on Iran after 13 consecutive nights as crypto markets feel the heat",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-pauses-iran-strikes-crypto-markets/",
-        "published": "2026-07-25T11:59:38Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Saturday: Hili dialogue",
-        "source": "Whyevolutionistrue.com",
-        "url": "https://whyevolutionistrue.com/2026/07/25/saturday-hili-dialogue-592/",
-        "published": "2026-07-25T11:45:52Z",
+        "title": "The Hegemon’s Escape: Why America is blowing up its own world order",
+        "source": "Blogspot.com",
+        "url": "https://i-epikaira.blogspot.com/2026/07/the-hegemons-escape-why-america-is.html",
+        "published": "2026-07-25T14:04:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Ticking Clock on the Strait of Hormuz",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/international/2026/07/iran-war-hormuz-strait/688062/",
-        "published": "2026-07-25T11:00:00Z",
+        "title": "Gas prices climb higher across California as experts warn this surge will be different",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/07/25/us-news/as-california-gas-prices-surge-experts-warn-this-spike-is-different/",
+        "published": "2026-07-25T14:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Houthis Fire On Saudi Oil Installations On The Red Sea Coast",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/houthis-fire-saudi-oil-installations-on-the-red-seacoast_n_6a64bcc5e4b089c33066a05c",
+        "published": "2026-07-25T13:59:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Meet the Americans learning to go without after the biggest grocery inflation in 50 years",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/25/grocery-inflation-families-texas-san-francisco-hawaii/",
+        "published": "2026-07-25T13:54:52Z",
         "sentiment": "watch"
       }
     ],
