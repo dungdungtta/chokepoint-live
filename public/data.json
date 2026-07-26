@@ -1,14 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-26T16:37:58.493Z",
+    "generated_at": "2026-07-26T17:46:18.659Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 86.99,
-      "change_pct": 2.3,
-      "date": "2026-07-20",
+      "price": null,
+      "change_pct": null,
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,39 +26,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Keeps Flowing From Red Sea As Hormuz Bypass Stays Open",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/oil-keeps-flowing-from-red-sea-as-hormuz-bypass-stays-open/",
-        "published": "2026-07-25T15:59:51Z",
+        "title": "Higher prices are rewriting grocery lists and family menus in 2026",
+        "source": "Wgauradio.com",
+        "url": "https://www.wgauradio.com/news/business/americans-rewire/MRPHFZE2H467JBVAZVG5ILKTMY/",
+        "published": "2026-07-25T17:40:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "Stalled vessels near Strait of Hormuz could trigger invasive species catastrophe",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
-        "published": "2026-07-25T15:31:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. military suddenly goes silent on Iran airstrikes while Houthi rebels and Saudi Arabia exchange attacks in battle over Red Sea shipping",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/25/us-military-silent-iran-airstrikes-houthi-rebels-saudi-arabia-battle-red-sea-shipping/",
-        "published": "2026-07-25T15:13:40Z",
+        "title": "IRGC claims destruction of US military aircraft and radar systems as crypto markets navigate war volatility",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/irgc-claims-us-military-strikes-crypto-markets/",
+        "published": "2026-07-25T17:32:54Z",
         "sentiment": "danger"
       },
       {
-        "title": "US-Iran war spreads as Saudi Arabia, Houthis trade airstrikes in Red Sea escalation",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/07/25/world-news/us-iran-war-spreads-as-saudi-arabia-houthis-trade-airstrikes-in-red-sea-escalation/",
-        "published": "2026-07-25T14:47:25Z",
-        "sentiment": "danger"
+        "title": "US Pauses Iran Bombing Campaign As Saudi-Houthi Red Sea Front Erupts",
+        "source": "Shtfplan.com",
+        "url": "https://www.shtfplan.com/war/us-pauses-iran-bombing-campaign-as-saudi-houthi-red-sea-front-erupts",
+        "published": "2026-07-25T17:30:41Z",
+        "sentiment": "watch"
       },
       {
-        "title": "The Hegemon’s Escape: Why America is blowing up its own world order",
-        "source": "Blogspot.com",
-        "url": "https://i-epikaira.blogspot.com/2026/07/the-hegemons-escape-why-america-is.html",
-        "published": "2026-07-25T14:04:12Z",
+        "title": "UCLA Scientists Turn Plastic Waste Into Pure Hydrogen Fuel",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/UCLA-Scientists-Turn-Plastic-Waste-Into-Pure-Hydrogen-Fuel.html",
+        "published": "2026-07-25T17:00:00Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Ships continue Red Sea transit despite attacks and Houthi blockade: Report",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/ships-continue-red-sea-transit-despite-attacks-and-houthi-blockade-report/articleshow/132630195.cms",
+        "published": "2026-07-25T16:42:35Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
