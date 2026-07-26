@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-26T11:09:40.717Z",
+    "generated_at": "2026-07-26T12:17:40.304Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Houthis strike Saudi Aramco facilities as Brent crude hits $100, crypto pulls back",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/houthis-aramco-strikes-brent-crude-crypto/",
+        "published": "2026-07-25T12:10:23Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Houthis Claim Strike On Saudi Arabia After Riyadh Hits Yemen Targets",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260725-rferl04.htm",
+        "published": "2026-07-25T12:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US pauses strikes on Iran after 13 consecutive nights as crypto markets feel the heat",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-pauses-iran-strikes-crypto-markets/",
+        "published": "2026-07-25T11:59:38Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Saturday: Hili dialogue",
+        "source": "Whyevolutionistrue.com",
+        "url": "https://whyevolutionistrue.com/2026/07/25/saturday-hili-dialogue-592/",
+        "published": "2026-07-25T11:45:52Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "The Ticking Clock on the Strait of Hormuz",
         "source": "The Atlantic",
         "url": "https://www.theatlantic.com/international/2026/07/iran-war-hormuz-strait/688062/",
         "published": "2026-07-25T11:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Links 7/25/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/07/links-7-25-2026.html",
-        "published": "2026-07-25T10:59:24Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/americans-rewire-grocery-shopping-routines-digesting-biggest-price-135077702",
-        "published": "2026-07-25T10:53:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran reports no new U.S. strikes as tensions remain high",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/iran-reports-new-us-strikes-tensions-remain-high-135077829",
-        "published": "2026-07-25T10:53:03Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
