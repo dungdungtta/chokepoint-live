@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-26T15:31:44.386Z",
+    "generated_at": "2026-07-26T16:37:58.493Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil Keeps Flowing From Red Sea As Hormuz Bypass Stays Open",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/oil-keeps-flowing-from-red-sea-as-hormuz-bypass-stays-open/",
+        "published": "2026-07-25T15:59:51Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Stalled vessels near Strait of Hormuz could trigger invasive species catastrophe",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
+        "published": "2026-07-25T15:31:49Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "U.S. military suddenly goes silent on Iran airstrikes while Houthi rebels and Saudi Arabia exchange attacks in battle over Red Sea shipping",
         "source": "Fortune",
         "url": "https://fortune.com/2026/07/25/us-military-silent-iran-airstrikes-houthi-rebels-saudi-arabia-battle-red-sea-shipping/",
@@ -46,13 +60,6 @@
         "url": "https://i-epikaira.blogspot.com/2026/07/the-hegemons-escape-why-america-is.html",
         "published": "2026-07-25T14:04:12Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Gas prices climb higher across California as experts warn this surge will be different",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/07/25/us-news/as-california-gas-prices-surge-experts-warn-this-spike-is-different/",
-        "published": "2026-07-25T14:00:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
