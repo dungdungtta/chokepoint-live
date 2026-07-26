@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-26T01:08:25.368Z",
+    "generated_at": "2026-07-26T04:43:56.382Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US military says it fired on another merchant vessel trying to breach its blockade of Iranian ports",
+        "title": "Crude oil prices rise 10% this week but China enters fray to push for end to Iran war. What’s next?",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/us-military-says-it-fired-on-another-merchant-vessel-trying-to-breach-its-blockade-of-iranian-ports/articleshow/132617321.cms",
-        "published": "2026-07-25T00:53:30Z",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-prices-rise-10-this-week-but-china-enters-fray-to-push-for-end-to-iran-war-whats-next/articleshow/132619080.cms",
+        "published": "2026-07-25T04:35:15Z",
         "sentiment": "danger"
       },
       {
-        "title": "US missiles hit Iran as path towards de-escalation uncertain",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/us-missiles-hit-iran-as-path-towards-de-escalation-uncertain/articleshow/132617297.cms",
-        "published": "2026-07-25T00:44:16Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/saudi-led-coalition-strikes-houthi-controlled-hodeidah",
-        "published": "2026-07-25T00:31:16Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "WTI Explodes Higher as Middle East Shipping Risks Multiply - Crude Oil Prices Today | OilPrice.com",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184671144",
-        "published": "2026-07-24T23:52:41Z",
+        "title": "Federal government says fuel supply 'solid and secure' as prices climb again",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-07-25/bowen-fuel-supply-solid-and-secure-as-prices-climb-again/106957876",
+        "published": "2026-07-25T04:19:32Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthi attacks raise Red Sea shipping insurance premiums, threaten oil supply",
+        "title": "Oil falls on report China pushing for end US-Iran war",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-on-report-china-pushing-for-end-us-iran-war/articleshow/132618787.cms",
+        "published": "2026-07-25T04:14:07Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran war: Houthis vow response to 'dangerous escalation' by Saudi Arabia",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/iran-war-houthis-vow-response-to-dangerous-escalation-by-saudi-arabia/live-78107211",
+        "published": "2026-07-25T03:54:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran-aligned groups target Red Sea shipping, escalating US-Iran tensions",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/houthi-attacks-raise-red-sea-shipping-insurance-premiums-threaten-oil-supply/",
-        "published": "2026-07-24T23:06:40Z",
+        "url": "https://cryptobriefing.com/iran-aligned-groups-target-red-sea-shipping-escalating-us-iran-tensions/",
+        "published": "2026-07-25T02:44:09Z",
         "sentiment": "danger"
       }
     ],
