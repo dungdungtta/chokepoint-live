@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-26T22:43:44.831Z",
+    "generated_at": "2026-07-26T23:45:41.763Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Trump pauses Iran military strikes as Bitcoin drops 2.3% and oil tops $100",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-pauses-iran-strikes-bitcoin-drops/",
+        "published": "2026-07-25T22:49:34Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Three Endgames: Scenarios for the Iran War and the Post-American Order",
         "source": "Blogspot.com",
@@ -53,13 +60,6 @@
         "url": "https://www.activistpost.com/the-praxian-genocidal-kill-chain-part-3/",
         "published": "2026-07-25T22:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Houthi Rebels Claim Missile Strike on Giant Saudi Refinery at Jazan",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4389341/posts",
-        "published": "2026-07-25T20:39:50Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
