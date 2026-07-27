@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-26T23:45:41.763Z",
+    "generated_at": "2026-07-27T03:51:09.485Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump pauses Iran military strikes as Bitcoin drops 2.3% and oil tops $100",
+        "title": "DEVELOPING: Houthis Target Saudi Aramco Oil Facilities as Trump Threatens “Major Military Punishment” for Houthi Agression",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4389378/posts",
+        "published": "2026-07-26T03:06:22Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "DEVELOPING: Houthis Target Saudi Aramco Oil Facilities as Trump Threatens “Major Military Punishment” for Houthi Agression",
+        "source": "Thegatewaypundit.com",
+        "url": "https://www.thegatewaypundit.com/2026/07/developing-houthis-target-saudi-aramco-oil-facilities-as/",
+        "published": "2026-07-26T02:00:52Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iraq signs pipeline deal with Syria to reroute oil exports through the Mediterranean",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-pauses-iran-strikes-bitcoin-drops/",
-        "published": "2026-07-25T22:49:34Z",
+        "url": "https://cryptobriefing.com/iraq-syria-pipeline-oil-exports/",
+        "published": "2026-07-26T01:55:03Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/airstrikes-paused-talks-pressing-forward-us-iran-off-135091184",
+        "published": "2026-07-26T01:11:38Z",
         "sentiment": "danger"
       },
       {
-        "title": "Three Endgames: Scenarios for the Iran War and the Post-American Order",
-        "source": "Blogspot.com",
-        "url": "https://i-epikaira.blogspot.com/2026/07/three-endgames-scenarios-for-iran-war.html",
-        "published": "2026-07-25T22:20:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Saudi Arabia strikes Houthis after attacks on energy sites, sending Brent crude past $100",
+        "title": "US military disables tanker in Strait of Hormuz amid rising tensions with Iran",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/saudi-arabia-strikes-houthis-oil-prices/",
-        "published": "2026-07-25T22:13:17Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Saudi Arabia strikes Houthis after rebel attacks on energy sites",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/saudi-arabia-strikes-houthis-after-rebel-attacks-on-energy-sites/",
-        "published": "2026-07-25T22:11:45Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The Praxian Genocidal Kill Chain — Part 3",
-        "source": "Activistpost.com",
-        "url": "https://www.activistpost.com/the-praxian-genocidal-kill-chain-part-3/",
-        "published": "2026-07-25T22:00:00Z",
+        "url": "https://cryptobriefing.com/us-military-disables-tanker-in-strait-of-hormuz-amid-rising-tensions-with-iran/",
+        "published": "2026-07-26T00:54:08Z",
         "sentiment": "watch"
       }
     ],
