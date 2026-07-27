@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-27T21:18:31.062Z",
+    "generated_at": "2026-07-27T22:34:44.512Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil Tumbles as US and Iran Pause Military Strikes: Markets Wrap",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/oil-tumbles-as-us-and-iran-pause-military-strikes-markets-wrap",
+        "published": "2026-07-26T22:34:16Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil prices fall as Middle East tensions ease, Brent slips below $100",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oil-prices-fall-as-middle-east-tensions-ease-brent-slips-below-100/",
+        "published": "2026-07-26T22:11:41Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Russia conducts new strikes on Ukrainian ports and shipping – MOD",
         "source": "RT",
         "url": "https://www.rt.com/russia/643499-ukraine-ports-shipping-strikes/",
@@ -46,20 +60,6 @@
         "url": "https://i-epikaira.blogspot.com/2026/07/thomas-barrack-revives-four-seas.html",
         "published": "2026-07-26T21:01:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Putin warns hostile acts against Russian ships will be treated as piracy",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/putin-warns-hostile-acts-against-russian-ships-will-be-treated-as-piracy/",
-        "published": "2026-07-26T20:11:40Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4389446/posts",
-        "published": "2026-07-26T19:02:29Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
