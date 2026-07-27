@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-27T07:40:38.799Z",
+    "generated_at": "2026-07-27T10:56:37.233Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Tehran-Muscat talks progress on Hormuz reopening, status unchanged: CBS",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/tehran-muscat-talks-progress-on-hormuz-reopening-status-unchanged-cbs/",
-        "published": "2026-07-26T06:35:36Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Iran war spreads to Red Sea and Caspian; No US attacks for first time in two weeks",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/iran-war-spreads-to-red-sea-and-caspian-no-us-attacks-for-first-time-in-two-weeks/article71268735.ece",
-        "published": "2026-07-26T06:21:34Z",
+        "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
+        "published": "2026-07-26T10:14:39Z",
         "sentiment": "danger"
       },
       {
-        "title": "US and Iran negotiate Strait of Hormuz ceasefire with crypto toll twist",
+        "title": "Unidentified object collides with oil tanker in Red Sea, vessel safe",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-ceasefire-crypto-strait-hormuz/",
-        "published": "2026-07-26T06:01:47Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "EU approves watered-down Russia sanctions package after Greek pressure on LNG transport",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-26-eu-approves-watered-down-russia-sanctions-package.html",
-        "published": "2026-07-26T06:00:00Z",
+        "url": "https://cryptobriefing.com/unidentified-object-collides-with-oil-tanker-in-red-sea-vessel-safe/",
+        "published": "2026-07-26T09:45:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "Pakistan Warns of Military Response to Yemeni Blockade in Red Sea",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-26-pakistan-warns-military-response-yemen-houthi-blockade.html",
-        "published": "2026-07-26T06:00:00Z",
-        "sentiment": "danger"
+        "title": "Qatar urges adherence to MOU amid US-Iran tensions in Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/qatar-urges-adherence-to-mou-amid-us-iran-tensions-in-strait-of-hormuz/",
+        "published": "2026-07-26T09:30:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The great gas race: Who is holding the keys to Europe’s energy future?",
+        "source": "RT",
+        "url": "https://www.rt.com/africa/643336-europe-needs-african-gas/",
+        "published": "2026-07-26T09:03:13Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
