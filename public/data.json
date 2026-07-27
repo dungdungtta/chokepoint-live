@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-27T13:42:40.398Z",
+    "generated_at": "2026-07-27T16:04:10.953Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran Says It Has Halted Attacks On Washington's Allies, As US Pauses Bombardment",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/iran-halts-retaliatory-attacks-us-allies-middle-east/33813331.html",
-        "published": "2026-07-26T12:29:33Z",
+        "title": "Oil tanker explodes after colliding with mine in Strait of Hormuz, Iranian media reports - as Trump pauses strikes to allow more time for 'diplomacy'",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16006247/Oil-tanker-explodes-Strait-Hormuz.html",
+        "published": "2026-07-26T15:33:58Z",
         "sentiment": "danger"
       },
       {
-        "title": "Strait of Hormuz Crisis Deepens as Oil Tops $100 a Barrel and Trump Warns Iran Over Tanker Attacks",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/strait-hormuz-tensions-tanker-attacks-1872945",
-        "published": "2026-07-26T12:05:49Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran Claims Progress Made In Talks With Oman On Strait Of Hormuz",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260726-rferl03.htm",
-        "published": "2026-07-26T12:00:00Z",
+        "title": "US pauses Iran bombing campaign after Omani-mediated talks, markets eye Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-pauses-iran-bombing-omani-talks/",
+        "published": "2026-07-26T15:14:05Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Iran Says It Has Halted Attacks On Washington's Allies, As US Pauses Bombardment",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260726-rferl02.htm",
-        "published": "2026-07-26T12:00:00Z",
+        "title": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikes",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/iran-says-halt-attacks-if-us-maintains-pause-6279116",
+        "published": "2026-07-26T15:08:22Z",
         "sentiment": "danger"
       },
       {
-        "title": "From the strait of Hormuz to the North Sea, a global maritime war rages around us – and more than the price of oil is at stake | Simon Tisdall",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/09d64ea1aa104491",
-        "published": "2026-07-26T11:41:48Z",
+        "title": "U.S. forgoes strikes on Iran, but conflict escalates in the Red Sea",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/us-forgoes-strikes-iran-conflict-escalates-red-sea-rcna589285",
+        "published": "2026-07-26T14:34:08Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "A deal is being negotiated that centers around having Iran run vessel transit through the Strait of Hormuz with fewer restrictions on ships",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/26/us-iran-deal-talks-vessel-transit-strait-of-hormuz-restrictions-ships/",
+        "published": "2026-07-26T14:27:33Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "China is facing a birthrate crisis. Will Xi Jinping start growing baby soldiers in factories?",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/07/26/opinion/chinas-birthrate-crisis-might-make-the-country-more-violent/",
+        "published": "2026-07-26T16:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The phone in your hand, the car on your driveway, and the AI that answered your last question all run on chips from one island, and if that island ever goes offline, the recovery will be measured in years, not weeks.",
         "source": "Space Daily",
@@ -90,13 +97,6 @@
         "url": "https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war",
         "published": "2026-07-24T05:45:47Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "The Liberal Internationalist Delusion.",
-        "source": "Kiwipolitico.com",
-        "url": "https://www.kiwipolitico.com/2026/07/the-liberal-internationalist-delusion/",
-        "published": "2026-07-24T05:08:57Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
