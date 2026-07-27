@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-27T16:04:10.953Z",
+    "generated_at": "2026-07-27T17:56:48.208Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil tanker explodes after colliding with mine in Strait of Hormuz, Iranian media reports - as Trump pauses strikes to allow more time for 'diplomacy'",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16006247/Oil-tanker-explodes-Strait-Hormuz.html",
-        "published": "2026-07-26T15:33:58Z",
+        "title": "After Trump calls off bombing, Iran signals it will halt strikes as long as US does",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/articles/iran-halt-attacks-long-us-144722524.html",
+        "published": "2026-07-26T17:53:33Z",
         "sentiment": "danger"
       },
       {
-        "title": "US pauses Iran bombing campaign after Omani-mediated talks, markets eye Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-pauses-iran-bombing-omani-talks/",
-        "published": "2026-07-26T15:14:05Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikes",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/iran-says-halt-attacks-if-us-maintains-pause-6279116",
-        "published": "2026-07-26T15:08:22Z",
+        "title": "Iran halts strikes as Trump gives space to talks",
+        "source": "The Punch",
+        "url": "https://punchng.com/iran-halts-strikes-as-trump-gives-space-to-talks/",
+        "published": "2026-07-26T17:52:30Z",
         "sentiment": "danger"
       },
       {
-        "title": "U.S. forgoes strikes on Iran, but conflict escalates in the Red Sea",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/us-forgoes-strikes-iran-conflict-escalates-red-sea-rcna589285",
-        "published": "2026-07-26T14:34:08Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "A deal is being negotiated that centers around having Iran run vessel transit through the Strait of Hormuz with fewer restrictions on ships",
+        "title": "Ukraine’s attack on an Iranian ship in the Caspian Sea could signal a new battlefront as U.S. seeks to form ‘a ring of economic and military pressure’",
         "source": "Fortune",
-        "url": "https://fortune.com/2026/07/26/us-iran-deal-talks-vessel-transit-strait-of-hormuz-restrictions-ships/",
-        "published": "2026-07-26T14:27:33Z",
+        "url": "https://fortune.com/2026/07/26/us-iran-war-ukraine-caspian-sea-houthis-red-sea-bab-el-mandeb-hormuz/",
+        "published": "2026-07-26T17:44:19Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The US Pause in Iran War Escalation Probably Won’t Last",
+        "source": "Mother Jones",
+        "url": "https://www.motherjones.com/politics/2026/07/the-us-pause-in-iran-war-escalation-probably-wont-last/",
+        "published": "2026-07-26T17:29:53Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran and Oman talks on Strait of Hormuz carry big stakes for oil markets and crypto",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-oman-strait-hormuz-talks-oil-markets/",
+        "published": "2026-07-26T16:42:19Z",
         "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "From the Indo-Pacific to the Gulf: The Quad’s New Strategic Mission",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/united-states/from-the-indo-pacific-to-the-gulf-the-quads-new-strategic-mission/",
+        "published": "2026-07-26T16:06:20Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China is facing a birthrate crisis. Will Xi Jinping start growing baby soldiers in factories?",
         "source": "New York Post",
@@ -90,13 +97,6 @@
         "url": "https://www.cnn.com/2026/07/24/asia/china-philippines-south-china-sea-scarborough-intl-hnk",
         "published": "2026-07-24T09:19:41Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war",
-        "published": "2026-07-24T05:45:47Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
