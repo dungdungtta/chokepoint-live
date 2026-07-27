@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-27T22:34:44.512Z",
+    "generated_at": "2026-07-27T23:47:10.585Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Tumbles as US and Iran Pause Military Strikes: Markets Wrap",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-tumbles-as-us-and-iran-pause-military-strikes-markets-wrap",
-        "published": "2026-07-26T22:34:16Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices fall as Middle East tensions ease, Brent slips below $100",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-prices-fall-as-middle-east-tensions-ease-brent-slips-below-100/",
-        "published": "2026-07-26T22:11:41Z",
+        "title": "Britain is facing a 'prolonged' period of weak growth and a surge in unemployment, bleak new report reveals",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16006737/Britain-facing-prolonged-period-weak-growth-surge-unemployment-bleak-new-report-reveals.html",
+        "published": "2026-07-26T23:40:07Z",
         "sentiment": "watch"
       },
       {
-        "title": "Russia conducts new strikes on Ukrainian ports and shipping – MOD",
-        "source": "RT",
-        "url": "https://www.rt.com/russia/643499-ukraine-ports-shipping-strikes/",
-        "published": "2026-07-26T21:17:41Z",
+        "title": "Oil prices ease after US and Iran pause their attacks",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/oil-prices-ease-after-us-iran-pause-attacks-135106927",
+        "published": "2026-07-26T23:40:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran must never have a nuclear weapon",
-        "source": "Wnd.com",
-        "url": "https://www.wnd.com/2026/07/iran-must-never-have-nuclear-weapon/",
-        "published": "2026-07-26T21:05:45Z",
+        "title": "Oil prices ease after US and Iran pause their attacks",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/oil-prices-ease-after-us-iran-pause-attacks-135106928",
+        "published": "2026-07-26T23:37:56Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "NDLEA intercepts UK-bound cocaine, arrests Lagos businessman",
+        "source": "The Punch",
+        "url": "https://punchng.com/ndlea-intercepts-uk-bound-cocaine-arrests-lagos-businessman/",
+        "published": "2026-07-26T23:22:20Z",
         "sentiment": "watch"
       },
       {
-        "title": "Thomas Barrack revives “Four Seas” project as alternative to Hormuz",
-        "source": "Blogspot.com",
-        "url": "https://i-epikaira.blogspot.com/2026/07/thomas-barrack-revives-four-seas.html",
-        "published": "2026-07-26T21:01:00Z",
+        "title": "Dangote blames importers for petrol sales policy reversal",
+        "source": "The Punch",
+        "url": "https://punchng.com/dangote-blames-importers-for-petrol-sales-policy-reversal/",
+        "published": "2026-07-26T23:22:20Z",
         "sentiment": "watch"
       }
     ],
