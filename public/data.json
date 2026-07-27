@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-27T19:46:31.891Z",
+    "generated_at": "2026-07-27T21:18:31.062Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "Russia conducts new strikes on Ukrainian ports and shipping – MOD",
+        "source": "RT",
+        "url": "https://www.rt.com/russia/643499-ukraine-ports-shipping-strikes/",
+        "published": "2026-07-26T21:17:41Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran must never have a nuclear weapon",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/07/iran-must-never-have-nuclear-weapon/",
+        "published": "2026-07-26T21:05:45Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Thomas Barrack revives “Four Seas” project as alternative to Hormuz",
+        "source": "Blogspot.com",
+        "url": "https://i-epikaira.blogspot.com/2026/07/thomas-barrack-revives-four-seas.html",
+        "published": "2026-07-26T21:01:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Putin warns hostile acts against Russian ships will be treated as piracy",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/putin-warns-hostile-acts-against-russian-ships-will-be-treated-as-piracy/",
+        "published": "2026-07-26T20:11:40Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
         "source": "Freerepublic.com",
         "url": "https://freerepublic.com/focus/f-chat/4389446/posts",
         "published": "2026-07-26T19:02:29Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Tanker hits mine in the Strait of Hormuz as Iran intercepts six vessels (per IRGC)",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4389442/posts",
-        "published": "2026-07-26T18:28:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Russia crude prices swing wildly amid Iran war",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/russia-crude-prices-swing-wildly-amid-iran-war-discounts-turned-into-premiums-before-easing-only-to-tighten-again-as-hostilities-reignited/articleshow/132646520.cms",
-        "published": "2026-07-26T18:24:30Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo",
-        "published": "2026-07-26T18:04:53Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "After Trump calls off bombing, Iran signals it will halt strikes as long as US does",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/articles/iran-halt-attacks-long-us-144722524.html",
-        "published": "2026-07-26T17:53:33Z",
         "sentiment": "danger"
       }
     ],
