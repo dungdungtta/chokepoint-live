@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-27T10:56:37.233Z",
+    "generated_at": "2026-07-27T13:42:40.398Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
-        "published": "2026-07-26T10:14:39Z",
+        "title": "Iran Says It Has Halted Attacks On Washington's Allies, As US Pauses Bombardment",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/iran-halts-retaliatory-attacks-us-allies-middle-east/33813331.html",
+        "published": "2026-07-26T12:29:33Z",
         "sentiment": "danger"
       },
       {
-        "title": "Unidentified object collides with oil tanker in Red Sea, vessel safe",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/unidentified-object-collides-with-oil-tanker-in-red-sea-vessel-safe/",
-        "published": "2026-07-26T09:45:43Z",
-        "sentiment": "watch"
+        "title": "Strait of Hormuz Crisis Deepens as Oil Tops $100 a Barrel and Trump Warns Iran Over Tanker Attacks",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/strait-hormuz-tensions-tanker-attacks-1872945",
+        "published": "2026-07-26T12:05:49Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Qatar urges adherence to MOU amid US-Iran tensions in Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/qatar-urges-adherence-to-mou-amid-us-iran-tensions-in-strait-of-hormuz/",
-        "published": "2026-07-26T09:30:13Z",
-        "sentiment": "watch"
+        "title": "Iran Claims Progress Made In Talks With Oman On Strait Of Hormuz",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260726-rferl03.htm",
+        "published": "2026-07-26T12:00:00Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "The great gas race: Who is holding the keys to Europe’s energy future?",
-        "source": "RT",
-        "url": "https://www.rt.com/africa/643336-europe-needs-african-gas/",
-        "published": "2026-07-26T09:03:13Z",
-        "sentiment": "watch"
+        "title": "Iran Says It Has Halted Attacks On Washington's Allies, As US Pauses Bombardment",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260726-rferl02.htm",
+        "published": "2026-07-26T12:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "From the strait of Hormuz to the North Sea, a global maritime war rages around us – and more than the price of oil is at stake | Simon Tisdall",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/09d64ea1aa104491",
+        "published": "2026-07-26T11:41:48Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "The phone in your hand, the car on your driveway, and the AI that answered your last question all run on chips from one island, and if that island ever goes offline, the recovery will be measured in years, not weeks.",
+        "source": "Space Daily",
+        "url": "https://spacedaily.com/k-the-phone-in-your-hand-the-car-on-your-driveway-and-the-ai-that-answered-your-last-question-all-run-on-chips-from-one-island-and-if-that-island-ever-goes-offline-the-recovery-will-be-measured-in-y/",
+        "published": "2026-07-26T13:00:35Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan Requests Compensation for Endless F-16 Fighter Jets Delays",
         "source": "Globalresearch.ca",
@@ -83,13 +97,6 @@
         "url": "https://www.kiwipolitico.com/2026/07/the-liberal-internationalist-delusion/",
         "published": "2026-07-24T05:08:57Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "US is ready to help end the 'senseless war' in Ukraine but no quick deal ahead, Rubio says",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-is-ready-to-help-end-the-senseless-war-in-ukraine-but-no-quick-deal-ahead-rubio-says/articleshow/132594732.cms",
-        "published": "2026-07-24T02:08:38Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
