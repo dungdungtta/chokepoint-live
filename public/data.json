@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T17:10:55.514Z",
+    "generated_at": "2026-07-28T18:48:54.292Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump says US will tap frozen Iranian funds to compensate shipping companies for Strait of Hormuz damages",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iranian-funds-shipping-compensation/",
-        "published": "2026-07-27T17:03:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Banana Boat Sport Ultra SPF 50 Sunscreen Spray 2-Pack for $14 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Banana-Boat-Sport-Ultra-SPF-50-Sunscreen-Spray-2-Pack-for-14-free-shipping-w-Prime/21934529.html",
-        "published": "2026-07-27T16:57:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran-Oman Talks Focused on Restarting Hormuz Shipping Traffic",
+        "title": "Trump says there’s a ‘good chance’ of an Iran deal amid pause",
         "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/iran-oman-talks-focused-on-restarting-hormuz-shipping-traffic",
-        "published": "2026-07-27T16:50:45Z",
+        "url": "https://financialpost.com/news/trump-good-chance-iran-deal",
+        "published": "2026-07-27T18:41:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "2012 Harley-Davidson Ultra Classic Electra Glide at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/2012-harley-davidson-electra-glide-4/",
+        "published": "2026-07-27T18:05:19Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran rejects Oman’s Strait of Hormuz proposal, deepening shipping crisis",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-rejects-strait-hormuz-proposal-shipping-crisis/",
+        "published": "2026-07-27T17:55:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran rejects proposal to keep Strait of Hormuz open during Oman talks",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-rejects-proposal-to-keep-strait-of-hormuz-open-during-oman-talks/",
+        "published": "2026-07-27T17:53:12Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Nikkei Rebounds as Middle East Tensions Ease",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/150120.php",
-        "published": "2026-07-27T16:35:07Z",
-        "sentiment": "watch"
+        "title": "Trump Pauses Strikes on Iran to Give Talks Another Chance",
+        "source": "Military.com",
+        "url": "https://military.com/trump-pauses-strikes-on-iran-to-give-talks-another-chance",
+        "published": "2026-07-27T17:47:41Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Strait of Malacca: The Indo-Pacific’s Most Critical Chokepoint?",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/07/the-strait-of-malacca-the-indo-pacifics-most-critical-chokepoint/",
+        "published": "2026-07-27T17:27:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Beijing Just Aimed at Taiwan Semiconductor Manufacturing Company (NYSE:TSM). Here’s Why the Bull Case Still Wins",
         "source": "Yahoo Entertainment",
@@ -83,16 +97,16 @@
         "url": "https://www.dailymail.com/news/article-16007473/Fears-Iran-Ukraine-wars-merge-one-conflict-Kyiv-strikes-Caspian-Sea-weapons-ship-heading-Russia-Islamic-Republic-threatens-revenge.html",
         "published": "2026-07-27T12:20:19Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Stocks rise globally on hopes of peace talks with Iran—but the Fed may deliver a shock on Wednesday",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/27/stocks-rise-globally-on-hopes-of-peace-talks-with-iranbut-the-fed-may-deliver-a-shock-on-wednesday/",
-        "published": "2026-07-27T09:52:35Z",
-        "sentiment": "neutral"
       }
     ],
     "malacca": [
+      {
+        "title": "The Strait of Malacca: The Indo-Pacific’s Most Critical Chokepoint?",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/07/the-strait-of-malacca-the-indo-pacifics-most-critical-chokepoint/",
+        "published": "2026-07-27T17:27:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "AI-Powered Vessel Traffic Management Advances Maritime Safety, Port Efficiency and Collision Risk Prediction",
         "source": "GlobeNewswire",
@@ -120,13 +134,6 @@
         "url": "http://wwd.com/sourcing-journal/logistics/iran-strait-of-hormuz-un-imo-attacks-hit-tankers-malacca-indonesia-singapore-1239056685/",
         "published": "2026-07-07T18:12:07Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Growing trust: Indonesia, Singapore ties reach new high",
-        "source": "Antaranews.com",
-        "url": "https://en.antaranews.com/news/421825/growing-trust-indonesia-singapore-ties-reach-new-high",
-        "published": "2026-07-07T17:06:13Z",
-        "sentiment": "watch"
       }
     ]
   },
