@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T22:43:47.132Z",
+    "generated_at": "2026-07-28T23:44:48.557Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Diplomatic hopes on US-Iran talks push oil below $90",
+        "source": "The Punch",
+        "url": "https://punchng.com/diplomatic-hopes-on-us-iran-talks-push-oil-below-90/",
+        "published": "2026-07-27T23:35:06Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "FG raises the alarm over Red Sea oil supply disruption",
+        "source": "The Punch",
+        "url": "https://punchng.com/fg-raises-the-alarm-over-red-sea-oil-supply-disruption/",
+        "published": "2026-07-27T23:22:25Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump’s Leaked Oval Office Rant Reveals Frustration Over Unending Iran Conflict",
         "source": "Shtfplan.com",
         "url": "https://www.shtfplan.com/headline-news/trumps-leaked-oval-office-rant-reveals-frustration-over-unending-iran-conflict",
@@ -46,20 +60,6 @@
         "url": "https://www.bostonglobe.com/2026/07/27/business/talking-points-uber-rivals-try-cut-microsoft-ai-security-tool-unveiled-china-chipmakers-shares-rise-first-day/",
         "published": "2026-07-27T22:25:36Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Oil Extends Decline as Trump Says in Talks With Iran to End War",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-extends-decline-as-trump-says-in-talks-with-iran-to-end-war",
-        "published": "2026-07-27T22:23:28Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump says 'good chance' of progress in talks with Iran as both sides hold fire for third day",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/trump-talks-iran-both-sides-hold-fire-third-day-7115065-Jul2026/",
-        "published": "2026-07-27T22:00:56Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
