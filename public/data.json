@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T06:10:11.409Z",
+    "generated_at": "2026-07-28T09:06:50.541Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump’s Leaked Oval Office Rant Reveals Frustration Over Unending Iran Conflict",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-27-trump-leaked-rant-reveals-frustration-iran-conflict.html",
-        "published": "2026-07-27T06:00:00Z",
+        "title": "Americans Rethink Grocery Shopping Habits as Food Prices See Their Biggest Jump in Fifty Years Nationwide",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/rising-grocery-prices-changing-american-shopping-habits-1873017",
+        "published": "2026-07-27T09:04:42Z",
         "sentiment": "watch"
       },
       {
-        "title": "Gold and Silver Prices Plunge as Middle East Conflict Drives Oil Toward $100",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-27-gold-silver-prices-plunge-oil-price-spikes.html",
-        "published": "2026-07-27T06:00:00Z",
+        "title": "Wall St futures rise as US, Iran pause hostilities",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-us-085939852.html",
+        "published": "2026-07-27T08:59:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Prices Drop After U.S., Iran Pause Fighting Over Weekend",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/oil-prices-after-us-iran-pause-attacks_n_6a671affe4b00feba8461a69",
+        "published": "2026-07-27T08:55:53Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil prices dip as US-Iran pause fuels fresh Hormuz hopes",
+        "source": "The Punch",
+        "url": "https://punchng.com/oil-prices-dip-as-us-iran-pause-fuels-fresh-hormuz-hopes/",
+        "published": "2026-07-27T08:53:20Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Gold Climbs Toward $4,100 as US-Iran Pause Eases Inflation Fears, Pulls Metal From 9-Month Low This Week",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/gold-prices-rebound-us-iran-tensions-ease-1873011",
+        "published": "2026-07-27T08:31:12Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "The Global War for Routes and Resources: Why the American Empire is Losing",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-27-the-global-war-for-routes-and-resources.html",
-        "published": "2026-07-27T06:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Can the U.S. and Iran take the off-ramp?",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/07/27/g-s1-135611/can-the-u-s-and-iran-take-the-off-ramp",
-        "published": "2026-07-27T05:57:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "3.4-Ounce Johnson's Baby Lotion w/ Coconut Oil, Aloe Vera & Vitamin B5 $1.39 w/ S&S + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19812198-3-4-ounce-johnson-s-baby-lotion-w-coconut-oil-aloe-vera-vitamin-b5-1-39-w-s-s-free-shipping-w-prime-or-on-35",
-        "published": "2026-07-27T05:54:56Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Rule Japanica: America and Japan are building the alliance China fears",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/opinion/rule-japanica-america-japan-building-alliance-china-fears",
+        "published": "2026-07-27T09:00:42Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Abe’s Final Victory: Japan’s Defense Revolution and the End of Postwar Pacifism",
         "source": "Hoover.org",
@@ -89,13 +96,6 @@
         "source": "Space Daily",
         "url": "https://spacedaily.com/k-the-phone-in-your-hand-the-car-on-your-driveway-and-the-ai-that-answered-your-last-question-all-run-on-chips-from-one-island-and-if-that-island-ever-goes-offline-the-recovery-will-be-measured-in-y/",
         "published": "2026-07-26T13:00:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan Requests Compensation for Endless F-16 Fighter Jets Delays",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/taiwan-requests-compensation-for-endless-f-16-fighter-jets-delays/5934414",
-        "published": "2026-07-24T13:00:14Z",
         "sentiment": "watch"
       }
     ],
