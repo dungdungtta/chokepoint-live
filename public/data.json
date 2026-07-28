@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T15:38:53.548Z",
+    "generated_at": "2026-07-28T17:10:55.514Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Why a new war in Yemen could be different for the Houthis",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/27/why-a-new-war-in-yemen-could-be-different-for-the-houthis",
-        "published": "2026-07-27T15:20:32Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Red Sea hostilities could disrupt global oil supply, maritime trade – FG",
-        "source": "The Punch",
-        "url": "https://punchng.com/red-sea-hostilities-could-disrupt-global-oil-supply-maritime-trade-fg/",
-        "published": "2026-07-27T15:06:11Z",
+        "title": "Trump says US will tap frozen Iranian funds to compensate shipping companies for Strait of Hormuz damages",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-iranian-funds-shipping-compensation/",
+        "published": "2026-07-27T17:03:47Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran Says It Still Controls Strait, Not Seeking Talks, After Trump Halts Bombing",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-bloggers/4389517/posts",
-        "published": "2026-07-27T14:51:27Z",
+        "title": "Banana Boat Sport Ultra SPF 50 Sunscreen Spray 2-Pack for $14 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Banana-Boat-Sport-Ultra-SPF-50-Sunscreen-Spray-2-Pack-for-14-free-shipping-w-Prime/21934529.html",
+        "published": "2026-07-27T16:57:35Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran-Oman Talks Focused on Restarting Hormuz Shipping Traffic",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/iran-oman-talks-focused-on-restarting-hormuz-shipping-traffic",
+        "published": "2026-07-27T16:50:45Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Europe facing imminent energy crisis with gas stocks at historical lows as a result of Iran war",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16008263/Europe-facing-imminent-energy-crisis-gas-stocks-historical-lows-result-Iran-war.html",
-        "published": "2026-07-27T14:49:40Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S. and Iran edge toward talks as Hormuz shipping hits three-week low, regional officials say",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/27/u-s-and-iran-edge-toward-talks-as-hormuz-shipping-hits-three-week-low-regional-officials-say/",
-        "published": "2026-07-27T14:39:59Z",
-        "sentiment": "danger"
+        "title": "Nikkei Rebounds as Middle East Tensions Ease",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150120.php",
+        "published": "2026-07-27T16:35:07Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
