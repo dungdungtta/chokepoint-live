@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T11:29:13.777Z",
+    "generated_at": "2026-07-28T13:14:53.012Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "STUCK",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/07/27/politics/trump-iran-war-strikes-strait-of-hormuz-analysis",
-        "published": "2026-07-27T11:00:15Z",
+        "title": "Houthi Attacks Disrupt Key Red Sea Shipping Route",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/99d02c7999076f32",
+        "published": "2026-07-27T13:08:23Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Exclusive: Poll Shows Majority Believe U.S. Must Finish the Job in Iran",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/07/27/exclusive-poll-shows-majority-believe-u-s-must-finish-job-iran/",
+        "published": "2026-07-27T13:00:38Z",
         "sentiment": "watch"
       },
       {
-        "title": "Russia’s largest Black Sea oil port resumes crude loadings after drone disruption, and crypto markets should care",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/russian-oil-port-resumes-crude-loadings/",
-        "published": "2026-07-27T10:55:56Z",
-        "sentiment": "neutral"
+        "title": "Trump's Iran war thrown into chaos over fears Putin and Xi are plotting chilling next move",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16007963/Trumps-Iran-war-thrown-chaos-fears-Putin-Xi-plotting-chilling-move.html",
+        "published": "2026-07-27T12:52:55Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Why has the US halted its bombing of Iran?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/27/why-has-the-us-halted-its-bombing-of-iran",
-        "published": "2026-07-27T10:55:52Z",
+        "title": "Bird droppings were a foundation of modern agriculture and American empire",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/bird-droppings-were-a-foundation-of-modern-agriculture-and-american-empire-287441",
+        "published": "2026-07-27T12:39:35Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil price dives as US and Iran pause attacks",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo",
-        "published": "2026-07-27T10:43:02Z",
+        "title": "Houthi Threats Force Saudi Crude Tanker Onto Suez Route To Asia",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthi-Threats-Force-Saudi-Crude-Tanker-Onto-Suez-Route-To-Asia.html",
+        "published": "2026-07-27T12:30:00Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Fears Iran and Ukraine wars could merge into one conflict as Kyiv strikes Caspian Sea weapons ship heading for Russia and the Islamic Republic threatens revenge",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16007473/Fears-Iran-Ukraine-wars-merge-one-conflict-Kyiv-strikes-Caspian-Sea-weapons-ship-heading-Russia-Islamic-Republic-threatens-revenge.html",
+        "published": "2026-07-27T12:20:19Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Stocks rise globally on hopes of peace talks with Iran—but the Fed may deliver a shock on Wednesday",
         "source": "Fortune",
@@ -82,13 +96,6 @@
         "source": "Fair Observer",
         "url": "https://www.fairobserver.com/united-states/from-the-indo-pacific-to-the-gulf-the-quads-new-strategic-mission/",
         "published": "2026-07-26T16:06:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China is facing a birthrate crisis. Will Xi Jinping start growing baby soldiers in factories?",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/07/26/opinion/chinas-birthrate-crisis-might-make-the-country-more-violent/",
-        "published": "2026-07-26T16:00:00Z",
         "sentiment": "watch"
       }
     ],
