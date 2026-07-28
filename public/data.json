@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T18:48:54.292Z",
+    "generated_at": "2026-07-28T20:20:46.119Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump says there’s a ‘good chance’ of an Iran deal amid pause",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/news/trump-good-chance-iran-deal",
-        "published": "2026-07-27T18:41:38Z",
+        "title": "Brent Tumbles Nearly 9% on Diplomacy",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/brent_tumbles_nearly_9_on_diplomacy-27-jul-2026-184226-article/",
+        "published": "2026-07-27T20:20:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "2012 Harley-Davidson Ultra Classic Electra Glide at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2012-harley-davidson-electra-glide-4/",
-        "published": "2026-07-27T18:05:19Z",
+        "title": "NOBLE CORPORATION PLC ANNOUNCES SECOND QUARTER 2026 RESULTS",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/noble-corporation-plc-announces-second-quarter-2026-results-302835622.html",
+        "published": "2026-07-27T20:05:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran rejects Oman’s Strait of Hormuz proposal, deepening shipping crisis",
+        "title": "US stocks: US market ends mixed as investors focus on Big Tech earnings",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-mixed-as-investors-focus-on-tech-earnings/articleshow/132670435.cms",
+        "published": "2026-07-27T20:01:59Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Can Japan Break Free From Middle East Oil",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150136.php",
+        "published": "2026-07-27T20:00:41Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran and Oman negotiate to restart shipping through the Strait of Hormuz, easing pressure on Bitcoin and risk assets",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-rejects-strait-hormuz-proposal-shipping-crisis/",
-        "published": "2026-07-27T17:55:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran rejects proposal to keep Strait of Hormuz open during Oman talks",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-rejects-proposal-to-keep-strait-of-hormuz-open-during-oman-talks/",
-        "published": "2026-07-27T17:53:12Z",
+        "url": "https://cryptobriefing.com/iran-oman-hormuz-shipping-bitcoin-impact/",
+        "published": "2026-07-27T20:00:17Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Trump Pauses Strikes on Iran to Give Talks Another Chance",
-        "source": "Military.com",
-        "url": "https://military.com/trump-pauses-strikes-on-iran-to-give-talks-another-chance",
-        "published": "2026-07-27T17:47:41Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
