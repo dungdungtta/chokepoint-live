@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T21:41:57.033Z",
+    "generated_at": "2026-07-28T22:43:47.132Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump says Iran war talks taking place during lull in strikes",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo",
-        "published": "2026-07-27T21:10:56Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Hopes of return to diplomacy as US-Iran hold fire for third day",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day",
-        "published": "2026-07-27T21:04:09Z",
+        "title": "Trump’s Leaked Oval Office Rant Reveals Frustration Over Unending Iran Conflict",
+        "source": "Shtfplan.com",
+        "url": "https://www.shtfplan.com/headline-news/trumps-leaked-oval-office-rant-reveals-frustration-over-unending-iran-conflict",
+        "published": "2026-07-27T22:30:07Z",
         "sentiment": "watch"
       },
       {
-        "title": "The U.S. Is Walking Into Iran’s Escalation Trap",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Geopolitics/Middle-East/The-US-Is-Walking-Into-Irans-Escalation-Trap.html",
-        "published": "2026-07-27T21:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Ukraine strikes Russian-Iranian supply lines in Caspian Sea, raising fresh questions about crypto’s role in sanctions evasion",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/ukraine-russia-iran-supply-lines-crypto-sanctions/",
-        "published": "2026-07-27T20:55:39Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "It Is Going To Be A Very Difficult Winter If The Global Energy Crisis Is Not Resolved Soon",
-        "source": "Theeconomiccollapseblog.com",
-        "url": "http://theeconomiccollapseblog.com/it-is-going-to-be-a-very-difficult-winter-if-the-global-energy-crisis-is-not-resolved-soon/",
-        "published": "2026-07-27T20:48:34Z",
+        "title": "Smokers hoarding as global luxury cigar market hit hard by Cuban crisis: ‘Very little inventory’",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/07/27/business/smokers-hoarding-cuban-cigars-very-little-inventory/",
+        "published": "2026-07-27T22:28:50Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Talking Points: Uber rivals try to cut in; Microsoft AI security tool unveiled; China chipmaker’s shares rise on first day",
+        "source": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/07/27/business/talking-points-uber-rivals-try-cut-microsoft-ai-security-tool-unveiled-china-chipmakers-shares-rise-first-day/",
+        "published": "2026-07-27T22:25:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Extends Decline as Trump Says in Talks With Iran to End War",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/oil-extends-decline-as-trump-says-in-talks-with-iran-to-end-war",
+        "published": "2026-07-27T22:23:28Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump says 'good chance' of progress in talks with Iran as both sides hold fire for third day",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/trump-talks-iran-both-sides-hold-fire-third-day-7115065-Jul2026/",
+        "published": "2026-07-27T22:00:56Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
