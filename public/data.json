@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T09:06:50.541Z",
+    "generated_at": "2026-07-28T11:29:13.777Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Americans Rethink Grocery Shopping Habits as Food Prices See Their Biggest Jump in Fifty Years Nationwide",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/rising-grocery-prices-changing-american-shopping-habits-1873017",
-        "published": "2026-07-27T09:04:42Z",
+        "title": "STUCK",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/07/27/politics/trump-iran-war-strikes-strait-of-hormuz-analysis",
+        "published": "2026-07-27T11:00:15Z",
         "sentiment": "watch"
       },
       {
-        "title": "Wall St futures rise as US, Iran pause hostilities",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-us-085939852.html",
-        "published": "2026-07-27T08:59:39Z",
+        "title": "Russia’s largest Black Sea oil port resumes crude loadings after drone disruption, and crypto markets should care",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/russian-oil-port-resumes-crude-loadings/",
+        "published": "2026-07-27T10:55:56Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Why has the US halted its bombing of Iran?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/27/why-has-the-us-halted-its-bombing-of-iran",
+        "published": "2026-07-27T10:55:52Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Prices Drop After U.S., Iran Pause Fighting Over Weekend",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/oil-prices-after-us-iran-pause-attacks_n_6a671affe4b00feba8461a69",
-        "published": "2026-07-27T08:55:53Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil prices dip as US-Iran pause fuels fresh Hormuz hopes",
-        "source": "The Punch",
-        "url": "https://punchng.com/oil-prices-dip-as-us-iran-pause-fuels-fresh-hormuz-hopes/",
-        "published": "2026-07-27T08:53:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Gold Climbs Toward $4,100 as US-Iran Pause Eases Inflation Fears, Pulls Metal From 9-Month Low This Week",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/gold-prices-rebound-us-iran-tensions-ease-1873011",
-        "published": "2026-07-27T08:31:12Z",
+        "title": "Oil price dives as US and Iran pause attacks",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo",
+        "published": "2026-07-27T10:43:02Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Stocks rise globally on hopes of peace talks with Iran—but the Fed may deliver a shock on Wednesday",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/27/stocks-rise-globally-on-hopes-of-peace-talks-with-iranbut-the-fed-may-deliver-a-shock-on-wednesday/",
+        "published": "2026-07-27T09:52:35Z",
+        "sentiment": "neutral"
+      },
       {
         "title": "Rule Japanica: America and Japan are building the alliance China fears",
         "source": "Fox News",
@@ -89,13 +89,6 @@
         "source": "New York Post",
         "url": "https://nypost.com/2026/07/26/opinion/chinas-birthrate-crisis-might-make-the-country-more-violent/",
         "published": "2026-07-26T16:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The phone in your hand, the car on your driveway, and the AI that answered your last question all run on chips from one island, and if that island ever goes offline, the recovery will be measured in years, not weeks.",
-        "source": "Space Daily",
-        "url": "https://spacedaily.com/k-the-phone-in-your-hand-the-car-on-your-driveway-and-the-ai-that-answered-your-last-question-all-run-on-chips-from-one-island-and-if-that-island-ever-goes-offline-the-recovery-will-be-measured-in-y/",
-        "published": "2026-07-26T13:00:35Z",
         "sentiment": "watch"
       }
     ],
