@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T13:14:53.012Z",
+    "generated_at": "2026-07-28T15:38:53.548Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,63 @@
   "news": {
     "hormuz": [
       {
-        "title": "Houthi Attacks Disrupt Key Red Sea Shipping Route",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/99d02c7999076f32",
-        "published": "2026-07-27T13:08:23Z",
+        "title": "Why a new war in Yemen could be different for the Houthis",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/27/why-a-new-war-in-yemen-could-be-different-for-the-houthis",
+        "published": "2026-07-27T15:20:32Z",
         "sentiment": "danger"
       },
       {
-        "title": "Exclusive: Poll Shows Majority Believe U.S. Must Finish the Job in Iran",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/07/27/exclusive-poll-shows-majority-believe-u-s-must-finish-job-iran/",
-        "published": "2026-07-27T13:00:38Z",
+        "title": "Red Sea hostilities could disrupt global oil supply, maritime trade – FG",
+        "source": "The Punch",
+        "url": "https://punchng.com/red-sea-hostilities-could-disrupt-global-oil-supply-maritime-trade-fg/",
+        "published": "2026-07-27T15:06:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump's Iran war thrown into chaos over fears Putin and Xi are plotting chilling next move",
+        "title": "Iran Says It Still Controls Strait, Not Seeking Talks, After Trump Halts Bombing",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-bloggers/4389517/posts",
+        "published": "2026-07-27T14:51:27Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Europe facing imminent energy crisis with gas stocks at historical lows as a result of Iran war",
         "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16007963/Trumps-Iran-war-thrown-chaos-fears-Putin-Xi-plotting-chilling-move.html",
-        "published": "2026-07-27T12:52:55Z",
+        "url": "https://www.dailymail.com/news/article-16008263/Europe-facing-imminent-energy-crisis-gas-stocks-historical-lows-result-Iran-war.html",
+        "published": "2026-07-27T14:49:40Z",
         "sentiment": "danger"
       },
       {
-        "title": "Bird droppings were a foundation of modern agriculture and American empire",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/bird-droppings-were-a-foundation-of-modern-agriculture-and-american-empire-287441",
-        "published": "2026-07-27T12:39:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Houthi Threats Force Saudi Crude Tanker Onto Suez Route To Asia",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthi-Threats-Force-Saudi-Crude-Tanker-Onto-Suez-Route-To-Asia.html",
-        "published": "2026-07-27T12:30:00Z",
+        "title": "U.S. and Iran edge toward talks as Hormuz shipping hits three-week low, regional officials say",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/27/u-s-and-iran-edge-toward-talks-as-hormuz-shipping-hits-three-week-low-regional-officials-say/",
+        "published": "2026-07-27T14:39:59Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Beijing Just Aimed at Taiwan Semiconductor Manufacturing Company (NYSE:TSM). Here’s Why the Bull Case Still Wins",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/beijing-just-aimed-taiwan-semiconductor-140827384.html",
+        "published": "2026-07-27T14:08:27Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China, Japan, and the Memory Security Dilemma",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/07/china-japan-and-the-memory-security-dilemma/",
+        "published": "2026-07-27T14:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Tariffs didn’t bring manufacturing jobs back to the US",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada",
+        "published": "2026-07-27T13:56:02Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Fears Iran and Ukraine wars could merge into one conflict as Kyiv strikes Caspian Sea weapons ship heading for Russia and the Islamic Republic threatens revenge",
         "source": "Dailymail.com",
@@ -76,27 +97,6 @@
         "url": "https://fortune.com/2026/07/27/stocks-rise-globally-on-hopes-of-peace-talks-with-iranbut-the-fed-may-deliver-a-shock-on-wednesday/",
         "published": "2026-07-27T09:52:35Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Rule Japanica: America and Japan are building the alliance China fears",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/rule-japanica-america-japan-building-alliance-china-fears",
-        "published": "2026-07-27T09:00:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Abe’s Final Victory: Japan’s Defense Revolution and the End of Postwar Pacifism",
-        "source": "Hoover.org",
-        "url": "https://www.hoover.org/research/abes-final-victory-japans-defense-revolution-and-end-postwar-pacifism",
-        "published": "2026-07-27T00:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "From the Indo-Pacific to the Gulf: The Quad’s New Strategic Mission",
-        "source": "Fair Observer",
-        "url": "https://www.fairobserver.com/united-states/from-the-indo-pacific-to-the-gulf-the-quads-new-strategic-mission/",
-        "published": "2026-07-26T16:06:20Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
