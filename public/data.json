@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-29T19:37:17.277Z",
+    "generated_at": "2026-07-29T20:37:59.705Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Saudi Arabia adopts costly Mediterranean route to bypass Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/saudi-arabia-adopts-costly-mediterranean-route-to-bypass-strait-of-hormuz/",
+        "published": "2026-07-28T20:16:14Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran debates retaliation after Ukraine attacks merchant ship",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-debates-retaliation-after-ukraine-attacks-merchant-ship/",
+        "published": "2026-07-28T19:55:59Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Erdogan says Turkey could get 1M barrels of oil a day from energy deal with Iraq",
         "source": "Abcnews.com",
         "url": "https://abcnews.com/Business/wireStory/erdogan-turkey-1m-barrels-oil-day-energy-deal-135165822",
@@ -46,20 +60,6 @@
         "url": "https://legalinsurrection.com/2026/07/houthis-escalate-attacks-on-saudi-arabia-reportedly-fire-ballistic-missiles-at-oil-tanker/",
         "published": "2026-07-28T18:30:57Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "50-Piece Football Party Food Tray Kit for $8 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/products/50-Piece-Football-Party-Food-Tray-Kit/512283.html",
-        "published": "2026-07-28T18:26:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China secures oil tanker safe passage through Houthi-controlled waters as crude tops $100",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/china-houthis-oil-tanker-safe-passage/",
-        "published": "2026-07-28T18:11:52Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
