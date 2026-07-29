@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-29T12:31:32.656Z",
+    "generated_at": "2026-07-29T14:59:01.919Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Grocery & Personal Care Cleanout Sale at Woot: Up to 86% off + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Grocery-Personal-Care-Cleanout-Sale-at-Woot-Up-to-86-off-free-shipping-w-Prime/21938490.html",
-        "published": "2026-07-28T12:29:09Z",
+        "title": "America Exports Its Monetary Soul",
+        "source": "Dailyreckoning.com",
+        "url": "https://dailyreckoning.com/america-exports-its-monetary-soul/",
+        "published": "2026-07-28T14:55:13Z",
         "sentiment": "watch"
       },
       {
-        "title": "Sunpow 8x18-Foot Garage Containment Mat for $55 w/ Prime + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Sunpow-8-x18-Foot-Garage-Containment-Mat-for-55-w-Prime-free-shipping/21938488.html",
-        "published": "2026-07-28T12:25:03Z",
-        "sentiment": "watch"
+        "title": "Ukraine turns key Crimean waterway into Russia's own Strait of Hormuz after relentless strikes on shadow fleet - as 200th ship is hit in three weeks",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16010677/Ukraine-turns-key-Crimean-waterway-Russias-Strait-Hormuz-relentless-strikes-shadow-fleet-200th-ship-hit-three-weeks.html",
+        "published": "2026-07-28T14:50:22Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Sunpow 8-x18-Foot Garage Containment Mat for $55 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Sunpow-8-x18-Foot-Garage-Containment-Mat-for-55-free-shipping/21938488.html",
-        "published": "2026-07-28T12:25:03Z",
-        "sentiment": "watch"
+        "title": "Ukraine’s Zelensky arrives for Trump talks at White House",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/07/ukraines-zelensky-arrives-for-trump-talks-at-white-house/",
+        "published": "2026-07-28T14:46:18Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Gulf states back Iran’s plan to collect voluntary fees in the Strait of Hormuz, potentially reshaping global energy transit",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/gulf-states-iran-hormuz-voluntary-fees/",
-        "published": "2026-07-28T12:10:44Z",
-        "sentiment": "watch"
+        "title": "Market warning signals flare again as tech, inflation fears intensify...",
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/market-warning-signals-flare-again-132557000.html",
+        "published": "2026-07-28T14:31:38Z",
+        "sentiment": "danger"
       },
       {
-        "title": "PSX Falls Over 600 Points After Record-Breaking Rally",
-        "source": "Gtvnewshd.com",
-        "url": "https://gtvnewshd.com/business/2026/07/28/psx-falls-over-600-points-after-record-breaking-rally/",
-        "published": "2026-07-28T12:06:28Z",
+        "title": "Priority’s Apollo Flat Bar is a Sporty, Versatile Bike on Pavement and Beyond",
+        "source": "Bikerumor.com",
+        "url": "https://bikerumor.com/prioritys-apollo-flat-bar-is-a-sporty-versatile-bike-on-pavement-and-beyond/",
+        "published": "2026-07-28T14:30:00Z",
         "sentiment": "watch"
       }
     ],
