@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T23:44:48.557Z",
+    "generated_at": "2026-07-29T01:13:03.436Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Diplomatic hopes on US-Iran talks push oil below $90",
-        "source": "The Punch",
-        "url": "https://punchng.com/diplomatic-hopes-on-us-iran-talks-push-oil-below-90/",
-        "published": "2026-07-27T23:35:06Z",
+        "title": "Oil prices extend decline as US and Iran pause attacks",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-prices-extend-decline-us-and-iran-pause-attacks-6281941",
+        "published": "2026-07-28T01:08:36Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil prices fall 1% as investors weigh pause in US strikes on Iran",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-prices-fall-1-investors-weigh-pause-in-us-strikes-iran-6281941",
+        "published": "2026-07-28T01:08:36Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil prices fall 1% as investors weigh pause in US strikes on Iran",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-fall-1-as-investors-weigh-pause-in-us-strikes-on-iran/articleshow/132673143.cms",
+        "published": "2026-07-28T01:07:03Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Global Market Today: Asian stocks fall on AI jitters, oil extends drop",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-fall-on-ai-jitters-oil-extends-drop/articleshow/132673128.cms",
+        "published": "2026-07-28T01:02:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US Treasuries, equities rise as oil prices fall amid US-Iran ceasefire",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-treasuries-equities-rise-as-oil-prices-fall-amid-us-iran-ceasefire/",
+        "published": "2026-07-28T01:01:55Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "FG raises the alarm over Red Sea oil supply disruption",
-        "source": "The Punch",
-        "url": "https://punchng.com/fg-raises-the-alarm-over-red-sea-oil-supply-disruption/",
-        "published": "2026-07-27T23:22:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump’s Leaked Oval Office Rant Reveals Frustration Over Unending Iran Conflict",
-        "source": "Shtfplan.com",
-        "url": "https://www.shtfplan.com/headline-news/trumps-leaked-oval-office-rant-reveals-frustration-over-unending-iran-conflict",
-        "published": "2026-07-27T22:30:07Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Smokers hoarding as global luxury cigar market hit hard by Cuban crisis: ‘Very little inventory’",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/07/27/business/smokers-hoarding-cuban-cigars-very-little-inventory/",
-        "published": "2026-07-27T22:28:50Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Talking Points: Uber rivals try to cut in; Microsoft AI security tool unveiled; China chipmaker’s shares rise on first day",
-        "source": "The Boston Globe",
-        "url": "https://www.bostonglobe.com/2026/07/27/business/talking-points-uber-rivals-try-cut-microsoft-ai-security-tool-unveiled-china-chipmakers-shares-rise-first-day/",
-        "published": "2026-07-27T22:25:36Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
