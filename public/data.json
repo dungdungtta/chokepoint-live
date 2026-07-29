@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-29T17:57:41.641Z",
+    "generated_at": "2026-07-29T19:37:17.277Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz",
-        "source": "Yahoo Entertainment",
-        "url": "https://uk.news.yahoo.com/gulf-states-back-plan-let-104804717.html",
-        "published": "2026-07-28T17:57:12Z",
+        "title": "Erdogan says Turkey could get 1M barrels of oil a day from energy deal with Iraq",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/erdogan-turkey-1m-barrels-oil-day-energy-deal-135165822",
+        "published": "2026-07-28T19:05:59Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran rejects Oman’s 50-50 Strait of Hormuz deal, proposes it controls inbound shipping traffic",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-oman-strait-hormuz-shipping-talks/",
-        "published": "2026-07-28T17:38:12Z",
+        "title": "OPEC+ Prepares to Stop Raising Oil Output Targets",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Prepares-to-Stop-Raising-Oil-Output-Targets.html",
+        "published": "2026-07-28T19:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "China in touch with Yemen's Houthis to allow ships to sail through Red Sea, sources say",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/world/articles/china-touch-yemens-houthis-allow-172748379.html",
-        "published": "2026-07-28T17:27:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran threatens to block Hormuz route if Oman rejects terms",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-threatens-to-block-hormuz-route-if-oman-rejects-terms/",
-        "published": "2026-07-28T17:19:15Z",
+        "title": "Houthis Escalate Attacks on Saudi Arabia, Reportedly Fire Ballistic Missiles at Oil Tanker",
+        "source": "Legalinsurrection.com",
+        "url": "https://legalinsurrection.com/2026/07/houthis-escalate-attacks-on-saudi-arabia-reportedly-fire-ballistic-missiles-at-oil-tanker/",
+        "published": "2026-07-28T18:30:57Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran defies US naval blockade, refuses to negotiate",
+        "title": "50-Piece Football Party Food Tray Kit for $8 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/products/50-Piece-Football-Party-Food-Tray-Kit/512283.html",
+        "published": "2026-07-28T18:26:30Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China secures oil tanker safe passage through Houthi-controlled waters as crude tops $100",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-defies-us-naval-blockade-refuses-to-negotiate/",
-        "published": "2026-07-28T17:08:16Z",
-        "sentiment": "danger"
+        "url": "https://cryptobriefing.com/china-houthis-oil-tanker-safe-passage/",
+        "published": "2026-07-28T18:11:52Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
