@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-29T20:37:59.705Z",
+    "generated_at": "2026-07-29T21:40:08.261Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Saudi Arabia adopts costly Mediterranean route to bypass Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/saudi-arabia-adopts-costly-mediterranean-route-to-bypass-strait-of-hormuz/",
-        "published": "2026-07-28T20:16:14Z",
+        "title": "Hormuz Is Becoming A Fee-And-Permission Regime",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/guneyyildiz/2026/07/28/hormuz-is-becoming-a-fee-and-permission-regime/",
+        "published": "2026-07-28T21:28:06Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran debates retaliation after Ukraine attacks merchant ship",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-debates-retaliation-after-ukraine-attacks-merchant-ship/",
-        "published": "2026-07-28T19:55:59Z",
+        "title": "Houthis Claim Fourth Attack on Saudi Tanker as Red Sea Blockade Intensifies",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/houthis-claim-fourth-attack-on-saudi-tanker-as-red-sea-blockade-intensifies/",
+        "published": "2026-07-28T21:10:08Z",
         "sentiment": "danger"
       },
       {
-        "title": "Erdogan says Turkey could get 1M barrels of oil a day from energy deal with Iraq",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/erdogan-turkey-1m-barrels-oil-day-energy-deal-135165822",
-        "published": "2026-07-28T19:05:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "OPEC+ Prepares to Stop Raising Oil Output Targets",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Prepares-to-Stop-Raising-Oil-Output-Targets.html",
-        "published": "2026-07-28T19:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Houthis Escalate Attacks on Saudi Arabia, Reportedly Fire Ballistic Missiles at Oil Tanker",
-        "source": "Legalinsurrection.com",
-        "url": "https://legalinsurrection.com/2026/07/houthis-escalate-attacks-on-saudi-arabia-reportedly-fire-ballistic-missiles-at-oil-tanker/",
-        "published": "2026-07-28T18:30:57Z",
+        "title": "Netanyahu meets Trump in US with president seeking to avoid renewed attacks on Iran",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/us/2026/07/28/netanyahu-meets-trump-in-us-with-president-seeking-to-avoid-renewed-attacks-on-iran/",
+        "published": "2026-07-28T20:59:44Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Vortex Razor HD 20-60x85 Angled Spotting Scope for $750 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Vortex-Razor-HD-20-60-x85-Angled-Spotting-Scope-for-750-free-shipping/21938676.html",
+        "published": "2026-07-28T20:43:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Why The US And Iran Are Far From A Deal",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/michaelpdempsey/2026/07/28/why-the-us-and-iran-are-far-from-a-deal/",
+        "published": "2026-07-28T20:40:43Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
