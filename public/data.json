@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-29T01:13:03.436Z",
+    "generated_at": "2026-07-29T04:35:07.795Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil prices extend decline as US and Iran pause attacks",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-prices-extend-decline-us-and-iran-pause-attacks-6281941",
-        "published": "2026-07-28T01:08:36Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices fall 1% as investors weigh pause in US strikes on Iran",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-prices-fall-1-investors-weigh-pause-in-us-strikes-iran-6281941",
-        "published": "2026-07-28T01:08:36Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices fall 1% as investors weigh pause in US strikes on Iran",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-fall-1-as-investors-weigh-pause-in-us-strikes-on-iran/articleshow/132673143.cms",
-        "published": "2026-07-28T01:07:03Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Global Market Today: Asian stocks fall on AI jitters, oil extends drop",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-fall-on-ai-jitters-oil-extends-drop/articleshow/132673128.cms",
-        "published": "2026-07-28T01:02:37Z",
+        "title": "American and Iranian forces are enforcing rival maritime orders in the Strait of Hormuz",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/07/american-enforcing-maritime.html",
+        "published": "2026-07-28T04:06:47Z",
         "sentiment": "watch"
       },
       {
-        "title": "US Treasuries, equities rise as oil prices fall amid US-Iran ceasefire",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-treasuries-equities-rise-as-oil-prices-fall-amid-us-iran-ceasefire/",
-        "published": "2026-07-28T01:01:55Z",
-        "sentiment": "neutral"
+        "title": "Cotton on Iran Strike Pause: 'Better to Finish the Military Operational Plan'",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/clips/2026/07/27/otton-on-iran-strike-pause-better-to-finish-the-military-operational-plan/",
+        "published": "2026-07-28T04:00:51Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Gold, silver prices today, 28 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-28-july-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11784869512383.html",
+        "published": "2026-07-28T03:59:08Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Seoul, Tokyo lead Asian plunge as tech stocks suffer fresh rout",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/asia/asia-markets-kospi-nikkei-tech-stocks-6282211",
+        "published": "2026-07-28T03:51:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Shipping Traffic in Bab al-Mandab Strait Down 56% After Houthi Embargo - Reports",
+        "source": "Sputnikglobe.com",
+        "url": "https://sputnikglobe.com/20260728/shipping-traffic-in-bab-al-mandab-strait-down-56-after-houthi-embargo---reports-1124507306.html",
+        "published": "2026-07-28T03:41:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
