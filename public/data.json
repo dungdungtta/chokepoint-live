@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-29T10:19:38.134Z",
+    "generated_at": "2026-07-29T12:31:32.656Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil touches over one-week low after pause in attacks",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/0728/1585437-world-oil-prices/",
-        "published": "2026-07-28T09:56:41Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "‘The UAE has been a fantastic investor’: Jeff Zucker hails UAE partnership after Banijay merger",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/28/uae-fantastic-investor-jeff-zucker-hails-partnership-banijay-merger/",
-        "published": "2026-07-28T09:46:36Z",
+        "title": "Grocery & Personal Care Cleanout Sale at Woot: Up to 86% off + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Grocery-Personal-Care-Cleanout-Sale-at-Woot-Up-to-86-off-free-shipping-w-Prime/21938490.html",
+        "published": "2026-07-28T12:29:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "As US-Iran war rages, who's risking the Strait of Hormuz?",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/us-iran-war-strait-of-hormuz-shipping-vessels-satellite-images-takeaways-analysis/a-78130878",
-        "published": "2026-07-28T09:40:00Z",
-        "sentiment": "danger"
+        "title": "Sunpow 8x18-Foot Garage Containment Mat for $55 w/ Prime + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Sunpow-8-x18-Foot-Garage-Containment-Mat-for-55-w-Prime-free-shipping/21938488.html",
+        "published": "2026-07-28T12:25:03Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Oil prices fall on hope of US-Iran deal",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/oil-touches-over-one-week-low-as-pause-in-attacks-brings-hope-of-us-iran-deal",
-        "published": "2026-07-28T09:14:22Z",
+        "title": "Sunpow 8-x18-Foot Garage Containment Mat for $55 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Sunpow-8-x18-Foot-Garage-Containment-Mat-for-55-free-shipping/21938488.html",
+        "published": "2026-07-28T12:25:03Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Gulf states back Iran’s plan to collect voluntary fees in the Strait of Hormuz, potentially reshaping global energy transit",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/gulf-states-iran-hormuz-voluntary-fees/",
+        "published": "2026-07-28T12:10:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "PSX Falls Over 600 Points After Record-Breaking Rally",
+        "source": "Gtvnewshd.com",
+        "url": "https://gtvnewshd.com/business/2026/07/28/psx-falls-over-600-points-after-record-breaking-rally/",
+        "published": "2026-07-28T12:06:28Z",
         "sentiment": "watch"
       }
     ],
