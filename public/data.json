@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-29T22:42:04.102Z",
+    "generated_at": "2026-07-29T23:45:24.801Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "We’re running out of ways to get oil out of the Middle East",
-        "source": "Vox",
-        "url": "https://www.vox.com/politics/497014/houthis-saudi-iran-mandeb-hormuz-strait",
-        "published": "2026-07-28T22:41:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Arabia reports another drone attack as Houthis say they turned back tanker",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/iran-war-us-trump-saudi-houthis-iraq-8d2ae29300a8dc5495a4ce56c5312bf1",
-        "published": "2026-07-28T22:33:57Z",
+        "title": "Oil Jumps After Iran Attack, US Stock Futures Dip: Markets Wrap",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/oil-jumps-after-iran-attack-us-stock-futures-dip-markets-wrap",
+        "published": "2026-07-28T23:28:09Z",
         "sentiment": "danger"
       },
       {
-        "title": "The US military says it's thwarted an Iranian missile attack on American troops",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/world/articles/saudi-arabia-says-shot-down-215248145.html",
-        "published": "2026-07-28T21:52:48Z",
+        "title": "After days of calm, U.S. says it intercepted Iranian missile attack on American troops",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/us-iran-attack-9.7288259",
+        "published": "2026-07-28T23:21:59Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran rejects Oman’s Strait of Hormuz shipping proposal, asserts control",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-rejects-omans-strait-of-hormuz-shipping-proposal-asserts-control/",
-        "published": "2026-07-28T21:49:20Z",
+        "title": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker",
+        "published": "2026-07-28T23:16:44Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US-Iran war: Nigeria tops Africa in petrol price surge",
+        "source": "The Punch",
+        "url": "https://punchng.com/us-iran-war-nigeria-tops-africa-in-petrol-price-surge/",
+        "published": "2026-07-28T23:10:19Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Saudi Arabia Says Iran Proxies in Iraq Are Launching Drones at Its Oil Facilities",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/07/28/saudi-arabia-says-iran-proxies-in-iraq-are-launching-drones-at-its-oil-facilities/",
+        "published": "2026-07-28T22:46:12Z",
         "sentiment": "watch"
       }
     ],
