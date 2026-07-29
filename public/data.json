@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-29T04:35:07.795Z",
+    "generated_at": "2026-07-29T07:32:42.154Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "American and Iranian forces are enforcing rival maritime orders in the Strait of Hormuz",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/07/american-enforcing-maritime.html",
-        "published": "2026-07-28T04:06:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Cotton on Iran Strike Pause: 'Better to Finish the Military Operational Plan'",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/clips/2026/07/27/otton-on-iran-strike-pause-better-to-finish-the-military-operational-plan/",
-        "published": "2026-07-28T04:00:51Z",
+        "title": "Bab el-Mandeb shipping rises amid hopes of resolution in US-Iran war",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/articles/bab-el-mandeb-shipping-rises-073038000.html",
+        "published": "2026-07-28T07:30:38Z",
         "sentiment": "danger"
       },
       {
-        "title": "Gold, silver prices today, 28 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-        "source": "Livemint",
-        "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-28-july-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11784869512383.html",
-        "published": "2026-07-28T03:59:08Z",
+        "title": "Saudi Aramco considers new crude pricing for Asia as shipping costs rise",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/saudi-aramco-considers-new-crude-pricing-for-asia-as-shipping-costs-rise/article71275550.ece",
+        "published": "2026-07-28T07:09:42Z",
         "sentiment": "watch"
       },
       {
-        "title": "Seoul, Tokyo lead Asian plunge as tech stocks suffer fresh rout",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/asia/asia-markets-kospi-nikkei-tech-stocks-6282211",
-        "published": "2026-07-28T03:51:00Z",
+        "title": "Tankers Divert to Egypt as Houthi Threat Upends Red Sea Trade",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/tankers-divert-to-egypt-as-houthi-threat-upends-red-sea-trade",
+        "published": "2026-07-28T06:54:57Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Saudi Arabia Weighs Higher Asia Crude Prices as Red Sea Shipping Costs Rise",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Weighs-Higher-Asia-Crude-Prices-as-Red-Sea-Shipping-Costs-Rise.html",
+        "published": "2026-07-28T06:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Shipping Traffic in Bab al-Mandab Strait Down 56% After Houthi Embargo - Reports",
-        "source": "Sputnikglobe.com",
-        "url": "https://sputnikglobe.com/20260728/shipping-traffic-in-bab-al-mandab-strait-down-56-after-houthi-embargo---reports-1124507306.html",
-        "published": "2026-07-28T03:41:00Z",
-        "sentiment": "watch"
+        "title": "Trump says Iran talks underway, Tehran denies negotiations",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/trump-says-iran-talks-underway-tehran-denies-negotiations-224894",
+        "published": "2026-07-28T06:21:16Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "The First Waves of Amphibious Assault Will Be Unmanned",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/the-first-waves-of-amphibious-assault-will-be-unmanned/",
+        "published": "2026-07-28T07:30:09Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Strait of Malacca: The Indo-Pacific’s Most Critical Chokepoint?",
         "source": "The Diplomat",
@@ -90,13 +97,6 @@
         "url": "https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada",
         "published": "2026-07-27T13:56:02Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Fears Iran and Ukraine wars could merge into one conflict as Kyiv strikes Caspian Sea weapons ship heading for Russia and the Islamic Republic threatens revenge",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16007473/Fears-Iran-Ukraine-wars-merge-one-conflict-Kyiv-strikes-Caspian-Sea-weapons-ship-heading-Russia-Islamic-Republic-threatens-revenge.html",
-        "published": "2026-07-27T12:20:19Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
