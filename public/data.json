@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-07-29T16:36:47.086Z",
+    "generated_at": "2026-07-29T17:57:41.641Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 86.99,
-      "change_pct": 2.3,
-      "date": "2026-07-20",
+      "price": 91.82,
+      "change_pct": -8.5,
+      "date": "2026-07-27",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Top 5 Gundry MD Polyphenol Dark Spot Diminisher Review: Where to Buy, What's Inside, and Does It Actually Work?",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/top-5-gundry-md-polyphenol-dark-spot-diminisher-review-where-to-buy-whats-inside-and-does-it-actually-work-302836765.html",
-        "published": "2026-07-28T16:34:00Z",
+        "title": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz",
+        "source": "Yahoo Entertainment",
+        "url": "https://uk.news.yahoo.com/gulf-states-back-plan-let-104804717.html",
+        "published": "2026-07-28T17:57:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran threatens European ships near Strait of Hormuz amid 2026 conflict",
+        "title": "Iran rejects Oman’s 50-50 Strait of Hormuz deal, proposes it controls inbound shipping traffic",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-threatens-european-ships-near-strait-of-hormuz-amid-2026-conflict/",
-        "published": "2026-07-28T16:30:20Z",
+        "url": "https://cryptobriefing.com/iran-oman-strait-hormuz-shipping-talks/",
+        "published": "2026-07-28T17:38:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China in touch with Yemen's Houthis to allow ships to sail through Red Sea, sources say",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/world/articles/china-touch-yemens-houthis-allow-172748379.html",
+        "published": "2026-07-28T17:27:48Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran threatens to block Hormuz route if Oman rejects terms",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-threatens-to-block-hormuz-route-if-oman-rejects-terms/",
+        "published": "2026-07-28T17:19:15Z",
         "sentiment": "danger"
       },
       {
-        "title": "Opinion: The Case for the Jones Act: American Commerce, Workers, Security",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/opinion-the-case-for-the-jones-act-american-commerce-workers-security/",
-        "published": "2026-07-28T16:16:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oman proposes Hormuz management system with voluntary fees, source says",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/world/articles/oman-presented-regional-mechanism-hormuz-065635571.html",
-        "published": "2026-07-28T15:53:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Infra projects see cost overrun of Rs 4.92 lakh cr: MoSPI",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/infra-projects-see-cost-overrun-of-rs-4-92-lakh-cr-mospi/articleshow/132688484.cms",
-        "published": "2026-07-28T15:30:44Z",
-        "sentiment": "watch"
+        "title": "Iran defies US naval blockade, refuses to negotiate",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-defies-us-naval-blockade-refuses-to-negotiate/",
+        "published": "2026-07-28T17:08:16Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
