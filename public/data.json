@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-29T07:32:42.154Z",
+    "generated_at": "2026-07-29T10:19:38.134Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Bab el-Mandeb shipping rises amid hopes of resolution in US-Iran war",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/articles/bab-el-mandeb-shipping-rises-073038000.html",
-        "published": "2026-07-28T07:30:38Z",
+        "title": "Oil touches over one-week low after pause in attacks",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0728/1585437-world-oil-prices/",
+        "published": "2026-07-28T09:56:41Z",
         "sentiment": "danger"
       },
       {
-        "title": "Saudi Aramco considers new crude pricing for Asia as shipping costs rise",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/saudi-aramco-considers-new-crude-pricing-for-asia-as-shipping-costs-rise/article71275550.ece",
-        "published": "2026-07-28T07:09:42Z",
+        "title": "‘The UAE has been a fantastic investor’: Jeff Zucker hails UAE partnership after Banijay merger",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/28/uae-fantastic-investor-jeff-zucker-hails-partnership-banijay-merger/",
+        "published": "2026-07-28T09:46:36Z",
         "sentiment": "watch"
       },
       {
-        "title": "Tankers Divert to Egypt as Houthi Threat Upends Red Sea Trade",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/tankers-divert-to-egypt-as-houthi-threat-upends-red-sea-trade",
-        "published": "2026-07-28T06:54:57Z",
+        "title": "As US-Iran war rages, who's risking the Strait of Hormuz?",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/us-iran-war-strait-of-hormuz-shipping-vessels-satellite-images-takeaways-analysis/a-78130878",
+        "published": "2026-07-28T09:40:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Saudi Arabia Weighs Higher Asia Crude Prices as Red Sea Shipping Costs Rise",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Weighs-Higher-Asia-Crude-Prices-as-Red-Sea-Shipping-Costs-Rise.html",
-        "published": "2026-07-28T06:30:00Z",
+        "title": "Oil prices fall on hope of US-Iran deal",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/oil-touches-over-one-week-low-as-pause-in-attacks-brings-hope-of-us-iran-deal",
+        "published": "2026-07-28T09:14:22Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Trump says Iran talks underway, Tehran denies negotiations",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/trump-says-iran-talks-underway-tehran-denies-negotiations-224894",
-        "published": "2026-07-28T06:21:16Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
