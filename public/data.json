@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-30T10:53:17.376Z",
+    "generated_at": "2026-07-30T12:48:53.158Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Major Gulf Fighting Restarts As U.S. And Saudi Strike Iran's Allies In Iraq",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/gulf-fighting-restarts_n_6a69d4ede4b098352c300f02",
-        "published": "2026-07-29T10:33:15Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Yemen's Houthis considering fees for ships sailing through Red Sea, sources say",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/yemens-houthis-considering-fees-for-ships-sailing-through-red-sea-sources-say/articleshow/132709209.cms",
-        "published": "2026-07-29T10:31:25Z",
+        "title": "Yemen’s Houthis Consider Imposing Fees on Ships Sailing Through Red Sea: Sources",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/07/29/879298.htm",
+        "published": "2026-07-29T12:33:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "Jordan Intercepts Iranian Missiles as US and Saudi Arabia Strike Iran-Backed Militias Across Iraqi Soil",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/jordan-intercepts-iranian-missiles-middle-east-tensions-1873178",
-        "published": "2026-07-29T10:29:44Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Russia Sends First Conventional LNG Carrier to Arctic LNG 2 as Oil Tankers Gather for NSR Push",
+        "title": "Hormuz Tensions Flare After U.S.-Saudi Strikes, Iran Claims Attacks on Tankers",
         "source": "gcaptain.com",
-        "url": "https://gcaptain.com/russia-sends-first-conventional-lng-carrier-to-arctic-lng-2-as-oil-tankers-gather-for-nsr-push/",
-        "published": "2026-07-29T10:28:33Z",
+        "url": "https://gcaptain.com/hormuz-tensions-flare-after-u-s-saudi-strikes-iran-claims-attacks-on-tankers/",
+        "published": "2026-07-29T12:21:48Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Yemen government says Houthis planning to impose fees for Red Sea transit",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/yemen-houthis-planning-impose-red-sea-fees-6285971",
+        "published": "2026-07-29T12:15:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Rare Beauty National Lipstick Day Deal for 30% off lipstick & lip oil, free bag w/ $50 + shipping varies",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Rare-Beauty-National-Lipstick-Day-Deal-for-30-off-lipstick-lip-oil-free-bag-w-50-shipping-varies/21945797.html",
-        "published": "2026-07-29T10:16:13Z",
+        "title": "Yemen’s Houthis reportedly considering fees for ships sailing through Red Sea",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/07/29/world-news/yemens-houthis-considering-fees-for-ships-sailing-through-red-sea-sources-say/",
+        "published": "2026-07-29T12:13:23Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Why Iran is in no hurry – none at all – to return to talks with the US",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/07/29/why-iran-is-in-no-hurry-none-at-all-to-return-to-talks-with-the-us/",
+        "published": "2026-07-29T12:12:00Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
