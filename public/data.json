@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-30T17:03:41.176Z",
+    "generated_at": "2026-07-30T18:48:27.980Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump Warns Iran of ‘Beating’ After Jordan Base Attack",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/trump-warns-iran-of-beating-after-jordan-base-attack/",
-        "published": "2026-07-29T17:00:03Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Guyana’s Oil Boom Matters More Than Ever",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Guyanas-Oil-Boom-Matters-More-Than-Ever.html",
-        "published": "2026-07-29T17:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "905-Mile 2014 BMW R nineT",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2014-bmw-r-ninet-4/",
-        "published": "2026-07-29T16:52:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US slaps sanctions on ten companies and eight tankers tied to Iran’s oil network",
+        "title": "US Treasury sanctions Iranian firms running maritime extortion scheme with crypto payment ties",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-sanctions-iran-oil-tankers-crypto/",
-        "published": "2026-07-29T16:44:25Z",
+        "url": "https://cryptobriefing.com/treasury-sanctions-iran-maritime-crypto-scheme/",
+        "published": "2026-07-29T18:46:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Brent crude jumps 7%, climbs over $90 on escalating Middle East strikes",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-jumps-7-climbs-over-90-on-escalating-middle-east-strikes/articleshow/132717383.cms",
-        "published": "2026-07-29T16:40:16Z",
+        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o",
+        "published": "2026-07-29T18:41:31Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Fed, in a nail-biter July meeting, decides to leave rates unchanged",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/29/federal-reserve-july-decision-unchanged-kevin-warsh/",
+        "published": "2026-07-29T18:28:34Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The US Is Making the Most Fuel Since Pre-Covid. It’s Not Enough.",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/the-us-is-making-the-most-fuel-since-pre-covid-its-not-enough",
+        "published": "2026-07-29T18:09:43Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
