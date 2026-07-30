@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-30T08:41:29.290Z",
+    "generated_at": "2026-07-30T10:53:17.376Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Could El Nino, two wars and soaring energy prices trigger a global hunger crisis?",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/how-two-wars-and-el-nino-could-fuel-world-hunger/a-78126433",
-        "published": "2026-07-29T08:27:00Z",
+        "title": "Major Gulf Fighting Restarts As U.S. And Saudi Strike Iran's Allies In Iraq",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/gulf-fighting-restarts_n_6a69d4ede4b098352c300f02",
+        "published": "2026-07-29T10:33:15Z",
         "sentiment": "danger"
       },
       {
-        "title": "How Iran, Ukraine wars and El Nino could fuel world hunger",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/how-iran-ukraine-wars-and-el-nino-could-fuel-world-hunger/a-78126433",
-        "published": "2026-07-29T08:27:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran Attacks US Bases and Saudi Arabia Joins Strikes in Iraq",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/iran-attacks-us-bases-and-saudi-arabia-joins-strikes-in-iraq",
-        "published": "2026-07-29T08:20:03Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/29/iran-and-oman-swap-proposals-to-manage-strait-of-hormuz-what-we-know",
-        "published": "2026-07-29T08:16:06Z",
+        "title": "Yemen's Houthis considering fees for ships sailing through Red Sea, sources say",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/yemens-houthis-considering-fees-for-ships-sailing-through-red-sea-sources-say/articleshow/132709209.cms",
+        "published": "2026-07-29T10:31:25Z",
         "sentiment": "watch"
       },
       {
-        "title": "Nikkei Falls Again as AI Selling Offsets Broader Market Recovery",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/150151.php",
-        "published": "2026-07-29T08:14:33Z",
+        "title": "Jordan Intercepts Iranian Missiles as US and Saudi Arabia Strike Iran-Backed Militias Across Iraqi Soil",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/jordan-intercepts-iranian-missiles-middle-east-tensions-1873178",
+        "published": "2026-07-29T10:29:44Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Russia Sends First Conventional LNG Carrier to Arctic LNG 2 as Oil Tankers Gather for NSR Push",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/russia-sends-first-conventional-lng-carrier-to-arctic-lng-2-as-oil-tankers-gather-for-nsr-push/",
+        "published": "2026-07-29T10:28:33Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Rare Beauty National Lipstick Day Deal for 30% off lipstick & lip oil, free bag w/ $50 + shipping varies",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Rare-Beauty-National-Lipstick-Day-Deal-for-30-off-lipstick-lip-oil-free-bag-w-50-shipping-varies/21945797.html",
+        "published": "2026-07-29T10:16:13Z",
         "sentiment": "watch"
       }
     ],
