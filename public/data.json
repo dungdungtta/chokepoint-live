@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-30T02:56:43.413Z",
+    "generated_at": "2026-07-30T05:50:02.569Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "US intercepts Iranian missile attack as West Asia tensions push oil prices higher",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-28/trump-netanyahu-meet-at-white-house-us-dials-back-iran-threats",
-        "published": "2026-07-29T02:18:09Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Price Today (July 29): Crude oil jumps 5% as US intercepts Iranian 'surprise attack’. Big rally ahead?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-29-crude-oil-jumps-5-as-us-intercepts-iranian-surprise-attack-big-rally-ahead/articleshow/132697726.cms",
-        "published": "2026-07-29T02:12:09Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil falls below $84 amid renewed US-Iran diplomacy efforts",
-        "source": "The Punch",
-        "url": "https://punchng.com/oil-falls-below-84-amid-renewed-us-iran-diplomacy-efforts/",
-        "published": "2026-07-29T01:06:11Z",
+        "title": "API opposes Hormuz tolls amid Gulf proposal, citing free passage concerns",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/api-opposes-hormuz-tolls-amid-gulf-proposal-citing-free-passage-concerns/",
+        "published": "2026-07-29T05:49:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "US military shoots down Iranian ballistic missiles targeting its Middle East forces",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/us-military-shoots-down-iranian-ballistic-missiles-targeting-its-middle-east-forces/articleshow/132697119.cms",
-        "published": "2026-07-29T00:58:17Z",
+        "title": "There Is No Oil Price",
+        "source": "Substack.com",
+        "url": "https://tscsw.substack.com/p/there-is-no-oil-price",
+        "published": "2026-07-29T05:47:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "The U.S. Says It Thwarted An Iranian Missile Attack That Ended A Brief Pause In Fighting",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/ap-ml-iran-us_n_6a694dc7e4b0fddbd7122958",
-        "published": "2026-07-29T00:53:32Z",
+        "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu",
+        "published": "2026-07-29T05:43:03Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "The History of Shipping and How It Created the Modern World",
+        "source": "Everything-everywhere.com",
+        "url": "https://everything-everywhere.com/the-history-of-shipping-and-how-it-created-the-modern-world/",
+        "published": "2026-07-29T05:19:53Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China puts the ‘squeeze’ on Taiwan with new maritime patrols",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols",
+        "published": "2026-07-29T05:22:18Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Lessons from the Recent Conflicts for Future War with China",
         "source": "Hoover.org",
@@ -89,13 +89,6 @@
         "source": "Yahoo Entertainment",
         "url": "https://finance.yahoo.com/markets/stocks/articles/beijing-just-aimed-taiwan-semiconductor-140827384.html",
         "published": "2026-07-27T14:08:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China, Japan, and the Memory Security Dilemma",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/07/china-japan-and-the-memory-security-dilemma/",
-        "published": "2026-07-27T14:00:00Z",
         "sentiment": "watch"
       }
     ],
