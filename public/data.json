@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-30T20:19:27.273Z",
+    "generated_at": "2026-07-30T21:44:42.917Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "US slaps new Iran sanctions on insurers and tankers, with crypto payment evasion in the crosshairs",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-sanctions-insurers-tankers-crypto/",
+        "published": "2026-07-29T20:40:27Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "How to End the Iran War",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/07/29/trump-iran-hormuz-mou-cease-fire-energy-peace/",
+        "published": "2026-07-29T20:28:47Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Report: Iran Expecting Delivery of 400 Chinese Shoulder-Fired Missiles",
         "source": "Breitbart News",
         "url": "https://www.breitbart.com/middle-east/2026/07/29/report-iran-expecting-delivery-of-400-chinese-shoulder-fired-missiles/",
@@ -46,20 +60,6 @@
         "url": "https://www.rigzone.com/news/wire/oil_surges_as_tensions_erupt-29-jul-2026-184248-article/",
         "published": "2026-07-29T19:42:07Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Discounts narrow on Russian Urals crude in India",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/discounts-narrow-on-russian-urals-crude-in-india/articleshow/132721345.cms",
-        "published": "2026-07-29T19:28:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Drone hits US-owned gas tanker at Egyptian port named in Iranian threat",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4389832/posts",
-        "published": "2026-07-29T18:57:15Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
