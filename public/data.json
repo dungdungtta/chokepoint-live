@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-30T18:48:27.980Z",
+    "generated_at": "2026-07-30T20:19:27.273Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "US Treasury sanctions Iranian firms running maritime extortion scheme with crypto payment ties",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/treasury-sanctions-iran-maritime-crypto-scheme/",
-        "published": "2026-07-29T18:46:00Z",
+        "title": "Report: Iran Expecting Delivery of 400 Chinese Shoulder-Fired Missiles",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/07/29/report-iran-expecting-delivery-of-400-chinese-shoulder-fired-missiles/",
+        "published": "2026-07-29T19:53:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o",
-        "published": "2026-07-29T18:41:31Z",
+        "title": "Hask Hair Care Deals at Target: Buy 1, Get 1 50% off + free shipping w/ $35",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Hask-Hair-Care-Deals-at-Target-Buy-1-Get-1-50-off-free-shipping-w-35/21945989.html",
+        "published": "2026-07-29T19:48:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Surges as Tensions Erupt",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_surges_as_tensions_erupt-29-jul-2026-184248-article/",
+        "published": "2026-07-29T19:42:07Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Discounts narrow on Russian Urals crude in India",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/discounts-narrow-on-russian-urals-crude-in-india/articleshow/132721345.cms",
+        "published": "2026-07-29T19:28:43Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Drone hits US-owned gas tanker at Egyptian port named in Iranian threat",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4389832/posts",
+        "published": "2026-07-29T18:57:15Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Fed, in a nail-biter July meeting, decides to leave rates unchanged",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/07/29/federal-reserve-july-decision-unchanged-kevin-warsh/",
-        "published": "2026-07-29T18:28:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The US Is Making the Most Fuel Since Pre-Covid. It’s Not Enough.",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/the-us-is-making-the-most-fuel-since-pre-covid-its-not-enough",
-        "published": "2026-07-29T18:09:43Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
