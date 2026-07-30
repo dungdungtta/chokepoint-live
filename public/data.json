@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-30T05:50:02.569Z",
+    "generated_at": "2026-07-30T08:41:29.290Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "API opposes Hormuz tolls amid Gulf proposal, citing free passage concerns",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/api-opposes-hormuz-tolls-amid-gulf-proposal-citing-free-passage-concerns/",
-        "published": "2026-07-29T05:49:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "There Is No Oil Price",
-        "source": "Substack.com",
-        "url": "https://tscsw.substack.com/p/there-is-no-oil-price",
-        "published": "2026-07-29T05:47:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu",
-        "published": "2026-07-29T05:43:03Z",
+        "title": "Could El Nino, two wars and soaring energy prices trigger a global hunger crisis?",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/how-two-wars-and-el-nino-could-fuel-world-hunger/a-78126433",
+        "published": "2026-07-29T08:27:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "The History of Shipping and How It Created the Modern World",
-        "source": "Everything-everywhere.com",
-        "url": "https://everything-everywhere.com/the-history-of-shipping-and-how-it-created-the-modern-world/",
-        "published": "2026-07-29T05:19:53Z",
+        "title": "How Iran, Ukraine wars and El Nino could fuel world hunger",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/how-iran-ukraine-wars-and-el-nino-could-fuel-world-hunger/a-78126433",
+        "published": "2026-07-29T08:27:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran Attacks US Bases and Saudi Arabia Joins Strikes in Iraq",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/iran-attacks-us-bases-and-saudi-arabia-joins-strikes-in-iraq",
+        "published": "2026-07-29T08:20:03Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/29/iran-and-oman-swap-proposals-to-manage-strait-of-hormuz-what-we-know",
+        "published": "2026-07-29T08:16:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Nikkei Falls Again as AI Selling Offsets Broader Market Recovery",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150151.php",
+        "published": "2026-07-29T08:14:33Z",
         "sentiment": "watch"
       }
     ],
