@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-30T15:17:21.036Z",
+    "generated_at": "2026-07-30T17:03:41.176Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Ships passing through Bab el-Mandeb reach one-week high",
-        "source": "Daily Sabah",
-        "url": "https://www.dailysabah.com/business/economy/ships-passing-through-bab-el-mandeb-reach-one-week-high",
-        "published": "2026-07-29T15:15:37Z",
+        "title": "Trump Warns Iran of ‘Beating’ After Jordan Base Attack",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/trump-warns-iran-of-beating-after-jordan-base-attack/",
+        "published": "2026-07-29T17:00:03Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Guyana’s Oil Boom Matters More Than Ever",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Guyanas-Oil-Boom-Matters-More-Than-Ever.html",
+        "published": "2026-07-29T17:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US Treasury sanctions Iranian crypto exchanges linked to IRGC financing scheme",
+        "title": "905-Mile 2014 BMW R nineT",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/2014-bmw-r-ninet-4/",
+        "published": "2026-07-29T16:52:48Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US slaps sanctions on ten companies and eight tankers tied to Iran’s oil network",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-treasury-sanctions-iranian-crypto-exchanges-irgc/",
-        "published": "2026-07-29T15:14:55Z",
+        "url": "https://cryptobriefing.com/us-sanctions-iran-oil-tankers-crypto/",
+        "published": "2026-07-29T16:44:25Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudi State Oil Shipper Posts Record Profit on Higher Freight Rates",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/saudi_state_oil_shipper_posts_record_profit_on_higher_freight_rates-29-jul-2026-184247-article/",
-        "published": "2026-07-29T15:04:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran resumes missile attacks as US and Saudis strike Tehran-backed militias in Iraq",
+        "title": "Brent crude jumps 7%, climbs over $90 on escalating Middle East strikes",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/iran-resumes-missile-attacks-as-us-and-saudis-strike-tehran-backed-militias-in-iraq/articleshow/132715544.cms",
-        "published": "2026-07-29T15:03:42Z",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-jumps-7-climbs-over-90-on-escalating-middle-east-strikes/articleshow/132717383.cms",
+        "published": "2026-07-29T16:40:16Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "China’s increased maritime patrols near Taiwan raise concerns about potential 2026 military action",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/chinas-increased-maritime-patrols-near-taiwan-raise-concerns-about-potential/",
+        "published": "2026-07-29T16:08:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Donald Trump and Wars of Choice",
+        "source": "The Intercept",
+        "url": "https://theintercept.com/2026/07/29/trump-wars-of-choice-iran/",
+        "published": "2026-07-29T15:53:23Z",
+        "sentiment": "danger"
+      },
       {
         "title": "China Moves to Lock in a New Edge on Taiwan Before the Next Trump-Xi Summit",
         "source": "The Diplomat",
@@ -76,20 +97,6 @@
         "url": "https://www.hoover.org/research/lessons-recent-conflicts-future-war-china",
         "published": "2026-07-29T00:00:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "The First Waves of Amphibious Assault Will Be Unmanned",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/the-first-waves-of-amphibious-assault-will-be-unmanned/",
-        "published": "2026-07-28T07:30:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Strait of Malacca: The Indo-Pacific’s Most Critical Chokepoint?",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/07/the-strait-of-malacca-the-indo-pacifics-most-critical-chokepoint/",
-        "published": "2026-07-27T17:27:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
