@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-31T18:05:31.637Z",
+    "generated_at": "2026-07-31T19:54:13.477Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Houthis in the Iran Conflict: Asymmetric Warfare and Unlikely Surrender",
-        "source": "Thegatewaypundit.com",
-        "url": "https://www.thegatewaypundit.com/2026/07/houthis-iran-conflict-asymmetric-warfare-unlikely-surrender/",
-        "published": "2026-07-30T18:00:48Z",
-        "sentiment": "danger"
+        "title": "Oil Drops Amid Mixed Supply Signals",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_drops_amid_mixed_supply_signals-30-jul-2026-184259-article/",
+        "published": "2026-07-30T19:47:12Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Trump Faces Escalation Conundrum as Iran War Flares Once Again",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/trump-faces-escalation-conundrum-as-iran-war-flares-once-again",
-        "published": "2026-07-30T17:52:36Z",
-        "sentiment": "danger"
+        "title": "1963 Chevrolet Corvette Convertible 327/300 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1963-chevrolet-corvette-convertible-203/",
+        "published": "2026-07-30T19:40:16Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Tom Cotton backs Trump’s strikes on Iran, calls leaders terrorists as crypto markets bleed $80 billion",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/tom-cotton-iran-strikes-crypto-market-impact/",
-        "published": "2026-07-30T17:51:26Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Drone attack in Egypt raises fresh fears over Suez Canal, global oil supply",
+        "title": "India to buck APAC slowdown despite oil, trade and El Nino risks: Moody's Analytics",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/drone-attack-in-egypt-raises-fresh-fears-over-suez-canal-global-oil-supply/articleshow/132747095.cms",
-        "published": "2026-07-30T17:47:31Z",
-        "sentiment": "danger"
+        "url": "https://economictimes.indiatimes.com/news/economy/indicators/india-to-buck-apac-slowdown-despite-oil-trade-and-el-nino-risks-moodys-analytics/articleshow/132749534.cms",
+        "published": "2026-07-30T19:19:31Z",
+        "sentiment": "watch"
       },
       {
-        "title": "BMW Plans To Cut 8,000 Jobs By Late 2027",
-        "source": "Shtfplan.com",
-        "url": "https://www.shtfplan.com/economics/bmw-plans-to-cut-8000-jobs-by-late-2027",
-        "published": "2026-07-30T17:30:49Z",
+        "title": "West Asia conflict: PM Modi directs measures to safeguard Indians, boost renewable energy push",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/india/west-asia-conflict-pm-modi-directs-measures-to-safeguard-indians-boost-renewable-energy-push/articleshow/132749350.cms",
+        "published": "2026-07-30T19:13:26Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Gulf Oil Exports Struggle to Recover Despite Higher Hormuz Traffic",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Gulf-Oil-Exports-Struggle-to-Recover-Despite-Higher-Hormuz-Traffic.html",
+        "published": "2026-07-30T19:00:00Z",
         "sentiment": "watch"
       }
     ],
