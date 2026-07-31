@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-31T06:50:42.886Z",
+    "generated_at": "2026-07-31T09:49:48.925Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Nigeria’s export under threat over US 12.5% tariff, SEREC warns",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/07/nigerias-export-under-threat-over-us-12-5-tariff-serec-warns/",
-        "published": "2026-07-30T06:09:52Z",
+        "title": "Turkey Sees Ongoing Oil Flow From Iraq as Pipeline Talks Proceed",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/turkey-sees-ongoing-oil-flow-from-iraq-as-pipeline-talks-proceed",
+        "published": "2026-07-30T09:45:43Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Iran War: Jordan Strike Shows Iran Intensifying War to Exhaust US Economy and Military; Trump Takes Bait by Retaliating",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/07/iran-war-jordan-strike-shows-iran-intensifying-war-to-exhaust-us-economy-and-military-trump-takes-bait-by-retaliating.html",
+        "published": "2026-07-30T09:15:13Z",
         "sentiment": "danger"
       },
       {
-        "title": "NPA expects 38 vessels with petroleum, food cargoes",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/07/npa-expects-38-vessels-with-petroleum-food-cargoes/",
-        "published": "2026-07-30T06:07:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US sanctions Iranian maritime firm, says it accepted Bitcoin to evade restrictions",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/us-sanctions-iran-hormuzsafe-bitcoin",
-        "published": "2026-07-30T05:23:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Strait of Hormuz is just one trade chokepoint facing a new era of maritime warfare",
+        "title": "Oil prices move higher as Iran threatens response to latest U.S. strikes",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/30/strait-hormuz-drone-shipping-risks.html",
-        "published": "2026-07-30T05:20:55Z",
+        "url": "https://www.cnbc.com/2026/07/30/oil-prices-us-iran-war.html",
+        "published": "2026-07-30T09:14:12Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Rust-Oleum Marking Paint at Lowe's for From $9.98 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Rust-Oleum-Marking-Paint-at-Lowes-for-From-9-98-free-shipping/21949362.html",
+        "published": "2026-07-30T09:08:55Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iranian Strike Hits Chinese Firm's Building, Killing 1, Hours After Jordan Downs Missiles",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/middle-east-flare-ups_n_6a6b0f6ce4b098352c30d0ba",
+        "published": "2026-07-30T09:07:35Z",
         "sentiment": "danger"
       }
     ],
