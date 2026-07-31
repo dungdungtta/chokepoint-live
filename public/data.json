@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-31T14:37:44.354Z",
+    "generated_at": "2026-07-31T16:25:46.862Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Melania's FIFTH rescue: More children lost in Russia-Ukraine war delivered home as First Lady's quiet channel to Moscow holds firm",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16016885/Melania-rescue-children-Russia-Ukraine-war.html",
-        "published": "2026-07-30T14:33:03Z",
+        "title": "US and Iran trade missile barrages as hopes dim for a quick resolution to the five-month conflict",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-and-iran-trade-missile-barrages-as-hopes-dim-for-a-quick-resolution-to-the-five-month-conflict/articleshow/132745260.cms",
+        "published": "2026-07-30T16:20:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Mechanism to be set up to provide timely information, emergency assistance, counselling to seafarers, their families",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/mechanism-to-be-set-up-to-provide-timely-information-emergency-assistance-counselling-to-seafarers-their-families/article71286830.ece",
+        "published": "2026-07-30T16:00:56Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iraq Leader’s Successful Visit to Washington Shows New Path Forward with U.S.",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Geopolitics/Middle-East/Iraq-Leaders-Successful-Visit-to-Washington-Shows-New-Path-Forward-with-US.html",
+        "published": "2026-07-30T16:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran Claims to Have Killed U.S. Troops to 'Liberate the Islamic Land of Jordan'",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/07/30/iran-claims-to-have-killed-u-s-troops-to-liberate-the-islamic-land-of-jordan/",
-        "published": "2026-07-30T14:32:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "We cannot accept the deceit of Iran's terror regime",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/431011",
-        "published": "2026-07-30T14:32:18Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ships Stuck in the Strait of Hormuz Could Cause an ‘Invasive Superspreader Event’",
-        "source": "Gizmodo.com",
-        "url": "https://gizmodo.com/ships-stuck-in-the-strait-of-hormuz-could-cause-an-invasive-superspreader-event-2000792824",
-        "published": "2026-07-30T14:20:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Gulf markets slide as US-Iran hostilities flare up again, oil prices whipsaw",
+        "title": "Two tankers carrying saudi oil for India exit red sea by going ‘dark’",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/gulf-markets-ease-us-iran-hostilities/",
-        "published": "2026-07-30T14:15:45Z",
+        "url": "https://cryptobriefing.com/two-tankers-carrying-saudi-oil-for-india-exit-red-sea-by-going-dark/",
+        "published": "2026-07-30T15:43:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "CENTCOM rebuts Iranian claims: Strait of Hormuz remains open, no US aircraft lost",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/431017",
+        "published": "2026-07-30T15:40:30Z",
         "sentiment": "watch"
       }
     ],
