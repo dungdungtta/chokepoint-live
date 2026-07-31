@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-31T09:49:48.925Z",
+    "generated_at": "2026-07-31T12:05:33.256Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Turkey Sees Ongoing Oil Flow From Iraq as Pipeline Talks Proceed",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/turkey-sees-ongoing-oil-flow-from-iraq-as-pipeline-talks-proceed",
-        "published": "2026-07-30T09:45:43Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Iran War: Jordan Strike Shows Iran Intensifying War to Exhaust US Economy and Military; Trump Takes Bait by Retaliating",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/07/iran-war-jordan-strike-shows-iran-intensifying-war-to-exhaust-us-economy-and-military-trump-takes-bait-by-retaliating.html",
-        "published": "2026-07-30T09:15:13Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices move higher as Iran threatens response to latest U.S. strikes",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/30/oil-prices-us-iran-war.html",
-        "published": "2026-07-30T09:14:12Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Rust-Oleum Marking Paint at Lowe's for From $9.98 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Rust-Oleum-Marking-Paint-at-Lowes-for-From-9-98-free-shipping/21949362.html",
-        "published": "2026-07-30T09:08:55Z",
+        "title": "Middle East crisis: Humanitarian fallout 'worsening by the day'",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260730-unnews01.htm",
+        "published": "2026-07-30T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iranian Strike Hits Chinese Firm's Building, Killing 1, Hours After Jordan Downs Missiles",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/middle-east-flare-ups_n_6a6b0f6ce4b098352c30d0ba",
-        "published": "2026-07-30T09:07:35Z",
+        "title": "Can China restrain Iran? Gulf states test Beijing's influence",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/can-china-restrain-iran-gulf-states-test-beijings-influence/articleshow/132738917.cms",
+        "published": "2026-07-30T11:58:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US 30-year yield hits 2007 high, stocks attempt post-earnings recovery",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-choppy-rout-fed-014549754.html",
+        "published": "2026-07-30T11:36:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Drone Strike at Egypt’s Damietta Port Raises New Security Threat Near Suez",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/07/30/879637.htm",
+        "published": "2026-07-30T11:30:37Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Ukraine questions India’s stand on Russia amid Black Sea attacks",
+        "source": "RT",
+        "url": "https://www.rt.com/india/643652-ukraine-questions-indias-stand/",
+        "published": "2026-07-30T11:26:36Z",
         "sentiment": "danger"
       }
     ],
