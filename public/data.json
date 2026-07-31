@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-31T12:05:33.256Z",
+    "generated_at": "2026-07-31T14:37:44.354Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Middle East crisis: Humanitarian fallout 'worsening by the day'",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260730-unnews01.htm",
-        "published": "2026-07-30T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Can China restrain Iran? Gulf states test Beijing's influence",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/can-china-restrain-iran-gulf-states-test-beijings-influence/articleshow/132738917.cms",
-        "published": "2026-07-30T11:58:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US 30-year yield hits 2007 high, stocks attempt post-earnings recovery",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-choppy-rout-fed-014549754.html",
-        "published": "2026-07-30T11:36:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Drone Strike at Egypt’s Damietta Port Raises New Security Threat Near Suez",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/07/30/879637.htm",
-        "published": "2026-07-30T11:30:37Z",
+        "title": "Melania's FIFTH rescue: More children lost in Russia-Ukraine war delivered home as First Lady's quiet channel to Moscow holds firm",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16016885/Melania-rescue-children-Russia-Ukraine-war.html",
+        "published": "2026-07-30T14:33:03Z",
         "sentiment": "danger"
       },
       {
-        "title": "Ukraine questions India’s stand on Russia amid Black Sea attacks",
-        "source": "RT",
-        "url": "https://www.rt.com/india/643652-ukraine-questions-indias-stand/",
-        "published": "2026-07-30T11:26:36Z",
-        "sentiment": "danger"
+        "title": "Iran Claims to Have Killed U.S. Troops to 'Liberate the Islamic Land of Jordan'",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/07/30/iran-claims-to-have-killed-u-s-troops-to-liberate-the-islamic-land-of-jordan/",
+        "published": "2026-07-30T14:32:20Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "We cannot accept the deceit of Iran's terror regime",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/431011",
+        "published": "2026-07-30T14:32:18Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Ships Stuck in the Strait of Hormuz Could Cause an ‘Invasive Superspreader Event’",
+        "source": "Gizmodo.com",
+        "url": "https://gizmodo.com/ships-stuck-in-the-strait-of-hormuz-could-cause-an-invasive-superspreader-event-2000792824",
+        "published": "2026-07-30T14:20:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Gulf markets slide as US-Iran hostilities flare up again, oil prices whipsaw",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/gulf-markets-ease-us-iran-hostilities/",
+        "published": "2026-07-30T14:15:45Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
