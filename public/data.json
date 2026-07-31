@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-31T19:54:13.477Z",
+    "generated_at": "2026-07-31T21:14:04.168Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Drops Amid Mixed Supply Signals",
+        "title": "Amazon reports strong profits and net sales for Q2, fueled by robust growth in cloud computing unit",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/companies/amazon-reports-strong-profits-and-net-sales-for-q2-fueled-by-robust-growth-in-cloud-computing-unit-11785445360658.html",
+        "published": "2026-07-30T21:02:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Minerals Technologies Inc. Announces 2026 Second Quarter Financial Results",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/07/30/3336491/0/en/Minerals-Technologies-Inc-Announces-2026-Second-Quarter-Financial-Results.html",
+        "published": "2026-07-30T21:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Saudi Gulf Oil Loadings Still Subdued",
         "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_drops_amid_mixed_supply_signals-30-jul-2026-184259-article/",
-        "published": "2026-07-30T19:47:12Z",
+        "url": "https://www.rigzone.com/news/wire/saudi_gulf_oil_loadings_still_subdued-30-jul-2026-184256-article/",
+        "published": "2026-07-30T21:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "1963 Chevrolet Corvette Convertible 327/300 4-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1963-chevrolet-corvette-convertible-203/",
-        "published": "2026-07-30T19:40:16Z",
-        "sentiment": "watch"
+        "title": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/07/30/nx-s1-5913851/mortgage-rates-one-year-high-july-2026",
+        "published": "2026-07-30T20:37:59Z",
+        "sentiment": "danger"
       },
       {
-        "title": "India to buck APAC slowdown despite oil, trade and El Nino risks: Moody's Analytics",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/indicators/india-to-buck-apac-slowdown-despite-oil-trade-and-el-nino-risks-moodys-analytics/articleshow/132749534.cms",
-        "published": "2026-07-30T19:19:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "West Asia conflict: PM Modi directs measures to safeguard Indians, boost renewable energy push",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/india/west-asia-conflict-pm-modi-directs-measures-to-safeguard-indians-boost-renewable-energy-push/articleshow/132749350.cms",
-        "published": "2026-07-30T19:13:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Gulf Oil Exports Struggle to Recover Despite Higher Hormuz Traffic",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Gulf-Oil-Exports-Struggle-to-Recover-Despite-Higher-Hormuz-Traffic.html",
-        "published": "2026-07-30T19:00:00Z",
+        "title": "Okeanis Eco Tankers Corp. – Invitation to Q2 2026 Results Webcast",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/07/30/3336447/0/en/Okeanis-Eco-Tankers-Corp-Invitation-to-Q2-2026-Results-Webcast.html",
+        "published": "2026-07-30T20:15:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Defining a ‘normal’ country: Japan’s long struggle between pacifism and the threats of a new era",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/defining-a-normal-country-japans-long-struggle-between-pacifism-and-the-threats-of-a-new-era-283891",
+        "published": "2026-07-30T20:09:11Z",
+        "sentiment": "danger"
+      },
       {
         "title": "The Iran War Is Lose-Lose",
         "source": "The American Conservative",
@@ -90,13 +97,6 @@
         "url": "https://theintercept.com/2026/07/29/trump-wars-of-choice-iran/",
         "published": "2026-07-29T15:53:23Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "China Moves to Lock in a New Edge on Taiwan Before the Next Trump-Xi Summit",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/07/china-moves-to-lock-in-a-new-edge-on-taiwan-before-the-next-trump-xi-summit/",
-        "published": "2026-07-29T14:19:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
