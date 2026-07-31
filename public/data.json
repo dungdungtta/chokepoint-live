@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-31T00:10:17.636Z",
+    "generated_at": "2026-07-31T03:52:25.887Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Licensed agents seek law reserving freight jobs for Nigerians",
-        "source": "The Punch",
-        "url": "https://punchng.com/licensed-agents-seek-law-reserving-freight-jobs-for-nigerians/",
-        "published": "2026-07-30T00:09:22Z",
+        "title": "India seeks sunflower oil alternatives on Black Sea disruptions",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-seeks-sunflower-oil-alternatives-on-black-sea-disruptions/articleshow/132726027.cms",
+        "published": "2026-07-30T03:23:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "US tariff threatens Nigerian exports, foreign investment, group warns",
-        "source": "The Punch",
-        "url": "https://punchng.com/us-tariff-threatens-nigerian-exports-foreign-investment-group-warns/",
-        "published": "2026-07-29T23:36:43Z",
+        "title": "An iranian member of parliament calls for closure of Strait of Hormuz in response to US and israeli actions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/an-iranian-member-of-parliament-calls-for-closure-of-strait-of-hormuz-in/",
+        "published": "2026-07-30T03:18:14Z",
         "sentiment": "danger"
       },
       {
-        "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea",
-        "published": "2026-07-29T23:34:26Z",
+        "title": "U.S. Launches Strikes On Iranian Targets A Day After It Foiled Missile Attack On American Forces",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/us-iran-strikes_n_6a6ab6b5e4b0fddbd71302f9",
+        "published": "2026-07-30T02:35:05Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "A new fuel refinery is a start. But Australia is still vulnerable to shipping disruptions without a clear strategy",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/a-new-fuel-refinery-is-a-start-but-australia-is-still-vulnerable-to-shipping-disruptions-without-a-clear-strategy-288703",
+        "published": "2026-07-30T02:29:47Z",
         "sentiment": "watch"
       },
       {
-        "title": "Brief pause in Iran war ends with new attacks in Iraq and Egypt",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/show/brief-pause-in-iran-war-ends-with-new-attacks-in-iraq-and-egypt",
-        "published": "2026-07-29T22:50:10Z",
-        "sentiment": "danger"
+        "title": "Iran tensions, supply fears lift oil above $90",
+        "source": "The Punch",
+        "url": "https://punchng.com/iran-tensions-supply-fears-lift-oil-above-90/",
+        "published": "2026-07-30T02:20:35Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
