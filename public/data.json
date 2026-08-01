@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T20:00:30.370Z",
+    "generated_at": "2026-08-01T21:10:28.761Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Brent Caps Strongest Month Since March",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/brent_caps_strongest_month_since_march-31-jul-2026-184273-article/",
+        "published": "2026-07-31T21:03:58Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "1963 Chevrolet Corvette Split-Window Coupe L84 327/360 Fuelie 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1963-chevrolet-corvette-coupe-249/",
+        "published": "2026-07-31T20:40:15Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Abqaiq Is a Warning That Oil Markets May Be Misreading",
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Energy/Crude-Oil/Abqaiq-Is-a-Warning-That-Oil-Markets-May-Be-Misreading.html",
@@ -46,20 +60,6 @@
         "url": "https://gcaptain.com/significant-shrinking-in-crude-cushion-in-coming-month-vortexa/",
         "published": "2026-07-31T19:38:34Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Why Trump’s Trade Threat Puts Spain’s Energy Security on the Line",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Why-Trumps-Trade-Threat-Puts-Spains-Energy-Security-on-the-Line.html",
-        "published": "2026-07-31T19:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil spill from shadow fleet tanker spreads off Oman, threatens Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-spill-from-shadow-fleet-tanker-spreads-off-oman-threatens-strait-of-hormuz/",
-        "published": "2026-07-31T17:43:43Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
