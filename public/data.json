@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T15:28:59.539Z",
+    "generated_at": "2026-08-01T16:32:24.414Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Europe’s Shrinking Rivers Curb Power Output, Transport and Company Earnings",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/europes-shrinking-rivers-curb-power-output-transport-and-company-earnings/",
-        "published": "2026-07-31T15:11:03Z",
+        "title": "Trump Holds Cabinet Meeting at Camp David as Widening Iran War Shows No Sign of Ending Any Time Soon",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/trump-camp-david-cabinet-meeting-iran-conflict-1873311",
+        "published": "2026-07-31T16:31:58Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Newly Upgraded Oil-Tightï¼VEVOR Metal Fuel Container, 5.3 Gallon, Fuel Jerry Can with Spout and Comfort Handle $40.91 (4 replies)",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19829268-newly-upgraded-oil-tight-vevor-metal-fuel-container-5-3-gallon-fuel-jerry-can-with-spout-and-comfort-handle-40-91",
+        "published": "2026-07-31T16:29:46Z",
         "sentiment": "watch"
       },
       {
-        "title": "AI lifts Q1 global trade despite West Asia conflict: WTO",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/ai-lifts-q1-global-trade-despite-west-asia-conflict-wto/article71290999.ece",
-        "published": "2026-07-31T15:08:21Z",
+        "title": "UAE to Overhaul How It Prices All Crude Oil After Big Swings",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/uae-to-overhaul-how-it-prices-all-crude-oil-after-big-swings",
+        "published": "2026-07-31T16:16:13Z",
         "sentiment": "watch"
       },
       {
-        "title": "US Treasury Sanctions Iranian Firms Taking Bitcoin for Hormuz Passage",
-        "source": "Decrypt",
-        "url": "https://decrypt.co/374789/us-treasury-sanctions-iranian-firms-taking-bitcoin-for-hormuz-passage",
-        "published": "2026-07-31T15:05:43Z",
+        "title": "Saudis Push Maritime Coalition as Oil Finds Support",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Saudis-Push-Maritime-Coalition-as-Oil-Finds-Support.html",
+        "published": "2026-07-31T16:15:56Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Spill from Shadow Fleet Tanker Spreading Off Oman, Satellite Images Show",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/oil-spill-from-shadow-fleet-tanker-spreading-off-oman-satellite-images-show/",
-        "published": "2026-07-31T15:05:10Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Wall Street gains on tech earnings; bond yields hit multi-year highs",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/wall-street-gains-tech-earnings-bond-yields-hit-multi-year-highs-6289901",
-        "published": "2026-07-31T15:03:58Z",
+        "title": "Saudis Push Maritime Coalition as Oil Finds Support",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/saudis-push-maritime-coalition-oil-161556456.html",
+        "published": "2026-07-31T16:15:56Z",
         "sentiment": "watch"
       }
     ],
