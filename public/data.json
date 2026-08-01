@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T01:16:59.030Z",
+    "generated_at": "2026-08-01T04:57:14.475Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Global Market Today: Asian stocks rise on Korean rally, yen holds gains",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-on-korean-rally-yen-holds-gains/articleshow/132753029.cms",
-        "published": "2026-07-31T00:51:08Z",
+        "title": "Mediator Pakistan says US-Iran talks continue despite renewed strikes",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/mediator-pakistan-says-us-iran-talks-continue-despite-renewed-strikes-225039",
+        "published": "2026-07-31T04:56:23Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Major oil companies likely booked large profits due to US-Iran conflict",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/oil-companies-profits-exxon-chevron-9375fbf8f6f40426f7428e07d54000c7",
+        "published": "2026-07-31T04:17:33Z",
         "sentiment": "watch"
       },
       {
-        "title": "Why limited war with the US may suit Iran better than peace",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4389985/posts",
-        "published": "2026-07-31T00:48:33Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Remote Machine Learning Scientist Remote Sensing",
-        "source": "Nlppeople.com",
-        "url": "https://nlppeople.com/job/remote-machine-learning-scientist-remote-sensing-12/",
-        "published": "2026-07-31T00:00:00Z",
+        "title": "The Hormuz Energy Crisis becomes the Red Sea Crisis (Juan Cole and Ian Masters)",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/07/hormuz-becomes-masters.html",
+        "published": "2026-07-31T04:15:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil on Pace for 21% Monthly Rally as US-Iran War Strains Supply",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-on-pace-for-21-monthly-rally-as-us-iran-war-strains-supply",
-        "published": "2026-07-30T23:14:43Z",
-        "sentiment": "danger"
+        "title": "Oil companies are expected to reap big profits because of US-Iran conflict",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/oil-companies-expected-reap-big-profits-us-iran-135250080",
+        "published": "2026-07-31T04:06:18Z",
+        "sentiment": "watch"
       },
       {
-        "title": "How shipping risks from Ukraine and Iran wars are converging",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/f577883ec20568ca",
-        "published": "2026-07-30T23:12:20Z",
-        "sentiment": "danger"
+        "title": "Oil companies are expected to reap big profits because of US-Iran conflict",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/oil-companies-expected-reap-big-profits-us-iran-135250083",
+        "published": "2026-07-31T04:06:13Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Hormuz Energy Crisis becomes the Red Sea Crisis (Juan Cole and Ian Masters)",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/07/hormuz-becomes-masters.html",
+        "published": "2026-07-31T04:15:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Me, Me, Me Presidency",
+        "source": "Lewrockwell.com",
+        "url": "https://www.lewrockwell.com/2026/07/no_author/the-me-me-me-presidency/",
+        "published": "2026-07-31T04:01:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Defining a ‘normal’ country: Japan’s long struggle between pacifism and the threats of a new era",
         "source": "The Conversation Africa",
@@ -83,20 +97,6 @@
         "url": "https://www.globenewswire.com/news-release/2026/07/29/3335673/9885/en/Silicon-Motion-Announces-Results-for-the-Quarterly-Period-Ended-June-30-2026.html",
         "published": "2026-07-29T22:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "China’s increased maritime patrols near Taiwan raise concerns about potential 2026 military action",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/chinas-increased-maritime-patrols-near-taiwan-raise-concerns-about-potential/",
-        "published": "2026-07-29T16:08:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Donald Trump and Wars of Choice",
-        "source": "The Intercept",
-        "url": "https://theintercept.com/2026/07/29/trump-wars-of-choice-iran/",
-        "published": "2026-07-29T15:53:23Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
