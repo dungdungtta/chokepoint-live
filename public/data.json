@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T22:12:35.492Z",
+    "generated_at": "2026-08-01T23:14:28.646Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Like us, Norway hit the North Sea oil and gas jackpot in the 1970s... but their politicians created the world's biggest wealth fund - while ours frittered the money away: ROBERT HARDMAN",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16020659/Norway-North-Sea-oil-gas-jackpot-wealth-fund.html",
+        "published": "2026-07-31T22:36:53Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "2006 Yamaha YZF-R1 LE at No Reserve",
         "source": "Bringatrailer.com",
         "url": "https://bringatrailer.com/listing/2006-yamaha-r1-le-2/",
@@ -52,13 +59,6 @@
         "source": "Rigzone",
         "url": "https://www.rigzone.com/news/wire/brent_caps_strongest_month_since_march-31-jul-2026-184273-article/",
         "published": "2026-07-31T21:03:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "1963 Chevrolet Corvette Split-Window Coupe L84 327/360 Fuelie 4-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1963-chevrolet-corvette-coupe-249/",
-        "published": "2026-07-31T20:40:15Z",
         "sentiment": "watch"
       }
     ],
