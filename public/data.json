@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T18:44:31.642Z",
+    "generated_at": "2026-08-01T20:00:30.370Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
+        "title": "Abqaiq Is a Warning That Oil Markets May Be Misreading",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Abqaiq-Is-a-Warning-That-Oil-Markets-May-Be-Misreading.html",
+        "published": "2026-07-31T20:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Saudi Arabia Proposes ‘Maritime Defense Coalition’ for Red Sea",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/07/31/saudi-arabia-proposes-maritime-defense-coalition-for-red-sea/",
+        "published": "2026-07-31T19:52:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "‘Significant Shrinking’ in Crude Cushion In Coming Months – Vortexa",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/significant-shrinking-in-crude-cushion-in-coming-month-vortexa/",
+        "published": "2026-07-31T19:38:34Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Why Trump’s Trade Threat Puts Spain’s Energy Security on the Line",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Why-Trumps-Trade-Threat-Puts-Spains-Energy-Security-on-the-Line.html",
+        "published": "2026-07-31T19:00:00Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Oil spill from shadow fleet tanker spreads off Oman, threatens Strait of Hormuz",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/oil-spill-from-shadow-fleet-tanker-spreads-off-oman-threatens-strait-of-hormuz/",
         "published": "2026-07-31T17:43:43Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "U.S. GDP growth slowed to 1.5% in Q2 2026 amid Iran war",
-        "source": "Quartz India",
-        "url": "https://qz.com/us-gdp-second-quarter-2026-iran-war-energy-073126",
-        "published": "2026-07-31T17:34:58Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "DremGara 8 x 18-Foot Garage Floor Mat for $90 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Drem-Gara-8-x-18-Foot-Garage-Floor-Mat-for-90-free-shipping-w-Prime/21953000.html",
-        "published": "2026-07-31T17:20:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil prices set to spike again after more Strait of Hormuz disruptions, Red Sea attacks",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/07/31/world-news/oil-prices-set-to-spike-again-as-middle-east-supply-disruptions-continue/",
-        "published": "2026-07-31T16:54:37Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Exxon and Chevron are having a ‘very good crisis’ reaping massive profits during the Iran war",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/0278b0673ee2f800",
-        "published": "2026-07-31T16:49:20Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "China Coast Guard Patrols Waters East of Taiwan, Angering Taipei",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/china-coast-guard-patrols-waters-east-of-taiwan-angering-taipei/",
+        "published": "2026-07-31T19:46:57Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump’s Pacific Islands Blind Spot",
         "source": "Foreign Policy",
@@ -90,13 +97,6 @@
         "url": "https://www.lewrockwell.com/2026/07/no_author/the-me-me-me-presidency/",
         "published": "2026-07-31T04:01:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Defining a ‘normal’ country: Japan’s long struggle between pacifism and the threats of a new era",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/defining-a-normal-country-japans-long-struggle-between-pacifism-and-the-threats-of-a-new-era-283891",
-        "published": "2026-07-30T20:09:11Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
