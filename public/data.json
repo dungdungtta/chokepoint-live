@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T11:07:12.486Z",
+    "generated_at": "2026-08-01T12:14:18.240Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran War: Risk of Widening Conflict as Saudis Form “Defensive” Coalition, Iran Depicts Egypt LNG Platform Attack as Israel False Flag; Postol – Iran Missiles More Powerful Than Oreshnik; IRCG Provides Images of F-35s Destroyed in Jordan",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/07/iran-war-risk-of-widening-conflict-as-saudis-form-defensive-coalition-iran-depicts-egypt-lng-platform-attack-as-israel-false-flag-postol-iran-missiles-more-powerful-than-oreshnik-ircg-provid.html",
-        "published": "2026-07-31T10:56:53Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran War: Risk of Widening Conflict as Saudis Form “Defensive” Coalition, Iran Depicts Egypt LNG Platform Attack as Israel False Flag; Postol – Iran Missiles More Powerful Than Oreshnik; IRGC Provides Images of F-35s Destroyed in Jordan",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/07/iran-war-risk-of-widening-conflict-as-saudis-form-defensive-coalition-iran-depicts-egypt-lng-platform-attack-as-israel-false-flag-postol-iran-missiles-more-powerful-than-oreshnik-irgc-provid.html",
-        "published": "2026-07-31T10:56:53Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Saudi Ships Shun Red Sea Chokepoint for Rare Africa Journey",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/saudi-ships-shun-red-sea-chokepoint-for-rare-africa-journey/",
-        "published": "2026-07-31T10:48:26Z",
+        "title": "India bonds log first monthly loss in four as surging oil, Treasury yields sting",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-log-first-monthly-loss-in-four-as-surging-oil-treasury-yields-sting/articleshow/132767310.cms",
+        "published": "2026-07-31T12:12:40Z",
         "sentiment": "watch"
       },
       {
-        "title": "Current price of oil as of July 31, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-07-31-2026/",
-        "published": "2026-07-31T10:45:10Z",
+        "title": "Hormuz Uncertainty Keeps Oil Markets on Edge",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Hormuz-Uncertainty-Keeps-Oil-Markets-on-Edge.html",
+        "published": "2026-07-31T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Prices Steady As Hormuz Traffic Gradually Recovers",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/14a7a85f51f0dd4e",
-        "published": "2026-07-31T10:30:27Z",
+        "title": "This May Be Trump’s Biggest Error in the Iran War",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/national-security/2026/07/iran-war-trump-misunderstandings/688117/",
+        "published": "2026-07-31T12:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands 'the fighting must stop'",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260731-unnews01.htm",
+        "published": "2026-07-31T12:00:00Z",
         "sentiment": "watch"
       }
     ],
