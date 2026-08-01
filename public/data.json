@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-31T23:32:56.074Z",
+    "generated_at": "2026-08-01T01:16:59.030Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Global Market Today: Asian stocks rise on Korean rally, yen holds gains",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-on-korean-rally-yen-holds-gains/articleshow/132753029.cms",
+        "published": "2026-07-31T00:51:08Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Why limited war with the US may suit Iran better than peace",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4389985/posts",
+        "published": "2026-07-31T00:48:33Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Remote Machine Learning Scientist Remote Sensing",
+        "source": "Nlppeople.com",
+        "url": "https://nlppeople.com/job/remote-machine-learning-scientist-remote-sensing-12/",
+        "published": "2026-07-31T00:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Oil on Pace for 21% Monthly Rally as US-Iran War Strains Supply",
         "source": "Financial Post",
         "url": "https://financialpost.com/pmn/business-pmn/oil-on-pace-for-21-monthly-rally-as-us-iran-war-strains-supply",
@@ -38,27 +59,6 @@
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/f577883ec20568ca",
         "published": "2026-07-30T23:12:20Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "How shipping risks from Ukraine and Iran wars are converging",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/show/how-shipping-risks-from-ukraine-and-iran-wars-are-converging",
-        "published": "2026-07-30T22:52:44Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "48-Years-Owned 1974 DeTomaso Pantera L",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1974-detomaso-pantera-l-8/",
-        "published": "2026-07-30T22:14:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Is the U.S.-Iran War Expanding?",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/07/30/us-iran-war-iraq-strikes-saudi-houthis/",
-        "published": "2026-07-30T22:07:49Z",
         "sentiment": "danger"
       }
     ],
