@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T04:57:14.475Z",
+    "generated_at": "2026-08-01T07:33:55.463Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Mediator Pakistan says US-Iran talks continue despite renewed strikes",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/mediator-pakistan-says-us-iran-talks-continue-despite-renewed-strikes-225039",
-        "published": "2026-07-31T04:56:23Z",
+        "title": "The ministers’ quiet holidays (K.M.’s “I am not reshuffling the cabinet”), Nikos A., Alexis and the oligarch sponsors (well, what on earth is this?), “Ms Gratsia, here”",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/07/31/the-ministers-quiet-holidays-k-m-s-i-am-not-reshuffling-the-cabinet-nikos-a-alexis-and-the-oligarch-sponsors-well-what-on-earth-is-this-ms-gratsi/",
+        "published": "2026-07-31T07:08:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Wintermar Offshore (WINS:JK) Reports 1H2026 Results",
+        "source": "Antaranews.com",
+        "url": "https://en.antaranews.com/news/424821/wintermar-offshore-winsjk-reports-1h2026-results",
+        "published": "2026-07-31T07:01:07Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Crude oil futures fall 3% to ₹7,811/barrel amid easing supply concerns",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-fall-3-to-7811barrel-amid-easing-supply-concerns/article71289334.ece",
+        "published": "2026-07-31T06:55:04Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/31/us-iran-war-trump-hormuz.html",
+        "published": "2026-07-31T06:44:06Z",
         "sentiment": "danger"
       },
       {
-        "title": "Major oil companies likely booked large profits due to US-Iran conflict",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/oil-companies-profits-exxon-chevron-9375fbf8f6f40426f7428e07d54000c7",
-        "published": "2026-07-31T04:17:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Hormuz Energy Crisis becomes the Red Sea Crisis (Juan Cole and Ian Masters)",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/07/hormuz-becomes-masters.html",
-        "published": "2026-07-31T04:15:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil companies are expected to reap big profits because of US-Iran conflict",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/oil-companies-expected-reap-big-profits-us-iran-135250080",
-        "published": "2026-07-31T04:06:18Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil companies are expected to reap big profits because of US-Iran conflict",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/oil-companies-expected-reap-big-profits-us-iran-135250083",
-        "published": "2026-07-31T04:06:13Z",
+        "title": "What salary do you need to live comfortably in Hawaii?",
+        "source": "Lifesciencesworld.com",
+        "url": "https://www.lifesciencesworld.com/what-salary-do-you-need-to-live-comfortably-in-hawaii/",
+        "published": "2026-07-31T06:38:39Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Will “hornet’s nest” strategy really make Taiwan Strait safer, serve U.S. interests?",
+        "source": "Peoplesreview.com.np",
+        "url": "https://peoplesreview.com.np/2026/07/31/will-hornets-nest-strategy-really-make-taiwan-strait-safer-serve-u-s-interests/",
+        "published": "2026-07-31T06:50:24Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Hormuz Energy Crisis becomes the Red Sea Crisis (Juan Cole and Ian Masters)",
         "source": "Juancole.com",
@@ -90,13 +97,6 @@
         "url": "https://www.theamericanconservative.com/the-iran-war-is-lose-lose/",
         "published": "2026-07-30T04:05:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Silicon Motion Announces Results for the Quarterly Period Ended June 30, 2026",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/07/29/3335673/9885/en/Silicon-Motion-Announces-Results-for-the-Quarterly-Period-Ended-June-30-2026.html",
-        "published": "2026-07-29T22:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
