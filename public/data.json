@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T16:32:24.414Z",
+    "generated_at": "2026-08-01T17:44:40.951Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump Holds Cabinet Meeting at Camp David as Widening Iran War Shows No Sign of Ending Any Time Soon",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/trump-camp-david-cabinet-meeting-iran-conflict-1873311",
-        "published": "2026-07-31T16:31:58Z",
+        "title": "Oil spill from shadow fleet tanker spreads off Oman, threatens Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oil-spill-from-shadow-fleet-tanker-spreads-off-oman-threatens-strait-of-hormuz/",
+        "published": "2026-07-31T17:43:43Z",
         "sentiment": "danger"
       },
       {
-        "title": "Newly Upgraded Oil-Tightï¼VEVOR Metal Fuel Container, 5.3 Gallon, Fuel Jerry Can with Spout and Comfort Handle $40.91 (4 replies)",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19829268-newly-upgraded-oil-tight-vevor-metal-fuel-container-5-3-gallon-fuel-jerry-can-with-spout-and-comfort-handle-40-91",
-        "published": "2026-07-31T16:29:46Z",
+        "title": "U.S. GDP growth slowed to 1.5% in Q2 2026 amid Iran war",
+        "source": "Quartz India",
+        "url": "https://qz.com/us-gdp-second-quarter-2026-iran-war-energy-073126",
+        "published": "2026-07-31T17:34:58Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "DremGara 8 x 18-Foot Garage Floor Mat for $90 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Drem-Gara-8-x-18-Foot-Garage-Floor-Mat-for-90-free-shipping-w-Prime/21953000.html",
+        "published": "2026-07-31T17:20:42Z",
         "sentiment": "watch"
       },
       {
-        "title": "UAE to Overhaul How It Prices All Crude Oil After Big Swings",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/uae-to-overhaul-how-it-prices-all-crude-oil-after-big-swings",
-        "published": "2026-07-31T16:16:13Z",
-        "sentiment": "watch"
+        "title": "Oil prices set to spike again after more Strait of Hormuz disruptions, Red Sea attacks",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/07/31/world-news/oil-prices-set-to-spike-again-as-middle-east-supply-disruptions-continue/",
+        "published": "2026-07-31T16:54:37Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Saudis Push Maritime Coalition as Oil Finds Support",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Saudis-Push-Maritime-Coalition-as-Oil-Finds-Support.html",
-        "published": "2026-07-31T16:15:56Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudis Push Maritime Coalition as Oil Finds Support",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/saudis-push-maritime-coalition-oil-161556456.html",
-        "published": "2026-07-31T16:15:56Z",
-        "sentiment": "watch"
+        "title": "Exxon and Chevron are having a ‘very good crisis’ reaping massive profits during the Iran war",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/0278b0673ee2f800",
+        "published": "2026-07-31T16:49:20Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
