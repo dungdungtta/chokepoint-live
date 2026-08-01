@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T21:10:28.761Z",
+    "generated_at": "2026-08-01T22:12:35.492Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "2006 Yamaha YZF-R1 LE at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/2006-yamaha-r1-le-2/",
+        "published": "2026-07-31T22:01:01Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "1966 Chevrolet Corvette Convertible L36 427/390 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1966-chevrolet-corvette-convertible-323/",
+        "published": "2026-07-31T21:47:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "1996 Moto Guzzi California 1100i w/N-Line Trailer at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1996-moto-guzzi-california-1100i/",
+        "published": "2026-07-31T21:21:47Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Brent Caps Strongest Month Since March",
         "source": "Rigzone",
         "url": "https://www.rigzone.com/news/wire/brent_caps_strongest_month_since_march-31-jul-2026-184273-article/",
@@ -38,27 +59,6 @@
         "source": "Bringatrailer.com",
         "url": "https://bringatrailer.com/listing/1963-chevrolet-corvette-coupe-249/",
         "published": "2026-07-31T20:40:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Abqaiq Is a Warning That Oil Markets May Be Misreading",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Abqaiq-Is-a-Warning-That-Oil-Markets-May-Be-Misreading.html",
-        "published": "2026-07-31T20:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Saudi Arabia Proposes ‘Maritime Defense Coalition’ for Red Sea",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/07/31/saudi-arabia-proposes-maritime-defense-coalition-for-red-sea/",
-        "published": "2026-07-31T19:52:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "‘Significant Shrinking’ in Crude Cushion In Coming Months – Vortexa",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/significant-shrinking-in-crude-cushion-in-coming-month-vortexa/",
-        "published": "2026-07-31T19:38:34Z",
         "sentiment": "watch"
       }
     ],
