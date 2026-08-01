@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T14:01:31.486Z",
+    "generated_at": "2026-08-01T15:28:59.539Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil rises as traders assess shipping flows; monthly gains in sight",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/news/oil-falls-more-1-greater-030001809.html",
-        "published": "2026-07-31T13:53:27Z",
+        "title": "Europe’s Shrinking Rivers Curb Power Output, Transport and Company Earnings",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/europes-shrinking-rivers-curb-power-output-transport-and-company-earnings/",
+        "published": "2026-07-31T15:11:03Z",
         "sentiment": "watch"
       },
       {
-        "title": "Riyadh plans maritime alliance to protect vital shipping routes",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/ddef4c4566cf4df9",
-        "published": "2026-07-31T13:31:54Z",
+        "title": "AI lifts Q1 global trade despite West Asia conflict: WTO",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/ai-lifts-q1-global-trade-despite-west-asia-conflict-wto/article71290999.ece",
+        "published": "2026-07-31T15:08:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "ExxonMobil and Chevron profits quadruple amid Iran war as oil tops $112, reigniting inflation hedge debate",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/exxon-chevron-profits-quadruple-iran-war-crypto/",
-        "published": "2026-07-31T13:25:40Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Great Clips $5 off Haircut Coupon: $5 off + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Great-Clips-5-off-Haircut-Coupon-5-off-free-shipping/21952901.html",
-        "published": "2026-07-31T13:22:36Z",
+        "title": "US Treasury Sanctions Iranian Firms Taking Bitcoin for Hormuz Passage",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/374789/us-treasury-sanctions-iranian-firms-taking-bitcoin-for-hormuz-passage",
+        "published": "2026-07-31T15:05:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "Space-Eyes, backed by Eric Trump, plans a $638m SPAC debut",
-        "source": "The Next Web",
-        "url": "https://thenextweb.com/news/eric-trump-space-eyes-638m-spac-defence/",
-        "published": "2026-07-31T13:16:33Z",
+        "title": "Oil Spill from Shadow Fleet Tanker Spreading Off Oman, Satellite Images Show",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/oil-spill-from-shadow-fleet-tanker-spreading-off-oman-satellite-images-show/",
+        "published": "2026-07-31T15:05:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Wall Street gains on tech earnings; bond yields hit multi-year highs",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/wall-street-gains-tech-earnings-bond-yields-hit-multi-year-highs-6289901",
+        "published": "2026-07-31T15:03:58Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump’s Pacific Islands Blind Spot",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/07/31/pacific-islands-trump-geopolitics-china-oceania/",
+        "published": "2026-07-31T14:20:25Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Will “hornet’s nest” strategy really make Taiwan Strait safer, serve U.S. interests?",
         "source": "Peoplesreview.com.np",
@@ -89,13 +96,6 @@
         "source": "The Conversation Africa",
         "url": "https://theconversation.com/defining-a-normal-country-japans-long-struggle-between-pacifism-and-the-threats-of-a-new-era-283891",
         "published": "2026-07-30T20:09:11Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The Iran War Is Lose-Lose",
-        "source": "The American Conservative",
-        "url": "https://www.theamericanconservative.com/the-iran-war-is-lose-lose/",
-        "published": "2026-07-30T04:05:00Z",
         "sentiment": "danger"
       }
     ],
