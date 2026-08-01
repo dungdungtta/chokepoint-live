@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T07:33:55.463Z",
+    "generated_at": "2026-08-01T09:44:56.357Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "The ministers’ quiet holidays (K.M.’s “I am not reshuffling the cabinet”), Nikos A., Alexis and the oligarch sponsors (well, what on earth is this?), “Ms Gratsia, here”",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/07/31/the-ministers-quiet-holidays-k-m-s-i-am-not-reshuffling-the-cabinet-nikos-a-alexis-and-the-oligarch-sponsors-well-what-on-earth-is-this-ms-gratsi/",
-        "published": "2026-07-31T07:08:17Z",
+        "title": "Saudi Arabia, 13 countries establish multinational maritime defense coalition for Bab al-Mandab",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260731-azertac01.htm",
+        "published": "2026-07-31T09:35:06Z",
         "sentiment": "watch"
       },
       {
-        "title": "Wintermar Offshore (WINS:JK) Reports 1H2026 Results",
-        "source": "Antaranews.com",
-        "url": "https://en.antaranews.com/news/424821/wintermar-offshore-winsjk-reports-1h2026-results",
-        "published": "2026-07-31T07:01:07Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Crude oil futures fall 3% to ₹7,811/barrel amid easing supply concerns",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-fall-3-to-7811barrel-amid-easing-supply-concerns/article71289334.ece",
-        "published": "2026-07-31T06:55:04Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/31/us-iran-war-trump-hormuz.html",
-        "published": "2026-07-31T06:44:06Z",
+        "title": "Euro-Area Inflation Strengthens as US-Iran Strikes Boost Oil",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/euro-area-inflation-strengthens-as-us-iran-strikes-boost-oil",
+        "published": "2026-07-31T09:21:51Z",
         "sentiment": "danger"
       },
       {
-        "title": "What salary do you need to live comfortably in Hawaii?",
-        "source": "Lifesciencesworld.com",
-        "url": "https://www.lifesciencesworld.com/what-salary-do-you-need-to-live-comfortably-in-hawaii/",
-        "published": "2026-07-31T06:38:39Z",
+        "title": "IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events",
+        "published": "2026-07-31T09:09:54Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Indian Oil to hire dedicated vessel to ferry LPG cylinders from Sri Vijaya Puram to all islands",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indian-oil-to-hire-dedicated-vessel-to-ferry-lpg-cylinders-from-sri-vijaya-puram-to-all-islands/articleshow/132762046.cms",
+        "published": "2026-07-31T08:51:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Nikkei Jumps 2,494 Points as BOJ Hold and AI Rebound Lift Tokyo",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150195.php",
+        "published": "2026-07-31T07:46:40Z",
         "sentiment": "watch"
       }
     ],
