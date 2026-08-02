@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-02T15:12:08.455Z",
+    "generated_at": "2026-08-02T16:16:04.138Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "U.S. Warns its Citizens to Leave Middle East Citing ‘Unforeseen Escalation’ With Iran",
+        "source": "Legalinsurrection.com",
+        "url": "https://legalinsurrection.com/2026/08/u-s-warns-its-citizens-to-leave-middle-east-citing-unforeseen-escalation-with-iran/",
+        "published": "2026-08-01T16:00:33Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "“Guardian of the Strait”, World Cup Scripts, Millisecond Trades, and the Controlled Sinking of Global Shipping",
+        "source": "Activistpost.com",
+        "url": "https://www.activistpost.com/guardian-of-the-strait-world-cup-scripts-millisecond-trades-and-the-controlled-sinking-of-global-shipping/",
+        "published": "2026-08-01T16:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Hoping for Lower Prices at the Gas Pump? After Exxon Doubles Profits, CEO Darren Woods Says ‘I Wouldn’t Hold My Breath.’",
+        "source": "Barchart.com",
+        "url": "https://www.barchart.com/story/news/3595009/hoping-for-lower-prices-at-the-gas-pump-after-exxon-doubles-profits-ceo-darren-woods-says-i-wouldnt-hold-my-breath",
+        "published": "2026-08-01T15:15:02Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US Mission to UAE urges Americans to consider leaving as Middle East tensions ratchet higher",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/us-uae-advisory-middle-east-crypto-impact/",
@@ -38,27 +59,6 @@
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/italian-frigate-escorts-merchant-vessel-safely-through-red-sea/",
         "published": "2026-08-01T14:37:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Walker Edison Modular Solid Acacia Chair & Ottoman Set for $89 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Walker-Edison-Modular-Solid-Acacia-Chair-Ottoman-Set-for-89-free-shipping/21956054.html",
-        "published": "2026-08-01T13:13:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Turkey Said to Extend Iraq Oil Pipeline Deal by One Year",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/turkey-said-to-extend-iraq-oil-pipeline-deal-by-one-year",
-        "published": "2026-08-01T12:22:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "UAE to Overhaul How It Prices All Crude Oil",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/uae_to_overhaul_how_it_prices_all_crude_oil-01-aug-2026-184272-article/",
-        "published": "2026-08-01T12:00:01Z",
         "sentiment": "watch"
       }
     ],
