@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-02T21:06:40.164Z",
+    "generated_at": "2026-08-02T22:11:52.149Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump threatens more strikes on Iran",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-08-02/donald-trump-threatens-more-strikes-on-iran/106987064",
+        "published": "2026-08-01T21:58:53Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Disruptions on multiple fronts put oil markets on the brink",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/08/disruptions-multiple-fronts-put-oil-markets-brink/",
+        "published": "2026-08-01T21:56:35Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran threatens infrastructure retaliation as geopolitical risk clouds crypto markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-infrastructure-threat-bitcoin-crypto-markets/",
+        "published": "2026-08-01T21:11:25Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "US urges its citizens in Middle East to be ready to leave in case of escalation in region",
         "source": "BBC News",
         "url": "https://www.bbc.co.uk/news/articles/cgk4nyr0j73o",
@@ -38,20 +59,6 @@
         "source": "Abcnews.com",
         "url": "https://abcnews.com/Business/wireStory/oil-leak-spreads-sanctioned-tanker-grounded-off-oman-135291674",
         "published": "2026-08-01T20:45:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran mobilizes proxies to disrupt shipping, pressure US in 2026 conflict",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-mobilizes-proxies-to-disrupt-shipping-pressure-us-in-2026-conflict/",
-        "published": "2026-08-01T20:07:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Satellite images reveal oil leaking from a sanctioned tanker near Oman",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/oil-tanker-spill-environment-russia-oman-marine-7dff0e9aa32a4dad4207fe5ced3697fa",
-        "published": "2026-08-01T19:48:12Z",
         "sentiment": "watch"
       }
     ],
