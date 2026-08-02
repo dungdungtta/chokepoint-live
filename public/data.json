@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-02T18:43:39.206Z",
+    "generated_at": "2026-08-02T19:59:47.110Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Satellite images reveal oil leaking from a sanctioned tanker near Oman",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/oil-tanker-spill-environment-russia-oman-marine-7dff0e9aa32a4dad4207fe5ced3697fa",
+        "published": "2026-08-01T19:48:12Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iraq and Turkey strike a 1-year oil pipeline deal to boost exports during ongoing Hormuz closures",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/efc04654b5c15ee7",
@@ -38,13 +45,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/israel-defense-alert-iran-us-strikes-crypto/",
         "published": "2026-08-01T17:54:09Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Welcome to the mega-war: Mideast and European conflicts merge, sucking in more countries along the way—even ones claiming neutrality",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/08/01/iran-ukraine-mega-war-mideast-european-conflicts-merge-russia-nato-egypt-saudi-coalition/",
-        "published": "2026-08-01T17:24:46Z",
         "sentiment": "danger"
       }
     ],
