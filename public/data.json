@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-02T17:34:47.722Z",
+    "generated_at": "2026-08-02T18:43:39.206Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,25 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iraq and Turkey strike a 1-year oil pipeline deal to boost exports during ongoing Hormuz closures",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/efc04654b5c15ee7",
+        "published": "2026-08-01T18:01:13Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Israel raises defense alert level amid reports of potential US strikes on Iran, rattling crypto markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/israel-defense-alert-iran-us-strikes-crypto/",
+        "published": "2026-08-01T17:54:09Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Welcome to the mega-war: Mideast and European conflicts merge, sucking in more countries along the way—even ones claiming neutrality",
         "source": "Fortune",
         "url": "https://fortune.com/2026/08/01/iran-ukraine-mega-war-mideast-european-conflicts-merge-russia-nato-egypt-saudi-coalition/",
         "published": "2026-08-01T17:24:46Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Saudi Arabia Surrounded And Threats Closing in...",
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/iran-has-surrounded-saudi-arabia-and-threats-are-closing-in-12266153",
-        "published": "2026-08-01T17:00:16Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S. Warns its Citizens to Leave Middle East Citing ‘Unforeseen Escalation’ With Iran",
-        "source": "Legalinsurrection.com",
-        "url": "https://legalinsurrection.com/2026/08/u-s-warns-its-citizens-to-leave-middle-east-citing-unforeseen-escalation-with-iran/",
-        "published": "2026-08-01T16:00:33Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "“Guardian of the Strait”, World Cup Scripts, Millisecond Trades, and the Controlled Sinking of Global Shipping",
-        "source": "Activistpost.com",
-        "url": "https://www.activistpost.com/guardian-of-the-strait-world-cup-scripts-millisecond-trades-and-the-controlled-sinking-of-global-shipping/",
-        "published": "2026-08-01T16:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hoping for Lower Prices at the Gas Pump? After Exxon Doubles Profits, CEO Darren Woods Says ‘I Wouldn’t Hold My Breath.’",
-        "source": "Barchart.com",
-        "url": "https://www.barchart.com/story/news/3595009/hoping-for-lower-prices-at-the-gas-pump-after-exxon-doubles-profits-ceo-darren-woods-says-i-wouldnt-hold-my-breath",
-        "published": "2026-08-01T15:15:02Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
