@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-02T10:53:14.419Z",
+    "generated_at": "2026-08-02T12:09:08.073Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
+        "title": "UAE to Overhaul How It Prices All Crude Oil",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/uae_to_overhaul_how_it_prices_all_crude_oil-01-aug-2026-184272-article/",
+        "published": "2026-08-01T12:00:01Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Kuwait Says Air Defenses Engage Iranian Drones As 2 Tanker Incidents Reported Off Oman",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260801-rferl06.htm",
+        "published": "2026-08-01T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Gold crashes from $5,500 to $4,160 since the Iran conflict began, but experts see a massive buying opportunity",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/commodities/articles/gold-crashes-5-500-4-110500568.html",
+        "published": "2026-08-01T11:05:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Links 8/1/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/links-8-1-2026.html",
+        "published": "2026-08-01T10:55:41Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran warns neighbors against being US 'defensive shield'",
         "source": "DW (English)",
         "url": "https://www.dw.com/en/iran-warns-neighbors-against-being-us-defensive-shield/live-78201442",
         "published": "2026-08-01T10:44:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "10 Ways To Automate Your Small Business’ Marketing, And Which Tools To Use",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/small-business/article/how-to-automate-small-business-marketing-with-ai-tools/",
-        "published": "2026-08-01T10:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Indian Oil Buys Record Spot Market Crude on Mideast Supply Hit",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/indian-oil-buys-record-spot-market-crude-on-mideast-supply-hit",
-        "published": "2026-08-01T10:29:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
-        "published": "2026-08-01T10:10:40Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "War in Ukraine: Why Crimea has become a strategic target",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/war-in-ukraine-why-crimea-has-become-a-strategic-target/a-78197135",
-        "published": "2026-08-01T10:03:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Shock wave",
+        "source": "Defense One",
+        "url": "https://www.defenseone.com/ideas/2026/08/shock-wave-fictional-intelligence/415158/",
+        "published": "2026-08-01T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Bipartisan U.S. House delegation meets foreign minister in Taipei",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260801-cna01.htm",
+        "published": "2026-08-01T12:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China Coast Guard Patrols Waters East of Taiwan, Angering Taipei",
         "source": "gcaptain.com",
@@ -82,20 +96,6 @@
         "source": "Peoplesreview.com.np",
         "url": "https://peoplesreview.com.np/2026/07/31/will-hornets-nest-strategy-really-make-taiwan-strait-safer-serve-u-s-interests/",
         "published": "2026-07-31T06:50:24Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Hormuz Energy Crisis becomes the Red Sea Crisis (Juan Cole and Ian Masters)",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/07/hormuz-becomes-masters.html",
-        "published": "2026-07-31T04:15:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Me, Me, Me Presidency",
-        "source": "Lewrockwell.com",
-        "url": "https://www.lewrockwell.com/2026/07/no_author/the-me-me-me-presidency/",
-        "published": "2026-07-31T04:01:00Z",
         "sentiment": "watch"
       }
     ],
