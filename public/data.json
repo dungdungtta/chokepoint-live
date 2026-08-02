@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-02T09:14:19.196Z",
+    "generated_at": "2026-08-02T10:53:14.419Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Gross GST collection rose over 15% in July",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/gross-gst-collection-rose-over-15-in-july/article71293937.ece",
-        "published": "2026-08-01T08:48:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Kuwait Intercepts Iranian Drones as Trump Weighs Fresh Strikes",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/kuwait-intercepts-iranian-drones-as-trump-weighs-fresh-strikes",
-        "published": "2026-08-01T08:36:50Z",
+        "title": "Iran warns neighbors against being US 'defensive shield'",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/iran-warns-neighbors-against-being-us-defensive-shield/live-78201442",
+        "published": "2026-08-01T10:44:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Indian Oil rules out shift from Gulf crude despite regional conflict",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indian-oil-rules-out-shift-from-gulf-crude-despite-regional-conflict/articleshow/132785229.cms",
-        "published": "2026-08-01T08:13:01Z",
+        "title": "10 Ways To Automate Your Small Business’ Marketing, And Which Tools To Use",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/small-business/article/how-to-automate-small-business-marketing-with-ai-tools/",
+        "published": "2026-08-01T10:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran's overlapping power centers make ending the war more complicated",
+        "title": "Indian Oil Buys Record Spot Market Crude on Mideast Supply Hit",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/indian-oil-buys-record-spot-market-crude-on-mideast-supply-hit",
+        "published": "2026-08-01T10:29:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html",
-        "published": "2026-08-01T06:52:42Z",
+        "url": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
+        "published": "2026-08-01T10:10:40Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "War in Ukraine: Why Crimea has become a strategic target",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/war-in-ukraine-why-crimea-has-become-a-strategic-target/a-78197135",
+        "published": "2026-08-01T10:03:00Z",
         "sentiment": "danger"
       }
     ],
