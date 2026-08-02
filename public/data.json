@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-02T19:59:47.110Z",
+    "generated_at": "2026-08-02T21:06:40.164Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,25 +27,32 @@
   "news": {
     "hormuz": [
       {
+        "title": "US urges its citizens in Middle East to be ready to leave in case of escalation in region",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cgk4nyr0j73o",
+        "published": "2026-08-01T21:05:54Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil leak spreads from a sanctioned tanker grounded off Oman, images show",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/oil-leak-spreads-sanctioned-tanker-grounded-off-oman-135291674",
+        "published": "2026-08-01T20:45:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran mobilizes proxies to disrupt shipping, pressure US in 2026 conflict",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-mobilizes-proxies-to-disrupt-shipping-pressure-us-in-2026-conflict/",
+        "published": "2026-08-01T20:07:06Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Satellite images reveal oil leaking from a sanctioned tanker near Oman",
         "source": "Associated Press",
         "url": "https://apnews.com/article/oil-tanker-spill-environment-russia-oman-marine-7dff0e9aa32a4dad4207fe5ced3697fa",
         "published": "2026-08-01T19:48:12Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iraq and Turkey strike a 1-year oil pipeline deal to boost exports during ongoing Hormuz closures",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/efc04654b5c15ee7",
-        "published": "2026-08-01T18:01:13Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Israel raises defense alert level amid reports of potential US strikes on Iran, rattling crypto markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/israel-defense-alert-iran-us-strikes-crypto/",
-        "published": "2026-08-01T17:54:09Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
