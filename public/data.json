@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-02T13:58:44.724Z",
+    "generated_at": "2026-08-02T15:12:08.455Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "US Mission to UAE urges Americans to consider leaving as Middle East tensions ratchet higher",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-uae-advisory-middle-east-crypto-impact/",
+        "published": "2026-08-01T14:42:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Italian Frigate Escorts Merchant Vessel Safely Through Red Sea",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/italian-frigate-escorts-merchant-vessel-safely-through-red-sea/",
+        "published": "2026-08-01T14:37:09Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Walker Edison Modular Solid Acacia Chair & Ottoman Set for $89 + free shipping",
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/Walker-Edison-Modular-Solid-Acacia-Chair-Ottoman-Set-for-89-free-shipping/21956054.html",
@@ -45,20 +59,6 @@
         "source": "Rigzone",
         "url": "https://www.rigzone.com/news/wire/uae_to_overhaul_how_it_prices_all_crude_oil-01-aug-2026-184272-article/",
         "published": "2026-08-01T12:00:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Kuwait Says Air Defenses Engage Iranian Drones As 2 Tanker Incidents Reported Off Oman",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260801-rferl06.htm",
-        "published": "2026-08-01T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Gold crashes from $5,500 to $4,160 since the Iran conflict began, but experts see a massive buying opportunity",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/commodities/articles/gold-crashes-5-500-4-110500568.html",
-        "published": "2026-08-01T11:05:00Z",
         "sentiment": "watch"
       }
     ],
