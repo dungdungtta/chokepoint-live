@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-02T22:11:52.149Z",
+    "generated_at": "2026-08-02T23:15:12.170Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran threatens to strike other nations' energy fields if US launches fresh attacks",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/iran-threatens-strike-other-nations-energy-fields-if-us-launches-fresh-attacks-6293236",
+        "published": "2026-08-01T22:51:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Tanker hit by projectile, explosion near vessel in Strait of Hormuz: UKMTO",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/tanker-hit-by-projectile-explosion-near-vessel-in-strait-of-hormuz-ukmto/",
+        "published": "2026-08-01T22:37:15Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran Vows to Hit U.S. Energy Assets: Hacks Water Plants in attempt to Poison Water in 7 States",
+        "source": "Offgridsurvival.com",
+        "url": "https://offgridsurvival.com/iran-vows-to-hit-u-s-energy-assets-hacks-water-plants-in-attempt-to-poison-water-in-7-states/",
+        "published": "2026-08-01T22:18:32Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump threatens more strikes on Iran",
         "source": "ABC News (AU)",
         "url": "https://www.abc.net.au/news/2026-08-02/donald-trump-threatens-more-strikes-on-iran/106987064",
@@ -38,27 +59,6 @@
         "source": "Wnd.com",
         "url": "https://www.wnd.com/2026/08/disruptions-multiple-fronts-put-oil-markets-brink/",
         "published": "2026-08-01T21:56:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran threatens infrastructure retaliation as geopolitical risk clouds crypto markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-infrastructure-threat-bitcoin-crypto-markets/",
-        "published": "2026-08-01T21:11:25Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US urges its citizens in Middle East to be ready to leave in case of escalation in region",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cgk4nyr0j73o",
-        "published": "2026-08-01T21:05:54Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil leak spreads from a sanctioned tanker grounded off Oman, images show",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/oil-leak-spreads-sanctioned-tanker-grounded-off-oman-135291674",
-        "published": "2026-08-01T20:45:13Z",
         "sentiment": "watch"
       }
     ],
