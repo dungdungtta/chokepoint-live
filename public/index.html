@@ -913,6 +913,9 @@ function highlightConnected(id){
 function resetMarkers(){
   NODES.forEach(n=>leafletMarkers[n.id].setIcon(makeIcon(n,false)));
 }
+function updateMarkers(){
+  NODES.forEach(n=>leafletMarkers[n.id]?.setIcon(makeIcon(n,false)));
+}
 
 // ── ZONE FILTER ─────────────────────────────────────────────────
 function filterZone(zone,btn){
@@ -1357,7 +1360,7 @@ async function loadLiveData(){
 }
 
 function applyLiveData(data){
-  const {indicators, news, thresholds, meta} = data;
+  const {indicators, news, thresholds, meta, zones} = data;
   const brentAlert = thresholds?.brent_alert || 110;
 
   // ── 상단 바 업데이트 ──────────────────────────────────────
@@ -1373,18 +1376,16 @@ function applyLiveData(data){
     }
   }
 
-  // [1] 헬륨 재고 — change_pct로 위험도 표시
-  if(indicators?.helium){
+  // [1] 헬륨 재고 색상
+  if(indicators?.helium?.change_pct != null){
     const helEl = document.getElementById('stat-helium');
     if(helEl){
       const chg = indicators.helium.change_pct;
-      // EU nat-gas proxy: 57.9% 급등 = 헬륨 공급 압박 심화
       helEl.className = 'tsv ' + (chg > 30 ? 'danger' : chg > 10 ? 'warn' : 'ok');
-      // 값은 유지 (실제 헬륨 재고일 데이터 없음 — proxy 한계 명시)
     }
   }
 
-  // [3] Red Sea WRS — freight_index로 대리
+  // [3] Red Sea WRS — freight_index
   if(indicators?.freight?.freight_index){
     const wrsEl = statEls[3]?.querySelector('.tsv');
     if(wrsEl){
@@ -1394,16 +1395,12 @@ function applyLiveData(data){
     }
   }
 
-  // ── 사이드 패널 stat 카드 업데이트 ───────────────────────
-  // scVals[0]=Helium Buffer, [1]=Oil, [2]=Samsung Stock, [3]=Q1 Op.Profit
+  // ── 사이드 패널 Oil stat 카드 ─────────────────────────────
   const scVals = document.querySelectorAll('.sc-val');
-
-  // [1] Oil — Brent 실시간
   if(indicators?.brent?.price && scVals[1]){
     const brent = indicators.brent.price;
     scVals[1].textContent = '$'+brent;
     scVals[1].style.color = brent > brentAlert ? 'var(--red)' : 'var(--amber)';
-    // Oil 카드 label에 변동률 표시
     if(indicators.brent.change_pct != null){
       const chg = indicators.brent.change_pct;
       const oilLabel = scVals[1].closest('.stat-card')?.querySelector('.sc-label');
@@ -1422,6 +1419,25 @@ function applyLiveData(data){
         brentStat.n = (chg >= 0 ? '+' : '')+chg.toFixed(1)+'% YTD';
       }
     }
+  }
+
+  // ── 존 자동 분류 반영 ─────────────────────────────────────
+  if(zones){
+    const zoneLabels = {
+      red:    'RED · Active',
+      amber:  'AMBER · Elevated',
+      yellow: 'YELLOW · Watch',
+    };
+    NODES.forEach(node => {
+      const newZone = zones[node.id];
+      if(newZone && newZone !== node.zone){
+        console.log(`[Zone] ${node.id}: ${node.zone} → ${newZone}`);
+        node.zone = newZone;
+        node.zoneLabel = zoneLabels[newZone] || newZone.toUpperCase();
+      }
+    });
+    // 마커 색상 즉시 갱신
+    if(typeof updateMarkers === 'function') updateMarkers();
   }
 
   // ── 마지막 갱신 시각 표시 ─────────────────────────────────
