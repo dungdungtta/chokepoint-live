@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T17:26:16.457Z",
+    "generated_at": "2026-08-03T19:07:51.685Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "White House Weighs Extending Jones Act Waiver as Oil Prices Remain Elevated",
+        "source": "Legalinsurrection.com",
+        "url": "https://legalinsurrection.com/2026/08/white-house-weighs-extending-jones-act-waiver-as-oil-prices-remain-elevated/",
+        "published": "2026-08-02T18:00:06Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Chevron CEO warns Iran conflict threatens global oil supplies, gas prices climb",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/chevron-ceo-warns-iran-conflict-threatens-global-oil-supplies-gas-prices-climb/",
@@ -52,13 +59,6 @@
         "source": "BusinessLine",
         "url": "https://www.thehindubusinessline.com/economy/rbi-mpc-likely-to-stay-on-hold-amid-inflation-risks-global-uncertainty/article71297831.ece",
         "published": "2026-08-02T15:26:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Italian navy boards Russian tanker in international waters, raising questions about sanctions enforcement and shadow fleet economics",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/italian-navy-boards-russian-tanker-sanctions/",
-        "published": "2026-08-02T13:52:09Z",
         "sentiment": "watch"
       }
     ],
