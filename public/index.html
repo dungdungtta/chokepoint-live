@@ -1358,60 +1358,68 @@ async function loadLiveData(){
 
 function applyLiveData(data){
   const {indicators, news, thresholds, meta} = data;
+  const brentAlert = thresholds?.brent_alert || 110;
 
   // ── 상단 바 업데이트 ──────────────────────────────────────
   const statEls = document.querySelectorAll('.top-stat');
 
-  // Brent 유가 (topbar stat[0])
+  // [0] Brent 유가
   if(indicators?.brent?.price){
-    const brent   = indicators.brent.price;
+    const brent = indicators.brent.price;
     const brentEl = statEls[0]?.querySelector('.tsv');
     if(brentEl){
       brentEl.textContent = '$'+brent;
-      brentEl.className = 'tsv ' + (brent > (thresholds?.brent_alert||110) ? 'danger' : 'warn');
+      brentEl.className = 'tsv ' + (brent > brentAlert ? 'danger' : 'warn');
     }
   }
 
-  // 헬륨 재고 (topbar stat[1]) — helium.price_index를 대리 지표로 표시
+  // [1] 헬륨 재고 — change_pct로 위험도 표시
   if(indicators?.helium){
-    const helEl = statEls[1]?.querySelector('.tsv');
+    const helEl = document.getElementById('stat-helium');
     if(helEl){
-      // price_index 57.9% 급등 → 재고 압박 상태 표시
-      const changePct = indicators.helium.change_pct;
-      helEl.className = 'tsv ' + (changePct > 30 ? 'danger' : changePct > 10 ? 'warn' : 'ok');
+      const chg = indicators.helium.change_pct;
+      // EU nat-gas proxy: 57.9% 급등 = 헬륨 공급 압박 심화
+      helEl.className = 'tsv ' + (chg > 30 ? 'danger' : chg > 10 ? 'warn' : 'ok');
+      // 값은 유지 (실제 헬륨 재고일 데이터 없음 — proxy 한계 명시)
     }
   }
 
-  // Red Sea WRS (topbar stat[3]) — freight_index로 대리
+  // [3] Red Sea WRS — freight_index로 대리
   if(indicators?.freight?.freight_index){
     const wrsEl = statEls[3]?.querySelector('.tsv');
-    if(wrsEl) wrsEl.textContent = (indicators.freight.freight_index / 100).toFixed(1)+'%';
+    if(wrsEl){
+      const fi = indicators.freight.freight_index;
+      wrsEl.textContent = fi.toFixed(0)+' idx';
+      wrsEl.className = 'tsv ' + (fi > 200 ? 'danger' : fi > 150 ? 'warn' : 'ok');
+    }
   }
 
   // ── 사이드 패널 stat 카드 업데이트 ───────────────────────
-  // card[0] = Helium Buffer, card[1] = Oil, card[2] = Samsung Stock, card[3] = Q1 Op. Profit
+  // scVals[0]=Helium Buffer, [1]=Oil, [2]=Samsung Stock, [3]=Q1 Op.Profit
   const scVals = document.querySelectorAll('.sc-val');
-  if(indicators?.brent?.price){
+
+  // [1] Oil — Brent 실시간
+  if(indicators?.brent?.price && scVals[1]){
     const brent = indicators.brent.price;
-    // Oil card
-    if(scVals[1]){
-      scVals[1].textContent = '$'+brent;
-      scVals[1].style.color = brent > (thresholds?.brent_alert||110) ? 'var(--red)' : 'var(--amber)';
-    }
-    // Oil card label 위 sc-label 업데이트
-    const oilLabel = scVals[1]?.closest('.stat-card')?.querySelector('.sc-label');
-    if(oilLabel && indicators.brent.change_pct){
+    scVals[1].textContent = '$'+brent;
+    scVals[1].style.color = brent > brentAlert ? 'var(--red)' : 'var(--amber)';
+    // Oil 카드 label에 변동률 표시
+    if(indicators.brent.change_pct != null){
       const chg = indicators.brent.change_pct;
-      oilLabel.textContent = 'Oil '+(chg>=0?'+':'')+chg.toFixed(1)+'%';
+      const oilLabel = scVals[1].closest('.stat-card')?.querySelector('.sc-label');
+      if(oilLabel) oilLabel.textContent = 'Oil '+(chg >= 0 ? '+' : '')+chg.toFixed(1)+'%';
     }
-    // 호르무즈 노드 Brent stat 실시간 반영
-    const hormuzNode = NODES.find(n=>n.id==='hormuz');
+  }
+
+  // ── 호르무즈 NODES Brent stat 실시간 반영 ────────────────
+  if(indicators?.brent?.price){
+    const hormuzNode = NODES.find(n => n.id === 'hormuz');
     if(hormuzNode){
-      const brentStat = hormuzNode.stats.find(s=>s.l==='Brent Crude');
+      const brentStat = hormuzNode.stats?.find(s => s.l === 'Brent Crude');
       if(brentStat){
         const chg = indicators.brent.change_pct;
-        brentStat.v = '$'+brent+'/bbl';
-        brentStat.n = (chg>=0?'+':'')+chg.toFixed(1)+'% YTD';
+        brentStat.v = '$'+indicators.brent.price+'/bbl';
+        brentStat.n = (chg >= 0 ? '+' : '')+chg.toFixed(1)+'% YTD';
       }
     }
   }
@@ -1421,19 +1429,20 @@ function applyLiveData(data){
     const ts  = new Date(meta.generated_at);
     const ago = Math.round((Date.now()-ts)/60000);
     const existing = document.getElementById('live-ts');
-    if(existing) existing.textContent = '갱신 '+ago+'분 전';
-    else {
+    if(existing){
+      existing.textContent = '갱신 '+ago+'분 전';
+    } else {
       const el = document.createElement('div');
       el.id = 'live-ts';
       el.style.cssText = 'font-size:9px;color:var(--dim);font-family:var(--mono);margin-left:8px;flex-shrink:0;';
       el.textContent = '갱신 '+ago+'분 전';
-      document.getElementById('topbar').appendChild(el);
+      document.getElementById('topbar')?.appendChild(el);
     }
   }
 
   // ── Brent 임계값 경보 배너 ────────────────────────────────
-  if(indicators?.brent?.price > (thresholds?.brent_alert||110)){
-    showAlertBanner('⚠ Brent $'+indicators.brent.price+' — 경보 임계값 $'+(thresholds?.brent_alert||110)+' 초과');
+  if(indicators?.brent?.price > brentAlert){
+    showAlertBanner('⚠ Brent $'+indicators.brent.price+' — 경보 임계값 $'+brentAlert+' 초과');
   }
 
   // ── 뉴스 전역 저장 + 현재 열린 패널에 바로 반영 ─────────
