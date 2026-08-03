@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-02T23:15:12.170Z",
+    "generated_at": "2026-08-03T01:07:53.332Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran warns US against 'adventurous action'; threatens retaliation as Gulf tensions deepen",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-warns-us-against-adventurous-action-threatens-retaliation-as-gulf-tensions-deepen/articleshow/132798880.cms",
+        "published": "2026-08-02T00:38:26Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Iran threatens to strike other nations' energy fields if US launches fresh attacks",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/iran-threatens-strike-other-nations-energy-fields-if-us-launches-fresh-attacks-6293236",
-        "published": "2026-08-01T22:51:00Z",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/articles/iran-threatens-strike-other-nations-223317203.html",
+        "published": "2026-08-02T00:21:11Z",
         "sentiment": "danger"
       },
       {
-        "title": "Tanker hit by projectile, explosion near vessel in Strait of Hormuz: UKMTO",
+        "title": "Saudi Crown Prince MBS urges Trump to stand down on Iran as Bitcoin watches nervously",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/tanker-hit-by-projectile-explosion-near-vessel-in-strait-of-hormuz-ukmto/",
-        "published": "2026-08-01T22:37:15Z",
+        "url": "https://cryptobriefing.com/mbs-trump-iran-bitcoin-geopolitical-tensions/",
+        "published": "2026-08-02T00:03:10Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran Vows to Hit U.S. Energy Assets: Hacks Water Plants in attempt to Poison Water in 7 States",
-        "source": "Offgridsurvival.com",
-        "url": "https://offgridsurvival.com/iran-vows-to-hit-u-s-energy-assets-hacks-water-plants-in-attempt-to-poison-water-in-7-states/",
-        "published": "2026-08-01T22:18:32Z",
+        "title": "Saudi Arabia gearing up for major assault and possible ground invasion on Iranian-backed Houthis: report",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/01/world-news/saudi-arabia-gearing-up-for-major-assault-on-houthis/",
+        "published": "2026-08-01T23:56:56Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump threatens more strikes on Iran",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-08-02/donald-trump-threatens-more-strikes-on-iran/106987064",
-        "published": "2026-08-01T21:58:53Z",
+        "title": "Iran threatens energy retaliation over US strikes",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/0802/1586143-iran-us-strait/",
+        "published": "2026-08-01T23:28:49Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Disruptions on multiple fronts put oil markets on the brink",
-        "source": "Wnd.com",
-        "url": "https://www.wnd.com/2026/08/disruptions-multiple-fronts-put-oil-markets-brink/",
-        "published": "2026-08-01T21:56:35Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
