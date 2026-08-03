@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T01:07:53.332Z",
+    "generated_at": "2026-08-03T04:49:03.032Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran warns US against 'adventurous action'; threatens retaliation as Gulf tensions deepen",
+        "title": "Trump holds off on new strikes against Iran amid emerging 'deal'",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-08-02/donald-trump-holds-off-on-strikes-against-iran/106987644",
+        "published": "2026-08-02T04:32:56Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Will Nifty, Sensex extend gains on Monday? 6 factors which will drive D-Street action this week",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-warns-us-against-adventurous-action-threatens-retaliation-as-gulf-tensions-deepen/articleshow/132798880.cms",
-        "published": "2026-08-02T00:38:26Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran threatens to strike other nations' energy fields if US launches fresh attacks",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/articles/iran-threatens-strike-other-nations-223317203.html",
-        "published": "2026-08-02T00:21:11Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Saudi Crown Prince MBS urges Trump to stand down on Iran as Bitcoin watches nervously",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/mbs-trump-iran-bitcoin-geopolitical-tensions/",
-        "published": "2026-08-02T00:03:10Z",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-extend-gains-on-monday-6-factors-which-will-drive-d-street-action-this-week/articleshow/132800020.cms",
+        "published": "2026-08-02T03:39:37Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudi Arabia gearing up for major assault and possible ground invasion on Iranian-backed Houthis: report",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/01/world-news/saudi-arabia-gearing-up-for-major-assault-on-houthis/",
-        "published": "2026-08-01T23:56:56Z",
+        "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4390250/posts",
+        "published": "2026-08-02T03:12:52Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Turkey Said To Extend Iraq Oil Pipeline Deal By One Year",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/turkey-said-to-extend-iraq-oil-pipeline-deal-by-one-year/",
+        "published": "2026-08-02T02:57:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran threatens energy retaliation over US strikes",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/0802/1586143-iran-us-strait/",
-        "published": "2026-08-01T23:28:49Z",
+        "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cjwx74qgld2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "published": "2026-08-02T02:44:38Z",
         "sentiment": "danger"
       }
     ],
