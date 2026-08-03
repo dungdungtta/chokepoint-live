@@ -82,6 +82,27 @@ async function fetchDirect() {
       fetchNews("Malacca strait shipping piracy"),
     ]);
 
+  const brentData   = settled(brent,   { price: null, change_pct: null, unit: "USD/bbl" });
+  const freightData = settled(freight, { freight_index: null, unit: "index" });
+  const heliumData  = settled(helium,  { price_index: null, unit: "proxy" });
+  const hormuzNews  = settled(newsHormuz,  []);
+  const taiwanNews  = settled(newsTaiwan,  []);
+  const malaccaNews = settled(newsMalacca, []);
+
+  // ── 규칙 기반 존 자동 분류 ───────────────────────────────
+  const zones = classifyZones({
+    brent:   brentData,
+    freight: freightData,
+    helium:  heliumData,
+    news: {
+      hormuz:  hormuzNews,
+      taiwan:  taiwanNews,
+      malacca: malaccaNews,
+    },
+  });
+
+  console.log(`[Zones] 호르무즈:${zones.hormuz} 대만:${zones.taiwan} 말라카:${zones.malacca} 수에즈:${zones.suez} 파나마:${zones.panama} 한국:${zones.korea}`);
+
   return {
     meta: {
       generated_at: new Date().toISOString(),
@@ -89,21 +110,71 @@ async function fetchDirect() {
       ttl_seconds:  900,
     },
     indicators: {
-      brent:   settled(brent,   { price: null, change_pct: null, unit: "USD/bbl" }),
-      freight: settled(freight, { asia_europe: null, asia_us_wc: null, unit: "USD/FEU" }),
-      helium:  settled(helium,  { price_index: null, unit: "proxy" }),
+      brent:   brentData,
+      freight: freightData,
+      helium:  heliumData,
     },
     news: {
-      hormuz:  settled(newsHormuz,  []),
-      taiwan:  settled(newsTaiwan,  []),
-      malacca: settled(newsMalacca, []),
+      hormuz:  hormuzNews,
+      taiwan:  taiwanNews,
+      malacca: malaccaNews,
     },
+    zones,
     thresholds: {
       brent_alert:       110,
       wrs_alert:         1.5,
       helium_days_alert: 30,
     },
   };
+}
+
+// ── 규칙 기반 존 분류 ────────────────────────────────────────
+function classifyZones({ brent, freight, helium, news }) {
+  const brentPrice  = brent?.price         ?? 0;
+  const freightIdx  = freight?.freight_index ?? 0;
+  const heliumChg   = helium?.change_pct    ?? 0;
+
+  function dangerCount(articles) {
+    return (articles ?? []).filter(a => a.sentiment === "danger").length;
+  }
+
+  // ── 호르무즈 ──────────────────────────────────────────────
+  // Red: Brent>110 OR 뉴스 danger 3개+
+  // Amber: Brent>90 OR 뉴스 danger 1개+
+  const hormuzDanger = dangerCount(news.hormuz);
+  let hormuz = "yellow";
+  if (brentPrice > 110 || hormuzDanger >= 3) hormuz = "red";
+  else if (brentPrice > 90 || hormuzDanger >= 1) hormuz = "amber";
+
+  // ── 대만 해협 ─────────────────────────────────────────────
+  // Red: 뉴스 danger 3개+
+  // Amber: 뉴스 danger 1개+
+  const taiwanDanger = dangerCount(news.taiwan);
+  let taiwan = "yellow";
+  if (taiwanDanger >= 3) taiwan = "red";
+  else if (taiwanDanger >= 1) taiwan = "amber";
+
+  // ── 말라카 ────────────────────────────────────────────────
+  const malaccaDanger = dangerCount(news.malacca);
+  let malacca = "yellow";
+  if (malaccaDanger >= 3) malacca = "red";
+  else if (malaccaDanger >= 1) malacca = "amber";
+
+  // ── 수에즈 ────────────────────────────────────────────────
+  // freight_index 기반: >200 = red, >150 = amber
+  let suez = "yellow";
+  if (freightIdx > 200) suez = "red";
+  else if (freightIdx > 150) suez = "amber";
+
+  // ── 파나마 ────────────────────────────────────────────────
+  // 현재 주요 이슈 없음 — 기본 yellow
+  let panama = "yellow";
+
+  // ── 한국 해협 ─────────────────────────────────────────────
+  // 대만 리스크 연동
+  let korea = taiwan === "red" ? "amber" : "yellow";
+
+  return { hormuz, taiwan, malacca, suez, panama, korea };
 }
 
 // ── EIA Brent 유가 ───────────────────────────────────────────
@@ -141,7 +212,6 @@ async function fetchBrent() {
 
 // ── Freightos / FRED 운임 지수 ───────────────────────────────
 async function fetchFreight() {
-  // FRED WPU30: 해운 운임 지수 (무료, 월별)
   if (!ENV.FRED_API_KEY) {
     console.warn("[SKIP] FRED_API_KEY 없음 — 운임 더미 데이터 사용");
     return { freight_index: 210.5, unit: "index", note: "demo" };
