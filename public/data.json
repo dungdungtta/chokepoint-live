@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T04:49:03.032Z",
+    "generated_at": "2026-08-03T08:35:18.976Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
+        "published": "2026-08-02T07:47:37Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Market outlook: RBI policy, Q1 earnings and global cues to steer markets this week",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/market-outlook-rbi-policy-q1-earnings-and-global-cues-to-steer-markets-this-week/article71297191.ece",
+        "published": "2026-08-02T05:32:01Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump holds off on new strikes against Iran amid emerging 'deal'",
         "source": "ABC News (AU)",
         "url": "https://www.abc.net.au/news/2026-08-02/donald-trump-holds-off-on-strikes-against-iran/106987644",
@@ -39,30 +53,16 @@
         "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-extend-gains-on-monday-6-factors-which-will-drive-d-street-action-this-week/articleshow/132800020.cms",
         "published": "2026-08-02T03:39:37Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4390250/posts",
-        "published": "2026-08-02T03:12:52Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Turkey Said To Extend Iraq Oil Pipeline Deal By One Year",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/turkey-said-to-extend-iraq-oil-pipeline-deal-by-one-year/",
-        "published": "2026-08-02T02:57:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cjwx74qgld2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "published": "2026-08-02T02:44:38Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Lurkers in the deep: How Canada's new submarines will be used in peace and potential war",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/politics/canada-new-submarines-use-9.7293006",
+        "published": "2026-08-02T08:00:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Shock wave",
         "source": "Defense One",
@@ -89,13 +89,6 @@
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/07/31/pacific-islands-trump-geopolitics-china-oceania/",
         "published": "2026-07-31T14:20:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Will “hornet’s nest” strategy really make Taiwan Strait safer, serve U.S. interests?",
-        "source": "Peoplesreview.com.np",
-        "url": "https://peoplesreview.com.np/2026/07/31/will-hornets-nest-strategy-really-make-taiwan-strait-safer-serve-u-s-interests/",
-        "published": "2026-07-31T06:50:24Z",
         "sentiment": "watch"
       }
     ],
