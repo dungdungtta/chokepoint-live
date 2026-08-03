@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T08:35:18.976Z",
+    "generated_at": "2026-08-03T12:01:58.732Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
-        "published": "2026-08-02T07:47:37Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Market outlook: RBI policy, Q1 earnings and global cues to steer markets this week",
+        "title": "Gold, silver seen range-bound as focus shifts to US job numbers, Fed cues: Analysts",
         "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/market-outlook-rbi-policy-q1-earnings-and-global-cues-to-steer-markets-this-week/article71297191.ece",
-        "published": "2026-08-02T05:32:01Z",
+        "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-seen-range-bound-as-focus-shifts-to-us-job-numbers-fed-cues-analysts/article71297626.ece",
+        "published": "2026-08-02T11:35:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump holds off on new strikes against Iran amid emerging 'deal'",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-08-02/donald-trump-holds-off-on-strikes-against-iran/106987644",
-        "published": "2026-08-02T04:32:56Z",
+        "title": "Trump cancels planned attack on Iran",
+        "source": "RT",
+        "url": "https://www.rt.com/news/643765-trump-cancels-planned-attack-iran/",
+        "published": "2026-08-02T10:37:03Z",
         "sentiment": "danger"
       },
       {
-        "title": "Will Nifty, Sensex extend gains on Monday? 6 factors which will drive D-Street action this week",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-extend-gains-on-monday-6-factors-which-will-drive-d-street-action-this-week/articleshow/132800020.cms",
-        "published": "2026-08-02T03:39:37Z",
+        "title": "First the Strait of Hormuz, then Bab el-Mandeb: maritime security has begun to shape the world order",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/opinion/online-views/strait-of-hormuz-bab-el-mandeb-maritime-security-shape-the-world-order-globalization-11785405601206.html",
+        "published": "2026-08-02T10:30:50Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at",
+        "published": "2026-08-02T09:43:10Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "First the Strait of Hormuz, then Bab el-Mandeb: maritime security has begun to shape the world order",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/opinion/online-views/strait-of-hormuz-bab-el-mandeb-maritime-security-shape-the-world-order-globalization-11785405601206.html",
+        "published": "2026-08-02T10:30:50Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Lurkers in the deep: How Canada's new submarines will be used in peace and potential war",
         "source": "CBC News",
@@ -82,13 +89,6 @@
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/china-coast-guard-patrols-waters-east-of-taiwan-angering-taipei/",
         "published": "2026-07-31T19:46:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump’s Pacific Islands Blind Spot",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/07/31/pacific-islands-trump-geopolitics-china-oceania/",
-        "published": "2026-07-31T14:20:25Z",
         "sentiment": "watch"
       }
     ],
@@ -129,6 +129,14 @@
         "sentiment": "danger"
       }
     ]
+  },
+  "zones": {
+    "hormuz": "amber",
+    "taiwan": "amber",
+    "malacca": "amber",
+    "suez": "amber",
+    "panama": "yellow",
+    "korea": "yellow"
   },
   "thresholds": {
     "brent_alert": 110,
