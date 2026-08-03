@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T12:01:58.732Z",
+    "generated_at": "2026-08-03T15:18:29.498Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Italian navy boards Russian tanker in international waters, raising questions about sanctions enforcement and shadow fleet economics",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/italian-navy-boards-russian-tanker-sanctions/",
+        "published": "2026-08-02T13:52:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "OPEC+ boosts September production by 188,000 barrels per day",
+        "source": "The Punch",
+        "url": "https://punchng.com/?p=2205538",
+        "published": "2026-08-02T13:38:22Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran’s allied militias prove their value in Tehran’s widening war",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/08/02/middleeast/irans-allied-militias-prove-their-value-in-tehrans-widening-war-intl",
+        "published": "2026-08-02T12:13:50Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Gold, silver seen range-bound as focus shifts to US job numbers, Fed cues: Analysts",
         "source": "BusinessLine",
         "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-seen-range-bound-as-focus-shifts-to-us-job-numbers-fed-cues-analysts/article71297626.ece",
@@ -38,20 +59,6 @@
         "source": "RT",
         "url": "https://www.rt.com/news/643765-trump-cancels-planned-attack-iran/",
         "published": "2026-08-02T10:37:03Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "First the Strait of Hormuz, then Bab el-Mandeb: maritime security has begun to shape the world order",
-        "source": "Livemint",
-        "url": "https://www.livemint.com/opinion/online-views/strait-of-hormuz-bab-el-mandeb-maritime-security-shape-the-world-order-globalization-11785405601206.html",
-        "published": "2026-08-02T10:30:50Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at",
-        "published": "2026-08-02T09:43:10Z",
         "sentiment": "danger"
       }
     ],
