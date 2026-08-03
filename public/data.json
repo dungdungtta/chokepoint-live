@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T19:07:51.685Z",
+    "generated_at": "2026-08-03T20:39:22.032Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "White House Weighs Extending Jones Act Waiver as Oil Prices Remain Elevated",
-        "source": "Legalinsurrection.com",
-        "url": "https://legalinsurrection.com/2026/08/white-house-weighs-extending-jones-act-waiver-as-oil-prices-remain-elevated/",
-        "published": "2026-08-02T18:00:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Chevron CEO warns Iran conflict threatens global oil supplies, gas prices climb",
+        "title": "Iran-Oman talks near completion, aim to manage Strait of Hormuz tensions",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/chevron-ceo-warns-iran-conflict-threatens-global-oil-supplies-gas-prices-climb/",
-        "published": "2026-08-02T17:25:45Z",
+        "url": "https://cryptobriefing.com/iran-oman-talks-near-completion-aim-to-manage-strait-of-hormuz-tensions/",
+        "published": "2026-08-02T20:23:48Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Trump frequently announces he's halting strikes in Iran. But they keep happening",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-frequently-announces-hes-halting-200909968.html",
+        "published": "2026-08-02T20:09:09Z",
         "sentiment": "danger"
       },
       {
-        "title": "Chevron CEO warns Iran conflict has created 'very real' threat to global oil supplies as gas prices climb",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/media/chevron-ceo-warns-iran-conflict-created-very-real-threat-global-oil-supplies-gas-prices-climb",
-        "published": "2026-08-02T17:16:01Z",
+        "title": "How Does The War End?",
+        "source": "Lawyersgunsmoneyblog.com",
+        "url": "https://www.lawyersgunsmoneyblog.com/2026/08/how-does-the-war-end",
+        "published": "2026-08-02T19:50:58Z",
         "sentiment": "danger"
       },
       {
-        "title": "Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war",
-        "published": "2026-08-02T16:10:32Z",
+        "title": "President Trump decides to halt military attacks against Iran",
+        "source": "Gossiplankanews.com",
+        "url": "https://english.gossiplankanews.com/2026/08/president-trump-decides-to-halt.html",
+        "published": "2026-08-02T19:30:28Z",
         "sentiment": "danger"
       },
       {
-        "title": "RBI MPC likely to stay on hold amid inflation risks, global uncertainty",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/rbi-mpc-likely-to-stay-on-hold-amid-inflation-risks-global-uncertainty/article71297831.ece",
-        "published": "2026-08-02T15:26:42Z",
+        "title": "Iran nears shipping management deal with Oman for the Strait of Hormuz, with crypto tolls on the table",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-oman-hormuz-shipping-crypto-tolls/",
+        "published": "2026-08-02T19:24:41Z",
         "sentiment": "watch"
       }
     ],
