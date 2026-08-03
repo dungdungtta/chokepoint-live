@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T15:18:29.498Z",
+    "generated_at": "2026-08-03T17:26:16.457Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Chevron CEO warns Iran conflict threatens global oil supplies, gas prices climb",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/chevron-ceo-warns-iran-conflict-threatens-global-oil-supplies-gas-prices-climb/",
+        "published": "2026-08-02T17:25:45Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Chevron CEO warns Iran conflict has created 'very real' threat to global oil supplies as gas prices climb",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/media/chevron-ceo-warns-iran-conflict-created-very-real-threat-global-oil-supplies-gas-prices-climb",
+        "published": "2026-08-02T17:16:01Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war",
+        "published": "2026-08-02T16:10:32Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "RBI MPC likely to stay on hold amid inflation risks, global uncertainty",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/rbi-mpc-likely-to-stay-on-hold-amid-inflation-risks-global-uncertainty/article71297831.ece",
+        "published": "2026-08-02T15:26:42Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Italian navy boards Russian tanker in international waters, raising questions about sanctions enforcement and shadow fleet economics",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/italian-navy-boards-russian-tanker-sanctions/",
         "published": "2026-08-02T13:52:09Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "OPEC+ boosts September production by 188,000 barrels per day",
-        "source": "The Punch",
-        "url": "https://punchng.com/?p=2205538",
-        "published": "2026-08-02T13:38:22Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran’s allied militias prove their value in Tehran’s widening war",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/08/02/middleeast/irans-allied-militias-prove-their-value-in-tehrans-widening-war-intl",
-        "published": "2026-08-02T12:13:50Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Gold, silver seen range-bound as focus shifts to US job numbers, Fed cues: Analysts",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-seen-range-bound-as-focus-shifts-to-us-job-numbers-fed-cues-analysts/article71297626.ece",
-        "published": "2026-08-02T11:35:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump cancels planned attack on Iran",
-        "source": "RT",
-        "url": "https://www.rt.com/news/643765-trump-cancels-planned-attack-iran/",
-        "published": "2026-08-02T10:37:03Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -138,7 +138,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
