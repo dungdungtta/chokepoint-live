@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T21:49:59.603Z",
+    "generated_at": "2026-08-03T23:11:02.063Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump Says He Will Order Halt To Iran Strikes After Parameters Reached For Deal To End War",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/trump-halt-strikes-again-iran_n_6a6fc99ce4b03026f4f01606",
+        "published": "2026-08-02T23:08:25Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Saudi Oil Reroutes Hit Capacity and Security Limits",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Oil-Reroutes-Hit-Capacity-and-Security-Limits.html",
+        "published": "2026-08-02T23:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Here’s how Trump has zig zagged with on-again, off-again strikes throughout the Iran war",
         "source": "Fortune",
         "url": "https://fortune.com/2026/08/02/trump-on-again-off-again-strikes-iran-war-oil-prices-ceasefire-mou-hormuz/",
@@ -39,23 +53,16 @@
         "url": "https://cryptobriefing.com/iran-oman-talks-near-completion-aim-to-manage-strait-of-hormuz-tensions/",
         "published": "2026-08-02T20:23:48Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Trump frequently announces he's halting strikes in Iran. But they keep happening",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-frequently-announces-hes-halting-200909968.html",
-        "published": "2026-08-02T20:09:09Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "How Does The War End?",
-        "source": "Lawyersgunsmoneyblog.com",
-        "url": "https://www.lawyersgunsmoneyblog.com/2026/08/how-does-the-war-end",
-        "published": "2026-08-02T19:50:58Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "U.S. Sea Drone Captures Video of Chinese Warship in Philippines’ Exclusive Economic Zone",
+        "source": "Legalinsurrection.com",
+        "url": "https://legalinsurrection.com/2026/08/u-s-sea-drone-captures-video-of-chinese-warship-in-philippines-exclusive-economic-zone/",
+        "published": "2026-08-02T23:00:36Z",
+        "sentiment": "danger"
+      },
       {
         "title": "First the Strait of Hormuz, then Bab el-Mandeb: maritime security has begun to shape the world order",
         "source": "Livemint",
@@ -82,13 +89,6 @@
         "source": "Globalsecurity.org",
         "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260801-cna01.htm",
         "published": "2026-08-01T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China Coast Guard Patrols Waters East of Taiwan, Angering Taipei",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/china-coast-guard-patrols-waters-east-of-taiwan-angering-taipei/",
-        "published": "2026-07-31T19:46:57Z",
         "sentiment": "watch"
       }
     ],
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
