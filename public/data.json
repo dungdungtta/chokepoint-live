@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T00:16:07.954Z",
+    "generated_at": "2026-08-04T03:50:05.570Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "California’s high gas prices are Gavin Newsom’s fault — and a gift to China",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/02/opinion/californias-gas-prices-are-gavin-newsoms-gift-to-china/",
-        "published": "2026-08-03T00:15:13Z",
+        "title": "Q1 Results Today Live: DLF, UPL, Torrent Power, IREDA, KEI, Escorts Kubota, Jindal Stainless, Ather, Inox, Nazara, KIMS, MobiKwik, Texmaco, DOMS Q1 results today, Bajaj Finserv, Sun Pharma, ITC, Urban Company, Muthoot Finance, Persistent Systems in focus",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-dlf-upl-ireda-kei-doms-industries-torrent-power-escorts-kubota-jindal-stainless-aether-energy-cams-ethos-nazara-mobikwik-results-03-august-2026/article71297478.ece",
+        "published": "2026-08-03T03:38:03Z",
         "sentiment": "watch"
       },
       {
-        "title": "OPEC+ To Rollback All ‘Voluntary’ Oil Production Cuts In September",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/gauravsharma/2026/08/02/opec-to-rollback-all-voluntary-oil-production-cuts-in-september/",
-        "published": "2026-08-03T00:13:55Z",
+        "title": "Oil Prices Plunge 5% as Trump Halts Iran Strike Plans",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-as-Trump-Halts-Iran-Strike-Plans.html",
+        "published": "2026-08-03T03:05:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Vietnam Trade Deficit Reaches $3.59 Billion as Imports Surge",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/vietnam-trade-deficit-reaches-3-59-billion-as-imports-surge",
+        "published": "2026-08-03T02:50:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump teases Iran talks as Truth Social starts selling fast access to his posts",
-        "source": "RT",
-        "url": "https://www.rt.com/news/643786-trump-iran-truth-social/",
-        "published": "2026-08-03T00:13:14Z",
-        "sentiment": "neutral"
+        "title": "UK recession fears grow if Hormuz remains closed, forecaster warns",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/business/uk-faces-recession-if-strait-of-hormuz-stays-closed-forecaster-warns/articleshow/132816893.cms",
+        "published": "2026-08-03T02:37:04Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Trump suggests new talks with Iran to begin on Monday",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o",
-        "published": "2026-08-03T00:11:18Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "TRUMP TACO WEEKEND...",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/trump-iran-war-us-canceled-strikes-670f077d2cf5de7614cfce4ad40e4aaa",
-        "published": "2026-08-03T00:00:12Z",
+        "title": "Stock Market Today Live Updates: Where are Nifty50 and Sensex headed? RBI policy, Q1 earnings and crude in focus",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-03-august-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/132816952.cms",
+        "published": "2026-08-03T02:35:52Z",
         "sentiment": "watch"
       }
     ],
