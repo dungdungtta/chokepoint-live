@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T20:09:45.036Z",
+    "generated_at": "2026-08-04T21:38:11.333Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump’s path to reopening the Strait of Hormuz may run through Oman",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/03/world-news/oman-emerges-as-possible-power-broker-as-iran-sidesteps-us-in-strait-showdown/",
+        "published": "2026-08-03T21:31:05Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "China’s Quiet Bet on Methanol Is Paying Off",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/08/03/ford-china-methanol-energy-electric-vehicles/",
+        "published": "2026-08-03T20:59:14Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "'Completely Bananas': Right-Wing Pundit Predicts Exactly When MAGA Will Implode",
         "source": "HuffPost",
         "url": "https://www.huffpost.com/entry/right-wing-pundit-dave-rubin-prediction-maga-will-implode_n_6a70c4d2e4b03026f4f09589",
@@ -39,27 +53,6 @@
         "url": "https://www.dealnews.com/Purolator-Purolator-ONE-PL14006-Spin-On-Oil-Filter-for-7-50-free-shipping-w-Prime/21964180.html",
         "published": "2026-08-03T19:56:49Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Trump blasts Exxon, Chevron for making 'too much money,' demands lower gasoline prices",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/news/trump-blasts-exxon-chevron-making-194705584.html",
-        "published": "2026-08-03T19:47:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Crude Sinks as Tensions Ease",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/crude_sinks_as_tensions_ease-03-aug-2026-184284-article/",
-        "published": "2026-08-03T19:36:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump gives Iran ‘last chance’ to sign deal before ‘decapitation’ — sets target date for Strait of Hormuz to reopen",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/03/us-news/trump-gives-iran-last-chance-to-sign-deal-before-decapitation/",
-        "published": "2026-08-03T19:16:37Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
