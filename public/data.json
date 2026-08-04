@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T03:50:05.570Z",
+    "generated_at": "2026-08-04T06:34:32.268Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Q1 Results Today Live: DLF, UPL, Torrent Power, IREDA, KEI, Escorts Kubota, Jindal Stainless, Ather, Inox, Nazara, KIMS, MobiKwik, Texmaco, DOMS Q1 results today, Bajaj Finserv, Sun Pharma, ITC, Urban Company, Muthoot Finance, Persistent Systems in focus",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-dlf-upl-ireda-kei-doms-industries-torrent-power-escorts-kubota-jindal-stainless-aether-energy-cams-ethos-nazara-mobikwik-results-03-august-2026/article71297478.ece",
-        "published": "2026-08-03T03:38:03Z",
+        "title": "Donald Trump says Iran talks will happen on Monday",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/08/03/donald-trump-says-iran-talks-will-happen-on-monday/",
+        "published": "2026-08-03T06:20:53Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Key global triggers that could move markets this week",
+        "source": "Economictimes.com",
+        "url": "https://m.economictimes.com/markets/us-stocks/news/key-global-triggers-that-could-move-markets-this-week/multi-trillion-dollar-ai-rout-keeps-investors-on-edge/slideshow/132821501.cms",
+        "published": "2026-08-03T06:03:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Prices Plunge 5% as Trump Halts Iran Strike Plans",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-as-Trump-Halts-Iran-Strike-Plans.html",
-        "published": "2026-08-03T03:05:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Vietnam Trade Deficit Reaches $3.59 Billion as Imports Surge",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/vietnam-trade-deficit-reaches-3-59-billion-as-imports-surge",
-        "published": "2026-08-03T02:50:21Z",
+        "title": "Aspo Plc’s Half-year Financial Report, January 1 – June 30, 2026: Substantial profit improvement",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/08/03/3337228/0/en/Aspo-Plc-s-Half-year-Financial-Report-January-1-June-30-2026-Substantial-profit-improvement.html",
+        "published": "2026-08-03T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "UK recession fears grow if Hormuz remains closed, forecaster warns",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/business/uk-faces-recession-if-strait-of-hormuz-stays-closed-forecaster-warns/articleshow/132816893.cms",
-        "published": "2026-08-03T02:37:04Z",
+        "title": "Russian Forces Strike Fuel Tanks and Tugboat in Ukrainian Ports, Defense Ministry Says",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-03-russian-forces-strike-fuel-tanks-tugboat-ukrainian-ports.html",
+        "published": "2026-08-03T06:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Stock Market Today Live Updates: Where are Nifty50 and Sensex headed? RBI policy, Q1 earnings and crude in focus",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-03-august-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/132816952.cms",
-        "published": "2026-08-03T02:35:52Z",
+        "title": "Strait of Hormuz crude oil traffic reaches new peak amid U.S.-Israeli conflict with Iran",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-03-strait-of-hormuz-crude-oil-traffic-reaches-peak.html",
+        "published": "2026-08-03T06:00:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "How Iran’s Missile Campaign showed the Limits of Western Deterrence",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/08/missile-campaign-deterrence.html",
+        "published": "2026-08-03T04:06:11Z",
+        "sentiment": "watch"
+      },
       {
         "title": "U.S. Sea Drone Captures Video of Chinese Warship in Philippines’ Exclusive Economic Zone",
         "source": "Legalinsurrection.com",
@@ -88,13 +95,6 @@
         "title": "Shock wave",
         "source": "Defense One",
         "url": "https://www.defenseone.com/ideas/2026/08/shock-wave-fictional-intelligence/415158/",
-        "published": "2026-08-01T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Bipartisan U.S. House delegation meets foreign minister in Taipei",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260801-cna01.htm",
         "published": "2026-08-01T12:00:00Z",
         "sentiment": "watch"
       }
