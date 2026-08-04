@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T23:11:02.063Z",
+    "generated_at": "2026-08-04T00:16:07.954Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump Says He Will Order Halt To Iran Strikes After Parameters Reached For Deal To End War",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/trump-halt-strikes-again-iran_n_6a6fc99ce4b03026f4f01606",
-        "published": "2026-08-02T23:08:25Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Saudi Oil Reroutes Hit Capacity and Security Limits",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Oil-Reroutes-Hit-Capacity-and-Security-Limits.html",
-        "published": "2026-08-02T23:00:00Z",
+        "title": "California’s high gas prices are Gavin Newsom’s fault — and a gift to China",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/02/opinion/californias-gas-prices-are-gavin-newsoms-gift-to-china/",
+        "published": "2026-08-03T00:15:13Z",
         "sentiment": "watch"
       },
       {
-        "title": "Here’s how Trump has zig zagged with on-again, off-again strikes throughout the Iran war",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/08/02/trump-on-again-off-again-strikes-iran-war-oil-prices-ceasefire-mou-hormuz/",
-        "published": "2026-08-02T21:35:29Z",
-        "sentiment": "danger"
+        "title": "OPEC+ To Rollback All ‘Voluntary’ Oil Production Cuts In September",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/gauravsharma/2026/08/02/opec-to-rollback-all-voluntary-oil-production-cuts-in-september/",
+        "published": "2026-08-03T00:13:55Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Iran-Oman talks near completion, aim to manage Strait of Hormuz tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-oman-talks-near-completion-aim-to-manage-strait-of-hormuz-tensions/",
-        "published": "2026-08-02T20:23:48Z",
+        "title": "Trump teases Iran talks as Truth Social starts selling fast access to his posts",
+        "source": "RT",
+        "url": "https://www.rt.com/news/643786-trump-iran-truth-social/",
+        "published": "2026-08-03T00:13:14Z",
         "sentiment": "neutral"
+      },
+      {
+        "title": "Trump suggests new talks with Iran to begin on Monday",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o",
+        "published": "2026-08-03T00:11:18Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "TRUMP TACO WEEKEND...",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/trump-iran-war-us-canceled-strikes-670f077d2cf5de7614cfce4ad40e4aaa",
+        "published": "2026-08-03T00:00:12Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
