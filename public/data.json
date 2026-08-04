@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T16:32:02.355Z",
+    "generated_at": "2026-08-04T18:18:40.820Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "224-Piece Beetles Fruity French Short Square Press-On Nails Kit w/ Mini UV Light, Nail Glue, Top Coat, Cuticle Oil & More $12 w/ S&S (or less) + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19838961-224-piece-beetles-fruity-french-short-square-press-on-nails-kit-w-mini-uv-light-nail-glue-top-coat-cuticle-oil-more-12-w-s-s-or-less-free-shipping-w-prime-or-on-35",
-        "published": "2026-08-03T16:29:03Z",
+        "title": "Iran Conflict Enters New Phase as Energy Risks Spread",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150229.php",
+        "published": "2026-08-03T18:10:10Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Slips as Trump Holds Off Iran Attack, Says Talks to Resume",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-slips-as-trump-holds-off-iran-attack-says-talks-to-resume",
-        "published": "2026-08-03T16:17:29Z",
+        "title": "Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us",
+        "published": "2026-08-03T17:38:01Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Six Saudi Tankers Turn Away From Gulf of Aden, Ship-tracking Data Shows",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/six-saudi-tankers-turn-away-from-gulf-of-aden-ship-tracking-data-shows/",
+        "published": "2026-08-03T16:56:51Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US Central Command redirects 44 vessels as Iran blockade sends ripples through crypto markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-blockade-crypto-impact/",
+        "published": "2026-08-03T16:53:06Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran Denies Reports of Peace Talks with U.S.: Only Talking to Oman",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/08/03/iran-denies-reports-of-peace-talks-with-u-s-only-talking-to-oman/",
-        "published": "2026-08-03T16:10:04Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Trump Says U.S. Controls Strait of Hormuz as Iran Denies Talks",
+        "title": "How Iran is Widening Its Pressure Campaign to Force U.S. Concessions",
         "source": "gcaptain.com",
-        "url": "https://gcaptain.com/trump-says-u-s-controls-strait-of-hormuz-as-iran-denies-talks/",
-        "published": "2026-08-03T16:02:42Z",
-        "sentiment": "neutral"
+        "url": "https://gcaptain.com/how-iran-is-widening-its-pressure-campaign-to-force-u-s-concessions/",
+        "published": "2026-08-03T16:50:18Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Japan’s 2026 Defense White Paper Warns of China’s Expanding Military Reach in the Pacific",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/08/japans-2026-defense-white-paper-warns-of-chinas-expanding-military-reach-in-the-pacific/",
+        "published": "2026-08-03T17:18:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Why the U.S. Can't Easily Exit the Iran Conflict",
         "source": "OilPrice.com",
@@ -83,13 +97,6 @@
         "url": "https://www.juancole.com/2026/08/missile-campaign-deterrence.html",
         "published": "2026-08-03T04:06:11Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "U.S. Sea Drone Captures Video of Chinese Warship in Philippines’ Exclusive Economic Zone",
-        "source": "Legalinsurrection.com",
-        "url": "https://legalinsurrection.com/2026/08/u-s-sea-drone-captures-video-of-chinese-warship-in-philippines-exclusive-economic-zone/",
-        "published": "2026-08-02T23:00:36Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
