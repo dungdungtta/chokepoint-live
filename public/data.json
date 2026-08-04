@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T11:47:04.035Z",
+    "generated_at": "2026-08-04T14:33:05.779Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Indonesia's financial sector resilient amid global volatility: KSSK",
-        "source": "Antaranews.com",
-        "url": "https://en.antaranews.com/news/425288/indonesias-financial-sector-resilient-amid-global-volatility-kssk",
-        "published": "2026-08-03T11:07:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran War: Trump Keeps Up Threat Display, False Claims of Negotiations as He TACOs; Israel Still Pressing for Escalation as US Withdrawals Continue",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/iran-war-trump-keeps-up-threat-display-false-claims-of-negotiations-as-he-tacos-israel-still-pressing-for-escalation-as-us-withdrawals-continue.html",
-        "published": "2026-08-03T10:54:29Z",
+        "title": "Dark Tanker Transits Surge at Bab el-Mandeb as Houthi Threat Persists",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Dark-Tanker-Transits-Surge-at-Bab-el-Mandeb-as-Houthi-Threat-Persists.html",
+        "published": "2026-08-03T14:30:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Current price of oil as of August 3, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-08-03-2026/",
-        "published": "2026-08-03T10:50:37Z",
+        "title": "FedEx Freight Holding Company (FDXF) has the Potential for Stronger Standalone Growth",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/fedex-freight-holding-company-fdxf-142641386.html",
+        "published": "2026-08-03T14:26:41Z",
         "sentiment": "watch"
       },
       {
-        "title": "Russia Assembles Unprecedented Arctic Oil Convoy to Bypass Global Shipping Hotspots",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/russia-assembles-unprecedented-arctic-oil-convoy-to-bypass-global-shipping-hotspots/",
-        "published": "2026-08-03T10:32:14Z",
+        "title": "Oil prices fall as Trump seeks Iran nuclear deal",
+        "source": "Offshore Technology",
+        "url": "https://www.offshore-technology.com/news/oil-prices-fall-trump-iran-nuclear-deal/",
+        "published": "2026-08-03T14:10:35Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Six Saudi tankers turn away from Gulf of Aden, ship-tracking data shows",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/six-saudi-tankers-turn-away-from-gulf-of-aden-ship-tracking-data-shows/articleshow/132833901.cms",
+        "published": "2026-08-03T13:58:22Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "India’s July Russian crude imports hit record high – media",
+        "source": "RT",
+        "url": "https://www.rt.com/india/643802-india-russian-crude-imports/",
+        "published": "2026-08-03T13:42:55Z",
         "sentiment": "watch"
       }
     ],
