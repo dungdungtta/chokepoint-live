@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T21:38:11.333Z",
+    "generated_at": "2026-08-04T22:45:42.030Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Crisco Pure 40-oz. Canola Oil for $3.18 via Sub & Save + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Crisco-Pure-40-oz-Canola-Oil-for-3-18-via-Sub-Save-free-shipping-w-Prime/21964196.html",
+        "published": "2026-08-03T22:40:04Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Reports: Saudi Crown Prince Urges Trump to Avoid Wider Middle Eastern War",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/08/03/reports-saudi-crown-prince-urges-trump-to-avoid-wider-middle-eastern-war/",
+        "published": "2026-08-03T22:38:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Shipping threats rise despite war lull, analysts warn",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/6fc5e5ee7f33ae76",
+        "published": "2026-08-03T22:32:04Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Saudi tankers reroute around Africa to bypass Houthi Red Sea blockade",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/431189",
+        "published": "2026-08-03T22:10:07Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Trump’s path to reopening the Strait of Hormuz may run through Oman",
         "source": "New York Post",
         "url": "https://nypost.com/2026/08/03/world-news/oman-emerges-as-possible-power-broker-as-iran-sidesteps-us-in-strait-showdown/",
         "published": "2026-08-03T21:31:05Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "China’s Quiet Bet on Methanol Is Paying Off",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/08/03/ford-china-methanol-energy-electric-vehicles/",
-        "published": "2026-08-03T20:59:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "'Completely Bananas': Right-Wing Pundit Predicts Exactly When MAGA Will Implode",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/right-wing-pundit-dave-rubin-prediction-maga-will-implode_n_6a70c4d2e4b03026f4f09589",
-        "published": "2026-08-03T20:04:44Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Purolator PurolatorONE PL14006 Spin-On Oil Filter for $7.50 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Purolator-Purolator-ONE-PL14006-Spin-On-Oil-Filter-for-7-50-free-shipping-w-Prime/21964180.html",
-        "published": "2026-08-03T19:56:49Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -131,7 +138,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
