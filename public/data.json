@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T06:34:32.268Z",
+    "generated_at": "2026-08-04T09:29:59.002Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Donald Trump says Iran talks will happen on Monday",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/08/03/donald-trump-says-iran-talks-will-happen-on-monday/",
-        "published": "2026-08-03T06:20:53Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Key global triggers that could move markets this week",
-        "source": "Economictimes.com",
-        "url": "https://m.economictimes.com/markets/us-stocks/news/key-global-triggers-that-could-move-markets-this-week/multi-trillion-dollar-ai-rout-keeps-investors-on-edge/slideshow/132821501.cms",
-        "published": "2026-08-03T06:03:24Z",
+        "title": "Global Market: Euro zone bond yields decline as falling oil prices boost market sentiment",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-bond-yields-decline-as-falling-oil-prices-boost-market-sentiment/articleshow/132826355.cms",
+        "published": "2026-08-03T09:12:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "Aspo Plc’s Half-year Financial Report, January 1 – June 30, 2026: Substantial profit improvement",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/08/03/3337228/0/en/Aspo-Plc-s-Half-year-Financial-Report-January-1-June-30-2026-Substantial-profit-improvement.html",
-        "published": "2026-08-03T06:00:00Z",
+        "title": "GRSE bags Rs 1,032 crore contract from ONGC to build four offshore support vessels",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/power/grse-bags-rs-1032-crore-contract-from-ongc-to-build-four-offshore-support-vessels/articleshow/132826188.cms",
+        "published": "2026-08-03T09:05:55Z",
         "sentiment": "watch"
       },
       {
-        "title": "Russian Forces Strike Fuel Tanks and Tugboat in Ukrainian Ports, Defense Ministry Says",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-03-russian-forces-strike-fuel-tanks-tugboat-ukrainian-ports.html",
-        "published": "2026-08-03T06:00:00Z",
+        "title": "Pakistan Consumer Prices Cool as Energy Risks Cloud Outlook",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/pakistan-consumer-prices-cool-as-energy-risks-cloud-outlook",
+        "published": "2026-08-03T08:44:01Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Global Market: European shares rise as easing Iran tensions lift sentiment; energy stocks slide",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-easing-iran-tensions-lift-sentiment-energy-stocks-slide/articleshow/132825560.cms",
+        "published": "2026-08-03T08:36:34Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump Announces Fresh Iran Talks after Strike Uturn",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/trump_announces_fresh_iran_talks_after_strike_uturn-03-aug-2026-184274-article/",
+        "published": "2026-08-03T08:18:46Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Strait of Hormuz crude oil traffic reaches new peak amid U.S.-Israeli conflict with Iran",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-03-strait-of-hormuz-crude-oil-traffic-reaches-peak.html",
-        "published": "2026-08-03T06:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump is winning every battle in Iran—and risking the war that matters",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/opinion/trump-winning-every-battle-iran-risking-war-matters",
+        "published": "2026-08-03T09:00:01Z",
+        "sentiment": "danger"
+      },
       {
         "title": "How Iran’s Missile Campaign showed the Limits of Western Deterrence",
         "source": "Juancole.com",
@@ -90,13 +97,6 @@
         "url": "https://www.cbc.ca/news/politics/canada-new-submarines-use-9.7293006",
         "published": "2026-08-02T08:00:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Shock wave",
-        "source": "Defense One",
-        "url": "https://www.defenseone.com/ideas/2026/08/shock-wave-fictional-intelligence/415158/",
-        "published": "2026-08-01T12:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -139,11 +139,11 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "amber",
+    "taiwan": "red",
     "malacca": "amber",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "yellow"
+    "korea": "amber"
   },
   "thresholds": {
     "brent_alert": 110,
