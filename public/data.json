@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T09:29:59.002Z",
+    "generated_at": "2026-08-04T11:47:04.035Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Global Market: Euro zone bond yields decline as falling oil prices boost market sentiment",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-bond-yields-decline-as-falling-oil-prices-boost-market-sentiment/articleshow/132826355.cms",
-        "published": "2026-08-03T09:12:34Z",
+        "title": "Indonesia's financial sector resilient amid global volatility: KSSK",
+        "source": "Antaranews.com",
+        "url": "https://en.antaranews.com/news/425288/indonesias-financial-sector-resilient-amid-global-volatility-kssk",
+        "published": "2026-08-03T11:07:38Z",
         "sentiment": "watch"
       },
       {
-        "title": "GRSE bags Rs 1,032 crore contract from ONGC to build four offshore support vessels",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/power/grse-bags-rs-1032-crore-contract-from-ongc-to-build-four-offshore-support-vessels/articleshow/132826188.cms",
-        "published": "2026-08-03T09:05:55Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Pakistan Consumer Prices Cool as Energy Risks Cloud Outlook",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/pakistan-consumer-prices-cool-as-energy-risks-cloud-outlook",
-        "published": "2026-08-03T08:44:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Global Market: European shares rise as easing Iran tensions lift sentiment; energy stocks slide",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-easing-iran-tensions-lift-sentiment-energy-stocks-slide/articleshow/132825560.cms",
-        "published": "2026-08-03T08:36:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Announces Fresh Iran Talks after Strike Uturn",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/trump_announces_fresh_iran_talks_after_strike_uturn-03-aug-2026-184274-article/",
-        "published": "2026-08-03T08:18:46Z",
+        "title": "Iran War: Trump Keeps Up Threat Display, False Claims of Negotiations as He TACOs; Israel Still Pressing for Escalation as US Withdrawals Continue",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/iran-war-trump-keeps-up-threat-display-false-claims-of-negotiations-as-he-tacos-israel-still-pressing-for-escalation-as-us-withdrawals-continue.html",
+        "published": "2026-08-03T10:54:29Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Current price of oil as of August 3, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-08-03-2026/",
+        "published": "2026-08-03T10:50:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Russia Assembles Unprecedented Arctic Oil Convoy to Bypass Global Shipping Hotspots",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/russia-assembles-unprecedented-arctic-oil-convoy-to-bypass-global-shipping-hotspots/",
+        "published": "2026-08-03T10:32:14Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The U.S. Isn’t Making Enough Weapons",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/ideas/2026/08/the-us-isnt-making-enough-weapons/688150/",
+        "published": "2026-08-03T10:56:23Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump is winning every battle in Iran—and risking the war that matters",
         "source": "Fox News",
@@ -90,13 +90,6 @@
         "url": "https://www.livemint.com/opinion/online-views/strait-of-hormuz-bab-el-mandeb-maritime-security-shape-the-world-order-globalization-11785405601206.html",
         "published": "2026-08-02T10:30:50Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Lurkers in the deep: How Canada's new submarines will be used in peace and potential war",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/politics/canada-new-submarines-use-9.7293006",
-        "published": "2026-08-02T08:00:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -139,11 +132,11 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "red",
+    "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "amber"
+    "korea": "yellow"
   },
   "thresholds": {
     "brent_alert": 110,
