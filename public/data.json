@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T18:18:40.820Z",
+    "generated_at": "2026-08-04T20:09:45.036Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran Conflict Enters New Phase as Energy Risks Spread",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/150229.php",
-        "published": "2026-08-03T18:10:10Z",
+        "title": "'Completely Bananas': Right-Wing Pundit Predicts Exactly When MAGA Will Implode",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/right-wing-pundit-dave-rubin-prediction-maga-will-implode_n_6a70c4d2e4b03026f4f09589",
+        "published": "2026-08-03T20:04:44Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us",
-        "published": "2026-08-03T17:38:01Z",
+        "title": "Purolator PurolatorONE PL14006 Spin-On Oil Filter for $7.50 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Purolator-Purolator-ONE-PL14006-Spin-On-Oil-Filter-for-7-50-free-shipping-w-Prime/21964180.html",
+        "published": "2026-08-03T19:56:49Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump blasts Exxon, Chevron for making 'too much money,' demands lower gasoline prices",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/news/trump-blasts-exxon-chevron-making-194705584.html",
+        "published": "2026-08-03T19:47:05Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Crude Sinks as Tensions Ease",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/crude_sinks_as_tensions_ease-03-aug-2026-184284-article/",
+        "published": "2026-08-03T19:36:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump gives Iran ‘last chance’ to sign deal before ‘decapitation’ — sets target date for Strait of Hormuz to reopen",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/03/us-news/trump-gives-iran-last-chance-to-sign-deal-before-decapitation/",
+        "published": "2026-08-03T19:16:37Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Six Saudi Tankers Turn Away From Gulf of Aden, Ship-tracking Data Shows",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/six-saudi-tankers-turn-away-from-gulf-of-aden-ship-tracking-data-shows/",
-        "published": "2026-08-03T16:56:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Central Command redirects 44 vessels as Iran blockade sends ripples through crypto markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-blockade-crypto-impact/",
-        "published": "2026-08-03T16:53:06Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "How Iran is Widening Its Pressure Campaign to Force U.S. Concessions",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/how-iran-is-widening-its-pressure-campaign-to-force-u-s-concessions/",
-        "published": "2026-08-03T16:50:18Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
