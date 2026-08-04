@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T14:33:05.779Z",
+    "generated_at": "2026-08-04T16:32:02.355Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Dark Tanker Transits Surge at Bab el-Mandeb as Houthi Threat Persists",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Dark-Tanker-Transits-Surge-at-Bab-el-Mandeb-as-Houthi-Threat-Persists.html",
-        "published": "2026-08-03T14:30:00Z",
+        "title": "224-Piece Beetles Fruity French Short Square Press-On Nails Kit w/ Mini UV Light, Nail Glue, Top Coat, Cuticle Oil & More $12 w/ S&S (or less) + Free Shipping w/ Prime or on $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19838961-224-piece-beetles-fruity-french-short-square-press-on-nails-kit-w-mini-uv-light-nail-glue-top-coat-cuticle-oil-more-12-w-s-s-or-less-free-shipping-w-prime-or-on-35",
+        "published": "2026-08-03T16:29:03Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Slips as Trump Holds Off Iran Attack, Says Talks to Resume",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/oil-slips-as-trump-holds-off-iran-attack-says-talks-to-resume",
+        "published": "2026-08-03T16:17:29Z",
         "sentiment": "danger"
       },
       {
-        "title": "FedEx Freight Holding Company (FDXF) has the Potential for Stronger Standalone Growth",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/fedex-freight-holding-company-fdxf-142641386.html",
-        "published": "2026-08-03T14:26:41Z",
-        "sentiment": "watch"
+        "title": "Iran Denies Reports of Peace Talks with U.S.: Only Talking to Oman",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/08/03/iran-denies-reports-of-peace-talks-with-u-s-only-talking-to-oman/",
+        "published": "2026-08-03T16:10:04Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Oil prices fall as Trump seeks Iran nuclear deal",
-        "source": "Offshore Technology",
-        "url": "https://www.offshore-technology.com/news/oil-prices-fall-trump-iran-nuclear-deal/",
-        "published": "2026-08-03T14:10:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Six Saudi tankers turn away from Gulf of Aden, ship-tracking data shows",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/six-saudi-tankers-turn-away-from-gulf-of-aden-ship-tracking-data-shows/articleshow/132833901.cms",
-        "published": "2026-08-03T13:58:22Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "India’s July Russian crude imports hit record high – media",
-        "source": "RT",
-        "url": "https://www.rt.com/india/643802-india-russian-crude-imports/",
-        "published": "2026-08-03T13:42:55Z",
-        "sentiment": "watch"
+        "title": "Trump Says U.S. Controls Strait of Hormuz as Iran Denies Talks",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/trump-says-u-s-controls-strait-of-hormuz-as-iran-denies-talks/",
+        "published": "2026-08-03T16:02:42Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "Why the U.S. Can't Easily Exit the Iran Conflict",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Geopolitics/Middle-East/Why-the-US-Cant-Easily-Exit-the-Iran-Conflict.html",
+        "published": "2026-08-03T16:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The U.S. Isn’t Making Enough Weapons",
         "source": "The Atlantic",
@@ -90,13 +90,6 @@
         "url": "https://legalinsurrection.com/2026/08/u-s-sea-drone-captures-video-of-chinese-warship-in-philippines-exclusive-economic-zone/",
         "published": "2026-08-02T23:00:36Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "First the Strait of Hormuz, then Bab el-Mandeb: maritime security has begun to shape the world order",
-        "source": "Livemint",
-        "url": "https://www.livemint.com/opinion/online-views/strait-of-hormuz-bab-el-mandeb-maritime-security-shape-the-world-order-globalization-11785405601206.html",
-        "published": "2026-08-02T10:30:50Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
