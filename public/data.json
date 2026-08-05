@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T00:10:57.483Z",
+    "generated_at": "2026-08-05T03:36:03.241Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Gold Steady as Middle East Talks Weigh on Interest Rate Outlook",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/gold-steady-as-middle-east-talks-weigh-on-interest-rate-outlook",
-        "published": "2026-08-04T00:06:44Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "War With Iran: A Double-Edged Sword for the US Economy and Agriculture",
-        "source": "Antiwar.com",
-        "url": "https://original.antiwar.com/greg_pence/2026/08/03/war-with-iran-a-double-edged-sword-for-the-us-economy-and-agriculture/",
-        "published": "2026-08-04T00:00:37Z",
+        "title": "Iran warns US warships over altering routes in the Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-warns-us-warships-over-altering-routes-in-the-strait-of-hormuz/",
+        "published": "2026-08-04T02:42:29Z",
         "sentiment": "danger"
       },
       {
-        "title": "Glad 2-in-1 Oil Dispenser for $5 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/products/Glad/Glad-2-in-1-Oil-Dispenser/513623.html",
-        "published": "2026-08-03T23:27:21Z",
+        "title": "Nifty to open stable on Tuesday",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/nifty-to-open-stable-on-tuesday/article71303780.ece",
+        "published": "2026-08-04T02:38:55Z",
         "sentiment": "watch"
       },
       {
-        "title": "[SnS, AC] $4.99* | 14-Oz Garden of Life Organic Extra Virgin Coconut Oil (Unrefined) at Amazon (0 replies)",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19840431-sns-ac-4-99-14-oz-garden-of-life-organic-extra-virgin-coconut-oil-unrefined-at-amazon",
-        "published": "2026-08-03T23:01:47Z",
-        "sentiment": "watch"
+        "title": "Iran resumes backchannel negotiations with West after Trump suspends strikes",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-backchannel-talks-trump-suspends-strikes-bitcoin/",
+        "published": "2026-08-04T02:36:18Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Oil Holds Decline With Focus on Iran Negotiations, Hormuz Flows",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-holds-decline-with-focus-on-iran-negotiations-hormuz-flows",
-        "published": "2026-08-03T22:58:59Z",
-        "sentiment": "neutral"
+        "title": "Oil Price Today (August 4): Crude oil nears $85 as peace talks uncertainty loom after fresh attacks. What are experts saying?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-4-crude-oil-nears-85-as-peace-talks-uncertainty-loom-after-fresh-attacks-what-are-experts-saying/articleshow/132844010.cms",
+        "published": "2026-08-04T02:21:12Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -138,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
