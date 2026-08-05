@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T11:31:21.248Z",
+    "generated_at": "2026-08-05T13:23:29.827Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran, Oman near deal to reopen Strait of Hormuz with both countries collecting ‘service fee’: report",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/04/us-news/iran-oman-near-deal-to-reopen-strait-of-hormuz-with-both-countries-collecting-service-fee-report/",
-        "published": "2026-08-04T11:05:47Z",
+        "title": "Scott Bessent Signals Imminent US-Iran Deal to Reopen Strait of Hormuz, Sending Oil Lower: 'We May Have a",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/777a7ea51d578922",
+        "published": "2026-08-04T13:22:14Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Links 8/4/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/links-8-4-2026.html",
-        "published": "2026-08-04T10:59:52Z",
+        "title": "Pay $8.45 for $38.25 in Dawn, Febreze & more at CVS! Just Use Your Phone",
+        "source": "Livingrichwithcoupons.com",
+        "url": "https://www.livingrichwithcoupons.com/2026/08/pay-8-45-for-38-25-in-dawn-febreze-more-at-cvs-just-use-your-phone.html",
+        "published": "2026-08-04T13:00:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "Sam Altman’s OpenAI publishes brutal critique of Apple lawsuit: ‘Apple is getting this wrong’",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/08/04/sam-altman-openai-lawsuit-apple-is-getting-this-wrong/",
-        "published": "2026-08-04T10:40:16Z",
+        "title": "QP Foods UK Reports Higher Sunflower Oil Costs Amid Black Sea Shipping Disruptions",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/08/04/3338334/0/en/QP-Foods-UK-Reports-Higher-Sunflower-Oil-Costs-Amid-Black-Sea-Shipping-Disruptions.html",
+        "published": "2026-08-04T12:47:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Sensex today | Stock Market Highlights: Markets end in the red; Sensex drops 210 points, Nifty slips 159",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-4th-august-2026/article71301258.ece",
-        "published": "2026-08-04T10:37:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hormuz Traffic at a Trickle as Ship Attacks Heighten Concerns",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/08/04/880135.htm",
-        "published": "2026-08-04T10:32:31Z",
+        "title": "Oil shortages escalate from wars in Iran and Ukraine, with few signs of relief",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/oil-shortages-escalate-from-wars-in-iran-and-ukraine-with-few-signs-of-relief-288858",
+        "published": "2026-08-04T12:33:01Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Inventory Stockpiling Drives 19% Revenue Surge at CMA CGM",
+        "source": "WWD",
+        "url": "https://wwd.com/sourcing-journal/logistics/cma-cgm-inventory-stockpiling-revenue-surge-q2-1239092365/",
+        "published": "2026-08-04T12:30:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "US Is Underestimating The Iran-Russia-China-North Korea Axis, Warns Mark Montgomery",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260804-rferl01.htm",
+        "published": "2026-08-04T12:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "U.S. congressman backs Taiwan drone partnership to deter China",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260804-cna02.htm",
+        "published": "2026-08-04T12:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump’s foolish war is humiliating America",
         "source": "The Sydney Morning Herald",
@@ -83,20 +97,6 @@
         "url": "https://thediplomat.com/2026/08/japans-2026-defense-white-paper-warns-of-chinas-expanding-military-reach-in-the-pacific/",
         "published": "2026-08-03T17:18:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Why the U.S. Can't Easily Exit the Iran Conflict",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Geopolitics/Middle-East/Why-the-US-Cant-Easily-Exit-the-Iran-Conflict.html",
-        "published": "2026-08-03T16:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The U.S. Isn’t Making Enough Weapons",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/ideas/2026/08/the-us-isnt-making-enough-weapons/688150/",
-        "published": "2026-08-03T10:56:23Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
