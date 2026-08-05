@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T17:11:46.344Z",
+    "generated_at": "2026-08-05T18:56:06.077Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 91.82,
-      "change_pct": -8.5,
-      "date": "2026-07-27",
+      "price": 88.9,
+      "change_pct": -8.3,
+      "date": "2026-08-03",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Stocks are surging to fresh records as the US says a deal to reopen the Strait of Hormuz is near",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/stock-market-today-sp500-dow-record-high-strait-of-hormuz-pltr-2026-8#article",
-        "published": "2026-08-04T17:10:29Z",
+        "title": "Al hadath reports exclusive footage of smoke rising from ship hit near Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/al-hadath-reports-exclusive-footage-of-smoke-rising-from-ship-hit-near-strait/",
+        "published": "2026-08-04T18:42:04Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Markets Price In an Iran Deal That Does Not Exist Yet",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Markets-Price-In-an-Iran-Deal-That-Does-Not-Exist-Yet.html",
+        "published": "2026-08-04T18:19:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Rubio Signals Progress in Hormuz Talks as Carriers Ramp Up Red Sea Crossings",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/secretary-marco-rubio-strait-hormuz-talks-progress-red-sea-suez-canal-1239093317/",
+        "published": "2026-08-04T18:10:04Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Saudi Arabia Plans Updated Export Routes as Six Tankers Blocked by Houthis in Red Sea",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/08/04/saudi-arabia-plans-updated-export-routes-as-six-tankers-blocked-by-houthis-in-red-sea/",
-        "published": "2026-08-04T17:09:44Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "$3.99 | GM GENUINE PARTS GM AC DELCO PF64 OIL FILTER at Woot!",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19843197-3-99-gm-genuine-parts-gm-ac-delco-pf64-oil-filter-at-woot",
-        "published": "2026-08-04T16:51:50Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Big Oil profits surge as Iran war keeps energy prices elevated",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/business/big-oil-profits-surge-as-iran-war-keeps-energy-prices-elevated/articleshow/132867374.cms",
-        "published": "2026-08-04T16:50:47Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Big oil companies continue to post banner profits amid fighting in Iran",
-        "source": "Medianewsgroup.com",
-        "url": "https://wirehub.medianewsgroup.com/2026/08/04/big-oil-companies-continue-to-post-banner-profits-as-fighting-in-iran-drives-costs-higher/",
-        "published": "2026-08-04T16:42:04Z",
+        "title": "OPEC Output Rose in July Led by Gulf Nations, Survey Shows",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/opec-output-rose-in-july-led-by-gulf-nations-survey-shows",
+        "published": "2026-08-04T17:56:54Z",
         "sentiment": "watch"
       }
     ],
@@ -138,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "yellow",
     "taiwan": "red",
     "malacca": "amber",
     "suez": "amber",
