@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T03:36:03.241Z",
+    "generated_at": "2026-08-05T06:12:46.989Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran warns US warships over altering routes in the Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-warns-us-warships-over-altering-routes-in-the-strait-of-hormuz/",
-        "published": "2026-08-04T02:42:29Z",
-        "sentiment": "danger"
+        "title": "Cargo ship reports being struck in Strait of Hormuz as US, Iran claims about talks diverge",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/politics/articles/cargo-ship-reports-being-struck-060714898.html",
+        "published": "2026-08-04T06:07:14Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Nifty to open stable on Tuesday",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/nifty-to-open-stable-on-tuesday/article71303780.ece",
-        "published": "2026-08-04T02:38:55Z",
+        "title": "India’s record Russian oil buys expose limits of U.S. sanctions",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-04-india-russian-oil-imports-washington-sanctions.html",
+        "published": "2026-08-04T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran resumes backchannel negotiations with West after Trump suspends strikes",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-backchannel-talks-trump-suspends-strikes-bitcoin/",
-        "published": "2026-08-04T02:36:18Z",
+        "title": "Drone strike on Turkish ship in Black Sea escalates maritime war, threatens global food supply",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-04-drone-strike-in-black-sea-escalates-maritime-war.html",
+        "published": "2026-08-04T06:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil Price Today (August 4): Crude oil nears $85 as peace talks uncertainty loom after fresh attacks. What are experts saying?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-4-crude-oil-nears-85-as-peace-talks-uncertainty-loom-after-fresh-attacks-what-are-experts-saying/articleshow/132844010.cms",
-        "published": "2026-08-04T02:21:12Z",
-        "sentiment": "danger"
+        "title": "Iran has time on its side – for now",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/2026/08/04/iran-has-time-on-its-side-for-now/",
+        "published": "2026-08-04T05:54:38Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
