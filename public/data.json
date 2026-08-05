@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T13:23:29.827Z",
+    "generated_at": "2026-08-05T15:40:14.825Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Scott Bessent Signals Imminent US-Iran Deal to Reopen Strait of Hormuz, Sending Oil Lower: 'We May Have a",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/777a7ea51d578922",
-        "published": "2026-08-04T13:22:14Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Pay $8.45 for $38.25 in Dawn, Febreze & more at CVS! Just Use Your Phone",
-        "source": "Livingrichwithcoupons.com",
-        "url": "https://www.livingrichwithcoupons.com/2026/08/pay-8-45-for-38-25-in-dawn-febreze-more-at-cvs-just-use-your-phone.html",
-        "published": "2026-08-04T13:00:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "QP Foods UK Reports Higher Sunflower Oil Costs Amid Black Sea Shipping Disruptions",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/08/04/3338334/0/en/QP-Foods-UK-Reports-Higher-Sunflower-Oil-Costs-Amid-Black-Sea-Shipping-Disruptions.html",
-        "published": "2026-08-04T12:47:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil shortages escalate from wars in Iran and Ukraine, with few signs of relief",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/oil-shortages-escalate-from-wars-in-iran-and-ukraine-with-few-signs-of-relief-288858",
-        "published": "2026-08-04T12:33:01Z",
+        "title": "Trump Slams Exxon and Chevron for Making 'Too Much Money' Amid Soaring Iran War Oil Prices This Week",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/trump-criticises-exxon-chevron-record-profits-1873560",
+        "published": "2026-08-04T15:32:11Z",
         "sentiment": "danger"
       },
       {
-        "title": "Inventory Stockpiling Drives 19% Revenue Surge at CMA CGM",
-        "source": "WWD",
-        "url": "https://wwd.com/sourcing-journal/logistics/cma-cgm-inventory-stockpiling-revenue-surge-q2-1239092365/",
-        "published": "2026-08-04T12:30:00Z",
+        "title": "US president Donald Trump offers Iran “one last chance” for a deal; Iran focuses on Strait of Hormuz talks",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-president-donald-trump-offers-iran-one-last-chance-for-a-deal-iran-focuses/",
+        "published": "2026-08-04T15:29:20Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Scott Bessent predicts US-Iran deal on Strait of Hormuz by Tuesday, oil prices slide",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/bessent-us-iran-strait-hormuz-deal/",
+        "published": "2026-08-04T15:19:57Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Qatar says US-Iran mediation efforts continuing but no direct talks planned",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c1l1q9n3v15o",
+        "published": "2026-08-04T15:11:51Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Iran 'planned to attack Ukraine but scrapped the strikes after receiving an apology from Kyiv'",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16027933/Iran-planned-attack-Ukraine-apology-Kyiv.html",
+        "published": "2026-08-04T15:01:42Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
