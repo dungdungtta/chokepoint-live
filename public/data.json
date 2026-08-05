@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T18:56:06.077Z",
+    "generated_at": "2026-08-05T20:36:11.136Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Al hadath reports exclusive footage of smoke rising from ship hit near Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/al-hadath-reports-exclusive-footage-of-smoke-rising-from-ship-hit-near-strait/",
-        "published": "2026-08-04T18:42:04Z",
+        "title": "Okeanis Eco Tankers Corp. – 2025 ESG Report",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/08/04/3338861/0/en/Okeanis-Eco-Tankers-Corp-2025-ESG-Report.html",
+        "published": "2026-08-04T20:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Markets Price In an Iran Deal That Does Not Exist Yet",
+        "title": "Okeanis Eco Tankers Corp. – Unaudited Condensed Financial Statements for the Second Quarter and Six-Month Period of 2026",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/08/04/3338843/0/en/Okeanis-Eco-Tankers-Corp-Unaudited-Condensed-Financial-Statements-for-the-Second-Quarter-and-Six-Month-Period-of-2026.html",
+        "published": "2026-08-04T20:15:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Brent Settles At Three-Week Low",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/brent_settles_at_threeweek_low-04-aug-2026-184295-article/",
+        "published": "2026-08-04T20:10:22Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China's EV Boom Is Quietly Undermining Oil's Biggest Chokepoint",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Markets-Price-In-an-Iran-Deal-That-Does-Not-Exist-Yet.html",
-        "published": "2026-08-04T18:19:00Z",
+        "url": "https://oilprice.com/Energy/Energy-General/Chinas-EV-Boom-Is-Quietly-Undermining-Oils-Biggest-Chokepoint.html",
+        "published": "2026-08-04T20:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Rubio Signals Progress in Hormuz Talks as Carriers Ramp Up Red Sea Crossings",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/secretary-marco-rubio-strait-hormuz-talks-progress-red-sea-suez-canal-1239093317/",
-        "published": "2026-08-04T18:10:04Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "OPEC Output Rose in July Led by Gulf Nations, Survey Shows",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/opec-output-rose-in-july-led-by-gulf-nations-survey-shows",
-        "published": "2026-08-04T17:56:54Z",
+        "title": "White House Expected to Extend Controversial Jones Act Waiver, Sources Say",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/white-house-expected-to-extend-controversial-jones-act-waiver-sources-say/",
+        "published": "2026-08-04T19:53:01Z",
         "sentiment": "watch"
       }
     ],
