@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T15:40:14.825Z",
+    "generated_at": "2026-08-05T17:11:46.344Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump Slams Exxon and Chevron for Making 'Too Much Money' Amid Soaring Iran War Oil Prices This Week",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/trump-criticises-exxon-chevron-record-profits-1873560",
-        "published": "2026-08-04T15:32:11Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US president Donald Trump offers Iran “one last chance” for a deal; Iran focuses on Strait of Hormuz talks",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-president-donald-trump-offers-iran-one-last-chance-for-a-deal-iran-focuses/",
-        "published": "2026-08-04T15:29:20Z",
+        "title": "Stocks are surging to fresh records as the US says a deal to reopen the Strait of Hormuz is near",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/stock-market-today-sp500-dow-record-high-strait-of-hormuz-pltr-2026-8#article",
+        "published": "2026-08-04T17:10:29Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Scott Bessent predicts US-Iran deal on Strait of Hormuz by Tuesday, oil prices slide",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/bessent-us-iran-strait-hormuz-deal/",
-        "published": "2026-08-04T15:19:57Z",
+        "title": "Saudi Arabia Plans Updated Export Routes as Six Tankers Blocked by Houthis in Red Sea",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/08/04/saudi-arabia-plans-updated-export-routes-as-six-tankers-blocked-by-houthis-in-red-sea/",
+        "published": "2026-08-04T17:09:44Z",
         "sentiment": "watch"
       },
       {
-        "title": "Qatar says US-Iran mediation efforts continuing but no direct talks planned",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c1l1q9n3v15o",
-        "published": "2026-08-04T15:11:51Z",
-        "sentiment": "neutral"
+        "title": "$3.99 | GM GENUINE PARTS GM AC DELCO PF64 OIL FILTER at Woot!",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19843197-3-99-gm-genuine-parts-gm-ac-delco-pf64-oil-filter-at-woot",
+        "published": "2026-08-04T16:51:50Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Iran 'planned to attack Ukraine but scrapped the strikes after receiving an apology from Kyiv'",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16027933/Iran-planned-attack-Ukraine-apology-Kyiv.html",
-        "published": "2026-08-04T15:01:42Z",
+        "title": "Big Oil profits surge as Iran war keeps energy prices elevated",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/business/big-oil-profits-surge-as-iran-war-keeps-energy-prices-elevated/articleshow/132867374.cms",
+        "published": "2026-08-04T16:50:47Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Big oil companies continue to post banner profits amid fighting in Iran",
+        "source": "Medianewsgroup.com",
+        "url": "https://wirehub.medianewsgroup.com/2026/08/04/big-oil-companies-continue-to-post-banner-profits-as-fighting-in-iran-drives-costs-higher/",
+        "published": "2026-08-04T16:42:04Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
