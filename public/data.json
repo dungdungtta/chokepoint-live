@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T06:12:46.989Z",
+    "generated_at": "2026-08-05T09:11:18.156Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Cargo ship reports being struck in Strait of Hormuz as US, Iran claims about talks diverge",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/politics/articles/cargo-ship-reports-being-struck-060714898.html",
-        "published": "2026-08-04T06:07:14Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "India’s record Russian oil buys expose limits of U.S. sanctions",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-04-india-russian-oil-imports-washington-sanctions.html",
-        "published": "2026-08-04T06:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Drone strike on Turkish ship in Black Sea escalates maritime war, threatens global food supply",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-04-drone-strike-in-black-sea-escalates-maritime-war.html",
-        "published": "2026-08-04T06:00:00Z",
+        "title": "Iran war wipes out 2.6B barrels of oil supply",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-war-wipes-out-26b-barrels-of-oil-supply/",
+        "published": "2026-08-04T09:04:53Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran has time on its side – for now",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/2026/08/04/iran-has-time-on-its-side-for-now/",
-        "published": "2026-08-04T05:54:38Z",
+        "title": "Global Market: Saudi Aramco Q2 profit jumps 44% as Middle East conflict boosts oil prices",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-saudi-aramco-q2-profit-jumps-44-as-middle-east-conflict-boosts-oil-prices/articleshow/132853429.cms",
+        "published": "2026-08-04T08:43:28Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Stocks rise despite Iran tensions, oil up, yen eases",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/stocks-rise-despite-iran-tensions-oil-up-yen-eases-6296466",
+        "published": "2026-08-04T08:27:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Stocks rise despite Iran tensions, oil up, yen eases",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-move-higher-wall-003819857.html",
+        "published": "2026-08-04T08:27:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Cargo ship reports being struck in Strait of Hormuz as US, Iran claims about talks diverge",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/cargo-ship-reports-being-struck-in-strait-of-hormuz-as-us-iran-claims-about-talks-diverge/article71304437.ece",
+        "published": "2026-08-04T08:26:56Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "US Is Underestimating The Iran-Russia-China-North Korea Axis, Warns Mark Montgomery",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/iran-russia-china-ukraine-north-korea-montgomery/33821449.html",
+        "published": "2026-08-04T06:43:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Japan’s 2026 Defense White Paper Warns of China’s Expanding Military Reach in the Pacific",
         "source": "The Diplomat",
@@ -83,13 +97,6 @@
         "url": "https://www.foxnews.com/opinion/trump-winning-every-battle-iran-risking-war-matters",
         "published": "2026-08-03T09:00:01Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "How Iran’s Missile Campaign showed the Limits of Western Deterrence",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/08/missile-campaign-deterrence.html",
-        "published": "2026-08-03T04:06:11Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -132,11 +139,11 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "amber",
+    "taiwan": "red",
     "malacca": "amber",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "yellow"
+    "korea": "amber"
   },
   "thresholds": {
     "brent_alert": 110,
