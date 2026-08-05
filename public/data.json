@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T09:11:18.156Z",
+    "generated_at": "2026-08-05T11:31:21.248Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran war wipes out 2.6B barrels of oil supply",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-war-wipes-out-26b-barrels-of-oil-supply/",
-        "published": "2026-08-04T09:04:53Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Global Market: Saudi Aramco Q2 profit jumps 44% as Middle East conflict boosts oil prices",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-saudi-aramco-q2-profit-jumps-44-as-middle-east-conflict-boosts-oil-prices/articleshow/132853429.cms",
-        "published": "2026-08-04T08:43:28Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Stocks rise despite Iran tensions, oil up, yen eases",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/stocks-rise-despite-iran-tensions-oil-up-yen-eases-6296466",
-        "published": "2026-08-04T08:27:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Stocks rise despite Iran tensions, oil up, yen eases",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-move-higher-wall-003819857.html",
-        "published": "2026-08-04T08:27:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Cargo ship reports being struck in Strait of Hormuz as US, Iran claims about talks diverge",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/cargo-ship-reports-being-struck-in-strait-of-hormuz-as-us-iran-claims-about-talks-diverge/article71304437.ece",
-        "published": "2026-08-04T08:26:56Z",
+        "title": "Iran, Oman near deal to reopen Strait of Hormuz with both countries collecting ‘service fee’: report",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/04/us-news/iran-oman-near-deal-to-reopen-strait-of-hormuz-with-both-countries-collecting-service-fee-report/",
+        "published": "2026-08-04T11:05:47Z",
         "sentiment": "neutral"
+      },
+      {
+        "title": "Links 8/4/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/links-8-4-2026.html",
+        "published": "2026-08-04T10:59:52Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Sam Altman’s OpenAI publishes brutal critique of Apple lawsuit: ‘Apple is getting this wrong’",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/08/04/sam-altman-openai-lawsuit-apple-is-getting-this-wrong/",
+        "published": "2026-08-04T10:40:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Sensex today | Stock Market Highlights: Markets end in the red; Sensex drops 210 points, Nifty slips 159",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-4th-august-2026/article71301258.ece",
+        "published": "2026-08-04T10:37:19Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Hormuz Traffic at a Trickle as Ship Attacks Heighten Concerns",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/08/04/880135.htm",
+        "published": "2026-08-04T10:32:31Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump’s foolish war is humiliating America",
+        "source": "The Sydney Morning Herald",
+        "url": "https://www.smh.com.au/business/markets/trump-s-foolish-war-is-humiliating-america-20260803-p60ks8.html",
+        "published": "2026-08-04T09:42:52Z",
+        "sentiment": "danger"
+      },
       {
         "title": "US Is Underestimating The Iran-Russia-China-North Korea Axis, Warns Mark Montgomery",
         "source": "Radio Free Europe/ Radio Liberty",
@@ -90,13 +97,6 @@
         "url": "https://www.theatlantic.com/ideas/2026/08/the-us-isnt-making-enough-weapons/688150/",
         "published": "2026-08-03T10:56:23Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Trump is winning every battle in Iran—and risking the war that matters",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/trump-winning-every-battle-iran-risking-war-matters",
-        "published": "2026-08-03T09:00:01Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
