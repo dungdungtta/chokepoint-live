@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T23:11:11.708Z",
+    "generated_at": "2026-08-06T00:11:49.499Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "2012 Ducati Multistrada 1200S Pikes Peak at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2012-ducati-multistrada-1200s-pikes-peak/",
-        "published": "2026-08-04T23:10:58Z",
+        "title": "Rising fuel prices slash petrol, diesel, cooking gas demand",
+        "source": "The Punch",
+        "url": "https://punchng.com/rising-fuel-prices-slash-petrol-diesel-cooking-gas-demand/",
+        "published": "2026-08-05T00:09:57Z",
         "sentiment": "watch"
       },
       {
-        "title": "1969 Chevrolet Chevelle 300 Deluxe Sport Coupe SS 396 4-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1969-chevrolet-chevelle-ss-396-49/",
-        "published": "2026-08-04T23:05:16Z",
+        "title": "America’s Middle East Bases: An Imperial Burden",
+        "source": "Antiwar.com",
+        "url": "https://original.antiwar.com/nolan_denaro/2026/08/04/americas-middle-east-bases-an-imperial-burden/",
+        "published": "2026-08-05T00:00:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "Rubio: Hormuz Talks Accelerate After Trump Warning — Treasury Secretary Bessent Says Deal Possible by ‘Tomorrow’",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/08/04/rubio-hormuz-talks-accelerate-after-trump-warning-treasury-secretary-bessent-says-deal-possible-by-tomorrow/",
-        "published": "2026-08-04T22:42:12Z",
-        "sentiment": "danger"
+        "title": "White House Weighs Extending Historic Jones Act Waiver to Lower Gas Prices",
+        "source": "Time",
+        "url": "https://time.com/article/2026/08/05/jones-act-waiver-fuel-gas-costs-maritime-industry-iran-war/",
+        "published": "2026-08-05T00:00:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "US military has used up nearly 80% of key missile interceptors as commanders warn stockpiles ‘dangerously low,’ sources say",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4390616/posts",
-        "published": "2026-08-04T22:37:08Z",
-        "sentiment": "danger"
+        "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
+        "source": "808bits.com",
+        "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+        "published": "2026-08-04T23:21:33Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Asian Stocks Set to Advance on Hormuz Deal Hopes: Markets Wrap",
+        "title": "Oil Extends Two-Day Drop on Signs of Progress Toward Hormuz Deal",
         "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/asian-stocks-set-to-advance-on-hormuz-deal-hopes-markets-wrap",
-        "published": "2026-08-04T22:32:58Z",
-        "sentiment": "watch"
+        "url": "https://financialpost.com/pmn/business-pmn/oil-extends-two-day-drop-on-signs-of-progress-toward-hormuz-deal",
+        "published": "2026-08-04T23:19:39Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
