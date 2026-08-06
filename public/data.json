@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-06T00:11:49.499Z",
+    "generated_at": "2026-08-06T03:43:07.858Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Rising fuel prices slash petrol, diesel, cooking gas demand",
+        "title": "Brent drops below $80 as Hormuz talks progress",
         "source": "The Punch",
-        "url": "https://punchng.com/rising-fuel-prices-slash-petrol-diesel-cooking-gas-demand/",
-        "published": "2026-08-05T00:09:57Z",
+        "url": "https://punchng.com/brent-drops-below-80-as-hormuz-talks-progress/",
+        "published": "2026-08-05T03:22:27Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Tech back in fashion as Asian markets extend rebound",
+        "source": "Digital Journal",
+        "url": "https://www.digitaljournal.com/article/tech-back-in-fashion-as-asian-markets-extend-rebound/",
+        "published": "2026-08-05T03:05:36Z",
         "sentiment": "watch"
       },
       {
-        "title": "America’s Middle East Bases: An Imperial Burden",
-        "source": "Antiwar.com",
-        "url": "https://original.antiwar.com/nolan_denaro/2026/08/04/americas-middle-east-bases-an-imperial-burden/",
-        "published": "2026-08-05T00:00:24Z",
+        "title": "Firm opening seen for Nifty, Sensex despite CAS confusion",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/firm-opening-seen-for-nifty-sensex-despite-cas-confusion/article71307886.ece",
+        "published": "2026-08-05T02:39:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "White House Weighs Extending Historic Jones Act Waiver to Lower Gas Prices",
-        "source": "Time",
-        "url": "https://time.com/article/2026/08/05/jones-act-waiver-fuel-gas-costs-maritime-industry-iran-war/",
-        "published": "2026-08-05T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
-        "source": "808bits.com",
-        "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
-        "published": "2026-08-04T23:21:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Extends Two-Day Drop on Signs of Progress Toward Hormuz Deal",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-extends-two-day-drop-on-signs-of-progress-toward-hormuz-deal",
-        "published": "2026-08-04T23:19:39Z",
+        "title": "Oil falls for third day on signs of progress towards Hormuz deal",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/oil-falls-for-third-day-on-signs-of-progress-towards-hormuz-deal",
+        "published": "2026-08-05T02:30:00Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Iran frames Strait of Hormuz talks as Oman negotiations, avoiding US engagement",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-frames-strait-of-hormuz-talks-as-oman-negotiations-avoiding-us-engagement/",
+        "published": "2026-08-05T02:24:26Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
