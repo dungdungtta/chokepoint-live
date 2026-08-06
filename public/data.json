@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-06T03:43:07.858Z",
+    "generated_at": "2026-08-06T06:17:24.059Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Brent drops below $80 as Hormuz talks progress",
-        "source": "The Punch",
-        "url": "https://punchng.com/brent-drops-below-80-as-hormuz-talks-progress/",
-        "published": "2026-08-05T03:22:27Z",
+        "title": "Higher oil prices lift energy majors’ second-quarter profits",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/higher-oil-prices-lift-energy-majors-second-quarter-profits-225233",
+        "published": "2026-08-05T06:16:50Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Craft Supplies Sale at Woot: From 79 cents + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Craft-Supplies-Sale-at-Woot-From-79-cents-free-shipping-w-Prime/21975023.html",
+        "published": "2026-08-05T06:09:49Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump Says Iran Talks Underway; Tehran Reports Only Oman Negotiations",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-05-trump-says-iran-talks-underway-tehran-denies.html",
+        "published": "2026-08-05T06:00:00Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Tech back in fashion as Asian markets extend rebound",
-        "source": "Digital Journal",
-        "url": "https://www.digitaljournal.com/article/tech-back-in-fashion-as-asian-markets-extend-rebound/",
-        "published": "2026-08-05T03:05:36Z",
-        "sentiment": "watch"
+        "title": "Report: Iran, Oman Near Deal to Reopen Strait of Hormuz With “Service Fee” Collection",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-05-report-iran-oman-near-agreement-reopen-hormuz.html",
+        "published": "2026-08-05T06:00:00Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Firm opening seen for Nifty, Sensex despite CAS confusion",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/firm-opening-seen-for-nifty-sensex-despite-cas-confusion/article71307886.ece",
-        "published": "2026-08-05T02:39:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil falls for third day on signs of progress towards Hormuz deal",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/oil-falls-for-third-day-on-signs-of-progress-towards-hormuz-deal",
-        "published": "2026-08-05T02:30:00Z",
+        "title": "World War II Nazi ships appear as Danube river dries up",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-08-05/danube-river-drought-reveals-ships-woolly-mammoth-energy-fears/106999692",
+        "published": "2026-08-05T05:56:22Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Iran frames Strait of Hormuz talks as Oman negotiations, avoiding US engagement",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-frames-strait-of-hormuz-talks-as-oman-negotiations-avoiding-us-engagement/",
-        "published": "2026-08-05T02:24:26Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "The real reason Trump agreed to the MOU",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/blog/2026/08/the-real-reason-trump-agreed-to-the-mou/",
+        "published": "2026-08-05T04:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "US Is Underestimating The Iran-Russia-China-North Korea Axis, Warns Mark Montgomery",
         "source": "Globalsecurity.org",
@@ -89,13 +96,6 @@
         "source": "Radio Free Europe/ Radio Liberty",
         "url": "https://www.rferl.org/a/iran-russia-china-ukraine-north-korea-montgomery/33821449.html",
         "published": "2026-08-04T06:43:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Japan’s 2026 Defense White Paper Warns of China’s Expanding Military Reach in the Pacific",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/08/japans-2026-defense-white-paper-warns-of-chinas-expanding-military-reach-in-the-pacific/",
-        "published": "2026-08-03T17:18:00Z",
         "sentiment": "danger"
       }
     ],
