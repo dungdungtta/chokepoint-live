@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-06T11:44:46.477Z",
+    "generated_at": "2026-08-06T13:23:41.311Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump says deal to reopen Strait of Hormuz could come as early as Wednesday",
+        "title": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-hints-at-deal-to-reopen-strait-of-hormuz-as-attacks-on-shipping-continue/articleshow/132923103.cms",
-        "published": "2026-08-05T11:43:25Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Glencore's energy trading profits soar on Iran war",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/glencores-energy-trading-profits-soar-114012391.html",
-        "published": "2026-08-05T11:40:12Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US and Iran Having ‘Very Good Discussions’, Trump Says",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/us-and-iran-having-very-good-discussions-trump-says/",
-        "published": "2026-08-05T11:38:41Z",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/proposed-hormuz-deal-would-give-iran-control-of-inbound-traffic-sources-say/articleshow/132929979.cms",
+        "published": "2026-08-05T13:02:57Z",
         "sentiment": "watch"
       },
       {
-        "title": "Dozens of Idling Iranian Oil Tankers Show US Blockade Is Working",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/dozens-of-idling-iranian-oil-tankers-show-us-blockade-is-working/",
-        "published": "2026-08-05T11:32:38Z",
-        "sentiment": "danger"
+        "title": "Houthis Say They’ll Target Tankers in Red Sea",
+        "source": "Politicalwire.com",
+        "url": "https://politicalwire.com/2026/08/05/yemens-houthis-say-theyll-target-tankers-in-red-sea/",
+        "published": "2026-08-05T13:00:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Dow S&P 500 eye fresh records after 900-point Tuesday rally",
-        "source": "Quartz India",
-        "url": "https://qz.com/dow-sp500-records-tuesday-rally-earnings-oil-080526",
-        "published": "2026-08-05T11:31:05Z",
+        "title": "US and Iran having 'very good discussions', Trump says",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-optimistic-on-us-iran-talks-as-oil-prices-drop-and-stocks-rise/articleshow/132929149.cms",
+        "published": "2026-08-05T12:55:53Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump rips Exxon, Chevron for ‘making too much money’ as US gas prices soar above $4 — but is Big Oil the bad guy?",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/trump-rips-exxon-chevron-making-125500268.html",
+        "published": "2026-08-05T12:55:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Explosions rock Dubai’s Jebel Ali Free Zone as conflicting accounts muddy the picture",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/dubai-jebel-ali-explosions-crypto-impact/",
+        "published": "2026-08-05T12:53:27Z",
         "sentiment": "watch"
       }
     ],
@@ -138,7 +138,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "yellow",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
