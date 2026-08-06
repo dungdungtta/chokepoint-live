@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-06T06:17:24.059Z",
+    "generated_at": "2026-08-06T09:23:46.357Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Higher oil prices lift energy majors’ second-quarter profits",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/higher-oil-prices-lift-energy-majors-second-quarter-profits-225233",
-        "published": "2026-08-05T06:16:50Z",
+        "title": "Yemen’s Houthis Say They’ll Target Tankers in Northern Red Sea",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/08/05/880307.htm",
+        "published": "2026-08-05T09:19:46Z",
         "sentiment": "watch"
       },
       {
-        "title": "Craft Supplies Sale at Woot: From 79 cents + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Craft-Supplies-Sale-at-Woot-From-79-cents-free-shipping-w-Prime/21975023.html",
-        "published": "2026-08-05T06:09:49Z",
+        "title": "Hormuz deal to give Iran greater control over shipping – Axios",
+        "source": "RT",
+        "url": "https://www.rt.com/news/643867-us-iran-oman-hormuz/",
+        "published": "2026-08-05T09:07:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump Says Iran Talks Underway; Tehran Reports Only Oman Negotiations",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-05-trump-says-iran-talks-underway-tehran-denies.html",
-        "published": "2026-08-05T06:00:00Z",
-        "sentiment": "neutral"
+        "title": "Can tech keep whales safe from deadly vessel strikes?",
+        "source": "National Observer",
+        "url": "https://www.nationalobserver.com/2026/08/05/news/artificial-intelligence-shipping-whale-strikes",
+        "published": "2026-08-05T08:55:12Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Report: Iran, Oman Near Deal to Reopen Strait of Hormuz With “Service Fee” Collection",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-05-report-iran-oman-near-agreement-reopen-hormuz.html",
-        "published": "2026-08-05T06:00:00Z",
-        "sentiment": "neutral"
+        "title": "Dozens of Idling Iranian Oil Tankers Show US Blockade Is Working",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/dozens-of-idling-iranian-oil-tankers-show-us-blockade-is-working",
+        "published": "2026-08-05T08:51:48Z",
+        "sentiment": "danger"
       },
       {
-        "title": "World War II Nazi ships appear as Danube river dries up",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-08-05/danube-river-drought-reveals-ships-woolly-mammoth-energy-fears/106999692",
-        "published": "2026-08-05T05:56:22Z",
+        "title": "Trump warns Iran to open Hormuz or get ‘hit very hard’",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/08/trump-warns-iran-to-open-hormuz-or-get-hit-very-hard/",
+        "published": "2026-08-05T08:47:57Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Japan Defense White Paper Sparks Debate Over Military Buildup",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150260.php",
+        "published": "2026-08-05T09:11:35Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The real reason Trump agreed to the MOU",
         "source": "Americanthinker.com",
@@ -89,13 +96,6 @@
         "source": "The Sydney Morning Herald",
         "url": "https://www.smh.com.au/business/markets/trump-s-foolish-war-is-humiliating-america-20260803-p60ks8.html",
         "published": "2026-08-04T09:42:52Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US Is Underestimating The Iran-Russia-China-North Korea Axis, Warns Mark Montgomery",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/iran-russia-china-ukraine-north-korea-montgomery/33821449.html",
-        "published": "2026-08-04T06:43:00Z",
         "sentiment": "danger"
       }
     ],
@@ -138,12 +138,12 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
-    "taiwan": "red",
+    "hormuz": "red",
+    "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "amber"
+    "korea": "yellow"
   },
   "thresholds": {
     "brent_alert": 110,
