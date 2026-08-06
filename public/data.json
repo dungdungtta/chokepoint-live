@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-06T09:23:46.357Z",
+    "generated_at": "2026-08-06T11:44:46.477Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Yemen’s Houthis Say They’ll Target Tankers in Northern Red Sea",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/08/05/880307.htm",
-        "published": "2026-08-05T09:19:46Z",
-        "sentiment": "watch"
+        "title": "Trump says deal to reopen Strait of Hormuz could come as early as Wednesday",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-hints-at-deal-to-reopen-strait-of-hormuz-as-attacks-on-shipping-continue/articleshow/132923103.cms",
+        "published": "2026-08-05T11:43:25Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Hormuz deal to give Iran greater control over shipping – Axios",
-        "source": "RT",
-        "url": "https://www.rt.com/news/643867-us-iran-oman-hormuz/",
-        "published": "2026-08-05T09:07:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Can tech keep whales safe from deadly vessel strikes?",
-        "source": "National Observer",
-        "url": "https://www.nationalobserver.com/2026/08/05/news/artificial-intelligence-shipping-whale-strikes",
-        "published": "2026-08-05T08:55:12Z",
+        "title": "Glencore's energy trading profits soar on Iran war",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/glencores-energy-trading-profits-soar-114012391.html",
+        "published": "2026-08-05T11:40:12Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "US and Iran Having ‘Very Good Discussions’, Trump Says",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/us-and-iran-having-very-good-discussions-trump-says/",
+        "published": "2026-08-05T11:38:41Z",
+        "sentiment": "watch"
       },
       {
         "title": "Dozens of Idling Iranian Oil Tankers Show US Blockade Is Working",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/dozens-of-idling-iranian-oil-tankers-show-us-blockade-is-working",
-        "published": "2026-08-05T08:51:48Z",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/dozens-of-idling-iranian-oil-tankers-show-us-blockade-is-working/",
+        "published": "2026-08-05T11:32:38Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump warns Iran to open Hormuz or get ‘hit very hard’",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/08/trump-warns-iran-to-open-hormuz-or-get-hit-very-hard/",
-        "published": "2026-08-05T08:47:57Z",
-        "sentiment": "danger"
+        "title": "Dow S&P 500 eye fresh records after 900-point Tuesday rally",
+        "source": "Quartz India",
+        "url": "https://qz.com/dow-sp500-records-tuesday-rally-earnings-oil-080526",
+        "published": "2026-08-05T11:31:05Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan begins military drills as China pressure grows",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/taiwan-begins-military-drills-as-china-pressure-grows-225243",
+        "published": "2026-08-05T10:18:53Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Japan Defense White Paper Sparks Debate Over Military Buildup",
         "source": "Newsonjapan.com",
@@ -90,13 +97,6 @@
         "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260804-cna02.htm",
         "published": "2026-08-04T12:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Trump’s foolish war is humiliating America",
-        "source": "The Sydney Morning Herald",
-        "url": "https://www.smh.com.au/business/markets/trump-s-foolish-war-is-humiliating-america-20260803-p60ks8.html",
-        "published": "2026-08-04T09:42:52Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -138,7 +138,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
