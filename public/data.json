@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T00:10:06.548Z",
+    "generated_at": "2026-08-07T03:17:23.027Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran Says Talks with Oman Progressing, Meetings with Pakistan Ongoing",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/08/05/iran-says-talks-with-oman-progressing-meetings-with-pakistan-ongoing/",
-        "published": "2026-08-05T22:51:27Z",
-        "sentiment": "neutral"
+        "title": "Oil Price Today (August 6): Crude oil dips below $80 on hopes Iran-Oman deal could end Iran war. What are experts saying?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-6-crude-oil-dips-below-80-on-hopes-iran-oman-deal-could-end-iran-war-what-are-experts-saying/articleshow/132979497.cms",
+        "published": "2026-08-06T02:43:32Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Trekor Announces $125 Million of Adjusted EBITDA in Second Quarter",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/globe-newswire/trekor-announces-125-million-of-adjusted-ebitda-in-second-quarter",
-        "published": "2026-08-05T22:40:21Z",
+        "title": "Iran, US say Strait of Hormuz deal is close, but one or both would have to back down",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/iran-us-say-strait-of-hormuz-deal-is-close-but-one-or-both-would-have-to-back-down/article71311924.ece",
+        "published": "2026-08-06T02:19:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trekor Announces $125 Million of Adjusted EBITDA in Second Quarter",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/08/05/3339859/0/en/Trekor-Announces-125-Million-of-Adjusted-EBITDA-in-Second-Quarter.html",
-        "published": "2026-08-05T22:37:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Holds Three-Day Drop as Iran, Oman Reach Hormuz Agreement",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-holds-three-day-drop-as-iran-oman-reach-hormuz-agreement",
-        "published": "2026-08-05T22:36:12Z",
+        "title": "Oil prices slip as Iran-Oman talks fuel hopes for US-Iran peace deal",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-slip-as-iran-oman-talks-fuel-hopes-for-us-iran-peace-deal/articleshow/132979197.cms",
+        "published": "2026-08-06T02:03:18Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Europe’s Dry Rivers Set for Little Relief from August Rains",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/europes-dry-rivers-set-for-little-relief-from-august-rains/",
-        "published": "2026-08-05T22:17:03Z",
+        "title": "CNBC Daily Open: Iran, Oman in talks on Hormuz; SpaceX is loyal to Nvidia on AI",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/06/us-iran-oman-hormuz-amd-nvidia-musk-spacex-.html",
+        "published": "2026-08-06T01:21:13Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Oil prices slip as Iran-Oman talks fuel hopes for US-Iran peace deal",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-prices-slip-iran-oman-talks-fuel-hopes-us-iran-peace-deal-6302381",
+        "published": "2026-08-06T01:07:27Z",
         "sentiment": "neutral"
       }
     ],
@@ -138,7 +138,7 @@
     ]
   },
   "zones": {
-    "hormuz": "yellow",
+    "hormuz": "amber",
     "taiwan": "yellow",
     "malacca": "amber",
     "suez": "amber",
