@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T20:07:49.886Z",
+    "generated_at": "2026-08-07T21:01:21.564Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "ICU Medical Announces Second Quarter 2026 Results and Updates its Fiscal Year 2026 Guidance",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/08/06/3340716/8573/en/ICU-Medical-Announces-Second-Quarter-2026-Results-and-Updates-its-Fiscal-Year-2026-Guidance.html",
-        "published": "2026-08-06T20:05:00Z",
+        "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
+        "published": "2026-08-06T20:58:56Z",
         "sentiment": "watch"
       },
       {
-        "title": "U.S. Diesel Exports Hit Record High as Global Supply Crunch Deepens",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/US-Diesel-Exports-Hit-Record-High-as-Global-Supply-Crunch-Deepens.html",
-        "published": "2026-08-06T20:00:00Z",
+        "title": "UK Targets Arctic LNG Carrier, Five Oil Tankers in Latest Russia Sanctions Package",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/uk-targets-arctic-lng-carrier-five-oil-tankers-in-latest-russia-sanctions-package/",
+        "published": "2026-08-06T20:49:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "How drought threatens electricity supplies in Europe",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/how-drought-threatens-electricity-supplies-in-europe/a-78269916",
-        "published": "2026-08-06T19:55:00Z",
+        "title": "Saudi officials shocked by attack reports, stress de-escalation in US-Iran talks",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/saudi-officials-shocked-by-attack-reports-stress-de-escalation-in-us-iran-talks/",
+        "published": "2026-08-06T20:47:05Z",
         "sentiment": "danger"
       },
       {
-        "title": "Drought threatens power supplies in Danube countries",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/drought-europe-electricity-supplies-danube/a-78269916",
-        "published": "2026-08-06T19:55:00Z",
-        "sentiment": "danger"
+        "title": "Trump optimistic on Iran conflict resolution, Strait of Hormuz reopening",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-optimistic-on-iran-conflict-resolution-strait-of-hormuz-reopening/",
+        "published": "2026-08-06T20:34:03Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Britannia net jumps 14%, sales touch Rs 5,000 crore in Q1",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/britannia-industries-reports-14-surge-in-q1-net-profit-as-sales-hit-5000-crore-amid-e-commerce-boom/articleshow/133015375.cms",
-        "published": "2026-08-06T19:53:46Z",
+        "title": "Oil Rises as Iran Deal Optimism Fades",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_rises_as_iran_deal_optimism_fades-06-aug-2026-184316-article/",
+        "published": "2026-08-06T20:12:58Z",
         "sentiment": "watch"
       }
     ],
