@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T17:09:40.327Z",
+    "generated_at": "2026-08-07T18:04:09.408Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Gas prices could remain high this fall even if crude prices stabilize. Here's why",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/06/refinery-gas-oil-prices-iran-ukraine-war.html",
+        "published": "2026-08-06T17:39:05Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US is set to import most Middle East crude since Iran war began",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/international/world-news/us-is-set-to-import-most-middle-east-crude-since-iran-war-began/articleshow/133011650.cms",
@@ -52,13 +59,6 @@
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Latest-Energy-News/World-News/Aramco-Deepens-Asia-Oil-Discount-Ahead-of-Possible-Hormuz-Deal.html",
         "published": "2026-08-06T16:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil jumps 3% on supply concerns",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/d0b42d99c124ffdc",
-        "published": "2026-08-06T16:25:35Z",
         "sentiment": "watch"
       }
     ],
