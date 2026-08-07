@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T16:09:46.298Z",
+    "generated_at": "2026-08-07T17:09:40.327Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Weak Energy Demand May Signal a Much Bigger Economic Problem",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Weak-Energy-Demand-May-Signal-a-Much-Bigger-Economic-Problem.html",
-        "published": "2026-08-06T16:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran restricts Strait of Hormuz passage amid 2026 crisis",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-restricts-strait-of-hormuz-passage-amid-2026-crisis/",
-        "published": "2026-08-06T15:57:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Shipping Industry Sees Major Obstacles to Iran’s Hormuz Control Plan",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/shipping-industry-sees-major-obstacles-to-irans-hormuz-control-plan/",
-        "published": "2026-08-06T15:46:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
+        "title": "US is set to import most Middle East crude since Iran war began",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/133010188.cms",
-        "published": "2026-08-06T15:38:59Z",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-is-set-to-import-most-middle-east-crude-since-iran-war-began/articleshow/133011650.cms",
+        "published": "2026-08-06T16:57:52Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Fitch forecasts Brent crude at $70 per barrel by Q4 2026 as oversupply looms",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/fitch-brent-crude-70-q4-2026-forecast/",
+        "published": "2026-08-06T16:48:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran and Oman agree on outline to reopen Strait of Hormuz, with major implications for oil and risk assets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-oman-strait-hormuz-reopening/",
-        "published": "2026-08-06T15:20:41Z",
-        "sentiment": "neutral"
+        "title": "Analysis-Trump's Iran dilemma: He's stuck in war with no exit in sight",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/politics/articles/analysis-trumps-iran-dilemma-hes-163523912.html",
+        "published": "2026-08-06T16:35:23Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Aramco Deepens Asia Oil Discount Ahead of Possible Hormuz Deal",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Aramco-Deepens-Asia-Oil-Discount-Ahead-of-Possible-Hormuz-Deal.html",
+        "published": "2026-08-06T16:30:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil jumps 3% on supply concerns",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/d0b42d99c124ffdc",
+        "published": "2026-08-06T16:25:35Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -138,7 +138,7 @@
     ]
   },
   "zones": {
-    "hormuz": "yellow",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
