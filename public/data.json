@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T21:01:21.564Z",
+    "generated_at": "2026-08-07T21:57:09.080Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Iran says Hormuz deal ‘nearing completion’",
+        "source": "RT",
+        "url": "https://www.rt.com/news/643958-iran-oman-hormuz-deal/",
+        "published": "2026-08-06T21:02:37Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
         "source": "NPR",
@@ -53,13 +60,6 @@
         "url": "https://cryptobriefing.com/trump-optimistic-on-iran-conflict-resolution-strait-of-hormuz-reopening/",
         "published": "2026-08-06T20:34:03Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Oil Rises as Iran Deal Optimism Fades",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_rises_as_iran_deal_optimism_fades-06-aug-2026-184316-article/",
-        "published": "2026-08-06T20:12:58Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
