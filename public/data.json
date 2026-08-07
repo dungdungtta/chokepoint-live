@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T18:04:09.408Z",
+    "generated_at": "2026-08-07T19:17:43.419Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Gas prices could remain high this fall even if crude prices stabilize. Here's why",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/06/refinery-gas-oil-prices-iran-ukraine-war.html",
-        "published": "2026-08-06T17:39:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US is set to import most Middle East crude since Iran war began",
+        "title": "Proposed Hormuz passage deal not feasible for shipping industry, sources say",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-is-set-to-import-most-middle-east-crude-since-iran-war-began/articleshow/133011650.cms",
-        "published": "2026-08-06T16:57:52Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Fitch forecasts Brent crude at $70 per barrel by Q4 2026 as oversupply looms",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/fitch-brent-crude-70-q4-2026-forecast/",
-        "published": "2026-08-06T16:48:30Z",
+        "url": "https://economictimes.indiatimes.com/news/defence/challenges-of-proposed-iran-oman-deal-for-strait-of-hormuz-shipping-industry-concerns-over-fees-and-compliance/articleshow/133014167.cms",
+        "published": "2026-08-06T18:33:32Z",
         "sentiment": "watch"
       },
       {
-        "title": "Analysis-Trump's Iran dilemma: He's stuck in war with no exit in sight",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/politics/articles/analysis-trumps-iran-dilemma-hes-163523912.html",
-        "published": "2026-08-06T16:35:23Z",
+        "title": "Analysis: Europe at a crossroads – Wars, wildfires, migration: Why the old continent seems unable to manage successive crises",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/08/06/analysis-europe-at-a-crossroads-wars-wildfires-migration-why-the-old-continent-seems-unable-to-manage-successive-crises/",
+        "published": "2026-08-06T18:26:51Z",
         "sentiment": "danger"
       },
       {
-        "title": "Aramco Deepens Asia Oil Discount Ahead of Possible Hormuz Deal",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Aramco-Deepens-Asia-Oil-Discount-Ahead-of-Possible-Hormuz-Deal.html",
-        "published": "2026-08-06T16:30:00Z",
+        "title": "Iran Seeks to Bar US Ships in Hormuz as Deal With Oman Advances",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/iran-seeks-to-bar-us-ships-in-hormuz-as-deal-with-oman-advances",
+        "published": "2026-08-06T18:20:41Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Saudi Arabian oil shipments to US drop to zero in July for first time since 1985",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/saudi-oil-shipments-us-zero-july/",
+        "published": "2026-08-06T18:16:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran tightens grip on Strait of Hormuz",
+        "source": "Semafor.com",
+        "url": "https://www.semafor.com/article/08/06/2026/iran-tightens-grip-on-strait-of-hormuz",
+        "published": "2026-08-06T18:11:25Z",
         "sentiment": "watch"
       }
     ],
