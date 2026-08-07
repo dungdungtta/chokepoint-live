@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T13:54:10.723Z",
+    "generated_at": "2026-08-07T15:01:07.177Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Brent crude tops $80 per barrel as Hormuz talks, tanker attacks keep supply risks high",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/brent-crude-tops-80-per-barrel-as-hormuz-talks-tanker-attacks-keep-supply-risks-high/articleshow/133007593.cms",
-        "published": "2026-08-06T13:43:28Z",
+        "title": "Red Sea Becomes New Hormuz With Saudi-Houthi Tensions as Saudi Arabia Entering Iranian War",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/red-sea-becomes-new-hormuz-saudi-houthi-tensions-saudi-arabia-entering-iranian-war/5935965",
+        "published": "2026-08-06T14:48:37Z",
         "sentiment": "danger"
       },
       {
-        "title": "Dow Jones Hits New Record High Above 54,400 as Earnings Season and Iran Deal Hopes Continue",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/dow-jones-record-high-market-reactions-1873662",
-        "published": "2026-08-06T13:34:08Z",
+        "title": "Russian Deputy PM floats rail link to India as Hormuz hedge",
+        "source": "RT",
+        "url": "https://www.rt.com/india/643943-india-russia-rail-route/",
+        "published": "2026-08-06T14:33:32Z",
         "sentiment": "watch"
       },
       {
-        "title": "Gulf Shipping Grinds to a Halt Following Houthi Missile Claim",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Gulf-Shipping-Grinds-to-a-Halt-Following-Houthi-Missile-Claim.html",
-        "published": "2026-08-06T13:30:00Z",
-        "sentiment": "watch"
+        "title": "US may lift Iran blockade by mid-August amid rising market activity",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-may-lift-iran-blockade-by-mid-august-amid-rising-market-activity/",
+        "published": "2026-08-06T14:26:00Z",
+        "sentiment": "danger"
       },
       {
         "title": "Iran Says Deal With Oman on Hormuz Agreed in Principle",
-        "source": "Military.com",
-        "url": "https://military.com/iran-says-deal-with-oman-on-hormuz-agreed-in-principle",
-        "published": "2026-08-06T13:25:45Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "America Reaps What Trump Sows: The Price of Policing the Globe",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/america-reaps-what-trump-sows-price-policing-globe/5936011",
-        "published": "2026-08-06T13:25:22Z",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/iran-says-deal-with-oman-on-hormuz-agreed-in-principle/",
+        "published": "2026-08-06T14:19:18Z",
         "sentiment": "watch"
       }
     ],
