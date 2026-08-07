@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T09:34:06.630Z",
+    "generated_at": "2026-08-07T10:36:36.046Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran War: Iran Agreement With Oman Will Not “Open” Strait of Hormuz as Trump Hypes Non-Existent Talks; Ansar Allah Threatens Red Sea Escalation; Trump-Hegseth Row Over Weapons Shortages",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/iran-war-iran-agreement-with-oman-will-not-open-strait-of-hormuz-as-trump-hypes-non-existent-talks-ansar-allah-threatens-red-sea-escalation-trump-hegseth-row-over-weapons-shortages.html",
-        "published": "2026-08-06T09:16:35Z",
+        "title": "As Iran war drags on, Americans are bracing for more chaos in Middle East, Reuters poll finds",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/as-iran-war-drags-on-americans-are-bracing-for-more-chaos-in-middle-east-reuters-poll-finds/articleshow/132997829.cms",
+        "published": "2026-08-06T10:30:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Stock market today: Nasdaq futures slip, Dow and S&P 500 futures inch up as earnings roll on",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-6-dow-sp-nasdaq-091620000.html",
-        "published": "2026-08-06T09:16:20Z",
+        "title": "Hormuz deal ‘close’: What’s the latest on each side’s positions?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions",
+        "published": "2026-08-06T10:20:57Z",
         "sentiment": "watch"
       },
       {
-        "title": "Shorter-dated Treasury yields edge higher as traders sharpen focus on rates",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/06/treasury-yields-interest-rates-inflation-fed.html",
-        "published": "2026-08-06T08:55:36Z",
-        "sentiment": "watch"
+        "title": "Iran says it has a deal to reopen the Strait of Hormuz—and shipowners are outraged by its plan to charge fees",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/08/06/iran-oman-deal-strait-of-hormuz-shipowners-fees/",
+        "published": "2026-08-06T10:13:59Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Possible Strait of Hormuz deal, Israeli soldiers killed in Lebanon and other news in the Mideast",
-        "source": "WDIV ClickOnDetroit",
-        "url": "https://www.clickondetroit.com/news/world/2026/08/06/possible-strait-of-hormuz-deal-israeli-soldiers-killed-in-lebanon-and-other-news-in-the-mideast/",
-        "published": "2026-08-06T08:41:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China’s Top Refiner Pivots to Russian Crude",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Top-Refiner-Pivots-to-Russian-Crude.html",
-        "published": "2026-08-06T08:40:00Z",
-        "sentiment": "watch"
+        "title": "Gen Keane questions whether Pakistan, Saudi Arabia and Qatar can be trusted in Iran talks",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/gen-keane-questions-whether-pakistan-saudi-arabia-qatar-trusted-iran-talks",
+        "published": "2026-08-06T10:00:38Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "As Iran war drags on, Americans are bracing for more chaos in Middle East, Reuters poll finds",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/as-iran-war-drags-on-americans-are-bracing-for-more-chaos-in-middle-east-reuters-poll-finds/articleshow/132997829.cms",
+        "published": "2026-08-06T10:30:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Could Japan be the next drone giant? Prime Minister looks to push domestic production to reduce reliance on China",
         "source": "TechRadar",
@@ -89,13 +89,6 @@
         "source": "Globalresearch.ca",
         "url": "https://www.globalresearch.ca/kemalism-21st-century-geopolitical-imperative-turkiye/5935926",
         "published": "2026-08-05T17:36:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump is Testing the U.S. Military’s Limits. We’ll All Pay When They Break",
-        "source": "Rolling Stone",
-        "url": "http://www.rollingstone.com/politics/political-commentary/trump-iran-war-military-stockpiles-1235603880/",
-        "published": "2026-08-05T14:00:00Z",
         "sentiment": "watch"
       }
     ],
@@ -139,7 +132,7 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "yellow",
+    "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
     "panama": "yellow",
