@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T08:18:35.442Z",
+    "generated_at": "2026-08-07T09:34:06.630Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Saudis Cut Main Oil Price to Asia Amid Talk of Hormuz Deal",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/saudis-cut-main-oil-price-to-asia-amid-talk-of-hormuz-deal",
-        "published": "2026-08-06T08:05:45Z",
+        "title": "Iran War: Iran Agreement With Oman Will Not “Open” Strait of Hormuz as Trump Hypes Non-Existent Talks; Ansar Allah Threatens Red Sea Escalation; Trump-Hegseth Row Over Weapons Shortages",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/iran-war-iran-agreement-with-oman-will-not-open-strait-of-hormuz-as-trump-hypes-non-existent-talks-ansar-allah-threatens-red-sea-escalation-trump-hegseth-row-over-weapons-shortages.html",
+        "published": "2026-08-06T09:16:35Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Stock market today: Nasdaq futures slip, Dow and S&P 500 futures inch up as earnings roll on",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-6-dow-sp-nasdaq-091620000.html",
+        "published": "2026-08-06T09:16:20Z",
         "sentiment": "watch"
       },
       {
-        "title": "Russia Sends Arctic Oil Tanker Shadow Fleet Within 500 Nautical Miles of North Pole",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/russia-sends-arctic-oil-tanker-shadow-fleet-within-500-nautical-miles-of-north-pole/",
-        "published": "2026-08-06T07:57:59Z",
+        "title": "Shorter-dated Treasury yields edge higher as traders sharpen focus on rates",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/06/treasury-yields-interest-rates-inflation-fed.html",
+        "published": "2026-08-06T08:55:36Z",
         "sentiment": "watch"
       },
       {
-        "title": "Stocks Waver as Traders Await Iran Deal, Jobs Data: Markets Wrap",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/stocks-waver-as-traders-await-iran-deal-jobs-data-markets-wrap",
-        "published": "2026-08-06T07:50:35Z",
+        "title": "Possible Strait of Hormuz deal, Israeli soldiers killed in Lebanon and other news in the Mideast",
+        "source": "WDIV ClickOnDetroit",
+        "url": "https://www.clickondetroit.com/news/world/2026/08/06/possible-strait-of-hormuz-deal-israeli-soldiers-killed-in-lebanon-and-other-news-in-the-mideast/",
+        "published": "2026-08-06T08:41:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "Nikkei Falls as AI Heavyweights Drag Market Lower",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/150271.php",
-        "published": "2026-08-06T07:35:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "UAE Bucks Risks to Lead Hormuz Oil Shipping",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/uae_bucks_risks_to_lead_hormuz_oil_shipping-06-aug-2026-184307-article/",
-        "published": "2026-08-06T07:21:51Z",
+        "title": "China’s Top Refiner Pivots to Russian Crude",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Top-Refiner-Pivots-to-Russian-Crude.html",
+        "published": "2026-08-06T08:40:00Z",
         "sentiment": "watch"
       }
     ],
@@ -138,7 +138,7 @@
     ]
   },
   "zones": {
-    "hormuz": "yellow",
+    "hormuz": "amber",
     "taiwan": "yellow",
     "malacca": "amber",
     "suez": "amber",
