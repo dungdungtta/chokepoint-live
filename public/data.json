@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T11:33:05.453Z",
+    "generated_at": "2026-08-07T12:29:17.251Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "EuroDry Ltd. Reports Results for the Quarter and Six-Month Period Ended June 30, 2026",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/08/06/3340148/0/en/EuroDry-Ltd-Reports-Results-for-the-Quarter-and-Six-Month-Period-Ended-June-30-2026.html",
-        "published": "2026-08-06T11:30:00Z",
+        "title": "Why is Pakistan PM Shehbaz Sharif visiting Saudi Arabia amid Gulf tensions?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/6/why-is-pakistan-pm-shehbaz-sharif-visiting-saudi-arabia-amid-gulf-tensions",
+        "published": "2026-08-06T12:27:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "Italy on red alert, Hungary turns off the lights as Europe's heatwave takes toll",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/weather-news/articles/italy-red-alert-hungary-turns-111919101.html",
-        "published": "2026-08-06T11:19:19Z",
+        "title": "Thursday: Hili dialogue",
+        "source": "Whyevolutionistrue.com",
+        "url": "https://whyevolutionistrue.com/2026/08/06/thursday-hili-dialogue-599/",
+        "published": "2026-08-06T12:00:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "Zelensky’s 40-day Influence Operation Backfired Badly in Kharkov and Odessa",
-        "source": "Substack.com",
-        "url": "https://korybko.substack.com/p/zelenskys-40-day-influence-operation-2b5",
-        "published": "2026-08-06T11:17:10Z",
+        "title": "Maritime Coalition Reflects Global Commitment to Maritime Security and Navigation Freedom, Defense Ministry Spokesperson Says",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260806-spa01.htm",
+        "published": "2026-08-06T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran and Oman near deal on Strait of Hormuz shipping routes, with crypto tolls in the mix",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-oman-hormuz-shipping-deal-crypto-tolls/",
-        "published": "2026-08-06T11:11:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Sensex today | Stock Market Highlights: Sensex climbs 374 pts; Nifty ends above 24,600 on RBI, crude oil cues",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-6-august-2026/article71309748.ece",
-        "published": "2026-08-06T11:09:51Z",
+        "title": "World shares are mixed and Kospi falls 4.6% after tech giants decline on Wall Street",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/world-shares-mixed-kospi-falls-46-after-tech-135413129",
+        "published": "2026-08-06T11:42:33Z",
         "sentiment": "watch"
       }
     ],
