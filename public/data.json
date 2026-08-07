@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-06T13:23:41.311Z",
+    "generated_at": "2026-08-07T00:10:06.548Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,75 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/proposed-hormuz-deal-would-give-iran-control-of-inbound-traffic-sources-say/articleshow/132929979.cms",
-        "published": "2026-08-05T13:02:57Z",
+        "title": "Iran Says Talks with Oman Progressing, Meetings with Pakistan Ongoing",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/08/05/iran-says-talks-with-oman-progressing-meetings-with-pakistan-ongoing/",
+        "published": "2026-08-05T22:51:27Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Trekor Announces $125 Million of Adjusted EBITDA in Second Quarter",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/globe-newswire/trekor-announces-125-million-of-adjusted-ebitda-in-second-quarter",
+        "published": "2026-08-05T22:40:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthis Say They’ll Target Tankers in Red Sea",
-        "source": "Politicalwire.com",
-        "url": "https://politicalwire.com/2026/08/05/yemens-houthis-say-theyll-target-tankers-in-red-sea/",
-        "published": "2026-08-05T13:00:00Z",
+        "title": "Trekor Announces $125 Million of Adjusted EBITDA in Second Quarter",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/08/05/3339859/0/en/Trekor-Announces-125-Million-of-Adjusted-EBITDA-in-Second-Quarter.html",
+        "published": "2026-08-05T22:37:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US and Iran having 'very good discussions', Trump says",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-optimistic-on-us-iran-talks-as-oil-prices-drop-and-stocks-rise/articleshow/132929149.cms",
-        "published": "2026-08-05T12:55:53Z",
-        "sentiment": "watch"
+        "title": "Oil Holds Three-Day Drop as Iran, Oman Reach Hormuz Agreement",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/oil-holds-three-day-drop-as-iran-oman-reach-hormuz-agreement",
+        "published": "2026-08-05T22:36:12Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Trump rips Exxon, Chevron for ‘making too much money’ as US gas prices soar above $4 — but is Big Oil the bad guy?",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/trump-rips-exxon-chevron-making-125500268.html",
-        "published": "2026-08-05T12:55:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Explosions rock Dubai’s Jebel Ali Free Zone as conflicting accounts muddy the picture",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/dubai-jebel-ali-explosions-crypto-impact/",
-        "published": "2026-08-05T12:53:27Z",
-        "sentiment": "watch"
+        "title": "Europe’s Dry Rivers Set for Little Relief from August Rains",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/europes-dry-rivers-set-for-little-relief-from-august-rains/",
+        "published": "2026-08-05T22:17:03Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
       {
-        "title": "Taiwan begins military drills as China pressure grows",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/taiwan-begins-military-drills-as-china-pressure-grows-225243",
-        "published": "2026-08-05T10:18:53Z",
+        "title": "Could Japan be the next drone giant? Prime Minister looks to push domestic production to reduce reliance on China",
+        "source": "TechRadar",
+        "url": "https://www.techradar.com/pro/could-japan-be-the-next-drone-giant-prime-minister-looks-to-push-domestic-production-to-reduce-reliance-on-china",
+        "published": "2026-08-05T22:45:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Japan Defense White Paper Sparks Debate Over Military Buildup",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/150260.php",
-        "published": "2026-08-05T09:11:35Z",
+        "title": "Japan’s Shifting National Security Strategy—and America’s Role in It",
+        "source": "Daily Signal",
+        "url": "https://www.dailysignal.com/2026/08/05/japan-national-security-strategy/",
+        "published": "2026-08-05T21:10:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "The real reason Trump agreed to the MOU",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/blog/2026/08/the-real-reason-trump-agreed-to-the-mou/",
-        "published": "2026-08-05T04:00:00Z",
+        "title": "Ukraine’s Deadly Missile Defense Shortage",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/08/05/ukraine-patriot-missile-interceptor-shortage-russia-war-zelensky-us-trump-nato/",
+        "published": "2026-08-05T20:30:32Z",
         "sentiment": "watch"
       },
       {
-        "title": "US Is Underestimating The Iran-Russia-China-North Korea Axis, Warns Mark Montgomery",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260804-rferl01.htm",
-        "published": "2026-08-04T12:00:00Z",
-        "sentiment": "danger"
+        "title": "The Doctrine of Kemal Atatürk: Kemalism in the 21st Century. A Geopolitical Imperative for Türkiye. “Collapse of Bellum Americana”",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/kemalism-21st-century-geopolitical-imperative-turkiye/5935926",
+        "published": "2026-08-05T17:36:05Z",
+        "sentiment": "watch"
       },
       {
-        "title": "U.S. congressman backs Taiwan drone partnership to deter China",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260804-cna02.htm",
-        "published": "2026-08-04T12:00:00Z",
+        "title": "Trump is Testing the U.S. Military’s Limits. We’ll All Pay When They Break",
+        "source": "Rolling Stone",
+        "url": "http://www.rollingstone.com/politics/political-commentary/trump-iran-war-military-stockpiles-1235603880/",
+        "published": "2026-08-05T14:00:00Z",
         "sentiment": "watch"
       }
     ],
@@ -139,7 +139,7 @@
   },
   "zones": {
     "hormuz": "yellow",
-    "taiwan": "amber",
+    "taiwan": "yellow",
     "malacca": "amber",
     "suez": "amber",
     "panama": "yellow",
