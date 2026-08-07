@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T05:16:28.264Z",
+    "generated_at": "2026-08-07T06:49:41.567Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn",
-        "published": "2026-08-06T05:05:06Z",
+        "title": "Low water on Germany's Rhine river threatens new blow to economy",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/low-water-on-germanys-rhine-river-threatens-new-blow-to-economy-225278",
+        "published": "2026-08-06T06:46:39Z",
         "sentiment": "danger"
       },
       {
-        "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo",
-        "published": "2026-08-06T05:00:54Z",
+        "title": "Fortune maker AWL piles up edible oil stocks as Middle East, Ukraine wars rattle supply chains: CEO Shrikant Kanhere",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/fortune-maker-awl-piles-up-edible-oil-stocks-as-middle-east-ukraine-wars-rattle-supply-chains-ceo-shrikant-kanhere/articleshow/132986187.cms",
+        "published": "2026-08-06T06:46:14Z",
         "sentiment": "danger"
       },
       {
-        "title": "US state declares emergency over Russia-Ukraine drone warfare",
-        "source": "RT",
-        "url": "https://www.rt.com/news/643919-indiana-emergency-drone-russia/",
-        "published": "2026-08-06T04:49:13Z",
-        "sentiment": "danger"
+        "title": "India's big billion-dollar trade deals are done. Now comes the real test",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-ftas-trade-agreements-export-growth-challenges-fta-utilisation-market-access-eu-uk-uae-australia/articleshow/132985372.cms",
+        "published": "2026-08-06T06:38:39Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Valaris Reports Second Quarter 2026 Results",
-        "source": "Associated Press",
-        "url": "https://apnews.com/press-release/business-wire/press-release-a70b8893c3ec4070909fae639d849a1b",
-        "published": "2026-08-06T04:21:58Z",
+        "title": "Oil holds losses as Iran and Oman reach agreement over Hormuz",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/markets/2026/08/06/oil-holds-losses-as-iran-and-oman-reach-agreement-over-hormuz/",
+        "published": "2026-08-06T06:23:03Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Half-year Financial Report",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/08/06/3339938/0/en/Half-year-Financial-Report.html",
+        "published": "2026-08-06T06:00:00Z",
         "sentiment": "watch"
       }
     ],
@@ -131,7 +138,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "yellow",
     "malacca": "amber",
     "suez": "amber",
