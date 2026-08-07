@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T21:57:09.080Z",
+    "generated_at": "2026-08-07T22:48:21.987Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran says Hormuz deal ‘nearing completion’",
-        "source": "RT",
-        "url": "https://www.rt.com/news/643958-iran-oman-hormuz-deal/",
-        "published": "2026-08-06T21:02:37Z",
+        "title": "Iran says deal ‘in the final stages’ to open temporary, narrow path through Strait of Hormuz",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/06/world-news/iran-says-deal-to-open-temporary-narrow-path-through-strait-of-hormuz-coming-soon/",
+        "published": "2026-08-06T22:33:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
-        "published": "2026-08-06T20:58:56Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "UK Targets Arctic LNG Carrier, Five Oil Tankers in Latest Russia Sanctions Package",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/uk-targets-arctic-lng-carrier-five-oil-tankers-in-latest-russia-sanctions-package/",
-        "published": "2026-08-06T20:49:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi officials shocked by attack reports, stress de-escalation in US-Iran talks",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/saudi-officials-shocked-by-attack-reports-stress-de-escalation-in-us-iran-talks/",
-        "published": "2026-08-06T20:47:05Z",
+        "title": "11 civilians injured in Houthi strike in Saudi Arabia amid rising regional tensions",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/431357",
+        "published": "2026-08-06T22:25:16Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump optimistic on Iran conflict resolution, Strait of Hormuz reopening",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-optimistic-on-iran-conflict-resolution-strait-of-hormuz-reopening/",
-        "published": "2026-08-06T20:34:03Z",
-        "sentiment": "neutral"
+        "title": "Iran warns Gulf states it will turn region into ‘fireball’ if US launches new strikes",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/06/world-news/iran-warns-gulf-states-of-retaliation-if-us-launches-new-strikes/",
+        "published": "2026-08-06T22:13:42Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Original-Owner, 6k-Mile 2009 Harley-Davidson CVO Road Glide",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/2009-harley-davidson-road-glide-4/",
+        "published": "2026-08-06T22:06:11Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
