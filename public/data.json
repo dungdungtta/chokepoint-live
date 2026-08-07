@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T19:17:43.419Z",
+    "generated_at": "2026-08-07T20:07:49.886Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Proposed Hormuz passage deal not feasible for shipping industry, sources say",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/challenges-of-proposed-iran-oman-deal-for-strait-of-hormuz-shipping-industry-concerns-over-fees-and-compliance/articleshow/133014167.cms",
-        "published": "2026-08-06T18:33:32Z",
+        "title": "ICU Medical Announces Second Quarter 2026 Results and Updates its Fiscal Year 2026 Guidance",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/08/06/3340716/8573/en/ICU-Medical-Announces-Second-Quarter-2026-Results-and-Updates-its-Fiscal-Year-2026-Guidance.html",
+        "published": "2026-08-06T20:05:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Analysis: Europe at a crossroads – Wars, wildfires, migration: Why the old continent seems unable to manage successive crises",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/08/06/analysis-europe-at-a-crossroads-wars-wildfires-migration-why-the-old-continent-seems-unable-to-manage-successive-crises/",
-        "published": "2026-08-06T18:26:51Z",
+        "title": "U.S. Diesel Exports Hit Record High as Global Supply Crunch Deepens",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/US-Diesel-Exports-Hit-Record-High-as-Global-Supply-Crunch-Deepens.html",
+        "published": "2026-08-06T20:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "How drought threatens electricity supplies in Europe",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/how-drought-threatens-electricity-supplies-in-europe/a-78269916",
+        "published": "2026-08-06T19:55:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran Seeks to Bar US Ships in Hormuz as Deal With Oman Advances",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/iran-seeks-to-bar-us-ships-in-hormuz-as-deal-with-oman-advances",
-        "published": "2026-08-06T18:20:41Z",
-        "sentiment": "watch"
+        "title": "Drought threatens power supplies in Danube countries",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/drought-europe-electricity-supplies-danube/a-78269916",
+        "published": "2026-08-06T19:55:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Saudi Arabian oil shipments to US drop to zero in July for first time since 1985",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/saudi-oil-shipments-us-zero-july/",
-        "published": "2026-08-06T18:16:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran tightens grip on Strait of Hormuz",
-        "source": "Semafor.com",
-        "url": "https://www.semafor.com/article/08/06/2026/iran-tightens-grip-on-strait-of-hormuz",
-        "published": "2026-08-06T18:11:25Z",
+        "title": "Britannia net jumps 14%, sales touch Rs 5,000 crore in Q1",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/britannia-industries-reports-14-surge-in-q1-net-profit-as-sales-hit-5000-crore-amid-e-commerce-boom/articleshow/133015375.cms",
+        "published": "2026-08-06T19:53:46Z",
         "sentiment": "watch"
       }
     ],
