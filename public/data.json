@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T14:42:20.011Z",
+    "generated_at": "2026-08-08T15:12:32.680Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Saudi Arabia’s $5 Oil Detour Is Expensive—and Worth It",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Arabias-5-Oil-Detour-Is-Expensiveand-Worth-It.html",
+        "published": "2026-08-07T14:49:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Saudi Arabia’s $5 Oil Detour Is Expensive—and Worth It",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/saudi-arabia-5-oil-detour-144900286.html",
+        "published": "2026-08-07T14:49:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4390943/posts",
+        "published": "2026-08-07T14:48:55Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Abu Dhabi National Oil Company reports 15 missile and drone attacks on its vessels in the Strait of Hormuz",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/adnoc-missile-drone-attacks-strait-of-hormuz/",
@@ -39,20 +60,6 @@
         "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Buys-11-Supertankers-for-13-Billion-to-Expand-Export-Fleet.html",
         "published": "2026-08-07T14:30:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Adnoc Buys $1.3B of Tankers as Oil Exports Boom",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/adnoc_buys_13b_of_tankers_as_oil_exports_boom-07-aug-2026-184324-article/",
-        "published": "2026-08-07T14:11:10Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Arabia expects imminent 2-pronged attack from Iran's allies, official says",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/saudi-arabia-iraq-yemen-houthis-iran-9.7299356",
-        "published": "2026-08-07T14:07:11Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
