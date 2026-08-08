@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T17:14:45.804Z",
+    "generated_at": "2026-08-08T17:51:07.387Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "ADNOC Says Three Vessels Attacked This Week as Hormuz Shipping Remains Severely Disrupted",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/adnoc-says-three-vessels-attacked-this-week-as-hormuz-shipping-remains-severely-disrupted/",
+        "published": "2026-08-07T17:25:21Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/cf5445a5d0b643b1",
@@ -52,13 +59,6 @@
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
         "published": "2026-08-07T16:34:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Gulf uncertainty is creating ‘win, win’ strategy with Chevron and other oil majors",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/07/gulf-uncertainty-is-creating-win-win-strategy-with-chevron-and-other-oil-majors.html",
-        "published": "2026-08-07T16:26:24Z",
         "sentiment": "watch"
       }
     ],
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "yellow",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
