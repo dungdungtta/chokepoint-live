@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T09:55:43.706Z",
+    "generated_at": "2026-08-08T10:41:07.545Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil prices drop as investors weigh potential Hormuz deal between Iran, Gulf states",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oil-prices-drop-as-investors-weigh-potential-hormuz-deal-between-iran-gulf/",
+        "published": "2026-08-07T10:40:33Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Enough with ‘theater diplomacy’ – Iran’s top negotiator to Trump",
+        "source": "RT",
+        "url": "https://www.rt.com/news/643981-iran-us-trump-ghalibaf/",
+        "published": "2026-08-07T10:18:56Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition",
+        "published": "2026-08-07T10:00:56Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/7/european-caution-slowing-us-push-for-hormuz-naval-coalition",
+        "published": "2026-08-07T10:00:56Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Oil prices rise amid Gulf tensions; US jobs data awaited",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/oil-prices-rise-amid-gulf-tensions-us-jobs-data-awaited/",
         "published": "2026-08-07T09:52:52Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Trump says Hormuz negotiations progressing amid 2026 crisis",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-says-hormuz-negotiations-progressing-amid-2026-crisis/",
-        "published": "2026-08-07T09:38:31Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Shipping Through Hormuz Drops Sharply as Tensions Rise",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Shipping-Through-Hormuz-Drops-Sharply-as-Tensions-Rise.html",
-        "published": "2026-08-07T09:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Global Market: European shares rise as healthcare stocks offset geopolitical concerns; investors await US jobs data",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-healthcare-stocks-offset-geopolitical-concerns-investors-await-us-jobs-data/articleshow/133029661.cms",
-        "published": "2026-08-07T09:27:56Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Says Hormuz Talks ‘Moving Along’ Even as Iran Mulls US Ban",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/trump-says-hormuz-talks-moving-along-even-as-iran-mulls-us-ban",
-        "published": "2026-08-07T09:22:14Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
@@ -138,7 +138,7 @@
     ]
   },
   "zones": {
-    "hormuz": "yellow",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
