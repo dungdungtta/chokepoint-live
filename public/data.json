@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T00:32:20.805Z",
+    "generated_at": "2026-08-08T02:44:28.575Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Storage, transmission key for next phase of India's energy transition: Experts",
-        "source": "Livemint",
-        "url": "https://www.livemint.com/industry/energy/india-clean-energy-transition-grid-expansion-battery-storage-renewables-11786012731692.html",
-        "published": "2026-08-07T00:24:15Z",
+        "title": "Oil prices rise as Iran and Oman agree on Strait of Hormuz shipping route",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oil-prices-rise-as-iran-and-oman-agree-on-strait-of-hormuz-shipping-route/",
+        "published": "2026-08-07T02:40:28Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil extends gains as Iran strikes targets in Strait of Hormuz",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/oil-extends-gains-as-iran-strikes-targets-in-strait-of-hormuz",
-        "published": "2026-08-07T00:20:00Z",
+        "title": "Sensex, Nifty on track for muted start amid rising oil prices; Q1 earnings, US-Iran war in focus",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty-on-track-for-muted-start-amid-rising-oil-prices-q1-earnings-us-iran-war-in-focus/article71316120.ece",
+        "published": "2026-08-07T02:35:50Z",
         "sentiment": "danger"
       },
       {
-        "title": "Lower Oil Prices Lend Support For The Gold Rally",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Metals/Gold/Lower-Oil-Prices-Lend-Support-For-The-Gold-Rally.html",
-        "published": "2026-08-07T00:00:00Z",
+        "title": "Ships stuck in the Strait of Hormuz region may be biosecurity risks when they leave. What can we do?",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/ships-stuck-in-the-strait-of-hormuz-region-may-be-biosecurity-risks-when-they-leave-what-can-we-do-288551",
+        "published": "2026-08-07T02:30:06Z",
         "sentiment": "watch"
       },
       {
-        "title": "India buys 4m barrels Nigerian crude amid US-Iran crisis",
-        "source": "The Punch",
-        "url": "https://punchng.com/india-buys-4m-barrels-nigerian-crude-amid-us-iran-crisis/",
-        "published": "2026-08-06T23:35:46Z",
+        "title": "The Strait of Hormuz must stay open",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/08/the-strait-of-hormuz-must-stay-open-2/",
+        "published": "2026-08-07T02:16:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Calfrac Reports Second Quarter 2026 Results",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/08/06/3340887/0/en/Calfrac-Reports-Second-Quarter-2026-Results.html",
-        "published": "2026-08-06T23:27:00Z",
+        "title": "Oil price today: Brent rises 1% as Middle East conflict continues Hormuz shipping disruption",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-brent-rises-1-as-middle-east-conflict-continues-hormuz-shipping-disruption/articleshow/133018921.cms",
+        "published": "2026-08-07T02:14:17Z",
         "sentiment": "watch"
       }
     ],
@@ -101,6 +101,13 @@
     ],
     "malacca": [
       {
+        "title": "Ships stuck in the Strait of Hormuz region may be biosecurity risks when they leave. What can we do?",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/ships-stuck-in-the-strait-of-hormuz-region-may-be-biosecurity-risks-when-they-leave-what-can-we-do-288551",
+        "published": "2026-08-07T02:30:06Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "The Strait of Malacca: The Indo-Pacific’s Most Critical Chokepoint?",
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/07/the-strait-of-malacca-the-indo-pacifics-most-critical-chokepoint/",
@@ -126,13 +133,6 @@
         "source": "Forbes",
         "url": "https://www.forbes.com/sites/billconerly/2026/07/15/shipping-choke-points-raise-business-costs-even-after-the-iran-war/",
         "published": "2026-07-15T18:01:50Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran Stakes New Claim Over Strait of Hormuz as Fresh Attacks Hit Tankers",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/iran-strait-of-hormuz-un-imo-attacks-hit-tankers-malacca-indonesia-singapore-1239056685/",
-        "published": "2026-07-07T18:12:07Z",
         "sentiment": "danger"
       }
     ]
