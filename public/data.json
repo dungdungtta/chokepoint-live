@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T08:01:13.190Z",
+    "generated_at": "2026-08-08T09:02:35.538Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "China’s Trade Boom Survives Extreme Rains as AI Lifts Demand",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/chinas-trade-boom-survives-extreme-rains-as-ai-lifts-demand",
+        "published": "2026-08-07T08:15:54Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China’s Crude Imports Bounce Back After Historic June Slump",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Bounce-Back-After-Historic-June-Slump.html",
+        "published": "2026-08-07T08:15:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "What’s driving Gold above $4,200? Fed bets & West Asia hopes drive rally",
         "source": "BusinessLine",
         "url": "https://www.thehindubusinessline.com/markets/gold/whats-driving-gold-above-4200-fed-bets-west-asia-hopes-drive-rally/article71316659.ece",
@@ -38,27 +52,6 @@
         "source": "Newsonjapan.com",
         "url": "https://newsonjapan.com/article/150290.php",
         "published": "2026-08-07T07:51:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/deal-iran-strait-hormuz-require-compromise-trump-135446529",
-        "published": "2026-08-07T07:46:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Today in Germany: A roundup of the latest news on Friday",
-        "source": "The Local Germany",
-        "url": "https://www.thelocal.de/20260807/today-in-germany-a-roundup-of-the-latest-news-on-friday-134",
-        "published": "2026-08-07T06:39:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Proposed Hormuz Passage Deal Not Feasible for Shipping Industry, Sources Say",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/08/07/880681.htm",
-        "published": "2026-08-07T06:27:52Z",
         "sentiment": "watch"
       }
     ],
