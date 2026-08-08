@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T11:47:06.002Z",
+    "generated_at": "2026-08-08T13:03:28.740Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Friday: Hili dialogue",
-        "source": "Whyevolutionistrue.com",
-        "url": "https://whyevolutionistrue.com/2026/08/07/friday-hili-dialogue-589/",
-        "published": "2026-08-07T11:45:45Z",
+        "title": "ASX 200 Slips Slightly to Close Out Record-Setting Week as Materials, Tech Buck the Trend This Friday Session",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/asx-200-closes-lower-amid-sector-weakness-1873688",
+        "published": "2026-08-07T12:49:46Z",
         "sentiment": "watch"
       },
       {
-        "title": "World shares are mixed after US stocks fall back, while oil edges lower",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/world-shares-mixed-after-us-stocks-fall-back-135447879",
-        "published": "2026-08-07T11:45:18Z",
+        "title": "Iran’s grip on trade is a potent weapon, but it has an expiry date",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date",
+        "published": "2026-08-07T12:28:52Z",
         "sentiment": "watch"
       },
       {
-        "title": "Vessel Traffic Through Hormuz Dwindles This Week As Markets Watch Iran-Oman Talks",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/vessel-traffic-through-hormuz-dwindles-this-week-as-markets-watch-iran-oman-talks/",
-        "published": "2026-08-07T11:44:47Z",
-        "sentiment": "neutral"
+        "title": "Day 1,626 of WW3. Stinky tells Zelenskyy \"We want missiles too\". Lithuania warns of Russian False flag attacks and US intel warns russia may want to commit suicide as early as this fall. This is your Finally Friday Ukraine War thread [Hero]",
+        "source": "Fark.com",
+        "url": "https://www.fark.com/comments/14156198/Day-1626-of-WW3-Stinky-tells-Zelenskyy-We-want-missiles-too-Lithuania-warns-of-Russian-False-flag-attacks-US-intel-warns-russia-may-want-to-commit-suicide-as-early-as-this-fall-This-is-your-Finally-Friday-Ukraine-War-thread",
+        "published": "2026-08-07T12:00:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "UAE’s Adnoc Buys $1.3 Billion of Tankers as Oil Exports Boom",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/uaes-adnoc-buys-1-3-billion-of-tankers-as-oil-exports-boom/",
-        "published": "2026-08-07T11:41:43Z",
+        "title": "Treasury Dismantles Iranian Regime's Global Clandestine Currency Networks",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260807-treasury02.htm",
+        "published": "2026-08-07T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "India has built energy resilience to withstand external shocks, says Puri",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-has-built-energy-resilience-to-withstand-external-shocks-says-puri/articleshow/133032667.cms",
-        "published": "2026-08-07T11:40:49Z",
-        "sentiment": "watch"
+        "title": "Report: Iran War Deals Blow To Global Growth",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260807-rferl04.htm",
+        "published": "2026-08-07T12:00:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "China’s Military Is Now Using AI to Plan Strike Operations",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/08/chinas-military-is-now-using-ai-to-plan-strike-operations/",
+        "published": "2026-08-07T12:50:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "How Can U.S. Special Operations Forces Help Defeat China on Taiwan?",
         "source": "War on the Rocks",
@@ -89,13 +96,6 @@
         "source": "TechRadar",
         "url": "https://www.techradar.com/pro/could-japan-be-the-next-drone-giant-prime-minister-looks-to-push-domestic-production-to-reduce-reliance-on-china",
         "published": "2026-08-05T22:45:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Japan’s Shifting National Security Strategy—and America’s Role in It",
-        "source": "Daily Signal",
-        "url": "https://www.dailysignal.com/2026/08/05/japan-national-security-strategy/",
-        "published": "2026-08-05T21:10:00Z",
         "sentiment": "watch"
       }
     ],
@@ -138,7 +138,7 @@
     ]
   },
   "zones": {
-    "hormuz": "yellow",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
