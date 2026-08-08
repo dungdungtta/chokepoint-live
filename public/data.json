@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T19:35:58.294Z",
+    "generated_at": "2026-08-08T20:03:49.864Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US says Iran-Oman Strait of Hormuz deal near, shipping breakthrough expected",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-says-iran-oman-strait-of-hormuz-deal-near-shipping-breakthrough-expected/",
-        "published": "2026-08-07T19:09:10Z",
-        "sentiment": "watch"
+        "title": "Iran Continues to Trash U.S., Claims No Peace Talks",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/08/07/iran-continues-to-trash-u-s-claims-no-peace-talks/",
+        "published": "2026-08-07T20:00:16Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "How the Iran war spread beyond one single strait",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-08-08/iran-war-spreading-diplomacy-teeters/106990466",
-        "published": "2026-08-07T18:41:01Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The Straits Are Not OK",
+        "title": "The Middle East Tries Its Hand at a NATO-Style Pact",
         "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/08/07/history-hormuz-straits-iran-war-trump/",
-        "published": "2026-08-07T18:40:25Z",
+        "url": "http://foreignpolicy.com/2026/08/07/pakistan-saudi-arabia-turkey-mutual-defense-pact-iran-israel-military/",
+        "published": "2026-08-07T19:45:31Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran lashes out at Saudi-led defense pact with Pakistan and Türkiye",
-        "source": "RT",
-        "url": "https://www.rt.com/news/644000-saudi-pakistan-turkiye-pact/",
-        "published": "2026-08-07T18:35:40Z",
+        "title": "Oil prices rise amid potential Iran-Oman Strait of Hormuz agreement",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oil-prices-rise-amid-potential-iran-oman-strait-of-hormuz-agreement/",
+        "published": "2026-08-07T19:43:45Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Pakistan, Saudi Arabia and Turkiye sign joint defence pact amid West Asia tensions",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/pakistan-saudi-arabia-and-turkiye-sign-joint-defence-pact-amid-west-asia-tensions/article71319296.ece",
+        "published": "2026-08-07T19:43:33Z",
         "sentiment": "watch"
       },
       {
-        "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
-        "published": "2026-08-07T18:05:14Z",
+        "title": "US Senate passes sweeping sanctions on Russian energy",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/ukraine/2026/0807/1587013-us-sanctions-russia/",
+        "published": "2026-08-07T19:42:50Z",
         "sentiment": "watch"
       }
     ],
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "yellow",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
