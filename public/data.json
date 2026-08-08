@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T11:12:13.389Z",
+    "generated_at": "2026-08-08T11:47:06.002Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Links 8/7/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/links-8-7-2026.html",
-        "published": "2026-08-07T10:55:36Z",
+        "title": "Friday: Hili dialogue",
+        "source": "Whyevolutionistrue.com",
+        "url": "https://whyevolutionistrue.com/2026/08/07/friday-hili-dialogue-589/",
+        "published": "2026-08-07T11:45:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran War: Heads Explode Over Iran Draft Terms for Strait of Hormuz; Ansar Allah Strike on Saudi Forces, Killing Over 50",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/iran-war-heads-explode-over-iran-draft-terms-for-strait-of-hormuz-ansar-allah-strike-on-saudi-forces-killing-over-50.html",
-        "published": "2026-08-07T10:54:36Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Sensex today | Stock Market Highlights: Sensex falls 456 points, Nifty slips as banking stocks drag markets lower",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-updates-7th-august-2026/article71314561.ece",
-        "published": "2026-08-07T10:53:45Z",
+        "title": "World shares are mixed after US stocks fall back, while oil edges lower",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/world-shares-mixed-after-us-stocks-fall-back-135447879",
+        "published": "2026-08-07T11:45:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know",
-        "published": "2026-08-07T10:52:34Z",
-        "sentiment": "danger"
+        "title": "Vessel Traffic Through Hormuz Dwindles This Week As Markets Watch Iran-Oman Talks",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/vessel-traffic-through-hormuz-dwindles-this-week-as-markets-watch-iran-oman-talks/",
+        "published": "2026-08-07T11:44:47Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Middle East: Saudi Arabia, Turkey, Pakistan sign defense deal",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/middle-east-saudi-arabia-turkey-pakistan-sign-defense-deal/live-78272895",
-        "published": "2026-08-07T10:48:00Z",
+        "title": "UAE’s Adnoc Buys $1.3 Billion of Tankers as Oil Exports Boom",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/uaes-adnoc-buys-1-3-billion-of-tankers-as-oil-exports-boom/",
+        "published": "2026-08-07T11:41:43Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "India has built energy resilience to withstand external shocks, says Puri",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-has-built-energy-resilience-to-withstand-external-shocks-says-puri/articleshow/133032667.cms",
+        "published": "2026-08-07T11:40:49Z",
         "sentiment": "watch"
       }
     ],
@@ -138,7 +138,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "yellow",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
