@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T16:42:16.782Z",
+    "generated_at": "2026-08-08T17:14:45.804Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/cf5445a5d0b643b1",
+        "published": "2026-08-07T17:11:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "*Lightning Deal* LawnMaster 15″ Cordless Lawn Mower w/ Charger Just $114!",
+        "source": "Southernsavers.com",
+        "url": "https://www.southernsavers.com/lightning-deal-lawnmaster-15-cordless-lawn-mower-w-charger-just-114/",
+        "published": "2026-08-07T17:05:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran Debates Hormuz Wording as Trump Says Deal’s ‘Moving Along’",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/iran-debates-hormuz-wording-as-trump-says-deals-moving-along/",
+        "published": "2026-08-07T16:51:19Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
@@ -38,27 +59,6 @@
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/07/gulf-uncertainty-is-creating-win-win-strategy-with-chevron-and-other-oil-majors.html",
         "published": "2026-08-07T16:26:24Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran says agreement on Hormuz shipping reached with Oman",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/08/07/iran-agreement-oman-strait-of-hormuz-shipping/",
-        "published": "2026-08-07T16:18:53Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Is-Iran-Preparing-to-Permanently-Block-the-Strait-of-Hormuz.html",
-        "published": "2026-08-07T16:04:46Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/iran-preparing-permanently-block-strait-160446082.html",
-        "published": "2026-08-07T16:04:46Z",
         "sentiment": "watch"
       }
     ],
