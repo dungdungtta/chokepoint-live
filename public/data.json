@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T20:03:49.864Z",
+    "generated_at": "2026-08-08T20:50:23.483Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Saudi Arabia, Turkey and Pakistan forge ‘attack on one, attack on all’ pact — as Iran deal lingers",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/07/world-news/saudi-arabia-turkey-and-pakistan-forge-self-defense-pact-as-iran-deal-lingers/",
+        "published": "2026-08-07T20:50:01Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil Steadies as Hormuz Tensions Flare",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_steadies_as_hormuz_tensions_flare-07-aug-2026-184329-article/",
+        "published": "2026-08-07T20:14:42Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran Continues to Trash U.S., Claims No Peace Talks",
         "source": "Breitbart News",
         "url": "https://www.breitbart.com/middle-east/2026/08/07/iran-continues-to-trash-u-s-claims-no-peace-talks/",
@@ -46,20 +60,6 @@
         "url": "https://cryptobriefing.com/oil-prices-rise-amid-potential-iran-oman-strait-of-hormuz-agreement/",
         "published": "2026-08-07T19:43:45Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Pakistan, Saudi Arabia and Turkiye sign joint defence pact amid West Asia tensions",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/pakistan-saudi-arabia-and-turkiye-sign-joint-defence-pact-amid-west-asia-tensions/article71319296.ece",
-        "published": "2026-08-07T19:43:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Senate passes sweeping sanctions on Russian energy",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/ukraine/2026/0807/1587013-us-sanctions-russia/",
-        "published": "2026-08-07T19:42:50Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "yellow",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
