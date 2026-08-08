@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T05:58:17.016Z",
+    "generated_at": "2026-08-08T07:07:19.224Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Hormuz closure clouds China's crude imports after they hit a 3-month high in July",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/07/china-crude-imports-july-hormuz-iran-war-.html",
-        "published": "2026-08-07T05:55:34Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Deadly Houthi strikes in Yemen stoke fears of wider war, Saudi Arabia warns of more attacks",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/08/07/deadly-houthi-strikes-in-yemen-stoke-fears-of-wider-war-saudi-arabia-warns-of-more-attacks/",
-        "published": "2026-08-07T05:39:48Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Europe struggles for influence amid mounting crises",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/europe-struggles-for-influence-amid-mounting-crises-225322",
-        "published": "2026-08-07T05:33:09Z",
+        "title": "Today in Germany: A roundup of the latest news on Friday",
+        "source": "The Local Germany",
+        "url": "https://www.thelocal.de/20260807/today-in-germany-a-roundup-of-the-latest-news-on-friday-134",
+        "published": "2026-08-07T06:39:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "The key to colonizing Mars may be hidden inside asteroids",
-        "source": "Science Daily",
-        "url": "https://www.sciencedaily.com/releases/2026/08/260805082504.htm",
-        "published": "2026-08-07T05:29:22Z",
+        "title": "Proposed Hormuz Passage Deal Not Feasible for Shipping Industry, Sources Say",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/08/07/880681.htm",
+        "published": "2026-08-07T06:27:52Z",
         "sentiment": "watch"
       },
       {
-        "title": "Vape tax increase being considered after it raises €22m in nine months",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/politics/2026/08/07/minister-for-finance-ponders-vape-tax-increase/",
-        "published": "2026-08-07T05:00:01Z",
+        "title": "Hormuz risks lift oil prices again",
+        "source": "BOL News",
+        "url": "https://www.bolnews.com/business/hormuz-risks-lift-oil-prices-again/",
+        "published": "2026-08-07T06:05:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "NZ sharemarket falls 0.96% as Middle East uncertainty lifts oil price – Market close",
+        "source": "New Zealand Herald",
+        "url": "https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-falls-096-as-middle-east-uncertainty-lifts-oil-price-market-close/premium/F35ZTDITCJHALAXJGKVDSUWEAU/",
+        "published": "2026-08-07T06:02:54Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Houthi drone, missile blitz kills 30 Yemeni troops, shattering four-year truce",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-07-houthi-drone-missile-blitz-yemeni-troops.html",
+        "published": "2026-08-07T06:00:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "How Can U.S. Special Operations Forces Help Defeat China on Taiwan?",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/how-can-u-s-special-operations-forces-help-defeat-china-on-taiwan/",
+        "published": "2026-08-07T07:00:55Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Links 8/6/2026",
         "source": "Nakedcapitalism.com",
@@ -89,13 +96,6 @@
         "source": "Daily Signal",
         "url": "https://www.dailysignal.com/2026/08/05/japan-national-security-strategy/",
         "published": "2026-08-05T21:10:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ukraine’s Deadly Missile Defense Shortage",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/08/05/ukraine-patriot-missile-interceptor-shortage-russia-war-zelensky-us-trump-nato/",
-        "published": "2026-08-05T20:30:32Z",
         "sentiment": "watch"
       }
     ],
@@ -138,7 +138,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "yellow",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
