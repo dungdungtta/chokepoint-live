@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T13:58:40.739Z",
+    "generated_at": "2026-08-08T14:42:20.011Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Dow Jones Climbs Early After Soft Jobs Data Fuels Hopes of Fed Policy Flexibility",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/dow-jones-rises-amid-unexpected-job-losses-fed-policy-1873703",
-        "published": "2026-08-07T13:46:41Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Houthis Celebrate Killing Dozens in Attack on Alleged ‘Saudi Enemy Mercenaries’ in Yemen",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/08/07/houthis-celebrate-killing-dozens-in-attack-on-alleged-saudi-enemy-mercenaries-in-yemen/",
-        "published": "2026-08-07T13:42:54Z",
+        "title": "Abu Dhabi National Oil Company reports 15 missile and drone attacks on its vessels in the Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/adnoc-missile-drone-attacks-strait-of-hormuz/",
+        "published": "2026-08-07T14:37:11Z",
         "sentiment": "danger"
       },
       {
-        "title": "ADNOC L&S buys 11 vessels in $1.3bn fleet expansion",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/1a2226f1dfe87950",
-        "published": "2026-08-07T13:39:59Z",
+        "title": "ADNOC Buys 11 Supertankers for $1.3 Billion to Expand Export Fleet",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Buys-11-Supertankers-for-13-Billion-to-Expand-Export-Fleet.html",
+        "published": "2026-08-07T14:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil slips, heads weekly loss as Hormuz deal uncertainty persists",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/oil-slips-heads-weekly-loss-as-hormuz-deal-uncertainty-persists/articleshow/133035490.cms",
-        "published": "2026-08-07T13:36:55Z",
+        "title": "Adnoc Buys $1.3B of Tankers as Oil Exports Boom",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/adnoc_buys_13b_of_tankers_as_oil_exports_boom-07-aug-2026-184324-article/",
+        "published": "2026-08-07T14:11:10Z",
         "sentiment": "watch"
       },
       {
-        "title": "Europe's rivers are drying up. Can they be saved?",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/europes-rivers-are-drying-up-can-they-be-saved/a-78276662",
-        "published": "2026-08-07T13:36:00Z",
-        "sentiment": "watch"
+        "title": "Saudi Arabia expects imminent 2-pronged attack from Iran's allies, official says",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/saudi-arabia-iraq-yemen-houthis-iran-9.7299356",
+        "published": "2026-08-07T14:07:11Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -127,20 +120,13 @@
         "url": "https://economictimes.indiatimes.com/news/international/world-news/talks-for-release-of-3-ships-held-by-somali-pirates-in-advanced-stage-sources/articleshow/132433123.cms",
         "published": "2026-07-16T07:51:52Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Shipping Choke Points Raise Business Costs Even After The Iran War",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/billconerly/2026/07/15/shipping-choke-points-raise-business-costs-even-after-the-iran-war/",
-        "published": "2026-07-15T18:01:50Z",
-        "sentiment": "danger"
       }
     ]
   },
   "zones": {
     "hormuz": "amber",
     "taiwan": "amber",
-    "malacca": "amber",
+    "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
     "korea": "yellow"
