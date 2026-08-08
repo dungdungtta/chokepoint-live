@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T22:48:49.396Z",
+    "generated_at": "2026-08-08T23:35:52.333Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "2011 Harley-Davidson Heritage Softail Classic",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/2011-harley-davidson-softail-2/",
+        "published": "2026-08-07T23:35:27Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/politics/articles/us-expects-deal-soon-strait-230159419.html",
+        "published": "2026-08-07T23:01:59Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Fleximounts 17' x 8' Garage Floor Mat for $100 + free shipping",
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/Fleximounts-17-x-8-Garage-Floor-Mat-for-100-free-shipping/21985557.html",
@@ -46,20 +60,6 @@
         "url": "https://nypost.com/2026/08/07/world-news/saudi-arabia-turkey-and-pakistan-forge-self-defense-pact-as-iran-deal-lingers/",
         "published": "2026-08-07T20:50:01Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Oil Steadies as Hormuz Tensions Flare",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_steadies_as_hormuz_tensions_flare-07-aug-2026-184329-article/",
-        "published": "2026-08-07T20:14:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran Continues to Trash U.S., Claims No Peace Talks",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/08/07/iran-continues-to-trash-u-s-claims-no-peace-talks/",
-        "published": "2026-08-07T20:00:16Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
