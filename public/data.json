@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T05:06:47.376Z",
+    "generated_at": "2026-08-08T05:58:17.016Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "Hormuz closure clouds China's crude imports after they hit a 3-month high in July",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/07/china-crude-imports-july-hormuz-iran-war-.html",
+        "published": "2026-08-07T05:55:34Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Deadly Houthi strikes in Yemen stoke fears of wider war, Saudi Arabia warns of more attacks",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/08/07/deadly-houthi-strikes-in-yemen-stoke-fears-of-wider-war-saudi-arabia-warns-of-more-attacks/",
+        "published": "2026-08-07T05:39:48Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Europe struggles for influence amid mounting crises",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/europe-struggles-for-influence-amid-mounting-crises-225322",
+        "published": "2026-08-07T05:33:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The key to colonizing Mars may be hidden inside asteroids",
+        "source": "Science Daily",
+        "url": "https://www.sciencedaily.com/releases/2026/08/260805082504.htm",
+        "published": "2026-08-07T05:29:22Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Vape tax increase being considered after it raises €22m in nine months",
         "source": "The Irish Times",
         "url": "https://www.irishtimes.com/politics/2026/08/07/minister-for-finance-ponders-vape-tax-increase/",
         "published": "2026-08-07T05:00:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hormuz vessel traffic declines amid Iran-Oman talks",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/hormuz-vessel-traffic-declines-amid-iran-oman-talks/",
-        "published": "2026-08-07T04:44:20Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Vessel traffic through Hormuz dwindles this week as markets watch Iran-Oman talks",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/vessel-traffic-through-hormuz-dwindles-this-week-as-markets-watch-iran-oman-talks/articleshow/133021456.cms",
-        "published": "2026-08-07T04:40:29Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/a-deal-with-iran-over-the-strait-of-hormuz-may-require-a-compromise-from-trump/article71316238.ece",
-        "published": "2026-08-07T04:38:46Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/politics/articles/deal-iran-over-strait-hormuz-040118180.html",
-        "published": "2026-08-07T04:01:18Z",
         "sentiment": "watch"
       }
     ],
@@ -138,7 +138,7 @@
     ]
   },
   "zones": {
-    "hormuz": "yellow",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
