@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T18:49:00.124Z",
+    "generated_at": "2026-08-08T19:35:58.294Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "US says Iran-Oman Strait of Hormuz deal near, shipping breakthrough expected",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-says-iran-oman-strait-of-hormuz-deal-near-shipping-breakthrough-expected/",
+        "published": "2026-08-07T19:09:10Z",
+        "sentiment": "watch"
+      },
       {
         "title": "How the Iran war spread beyond one single strait",
         "source": "ABC News (AU)",
@@ -53,13 +60,6 @@
         "url": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
         "published": "2026-08-07T18:05:14Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Houthis target Saudi-aligned troops with drone and missile strikes",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/431391",
-        "published": "2026-08-07T18:00:26Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
