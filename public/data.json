@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T10:41:07.545Z",
+    "generated_at": "2026-08-08T11:12:13.389Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil prices drop as investors weigh potential Hormuz deal between Iran, Gulf states",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-prices-drop-as-investors-weigh-potential-hormuz-deal-between-iran-gulf/",
-        "published": "2026-08-07T10:40:33Z",
+        "title": "Links 8/7/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/links-8-7-2026.html",
+        "published": "2026-08-07T10:55:36Z",
         "sentiment": "watch"
       },
       {
-        "title": "Enough with ‘theater diplomacy’ – Iran’s top negotiator to Trump",
-        "source": "RT",
-        "url": "https://www.rt.com/news/643981-iran-us-trump-ghalibaf/",
-        "published": "2026-08-07T10:18:56Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition",
-        "published": "2026-08-07T10:00:56Z",
+        "title": "Iran War: Heads Explode Over Iran Draft Terms for Strait of Hormuz; Ansar Allah Strike on Saudi Forces, Killing Over 50",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/iran-war-heads-explode-over-iran-draft-terms-for-strait-of-hormuz-ansar-allah-strike-on-saudi-forces-killing-over-50.html",
+        "published": "2026-08-07T10:54:36Z",
         "sentiment": "danger"
       },
       {
-        "title": "‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission",
+        "title": "Sensex today | Stock Market Highlights: Sensex falls 456 points, Nifty slips as banking stocks drag markets lower",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-updates-7th-august-2026/article71314561.ece",
+        "published": "2026-08-07T10:53:45Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
         "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/7/european-caution-slowing-us-push-for-hormuz-naval-coalition",
-        "published": "2026-08-07T10:00:56Z",
+        "url": "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know",
+        "published": "2026-08-07T10:52:34Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil prices rise amid Gulf tensions; US jobs data awaited",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-prices-rise-amid-gulf-tensions-us-jobs-data-awaited/",
-        "published": "2026-08-07T09:52:52Z",
+        "title": "Middle East: Saudi Arabia, Turkey, Pakistan sign defense deal",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/middle-east-saudi-arabia-turkey-pakistan-sign-defense-deal/live-78272895",
+        "published": "2026-08-07T10:48:00Z",
         "sentiment": "watch"
       }
     ],
