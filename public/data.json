@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T03:58:46.405Z",
+    "generated_at": "2026-08-08T05:06:47.376Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Q1 Results Today Live: SBI, Titan, Hindalco, Hitachi Energy, PFC, Godrej Consumer, Oil India, NLC, Kaynes Tech, Ramco Cements, Afcons Infra, Lemon Tree, Cello to announce Q1 results, Trent, Hero Motocorp, Lupin, LIC, Bosch, Premier Energies, Emcure, Blue Star, Siemens Energy in focus",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-sbi-titan-hindalco-power-finance-corporation-godrej-consumer-oil-india-nlc-kaynes-tech-ramco-cements-afcons-infra-lemon-tree-cello-hitachi-lic-trent-results-07-august-202/article71313123.ece",
-        "published": "2026-08-07T03:35:53Z",
+        "title": "Vape tax increase being considered after it raises €22m in nine months",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/politics/2026/08/07/minister-for-finance-ponders-vape-tax-increase/",
+        "published": "2026-08-07T05:00:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthi attack on Saudi Arabia wounds 11 civilians",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/2026/0807/1586873-middle-east/",
-        "published": "2026-08-07T03:34:15Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Yemen’s Houthis launch major attacks on Saudi-backed forces (VIDEOS)",
-        "source": "RT",
-        "url": "https://www.rt.com/news/643959-houthis-attack-pro-saudi-troops/",
-        "published": "2026-08-07T02:49:01Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices rise as Iran and Oman agree on Strait of Hormuz shipping route",
+        "title": "Hormuz vessel traffic declines amid Iran-Oman talks",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-prices-rise-as-iran-and-oman-agree-on-strait-of-hormuz-shipping-route/",
-        "published": "2026-08-07T02:40:28Z",
+        "url": "https://cryptobriefing.com/hormuz-vessel-traffic-declines-amid-iran-oman-talks/",
+        "published": "2026-08-07T04:44:20Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Vessel traffic through Hormuz dwindles this week as markets watch Iran-Oman talks",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/vessel-traffic-through-hormuz-dwindles-this-week-as-markets-watch-iran-oman-talks/articleshow/133021456.cms",
+        "published": "2026-08-07T04:40:29Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/a-deal-with-iran-over-the-strait-of-hormuz-may-require-a-compromise-from-trump/article71316238.ece",
+        "published": "2026-08-07T04:38:46Z",
         "sentiment": "watch"
       },
       {
-        "title": "Sensex, Nifty on track for muted start amid rising oil prices; Q1 earnings, US-Iran war in focus",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty-on-track-for-muted-start-amid-rising-oil-prices-q1-earnings-us-iran-war-in-focus/article71316120.ece",
-        "published": "2026-08-07T02:35:50Z",
-        "sentiment": "danger"
+        "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/politics/articles/deal-iran-over-strait-hormuz-040118180.html",
+        "published": "2026-08-07T04:01:18Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -138,7 +138,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "yellow",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
