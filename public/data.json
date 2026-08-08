@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T13:03:28.740Z",
+    "generated_at": "2026-08-08T13:58:40.739Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "ASX 200 Slips Slightly to Close Out Record-Setting Week as Materials, Tech Buck the Trend This Friday Session",
+        "title": "Dow Jones Climbs Early After Soft Jobs Data Fuels Hopes of Fed Policy Flexibility",
         "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/asx-200-closes-lower-amid-sector-weakness-1873688",
-        "published": "2026-08-07T12:49:46Z",
+        "url": "https://www.ibtimes.com.au/dow-jones-rises-amid-unexpected-job-losses-fed-policy-1873703",
+        "published": "2026-08-07T13:46:41Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran’s grip on trade is a potent weapon, but it has an expiry date",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date",
-        "published": "2026-08-07T12:28:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Day 1,626 of WW3. Stinky tells Zelenskyy \"We want missiles too\". Lithuania warns of Russian False flag attacks and US intel warns russia may want to commit suicide as early as this fall. This is your Finally Friday Ukraine War thread [Hero]",
-        "source": "Fark.com",
-        "url": "https://www.fark.com/comments/14156198/Day-1626-of-WW3-Stinky-tells-Zelenskyy-We-want-missiles-too-Lithuania-warns-of-Russian-False-flag-attacks-US-intel-warns-russia-may-want-to-commit-suicide-as-early-as-this-fall-This-is-your-Finally-Friday-Ukraine-War-thread",
-        "published": "2026-08-07T12:00:00Z",
+        "title": "Houthis Celebrate Killing Dozens in Attack on Alleged ‘Saudi Enemy Mercenaries’ in Yemen",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/08/07/houthis-celebrate-killing-dozens-in-attack-on-alleged-saudi-enemy-mercenaries-in-yemen/",
+        "published": "2026-08-07T13:42:54Z",
         "sentiment": "danger"
       },
       {
-        "title": "Treasury Dismantles Iranian Regime's Global Clandestine Currency Networks",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260807-treasury02.htm",
-        "published": "2026-08-07T12:00:00Z",
+        "title": "ADNOC L&S buys 11 vessels in $1.3bn fleet expansion",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/1a2226f1dfe87950",
+        "published": "2026-08-07T13:39:59Z",
         "sentiment": "watch"
       },
       {
-        "title": "Report: Iran War Deals Blow To Global Growth",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260807-rferl04.htm",
-        "published": "2026-08-07T12:00:00Z",
-        "sentiment": "danger"
+        "title": "Oil slips, heads weekly loss as Hormuz deal uncertainty persists",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/oil-slips-heads-weekly-loss-as-hormuz-deal-uncertainty-persists/articleshow/133035490.cms",
+        "published": "2026-08-07T13:36:55Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Europe's rivers are drying up. Can they be saved?",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/europes-rivers-are-drying-up-can-they-be-saved/a-78276662",
+        "published": "2026-08-07T13:36:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan’s Missing Deterrent",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/08/taiwans-missing-deterrent/",
+        "published": "2026-08-07T13:28:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China’s Military Is Now Using AI to Plan Strike Operations",
         "source": "The Diplomat",
@@ -90,13 +97,6 @@
         "url": "https://economictimes.indiatimes.com/news/international/world-news/as-iran-war-drags-on-americans-are-bracing-for-more-chaos-in-middle-east-reuters-poll-finds/articleshow/132997829.cms",
         "published": "2026-08-06T10:30:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Could Japan be the next drone giant? Prime Minister looks to push domestic production to reduce reliance on China",
-        "source": "TechRadar",
-        "url": "https://www.techradar.com/pro/could-japan-be-the-next-drone-giant-prime-minister-looks-to-push-domestic-production-to-reduce-reliance-on-china",
-        "published": "2026-08-05T22:45:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
