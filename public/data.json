@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T07:07:19.224Z",
+    "generated_at": "2026-08-08T08:01:13.190Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "What’s driving Gold above $4,200? Fed bets & West Asia hopes drive rally",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/gold/whats-driving-gold-above-4200-fed-bets-west-asia-hopes-drive-rally/article71316659.ece",
+        "published": "2026-08-07T07:56:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Nikkei Slips as Chip Selling Offsets Broader Market Strength",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150290.php",
+        "published": "2026-08-07T07:51:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/deal-iran-strait-hormuz-require-compromise-trump-135446529",
+        "published": "2026-08-07T07:46:13Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Today in Germany: A roundup of the latest news on Friday",
         "source": "The Local Germany",
         "url": "https://www.thelocal.de/20260807/today-in-germany-a-roundup-of-the-latest-news-on-friday-134",
@@ -38,27 +59,6 @@
         "source": "Insurance Journal",
         "url": "https://www.insurancejournal.com/news/international/2026/08/07/880681.htm",
         "published": "2026-08-07T06:27:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hormuz risks lift oil prices again",
-        "source": "BOL News",
-        "url": "https://www.bolnews.com/business/hormuz-risks-lift-oil-prices-again/",
-        "published": "2026-08-07T06:05:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "NZ sharemarket falls 0.96% as Middle East uncertainty lifts oil price – Market close",
-        "source": "New Zealand Herald",
-        "url": "https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-falls-096-as-middle-east-uncertainty-lifts-oil-price-market-close/premium/F35ZTDITCJHALAXJGKVDSUWEAU/",
-        "published": "2026-08-07T06:02:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Houthi drone, missile blitz kills 30 Yemeni troops, shattering four-year truce",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-07-houthi-drone-missile-blitz-yemeni-troops.html",
-        "published": "2026-08-07T06:00:00Z",
         "sentiment": "watch"
       }
     ],
