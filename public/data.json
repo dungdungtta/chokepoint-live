@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T17:51:07.387Z",
+    "generated_at": "2026-08-08T18:49:00.124Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "ADNOC Says Three Vessels Attacked This Week as Hormuz Shipping Remains Severely Disrupted",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/adnoc-says-three-vessels-attacked-this-week-as-hormuz-shipping-remains-severely-disrupted/",
-        "published": "2026-08-07T17:25:21Z",
+        "title": "How the Iran war spread beyond one single strait",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-08-08/iran-war-spreading-diplomacy-teeters/106990466",
+        "published": "2026-08-07T18:41:01Z",
         "sentiment": "danger"
       },
       {
-        "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/cf5445a5d0b643b1",
-        "published": "2026-08-07T17:11:37Z",
+        "title": "The Straits Are Not OK",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/08/07/history-hormuz-straits-iran-war-trump/",
+        "published": "2026-08-07T18:40:25Z",
         "sentiment": "watch"
       },
       {
-        "title": "*Lightning Deal* LawnMaster 15″ Cordless Lawn Mower w/ Charger Just $114!",
-        "source": "Southernsavers.com",
-        "url": "https://www.southernsavers.com/lightning-deal-lawnmaster-15-cordless-lawn-mower-w-charger-just-114/",
-        "published": "2026-08-07T17:05:29Z",
+        "title": "Iran lashes out at Saudi-led defense pact with Pakistan and Türkiye",
+        "source": "RT",
+        "url": "https://www.rt.com/news/644000-saudi-pakistan-turkiye-pact/",
+        "published": "2026-08-07T18:35:40Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran Debates Hormuz Wording as Trump Says Deal’s ‘Moving Along’",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/iran-debates-hormuz-wording-as-trump-says-deals-moving-along/",
-        "published": "2026-08-07T16:51:19Z",
+        "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
+        "published": "2026-08-07T18:05:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
-        "published": "2026-08-07T16:34:39Z",
-        "sentiment": "watch"
+        "title": "Houthis target Saudi-aligned troops with drone and missile strikes",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/431391",
+        "published": "2026-08-07T18:00:26Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
