@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T15:49:42.871Z",
+    "generated_at": "2026-08-08T16:42:16.782Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Reports-15-Vessel-Attacks-as-Hormuz-Risks-Mount.html",
-        "published": "2026-08-07T15:45:00Z",
-        "sentiment": "danger"
+        "title": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
+        "published": "2026-08-07T16:34:39Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Scott Bessent predicts ceasefire agreement with Iran could come soon",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/bessent-iran-ceasefire-hormuz-deal/",
-        "published": "2026-08-07T15:38:13Z",
+        "title": "Gulf uncertainty is creating ‘win, win’ strategy with Chevron and other oil majors",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/07/gulf-uncertainty-is-creating-win-win-strategy-with-chevron-and-other-oil-majors.html",
+        "published": "2026-08-07T16:26:24Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran says agreement on Hormuz shipping reached with Oman",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/08/07/iran-agreement-oman-strait-of-hormuz-shipping/",
+        "published": "2026-08-07T16:18:53Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Adnoc calls for safe and free navigation in regional waters and emphasises safety | The National",
-        "source": "Thenationalnews.com",
-        "url": "https://www.thenationalnews.com/business/energy/2026/08/07/adnoc-calls-for-safe-and-free-navigation-in-regional-waters-and-emphasises-safety/",
-        "published": "2026-08-07T15:31:44Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Arabia’s $5 Oil Detour Is Expensive—and Worth It",
+        "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Arabias-5-Oil-Detour-Is-Expensiveand-Worth-It.html",
-        "published": "2026-08-07T14:49:00Z",
+        "url": "https://oilprice.com/Energy/Energy-General/Is-Iran-Preparing-to-Permanently-Block-the-Strait-of-Hormuz.html",
+        "published": "2026-08-07T16:04:46Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudi Arabia’s $5 Oil Detour Is Expensive—and Worth It",
+        "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
         "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/saudi-arabia-5-oil-detour-144900286.html",
-        "published": "2026-08-07T14:49:00Z",
+        "url": "https://finance.yahoo.com/energy/articles/iran-preparing-permanently-block-strait-160446082.html",
+        "published": "2026-08-07T16:04:46Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Fourth Turning Global War Has Already Bankrupted America — And Nobody’s Counting the Bodies",
+        "source": "Activistpost.com",
+        "url": "https://www.activistpost.com/the-fourth-turning-global-war-has-already-bankrupted-america-and-nobodys-counting-the-bodies/",
+        "published": "2026-08-07T16:00:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Taiwan’s Missing Deterrent",
         "source": "The Diplomat",
@@ -90,13 +97,6 @@
         "url": "https://www.nakedcapitalism.com/2026/08/links-8-6-2026.html",
         "published": "2026-08-06T10:55:48Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "As Iran war drags on, Americans are bracing for more chaos in Middle East, Reuters poll finds",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/as-iran-war-drags-on-americans-are-bracing-for-more-chaos-in-middle-east-reuters-poll-finds/articleshow/132997829.cms",
-        "published": "2026-08-06T10:30:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "yellow",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
