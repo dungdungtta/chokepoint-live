@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T09:02:35.538Z",
+    "generated_at": "2026-08-08T09:55:43.706Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "China’s Trade Boom Survives Extreme Rains as AI Lifts Demand",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/chinas-trade-boom-survives-extreme-rains-as-ai-lifts-demand",
-        "published": "2026-08-07T08:15:54Z",
+        "title": "Oil prices rise amid Gulf tensions; US jobs data awaited",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oil-prices-rise-amid-gulf-tensions-us-jobs-data-awaited/",
+        "published": "2026-08-07T09:52:52Z",
         "sentiment": "watch"
       },
       {
-        "title": "China’s Crude Imports Bounce Back After Historic June Slump",
+        "title": "Trump says Hormuz negotiations progressing amid 2026 crisis",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-says-hormuz-negotiations-progressing-amid-2026-crisis/",
+        "published": "2026-08-07T09:38:31Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Shipping Through Hormuz Drops Sharply as Tensions Rise",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Bounce-Back-After-Historic-June-Slump.html",
-        "published": "2026-08-07T08:15:00Z",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Shipping-Through-Hormuz-Drops-Sharply-as-Tensions-Rise.html",
+        "published": "2026-08-07T09:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "What’s driving Gold above $4,200? Fed bets & West Asia hopes drive rally",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/gold/whats-driving-gold-above-4200-fed-bets-west-asia-hopes-drive-rally/article71316659.ece",
-        "published": "2026-08-07T07:56:46Z",
+        "title": "Global Market: European shares rise as healthcare stocks offset geopolitical concerns; investors await US jobs data",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-healthcare-stocks-offset-geopolitical-concerns-investors-await-us-jobs-data/articleshow/133029661.cms",
+        "published": "2026-08-07T09:27:56Z",
         "sentiment": "watch"
       },
       {
-        "title": "Nikkei Slips as Chip Selling Offsets Broader Market Strength",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/150290.php",
-        "published": "2026-08-07T07:51:40Z",
-        "sentiment": "watch"
+        "title": "Trump Says Hormuz Talks ‘Moving Along’ Even as Iran Mulls US Ban",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/trump-says-hormuz-talks-moving-along-even-as-iran-mulls-us-ban",
+        "published": "2026-08-07T09:22:14Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
