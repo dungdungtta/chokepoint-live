@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T23:39:37.154Z",
+    "generated_at": "2026-08-08T00:32:20.805Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Storage, transmission key for next phase of India's energy transition: Experts",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/industry/energy/india-clean-energy-transition-grid-expansion-battery-storage-renewables-11786012731692.html",
+        "published": "2026-08-07T00:24:15Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil extends gains as Iran strikes targets in Strait of Hormuz",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/oil-extends-gains-as-iran-strikes-targets-in-strait-of-hormuz",
+        "published": "2026-08-07T00:20:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Lower Oil Prices Lend Support For The Gold Rally",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Metals/Gold/Lower-Oil-Prices-Lend-Support-For-The-Gold-Rally.html",
+        "published": "2026-08-07T00:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "India buys 4m barrels Nigerian crude amid US-Iran crisis",
         "source": "The Punch",
         "url": "https://punchng.com/india-buys-4m-barrels-nigerian-crude-amid-us-iran-crisis/",
@@ -38,27 +59,6 @@
         "source": "GlobeNewswire",
         "url": "https://www.globenewswire.com/news-release/2026/08/06/3340887/0/en/Calfrac-Reports-Second-Quarter-2026-Results.html",
         "published": "2026-08-06T23:27:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Extends Gains as Iran Strikes Targets in Strait of Hormuz",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-extends-gains-as-iran-strikes-targets-in-strait-of-hormuz",
-        "published": "2026-08-06T23:12:16Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iranian parliament bill would ban US, Israeli ships from Strait of Hormuz",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/06/world-news/iranian-parliament-bill-would-ban-us-israeli-ships-from-strait-of-hormuz/",
-        "published": "2026-08-06T23:01:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran says deal ‘in the final stages’ to open temporary, narrow path through Strait of Hormuz",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/06/world-news/iran-says-deal-to-open-temporary-narrow-path-through-strait-of-hormuz-coming-soon/",
-        "published": "2026-08-06T22:33:45Z",
         "sentiment": "watch"
       }
     ],
