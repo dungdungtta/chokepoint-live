@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T09:19:05.142Z",
+    "generated_at": "2026-08-09T10:05:59.786Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Woot Grocery & Household August Clearance: Up to 85% off + extra 20% or 30% off + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Woot-Grocery-Household-August-Clearance-Up-to-85-off-extra-20-or-30-off-free-shipping-w-Prime/21989132.html",
+        "published": "2026-08-08T09:27:44Z",
+        "sentiment": "watch"
+      },
       {
         "title": "In Defense Of Sunlight: The *Real Truth* About The Sun, Vitamin D, UVA, UVB, Sunscreen & More, With Rowan Jacobsen.",
         "source": "Omny.fm",
@@ -53,16 +60,16 @@
         "url": "https://financialpost.com/pmn/business-pmn/kyiv-struck-as-ukraine-targets-russian-refineries-shadow-fleet",
         "published": "2026-08-08T07:06:33Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Audi A2 e-tron: 2026 EV boasts impressive electric range",
-        "source": "New Atlas",
-        "url": "https://newatlas.com/automotive/audi-a2-etron-2026/",
-        "published": "2026-08-08T07:03:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Iran has made our most urgent national-security priority painfully clear",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/08/opinion/iran-made-our-most-urgent-national-security-priority-clear/",
+        "published": "2026-08-08T09:53:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous'",
         "source": "The Times of India",
@@ -90,13 +97,6 @@
         "url": "https://thediplomat.com/2026/08/taiwans-missing-deterrent/",
         "published": "2026-08-07T13:28:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "China’s Military Is Now Using AI to Plan Strike Operations",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/08/chinas-military-is-now-using-ai-to-plan-strike-operations/",
-        "published": "2026-08-07T12:50:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
