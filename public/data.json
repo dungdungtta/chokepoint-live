@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T20:41:42.448Z",
+    "generated_at": "2026-08-09T21:15:27.202Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Navigator Q2 Earnings Call Highlights",
+        "source": "MarketBeat",
+        "url": "https://www.marketbeat.com/instant-alerts/navigator-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+        "published": "2026-08-08T21:03:55Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran issues long list of steep demands the U.S. must satisfy before the Strait of Hormuz will be reopened, including total compensation for war damage",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/08/08/iran-demands-strait-of-hormuz-us-conditions-total-compensation-war-damage/",
+        "published": "2026-08-08T20:58:19Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Iranian officials are worried the U.S. blockade will cause an economic collapse and admit sanctions relief is desperately needed",
         "source": "Yahoo Entertainment",
         "url": "https://finance.yahoo.com/economy/articles/iranian-officials-worried-u-blockade-201408319.html",
@@ -38,27 +52,6 @@
         "source": "Fortune",
         "url": "https://fortune.com/2026/08/08/iran-economic-collapse-us-naval-blockade-hormuz-sanctions-relief/",
         "published": "2026-08-08T20:14:08Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "How to end Sudan’s brutal, forgotten conflict",
-        "source": "Www.nrc.nl",
-        "url": "https://www.nrc.nl/nieuws/2026/08/08/how-to-end-sudans-brutal-forgotten-conflict-a4934039",
-        "published": "2026-08-08T20:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran says Strait of Hormuz deal 'close' but reopening depends on other conditions",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-08-09/iran-and-oman-close-to-new-route-strait-of-hormuz/107013264",
-        "published": "2026-08-08T19:38:13Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "UAE accuses Iran of missile strike on ADNOC tanker in Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/uae-accuses-iran-of-missile-strike-on-adnoc-tanker-in-strait-of-hormuz/",
-        "published": "2026-08-08T19:35:14Z",
         "sentiment": "danger"
       }
     ],
