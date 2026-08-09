@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T06:24:41.546Z",
+    "generated_at": "2026-08-09T07:35:28.124Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Britannia Boosts Local Marketing as E-Commerce Fuels Q1 Growth",
+        "source": "Rswebsols.com",
+        "url": "https://www.rswebsols.com/news/britannia-invests-in-local-marketing-as-e-commerce-drives-growth-in-q1/",
+        "published": "2026-08-08T07:30:08Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Kyiv Struck as Ukraine Targets Russian Refineries, Shadow Fleet",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/kyiv-struck-as-ukraine-targets-russian-refineries-shadow-fleet",
+        "published": "2026-08-08T07:06:33Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Audi A2 e-tron: 2026 EV boasts impressive electric range",
+        "source": "New Atlas",
+        "url": "https://newatlas.com/automotive/audi-a2-etron-2026/",
+        "published": "2026-08-08T07:03:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Natural gas loses momentum despite geopolitical risks: Will prices recover?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/natural-gas-loses-momentum-despite-geopolitical-risks-will-prices-recover/articleshow/133047978.cms",
+        "published": "2026-08-08T06:45:25Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Saudi Arabia Names Red Sea Maritime Alliance Commander",
         "source": "Naturalnews.com",
         "url": "https://www.naturalnews.com/2026-08-08-saudi-arabia-names-red-sea-maritime-alliance-commander.html",
         "published": "2026-08-08T06:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Ukraine promises to end attacks on US-linked oil terminal – Bloomberg",
-        "source": "RT",
-        "url": "https://www.rt.com/russia/644008-ukraine-strikes-oil-terminal-chevron/",
-        "published": "2026-08-08T04:21:28Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "[SnS, AC] $9.41* | 8-Pack 5-Oz Genova Premium Yellowfin Tuna in Olive Oil at Amazon",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19855641-sns-ac-9-41-8-pack-5-oz-genova-premium-yellowfin-tuna-in-olive-oil-at-amazon",
-        "published": "2026-08-08T04:07:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "ADNOC reports 15 vessel attacks as Hormuz risks escalate",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/adnoc-reports-15-vessel-attacks-as-hormuz-risks-escalate/",
-        "published": "2026-08-08T02:38:43Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran says agreement on Hormuz shipping reached with Oman - Fortune",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184895272",
-        "published": "2026-08-08T01:12:40Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "yellow",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
