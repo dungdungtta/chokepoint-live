@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T16:44:03.104Z",
+    "generated_at": "2026-08-09T17:16:52.472Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Tehran, Muscat, and Washington near deal to reopen Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/strait-of-hormuz-deal-iran-oman-us/",
+        "published": "2026-08-08T17:14:03Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "JD Vance says US and Iran are in the ‘middle of the game’ as strait talks stall",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/08/us-news/jd-vance-says-us-and-iran-are-in-the-middle-of-the-game-as-strait-talks-stall/",
+        "published": "2026-08-08T17:12:31Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Dorian LPG Q1 Earnings Call Highlights",
+        "source": "MarketBeat",
+        "url": "https://www.marketbeat.com/instant-alerts/dorian-lpg-q1-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+        "published": "2026-08-08T17:03:55Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran Says Hormuz Stays Closed Until U.S. Meets Six Sweeping Demands",
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Hormuz-Stays-Closed-Until-US-Meets-Six-Sweeping-Demands.html",
@@ -38,27 +59,6 @@
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/international/world-news/us-working-to-establish-safe-shipping-route-through-strait-of-hormuz-vance-says-we-dont-trust-iran/articleshow/133055624.cms",
         "published": "2026-08-08T16:19:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran-US tensions rise over Strait of Hormuz passage rights",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-us-tensions-rise-over-strait-of-hormuz-passage-rights/",
-        "published": "2026-08-08T15:56:41Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2",
-        "published": "2026-08-08T15:01:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "UAE Says Ship Was Targeted by Iranian Missile",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/394316/uae-says-ship-was-targeted-by-iranian-missile.html",
-        "published": "2026-08-08T14:45:00Z",
         "sentiment": "watch"
       }
     ],
