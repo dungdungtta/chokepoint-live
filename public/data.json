@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T00:34:01.945Z",
+    "generated_at": "2026-08-09T02:52:18.581Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "ADNOC reports 15 vessel attacks as Hormuz risks escalate",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/adnoc-reports-15-vessel-attacks-as-hormuz-risks-escalate/",
+        "published": "2026-08-08T02:38:43Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran says agreement on Hormuz shipping reached with Oman - Fortune",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184895272",
+        "published": "2026-08-08T01:12:40Z",
+        "sentiment": "neutral"
+      },
+      {
         "title": "2011 Harley-Davidson Heritage Softail Classic",
         "source": "Bringatrailer.com",
         "url": "https://bringatrailer.com/listing/2011-harley-davidson-softail-2/",
@@ -46,23 +60,16 @@
         "url": "https://www.dealnews.com/Fleximounts-17-x-8-Garage-Floor-Mat-for-100-free-shipping/21985557.html",
         "published": "2026-08-07T21:50:43Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Fleximounts 4'11\" x 3' Waterproof Garage Floor Mat for $20 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Fleximounts-411-x-3-Waterproof-Garage-Floor-Mat-for-20-free-shipping-w-Prime/21985555.html",
-        "published": "2026-08-07T21:47:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Arabia, Turkey and Pakistan forge ‘attack on one, attack on all’ pact — as Iran deal lingers",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/07/world-news/saudi-arabia-turkey-and-pakistan-forge-self-defense-pact-as-iran-deal-lingers/",
-        "published": "2026-08-07T20:50:01Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous'",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/taipei-says-chinas-traffic-control-order-for-taiwan-strait-during-typhoon-is-ridiculous/articleshow/133045111.cms",
+        "published": "2026-08-08T02:07:11Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Fourth Turning Global War Has Already Bankrupted America — And Nobody’s Counting the Bodies",
         "source": "Activistpost.com",
@@ -89,13 +96,6 @@
         "source": "War on the Rocks",
         "url": "https://warontherocks.com/how-can-u-s-special-operations-forces-help-defeat-china-on-taiwan/",
         "published": "2026-08-07T07:00:55Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Links 8/6/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/links-8-6-2026.html",
-        "published": "2026-08-06T10:55:48Z",
         "sentiment": "watch"
       }
     ],
