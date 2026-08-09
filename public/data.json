@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T05:29:48.154Z",
+    "generated_at": "2026-08-09T06:24:41.546Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Saudi Arabia Names Red Sea Maritime Alliance Commander",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-08-saudi-arabia-names-red-sea-maritime-alliance-commander.html",
+        "published": "2026-08-08T06:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Ukraine promises to end attacks on US-linked oil terminal – Bloomberg",
         "source": "RT",
@@ -53,13 +60,6 @@
         "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184895272",
         "published": "2026-08-08T01:12:40Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "2011 Harley-Davidson Heritage Softail Classic",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2011-harley-davidson-softail-2/",
-        "published": "2026-08-07T23:35:27Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
