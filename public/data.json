@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T13:31:53.886Z",
+    "generated_at": "2026-08-09T14:19:57.883Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/iran-says-deal-strait-hormuz-close-will-not-open-waterway-rcna591476",
-        "published": "2026-08-08T13:17:41Z",
+        "title": "Iran says Strait of Hormuz deal is ‘very close’ but will not free up waterway by itself",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/08/08/iran-says-strait-of-hormuz-deal-is-very-close-but-will-not-free-up-waterway-by-itself/",
+        "published": "2026-08-08T14:17:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "Donald Trump predicts Iran war could drive stock market down 20% to 25%",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-war-stock-market-prediction/",
-        "published": "2026-08-08T13:13:42Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "UAE Says Iran Attacked Vessel With Missile In Strait of Hormuz",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/uae-says-iran-attacked-vessel-with-missile-in-strait-of-hormuz/",
-        "published": "2026-08-08T13:07:44Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "UAE says one of its ships was targeted by missile as U.S.-Iran tensions over Strait of Hormuz remain high",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
-        "published": "2026-08-08T13:06:30Z",
+        "title": "Turkey restricts some Black Sea ship traffic amid security concerns",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/turkey-restricts-some-black-sea-ship-traffic-amid-security-concerns/articleshow/133054209.cms",
+        "published": "2026-08-08T14:09:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/iran-deal-strait-hormuz-close-6307616",
-        "published": "2026-08-08T12:51:00Z",
+        "title": "Beware the Bros of War",
+        "source": "Rolling Stone",
+        "url": "http://www.rollingstone.com/politics/political-commentary/trump-hegseth-bros-iran-war-1235605732/",
+        "published": "2026-08-08T14:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us",
+        "published": "2026-08-08T13:52:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran Says Hormuz Deal Close But That Its Conditions Must Be Met",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/iran-says-hormuz-deal-close-but-that-its-conditions-must-be-met",
+        "published": "2026-08-08T13:51:00Z",
         "sentiment": "watch"
       }
     ],
