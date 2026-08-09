@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T17:16:52.472Z",
+    "generated_at": "2026-08-09T18:00:39.157Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran makes new Strait of Hormuz demands as UAE says ship was targeted",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/strait-of-hormuz-2-7125370-Aug2026/",
+        "published": "2026-08-08T17:52:20Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Turkey Restricts Black Sea Ship Traffic After Surge In Attacks",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/turkey-restricts-black-sea-ship-traffic-after-surge-in-attacks/",
+        "published": "2026-08-08T17:47:57Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Tehran, Muscat, and Washington near deal to reopen Strait of Hormuz",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/strait-of-hormuz-deal-iran-oman-us/",
@@ -45,20 +59,6 @@
         "source": "MarketBeat",
         "url": "https://www.marketbeat.com/instant-alerts/dorian-lpg-q1-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
         "published": "2026-08-08T17:03:55Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran Says Hormuz Stays Closed Until U.S. Meets Six Sweeping Demands",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Hormuz-Stays-Closed-Until-US-Meets-Six-Sweeping-Demands.html",
-        "published": "2026-08-08T16:36:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US working to establish safe shipping route through Strait of Hormuz, Vance says 'we don't trust' Iran",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-working-to-establish-safe-shipping-route-through-strait-of-hormuz-vance-says-we-dont-trust-iran/articleshow/133055624.cms",
-        "published": "2026-08-08T16:19:40Z",
         "sentiment": "watch"
       }
     ],
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "yellow",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
