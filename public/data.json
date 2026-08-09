@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T19:03:10.695Z",
+    "generated_at": "2026-08-09T19:49:34.133Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran says Strait of Hormuz deal 'close' but reopening depends on other conditions",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-08-09/iran-and-oman-close-to-new-route-strait-of-hormuz/107013264",
+        "published": "2026-08-08T19:38:13Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "UAE accuses Iran of missile strike on ADNOC tanker in Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/uae-accuses-iran-of-missile-strike-on-adnoc-tanker-in-strait-of-hormuz/",
+        "published": "2026-08-08T19:35:14Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o",
+        "published": "2026-08-08T19:18:57Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Iran’s top security official threatens Hormuz won’t reopen fully ‘until America corrects its behavior’",
         "source": "New York Post",
         "url": "https://nypost.com/2026/08/08/world-news/iran-threatens-strait-of-hormuz-wont-reopen-fully-until-america-corrects-its-behavior/",
@@ -38,27 +59,6 @@
         "source": "Yahoo Entertainment",
         "url": "https://finance.yahoo.com/energy/articles/airlines-scramble-jet-fuel-hormuz-190000182.html",
         "published": "2026-08-08T19:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump’s Iran War Is Going Backward",
-        "source": "Mother Jones",
-        "url": "https://www.motherjones.com/politics/2026/08/trumps-iran-war-is-going-backward/",
-        "published": "2026-08-08T18:31:17Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran assures US no tolls planned for Strait of Hormuz, easing tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-assures-us-no-tolls-planned-for-strait-of-hormuz-easing-tensions/",
-        "published": "2026-08-08T18:14:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran makes new Strait of Hormuz demands as UAE says ship was targeted",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/strait-of-hormuz-2-7125370-Aug2026/",
-        "published": "2026-08-08T17:52:20Z",
         "sentiment": "watch"
       }
     ],
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
