@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T02:52:18.581Z",
+    "generated_at": "2026-08-09T04:23:12.810Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Ukraine promises to end attacks on US-linked oil terminal – Bloomberg",
+        "source": "RT",
+        "url": "https://www.rt.com/russia/644008-ukraine-strikes-oil-terminal-chevron/",
+        "published": "2026-08-08T04:21:28Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "[SnS, AC] $9.41* | 8-Pack 5-Oz Genova Premium Yellowfin Tuna in Olive Oil at Amazon",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19855641-sns-ac-9-41-8-pack-5-oz-genova-premium-yellowfin-tuna-in-olive-oil-at-amazon",
+        "published": "2026-08-08T04:07:01Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "ADNOC reports 15 vessel attacks as Hormuz risks escalate",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/adnoc-reports-15-vessel-attacks-as-hormuz-risks-escalate/",
@@ -45,20 +59,6 @@
         "source": "Bringatrailer.com",
         "url": "https://bringatrailer.com/listing/2011-harley-davidson-softail-2/",
         "published": "2026-08-07T23:35:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/politics/articles/us-expects-deal-soon-strait-230159419.html",
-        "published": "2026-08-07T23:01:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Fleximounts 17' x 8' Garage Floor Mat for $100 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Fleximounts-17-x-8-Garage-Floor-Mat-for-100-free-shipping/21985557.html",
-        "published": "2026-08-07T21:50:43Z",
         "sentiment": "watch"
       }
     ],
