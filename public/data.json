@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T19:49:34.133Z",
+    "generated_at": "2026-08-09T20:41:42.448Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iranian officials are worried the U.S. blockade will cause an economic collapse and admit sanctions relief is desperately needed",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/economy/articles/iranian-officials-worried-u-blockade-201408319.html",
+        "published": "2026-08-08T20:14:08Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iranian officials are worried the U.S. blockade will cause an economic collapse and admit sanctions relief is desperately needed",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/08/08/iran-economic-collapse-us-naval-blockade-hormuz-sanctions-relief/",
+        "published": "2026-08-08T20:14:08Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "How to end Sudan’s brutal, forgotten conflict",
+        "source": "Www.nrc.nl",
+        "url": "https://www.nrc.nl/nieuws/2026/08/08/how-to-end-sudans-brutal-forgotten-conflict-a4934039",
+        "published": "2026-08-08T20:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran says Strait of Hormuz deal 'close' but reopening depends on other conditions",
         "source": "ABC News (AU)",
         "url": "https://www.abc.net.au/news/2026-08-09/iran-and-oman-close-to-new-route-strait-of-hormuz/107013264",
@@ -39,27 +60,6 @@
         "url": "https://cryptobriefing.com/uae-accuses-iran-of-missile-strike-on-adnoc-tanker-in-strait-of-hormuz/",
         "published": "2026-08-08T19:35:14Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o",
-        "published": "2026-08-08T19:18:57Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran’s top security official threatens Hormuz won’t reopen fully ‘until America corrects its behavior’",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/08/world-news/iran-threatens-strait-of-hormuz-wont-reopen-fully-until-america-corrects-its-behavior/",
-        "published": "2026-08-08T19:01:48Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Airlines Scramble for Jet Fuel as Hormuz Disruption Drags On",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/airlines-scramble-jet-fuel-hormuz-190000182.html",
-        "published": "2026-08-08T19:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
