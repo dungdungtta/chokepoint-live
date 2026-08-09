@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T14:19:57.883Z",
+    "generated_at": "2026-08-09T15:02:18.109Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2",
+        "published": "2026-08-08T15:01:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "UAE Says Ship Was Targeted by Iranian Missile",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/394316/uae-says-ship-was-targeted-by-iranian-missile.html",
+        "published": "2026-08-08T14:45:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran says deal with Oman on control of strait is close",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/world/2026/0808/1587073-iran-oman-strait/",
+        "published": "2026-08-08T14:33:22Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran says Strait of Hormuz deal is ‘very close’ but will not free up waterway by itself",
         "source": "The Irish Times",
         "url": "https://www.irishtimes.com/world/middle-east/2026/08/08/iran-says-strait-of-hormuz-deal-is-very-close-but-will-not-free-up-waterway-by-itself/",
@@ -38,27 +59,6 @@
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/international/world-news/turkey-restricts-some-black-sea-ship-traffic-amid-security-concerns/articleshow/133054209.cms",
         "published": "2026-08-08T14:09:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Beware the Bros of War",
-        "source": "Rolling Stone",
-        "url": "http://www.rollingstone.com/politics/political-commentary/trump-hegseth-bros-iran-war-1235605732/",
-        "published": "2026-08-08T14:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us",
-        "published": "2026-08-08T13:52:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran Says Hormuz Deal Close But That Its Conditions Must Be Met",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/iran-says-hormuz-deal-close-but-that-its-conditions-must-be-met",
-        "published": "2026-08-08T13:51:00Z",
         "sentiment": "watch"
       }
     ],
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "yellow",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
