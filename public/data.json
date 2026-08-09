@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T21:15:27.202Z",
+    "generated_at": "2026-08-09T21:59:35.583Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "China to launch regular shipping to Europe via Russia’s Northern Sea Route – Rosatom",
+        "source": "RT",
+        "url": "https://www.rt.com/russia/644019-china-europe-shipping-russia-arctic-route/",
+        "published": "2026-08-08T21:49:03Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Navigator Q2 Earnings Call Highlights",
         "source": "MarketBeat",
         "url": "https://www.marketbeat.com/instant-alerts/navigator-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
@@ -44,13 +51,6 @@
         "title": "Iranian officials are worried the U.S. blockade will cause an economic collapse and admit sanctions relief is desperately needed",
         "source": "Yahoo Entertainment",
         "url": "https://finance.yahoo.com/economy/articles/iranian-officials-worried-u-blockade-201408319.html",
-        "published": "2026-08-08T20:14:08Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iranian officials are worried the U.S. blockade will cause an economic collapse and admit sanctions relief is desperately needed",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/08/08/iran-economic-collapse-us-naval-blockade-hormuz-sanctions-relief/",
         "published": "2026-08-08T20:14:08Z",
         "sentiment": "danger"
       }
@@ -124,7 +124,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
