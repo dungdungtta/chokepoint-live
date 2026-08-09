@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T18:00:39.157Z",
+    "generated_at": "2026-08-09T19:03:10.695Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran’s top security official threatens Hormuz won’t reopen fully ‘until America corrects its behavior’",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/08/world-news/iran-threatens-strait-of-hormuz-wont-reopen-fully-until-america-corrects-its-behavior/",
+        "published": "2026-08-08T19:01:48Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Airlines Scramble for Jet Fuel as Hormuz Disruption Drags On",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/airlines-scramble-jet-fuel-hormuz-190000182.html",
+        "published": "2026-08-08T19:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump’s Iran War Is Going Backward",
+        "source": "Mother Jones",
+        "url": "https://www.motherjones.com/politics/2026/08/trumps-iran-war-is-going-backward/",
+        "published": "2026-08-08T18:31:17Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran assures US no tolls planned for Strait of Hormuz, easing tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-assures-us-no-tolls-planned-for-strait-of-hormuz-easing-tensions/",
+        "published": "2026-08-08T18:14:57Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran makes new Strait of Hormuz demands as UAE says ship was targeted",
         "source": "TheJournal.ie",
         "url": "https://www.thejournal.ie/strait-of-hormuz-2-7125370-Aug2026/",
         "published": "2026-08-08T17:52:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Turkey Restricts Black Sea Ship Traffic After Surge In Attacks",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/turkey-restricts-black-sea-ship-traffic-after-surge-in-attacks/",
-        "published": "2026-08-08T17:47:57Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Tehran, Muscat, and Washington near deal to reopen Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/strait-of-hormuz-deal-iran-oman-us/",
-        "published": "2026-08-08T17:14:03Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "JD Vance says US and Iran are in the ‘middle of the game’ as strait talks stall",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/08/us-news/jd-vance-says-us-and-iran-are-in-the-middle-of-the-game-as-strait-talks-stall/",
-        "published": "2026-08-08T17:12:31Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Dorian LPG Q1 Earnings Call Highlights",
-        "source": "MarketBeat",
-        "url": "https://www.marketbeat.com/instant-alerts/dorian-lpg-q1-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-        "published": "2026-08-08T17:03:55Z",
         "sentiment": "watch"
       }
     ],
