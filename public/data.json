@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T10:53:57.152Z",
+    "generated_at": "2026-08-09T11:36:23.446Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -48,21 +48,28 @@
         "sentiment": "neutral"
       },
       {
+        "title": "Genco Shipping & Trading Q2 Earnings Call Highlights",
+        "source": "MarketBeat",
+        "url": "https://www.marketbeat.com/instant-alerts/genco-shipping-trading-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+        "published": "2026-08-08T10:03:47Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Woot Grocery & Household August Clearance: Up to 85% off + extra 20% or 30% off + free shipping w/ Prime",
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/Woot-Grocery-Household-August-Clearance-Up-to-85-off-extra-20-or-30-off-free-shipping-w-Prime/21989132.html",
         "published": "2026-08-08T09:27:44Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Gerdau Q2 Earnings Call Highlights",
-        "source": "MarketBeat",
-        "url": "https://www.marketbeat.com/instant-alerts/gerdau-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-        "published": "2026-08-08T09:03:44Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Links 8/8/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/links-8-8-2026.html",
+        "published": "2026-08-08T10:55:54Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Iran has made our most urgent national-security priority painfully clear",
         "source": "New York Post",
@@ -90,13 +97,6 @@
         "url": "https://www.activistpost.com/the-fourth-turning-global-war-has-already-bankrupted-america-and-nobodys-counting-the-bodies/",
         "published": "2026-08-07T16:00:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Taiwan’s Missing Deterrent",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/08/taiwans-missing-deterrent/",
-        "published": "2026-08-07T13:28:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
