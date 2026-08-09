@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T08:24:36.607Z",
+    "generated_at": "2026-08-09T09:19:05.142Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "In Defense Of Sunlight: The *Real Truth* About The Sun, Vitamin D, UVA, UVB, Sunscreen & More, With Rowan Jacobsen.",
+        "source": "Omny.fm",
+        "url": "https://omny.fm/shows/ben-greenfield-life/sunpodcast",
+        "published": "2026-08-08T09:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Saudi Arabia’s $5 Oil Detour Is Expensive—and Worth It",
         "source": "Nakedcapitalism.com",
@@ -53,13 +60,6 @@
         "url": "https://newatlas.com/automotive/audi-a2-etron-2026/",
         "published": "2026-08-08T07:03:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Natural gas loses momentum despite geopolitical risks: Will prices recover?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/natural-gas-loses-momentum-despite-geopolitical-risks-will-prices-recover/articleshow/133047978.cms",
-        "published": "2026-08-08T06:45:25Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -68,6 +68,13 @@
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/international/world-news/taipei-says-chinas-traffic-control-order-for-taiwan-strait-during-typhoon-is-ridiculous/articleshow/133045111.cms",
         "published": "2026-08-08T02:07:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous'",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/articles/taipei-says-chinas-traffic-control-013839486.html",
+        "published": "2026-08-08T01:38:39Z",
         "sentiment": "watch"
       },
       {
@@ -90,13 +97,6 @@
         "url": "https://thediplomat.com/2026/08/chinas-military-is-now-using-ai-to-plan-strike-operations/",
         "published": "2026-08-07T12:50:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "How Can U.S. Special Operations Forces Help Defeat China on Taiwan?",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/how-can-u-s-special-operations-forces-help-defeat-china-on-taiwan/",
-        "published": "2026-08-07T07:00:55Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
