@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T07:35:28.124Z",
+    "generated_at": "2026-08-09T08:24:36.607Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Saudi Arabia’s $5 Oil Detour Is Expensive—and Worth It",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/saudi-arabias-5-oil-detour-is-expensive-and-worth-it.html",
+        "published": "2026-08-08T07:55:40Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Britannia Boosts Local Marketing as E-Commerce Fuels Q1 Growth",
         "source": "Rswebsols.com",
         "url": "https://www.rswebsols.com/news/britannia-invests-in-local-marketing-as-e-commerce-drives-growth-in-q1/",
@@ -52,13 +59,6 @@
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/markets/stocks/news/natural-gas-loses-momentum-despite-geopolitical-risks-will-prices-recover/articleshow/133047978.cms",
         "published": "2026-08-08T06:45:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Arabia Names Red Sea Maritime Alliance Commander",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-08-saudi-arabia-names-red-sea-maritime-alliance-commander.html",
-        "published": "2026-08-08T06:00:00Z",
         "sentiment": "watch"
       }
     ],
