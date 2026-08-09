@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T22:43:47.025Z",
+    "generated_at": "2026-08-09T23:14:19.085Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/u-energy-helps-cushion-global-230000293.html",
+        "published": "2026-08-08T23:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/US-Energy-Helps-Cushion-Global-Supply-Shock-From-Hormuz.html",
+        "published": "2026-08-08T23:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "China to launch regular shipping to Europe via Russia’s Northern Sea Route – Rosatom",
         "source": "RT",
         "url": "https://www.rt.com/russia/644019-china-europe-shipping-russia-arctic-route/",
@@ -39,20 +53,6 @@
         "url": "https://www.marketbeat.com/instant-alerts/navigator-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
         "published": "2026-08-08T21:03:55Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran issues long list of steep demands the U.S. must satisfy before the Strait of Hormuz will be reopened, including total compensation for war damage",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/08/08/iran-demands-strait-of-hormuz-us-conditions-total-compensation-war-damage/",
-        "published": "2026-08-08T20:58:19Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iranian officials are worried the U.S. blockade will cause an economic collapse and admit sanctions relief is desperately needed",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/economy/articles/iranian-officials-worried-u-blockade-201408319.html",
-        "published": "2026-08-08T20:14:08Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -124,7 +124,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "yellow",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
