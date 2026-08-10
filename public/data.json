@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T22:08:40.940Z",
+    "generated_at": "2026-08-10T22:57:51.742Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,25 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran’s armed forces take control of Strait of Hormuz, lawmaker says",
+        "title": "Iran replaces top security official amid Strait of Hormuz talks",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-armed-forces-strait-of-hormuz-control/",
-        "published": "2026-08-09T20:03:07Z",
+        "url": "https://cryptobriefing.com/iran-replaces-security-official-hormuz-talks/",
+        "published": "2026-08-09T22:41:30Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Stock futures flat as investors await inflation data and weigh Iran uncertainty",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/stock-futures-flat-inflation-data-iran/",
+        "published": "2026-08-09T22:26:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "Top Trump Adviser Embarrassed On Live TV Over Failed Strait Of Hormuz Promise",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/kevin-hassett-strait-of-hormuz-traffic-jake-tapper_n_6a78b515e4b0a81f52ff0754",
-        "published": "2026-08-09T19:08:52Z",
+        "title": "Trump to Axios: \"We are low keying it\" with Iran",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4391235/posts",
+        "published": "2026-08-09T22:21:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "India's Menage a Trois: Graham Act puts New Delhi's strategic autonomy to test",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/indias-menage-a-trois-graham-act-puts-new-delhis-strategic-autonomy-to-test/articleshow/133073160.cms",
-        "published": "2026-08-09T18:04:55Z",
-        "sentiment": "watch"
+        "title": "Oil steady as Iran tempers hopes for swift Hormuz reopening",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-steady-iran-tempers-hopes-swift-hormuz-reopening-6308831",
+        "published": "2026-08-09T22:17:04Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Oil rises on uncertainty over reopening of Hormuz",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-rises-uncertainty-over-reopening-hormuz-6308831",
+        "published": "2026-08-09T22:17:04Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
