@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T20:26:02.009Z",
+    "generated_at": "2026-08-10T21:21:22.034Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -46,13 +46,6 @@
         "url": "https://economictimes.indiatimes.com/opinion/et-commentary/indias-menage-a-trois-graham-act-puts-new-delhis-strategic-autonomy-to-test/articleshow/133073160.cms",
         "published": "2026-08-09T18:04:55Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran says US must meet new conditions before Strait of Hormuz reopens",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/08/09/iran-says-us-must-meet-new-conditions-before-strait-of-hormuz-reopens/",
-        "published": "2026-08-09T17:20:04Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
