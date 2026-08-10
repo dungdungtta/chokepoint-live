@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T02:23:36.593Z",
+    "generated_at": "2026-08-10T04:14:31.205Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran Security Chief: Hormuz Closed ‘Until America Corrects Its Behavior’ — Vance Says U.S. Still ‘Middle of the Game’",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/the-media/2026/08/08/iran-security-chief-hormuz-closed-until-america-corrects-its-behavior-vance-says-u-s-still-middle-of-the-game/",
-        "published": "2026-08-09T01:48:04Z",
+        "title": "Iran makes new Hormuz demands as missile hits Emirati ship",
+        "source": "RT",
+        "url": "https://www.rt.com/news/644023-iran-makeshormuz-demands/",
+        "published": "2026-08-09T03:58:27Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oman reports progress in Hormuz talks as Iran says strait will not reopen immediately",
-        "source": "Khabarhub.com",
-        "url": "https://english.khabarhub.com/2026/09/562443/",
-        "published": "2026-08-09T01:13:34Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Climate Change Weekly # 587— Climate Panickers Bemoan Realists’ Inspired Policy Wins",
-        "source": "Wattsupwiththat.com",
-        "url": "https://wattsupwiththat.com/2026/08/08/climate-change-weekly-587-climate-panickers-bemoan-realists-inspired-policy-wins/",
-        "published": "2026-08-09T01:00:00Z",
+        "title": "Will Nifty, Sensex extend losses on Monday? Middle East tension, Q1 results, 3 other factors to drive mood next week",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-extend-losses-on-monday-middle-east-tension-q1-results-3-other-factors-to-drive-mood-next-week/articleshow/133061939.cms",
+        "published": "2026-08-09T03:50:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran says Hormuz deal with Oman close, but strait reopening hinges on US concessions",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-hormuz-deal-with-oman-close-but-strait-reopening-hinges-on-us-concessions/articleshow/133061203.cms",
-        "published": "2026-08-09T00:51:52Z",
-        "sentiment": "neutral"
+        "title": "China’s monthly inflation cools to 0.5% as Iran war impact eases",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/china-inflation-cools-iran-war-impact/",
+        "published": "2026-08-09T03:20:50Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-says-deal-on-strait-of-hormuz-is-close-but-not-enough-to-open-the-waterway/articleshow/133061136.cms",
-        "published": "2026-08-09T00:34:30Z",
+        "title": "Fire extinguished at Saudi Aramco refinery amid escalating regional clash",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/431419",
+        "published": "2026-08-09T03:18:31Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "If You Didn’t Get A Great Education, It’s Never Been Easier To Repair It",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4391164/posts",
+        "published": "2026-08-09T03:17:21Z",
         "sentiment": "watch"
       }
     ],
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "yellow",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
