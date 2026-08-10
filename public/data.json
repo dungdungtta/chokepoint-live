@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T14:38:16.763Z",
+    "generated_at": "2026-08-10T15:41:06.108Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran rejects U.S. talks for now as wait for Hormuz deal drags on",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/08/09/iran-us-talks-hormuz-deal-mou-trump-vance-oman/",
+        "published": "2026-08-09T15:15:53Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "US Iran war: Trump may ditch nuclear deal plan if Tehran reopens Hormuz",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-war-trump-may-ditch-nuclear-deal-plan-if-tehran-reopens-hormuz/articleshow/133069784.cms",
+        "published": "2026-08-09T15:15:23Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Iran-backed Houthi rebels attack crucial Red Sea port and Saudi Aramco refinery as fighting escalates",
         "source": "Fortune",
         "url": "https://fortune.com/2026/08/09/iran-houthi-rebels-yemen-red-sea-port-saudi-aramco-refinery/",
@@ -45,20 +59,6 @@
         "source": "KABC-TV",
         "url": "https://abc7.com/post/iran-makes-new-strait-demands-uae-says-ship-was-targeted-other-middle-east-news/19651301/",
         "published": "2026-08-09T14:00:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "World Oil Prices Today: Brent and WTI Swing as Iran-Oman Deal Over Strait of Hormuz Remains Uncertain",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/volatile-oil-prices-hormuz-strait-tensions-1873838",
-        "published": "2026-08-09T13:47:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Strait of Hormuz Status Today: Still Effectively Closed as Iran and Oman Near a Navigation Deal, for Now",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/strait-hormuz-crisis-shipping-halted-1873824",
-        "published": "2026-08-09T13:17:29Z",
         "sentiment": "watch"
       }
     ],
