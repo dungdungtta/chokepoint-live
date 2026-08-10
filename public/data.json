@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T05:49:25.439Z",
+    "generated_at": "2026-08-10T07:55:40.034Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
+        "title": "Yemen’s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/world/articles/yemen-houthis-claim-attack-aramco-072935270.html",
+        "published": "2026-08-09T07:29:35Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran drives a hard bargain over Hormuz: The conditions it sets for the US to “unlock” the Strait",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/08/09/iran-drives-a-hard-bargain-over-hormuz-the-conditions-it-sets-for-the-us-to-unlock-the-strait/",
+        "published": "2026-08-09T07:00:14Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran’s Top Negotiator Ghalibaf Tells Trump: “Enough With Theater Diplomacy”",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-09-irans-ghalibaf-tells-trump-enough-theater-diplomacy.html",
+        "published": "2026-08-09T06:00:00Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Iran sets conditions for reopening Strait of Hormuz",
+        "source": "The Punch",
+        "url": "https://punchng.com/iran-sets-conditions-for-reopening-strait-of-hormuz/",
+        "published": "2026-08-09T05:51:14Z",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Iran makes new Hormuz demands as missile hits Emirati ship",
         "source": "RT",
         "url": "https://www.rt.com/news/644023-iran-makeshormuz-demands/",
         "published": "2026-08-09T03:58:27Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Will Nifty, Sensex extend losses on Monday? Middle East tension, Q1 results, 3 other factors to drive mood next week",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-extend-losses-on-monday-middle-east-tension-q1-results-3-other-factors-to-drive-mood-next-week/articleshow/133061939.cms",
-        "published": "2026-08-09T03:50:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China’s monthly inflation cools to 0.5% as Iran war impact eases",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/china-inflation-cools-iran-war-impact/",
-        "published": "2026-08-09T03:20:50Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Fire extinguished at Saudi Aramco refinery amid escalating regional clash",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/431419",
-        "published": "2026-08-09T03:18:31Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "If You Didn’t Get A Great Education, It’s Never Been Easier To Repair It",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4391164/posts",
-        "published": "2026-08-09T03:17:21Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan plans 16% defence spending hike for 2027",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/taiwan-plans-16-defence-spending-hike-for-2027/articleshow/133063932.cms",
+        "published": "2026-08-09T07:35:11Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Links 8/8/2026",
         "source": "Nakedcapitalism.com",
@@ -90,13 +97,6 @@
         "url": "https://www.yahoo.com/news/articles/taipei-says-chinas-traffic-control-013839486.html",
         "published": "2026-08-08T01:38:39Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "The Fourth Turning Global War Has Already Bankrupted America — And Nobody’s Counting the Bodies",
-        "source": "Activistpost.com",
-        "url": "https://www.activistpost.com/the-fourth-turning-global-war-has-already-bankrupted-america-and-nobodys-counting-the-bodies/",
-        "published": "2026-08-07T16:00:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -132,7 +132,7 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "amber",
+    "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
