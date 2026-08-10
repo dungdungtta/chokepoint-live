@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T10:49:20.128Z",
+    "generated_at": "2026-08-10T11:53:36.912Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "No direct talks with US, exchange of messages through intermediaries, says Iranian FM Araghchi",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/no-direct-talks-with-us-exchange-of-messages-through-intermediaries-says-iranian-fm-araghchi/articleshow/133065872.cms",
-        "published": "2026-08-09T10:17:48Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status",
-        "published": "2026-08-09T10:02:59Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Russia’s Upgraded Geran Drones Are Targeting Ukraine’s Black Sea Ports",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/vikrammittal/2026/08/09/russias-upgraded-geran-drones-are-targeting-ukraines-black-sea-ports/",
-        "published": "2026-08-09T09:58:13Z",
+        "title": "Sunday: Hili dialogue",
+        "source": "Whyevolutionistrue.com",
+        "url": "https://whyevolutionistrue.com/2026/08/09/sunday-hili-dialogue-598/",
+        "published": "2026-08-09T11:45:10Z",
         "sentiment": "watch"
       },
       {
-        "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
-        "published": "2026-08-09T09:44:02Z",
+        "title": "Iran sets out steep demands for reopening Hormuz despite hopes Oman deal could break impasse",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/iran-sets-steep-demands-reopening-hormuz-hopes-oman-deal-break-impasse-rcna591553",
+        "published": "2026-08-09T11:30:24Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Saudi Aramco extinguishes fire at refinery as Houthis claim responsibility",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
+        "published": "2026-08-09T11:23:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Houthis, the Middle East’s “unsolved problem”: Why a thousand strikes were not enough to stop them",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/08/09/the-houthis-the-middle-easts-unsolved-problem-why-a-thousand-strikes-were-not-enough-to-stop-them/",
+        "published": "2026-08-09T11:14:46Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Russia to India via train? Moscow floats ambitious railway route, says link \"should be explored\"",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/railways/russia-to-india-via-train-moscow-floats-ambitious-railway-route-says-link-should-be-explored/articleshow/133066418.cms",
+        "published": "2026-08-09T11:14:31Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
