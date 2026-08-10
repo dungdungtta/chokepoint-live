@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T23:52:01.702Z",
+    "generated_at": "2026-08-10T02:23:36.593Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/u-energy-helps-cushion-global-230000293.html",
-        "published": "2026-08-08T23:00:00Z",
+        "title": "Iran Security Chief: Hormuz Closed ‘Until America Corrects Its Behavior’ — Vance Says U.S. Still ‘Middle of the Game’",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/the-media/2026/08/08/iran-security-chief-hormuz-closed-until-america-corrects-its-behavior-vance-says-u-s-still-middle-of-the-game/",
+        "published": "2026-08-09T01:48:04Z",
         "sentiment": "watch"
       },
       {
-        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/US-Energy-Helps-Cushion-Global-Supply-Shock-From-Hormuz.html",
-        "published": "2026-08-08T23:00:00Z",
+        "title": "Oman reports progress in Hormuz talks as Iran says strait will not reopen immediately",
+        "source": "Khabarhub.com",
+        "url": "https://english.khabarhub.com/2026/09/562443/",
+        "published": "2026-08-09T01:13:34Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Climate Change Weekly # 587— Climate Panickers Bemoan Realists’ Inspired Policy Wins",
+        "source": "Wattsupwiththat.com",
+        "url": "https://wattsupwiththat.com/2026/08/08/climate-change-weekly-587-climate-panickers-bemoan-realists-inspired-policy-wins/",
+        "published": "2026-08-09T01:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "China to launch regular shipping to Europe via Russia’s Northern Sea Route – Rosatom",
-        "source": "RT",
-        "url": "https://www.rt.com/russia/644019-china-europe-shipping-russia-arctic-route/",
-        "published": "2026-08-08T21:49:03Z",
-        "sentiment": "watch"
+        "title": "Iran says Hormuz deal with Oman close, but strait reopening hinges on US concessions",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-hormuz-deal-with-oman-close-but-strait-reopening-hinges-on-us-concessions/articleshow/133061203.cms",
+        "published": "2026-08-09T00:51:52Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Navigator Q2 Earnings Call Highlights",
-        "source": "MarketBeat",
-        "url": "https://www.marketbeat.com/instant-alerts/navigator-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-        "published": "2026-08-08T21:03:55Z",
+        "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-says-deal-on-strait-of-hormuz-is-close-but-not-enough-to-open-the-waterway/articleshow/133061136.cms",
+        "published": "2026-08-09T00:34:30Z",
         "sentiment": "watch"
       }
     ],
