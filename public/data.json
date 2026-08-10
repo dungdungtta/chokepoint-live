@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T07:55:40.034Z",
+    "generated_at": "2026-08-10T09:41:15.928Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -28,38 +28,31 @@
     "hormuz": [
       {
         "title": "Yemen’s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/world/articles/yemen-houthis-claim-attack-aramco-072935270.html",
-        "published": "2026-08-09T07:29:35Z",
+        "source": "KPRC Click2Houston",
+        "url": "https://www.click2houston.com/business/2026/08/09/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news/",
+        "published": "2026-08-09T09:15:06Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran drives a hard bargain over Hormuz: The conditions it sets for the US to “unlock” the Strait",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/08/09/iran-drives-a-hard-bargain-over-hormuz-the-conditions-it-sets-for-the-us-to-unlock-the-strait/",
-        "published": "2026-08-09T07:00:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran’s Top Negotiator Ghalibaf Tells Trump: “Enough With Theater Diplomacy”",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-09-irans-ghalibaf-tells-trump-enough-theater-diplomacy.html",
-        "published": "2026-08-09T06:00:00Z",
+        "title": "Iran Sets Sweeping New Demands to Reopen the Strait of Hormuz After UAE Tanker Is Struck by a Missile",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/iran-conditions-reopening-strait-hormuz-1873787",
+        "published": "2026-08-09T09:08:05Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Iran sets conditions for reopening Strait of Hormuz",
-        "source": "The Punch",
-        "url": "https://punchng.com/iran-sets-conditions-for-reopening-strait-of-hormuz/",
-        "published": "2026-08-09T05:51:14Z",
+        "title": "Iran issues tough demands to reopen Strait of Hormuz as deal still out of reach",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/08/09/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-still-out-of-reach/",
+        "published": "2026-08-09T08:56:53Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Iran makes new Hormuz demands as missile hits Emirati ship",
-        "source": "RT",
-        "url": "https://www.rt.com/news/644023-iran-makeshormuz-demands/",
-        "published": "2026-08-09T03:58:27Z",
-        "sentiment": "watch"
+        "title": "Yemen’s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/yemens-houthis-claim-attack-aramco-oil-facility-saudi-135496001",
+        "published": "2026-08-09T08:37:41Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
