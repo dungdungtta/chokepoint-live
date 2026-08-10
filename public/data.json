@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T11:53:36.912Z",
+    "generated_at": "2026-08-10T13:25:16.723Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "Strait of Hormuz Status Today: Still Effectively Closed as Iran and Oman Near a Navigation Deal, for Now",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/strait-hormuz-crisis-shipping-halted-1873824",
+        "published": "2026-08-09T13:17:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/houthis-attack-aramco-oil-saudi-arabia-yemen-9.7300964",
+        "published": "2026-08-09T12:58:08Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump signals willingness to end Iran conflict if Strait of Hormuz reopens",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-iran-strait-of-hormuz-conflict/",
+        "published": "2026-08-09T12:10:51Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "In the 1890s, the U.S. hired a team of globe-trotting plant hunters",
+        "source": "Popular Science",
+        "url": "https://www.popsci.com/environment/plant-hunters-usda/",
+        "published": "2026-08-09T11:56:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Sunday: Hili dialogue",
         "source": "Whyevolutionistrue.com",
         "url": "https://whyevolutionistrue.com/2026/08/09/sunday-hili-dialogue-598/",
         "published": "2026-08-09T11:45:10Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran sets out steep demands for reopening Hormuz despite hopes Oman deal could break impasse",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/iran-sets-steep-demands-reopening-hormuz-hopes-oman-deal-break-impasse-rcna591553",
-        "published": "2026-08-09T11:30:24Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Saudi Aramco extinguishes fire at refinery as Houthis claim responsibility",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
-        "published": "2026-08-09T11:23:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Houthis, the Middle East’s “unsolved problem”: Why a thousand strikes were not enough to stop them",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/08/09/the-houthis-the-middle-easts-unsolved-problem-why-a-thousand-strikes-were-not-enough-to-stop-them/",
-        "published": "2026-08-09T11:14:46Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Russia to India via train? Moscow floats ambitious railway route, says link \"should be explored\"",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/transportation/railways/russia-to-india-via-train-moscow-floats-ambitious-railway-route-says-link-should-be-explored/articleshow/133066418.cms",
-        "published": "2026-08-09T11:14:31Z",
         "sentiment": "watch"
       }
     ],
