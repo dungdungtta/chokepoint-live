@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T16:36:08.749Z",
+    "generated_at": "2026-08-10T17:38:31.580Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Iran says US must meet new conditions before Strait of Hormuz reopens",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/08/09/iran-says-us-must-meet-new-conditions-before-strait-of-hormuz-reopens/",
+        "published": "2026-08-09T17:20:04Z",
+        "sentiment": "neutral"
+      },
       {
         "title": "Turkey Resumes Black Sea Ship Transits Via Straits After Delays",
         "source": "gcaptain.com",
@@ -53,27 +60,20 @@
         "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-war-trump-may-ditch-nuclear-deal-plan-if-tehran-reopens-hormuz/articleshow/133069784.cms",
         "published": "2026-08-09T15:15:23Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Iran-backed Houthi rebels attack crucial Red Sea port and Saudi Aramco refinery as fighting escalates",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/08/09/iran-houthi-rebels-yemen-red-sea-port-saudi-aramco-refinery/",
-        "published": "2026-08-09T14:28:53Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
       {
         "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
         "source": "Business Insider",
-        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8",
+        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8#article",
         "published": "2026-08-09T13:48:56Z",
         "sentiment": "danger"
       },
       {
         "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
         "source": "Business Insider",
-        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8#article",
+        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8",
         "published": "2026-08-09T13:48:56Z",
         "sentiment": "danger"
       },
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
