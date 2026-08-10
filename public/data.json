@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T09:41:15.928Z",
+    "generated_at": "2026-08-10T10:49:20.128Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Yemen’s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
-        "source": "KPRC Click2Houston",
-        "url": "https://www.click2houston.com/business/2026/08/09/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news/",
-        "published": "2026-08-09T09:15:06Z",
+        "title": "No direct talks with US, exchange of messages through intermediaries, says Iranian FM Araghchi",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/no-direct-talks-with-us-exchange-of-messages-through-intermediaries-says-iranian-fm-araghchi/articleshow/133065872.cms",
+        "published": "2026-08-09T10:17:48Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status",
+        "published": "2026-08-09T10:02:59Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran Sets Sweeping New Demands to Reopen the Strait of Hormuz After UAE Tanker Is Struck by a Missile",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/iran-conditions-reopening-strait-hormuz-1873787",
-        "published": "2026-08-09T09:08:05Z",
-        "sentiment": "neutral"
+        "title": "Russia’s Upgraded Geran Drones Are Targeting Ukraine’s Black Sea Ports",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/vikrammittal/2026/08/09/russias-upgraded-geran-drones-are-targeting-ukraines-black-sea-ports/",
+        "published": "2026-08-09T09:58:13Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Iran issues tough demands to reopen Strait of Hormuz as deal still out of reach",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/08/09/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-still-out-of-reach/",
-        "published": "2026-08-09T08:56:53Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Yemen’s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/yemens-houthis-claim-attack-aramco-oil-facility-saudi-135496001",
-        "published": "2026-08-09T08:37:41Z",
+        "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
+        "published": "2026-08-09T09:44:02Z",
         "sentiment": "danger"
       }
     ],
