@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T18:35:26.286Z",
+    "generated_at": "2026-08-10T19:43:22.879Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Top Trump Adviser Embarrassed On Live TV Over Failed Strait Of Hormuz Promise",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/kevin-hassett-strait-of-hormuz-traffic-jake-tapper_n_6a78b515e4b0a81f52ff0754",
+        "published": "2026-08-09T19:08:52Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "India's Menage a Trois: Graham Act puts New Delhi's strategic autonomy to test",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/opinion/et-commentary/indias-menage-a-trois-graham-act-puts-new-delhis-strategic-autonomy-to-test/articleshow/133073160.cms",
@@ -46,27 +53,27 @@
         "url": "https://gcaptain.com/turkey-resumes-black-sea-ship-transits-via-straits-after-delays/",
         "published": "2026-08-09T16:18:23Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Iran-backed Houthis attack Aramco refinery in Saudi Arabia, Red Sea port",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/09/world-news/iran-backed-houthis-attack-aramco-refinery-in-saudi-arabia-red-sea-port/",
-        "published": "2026-08-09T15:51:04Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
       {
+        "title": "China’s special maritime law enforcement ops near Taiwan",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/08/chinas-special-maritime-law-enforcement-ops-near-taiwan/",
+        "published": "2026-08-09T18:56:46Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
         "source": "Business Insider",
-        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8",
+        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8#article",
         "published": "2026-08-09T13:48:56Z",
         "sentiment": "danger"
       },
       {
         "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
         "source": "Business Insider",
-        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8#article",
+        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8",
         "published": "2026-08-09T13:48:56Z",
         "sentiment": "danger"
       },
@@ -82,13 +89,6 @@
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/defence/taiwan-plans-16-defence-spending-hike-for-2027/articleshow/133063932.cms",
         "published": "2026-08-09T07:35:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Links 8/8/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/links-8-8-2026.html",
-        "published": "2026-08-08T10:55:54Z",
         "sentiment": "watch"
       }
     ],
@@ -124,7 +124,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "yellow",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
