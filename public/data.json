@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T13:25:16.723Z",
+    "generated_at": "2026-08-10T14:38:16.763Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,63 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran-backed Houthi rebels attack crucial Red Sea port and Saudi Aramco refinery as fighting escalates",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/08/09/iran-houthi-rebels-yemen-red-sea-port-saudi-aramco-refinery/",
+        "published": "2026-08-09T14:28:53Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Paramilitary promises footage of supreme leader unseen since March",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-08-10/footage-of-irans-supreme-leader-promised/107014896",
+        "published": "2026-08-09T14:19:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran: Strait won't open until USA 'corrects' its behavior...",
+        "source": "KABC-TV",
+        "url": "https://abc7.com/post/iran-makes-new-strait-demands-uae-says-ship-was-targeted-other-middle-east-news/19651301/",
+        "published": "2026-08-09T14:00:15Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "World Oil Prices Today: Brent and WTI Swing as Iran-Oman Deal Over Strait of Hormuz Remains Uncertain",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/volatile-oil-prices-hormuz-strait-tensions-1873838",
+        "published": "2026-08-09T13:47:40Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Strait of Hormuz Status Today: Still Effectively Closed as Iran and Oman Near a Navigation Deal, for Now",
         "source": "Ibtimes.com.au",
         "url": "https://www.ibtimes.com.au/strait-hormuz-crisis-shipping-halted-1873824",
         "published": "2026-08-09T13:17:29Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/houthis-attack-aramco-oil-saudi-arabia-yemen-9.7300964",
-        "published": "2026-08-09T12:58:08Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump signals willingness to end Iran conflict if Strait of Hormuz reopens",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-strait-of-hormuz-conflict/",
-        "published": "2026-08-09T12:10:51Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "In the 1890s, the U.S. hired a team of globe-trotting plant hunters",
-        "source": "Popular Science",
-        "url": "https://www.popsci.com/environment/plant-hunters-usda/",
-        "published": "2026-08-09T11:56:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Sunday: Hili dialogue",
-        "source": "Whyevolutionistrue.com",
-        "url": "https://whyevolutionistrue.com/2026/08/09/sunday-hili-dialogue-598/",
-        "published": "2026-08-09T11:45:10Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8#article",
+        "published": "2026-08-09T13:48:56Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8",
+        "published": "2026-08-09T13:48:56Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Taipei Condemns China’s Traffic Control Order For Taiwan Strait During Typhoon",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/taipei-condemns-chinas-traffic-control-order-for-taiwan-strait-during-typhoon/",
+        "published": "2026-08-09T13:25:35Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan plans 16% defence spending hike for 2027",
         "source": "The Times of India",
@@ -75,27 +96,6 @@
         "source": "Nakedcapitalism.com",
         "url": "https://www.nakedcapitalism.com/2026/08/links-8-8-2026.html",
         "published": "2026-08-08T10:55:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran has made our most urgent national-security priority painfully clear",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/08/opinion/iran-made-our-most-urgent-national-security-priority-clear/",
-        "published": "2026-08-08T09:53:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous'",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/taipei-says-chinas-traffic-control-order-for-taiwan-strait-during-typhoon-is-ridiculous/articleshow/133045111.cms",
-        "published": "2026-08-08T02:07:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous'",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/articles/taipei-says-chinas-traffic-control-013839486.html",
-        "published": "2026-08-08T01:38:39Z",
         "sentiment": "watch"
       }
     ],
@@ -132,7 +132,7 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "yellow",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
