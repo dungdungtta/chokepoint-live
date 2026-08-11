@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T07:57:24.371Z",
+    "generated_at": "2026-08-11T09:09:29.047Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Nikkei Rises as AI Buying Returns and BOJ Rate-Hike Bets Build",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/150315.php",
-        "published": "2026-08-10T07:50:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why Military Cooperation in the Indian Ocean Still Falls Short",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/why-military-cooperation-in-the-indian-ocean-still-falls-short/",
-        "published": "2026-08-10T07:30:32Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump may drop Iran nuclear deal demand if Hormuz reopens: Report",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/trump-us-iran-conflict-nuclear-deal-strait-of-hormuz-reopens-sanctions-126081000624_1.html",
-        "published": "2026-08-10T07:21:07Z",
+        "title": "Iran: Strait of Hormuz won't reopen until US pays price",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/431487",
+        "published": "2026-08-10T08:49:25Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Trump hints U.S. will let economic pressure on Iran do the work",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/news/trump-hints-economic-pressure-iran-do-work",
-        "published": "2026-08-10T07:16:15Z",
+        "title": "Trump Hints at Sustained Economic Pressure on Iran",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/trump_hints_at_sustained_economic_pressure_on_iran-10-aug-2026-184330-article/",
+        "published": "2026-08-10T08:26:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump Hints US Will Let Economic Pressure on Iran Do the Work",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/trump-hints-us-will-let-economic-pressure-on-iran-do-the-work",
-        "published": "2026-08-10T07:16:15Z",
+        "title": "Iran Ties Hormuz Reopening to US Concessions on Several Demands",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/iran-ties-hormuz-reopening-to-us-concessions-on-several-demands/",
+        "published": "2026-08-10T08:18:00Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Global stocks tick up with oil steady on Hormuz plans",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/news/asia-stocks-edge-higher-oil-002532883.html",
+        "published": "2026-08-10T08:14:33Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "$48 billion profit! 5 global oil majors cash in on oil surge amid Iran war. Where is money flowing?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/48-billion-profit-5-global-oil-majors-cash-in-on-oil-surge-amid-iran-war-where-is-money-flowing/articleshow/133091563.cms",
+        "published": "2026-08-10T08:06:24Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -87,14 +87,14 @@
       {
         "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
         "source": "Business Insider",
-        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8",
+        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8#article",
         "published": "2026-08-09T13:48:56Z",
         "sentiment": "danger"
       },
       {
         "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
         "source": "Business Insider",
-        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8#article",
+        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8",
         "published": "2026-08-09T13:48:56Z",
         "sentiment": "danger"
       }
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "yellow",
+    "hormuz": "amber",
     "taiwan": "red",
     "malacca": "yellow",
     "suez": "amber",
