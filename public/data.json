@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T04:02:52.337Z",
+    "generated_at": "2026-08-11T05:29:26.411Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump signals shift to economic pressure on Iran over new military strikes",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes",
-        "published": "2026-08-10T03:48:19Z",
+        "title": "Gold eases from seven-week peak, US inflation data looms",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/gold/gold-eases-from-seven-week-peak-us-inflation-data-looms/article71327016.ece",
+        "published": "2026-08-10T05:27:21Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Bangladesh Joins Saudi-led Defense Coalition as Bab el-Mandeb Risks Grow",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/08/bangladesh-joins-saudi-led-defense-coalition-as-bab-el-mandeb-risks-grow/",
+        "published": "2026-08-10T05:23:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil rises as Iran tempers hopes for swift Strait of Hormuz reopening",
+        "source": "Emirates 24|7",
+        "url": "https://www.emirates247.com/business/oil-rises-as-iran-tempers-hopes-for-swift-strait-of-hormuz-reopening/4382",
+        "published": "2026-08-10T05:04:21Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "US calls Strait of Hormuz ‘irrelevant’ amid Iran tensions: Reuters",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-calls-strait-of-hormuz-irrelevant-amid-iran-tensions-reuters/",
+        "published": "2026-08-10T05:03:48Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Middle East in turmoil five months into the war: Cornered Iran raises the stakes as US loses grip on the post-war landscape",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/08/10/middle-east-in-turmoil-five-months-into-the-war-cornered-iran-raises-the-stakes-as-us-loses-grip-on-the-post-war-landscape/",
+        "published": "2026-08-10T04:54:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Fading Fed hike bets, RBI backstop blunts oil pressure on rupee",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/forex/fading-fed-hike-bets-rbi-backstop-blunts-oil-pressure-on-rupee/article71326896.ece",
-        "published": "2026-08-10T03:26:44Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz",
-        "published": "2026-08-10T03:24:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Stock market today: Where are NSE Nifty50 and BSE Sensex headed?",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-10-august-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/133079438.cms",
-        "published": "2026-08-10T03:19:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Israel rejects Trump's Gaza plan, more details emerge on Strait of Hormuz and other Mideast news",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/israel-rejects-trumps-gaza-plan-more-details-emerge-on-strait-of-hormuz-and-other-mideast-news/article71326860.ece",
-        "published": "2026-08-10T03:18:58Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -87,14 +87,14 @@
       {
         "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
         "source": "Business Insider",
-        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8#article",
+        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8",
         "published": "2026-08-09T13:48:56Z",
         "sentiment": "danger"
       },
       {
         "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
         "source": "Business Insider",
-        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8",
+        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8#article",
         "published": "2026-08-09T13:48:56Z",
         "sentiment": "danger"
       }
