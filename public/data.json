@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T06:30:31.873Z",
+    "generated_at": "2026-08-11T07:57:24.371Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Hormuz Tensions Surge After Reports of Another Tanker Strike",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tensions-Surge-After-Reports-of-Another-Tanker-Strike.html",
-        "published": "2026-08-10T06:30:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "J.P. Morgan raises S&P 500 year-end target to 8,000 on AI and earnings optimism",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/jp-morgan-raises-sp-500-year-end-target-to-8000-on-ai-and-earnings-optimism/article71327198.ece",
-        "published": "2026-08-10T06:28:42Z",
+        "title": "Nikkei Rises as AI Buying Returns and BOJ Rate-Hike Bets Build",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150315.php",
+        "published": "2026-08-10T07:50:57Z",
         "sentiment": "watch"
       },
       {
-        "title": "Asian shares track Wall Street gains, while oil prices bounce higher",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-gains-wall-062649152.html",
-        "published": "2026-08-10T06:26:49Z",
+        "title": "Why Military Cooperation in the Indian Ocean Still Falls Short",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/why-military-cooperation-in-the-indian-ocean-still-falls-short/",
+        "published": "2026-08-10T07:30:32Z",
         "sentiment": "watch"
       },
       {
-        "title": "J.P. Morgan lifts 2026-end target for S&P 500 to 8,000 on AI, earnings strength",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-lifts-2026-061958111.html",
-        "published": "2026-08-10T06:19:58Z",
+        "title": "Trump may drop Iran nuclear deal demand if Hormuz reopens: Report",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/trump-us-iran-conflict-nuclear-deal-strait-of-hormuz-reopens-sanctions-126081000624_1.html",
+        "published": "2026-08-10T07:21:07Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Trump hints U.S. will let economic pressure on Iran do the work",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/news/trump-hints-economic-pressure-iran-do-work",
+        "published": "2026-08-10T07:16:15Z",
         "sentiment": "watch"
       },
       {
-        "title": "J.P. Morgan lifts 2026-end target for S&P 500 to 8,000 on AI, earnings strength",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/jp-morgan-lifts-2026-end-target-sp-500-8000-ai-earnings-strength-6309256",
-        "published": "2026-08-10T06:19:58Z",
+        "title": "Trump Hints US Will Let Economic Pressure on Iran Do the Work",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/trump-hints-us-will-let-economic-pressure-on-iran-do-the-work",
+        "published": "2026-08-10T07:16:15Z",
         "sentiment": "watch"
       }
     ],
@@ -87,14 +87,14 @@
       {
         "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
         "source": "Business Insider",
-        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8#article",
+        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8",
         "published": "2026-08-09T13:48:56Z",
         "sentiment": "danger"
       },
       {
         "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
         "source": "Business Insider",
-        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8",
+        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8#article",
         "published": "2026-08-09T13:48:56Z",
         "sentiment": "danger"
       }
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "yellow",
     "taiwan": "red",
     "malacca": "yellow",
     "suez": "amber",
