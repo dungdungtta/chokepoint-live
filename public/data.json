@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T21:56:32.015Z",
+    "generated_at": "2026-08-11T22:53:49.666Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Jones Act Waiver Extension Deepens Divide Over U.S. Maritime Policy",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/jones-act-waiver-extension-deepens-divide-over-u-s-maritime-policy/",
+        "published": "2026-08-10T22:31:59Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Global Diesel Crunch Worsens Ahead of Peak Winter Demand",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Global-Diesel-Crunch-Worsens-Ahead-of-Peak-Winter-Demand.html",
+        "published": "2026-08-10T22:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump declares Strait of Hormuz open under US Navy control",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/trump-declares-strait-of-hormuz-open-under-us-navy-control/",
@@ -45,20 +59,6 @@
         "source": "CBC News",
         "url": "https://www.cbc.ca/news/world/trump-demands-compensation-iran-9.7302186",
         "published": "2026-08-10T21:00:24Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump demands Iran pay compensation for deaths as Hormuz deal hopes fade",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/trump-us-iran-hormuz-deal-compensation-6310521",
-        "published": "2026-08-10T20:46:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Climbs as Hormuz Deal Remains Elusive",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_climbs_as_hormuz_deal_remains_elusive-10-aug-2026-184340-article/",
-        "published": "2026-08-10T20:45:49Z",
         "sentiment": "watch"
       }
     ],
