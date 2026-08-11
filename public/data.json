@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T10:12:50.532Z",
+    "generated_at": "2026-08-11T11:07:43.666Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Global Market: European shares hold steady as Hormuz uncertainty keeps oil prices elevated",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-hold-steady-as-hormuz-uncertainty-keeps-oil-prices-elevated/articleshow/133095725.cms",
-        "published": "2026-08-10T09:57:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "ADNOC 'Significantly Impacted' by Attacks",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/adnoc_significantly_impacted_by_attacks-10-aug-2026-184332-article/",
-        "published": "2026-08-10T09:36:34Z",
+        "title": "Dangote refinery shifts Nigeria towards domestic value addition",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/08/dangote-refinery-shifts-nigeria-towards-domestic-value-addition/",
+        "published": "2026-08-10T11:01:47Z",
         "sentiment": "danger"
       },
       {
-        "title": "Rand at best level in months on gold strength and US rate rethink | News24",
-        "source": "News24",
-        "url": "https://www.news24.com/business/markets/currencies/rand-climbs-to-best-level-in-months-on-gold-strength-and-us-rate-rethink-20260810-0570",
-        "published": "2026-08-10T09:34:36Z",
+        "title": "Links 8/10/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/links-8-10-2026.html",
+        "published": "2026-08-10T10:59:27Z",
         "sentiment": "watch"
       },
       {
-        "title": "Global Market: China bears the brunt of Asia’s crude oil demand cut as Middle East supplies shrink",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-china-bears-the-brunt-of-asias-crude-oil-demand-cut-as-middle-east-supplies-shrink/articleshow/133094458.cms",
-        "published": "2026-08-10T09:25:31Z",
+        "title": "Iran War: Trump Impotence – WSJ Reports Desire to Exit if Strait Opened, Netanyahu Rejects Gaza “Deal”, Pentagon Issues 21-Day Demand for Plans for More Weapons as Iran and Ansar Allah Keep Attacking",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/iran-war-trump-impotence-wsj-reports-desire-to-exit-if-strait-opened-netanyahu-rejects-gaza-deal-pentagon-issues-21-day-demand-for-plans-for-more-weapons-as-iran-and-ansar-allah-keep-attackin.html",
+        "published": "2026-08-10T10:57:59Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Bitcoin steadies above $65,000 as Iran-Oman deal eases Hormuz concerns",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/bitcoin-iran-oman-hormuz-deal/",
+        "published": "2026-08-10T10:51:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "Gold holds close to seven-week peak as markets assess Iran risks and Fed outlook",
-        "source": "Advfn.com",
-        "url": "https://investorshub.advfn.com/market-news/article/33806/gold-holds-close-to-seven-week-peak-as-markets-assess-iran-risks-and-fed-outlook",
-        "published": "2026-08-10T09:09:27Z",
-        "sentiment": "watch"
+        "title": "Iran won't reopen Strait of Hormuz without US concessions",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/iran-us-strait-hormuz-august-10-2026-0bdaae8f1d7b781918e76dca4317c897",
+        "published": "2026-08-10T10:48:54Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "UK's Royal Navy sea drones contain component that secretly sent data to China, report claims — government cuts camera connectivity and insists data wasn’t sensitive, only ‘heartbeat communications’",
+        "source": "Tom's Hardware UK",
+        "url": "https://www.tomshardware.com/tech-industry/drones/uks-royal-navy-sea-drones-contain-component-that-secretly-sent-data-to-china-report-claims-government-cuts-camera-connectivity-and-insists-data-wasnt-sensitive-only-heartbeat-communications",
+        "published": "2026-08-10T10:31:39Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan deploys drone swarms, unmanned boats to deter Chinese invasion",
         "source": "Crypto Briefing",
@@ -88,13 +95,6 @@
         "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
         "source": "Business Insider",
         "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8#article",
-        "published": "2026-08-09T13:48:56Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8",
         "published": "2026-08-09T13:48:56Z",
         "sentiment": "danger"
       }
@@ -132,11 +132,11 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "red",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "amber"
+    "korea": "yellow"
   },
   "thresholds": {
     "brent_alert": 110,
