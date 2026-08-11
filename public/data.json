@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T23:45:12.228Z",
+    "generated_at": "2026-08-11T02:15:51.299Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Extends Gain as Oman-Iran Accord on Hormuz Remains Elusive",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/oil-extends-gain-as-oman-iran-accord-on-hormuz-remains-elusive",
-        "published": "2026-08-09T23:06:21Z",
+        "title": "Asian stocks edge higher as Nikkei, Kospi gain on softer US jobs data",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/asian-stocks-edge-higher-as-nikkei-kospi-gain-on-softer-us-jobs-data-126081000033_1.html",
+        "published": "2026-08-10T02:09:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Why Trump’s Waiver of the Jones Act Is Unlikely To Lower Gas Prices",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Why-Trumps-Waiver-of-the-Jones-Act-Is-Unlikely-To-Lower-Gas-Prices.html",
-        "published": "2026-08-09T23:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran replaces top security official amid Strait of Hormuz talks",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-replaces-security-official-hormuz-talks/",
-        "published": "2026-08-09T22:41:30Z",
+        "title": "Oil price today: Brent crude jumps over 1% as traders await Hormuz reopening",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/oil-price-today-brent-crude-jumps-over-1-as-traders-await-hormuz-reopening/articleshow/133077402.cms",
+        "published": "2026-08-10T02:06:46Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Stock futures flat as investors await inflation data and weigh Iran uncertainty",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/stock-futures-flat-inflation-data-iran/",
-        "published": "2026-08-09T22:26:05Z",
+        "title": "Dollar near two-month trough as US inflation data awaited",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-near-two-month-trough-as-us-inflation-data-awaited/articleshow/133077479.cms",
+        "published": "2026-08-10T02:03:32Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump to Axios: \"We are low keying it\" with Iran",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4391235/posts",
-        "published": "2026-08-09T22:21:05Z",
+        "title": "Oil prices rise on uncertainty over reopening of Strait of Hormuz",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/commodities/oil-prices-rise-on-uncertainty-over-reopening-of-strait-of-hormuz-126081000035_1.html",
+        "published": "2026-08-10T02:02:20Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "'Low-key approach': Trump rules out fresh military offensive on Iran",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/low-key-approach-trump-rules-out-fresh-military-offensive-on-iran-126081000010_1.html",
+        "published": "2026-08-10T01:58:39Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan deploys drone swarms, unmanned boats to deter Chinese invasion",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/taiwan-deploys-drone-swarms-unmanned-boats-to-deter-chinese-invasion/",
+        "published": "2026-08-10T02:03:30Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "‘Defending Taiwan’ And The Limits Of Military-Only Deterrence",
+        "source": "Lawfaremedia.org",
+        "url": "https://www.lawfaremedia.org/article/defending-taiwan--and-the-limits-of-military-only-deterrence",
+        "published": "2026-08-10T00:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China’s special maritime law enforcement ops near Taiwan",
         "source": "Wnd.com",
@@ -83,20 +97,6 @@
         "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8#article",
         "published": "2026-08-09T13:48:56Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Taipei Condemns China’s Traffic Control Order For Taiwan Strait During Typhoon",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/taipei-condemns-chinas-traffic-control-order-for-taiwan-strait-during-typhoon/",
-        "published": "2026-08-09T13:25:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan plans 16% defence spending hike for 2027",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/taiwan-plans-16-defence-spending-hike-for-2027/articleshow/133063932.cms",
-        "published": "2026-08-09T07:35:11Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -132,11 +132,11 @@
   },
   "zones": {
     "hormuz": "yellow",
-    "taiwan": "amber",
+    "taiwan": "red",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "yellow"
+    "korea": "amber"
   },
   "thresholds": {
     "brent_alert": 110,
