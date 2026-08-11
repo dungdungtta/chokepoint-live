@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T14:44:47.175Z",
+    "generated_at": "2026-08-11T15:43:52.259Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,32 @@
   "news": {
     "hormuz": [
       {
+        "title": "Sunpow 8x18-Foot Garage Containment Mat for $55 w/ Prime + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/products/Sunpow/Sunpow-8-x18-Foot-Garage-Containment-Mat/516590.html",
+        "published": "2026-08-10T15:40:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Russia Rebuilds Nuclear Workforce at Iran’s Bushehr Plant",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Rebuilds-Nuclear-Workforce-at-Irans-Bushehr-Plant.html",
+        "published": "2026-08-10T15:30:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Nasdaq 100's QQQ ETF Holds Near Record High As Wall Street Awaits Key Inflation Data This Coming Week",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/invesco-qqq-trust-earnings-inflation-data-1873879",
+        "published": "2026-08-10T14:44:43Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Tanker hiring costs near $500K daily as Iran conflict deters shipowners from Strait of Hormuz",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/tanker-rates-500k-iran-strait-hormuz/",
         "published": "2026-08-10T14:35:22Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Trump's crazed fantasy unleashes a chaos he cannot control",
-        "source": "Raw Story",
-        "url": "https://www.rawstory.com/raw-investigates/trump-greenland-2677680064/",
-        "published": "2026-08-10T14:32:02Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Indian Refiners Cut LPG Losses in August",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Cut-LPG-Losses-in-August.html",
-        "published": "2026-08-10T14:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "From Asia to the Arctic, How Trump’s War Is Pushing His Rivals Closer",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/af16385fc267d601",
-        "published": "2026-08-10T14:17:54Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "yellow",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
