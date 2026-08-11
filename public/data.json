@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T09:09:29.047Z",
+    "generated_at": "2026-08-11T10:12:50.532Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran: Strait of Hormuz won't reopen until US pays price",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/431487",
-        "published": "2026-08-10T08:49:25Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Trump Hints at Sustained Economic Pressure on Iran",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/trump_hints_at_sustained_economic_pressure_on_iran-10-aug-2026-184330-article/",
-        "published": "2026-08-10T08:26:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran Ties Hormuz Reopening to US Concessions on Several Demands",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/iran-ties-hormuz-reopening-to-us-concessions-on-several-demands/",
-        "published": "2026-08-10T08:18:00Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Global stocks tick up with oil steady on Hormuz plans",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/news/asia-stocks-edge-higher-oil-002532883.html",
-        "published": "2026-08-10T08:14:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "$48 billion profit! 5 global oil majors cash in on oil surge amid Iran war. Where is money flowing?",
+        "title": "Global Market: European shares hold steady as Hormuz uncertainty keeps oil prices elevated",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/48-billion-profit-5-global-oil-majors-cash-in-on-oil-surge-amid-iran-war-where-is-money-flowing/articleshow/133091563.cms",
-        "published": "2026-08-10T08:06:24Z",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-hold-steady-as-hormuz-uncertainty-keeps-oil-prices-elevated/articleshow/133095725.cms",
+        "published": "2026-08-10T09:57:21Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "ADNOC 'Significantly Impacted' by Attacks",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/adnoc_significantly_impacted_by_attacks-10-aug-2026-184332-article/",
+        "published": "2026-08-10T09:36:34Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Rand at best level in months on gold strength and US rate rethink | News24",
+        "source": "News24",
+        "url": "https://www.news24.com/business/markets/currencies/rand-climbs-to-best-level-in-months-on-gold-strength-and-us-rate-rethink-20260810-0570",
+        "published": "2026-08-10T09:34:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Global Market: China bears the brunt of Asia’s crude oil demand cut as Middle East supplies shrink",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-china-bears-the-brunt-of-asias-crude-oil-demand-cut-as-middle-east-supplies-shrink/articleshow/133094458.cms",
+        "published": "2026-08-10T09:25:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Gold holds close to seven-week peak as markets assess Iran risks and Fed outlook",
+        "source": "Advfn.com",
+        "url": "https://investorshub.advfn.com/market-news/article/33806/gold-holds-close-to-seven-week-peak-as-markets-assess-iran-risks-and-fed-outlook",
+        "published": "2026-08-10T09:09:27Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
