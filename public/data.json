@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T16:40:48.526Z",
+    "generated_at": "2026-08-11T17:43:12.019Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
-        "source": "Stoaexchange.com",
-        "url": "https://www.stoaexchange.com",
-        "published": "2026-08-10T16:35:27Z",
+        "title": "Batten down, ride out shipping storm",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/opinion/et-editorial/batten-down-ride-out-shipping-storm/articleshow/133125667.cms",
+        "published": "2026-08-10T17:39:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "US naval blockade stalls Iranian oil exports, Kharg Island inactive",
+        "title": "Trump extends and narrows US Jones Act shipping waiver",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-naval-blockade-stalls-iranian-oil-exports-kharg-island-inactive/",
-        "published": "2026-08-10T16:20:50Z",
+        "url": "https://cryptobriefing.com/trump-jones-act-shipping-waiver-extended/",
+        "published": "2026-08-10T17:27:08Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump Extends Narrowed Waiver of US Jones Act Shipping Mandates",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/trump-extends-narrowed-waiver-of-us-jones-act-shipping-mandates",
+        "published": "2026-08-10T17:25:28Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US military pressure forcing Hormuz closure – Iran",
+        "source": "RT",
+        "url": "https://www.rt.com/news/644068-iran-us-hormuz-diplomacy/",
+        "published": "2026-08-10T17:24:38Z",
         "sentiment": "danger"
       },
       {
-        "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+        "title": "Trump extends Jones Act waiver with some limitations, White House official says",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/133117226.cms",
-        "published": "2026-08-10T16:11:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "International Seaways Q2 Earnings Call Highlights",
-        "source": "MarketBeat",
-        "url": "https://www.marketbeat.com/instant-alerts/international-seaways-q2-earnings-call-highlights-2026-08-10/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-        "published": "2026-08-10T16:04:21Z",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-extends-jones-act-waiver-with-some-limitations-white-house-official-says/articleshow/133124197.cms",
+        "published": "2026-08-10T17:24:28Z",
         "sentiment": "watch"
       }
     ],
