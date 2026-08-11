@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T05:29:26.411Z",
+    "generated_at": "2026-08-11T06:30:31.873Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Gold eases from seven-week peak, US inflation data looms",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/gold/gold-eases-from-seven-week-peak-us-inflation-data-looms/article71327016.ece",
-        "published": "2026-08-10T05:27:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Bangladesh Joins Saudi-led Defense Coalition as Bab el-Mandeb Risks Grow",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/08/bangladesh-joins-saudi-led-defense-coalition-as-bab-el-mandeb-risks-grow/",
-        "published": "2026-08-10T05:23:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil rises as Iran tempers hopes for swift Strait of Hormuz reopening",
-        "source": "Emirates 24|7",
-        "url": "https://www.emirates247.com/business/oil-rises-as-iran-tempers-hopes-for-swift-strait-of-hormuz-reopening/4382",
-        "published": "2026-08-10T05:04:21Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "US calls Strait of Hormuz ‘irrelevant’ amid Iran tensions: Reuters",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-calls-strait-of-hormuz-irrelevant-amid-iran-tensions-reuters/",
-        "published": "2026-08-10T05:03:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Middle East in turmoil five months into the war: Cornered Iran raises the stakes as US loses grip on the post-war landscape",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/08/10/middle-east-in-turmoil-five-months-into-the-war-cornered-iran-raises-the-stakes-as-us-loses-grip-on-the-post-war-landscape/",
-        "published": "2026-08-10T04:54:00Z",
+        "title": "Hormuz Tensions Surge After Reports of Another Tanker Strike",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tensions-Surge-After-Reports-of-Another-Tanker-Strike.html",
+        "published": "2026-08-10T06:30:00Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "J.P. Morgan raises S&P 500 year-end target to 8,000 on AI and earnings optimism",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/jp-morgan-raises-sp-500-year-end-target-to-8000-on-ai-and-earnings-optimism/article71327198.ece",
+        "published": "2026-08-10T06:28:42Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Asian shares track Wall Street gains, while oil prices bounce higher",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-gains-wall-062649152.html",
+        "published": "2026-08-10T06:26:49Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "J.P. Morgan lifts 2026-end target for S&P 500 to 8,000 on AI, earnings strength",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-lifts-2026-061958111.html",
+        "published": "2026-08-10T06:19:58Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "J.P. Morgan lifts 2026-end target for S&P 500 to 8,000 on AI, earnings strength",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/jp-morgan-lifts-2026-end-target-sp-500-8000-ai-earnings-strength-6309256",
+        "published": "2026-08-10T06:19:58Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -87,14 +87,14 @@
       {
         "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
         "source": "Business Insider",
-        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8",
+        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8#article",
         "published": "2026-08-09T13:48:56Z",
         "sentiment": "danger"
       },
       {
         "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
         "source": "Business Insider",
-        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8#article",
+        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8",
         "published": "2026-08-09T13:48:56Z",
         "sentiment": "danger"
       }
