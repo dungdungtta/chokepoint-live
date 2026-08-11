@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T19:48:06.638Z",
+    "generated_at": "2026-08-11T20:55:15.081Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump extends limited waiver of shipping law to keep oil flowing in U.S. amid Iran war",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/e90ea63f708573b4",
-        "published": "2026-08-10T19:21:27Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump extends limited waiver of shipping law to keep oil flowing in U.S. amid Iran war",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/10/trump-iran-oil-jones-act-shipping.html",
-        "published": "2026-08-10T19:15:29Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "China Uses Arctic Shipping Route to Avoid Strait of Hormuz via 'Ice Silk Road'",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/08/10/china-uses-arctic-shipping-route-to-avoid-strait-of-hormuz-via-ice-silk-road/",
-        "published": "2026-08-10T19:12:00Z",
+        "title": "Trump demands Iran pay compensation for deaths as Hormuz deal hopes fade",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/trump-us-iran-hormuz-deal-compensation-6310521",
+        "published": "2026-08-10T20:46:36Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil climbs 5% as Iran, US both demand compensation and Hormuz hopes fade",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-5-as-iran-us-both-demand-compensation-and-hormuz-hopes-fade/articleshow/133132265.cms",
-        "published": "2026-08-10T19:11:43Z",
+        "title": "Oil Climbs as Hormuz Deal Remains Elusive",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_climbs_as_hormuz_deal_remains_elusive-10-aug-2026-184340-article/",
+        "published": "2026-08-10T20:45:49Z",
         "sentiment": "watch"
       },
       {
-        "title": "'They will be taken over': Fresh threat for Philippines as dispute with China erupts",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-08-11/philippines-china-pag-asa-south-china-sea/107001462",
-        "published": "2026-08-10T18:54:42Z",
-        "sentiment": "danger"
+        "title": "Oil prices surge amid Iran-Oman Strait of Hormuz talks",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oil-prices-surge-amid-iran-oman-strait-of-hormuz-talks/",
+        "published": "2026-08-10T20:30:58Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "U.S. oil rises back above $82 as doubt grows Washington and Tehran will reach Hormuz deal",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4391333/posts",
+        "published": "2026-08-10T20:21:05Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump Teased a Deal To Open Hormuz 'Tomorrow.' It's Been a Week.",
+        "source": "Reason",
+        "url": "https://reason.com/2026/08/10/trump-teased-a-deal-to-open-hormuz-tomorrow-its-been-a-week/",
+        "published": "2026-08-10T20:07:37Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -124,7 +124,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "yellow",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
