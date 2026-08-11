@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T11:07:43.666Z",
+    "generated_at": "2026-08-11T11:59:11.585Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Dangote refinery shifts Nigeria towards domestic value addition",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/08/dangote-refinery-shifts-nigeria-towards-domestic-value-addition/",
-        "published": "2026-08-10T11:01:47Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Links 8/10/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/links-8-10-2026.html",
-        "published": "2026-08-10T10:59:27Z",
+        "title": "Seeing through the storm: SAR imagery's evolution beyond defense applications",
+        "source": "The Space Review",
+        "url": "https://www.thespacereview.com/article/5282/1",
+        "published": "2026-08-10T11:56:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran War: Trump Impotence – WSJ Reports Desire to Exit if Strait Opened, Netanyahu Rejects Gaza “Deal”, Pentagon Issues 21-Day Demand for Plans for More Weapons as Iran and Ansar Allah Keep Attacking",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/iran-war-trump-impotence-wsj-reports-desire-to-exit-if-strait-opened-netanyahu-rejects-gaza-deal-pentagon-issues-21-day-demand-for-plans-for-more-weapons-as-iran-and-ansar-allah-keep-attackin.html",
-        "published": "2026-08-10T10:57:59Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Bitcoin steadies above $65,000 as Iran-Oman deal eases Hormuz concerns",
+        "title": "Donald Trump bets on patience to influence Iran, impacting oil markets",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/bitcoin-iran-oman-hormuz-deal/",
-        "published": "2026-08-10T10:51:21Z",
+        "url": "https://cryptobriefing.com/trump-patience-iran-oil-markets/",
+        "published": "2026-08-10T11:45:44Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran won't reopen Strait of Hormuz without US concessions",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/iran-us-strait-hormuz-august-10-2026-0bdaae8f1d7b781918e76dca4317c897",
-        "published": "2026-08-10T10:48:54Z",
-        "sentiment": "neutral"
+        "title": "Marine Planning Glossary",
+        "source": "Www.gov.uk",
+        "url": "https://www.gov.uk/guidance/marine-planning-glossary",
+        "published": "2026-08-10T11:40:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze Black Sea Oil Exports",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/kazakhstan-weighs-routes-drone-strikes-113000568.html",
+        "published": "2026-08-10T11:30:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze Black Sea Oil Exports",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Weighs-New-Routes-as-Drone-Strikes-Squeeze-Black-Sea-Oil-Exports.html",
+        "published": "2026-08-10T11:30:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Monday: Hili dialogue",
+        "source": "Whyevolutionistrue.com",
+        "url": "https://whyevolutionistrue.com/2026/08/10/monday-hili-dialogue-581/",
+        "published": "2026-08-10T11:45:59Z",
+        "sentiment": "watch"
+      },
       {
         "title": "UK's Royal Navy sea drones contain component that secretly sent data to China, report claims — government cuts camera connectivity and insists data wasn’t sensitive, only ‘heartbeat communications’",
         "source": "Tom's Hardware UK",
@@ -90,13 +97,6 @@
         "url": "https://www.wnd.com/2026/08/chinas-special-maritime-law-enforcement-ops-near-taiwan/",
         "published": "2026-08-09T18:56:46Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8#article",
-        "published": "2026-08-09T13:48:56Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
