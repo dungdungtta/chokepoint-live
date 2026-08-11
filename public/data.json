@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T13:34:29.105Z",
+    "generated_at": "2026-08-11T14:44:47.175Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "China bypasses shipping chokepoints with ‘Ice Silk Road’ through Arctic",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/financial-times/china-bypasses-shipping-chokepoints-arctic-ice-silk-road",
-        "published": "2026-08-10T13:29:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "More Primaries On The Horizon, Iran Issues New Demands: Live Updates",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/live-updates_n_6a79b682e4b0a81f52ff646a",
-        "published": "2026-08-10T13:28:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil spill off Oman from tanker under sanctions against Russia spreads over huge area",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/oil-spill-off-oman-from-tanker-under-sanctions-against-russia-spreads-over-huge-area/articleshow/133108847.cms",
-        "published": "2026-08-10T13:17:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Strait of Hormuz maritime traffic drops amid 2026 crisis tensions",
+        "title": "Tanker hiring costs near $500K daily as Iran conflict deters shipowners from Strait of Hormuz",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/strait-of-hormuz-maritime-traffic-drops-amid-2026-crisis-tensions/",
-        "published": "2026-08-10T13:10:14Z",
+        "url": "https://cryptobriefing.com/tanker-rates-500k-iran-strait-hormuz/",
+        "published": "2026-08-10T14:35:22Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Trump's crazed fantasy unleashes a chaos he cannot control",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/raw-investigates/trump-greenland-2677680064/",
+        "published": "2026-08-10T14:32:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Indian Refiners Cut LPG Losses in August",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Cut-LPG-Losses-in-August.html",
+        "published": "2026-08-10T14:30:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "From Asia to the Arctic, How Trump’s War Is Pushing His Rivals Closer",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/af16385fc267d601",
+        "published": "2026-08-10T14:17:54Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "yellow",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
