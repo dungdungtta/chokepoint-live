@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T18:39:23.745Z",
+    "generated_at": "2026-08-11T19:48:06.638Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump EXPLODES over Iranian cash demands... as secret attack on US water supply unveiled in bombshell report",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16042303/Trump-EXPLODES-Iranian-cash-attack.html",
-        "published": "2026-08-10T18:14:43Z",
+        "title": "Trump extends limited waiver of shipping law to keep oil flowing in U.S. amid Iran war",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/e90ea63f708573b4",
+        "published": "2026-08-10T19:21:27Z",
         "sentiment": "danger"
       },
       {
-        "title": "Erdogan, Saudi Crown Prince Discuss Houthi Attacks and Red Sea Security - Khaama Press",
-        "source": "Khaama.com",
-        "url": "https://www.khaama.com/erdogan-saudi-crown-prince-discuss-houthi-attacks-and-red-sea-security/",
-        "published": "2026-08-10T18:04:22Z",
+        "title": "Trump extends limited waiver of shipping law to keep oil flowing in U.S. amid Iran war",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/10/trump-iran-oil-jones-act-shipping.html",
+        "published": "2026-08-10T19:15:29Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump rejects Iran’s war compensation demands, complicating Strait of Hormuz negotiations",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-rejects-iran-war-compensation-strait-hormuz/",
-        "published": "2026-08-10T17:55:16Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oman oil spill from Russian tanker threatens coastal ecosystems",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oman-oil-spill-from-russian-tanker-threatens-coastal-ecosystems/",
-        "published": "2026-08-10T17:53:13Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Mohsen Rezaei appointed as chief of Iran's National Security Council",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/mohsen-rezaei-appointed-as-chief-of-iran-s-national-security-council-126081001843_1.html",
-        "published": "2026-08-10T17:47:24Z",
+        "title": "China Uses Arctic Shipping Route to Avoid Strait of Hormuz via 'Ice Silk Road'",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/08/10/china-uses-arctic-shipping-route-to-avoid-strait-of-hormuz-via-ice-silk-road/",
+        "published": "2026-08-10T19:12:00Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Oil climbs 5% as Iran, US both demand compensation and Hormuz hopes fade",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-5-as-iran-us-both-demand-compensation-and-hormuz-hopes-fade/articleshow/133132265.cms",
+        "published": "2026-08-10T19:11:43Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "'They will be taken over': Fresh threat for Philippines as dispute with China erupts",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-08-11/philippines-china-pag-asa-south-china-sea/107001462",
+        "published": "2026-08-10T18:54:42Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Netanyahu Nixes Trump’s Gaza Deal",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/08/10/netanyahu-israel-hamas-disarmament-deal-colombia-earthquake-china-typhoon/",
+        "published": "2026-08-10T19:14:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Victor Davis Hanson: Iran Has One Last Chance Before Trump Hits Back",
+        "source": "Daily Signal",
+        "url": "https://www.dailysignal.com/2026/08/10/iran-has-one-chance-trump-hits-back/",
+        "published": "2026-08-10T18:56:48Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Painting Bullseyes: What Iran’s Attacks on US Bases Mean for the Indo-Pacific",
         "source": "The Diplomat",
@@ -76,20 +90,6 @@
         "url": "https://www.forbes.com/sites/ilanberman/2026/08/10/taiwans-information-war-comes-home/",
         "published": "2026-08-10T13:21:43Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "The China-Russia-North Korea Authoritarian Axis Looms Over Wars in Ukraine and Iran",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/08/the-china-russia-north-korea-authoritarian-axis-looms-over-wars-in-ukraine-and-iran/",
-        "published": "2026-08-10T12:26:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Monday: Hili dialogue",
-        "source": "Whyevolutionistrue.com",
-        "url": "https://whyevolutionistrue.com/2026/08/10/monday-hili-dialogue-581/",
-        "published": "2026-08-10T11:45:59Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -125,11 +125,11 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "red",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "amber"
+    "korea": "yellow"
   },
   "thresholds": {
     "brent_alert": 110,
