@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T18:38:28.028Z",
+    "generated_at": "2026-08-12T19:50:05.147Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Stocks fall as hopes for US-Iran peace deal diminish",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/stocks-fall-us-iran-peace-deal/",
+        "published": "2026-08-11T19:35:28Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Rachel Maddow Spots Exactly How This Trump-Linked Company Could Be 'Invading' Greenland",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/rachel-maddow-trump-greenland-oil-drilling_n_6a7af37de4b0ecad6d3c79fd",
+        "published": "2026-08-11T19:15:58Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The emergence of a new Islamic military bloc",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/431574",
+        "published": "2026-08-11T19:15:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Coffee Break: Armed Madhouse – The Iran War, China, and the Future of Sea Power",
         "source": "Nakedcapitalism.com",
         "url": "https://www.nakedcapitalism.com/2026/08/coffee-break-armed-madhouse-the-iran-war-china-and-the-future-of-sea-power.html",
@@ -38,27 +59,6 @@
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Hormuz-Will-Stay-Closed-Until-US-Meets-Its-Conditions.html",
         "published": "2026-08-11T18:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Administration Says Gulf Oil Flows Recover to 15 Million Barrels a Day",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/trump-administration-says-gulf-oil-flows-recover-to-15-million-barrels-a-day/",
-        "published": "2026-08-11T17:42:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Sees Iran War Oil Supply Disruptions Lasting Through 2027",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/us-sees-iran-war-oil-supply-disruptions-lasting-through-2027",
-        "published": "2026-08-11T17:25:20Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump outlines Iran options: economic failure or military action",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-outlines-iran-options-economic-failure-or-military-action/",
-        "published": "2026-08-11T17:14:02Z",
         "sentiment": "watch"
       }
     ],
