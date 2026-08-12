@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T17:33:47.694Z",
+    "generated_at": "2026-08-12T18:38:28.028Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 88.9,
-      "change_pct": -8.3,
-      "date": "2026-08-03",
+      "price": 93.26,
+      "change_pct": 0.6,
+      "date": "2026-08-11",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Coffee Break: Armed Madhouse – The Iran War, China, and the Future of Sea Power",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/coffee-break-armed-madhouse-the-iran-war-china-and-the-future-of-sea-power.html",
+        "published": "2026-08-11T18:00:09Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran Says Hormuz Will Stay Closed Until U.S. Meets Its Conditions",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Hormuz-Will-Stay-Closed-Until-US-Meets-Its-Conditions.html",
+        "published": "2026-08-11T18:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump Administration Says Gulf Oil Flows Recover to 15 Million Barrels a Day",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/trump-administration-says-gulf-oil-flows-recover-to-15-million-barrels-a-day/",
+        "published": "2026-08-11T17:42:20Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US Sees Iran War Oil Supply Disruptions Lasting Through 2027",
         "source": "Financial Post",
         "url": "https://financialpost.com/pmn/business-pmn/us-sees-iran-war-oil-supply-disruptions-lasting-through-2027",
@@ -39,30 +60,16 @@
         "url": "https://cryptobriefing.com/trump-outlines-iran-options-economic-failure-or-military-action/",
         "published": "2026-08-11T17:14:02Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Oil-and-gas PSUs see first Q1 capex decline in at least five years",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/industry/news/oil-and-gas-psus-see-first-q1-capex-decline-in-at-least-five-years-126081102058_1.html",
-        "published": "2026-08-11T17:13:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Rhine River Hits Record Low, Deepening Shipping Crisis",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/rhine-river-hits-record-low-deepening-shipping-crisis/",
-        "published": "2026-08-11T17:01:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Pakistan Says US and Iran Close to ‘Some Sort’ of Deal Despite Attacks on Shipping",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/pakistan-says-us-and-iran-close-to-some-sort-of-deal-despite-attacks-on-shipping/",
-        "published": "2026-08-11T16:40:23Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Coffee Break: Armed Madhouse – The Iran War, China, and the Future of Sea Power",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/coffee-break-armed-madhouse-the-iran-war-china-and-the-future-of-sea-power.html",
+        "published": "2026-08-11T18:00:09Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Why the Pacific Islands Forum Should Watch Taiwan’s East Coast",
         "source": "The Diplomat",
@@ -90,13 +97,6 @@
         "url": "https://www.irishtimes.com/world/2026/08/11/taiwan-prepares-for-war-but-china-has-other-options/",
         "published": "2026-08-11T05:36:32Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "US Official Reassures Asia of Commitment, Calls for Greater Burden Sharing",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/08/us-official-reassures-asia-of-commitment-calls-for-greater-burden-sharing/",
-        "published": "2026-08-11T00:53:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -132,11 +132,11 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "amber",
+    "taiwan": "red",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "yellow"
+    "korea": "amber"
   },
   "thresholds": {
     "brent_alert": 110,
