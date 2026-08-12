@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T19:50:05.147Z",
+    "generated_at": "2026-08-12T20:54:14.111Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Stocks fall as hopes for US-Iran peace deal diminish",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/stocks-fall-us-iran-peace-deal/",
-        "published": "2026-08-11T19:35:28Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Rachel Maddow Spots Exactly How This Trump-Linked Company Could Be 'Invading' Greenland",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/rachel-maddow-trump-greenland-oil-drilling_n_6a7af37de4b0ecad6d3c79fd",
-        "published": "2026-08-11T19:15:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The emergence of a new Islamic military bloc",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/431574",
-        "published": "2026-08-11T19:15:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Coffee Break: Armed Madhouse – The Iran War, China, and the Future of Sea Power",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/coffee-break-armed-madhouse-the-iran-war-china-and-the-future-of-sea-power.html",
-        "published": "2026-08-11T18:00:09Z",
+        "title": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen",
+        "published": "2026-08-11T20:29:34Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran Says Hormuz Will Stay Closed Until U.S. Meets Its Conditions",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Hormuz-Will-Stay-Closed-Until-US-Meets-Its-Conditions.html",
-        "published": "2026-08-11T18:00:00Z",
+        "title": "US expects oil supply disruptions of 600,000 barrels daily from Iran conflict through 2027",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-oil-supply-disruptions-forecast/",
+        "published": "2026-08-11T20:25:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Extends Gains on Hormuz Uncertainty",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_extends_gains_on_hormuz_uncertainty-11-aug-2026-184351-article/",
+        "published": "2026-08-11T20:13:23Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US Central Command fires missiles at Panama-flagged vessel in Gulf of Oman",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-fires-missiles-panama-vessel-gulf-oman/",
+        "published": "2026-08-11T20:07:04Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "A Dozen Ships Switch Oil Outside Hormuz",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/a_dozen_ships_switch_oil_outside_hormuz-11-aug-2026-184349-article/",
+        "published": "2026-08-11T20:00:00Z",
         "sentiment": "watch"
       }
     ],
