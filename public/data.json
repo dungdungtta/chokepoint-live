@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T06:01:42.985Z",
+    "generated_at": "2026-08-12T07:54:08.238Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Race to Reopen the Strait of Hormuz Intensifies as Supply Chain Stress Persists",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-11-race-reopen-hormuz-intensifies-supply-chain-stress-persists.html",
-        "published": "2026-08-11T06:00:00Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
-        "published": "2026-08-11T05:48:27Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump: U.S. Navy ‘Controls the Strait 100%’ with ‘Steel Wall’ Blockade — Iran Escalation Still on the Table",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/08/10/trump-u-s-navy-controls-strait-100-iran-escalation-onthe-table/",
-        "published": "2026-08-11T05:48:05Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Gulf shipping traffic via Strait of Hormuz falls to six vessels",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/gulf-shipping-traffic-via-strait-of-hormuz-falls-to-six-vessels/article71331072.ece",
-        "published": "2026-08-11T05:17:26Z",
+        "title": "Euro zone bond yields rise as oil climbs on Hormuz doubts",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-rise-as-oil-climbs-on-hormuz-doubts/articleshow/133146952.cms",
+        "published": "2026-08-11T07:49:36Z",
         "sentiment": "watch"
       },
       {
-        "title": "Why India keeps selling stakes in PSUs instead of privatising them",
+        "title": "India's US crude imports head for lowest level since Dec 2024: Here's why",
         "source": "Business Standard",
-        "url": "https://www.business-standard.com/finance/news/why-india-keeps-selling-stakes-in-psus-instead-of-privatising-them-126081000060_1.html",
-        "published": "2026-08-11T05:09:38Z",
+        "url": "https://www.business-standard.com/economy/news/india-us-crude-oil-imports-russian-trump-sanctions-venezuela-trade-tariffs-126081100747_1.html",
+        "published": "2026-08-11T07:09:30Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/trump-pivots-back-sanctions-iran-strategies-end-war-135535367",
+        "published": "2026-08-11T06:40:56Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Global Market: Mainland Chinese stocks mixed, Hong Kong shares slip as Iran conflict weighs on sentiment",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-mainland-chinese-stocks-mixed-hong-kong-shares-slip-as-iran-conflict-weighs-on-sentiment/articleshow/133143659.cms",
+        "published": "2026-08-11T06:05:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Global Market: Mainland Chinese stocks mixed, Hong Kong shares slip as Iran conflict weighs on sentiment",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-mainland-chinese-stocks-mixed-hong-kong-shares-slip-as-iran-conflict-weighs-on-sentiment/articleshow/133143659.cms",
+        "published": "2026-08-11T06:05:10Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Putting Armageddon on Autopilot: How Artificial Intelligence Could Make Nuclear Threats More Effective",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/putting-armageddon-on-autopilot-how-artificial-intelligence-could-make-nuclear-threats-more-effective/",
+        "published": "2026-08-11T07:30:08Z",
+        "sentiment": "danger"
+      },
       {
         "title": "War games around Taiwan",
         "source": "The Irish Times",
@@ -90,13 +97,6 @@
         "url": "https://www.dailysignal.com/2026/08/10/iran-has-one-chance-trump-hits-back/",
         "published": "2026-08-10T18:56:48Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Painting Bullseyes: What Iran’s Attacks on US Bases Mean for the Indo-Pacific",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/08/painting-bullseyes-what-irans-attacks-on-us-bases-mean-for-the-indo-pacific/",
-        "published": "2026-08-10T18:22:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
