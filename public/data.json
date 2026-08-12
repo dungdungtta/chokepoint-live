@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T14:07:29.557Z",
+    "generated_at": "2026-08-12T15:16:02.626Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Dow Jones Rises Toward Record High As Oil Prices Surge On Stalled Iran Talks This Tuesday Morning",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/dow-jones-climbs-amid-oil-price-surge-1873913",
-        "published": "2026-08-11T14:06:44Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Russian oil shipments hit lowest since May amid strikes, shipping woes",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/russian-oil-shipments-hit-lowest-since-may-amid-strikes-shipping-woes/",
-        "published": "2026-08-11T13:51:31Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump demands Iran pay for decades of U.S. deaths in rebuke of Tehran’s request for reparations",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/08/11/trump-demands-iran-pay-decades-us-deaths-rebuke-tehran-request-reparations/",
-        "published": "2026-08-11T13:50:21Z",
+        "title": "Brent Could Hit $100 as Hormuz Crisis Flares Again",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/brent-could-hit-100-hormuz-145200334.html",
+        "published": "2026-08-11T14:52:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthi attacks in Yemen threaten new shipping crisis in Red Sea as Iran digs in on Hormuz demands",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/08/11/houthi-attacks-yemen-red-sea-iran-hormuz/",
-        "published": "2026-08-11T13:39:15Z",
-        "sentiment": "danger"
+        "title": "Brent Could Hit $100 as Hormuz Crisis Flares Again",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Brent-Could-Hit-100-as-Hormuz-Crisis-Flares-Again.html",
+        "published": "2026-08-11T14:52:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Houthis kill three in first deadly attack since start of Iran war - reports",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno",
-        "published": "2026-08-11T13:35:57Z",
-        "sentiment": "danger"
+        "title": "Trump Extends Narrowed Waiver of USA Jones Act",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/trump_extends_narrowed_waiver_of_usa_jones_act-11-aug-2026-184348-article/",
+        "published": "2026-08-11T14:41:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran, Oman progress in talks to reopen Strait of Hormuz amid 2026 crisis",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-oman-progress-in-talks-to-reopen-strait-of-hormuz-amid-2026-crisis/",
+        "published": "2026-08-11T14:12:54Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Nasdaq Composite Holds Nearly Flat Near 26,600 Amid Oil Swings and Geopolitical Caution",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/nasdaq-steady-oil-price-fluctuations-middle-east-tensions-1873915",
+        "published": "2026-08-11T14:11:15Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "yellow",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
