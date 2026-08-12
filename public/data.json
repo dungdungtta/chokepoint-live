@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T02:31:55.843Z",
+    "generated_at": "2026-08-12T04:27:48.129Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump extends Jones Act waiver for 90 days, narrows scope",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-extends-jones-act-waiver-for-90-days-narrows-scope/articleshow/133140096.cms",
-        "published": "2026-08-11T02:29:10Z",
+        "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-pivots-back-sanctions-iran-040217240.html",
+        "published": "2026-08-11T04:02:17Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "After talks with Iran fizzle, Trump turns back to sanctions",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/trump-iran-sanctions-d96e3bf53eb4050097e6cab128db82cb",
+        "published": "2026-08-11T04:02:17Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/politics/articles/us--trump-iran-sanctions-040217240.html",
+        "published": "2026-08-11T04:02:17Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "(2) 150-Count Nature Made Burp Less Fish Oil Omega-3 1000mg Softgels $11.60 ($5.80 Ea) w/ S&S + Free Shipping w/ Prime or on $35+ (0 replies)",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19865310-2-150-count-nature-made-burp-less-fish-oil-omega-3-1000mg-softgels-11-60-5-80-ea-w-s-s-free-shipping-w-prime-or-on-35",
+        "published": "2026-08-11T03:14:52Z",
         "sentiment": "watch"
       },
       {
-        "title": "Hopes for Strait of Hormuz deal fade as Trump demands Iranian reparations",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/hopes-for-strait-of-hormuz-deal-fade-as-trump-demands-iranian-reparations-126081100091_1.html",
-        "published": "2026-08-11T02:25:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Price Today (August 11): Crude oil rises to $88 after Trump's compensation demand dents Hormuz opening. Here's why",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-11-crude-oil-rises-to-88-after-trumps-compensation-demand-dents-hormuz-opening-heres-why/articleshow/133140451.cms",
-        "published": "2026-08-11T02:21:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Kotak Securities' top trading bets: Narayana Hrudayalaya, Mrs Bectors Food",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/kotak-securities-top-trading-bets-narayana-hrudayalaya-mrs-bectors-food-126081100092_1.html",
-        "published": "2026-08-11T02:19:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil steadies near one-week highs as US-Iran peace deal hopes dim",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-steadies-near-one-week-highs-as-us-iran-peace-deal-hopes-dim/articleshow/133140238.cms",
-        "published": "2026-08-11T01:55:24Z",
-        "sentiment": "watch"
+        "title": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue",
+        "published": "2026-08-11T02:32:47Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "yellow",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
