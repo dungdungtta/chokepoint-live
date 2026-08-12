@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T10:36:59.006Z",
+    "generated_at": "2026-08-12T11:32:55.007Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war",
+        "published": "2026-08-11T11:30:48Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US missile strike reportedly hits container ship off Pakistan",
+        "source": "Newsnationnow.com",
+        "url": "https://www.newsnationnow.com/world/us-iran-economic-strain-strait-of-hormuz-conflict/",
+        "published": "2026-08-11T11:27:52Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Germany news: Some shipping stops as Rhine hits new lows",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/germany-news-some-shipping-stops-as-rhine-hits-new-lows/live-78313874",
+        "published": "2026-08-11T11:18:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Global Market: European shares edge higher as energy stocks gain on Middle East uncertainty",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-higher-as-energy-stocks-gain-on-middle-east-uncertainty/articleshow/133151455.cms",
+        "published": "2026-08-11T10:46:59Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Heat health alerts in force as UK faces fifth heatwave",
         "source": "RTE",
         "url": "https://www.rte.ie/news/2026/0811/1587419-uk-heatwave/",
         "published": "2026-08-11T10:29:43Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Current price of oil as of August 11, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-08-11-2026/",
-        "published": "2026-08-11T10:20:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Hardens Stance on Iran, Clouding Hopes for Hormuz Deal",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/trump-hardens-stance-on-iran-clouding-hopes-for-hormuz-deal/",
-        "published": "2026-08-11T10:19:41Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Apple stock sinks as hopes that new CEO John Ternus will launch a high-end, ‘all-glass’ iPhone are shattered",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/08/11/apple-stock-aapl-ceo-john-ternus-all-glass-iphone/",
-        "published": "2026-08-11T10:10:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Is Trapped in His YOLO War in Iran",
-        "source": "The New Republic",
-        "url": "https://newrepublic.com/article/214159/trump-iran-negotiations-caught-trap",
-        "published": "2026-08-11T10:00:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
