@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T09:18:23.920Z",
+    "generated_at": "2026-08-12T10:36:59.006Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S. oil tops $84 as Hormuz deal hopes dwindle and deadlock deepens",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
-        "published": "2026-08-11T09:12:25Z",
+        "title": "Heat health alerts in force as UK faces fifth heatwave",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/2026/0811/1587419-uk-heatwave/",
+        "published": "2026-08-11T10:29:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "Gold Climbs to More Than Two-Month High as Iran Talks and U.S. Inflation Take Focus",
-        "source": "Advfn.com",
-        "url": "https://investorshub.advfn.com/market-news/article/33939/gold-climbs-to-more-than-two-month-high-as-iran-talks-and-u-s-inflation-take-focus",
-        "published": "2026-08-11T08:57:54Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Trump declares strait of Hormuz open again",
-        "source": "Fashionunited.com",
-        "url": "https://fashionunited.com/news/business/trump-declares-strait-of-hormuz-open-again/2026081174008",
-        "published": "2026-08-11T08:42:44Z",
+        "title": "Current price of oil as of August 11, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-08-11-2026/",
+        "published": "2026-08-11T10:20:36Z",
         "sentiment": "watch"
       },
       {
-        "title": "Beach Energy Shares Rise As Oil Prices Surge Amid Ongoing Strait Of Hormuz Supply Fears",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/beach-energy-shares-surge-oil-prices-strait-hormuz-tensions-1873894",
-        "published": "2026-08-11T08:16:04Z",
+        "title": "Trump Hardens Stance on Iran, Clouding Hopes for Hormuz Deal",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/trump-hardens-stance-on-iran-clouding-hopes-for-hormuz-deal/",
+        "published": "2026-08-11T10:19:41Z",
         "sentiment": "watch"
       },
       {
-        "title": "Santos Shares Gain As Middle East Tensions Push Oil And Gas Prices Sharply Higher This Full Trading Week",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/santos-shares-surge-oil-prices-hormuz-tensions-1873892",
-        "published": "2026-08-11T08:13:44Z",
+        "title": "Apple stock sinks as hopes that new CEO John Ternus will launch a high-end, ‘all-glass’ iPhone are shattered",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/08/11/apple-stock-aapl-ceo-john-ternus-all-glass-iphone/",
+        "published": "2026-08-11T10:10:16Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Trump Is Trapped in His YOLO War in Iran",
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/article/214159/trump-iran-negotiations-caught-trap",
+        "published": "2026-08-11T10:00:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan court jails woman for 7 years for conspiring with Chinese officials",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/taiwan-court-sentences-woman-7-years-prison-conspiring-135539030",
+        "published": "2026-08-11T09:48:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Putting Armageddon on Autopilot: How Artificial Intelligence Could Make Nuclear Threats More Effective",
         "source": "War on the Rocks",
@@ -89,13 +96,6 @@
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/08/10/netanyahu-israel-hamas-disarmament-deal-colombia-earthquake-china-typhoon/",
         "published": "2026-08-10T19:14:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Victor Davis Hanson: Iran Has One Last Chance Before Trump Hits Back",
-        "source": "Daily Signal",
-        "url": "https://www.dailysignal.com/2026/08/10/iran-has-one-chance-trump-hits-back/",
-        "published": "2026-08-10T18:56:48Z",
         "sentiment": "watch"
       }
     ],
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "yellow",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
