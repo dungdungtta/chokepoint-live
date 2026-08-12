@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T15:16:02.626Z",
+    "generated_at": "2026-08-12T16:27:49.730Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Brent Could Hit $100 as Hormuz Crisis Flares Again",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/brent-could-hit-100-hormuz-145200334.html",
-        "published": "2026-08-11T14:52:00Z",
+        "title": "US guns fire on 17 civilians in dead of night tanker strike as Trump's Iran war sparks gas carnage",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16044851/US-strike-Trumps-Iran-war.html",
+        "published": "2026-08-11T16:08:42Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "I got a boob job from a dead person’s fat — and it ruined my breasts forever",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/11/lifestyle/cadaver-filler-ruined-womans-breasts/",
+        "published": "2026-08-11T16:05:50Z",
         "sentiment": "watch"
       },
       {
-        "title": "Brent Could Hit $100 as Hormuz Crisis Flares Again",
+        "title": "IEA Numbers Point to a Two-Speed Recovery in Global Fuel Prices",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Brent-Could-Hit-100-as-Hormuz-Crisis-Flares-Again.html",
-        "published": "2026-08-11T14:52:00Z",
+        "url": "https://oilprice.com/Energy/Gas-Prices/IEA-Numbers-Point-to-a-Two-Speed-Recovery-in-Global-Fuel-Prices.html",
+        "published": "2026-08-11T16:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump Extends Narrowed Waiver of USA Jones Act",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/trump_extends_narrowed_waiver_of_usa_jones_act-11-aug-2026-184348-article/",
-        "published": "2026-08-11T14:41:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran, Oman progress in talks to reopen Strait of Hormuz amid 2026 crisis",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-oman-progress-in-talks-to-reopen-strait-of-hormuz-amid-2026-crisis/",
-        "published": "2026-08-11T14:12:54Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Nasdaq Composite Holds Nearly Flat Near 26,600 Amid Oil Swings and Geopolitical Caution",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/nasdaq-steady-oil-price-fluctuations-middle-east-tensions-1873915",
-        "published": "2026-08-11T14:11:15Z",
+        "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/133159099.cms",
+        "published": "2026-08-11T15:39:09Z",
         "sentiment": "watch"
       }
     ],
@@ -131,7 +124,7 @@
     ]
   },
   "zones": {
-    "hormuz": "yellow",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
