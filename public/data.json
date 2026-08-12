@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T07:54:08.238Z",
+    "generated_at": "2026-08-12T09:18:23.920Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Euro zone bond yields rise as oil climbs on Hormuz doubts",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-rise-as-oil-climbs-on-hormuz-doubts/articleshow/133146952.cms",
-        "published": "2026-08-11T07:49:36Z",
+        "title": "U.S. oil tops $84 as Hormuz deal hopes dwindle and deadlock deepens",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
+        "published": "2026-08-11T09:12:25Z",
         "sentiment": "watch"
       },
       {
-        "title": "India's US crude imports head for lowest level since Dec 2024: Here's why",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/economy/news/india-us-crude-oil-imports-russian-trump-sanctions-venezuela-trade-tariffs-126081100747_1.html",
-        "published": "2026-08-11T07:09:30Z",
+        "title": "Gold Climbs to More Than Two-Month High as Iran Talks and U.S. Inflation Take Focus",
+        "source": "Advfn.com",
+        "url": "https://investorshub.advfn.com/market-news/article/33939/gold-climbs-to-more-than-two-month-high-as-iran-talks-and-u-s-inflation-take-focus",
+        "published": "2026-08-11T08:57:54Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Trump declares strait of Hormuz open again",
+        "source": "Fashionunited.com",
+        "url": "https://fashionunited.com/news/business/trump-declares-strait-of-hormuz-open-again/2026081174008",
+        "published": "2026-08-11T08:42:44Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/trump-pivots-back-sanctions-iran-strategies-end-war-135535367",
-        "published": "2026-08-11T06:40:56Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Global Market: Mainland Chinese stocks mixed, Hong Kong shares slip as Iran conflict weighs on sentiment",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-mainland-chinese-stocks-mixed-hong-kong-shares-slip-as-iran-conflict-weighs-on-sentiment/articleshow/133143659.cms",
-        "published": "2026-08-11T06:05:10Z",
+        "title": "Beach Energy Shares Rise As Oil Prices Surge Amid Ongoing Strait Of Hormuz Supply Fears",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/beach-energy-shares-surge-oil-prices-strait-hormuz-tensions-1873894",
+        "published": "2026-08-11T08:16:04Z",
         "sentiment": "watch"
       },
       {
-        "title": "Global Market: Mainland Chinese stocks mixed, Hong Kong shares slip as Iran conflict weighs on sentiment",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-mainland-chinese-stocks-mixed-hong-kong-shares-slip-as-iran-conflict-weighs-on-sentiment/articleshow/133143659.cms",
-        "published": "2026-08-11T06:05:10Z",
+        "title": "Santos Shares Gain As Middle East Tensions Push Oil And Gas Prices Sharply Higher This Full Trading Week",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/santos-shares-surge-oil-prices-hormuz-tensions-1873892",
+        "published": "2026-08-11T08:13:44Z",
         "sentiment": "watch"
       }
     ],
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "yellow",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
