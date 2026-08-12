@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T20:54:14.111Z",
+    "generated_at": "2026-08-12T21:54:02.944Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Costway 46-Gallon Acacia Wood Deck Storage Bench for $120 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Costway-46-Gallon-Acacia-Wood-Deck-Storage-Bench-for-120-free-shipping/22004800.html",
+        "published": "2026-08-11T21:47:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Middle East War Pushes China Toward the Arctic Trade Route",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Middle-East-War-Pushes-China-Toward-the-Arctic-Trade-Route.html",
+        "published": "2026-08-11T21:00:00Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen",
@@ -45,20 +59,6 @@
         "source": "Rigzone",
         "url": "https://www.rigzone.com/news/wire/oil_extends_gains_on_hormuz_uncertainty-11-aug-2026-184351-article/",
         "published": "2026-08-11T20:13:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Central Command fires missiles at Panama-flagged vessel in Gulf of Oman",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-fires-missiles-panama-vessel-gulf-oman/",
-        "published": "2026-08-11T20:07:04Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "A Dozen Ships Switch Oil Outside Hormuz",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/a_dozen_ships_switch_oil_outside_hormuz-11-aug-2026-184349-article/",
-        "published": "2026-08-11T20:00:00Z",
         "sentiment": "watch"
       }
     ],
