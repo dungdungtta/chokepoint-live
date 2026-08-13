@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T04:31:08.809Z",
+    "generated_at": "2026-08-13T06:06:25.851Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Rupee falls 6 paise to 95.42 against US dollar in early trade",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-6-paise-to-95-42-against-us-dollar-in-early-trade/articleshow/133170057.cms",
-        "published": "2026-08-12T04:27:32Z",
+        "title": "Report Outlines Plans by U.S., Israel and Saudi to Bypass Iran in Oil Exports",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-12-us-israel-saudi-to-bypass-iran-oil-exports.html",
+        "published": "2026-08-12T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Markets open flat as crude stays near $90, inflation data in focus",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/stock-markets/markets-open-flat-as-crude-stays-near-90-inflation-data-in-focus/article71335011.ece",
-        "published": "2026-08-12T04:25:26Z",
+        "title": "Officials: Trump-Linked Oil Firm Ships Drilling Gear to Greenland Without Permit",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-12-trump-linked-firm-ships-drilling-gear-greenland.html",
+        "published": "2026-08-12T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump Doubles Down on U.S. ‘Total Control’ of Hormuz: Iran Can Crumble Economically or Get ‘Blown Away’",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/08/11/trump-doubles-down-u-s-total-control-hormuz-iran-can-crumble-economically/",
-        "published": "2026-08-12T04:15:25Z",
+        "title": "INR loses further momentum as oil prices ascend on Hormuz led tensions",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/capital-market-news/inr-loses-further-momentum-as-oil-prices-ascend-on-hormuz-led-tensions-126081200611_1.html",
+        "published": "2026-08-12T05:37:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Global Market: Japan stocks muted as investors await US CPI report",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-stocks-muted-as-investors-await-us-cpi-report/articleshow/133169643.cms",
-        "published": "2026-08-12T04:14:55Z",
+        "title": "Rupee falls 6 paise to 95.42 against US dollar during early trade",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/finance/news/rupee-falls-6-paise-to-95-42-against-us-dollar-during-early-trade-126081200374_1.html",
+        "published": "2026-08-12T05:25:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Silver Lining: The Donald’s Impending Defeat in Iran May Finally Bring the Empire Home",
-        "source": "Lewrockwell.com",
-        "url": "https://www.lewrockwell.com/2026/08/david-stockman/the-silver-lining-the-donalds-impending-defeat-in-iran-may-finally-bring-the-empire-home/",
-        "published": "2026-08-12T04:01:00Z",
+        "title": "Oil prices rise, stocks mixed ahead of crucial US inflation data",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/oil-prices-rise-stocks-mixed-ahead-of-crucial-us-inflation-data-225511",
+        "published": "2026-08-12T05:23:42Z",
         "sentiment": "watch"
       }
     ],
