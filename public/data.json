@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T16:27:07.619Z",
+    "generated_at": "2026-08-13T17:33:11.673Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Flows Normalizing? Industry Dumbstruck Over Trump Administration Claim",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/3bbd3accfcb73710",
-        "published": "2026-08-12T16:11:28Z",
-        "sentiment": "watch"
+        "title": "Putin Opens New Front in Shadow Fleet Fight With Threat to Seize EU Ships",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Putin-Opens-New-Front-in-Shadow-Fleet-Fight-With-Threat-to-Seize-EU-Ships.html",
+        "published": "2026-08-12T17:30:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Trump Praises Allah and Boasts US Has ‘Total Control’ Of Strait of Hormuz: ‘I THINK WE WILL KEEP IT!’",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4391542/posts",
-        "published": "2026-08-12T16:01:09Z",
-        "sentiment": "watch"
+        "title": "Iran Takes More Aggressive Military Stance With US Talks Frozen",
+        "source": "Military.com",
+        "url": "https://military.com/iran-takes-more-aggressive-military-stance-with-us-talks-frozen",
+        "published": "2026-08-12T17:20:17Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Oil Spill From Grounded Shadow Fleet Tanker Could Rival Exxon Valdez",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/oil-spill-from-grounded-shadow-fleet-tanker-could-rival-exxon-valdez/",
-        "published": "2026-08-12T15:46:35Z",
-        "sentiment": "watch"
+        "title": "Iran war leaves Iraq running out of money",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/iraq-iran-war-payments-salaries-oil-strait-of-hormuz-shipping-graphic/a-78341409",
+        "published": "2026-08-12T17:00:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Gulf Oil Giants Are Spending Billions to Build Ways Around Strait of Hormuz",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/7cc1101ddaf5c35e",
-        "published": "2026-08-12T15:40:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Putin says Russia will start seizing European vessels if its ships targeted",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/putin-says-russia-will-start-seizing-european-vessels-if-its-ships-targeted/articleshow/133187052.cms",
-        "published": "2026-08-12T15:38:19Z",
-        "sentiment": "watch"
+        "title": "Due to the Iran war, Iraq is running out of money",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/due-to-the-iran-war-iraq-is-running-out-of-money/a-78341409",
+        "published": "2026-08-12T17:00:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -131,7 +124,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
