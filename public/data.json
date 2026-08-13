@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T11:32:30.529Z",
+    "generated_at": "2026-08-13T12:34:42.389Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Dollar ticks up on Iran tension, with US data in focus",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/news/dollar-drifts-markets-await-us-014351710.html",
-        "published": "2026-08-12T11:20:50Z",
-        "sentiment": "watch"
+        "title": "Saudi Arabia reports 1M-barrel output rebound in July as Gulf ceasefire holds",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/saudi-arabia-oil-output-rebound-july-opec/",
+        "published": "2026-08-12T12:17:38Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Global stocks inch up, oil steady before US CPI",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/news/oil-gold-prices-rise-geopolitical-021926510.html",
-        "published": "2026-08-12T11:19:10Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Vladimir Putin threatens retaliation for Western seizures of Russian commercial vessels",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/vladimir-putin-threatens-retaliation-for-western-seizures-of-russian-commercial-vessels/articleshow/133180698.cms",
-        "published": "2026-08-12T11:17:18Z",
+        "title": "Day 1,631 of WW3: As Zelenskyy hands proposals for ending the war to U.S. officials, a reminder that putin's best investment still has never visited Ukraine - Fark needs a \"cowardly\" tag. This is your Wednesday Ukraine war thread [News]",
+        "source": "Fark.com",
+        "url": "https://www.fark.com/comments/14161074/Day-1631-of-WW3-As-Zelenskyy-hands-proposals-for-ending-war-to-US-officials-a-reminder-that-putins-best-investment-still-has-never-visited-Ukraine-Fark-needs-a-cowardly-tag-This-is-your-Wednesday-Ukraine-war-thread",
+        "published": "2026-08-12T12:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Sable Expects to Increase SYU Oil Sales to California Refiners from Q3",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/sable_expects_to_increase_syu_oil_sales_to_california_refiners_from_q3-12-aug-2026-184356-article/",
-        "published": "2026-08-12T11:05:43Z",
-        "sentiment": "watch"
+        "title": "Gulf oil spill fast becoming worst in years, agencies warn",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260812-azertac01.htm",
+        "published": "2026-08-12T12:00:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Iran War: Iran, Ansar Allah Keep Up Attacks on Ships as Trump Insists He Controls Strait of Hormuz, Will Break Iran Economically; Press Highlights Trump Cowardice in Catering Truck Escape From Ankara",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/iran-war-iran-ansar-allah-keep-up-attacks-on-ships-as-trump-insists-he-controls-strait-of-hormuz-will-break-iran-economically-press-highlights-trump-cowardice-in-catering-truck-escape-from-ankara.html",
-        "published": "2026-08-12T10:54:22Z",
+        "title": "Deadly attack on Red Sea ship adds to global supply chain uncertainty",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260812-unnews01.htm",
+        "published": "2026-08-12T12:00:00Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Sensex today | Stock Market Highlights: Sensex slips 187 pts to close at 77,966, Nifty ends at 24,435; TCS, M&M top losers",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-12th-august-2026/article71332253.ece",
+        "published": "2026-08-12T11:36:21Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Press Statement of Jang Kum Chol, First Vice-Minister and Director General of Tenth Department of DPRK Foreign Ministry",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260812-kcna01.htm",
+        "published": "2026-08-12T12:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan slams China over planned drill with Indonesia east of Taiwan",
         "source": "Globalsecurity.org",
@@ -90,13 +97,6 @@
         "url": "https://www.businessinsider.com/taiwan-abrams-m1a2t-tank-crews-hide-han-kuang-china-cities-2026-8",
         "published": "2026-08-12T04:21:46Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Coffee Break: Armed Madhouse – The Iran War, China, and the Future of Sea Power",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/coffee-break-armed-madhouse-the-iran-war-china-and-the-future-of-sea-power.html",
-        "published": "2026-08-11T18:00:09Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
