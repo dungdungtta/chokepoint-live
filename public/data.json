@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T19:45:31.580Z",
+    "generated_at": "2026-08-13T20:52:21.769Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Black Sea Oil Tanker Rates Surge to Record on Drones Barrage",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/black-sea-oil-tanker-rates-surge-to-record-on-drones-barrage/",
-        "published": "2026-08-12T19:26:28Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Costway Outdoor Metal Gliding Loveseat w/ Glass Coffee Table for $102 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Costway-Outdoor-Metal-Gliding-Loveseat-w-Glass-Coffee-Table-for-102-free-shipping/22013005.html",
-        "published": "2026-08-12T18:47:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Folding Swivel Patio Chair w/ 4 Adjustable Legs for $66 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Folding-Swivel-Patio-Chair-w-4-Adjustable-Legs-for-66-free-shipping/22012981.html",
-        "published": "2026-08-12T18:43:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Red Sea oil exports go 'dark' as Houthi attack threat grows",
+        "title": "In 1893, a German inventor and mechanical engineer invented a high-efficiency compression-ignition engine originally intended to run on alternative fuels but his invention turned popular years after his demise due to financial troubles: How did Rudolf Diesel changed the world?",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-red-sea-oil-exports-go-dark-as-houthi-attack-threat-grows/articleshow/133191341.cms",
-        "published": "2026-08-12T18:38:40Z",
+        "url": "https://economictimes.indiatimes.com/news/international/us/in-1893-a-german-inventor-and-mechanical-engineer-invented-a-high-efficiency-compression-ignition-engine-originally-intended-to-run-on-alternative-fuels-but-his-invention-turned-popular-years-after-his-demise-due-to-financial-troubles-how-did-rudolf-diesel-changed-the-world/articleshow/133192877.cms",
+        "published": "2026-08-12T20:48:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "1984 Harley-Davidson FXRS Super Glide Sport at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1984-harley-davidson-fxr-2/",
+        "published": "2026-08-12T20:29:58Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Data Shows Iran War Reignited Inflation, Wrecked Economy For Working Americans",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/08/12/iran-war-affects-cpi",
+        "published": "2026-08-12T20:11:22Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil prices drop as investors weigh lower demand forecasts against US-Iran talks deadlock",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/12/business/oil-prices-drop-as-investors-weigh-lower-demand-forecasts-against-us-iran-talks-deadlock/",
-        "published": "2026-08-12T18:19:15Z",
-        "sentiment": "neutral"
+        "title": "Houthi Attack Kills Six as U.S. Strikes Ship Trying to Breach Hormuz Blockade in Widening Red Sea Conflict",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4391569/posts",
+        "published": "2026-08-12T19:59:56Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Saudi Arabia ramps oil exports via Mediterranean pipeline to avoid Red Sea attacks",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/saudi-arabia-oil-exports-mediterranean-pipeline/",
+        "published": "2026-08-12T19:51:42Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
