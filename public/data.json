@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T10:38:26.900Z",
+    "generated_at": "2026-08-13T11:32:30.529Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Current price of oil as of August 12, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-08-12-2026/",
-        "published": "2026-08-12T10:35:20Z",
+        "title": "Dollar ticks up on Iran tension, with US data in focus",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/news/dollar-drifts-markets-await-us-014351710.html",
+        "published": "2026-08-12T11:20:50Z",
         "sentiment": "watch"
       },
       {
-        "title": "Bitcoin holds near $64,000 as U.S. inflation data looms, Harmony exploit rattles altcoins",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/08/12/bitcoin-holds-near-usd64-000-as-u-s-inflation-data-looms-harmony-exploit-rattles-altcoins",
-        "published": "2026-08-12T10:30:10Z",
+        "title": "Global stocks inch up, oil steady before US CPI",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/news/oil-gold-prices-rise-geopolitical-021926510.html",
+        "published": "2026-08-12T11:19:10Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks",
-        "published": "2026-08-12T10:27:22Z",
-        "sentiment": "neutral"
+        "title": "Vladimir Putin threatens retaliation for Western seizures of Russian commercial vessels",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/vladimir-putin-threatens-retaliation-for-western-seizures-of-russian-commercial-vessels/articleshow/133180698.cms",
+        "published": "2026-08-12T11:17:18Z",
+        "sentiment": "danger"
       },
       {
-        "title": "‘An unattractive deal with Iran is the best of limited bad options’ if the U.S. wants to get oil flowing again",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/08/12/iran-oil-strait-of-hormuz/",
-        "published": "2026-08-12T10:20:44Z",
+        "title": "Sable Expects to Increase SYU Oil Sales to California Refiners from Q3",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/sable_expects_to_increase_syu_oil_sales_to_california_refiners_from_q3-12-aug-2026-184356-article/",
+        "published": "2026-08-12T11:05:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "Pres. Putin threatens retaliation for Western seizures of Russian commercial vessels",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/putin-threatens-retaliation-western-seizures-russian-commercial-vessels-135570787",
-        "published": "2026-08-12T10:20:02Z",
+        "title": "Iran War: Iran, Ansar Allah Keep Up Attacks on Ships as Trump Insists He Controls Strait of Hormuz, Will Break Iran Economically; Press Highlights Trump Cowardice in Catering Truck Escape From Ankara",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/iran-war-iran-ansar-allah-keep-up-attacks-on-ships-as-trump-insists-he-controls-strait-of-hormuz-will-break-iran-economically-press-highlights-trump-cowardice-in-catering-truck-escape-from-ankara.html",
+        "published": "2026-08-12T10:54:22Z",
         "sentiment": "danger"
       }
     ],
