@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T14:09:11.476Z",
+    "generated_at": "2026-08-13T15:16:50.592Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4391528/posts",
-        "published": "2026-08-12T14:07:00Z",
+        "title": "US consumer inflation slows in July as energy prices briefly retreat",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat",
+        "published": "2026-08-12T15:08:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "No progress in talks aimed at reviving interim Iran-US deal",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/08/12/no-progress-in-talks-aimed-at-reviving-interim-iran-us-deal/",
+        "published": "2026-08-12T15:08:23Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Fine Art Insurance Is Often Worth More for What It Prevents Than What It Pays Out",
+        "source": "Observer",
+        "url": "https://observer.com/2026/08/interview-matt-sweitzer-pcs-art-collection-disaster-risk-planning-fine-art-insurance/",
+        "published": "2026-08-12T15:07:21Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Govt spends ₹292 crore under National Green Hydrogen Mission so far: MNRE",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/industry/news/govt-spends-292-crore-under-national-green-hydrogen-mission-so-far-mnre-126081201853_1.html",
+        "published": "2026-08-12T14:58:57Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump says US has 'total control' over Strait of Hormuz, calls naval blockade a 'wall of steel'",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-us-has-total-control-over-strait-of-hormuz-calls-naval-blockade-a-wall-of-steel/articleshow/133185925.cms",
+        "published": "2026-08-12T14:44:30Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Chandra’s exit, crude surge drag markets",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/chandras-exit-crude-surge-drag-markets/article71336661.ece",
-        "published": "2026-08-12T14:05:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "IEA slashes 2026 supply forecast as Hormuz reopening remains elusive",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/iea-slashes-2026-supply-forecast-as-hormuz-reopening-remains-elusive-126081201584_1.html",
-        "published": "2026-08-12T14:00:35Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Iran says no progress on US talks to revive June's interim peace deal",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/iran-says-no-progress-on-us-talks-to-revive-june-s-interim-peace-deal-126081201703_1.html",
-        "published": "2026-08-12T13:58:05Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Vitamin D3 K2 Supplement 10000 IU + K2 MK7 200mcg with Coconut Oil, 120ct $10.49 AC + Free Shipping",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19870878-vitamin-d3-k2-supplement-10000-iu-k2-mk7-200mcg-with-coconut-oil-120ct-10-49-ac-free-shipping",
-        "published": "2026-08-12T13:55:01Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
