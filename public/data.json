@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T15:16:50.592Z",
+    "generated_at": "2026-08-13T16:27:07.619Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "US consumer inflation slows in July as energy prices briefly retreat",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat",
-        "published": "2026-08-12T15:08:31Z",
+        "title": "Oil Flows Normalizing? Industry Dumbstruck Over Trump Administration Claim",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/3bbd3accfcb73710",
+        "published": "2026-08-12T16:11:28Z",
         "sentiment": "watch"
       },
       {
-        "title": "No progress in talks aimed at reviving interim Iran-US deal",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/08/12/no-progress-in-talks-aimed-at-reviving-interim-iran-us-deal/",
-        "published": "2026-08-12T15:08:23Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Fine Art Insurance Is Often Worth More for What It Prevents Than What It Pays Out",
-        "source": "Observer",
-        "url": "https://observer.com/2026/08/interview-matt-sweitzer-pcs-art-collection-disaster-risk-planning-fine-art-insurance/",
-        "published": "2026-08-12T15:07:21Z",
+        "title": "Trump Praises Allah and Boasts US Has ‘Total Control’ Of Strait of Hormuz: ‘I THINK WE WILL KEEP IT!’",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4391542/posts",
+        "published": "2026-08-12T16:01:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "Govt spends ₹292 crore under National Green Hydrogen Mission so far: MNRE",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/industry/news/govt-spends-292-crore-under-national-green-hydrogen-mission-so-far-mnre-126081201853_1.html",
-        "published": "2026-08-12T14:58:57Z",
+        "title": "Oil Spill From Grounded Shadow Fleet Tanker Could Rival Exxon Valdez",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/oil-spill-from-grounded-shadow-fleet-tanker-could-rival-exxon-valdez/",
+        "published": "2026-08-12T15:46:35Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump says US has 'total control' over Strait of Hormuz, calls naval blockade a 'wall of steel'",
+        "title": "Gulf Oil Giants Are Spending Billions to Build Ways Around Strait of Hormuz",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/7cc1101ddaf5c35e",
+        "published": "2026-08-12T15:40:52Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Putin says Russia will start seizing European vessels if its ships targeted",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-us-has-total-control-over-strait-of-hormuz-calls-naval-blockade-a-wall-of-steel/articleshow/133185925.cms",
-        "published": "2026-08-12T14:44:30Z",
-        "sentiment": "danger"
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/putin-says-russia-will-start-seizing-european-vessels-if-its-ships-targeted/articleshow/133187052.cms",
+        "published": "2026-08-12T15:38:19Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
