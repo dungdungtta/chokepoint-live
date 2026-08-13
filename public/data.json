@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T06:06:25.851Z",
+    "generated_at": "2026-08-13T07:55:28.585Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Report Outlines Plans by U.S., Israel and Saudi to Bypass Iran in Oil Exports",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-12-us-israel-saudi-to-bypass-iran-oil-exports.html",
-        "published": "2026-08-12T06:00:00Z",
+        "title": "UK’s biggest power supplier issues solar eclipse warning",
+        "source": "RT",
+        "url": "https://www.rt.com/news/644111-uk-energy-solar-eclipse/",
+        "published": "2026-08-12T07:54:34Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "India bonds hemmed in by oil worries ahead of inflation data",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-hemmed-in-by-oil-worries-ahead-of-inflation-data/articleshow/133174882.cms",
+        "published": "2026-08-12T07:29:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "Officials: Trump-Linked Oil Firm Ships Drilling Gear to Greenland Without Permit",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-12-trump-linked-firm-ships-drilling-gear-greenland.html",
-        "published": "2026-08-12T06:00:00Z",
+        "title": "Oil rises as doubts over US-Iran deal heighten supply concerns",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/oil-rises-as-doubts-over-us-iran-deal-heighten-supply-concerns/article71335423.ece",
+        "published": "2026-08-12T07:19:25Z",
         "sentiment": "watch"
       },
       {
-        "title": "INR loses further momentum as oil prices ascend on Hormuz led tensions",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/capital-market-news/inr-loses-further-momentum-as-oil-prices-ascend-on-hormuz-led-tensions-126081200611_1.html",
-        "published": "2026-08-12T05:37:00Z",
+        "title": "Nikkei Stalls Near 67,000 as Oil and Yen Risks Offset Financial Gains",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150332.php",
+        "published": "2026-08-12T06:46:55Z",
         "sentiment": "watch"
       },
       {
-        "title": "Rupee falls 6 paise to 95.42 against US dollar during early trade",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/finance/news/rupee-falls-6-paise-to-95-42-against-us-dollar-during-early-trade-126081200374_1.html",
-        "published": "2026-08-12T05:25:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil prices rise, stocks mixed ahead of crucial US inflation data",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/oil-prices-rise-stocks-mixed-ahead-of-crucial-us-inflation-data-225511",
-        "published": "2026-08-12T05:23:42Z",
+        "title": "Indonesia details work sectors, quotas for 'SMK Go Global' Program",
+        "source": "Antaranews.com",
+        "url": "https://en.antaranews.com/news/426713/indonesia-details-work-sectors-quotas-for-smk-go-global-program",
+        "published": "2026-08-12T06:43:18Z",
         "sentiment": "watch"
       }
     ],
