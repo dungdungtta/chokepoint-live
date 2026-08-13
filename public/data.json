@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T21:54:09.469Z",
+    "generated_at": "2026-08-13T22:52:02.915Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Container Ship Pays $4M to Jump Panama Canal Queue as Wait Times Surge",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/panama-canal-container-ship-pays-4-million-wait-times-iran-war-1239123022/",
+        "published": "2026-08-12T22:18:43Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "It Is Going To Be A Very Difficult Winter If The Global Energy Crisis Is Not Resolved Soon",
+        "source": "Activistpost.com",
+        "url": "https://www.activistpost.com/it-is-going-to-be-a-very-difficult-winter-if-the-global-energy-crisis-is-not-resolved-soon/",
+        "published": "2026-08-12T22:05:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "1-Gallon Oil Eater Orange Citrus Cleaner & Degreaser Concentrate $10.35 + Free Shipping w/ Prime or on $35+",
         "source": "Slickdeals.net",
         "url": "https://slickdeals.net/f/19872345-1-gallon-oil-eater-orange-citrus-cleaner-degreaser-concentrate-10-35-free-shipping-w-prime-or-on-35",
@@ -39,20 +53,6 @@
         "url": "https://economictimes.indiatimes.com/news/international/us/in-1893-a-german-inventor-and-mechanical-engineer-invented-a-high-efficiency-compression-ignition-engine-originally-intended-to-run-on-alternative-fuels-but-his-invention-turned-popular-years-after-his-demise-due-to-financial-troubles-how-did-rudolf-diesel-changed-the-world/articleshow/133192877.cms",
         "published": "2026-08-12T20:48:11Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "1984 Harley-Davidson FXRS Super Glide Sport at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1984-harley-davidson-fxr-2/",
-        "published": "2026-08-12T20:29:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Data Shows Iran War Reignited Inflation, Wrecked Economy For Working Americans",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/08/12/iran-war-affects-cpi",
-        "published": "2026-08-12T20:11:22Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
