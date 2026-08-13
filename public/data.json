@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T12:34:42.389Z",
+    "generated_at": "2026-08-13T14:09:11.476Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -12,9 +12,9 @@
       "unit": "USD/bbl"
     },
     "freight": {
-      "freight_index": 185.1,
-      "change_pct": 0.4,
-      "date": "2026-06-01",
+      "freight_index": 181.9,
+      "change_pct": -1.6,
+      "date": "2026-07-01",
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Saudi Arabia reports 1M-barrel output rebound in July as Gulf ceasefire holds",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/saudi-arabia-oil-output-rebound-july-opec/",
-        "published": "2026-08-12T12:17:38Z",
+        "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4391528/posts",
+        "published": "2026-08-12T14:07:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Chandra’s exit, crude surge drag markets",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/chandras-exit-crude-surge-drag-markets/article71336661.ece",
+        "published": "2026-08-12T14:05:33Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "IEA slashes 2026 supply forecast as Hormuz reopening remains elusive",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/iea-slashes-2026-supply-forecast-as-hormuz-reopening-remains-elusive-126081201584_1.html",
+        "published": "2026-08-12T14:00:35Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Day 1,631 of WW3: As Zelenskyy hands proposals for ending the war to U.S. officials, a reminder that putin's best investment still has never visited Ukraine - Fark needs a \"cowardly\" tag. This is your Wednesday Ukraine war thread [News]",
-        "source": "Fark.com",
-        "url": "https://www.fark.com/comments/14161074/Day-1631-of-WW3-As-Zelenskyy-hands-proposals-for-ending-war-to-US-officials-a-reminder-that-putins-best-investment-still-has-never-visited-Ukraine-Fark-needs-a-cowardly-tag-This-is-your-Wednesday-Ukraine-war-thread",
-        "published": "2026-08-12T12:00:00Z",
-        "sentiment": "danger"
+        "title": "Iran says no progress on US talks to revive June's interim peace deal",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/iran-says-no-progress-on-us-talks-to-revive-june-s-interim-peace-deal-126081201703_1.html",
+        "published": "2026-08-12T13:58:05Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Gulf oil spill fast becoming worst in years, agencies warn",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260812-azertac01.htm",
-        "published": "2026-08-12T12:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Deadly attack on Red Sea ship adds to global supply chain uncertainty",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260812-unnews01.htm",
-        "published": "2026-08-12T12:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Sensex today | Stock Market Highlights: Sensex slips 187 pts to close at 77,966, Nifty ends at 24,435; TCS, M&M top losers",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-12th-august-2026/article71332253.ece",
-        "published": "2026-08-12T11:36:21Z",
+        "title": "Vitamin D3 K2 Supplement 10000 IU + K2 MK7 200mcg with Coconut Oil, 120ct $10.49 AC + Free Shipping",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19870878-vitamin-d3-k2-supplement-10000-iu-k2-mk7-200mcg-with-coconut-oil-120ct-10-49-ac-free-shipping",
+        "published": "2026-08-12T13:55:01Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Assessing KMT Leader Cheng Li-Wun’s Political Narrative",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/08/assessing-kmt-leader-cheng-li-wuns-political-narrative/",
+        "published": "2026-08-12T12:59:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Press Statement of Jang Kum Chol, First Vice-Minister and Director General of Tenth Department of DPRK Foreign Ministry",
         "source": "Globalsecurity.org",
@@ -88,13 +95,6 @@
         "title": "Taiwan is training its Abrams tank crews to hide and refuel inside its bustling urban sprawl",
         "source": "Business Insider",
         "url": "https://www.businessinsider.com/taiwan-abrams-m1a2t-tank-crews-hide-han-kuang-china-cities-2026-8#article",
-        "published": "2026-08-12T04:21:46Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan is training its Abrams tank crews to hide and refuel inside its bustling urban sprawl",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/taiwan-abrams-m1a2t-tank-crews-hide-han-kuang-china-cities-2026-8",
         "published": "2026-08-12T04:21:46Z",
         "sentiment": "watch"
       }
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
