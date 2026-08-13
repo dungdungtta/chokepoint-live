@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T02:34:25.466Z",
+    "generated_at": "2026-08-13T04:31:08.809Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "New attacks on shipping as Iran talks hit fresh impasse",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/0812/1587520-middle-east-iran/",
-        "published": "2026-08-12T02:33:07Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Price Today (August 12): Crude oil reclaims $90 again after fresh attacks on ships. What are experts saying?",
+        "title": "Rupee falls 6 paise to 95.42 against US dollar in early trade",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-12-crude-oil-reclaims-90-again-after-fresh-attacks-on-ships-what-are-experts-saying/articleshow/133168024.cms",
-        "published": "2026-08-12T02:15:47Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Dollar subdued as markets await US inflation data for Fed clues",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-subdued-as-markets-await-us-inflation-data-for-fed-clues/articleshow/133167898.cms",
-        "published": "2026-08-12T01:58:19Z",
+        "url": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-6-paise-to-95-42-against-us-dollar-in-early-trade/articleshow/133170057.cms",
+        "published": "2026-08-12T04:27:32Z",
         "sentiment": "watch"
       },
       {
-        "title": "Maritime Trade Warfare in the Black Sea: 83 Years Later",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/maritime-trade-warfare-black-sea-83-years-later/5936440",
-        "published": "2026-08-12T01:57:01Z",
-        "sentiment": "danger"
+        "title": "Markets open flat as crude stays near $90, inflation data in focus",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/stock-markets/markets-open-flat-as-crude-stays-near-90-inflation-data-in-focus/article71335011.ece",
+        "published": "2026-08-12T04:25:26Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Precious metals rate today: Gold holds near 10-week high; silver rises",
+        "title": "Trump Doubles Down on U.S. ‘Total Control’ of Hormuz: Iran Can Crumble Economically or Get ‘Blown Away’",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/08/11/trump-doubles-down-u-s-total-control-hormuz-iran-can-crumble-economically/",
+        "published": "2026-08-12T04:15:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Global Market: Japan stocks muted as investors await US CPI report",
         "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/133167886.cms",
-        "published": "2026-08-12T01:56:17Z",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-stocks-muted-as-investors-await-us-cpi-report/articleshow/133169643.cms",
+        "published": "2026-08-12T04:14:55Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Silver Lining: The Donald’s Impending Defeat in Iran May Finally Bring the Empire Home",
+        "source": "Lewrockwell.com",
+        "url": "https://www.lewrockwell.com/2026/08/david-stockman/the-silver-lining-the-donalds-impending-defeat-in-iran-may-finally-bring-the-empire-home/",
+        "published": "2026-08-12T04:01:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan is training its Abrams tank crews to hide and refuel inside its bustling urban sprawl",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/taiwan-abrams-m1a2t-tank-crews-hide-han-kuang-china-cities-2026-8#article",
+        "published": "2026-08-12T04:21:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan is training its Abrams tank crews to hide and refuel inside its bustling urban sprawl",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/taiwan-abrams-m1a2t-tank-crews-hide-han-kuang-china-cities-2026-8",
+        "published": "2026-08-12T04:21:46Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Coffee Break: Armed Madhouse – The Iran War, China, and the Future of Sea Power",
         "source": "Nakedcapitalism.com",
@@ -83,20 +97,6 @@
         "url": "https://abcnews.com/International/wireStory/taiwan-court-sentences-woman-7-years-prison-conspiring-135539030",
         "published": "2026-08-11T09:48:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Putting Armageddon on Autopilot: How Artificial Intelligence Could Make Nuclear Threats More Effective",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/putting-armageddon-on-autopilot-how-artificial-intelligence-could-make-nuclear-threats-more-effective/",
-        "published": "2026-08-11T07:30:08Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "War games around Taiwan",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/2026/08/11/taiwan-prepares-for-war-but-china-has-other-options/",
-        "published": "2026-08-11T05:36:32Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -131,12 +131,12 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
-    "taiwan": "red",
+    "hormuz": "amber",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "amber"
+    "korea": "yellow"
   },
   "thresholds": {
     "brent_alert": 110,
