@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T17:33:11.673Z",
+    "generated_at": "2026-08-13T18:39:32.682Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Putin Opens New Front in Shadow Fleet Fight With Threat to Seize EU Ships",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Putin-Opens-New-Front-in-Shadow-Fleet-Fight-With-Threat-to-Seize-EU-Ships.html",
-        "published": "2026-08-12T17:30:00Z",
+        "title": "Saudi Red Sea oil exports go 'dark' as Houthi attack threat grows",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-red-sea-oil-exports-go-dark-as-houthi-attack-threat-grows/articleshow/133191341.cms",
+        "published": "2026-08-12T18:38:40Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran Takes More Aggressive Military Stance With US Talks Frozen",
-        "source": "Military.com",
-        "url": "https://military.com/iran-takes-more-aggressive-military-stance-with-us-talks-frozen",
-        "published": "2026-08-12T17:20:17Z",
+        "title": "Oil prices drop as investors weigh lower demand forecasts against US-Iran talks deadlock",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/12/business/oil-prices-drop-as-investors-weigh-lower-demand-forecasts-against-us-iran-talks-deadlock/",
+        "published": "2026-08-12T18:19:15Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Iran war leaves Iraq running out of money",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/iraq-iran-war-payments-salaries-oil-strait-of-hormuz-shipping-graphic/a-78341409",
-        "published": "2026-08-12T17:00:00Z",
-        "sentiment": "danger"
+        "title": "Iran says no progress on reviving interim peace deal with US",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-no-progress-on-reviving-interim-peace-deal-with-us/articleshow/133189914.cms",
+        "published": "2026-08-12T17:47:15Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Due to the Iran war, Iraq is running out of money",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/due-to-the-iran-war-iraq-is-running-out-of-money/a-78341409",
-        "published": "2026-08-12T17:00:00Z",
+        "title": "Trump’s Third ‘Big Beautiful’ Gulf Lease Sale Draws $82.7 Million in High Bids",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/trumps-third-big-beautiful-gulf-lease-sale-draws-82-7-million-in-high-bids/",
+        "published": "2026-08-12T17:41:43Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Daily Global Oil Deficit Is Even Higher Than Originally Projected, And That Means That The Energy Crisis Is About To Greatly Escalate",
+        "source": "Theeconomiccollapseblog.com",
+        "url": "http://theeconomiccollapseblog.com/the-daily-global-oil-deficit-is-even-higher-than-originally-projected-and-that-means-that-the-energy-crisis-is-about-to-greatly-escalate/",
+        "published": "2026-08-12T17:39:14Z",
         "sentiment": "danger"
       }
     ],
@@ -124,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
