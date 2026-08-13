@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T18:39:32.682Z",
+    "generated_at": "2026-08-13T19:45:31.580Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Black Sea Oil Tanker Rates Surge to Record on Drones Barrage",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/black-sea-oil-tanker-rates-surge-to-record-on-drones-barrage/",
+        "published": "2026-08-12T19:26:28Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Costway Outdoor Metal Gliding Loveseat w/ Glass Coffee Table for $102 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Costway-Outdoor-Metal-Gliding-Loveseat-w-Glass-Coffee-Table-for-102-free-shipping/22013005.html",
+        "published": "2026-08-12T18:47:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Folding Swivel Patio Chair w/ 4 Adjustable Legs for $66 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Folding-Swivel-Patio-Chair-w-4-Adjustable-Legs-for-66-free-shipping/22012981.html",
+        "published": "2026-08-12T18:43:34Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Saudi Red Sea oil exports go 'dark' as Houthi attack threat grows",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-red-sea-oil-exports-go-dark-as-houthi-attack-threat-grows/articleshow/133191341.cms",
@@ -39,27 +60,6 @@
         "url": "https://nypost.com/2026/08/12/business/oil-prices-drop-as-investors-weigh-lower-demand-forecasts-against-us-iran-talks-deadlock/",
         "published": "2026-08-12T18:19:15Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Iran says no progress on reviving interim peace deal with US",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-no-progress-on-reviving-interim-peace-deal-with-us/articleshow/133189914.cms",
-        "published": "2026-08-12T17:47:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump’s Third ‘Big Beautiful’ Gulf Lease Sale Draws $82.7 Million in High Bids",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/trumps-third-big-beautiful-gulf-lease-sale-draws-82-7-million-in-high-bids/",
-        "published": "2026-08-12T17:41:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Daily Global Oil Deficit Is Even Higher Than Originally Projected, And That Means That The Energy Crisis Is About To Greatly Escalate",
-        "source": "Theeconomiccollapseblog.com",
-        "url": "http://theeconomiccollapseblog.com/the-daily-global-oil-deficit-is-even-higher-than-originally-projected-and-that-means-that-the-energy-crisis-is-about-to-greatly-escalate/",
-        "published": "2026-08-12T17:39:14Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
