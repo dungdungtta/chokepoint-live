@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T09:19:25.290Z",
+    "generated_at": "2026-08-13T10:38:26.900Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Explained: Why shipping costs through Panama Canal are soaring now",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/panama-canal-transit-fees-record-high-el-nino-iran-war-shipping-us-iran-war-hormuz-126081200956_1.html",
-        "published": "2026-08-12T09:04:46Z",
+        "title": "Current price of oil as of August 12, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-08-12-2026/",
+        "published": "2026-08-12T10:35:20Z",
         "sentiment": "watch"
       },
       {
-        "title": "HPCL, MRPL seek up to six million barrels crude, documents show",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/hpcl-mrpl-seek-up-to-six-million-barrels-crude-documents-show/article71335497.ece",
-        "published": "2026-08-12T08:27:10Z",
+        "title": "Bitcoin holds near $64,000 as U.S. inflation data looms, Harmony exploit rattles altcoins",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/08/12/bitcoin-holds-near-usd64-000-as-u-s-inflation-data-looms-harmony-exploit-rattles-altcoins",
+        "published": "2026-08-12T10:30:10Z",
         "sentiment": "watch"
       },
       {
-        "title": "IEA Sees Wider Oil Supply Deficit Despite Hit to Demand From War",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/iea-sees-wider-oil-supply-deficit-despite-hit-to-demand-from-war",
-        "published": "2026-08-12T08:22:52Z",
+        "title": "Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks",
+        "published": "2026-08-12T10:27:22Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "‘An unattractive deal with Iran is the best of limited bad options’ if the U.S. wants to get oil flowing again",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/08/12/iran-oil-strait-of-hormuz/",
+        "published": "2026-08-12T10:20:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Pres. Putin threatens retaliation for Western seizures of Russian commercial vessels",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/putin-threatens-retaliation-western-seizures-russian-commercial-vessels-135570787",
+        "published": "2026-08-12T10:20:02Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Oil supply shortfall worsens despite hit to demand from Iran war, says IEA",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/commodities/energy/oil-gas/oil-supply-shortfall-worsens-iea",
-        "published": "2026-08-12T08:22:52Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "European stocks steady, oil rises before CPI",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/4008bc1772c1a237",
-        "published": "2026-08-12T08:21:51Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan slams China over planned drill with Indonesia east of Taiwan",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260812-cna01.htm",
+        "published": "2026-08-12T09:36:07Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Russia is helping China close gap with US forces amid Taiwan tensions, warns longtime military leader",
         "source": "Fox News",
@@ -90,13 +97,6 @@
         "url": "https://www.nakedcapitalism.com/2026/08/coffee-break-armed-madhouse-the-iran-war-china-and-the-future-of-sea-power.html",
         "published": "2026-08-11T18:00:09Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Why the Pacific Islands Forum Should Watch Taiwan’s East Coast",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/08/why-the-pacific-islands-forum-should-watch-taiwans-east-coast/",
-        "published": "2026-08-11T13:12:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
