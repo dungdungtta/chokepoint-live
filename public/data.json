@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T22:52:02.915Z",
+    "generated_at": "2026-08-13T23:50:29.692Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "‘How Dangote refinery will transform Nigeria’s economy’",
+        "source": "The Punch",
+        "url": "https://punchng.com/how-dangote-refinery-will-transform-nigerias-economy/",
+        "published": "2026-08-12T23:23:43Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran calls for remediation from Hormuz beneficiaries",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/8fa235a36d95e2f5",
+        "published": "2026-08-12T23:01:35Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Container Ship Pays $4M to Jump Panama Canal Queue as Wait Times Surge",
         "source": "WWD",
         "url": "http://wwd.com/sourcing-journal/logistics/panama-canal-container-ship-pays-4-million-wait-times-iran-war-1239123022/",
@@ -45,13 +59,6 @@
         "source": "Slickdeals.net",
         "url": "https://slickdeals.net/f/19872345-1-gallon-oil-eater-orange-citrus-cleaner-degreaser-concentrate-10-35-free-shipping-w-prime-or-on-35",
         "published": "2026-08-12T21:10:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "In 1893, a German inventor and mechanical engineer invented a high-efficiency compression-ignition engine originally intended to run on alternative fuels but his invention turned popular years after his demise due to financial troubles: How did Rudolf Diesel changed the world?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/in-1893-a-german-inventor-and-mechanical-engineer-invented-a-high-efficiency-compression-ignition-engine-originally-intended-to-run-on-alternative-fuels-but-his-invention-turned-popular-years-after-his-demise-due-to-financial-troubles-how-did-rudolf-diesel-changed-the-world/articleshow/133192877.cms",
-        "published": "2026-08-12T20:48:11Z",
         "sentiment": "watch"
       }
     ],
