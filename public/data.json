@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T18:09:02.183Z",
+    "generated_at": "2026-08-14T19:15:54.056Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Hormuz Shipping Traffic Shows No Sign of Recovery",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/hormuz-shipping-traffic-shows-no-sign-of-recovery/",
-        "published": "2026-08-13T17:42:51Z",
+        "title": "J.D. Vance Is Learning an Important Foreign Policy Lesson the Hard Way",
+        "source": "Slate Magazine",
+        "url": "https://slate.com/news-and-politics/2026/08/ukraine-iran-trump-jd-vance-oil-gas-prices.html",
+        "published": "2026-08-13T19:00:02Z",
         "sentiment": "watch"
       },
       {
-        "title": "Second Supertanker Seen Loading at Saudi Oil Hub in Persian Gulf",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/second-supertanker-seen-loading-at-saudi-oil-hub-in-persian-gulf",
-        "published": "2026-08-13T17:31:57Z",
+        "title": "Iran demands compensation for Hormuz oil spill it allegedly caused",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/13/world-news/iran-demands-compensation-for-hormuz-oil-spill-it-allegedly-caused/",
+        "published": "2026-08-13T18:57:04Z",
         "sentiment": "watch"
       },
       {
-        "title": "Russia Has Stepped Up Attacks on Cargo Ships",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/394601/russia-has-stepped-up-attacks-on-cargo-ships.html",
-        "published": "2026-08-13T17:10:00Z",
-        "sentiment": "danger"
+        "title": "2 Moms Used Kickstarter to Launch Their Side Hustle. It Made $2,500 Fast and Is on Track for $30,000 Within Months: ‘Honestly Thrilling.’",
+        "source": "Entrepreneur",
+        "url": "https://www.entrepreneur.com/side-hustle/2-moms-used-kickstarter-to-launch-their-side-hustle-it-made-2500-fast-and-is-on-track-for-30000-dressy",
+        "published": "2026-08-13T18:41:28Z",
+        "sentiment": "watch"
       },
       {
-        "title": "World stares at food supply chaos as Russia attacks grain ships",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/world-stares-at-food-supply-chaos-as-russia-attacks-grain-ships-126081302109_1.html",
-        "published": "2026-08-13T17:01:31Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Gulf oil giants are spending billions to build alternative shipping routes",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/gulf-oil-giants-are-spending-billions-to-build-alternative-shipping-routes-126081302104_1.html",
-        "published": "2026-08-13T16:57:18Z",
+        "title": "The Hormuz Reconstruction",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/research-hormuz/",
+        "published": "2026-08-13T18:30:41Z",
         "sentiment": "watch"
       }
     ],
