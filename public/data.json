@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T23:50:29.692Z",
+    "generated_at": "2026-08-14T02:31:38.938Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "‘How Dangote refinery will transform Nigeria’s economy’",
-        "source": "The Punch",
-        "url": "https://punchng.com/how-dangote-refinery-will-transform-nigerias-economy/",
-        "published": "2026-08-12T23:23:43Z",
+        "title": "Ukraine's drones are hitting Russia, but this campaign could backfire",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-08-13/ukraine-drones-are-hitting-russia-but-it-could-backfire/107026514",
+        "published": "2026-08-13T02:30:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran calls for remediation from Hormuz beneficiaries",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/8fa235a36d95e2f5",
-        "published": "2026-08-12T23:01:35Z",
+        "title": "Oil prices fall on lower demand growth forecasts despite US-Iran deadlock",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/commodities/oil-prices-fall-on-lower-demand-growth-forecasts-despite-us-iran-deadlock-126081300067_1.html",
+        "published": "2026-08-13T02:29:44Z",
         "sentiment": "watch"
       },
       {
-        "title": "Container Ship Pays $4M to Jump Panama Canal Queue as Wait Times Surge",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/panama-canal-container-ship-pays-4-million-wait-times-iran-war-1239123022/",
-        "published": "2026-08-12T22:18:43Z",
+        "title": "Oil Price Today (August 13): Crude oil dips below $90 despite Strait of Hormuz deadlock. Here’s why",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-13-crude-oil-dips-below-90-despite-strait-of-hormuz-deadlock-heres-why/articleshow/133196052.cms",
+        "published": "2026-08-13T02:27:04Z",
         "sentiment": "watch"
       },
       {
-        "title": "It Is Going To Be A Very Difficult Winter If The Global Energy Crisis Is Not Resolved Soon",
-        "source": "Activistpost.com",
-        "url": "https://www.activistpost.com/it-is-going-to-be-a-very-difficult-winter-if-the-global-energy-crisis-is-not-resolved-soon/",
-        "published": "2026-08-12T22:05:00Z",
+        "title": "ASX 200 Falls For A Third Straight Session As CBA Shares Slump Following FY26",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/asx-200-dips-commonwealth-bank-weakness-1874013",
+        "published": "2026-08-13T02:24:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "1-Gallon Oil Eater Orange Citrus Cleaner & Degreaser Concentrate $10.35 + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19872345-1-gallon-oil-eater-orange-citrus-cleaner-degreaser-concentrate-10-35-free-shipping-w-prime-or-on-35",
-        "published": "2026-08-12T21:10:42Z",
+        "title": "Mecca Pact: What does a new West Asian Security Order means for Nepal?",
+        "source": "Peoplesreview.com.np",
+        "url": "https://peoplesreview.com.np/2026/08/13/mecca-pact-what-does-a-new-west-asian-security-order-means-for-nepal/",
+        "published": "2026-08-13T02:04:55Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Boiling Moat: Urgent Steps to Defend Taiwan",
+        "source": "Hoover.org",
+        "url": "https://www.hoover.org/plus/research/boiling-moat",
+        "published": "2026-08-13T00:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Critical Choices In The Indo-Pacific",
+        "source": "Thefreedomfrequency.org",
+        "url": "https://www.thefreedomfrequency.org/p/critical-choices-in-the-indo-pacific",
+        "published": "2026-08-13T00:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Assessing KMT Leader Cheng Li-Wun’s Political Narrative",
         "source": "The Diplomat",
@@ -82,20 +96,6 @@
         "source": "Globalsecurity.org",
         "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260812-cna01.htm",
         "published": "2026-08-12T09:36:07Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Russia is helping China close gap with US forces amid Taiwan tensions, warns longtime military leader",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/russia-helping-china-close-gap-us-forces-amid-taiwan-tensions-warns-longtime-military-leader",
-        "published": "2026-08-12T09:00:28Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Taiwan is training its Abrams tank crews to hide and refuel inside its bustling urban sprawl",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/taiwan-abrams-m1a2t-tank-crews-hide-han-kuang-china-cities-2026-8#article",
-        "published": "2026-08-12T04:21:46Z",
         "sentiment": "watch"
       }
     ],
@@ -132,7 +132,7 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "amber",
+    "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
