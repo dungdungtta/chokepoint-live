@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T22:00:35.682Z",
+    "generated_at": "2026-08-14T22:42:21.023Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -12,8 +12,10 @@
       "unit": "USD/bbl"
     },
     "freight": {
-      "freight_index": null,
-      "unit": "index"
+      "freight_index": 181.9,
+      "change_pct": -1.6,
+      "date": "2026-07-01",
+      "unit": "index (WPU30 proxy)"
     },
     "helium": {
       "price_index": 15.09,
@@ -24,6 +26,20 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Houthis claim strikes on Saudi refinery",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/7bf28c0a56431196",
+        "published": "2026-08-13T22:33:36Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Saudi Arabia considers backing Yemen ground offensive to retake Houthi-held Red Sea coast...",
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/article-905414",
+        "published": "2026-08-13T22:00:14Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Vance Personally Asked Zelensky to Halt CPC-Linked Tanker Strikes, FT Reports",
         "source": "Freerepublic.com",
@@ -43,20 +59,6 @@
         "source": "Slate Magazine",
         "url": "https://slate.com/news-and-politics/2026/08/ukraine-iran-trump-jd-vance-oil-gas-prices.html",
         "published": "2026-08-13T19:00:02Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran demands compensation for Hormuz oil spill it allegedly caused",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/13/world-news/iran-demands-compensation-for-hormuz-oil-spill-it-allegedly-caused/",
-        "published": "2026-08-13T18:57:04Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "2 Moms Used Kickstarter to Launch Their Side Hustle. It Made $2,500 Fast and Is on Track for $30,000 Within Months: ‘Honestly Thrilling.’",
-        "source": "Entrepreneur",
-        "url": "https://www.entrepreneur.com/side-hustle/2-moms-used-kickstarter-to-launch-their-side-hustle-it-made-2500-fast-and-is-on-track-for-30000-dressy",
-        "published": "2026-08-13T18:41:28Z",
         "sentiment": "watch"
       }
     ],
@@ -132,7 +134,7 @@
     "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
-    "suez": "yellow",
+    "suez": "amber",
     "panama": "yellow",
     "korea": "yellow"
   },
