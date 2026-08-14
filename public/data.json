@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T11:21:44.840Z",
+    "generated_at": "2026-08-14T12:11:16.369Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,28 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Nikkei Climbs as Chip Rally Lifts TOPIX to Record High",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/150350.php",
-        "published": "2026-08-13T11:15:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran updates: Tehran vows to prolong war until Trump is out of office",
-        "source": "Newsnationnow.com",
-        "url": "https://www.newsnationnow.com/world/iran-vows-prolong-war-until-trump-leaves/",
-        "published": "2026-08-13T11:00:13Z",
+        "title": "Britain fires back at Putin and vows to continue 'deterring' his shadow fleet after he warned Russia would target UK ships",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16049767/Britain-fires-Putin-vows-continue-deterring-shadow-fleet-warned-Russia-target-UK-ships.html",
+        "published": "2026-08-13T12:03:22Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran-backed Houthi rebels clash with Yemeni government forces and other Mideast developments",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/iran-backed-houthi-rebels-clash-with-yemeni-government-forces-and-other-mideast-developments/articleshow/133209185.cms",
-        "published": "2026-08-13T10:59:16Z",
+        "title": "Turkey lays out plans for defence pact with Pakistan and Saudi Arabia",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/turkey-lays-out-plans-for-defence-pact-with-pakistan-and-saudi-arabia-126081301319_1.html",
+        "published": "2026-08-13T12:01:07Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Yemen at Risk of Entering Wider Middle East Conflict, UN Special Envoy Warns Security Council, as Several Members Condemn Escalating Houthi Attacks",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260813-unsc01.htm",
+        "published": "2026-08-13T12:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran Lurching Toward 'Severe Economic Collapse' As War Takes Its Toll",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260813-rferl01.htm",
+        "published": "2026-08-13T12:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "UK defends seizing shadow fleet tanker after Putin threat",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/08/russia-260813-azertac01.htm",
+        "published": "2026-08-13T12:00:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "U.S. urges China to halt military pressure on Taiwan after naval drill",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260813-cna04.htm",
+        "published": "2026-08-13T12:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan simulates repelling Chinese assault, to slow mobile internet in annual war games",
         "source": "The Times of India",
@@ -75,13 +96,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/08/assessing-kmt-leader-cheng-li-wuns-political-narrative/",
         "published": "2026-08-12T12:59:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Press Statement of Jang Kum Chol, First Vice-Minister and Director General of Tenth Department of DPRK Foreign Ministry",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260812-kcna01.htm",
-        "published": "2026-08-12T12:00:00Z",
         "sentiment": "watch"
       }
     ],
@@ -117,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
