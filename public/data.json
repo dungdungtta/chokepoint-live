@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T09:13:52.460Z",
+    "generated_at": "2026-08-14T10:27:38.279Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran Boosts Military Posturing as Talks Hit Deadlock",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/iran_boosts_military_posturing_as_talks_hit_deadlock-13-aug-2026-184365-article/",
-        "published": "2026-08-13T08:17:59Z",
-        "sentiment": "neutral"
+        "title": "UK government defends seizure of shadow fleet tanker after Putin threat",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/uk-defends-shadow-fleet-tanker-seizure-putin-threat/",
+        "published": "2026-08-13T10:16:55Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Arctic Ice Damages Tanker as Russia Ramps Up Northern Sea Route Oil Shipments",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/arctic-ice-damages-tanker-as-russia-ramps-up-northern-sea-route-oil-shipments/",
-        "published": "2026-08-13T08:14:42Z",
+        "title": "Current price of oil as of August 13, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-08-13-2026/",
+        "published": "2026-08-13T10:15:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "Citrus Magic Orange Blast 6-oz. Air Freshener & Room Spray for $5 + free shipping w/ $35",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Citrus-Magic-Orange-Blast-6-oz-Air-Freshener-Room-Spray-for-5-free-shipping-w-35/22018331.html",
-        "published": "2026-08-13T08:03:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Crude oil, aviation fuel top import chart at Lekki deep-sea port",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/08/crude-oil-aviation-fuel-top-import-chart-at-lekki-deep-sea-port/",
-        "published": "2026-08-13T07:35:55Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "European shares inch up as lower crude offsets geopolitical unease",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq trending higher on rate hike bets, earnings",
         "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-inch-lower-crude-071956648.html",
-        "published": "2026-08-13T07:19:56Z",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-trending-higher-on-rate-hike-bets-earnings-100145282.html",
+        "published": "2026-08-13T10:01:45Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq gain on soft inflation data, earnings",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-gain-on-soft-inflation-data-earnings-100145282.html",
+        "published": "2026-08-13T10:01:45Z",
         "sentiment": "watch"
       }
     ],
