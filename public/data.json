@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T04:29:40.433Z",
+    "generated_at": "2026-08-14T06:02:49.918Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Q1 results: ABREL, Godrej, JSW Cement, FirstCry, and 693 more on Aug 13",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/companies/quarterly-results/q1-results-abrel-godrej-jsw-cement-firstcry-and-693-more-on-aug-13-126081300386_1.html",
-        "published": "2026-08-13T04:04:36Z",
+        "title": "U.S. Shifts to Economic Warfare Against Iran as Military and Diplomatic Efforts Stall",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-13-us-shifts-to-economic-warfare-against-iran.html",
+        "published": "2026-08-13T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil Prices Fall as OPEC and IEA Slash 2026 Demand Outlooks",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-OPEC-and-IEA-Slash-2026-Demand-Outlooks.html",
+        "published": "2026-08-13T05:25:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Q1 Results Today Live: TMPV, Page Industries, Solar Ind, LG Electronics, Max Healthcare, GIC, Godrej, Jubilant Foodworks, Amber Enterprises, Indraprastha Gas, Brigade, JSW Cement, Honasa Consumer to announce Q1 results, Tata Motors, HAL, Apollo Hospitals, Grasim, IRCTC, Va Tech shares in focus",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-solar-ind-tmpv-lg-electronics-max-healthcare-gic-godrej-ind-jubilant-foodworks-amber-enterprises-brigade-jsw-cement-honasa-consumer-tmcv-hal-results-13-august-2026/article71335955.ece",
-        "published": "2026-08-13T03:43:06Z",
+        "title": "Skeptical Science New Research for Week #33 2026",
+        "source": "Skepticalscience.com",
+        "url": "https://skepticalscience.com/new_research_2026_33.html",
+        "published": "2026-08-13T05:20:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "When Will AI Take My Job?",
-        "source": "Whenwillaitakemyjob.ai",
-        "url": "https://whenwillaitakemyjob.ai",
-        "published": "2026-08-13T02:47:22Z",
+        "title": "Hormuz Crisis Deepens as Trump Claims US Control of Vital Oil Route",
+        "source": "Homeandawaymedia.com",
+        "url": "https://homeandawaymedia.com/business/trump-says-us-has-total-control-of-strait-of-hormuz-as-ship-traffic-plunges/",
+        "published": "2026-08-13T05:17:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "Putin says India, China among key partners interested in Northern Sea Route",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/putin-says-india-china-among-key-partners-interested-in-northern-sea-route/article71339307.ece",
-        "published": "2026-08-13T02:40:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Top IRGC Adviser Says Iran Could Prolong War to Outlast Trump — U.S. Vows to Keep ‘Wall of Steel’ Blockade",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/08/12/top-irgc-adviser-iran-could-prolong-war-outlast-trump/",
-        "published": "2026-08-13T02:34:36Z",
+        "title": "US inflation slows but prices remain elevated as Iran war and spending on AI push up prices",
+        "source": "Jamaica Gleaner",
+        "url": "http://jamaica-gleaner.com/article/business/20260813/us-inflation-slows-prices-remain-elevated-iran-war-and-spending-ai-push",
+        "published": "2026-08-13T05:06:24Z",
         "sentiment": "danger"
       }
     ],
