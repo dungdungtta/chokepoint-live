@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T22:42:21.023Z",
+    "generated_at": "2026-08-14T23:02:30.904Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "U.S. can maintain 'indefinite' naval blockade of Iran if needed, Hegseth says",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/hegseth-us-blockade-iran-9.7306636",
+        "published": "2026-08-13T22:42:44Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Houthis claim strikes on Saudi refinery",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/7bf28c0a56431196",
@@ -52,13 +59,6 @@
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/iran-us-make-competing-claims-over-control-of-strait-of-hormuz/",
         "published": "2026-08-13T20:50:02Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "J.D. Vance Is Learning an Important Foreign Policy Lesson the Hard Way",
-        "source": "Slate Magazine",
-        "url": "https://slate.com/news-and-politics/2026/08/ukraine-iran-trump-jd-vance-oil-gas-prices.html",
-        "published": "2026-08-13T19:00:02Z",
         "sentiment": "watch"
       }
     ],
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
