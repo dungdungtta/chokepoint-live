@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T13:46:50.937Z",
+    "generated_at": "2026-08-14T14:59:05.654Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "India to send first ship along Arctic route next year – official",
-        "source": "RT",
-        "url": "https://www.rt.com/india/644203-india-arctic-route-nsr/",
-        "published": "2026-08-13T13:15:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hormuz blockade, crude, and CPI keep D-Street on edge",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/hormuz-blockade-crude-and-cpi-keep-d-street-on-edge/article71341083.ece",
-        "published": "2026-08-13T13:08:22Z",
+        "title": "Iran Lurching Toward 'Severe Economic Collapse' As US Pressure Mounts",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/iran-economy-sanctions-trump/33829720.html",
+        "published": "2026-08-13T14:57:04Z",
         "sentiment": "danger"
       },
       {
-        "title": "Turkiye lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/13/turkiye-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia",
-        "published": "2026-08-13T12:42:28Z",
+        "title": "Young People Consider Trades as Cost of College Rises",
+        "source": "KQED",
+        "url": "https://www.kqed.org/news/12095082/young-people-consider-trades-as-cost-of-college-rises",
+        "published": "2026-08-13T14:52:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "Russian diesel exports fall to multiyear low in early August",
+        "title": "Ukraine proposes mutual halt to attacks on civilian targets to Russia",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/russian-diesel-exports-multiyear-low-august/",
-        "published": "2026-08-13T12:40:07Z",
+        "url": "https://cryptobriefing.com/ukraine-proposes-black-sea-ceasefire-russia/",
+        "published": "2026-08-13T14:47:49Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oman says massive oil spill reaches coastline: What damage could it do?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do",
+        "published": "2026-08-13T14:29:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran and US make competing claims over control of Strait of Hormuz",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/iran-and-us-make-competing-claims-over-control-of-strait-of-hormuz-126081301519_1.html",
-        "published": "2026-08-13T12:25:06Z",
+        "title": "America Suspended the Jones Act. Americans Were the Winners.",
+        "source": "Reason",
+        "url": "https://reason.com/2026/08/13/america-suspended-the-jones-act-americans-were-the-winners/",
+        "published": "2026-08-13T14:17:36Z",
         "sentiment": "watch"
       }
     ],
