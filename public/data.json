@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T21:31:41.227Z",
+    "generated_at": "2026-08-14T22:00:35.682Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -12,10 +12,8 @@
       "unit": "USD/bbl"
     },
     "freight": {
-      "freight_index": 181.9,
-      "change_pct": -1.6,
-      "date": "2026-07-01",
-      "unit": "index (WPU30 proxy)"
+      "freight_index": null,
+      "unit": "index"
     },
     "helium": {
       "price_index": 15.09,
@@ -26,6 +24,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Vance Personally Asked Zelensky to Halt CPC-Linked Tanker Strikes, FT Reports",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4391707/posts",
+        "published": "2026-08-13T21:47:07Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Iran, US Make Competing Claims Over Control of Strait of Hormuz",
         "source": "gcaptain.com",
@@ -52,13 +57,6 @@
         "source": "Entrepreneur",
         "url": "https://www.entrepreneur.com/side-hustle/2-moms-used-kickstarter-to-launch-their-side-hustle-it-made-2500-fast-and-is-on-track-for-30000-dressy",
         "published": "2026-08-13T18:41:28Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Hormuz Reconstruction",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/research-hormuz/",
-        "published": "2026-08-13T18:30:41Z",
         "sentiment": "watch"
       }
     ],
@@ -134,7 +132,7 @@
     "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
-    "suez": "amber",
+    "suez": "yellow",
     "panama": "yellow",
     "korea": "yellow"
   },
