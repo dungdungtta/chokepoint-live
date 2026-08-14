@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T16:01:16.044Z",
+    "generated_at": "2026-08-14T17:13:09.860Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks",
-        "published": "2026-08-13T15:27:52Z",
+        "title": "Russia Has Stepped Up Attacks on Cargo Ships",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/394601/russia-has-stepped-up-attacks-on-cargo-ships.html",
+        "published": "2026-08-13T17:10:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Yves Saint Laurent YSL Canada Private Sale: Get 20% off Sitewide + Free Gift When You Spend $200",
-        "source": "Smartcanucks.ca",
-        "url": "https://smartcanucks.ca/yves-saint-laurent-ysl-canada-private-sale-get-20-off-sitewide-free-gift-when-you-spend-200/",
-        "published": "2026-08-13T15:13:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran says Strait of Hormuz under its control, rejects Trump claims",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims",
-        "published": "2026-08-13T14:59:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran Lurching Toward 'Severe Economic Collapse' As US Pressure Mounts",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/iran-economy-sanctions-trump/33829720.html",
-        "published": "2026-08-13T14:57:04Z",
+        "title": "World stares at food supply chaos as Russia attacks grain ships",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/world-stares-at-food-supply-chaos-as-russia-attacks-grain-ships-126081302109_1.html",
+        "published": "2026-08-13T17:01:31Z",
         "sentiment": "danger"
       },
       {
-        "title": "Young People Consider Trades as Cost of College Rises",
-        "source": "KQED",
-        "url": "https://www.kqed.org/news/12095082/young-people-consider-trades-as-cost-of-college-rises",
-        "published": "2026-08-13T14:52:17Z",
+        "title": "Gulf oil giants are spending billions to build alternative shipping routes",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/gulf-oil-giants-are-spending-billions-to-build-alternative-shipping-routes-126081302104_1.html",
+        "published": "2026-08-13T16:57:18Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "FREE Air Wick Plug-In Scented Oil Warmer at Walmart after cash back!",
+        "source": "Moneysavingmom.com",
+        "url": "https://moneysavingmom.com/free-air-wick-plug-in-scented-oil-warmer-at-walmart-after-cash-back/",
+        "published": "2026-08-13T16:44:09Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil spill from tanker reaches Oman’s coast, threatens Strait of Hormuz traffic",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oil-spill-from-tanker-reaches-omans-coast-threatens-strait-of-hormuz-traffic/",
+        "published": "2026-08-13T16:43:30Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
