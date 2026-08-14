@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T07:52:16.161Z",
+    "generated_at": "2026-08-14T09:13:52.460Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran Boosts Military Posturing as Talks Hit Deadlock",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/iran_boosts_military_posturing_as_talks_hit_deadlock-13-aug-2026-184365-article/",
+        "published": "2026-08-13T08:17:59Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Arctic Ice Damages Tanker as Russia Ramps Up Northern Sea Route Oil Shipments",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/arctic-ice-damages-tanker-as-russia-ramps-up-northern-sea-route-oil-shipments/",
+        "published": "2026-08-13T08:14:42Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Citrus Magic Orange Blast 6-oz. Air Freshener & Room Spray for $5 + free shipping w/ $35",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Citrus-Magic-Orange-Blast-6-oz-Air-Freshener-Room-Spray-for-5-free-shipping-w-35/22018331.html",
+        "published": "2026-08-13T08:03:48Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Crude oil, aviation fuel top import chart at Lekki deep-sea port",
         "source": "Vanguard",
         "url": "https://www.vanguardngr.com/2026/08/crude-oil-aviation-fuel-top-import-chart-at-lekki-deep-sea-port/",
@@ -39,27 +60,6 @@
         "url": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-inch-lower-crude-071956648.html",
         "published": "2026-08-13T07:19:56Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran asserts control over Strait of Hormuz amid US tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-asserts-control-over-strait-of-hormuz-amid-us-tensions-2/",
-        "published": "2026-08-13T07:06:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hormuz: The puzzle of 9 million barrels – How much oil is really passing through, and the role of the “invisible” tankers",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/08/13/hormuz-the-puzzle-of-9-million-barrels-how-much-oil-is-really-passing-through-and-the-role-of-the-invisible-tankers/",
-        "published": "2026-08-13T06:56:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. Shifts to Economic Warfare Against Iran as Military and Diplomatic Efforts Stall",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-13-us-shifts-to-economic-warfare-against-iran.html",
-        "published": "2026-08-13T06:00:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
