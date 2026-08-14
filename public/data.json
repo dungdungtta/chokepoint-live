@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T20:47:18.894Z",
+    "generated_at": "2026-08-14T21:31:41.227Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Iran, US Make Competing Claims Over Control of Strait of Hormuz",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/iran-us-make-competing-claims-over-control-of-strait-of-hormuz/",
+        "published": "2026-08-13T20:50:02Z",
+        "sentiment": "watch"
+      },
       {
         "title": "J.D. Vance Is Learning an Important Foreign Policy Lesson the Hard Way",
         "source": "Slate Magazine",
