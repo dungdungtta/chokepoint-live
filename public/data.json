@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T17:13:09.860Z",
+    "generated_at": "2026-08-14T18:09:02.183Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Hormuz Shipping Traffic Shows No Sign of Recovery",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/hormuz-shipping-traffic-shows-no-sign-of-recovery/",
+        "published": "2026-08-13T17:42:51Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Second Supertanker Seen Loading at Saudi Oil Hub in Persian Gulf",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/second-supertanker-seen-loading-at-saudi-oil-hub-in-persian-gulf",
+        "published": "2026-08-13T17:31:57Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Russia Has Stepped Up Attacks on Cargo Ships",
         "source": "Newser",
         "url": "https://www.newser.com/story/394601/russia-has-stepped-up-attacks-on-cargo-ships.html",
@@ -46,20 +60,6 @@
         "url": "https://www.business-standard.com/world-news/gulf-oil-giants-are-spending-billions-to-build-alternative-shipping-routes-126081302104_1.html",
         "published": "2026-08-13T16:57:18Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "FREE Air Wick Plug-In Scented Oil Warmer at Walmart after cash back!",
-        "source": "Moneysavingmom.com",
-        "url": "https://moneysavingmom.com/free-air-wick-plug-in-scented-oil-warmer-at-walmart-after-cash-back/",
-        "published": "2026-08-13T16:44:09Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil spill from tanker reaches Oman’s coast, threatens Strait of Hormuz traffic",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-spill-from-tanker-reaches-omans-coast-threatens-strait-of-hormuz-traffic/",
-        "published": "2026-08-13T16:43:30Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
