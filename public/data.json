@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T14:59:05.654Z",
+    "generated_at": "2026-08-14T16:01:16.044Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks",
+        "published": "2026-08-13T15:27:52Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Yves Saint Laurent YSL Canada Private Sale: Get 20% off Sitewide + Free Gift When You Spend $200",
+        "source": "Smartcanucks.ca",
+        "url": "https://smartcanucks.ca/yves-saint-laurent-ysl-canada-private-sale-get-20-off-sitewide-free-gift-when-you-spend-200/",
+        "published": "2026-08-13T15:13:42Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran says Strait of Hormuz under its control, rejects Trump claims",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims",
+        "published": "2026-08-13T14:59:42Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran Lurching Toward 'Severe Economic Collapse' As US Pressure Mounts",
         "source": "Radio Free Europe/ Radio Liberty",
         "url": "https://www.rferl.org/a/iran-economy-sanctions-trump/33829720.html",
@@ -38,27 +59,6 @@
         "source": "KQED",
         "url": "https://www.kqed.org/news/12095082/young-people-consider-trades-as-cost-of-college-rises",
         "published": "2026-08-13T14:52:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ukraine proposes mutual halt to attacks on civilian targets to Russia",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/ukraine-proposes-black-sea-ceasefire-russia/",
-        "published": "2026-08-13T14:47:49Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oman says massive oil spill reaches coastline: What damage could it do?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do",
-        "published": "2026-08-13T14:29:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "America Suspended the Jones Act. Americans Were the Winners.",
-        "source": "Reason",
-        "url": "https://reason.com/2026/08/13/america-suspended-the-jones-act-americans-were-the-winners/",
-        "published": "2026-08-13T14:17:36Z",
         "sentiment": "watch"
       }
     ],
