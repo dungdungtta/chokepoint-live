@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T02:31:38.938Z",
+    "generated_at": "2026-08-14T04:29:40.433Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Ukraine's drones are hitting Russia, but this campaign could backfire",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-08-13/ukraine-drones-are-hitting-russia-but-it-could-backfire/107026514",
-        "published": "2026-08-13T02:30:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil prices fall on lower demand growth forecasts despite US-Iran deadlock",
+        "title": "Q1 results: ABREL, Godrej, JSW Cement, FirstCry, and 693 more on Aug 13",
         "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/commodities/oil-prices-fall-on-lower-demand-growth-forecasts-despite-us-iran-deadlock-126081300067_1.html",
-        "published": "2026-08-13T02:29:44Z",
+        "url": "https://www.business-standard.com/companies/quarterly-results/q1-results-abrel-godrej-jsw-cement-firstcry-and-693-more-on-aug-13-126081300386_1.html",
+        "published": "2026-08-13T04:04:36Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Price Today (August 13): Crude oil dips below $90 despite Strait of Hormuz deadlock. Here’s why",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-13-crude-oil-dips-below-90-despite-strait-of-hormuz-deadlock-heres-why/articleshow/133196052.cms",
-        "published": "2026-08-13T02:27:04Z",
+        "title": "Q1 Results Today Live: TMPV, Page Industries, Solar Ind, LG Electronics, Max Healthcare, GIC, Godrej, Jubilant Foodworks, Amber Enterprises, Indraprastha Gas, Brigade, JSW Cement, Honasa Consumer to announce Q1 results, Tata Motors, HAL, Apollo Hospitals, Grasim, IRCTC, Va Tech shares in focus",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-solar-ind-tmpv-lg-electronics-max-healthcare-gic-godrej-ind-jubilant-foodworks-amber-enterprises-brigade-jsw-cement-honasa-consumer-tmcv-hal-results-13-august-2026/article71335955.ece",
+        "published": "2026-08-13T03:43:06Z",
         "sentiment": "watch"
       },
       {
-        "title": "ASX 200 Falls For A Third Straight Session As CBA Shares Slump Following FY26",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/asx-200-dips-commonwealth-bank-weakness-1874013",
-        "published": "2026-08-13T02:24:21Z",
+        "title": "When Will AI Take My Job?",
+        "source": "Whenwillaitakemyjob.ai",
+        "url": "https://whenwillaitakemyjob.ai",
+        "published": "2026-08-13T02:47:22Z",
         "sentiment": "watch"
       },
       {
-        "title": "Mecca Pact: What does a new West Asian Security Order means for Nepal?",
-        "source": "Peoplesreview.com.np",
-        "url": "https://peoplesreview.com.np/2026/08/13/mecca-pact-what-does-a-new-west-asian-security-order-means-for-nepal/",
-        "published": "2026-08-13T02:04:55Z",
+        "title": "Putin says India, China among key partners interested in Northern Sea Route",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/putin-says-india-china-among-key-partners-interested-in-northern-sea-route/article71339307.ece",
+        "published": "2026-08-13T02:40:35Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Top IRGC Adviser Says Iran Could Prolong War to Outlast Trump — U.S. Vows to Keep ‘Wall of Steel’ Blockade",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/08/12/top-irgc-adviser-iran-could-prolong-war-outlast-trump/",
+        "published": "2026-08-13T02:34:36Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
