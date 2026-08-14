@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T10:27:38.279Z",
+    "generated_at": "2026-08-14T11:21:44.840Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,24 @@
   "news": {
     "hormuz": [
       {
-        "title": "UK government defends seizure of shadow fleet tanker after Putin threat",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/uk-defends-shadow-fleet-tanker-seizure-putin-threat/",
-        "published": "2026-08-13T10:16:55Z",
+        "title": "Nikkei Climbs as Chip Rally Lifts TOPIX to Record High",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150350.php",
+        "published": "2026-08-13T11:15:35Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran updates: Tehran vows to prolong war until Trump is out of office",
+        "source": "Newsnationnow.com",
+        "url": "https://www.newsnationnow.com/world/iran-vows-prolong-war-until-trump-leaves/",
+        "published": "2026-08-13T11:00:13Z",
         "sentiment": "danger"
       },
       {
-        "title": "Current price of oil as of August 13, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-08-13-2026/",
-        "published": "2026-08-13T10:15:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq trending higher on rate hike bets, earnings",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-trending-higher-on-rate-hike-bets-earnings-100145282.html",
-        "published": "2026-08-13T10:01:45Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq gain on soft inflation data, earnings",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-gain-on-soft-inflation-data-earnings-100145282.html",
-        "published": "2026-08-13T10:01:45Z",
+        "title": "Iran-backed Houthi rebels clash with Yemeni government forces and other Mideast developments",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/iran-backed-houthi-rebels-clash-with-yemeni-government-forces-and-other-mideast-developments/articleshow/133209185.cms",
+        "published": "2026-08-13T10:59:16Z",
         "sentiment": "watch"
       }
     ],
