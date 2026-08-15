@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T15:00:29.241Z",
+    "generated_at": "2026-08-15T15:36:33.265Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "U.S. West Coast Refiners Tap Malaysian Supply",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/US-West-Coast-Refiners-Tap-Malaysian-Supply.html",
+        "published": "2026-08-14T15:30:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran's chilling midterm gamble against Trump revealed as insiders warn regime is 'playing with fire'",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16050945/Iran-aggressive-Hormuz-Trump.html",
+        "published": "2026-08-14T15:12:31Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Gihen Garbage Disposal Cleaning Tablets 24-Pack for $8 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Gihen-Garbage-Disposal-Cleaning-Tablets-24-Pack-for-8-free-shipping-w-Prime/22025337.html",
+        "published": "2026-08-14T15:10:48Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Did Trump-linked oil company set up drilling operation in Greenland without permission?",
         "source": "Snopes.com",
         "url": "https://www.snopes.com//fact-check/trump-greenland-drilling-oil/",
@@ -38,27 +59,6 @@
         "source": "WKMG News 6 & ClickOrlando",
         "url": "https://www.clickorlando.com/news/world/2026/08/14/2-uae-tankers-attacked-while-transiting-strait-of-hormuz-and-other-news-from-the-middle-east/",
         "published": "2026-08-14T14:55:48Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Hormuz traffic slows further after US threatens more economic pressure on Iran",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/hormuz-traffic-slows-further-after-us-threatens-more-economic-pressure-on-iran/articleshow/133244610.cms",
-        "published": "2026-08-14T14:33:18Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "2 UAE tankers attacked while transiting Strait of Hormuz",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/2-uae-tankers-attacked-while-transiting-strait-of-hormuz/articleshow/133244538.cms",
-        "published": "2026-08-14T14:24:20Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran War: Mixed Signals on US Resuming Kinetic Action as Iran Moves to Offensive Stance; Flight from Israel Accelerating",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/iran-war-mixed-signals-on-us-resuming-kinetic-action-as-iran-moves-to-offensive-stance-flight-from-israel-accelerating.html",
-        "published": "2026-08-14T14:16:25Z",
         "sentiment": "danger"
       }
     ],
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
