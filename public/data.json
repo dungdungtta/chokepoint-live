@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T23:39:28.141Z",
+    "generated_at": "2026-08-15T00:01:37.743Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "How traffic through the Strait of Hormuz is adapting to war",
+        "source": "CNN",
+        "url": "https://www.cnn.com/interactive/2026/08/world/strait-of-hormuz-shipping-data-traffic-routes-vis-intl",
+        "published": "2026-08-14T00:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US-Iran crisis: 94 countries subsidise fuel as Nigerians pay more",
+        "source": "The Punch",
+        "url": "https://punchng.com/us-iran-crisis-94-countries-subsidise-fuel-as-nigerians-pay-more/",
+        "published": "2026-08-13T23:40:51Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US to implement unprecedented measures against Iran, escalating tensions",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/us-to-implement-unprecedented-measures-against-iran-escalating-tensions/",
@@ -46,23 +60,16 @@
         "url": "https://bringatrailer.com/listing/1968-plymouth-gtx-42/",
         "published": "2026-08-13T23:22:08Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Two UAE state vessels targeted in Strait of Hormuz",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/431690",
-        "published": "2026-08-13T23:07:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. can maintain 'indefinite' naval blockade of Iran if needed, Hegseth says",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/hegseth-us-blockade-iran-9.7306636",
-        "published": "2026-08-13T22:42:44Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "AIT Shows Deepening Taiwan-US Ties",
+        "source": "Taipei Times",
+        "url": "https://www.taipeitimes.com/News/editorials/archives/2026/08/14/2003862453",
+        "published": "2026-08-14T00:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "U.S. urges China to halt military pressure on Taiwan after naval drill",
         "source": "Globalsecurity.org",
@@ -89,13 +96,6 @@
         "source": "Thefreedomfrequency.org",
         "url": "https://www.thefreedomfrequency.org/p/critical-choices-in-the-indo-pacific",
         "published": "2026-08-13T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Assessing KMT Leader Cheng Li-Wun’s Political Narrative",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/08/assessing-kmt-leader-cheng-li-wuns-political-narrative/",
-        "published": "2026-08-12T12:59:00Z",
         "sentiment": "watch"
       }
     ],
