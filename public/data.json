@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T01:51:12.200Z",
+    "generated_at": "2026-08-15T02:58:06.928Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Target House Cleaning Bundle combining Coupons w $15gc wys $50 promo $1+ per item (1 replies)",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19876902-target-house-cleaning-bundle-combining-coupons-w-15gc-wys-50-promo-1-per-item",
-        "published": "2026-08-14T00:45:12Z",
+        "title": "US says Iran naval blockade can continue indefinitely as talks stall",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/us-says-iran-naval-blockade-can-continue-indefinitely-as-talks-stall-126081400084_1.html",
+        "published": "2026-08-14T02:45:15Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Russia is cutting off Ukraine’s grain exports again, threatening a critical harvest and global food security",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/russia-is-cutting-off-ukraines-grain-exports-again-threatening-a-critical-harvest-and-global-food-security-289718",
+        "published": "2026-08-14T02:28:01Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Stock Market LIVE: GIFT Nifty signals negative open; Asia markets mixed; Brent crude near $87",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/stock-market-live-august-14-nse-bse-sensex-today-nifty50-gift-nifty-us-iran-tension-brent-crude-q1-result-today-ipo-listing-126081400074_1.html",
+        "published": "2026-08-14T02:27:27Z",
         "sentiment": "watch"
       },
       {
-        "title": "Top FPIs ride out storm, outrun Nifty & Sensex in Q1",
+        "title": "Oil Price Today (August 14): Crude oil dips below $88 despite Trump’s threat to blockade Iran indefinitely. What are experts saying?",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/top-fpis-ride-out-stormoutrun-nifty-sensex-in-q1/articleshow/133226731.cms",
-        "published": "2026-08-14T00:39:01Z",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-14-crude-oil-dips-below-88-despite-trumps-threat-to-blockade-iran-indefinitely-what-are-experts-saying/articleshow/133227242.cms",
+        "published": "2026-08-14T02:17:24Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Anthropologie’s Beauty Advent Calendar Is Back — With Over $200 in Savings on Brands Like Caudalie, L’Occitane, and Mario Badescu",
+        "source": "WWD",
+        "url": "http://wwd.com/shop/shop-beauty/anthropologie-beauty-advent-calendar-2026-brands-buy-online-1239124376/",
+        "published": "2026-08-14T02:00:36Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz",
-        "published": "2026-08-14T00:33:48Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran parliament dispute complicates Strait of Hormuz negotiations",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-parliament-dispute-complicates-strait-of-hormuz-negotiations/",
-        "published": "2026-08-14T00:08:03Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "US eyes indefinite Iran naval blockade, oil supply drops",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/0814/1587823-us-iran-strait/",
-        "published": "2026-08-14T00:06:44Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
