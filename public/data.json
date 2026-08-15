@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T07:45:17.204Z",
+    "generated_at": "2026-08-15T08:37:22.805Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Dawn Platinum Plus Lemon Scent Dish Spray 16-oz. Refill for $2 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Dawn-Platinum-Plus-Lemon-Scent-Dish-Spray-16-oz-Refill-for-2-free-shipping-w-Prime/22024570.html",
-        "published": "2026-08-14T07:31:44Z",
+        "title": "US to Soon Unveil Unprecedented Sanctions on Iran",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/us_to_soon_unveil_unprecedented_sanctions_on_iran-14-aug-2026-184374-article/",
+        "published": "2026-08-14T08:34:47Z",
         "sentiment": "watch"
       },
       {
-        "title": "American Military in the Age of Trump",
-        "source": "Metafilter.com",
-        "url": "https://www.metafilter.com/214151/American-Military-in-the-Age-of-Trump",
-        "published": "2026-08-14T07:10:12Z",
+        "title": "Oil rises after US threatens indefinite blockade of Iran; set for weekly gains",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/oil-steadies-us-threatens-blockade-013600797.html",
+        "published": "2026-08-14T08:30:44Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The dangerous “Polar Silk Road” in the Arctic bringing China & Russia closer: Moscow needs money & Beijing needs energy",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/08/14/the-dangerous-polar-silk-road-in-the-arctic-bringing-china-russia-closer-moscow-needs-money-beijing-needs-energy/",
+        "published": "2026-08-14T08:12:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran-backed Houthis clash with Yemeni forces and other Mideast developments",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/iran-backed-houthis-clash-yemeni-forces-mideast-developments-135605001",
-        "published": "2026-08-14T06:33:39Z",
+        "title": "Drone hits tanker in Strait of Hormuz, raising maritime security concerns",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/drone-hits-tanker-in-strait-of-hormuz-raising-maritime-security-concerns/",
+        "published": "2026-08-14T08:05:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "NZX sharemarket enjoys slight rise ahead of upcoming busy reporting week - Market close",
-        "source": "New Zealand Herald",
-        "url": "https://www.nzherald.co.nz/business/markets/shares/nzx-sharemarket-enjoys-slight-rise-ahead-of-upcoming-busy-reporting-week-market-close/premium/QGDL3MPVYND2ZJPNKACG2CKZRQ/",
-        "published": "2026-08-14T06:15:28Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Asian shares mostly fall and US futures are little changed after US inflation data improves",
-        "source": "WDIV ClickOnDetroit",
-        "url": "https://www.clickondetroit.com/business/2026/08/14/asian-shares-mostly-fall-and-us-futures-are-little-changed-after-us-inflation-data-improves/",
-        "published": "2026-08-14T06:04:57Z",
+        "title": "NATO jets shoot down kamikaze drone over Latvia",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16052155/NATO-jets-shoot-kamikaze-drone-Latvia.html",
+        "published": "2026-08-14T07:51:12Z",
         "sentiment": "watch"
       }
     ],
