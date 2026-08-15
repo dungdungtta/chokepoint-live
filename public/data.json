@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T14:00:50.974Z",
+    "generated_at": "2026-08-15T14:41:20.125Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Hormuz traffic slows further after US threatens more economic pressure on Iran",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/hormuz-traffic-slows-further-after-us-threatens-more-economic-pressure-on-iran/articleshow/133244610.cms",
+        "published": "2026-08-14T14:33:18Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "2 UAE tankers attacked while transiting Strait of Hormuz",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/2-uae-tankers-attacked-while-transiting-strait-of-hormuz/articleshow/133244538.cms",
+        "published": "2026-08-14T14:24:20Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran War: Mixed Signals on US Resuming Kinetic Action as Iran Moves to Offensive Stance; Flight from Israel Accelerating",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/iran-war-mixed-signals-on-us-resuming-kinetic-action-as-iran-moves-to-offensive-stance-flight-from-israel-accelerating.html",
+        "published": "2026-08-14T14:16:25Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Iran’s Economy Is Buckling Under the Weight of War",
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Geopolitics/Middle-East/Irans-Economy-Is-Buckling-Under-the-Weight-of-War.html",
@@ -39,27 +60,6 @@
         "url": "https://cryptobriefing.com/nitc-resumes-supertanker-loadings-kharg-island/",
         "published": "2026-08-14T13:41:37Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "The Honest Kitchen review: feeding a ruthless, toothless 14-year-old dog",
-        "source": "New York Post",
-        "url": "https://nypost.com/lifestyle/dog-food-review-the-honest-kitchen/",
-        "published": "2026-08-14T13:41:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Top White House official QUITS as Trump's Iran war spirals out of control after chilling new attack",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16052723/White-House-QUITS-Trumps-Iran-attack.html",
-        "published": "2026-08-14T13:39:30Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "2 UAE oil tankers attacked while sailing through Strait of Hormuz",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/2-uae-oil-tankers-attacked-while-sailing-through-strait-of-hormuz-126081401077_1.html",
-        "published": "2026-08-14T13:21:55Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
