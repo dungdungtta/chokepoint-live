@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T05:43:26.708Z",
+    "generated_at": "2026-08-15T06:12:56.647Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Asian shares mostly fall and US futures are little changed after US inflation data improves",
+        "source": "WDIV ClickOnDetroit",
+        "url": "https://www.clickondetroit.com/business/2026/08/14/asian-shares-mostly-fall-and-us-futures-are-little-changed-after-us-inflation-data-improves/",
+        "published": "2026-08-14T06:04:57Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Gasoline Prices Hold Near $4 Per Gallon as Iran Conflict, Refining Issues Hit Supply",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-14-gasoline-cost-hold-iran-conflict-refining-issues.html",
+        "published": "2026-08-14T06:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US to roll out ‘economic isolation’ plan for Iran next week",
         "source": "The Irish Times",
         "url": "https://www.irishtimes.com/world/middle-east/2026/08/14/us-to-roll-out-economic-isolation-plan-for-iran-next-week/",
@@ -46,20 +60,6 @@
         "url": "https://www.hurriyetdailynews.com/us-threatens-iran-with-sweeping-economic-isolation-amid-hormuz-tensions-225603",
         "published": "2026-08-14T05:18:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "'No substitute': Kuwait's future tied to Hormuz strait fate",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/no-substitute-kuwaits-future-tied-to-hormuz-strait-fate/articleshow/133229562.cms",
-        "published": "2026-08-14T05:12:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How a major oil slick started washing up on Iran's beaches",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cr7kpdkg13zo",
-        "published": "2026-08-14T05:01:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
