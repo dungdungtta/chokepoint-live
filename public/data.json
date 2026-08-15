@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T15:58:30.610Z",
+    "generated_at": "2026-08-15T16:35:29.823Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Hormuz Attacks Push Oil Toward $100 Despite US Crude Build",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/hormuz-attacks-push-oil-toward-162121010.html",
+        "published": "2026-08-14T16:21:21Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Hormuz Attacks Push Oil Toward $100 Despite US Crude Build",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Attacks-Push-Oil-Toward-100-Despite-US-Crude-Build.html",
+        "published": "2026-08-14T16:21:21Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "U.S. Extends Jones Act Waiver Another 90 Days, Adds U.S.-Flag Vessel Availability Test",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/u-s-extends-jones-act-waiver-another-90-days-adds-u-s-flag-vessel-availability-test/",
+        "published": "2026-08-14T16:13:02Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "U.S. West Coast Refiners Tap Malaysian Supply",
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Latest-Energy-News/World-News/US-West-Coast-Refiners-Tap-Malaysian-Supply.html",
@@ -38,27 +59,6 @@
         "source": "Dailymail.com",
         "url": "https://www.dailymail.com/news/article-16050945/Iran-aggressive-Hormuz-Trump.html",
         "published": "2026-08-14T15:12:31Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Gihen Garbage Disposal Cleaning Tablets 24-Pack for $8 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Gihen-Garbage-Disposal-Cleaning-Tablets-24-Pack-for-8-free-shipping-w-Prime/22025337.html",
-        "published": "2026-08-14T15:10:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Did Trump-linked oil company set up drilling operation in Greenland without permission?",
-        "source": "Snopes.com",
-        "url": "https://www.snopes.com//fact-check/trump-greenland-drilling-oil/",
-        "published": "2026-08-14T15:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East",
-        "source": "WKMG News 6 & ClickOrlando",
-        "url": "https://www.clickorlando.com/news/world/2026/08/14/2-uae-tankers-attacked-while-transiting-strait-of-hormuz-and-other-news-from-the-middle-east/",
-        "published": "2026-08-14T14:55:48Z",
         "sentiment": "danger"
       }
     ],
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
