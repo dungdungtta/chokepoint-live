@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T23:29:59.892Z",
+    "generated_at": "2026-08-15T23:51:39.341Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "1963 Chevrolet Corvette Split-Window Coupe L84 327/360 Fuelie 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1963-chevrolet-corvette-coupe-239/",
+        "published": "2026-08-14T23:40:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "We will not allow Iran march toward a nuclear weapon — Vance",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/08/we-will-not-allow-iran-march-toward-a-nuclear-weapon-vance/",
+        "published": "2026-08-14T23:40:00Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Trump says US may take control of Strait of Hormuz",
         "source": "Vanguard",
         "url": "https://www.vanguardngr.com/2026/08/trump-says-us-may-take-control-of-strait-of-hormuz/",
@@ -45,20 +59,6 @@
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/Victoria-Cast-Iron-12-Tawa-Dosa-Pan-for-24-free-shipping-w-Prime/22025914.html",
         "published": "2026-08-14T21:53:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran asserts control over Strait of Hormuz, vows blockade until US accepts Iran’s claim of victory",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-strait-of-hormuz-blockade-control/",
-        "published": "2026-08-14T21:11:09Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump delivers Iran a gut punch with new declaration he's making the Strait of Hormuz a US territory",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16053819/Trump-Iran-Strait-Hormuz-US-territory.html",
-        "published": "2026-08-14T20:21:54Z",
         "sentiment": "watch"
       }
     ],
