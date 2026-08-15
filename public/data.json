@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T03:48:20.694Z",
+    "generated_at": "2026-08-15T04:38:28.752Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "UAE points finger at Iran as two ADNOC ships attacked in Strait of Hormuz",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/uae-points-finger-at-iran-as-two-adnoc-ships-attacked-in-strait-of-hormuz/articleshow/133229037.cms",
+        "published": "2026-08-14T04:27:09Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Europeans flock to Chinese EVs amid Heat Waves, Iran Crisis",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/08/europeans-chinese-crisis.html",
+        "published": "2026-08-14T04:15:43Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US to unleash ‘economic isolation’ on Iran next week as Trump pressure campaign intensifies",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-to-unleash-economic-isolation-on-iran-next-week-as-trump-pressure-campaign-intensifies/articleshow/133228383.cms",
+        "published": "2026-08-14T03:48:27Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump admin to roll out 'economic isolation' plan for Iran next week",
         "source": "Business Standard",
         "url": "https://www.business-standard.com/world-news/trump-admin-to-roll-out-economic-isolation-plan-for-iran-next-week-126081400117_1.html",
@@ -39,30 +60,16 @@
         "url": "https://www.business-standard.com/world-news/us-says-iran-naval-blockade-can-continue-indefinitely-as-talks-stall-126081400084_1.html",
         "published": "2026-08-14T02:45:15Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Russia is cutting off Ukraine’s grain exports again, threatening a critical harvest and global food security",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/russia-is-cutting-off-ukraines-grain-exports-again-threatening-a-critical-harvest-and-global-food-security-289718",
-        "published": "2026-08-14T02:28:01Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Stock Market LIVE: GIFT Nifty signals negative open; Asia markets mixed; Brent crude near $87",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/stock-market-live-august-14-nse-bse-sensex-today-nifty50-gift-nifty-us-iran-tension-brent-crude-q1-result-today-ipo-listing-126081400074_1.html",
-        "published": "2026-08-14T02:27:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Price Today (August 14): Crude oil dips below $88 despite Trump’s threat to blockade Iran indefinitely. What are experts saying?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-14-crude-oil-dips-below-88-despite-trumps-threat-to-blockade-iran-indefinitely-what-are-experts-saying/articleshow/133227242.cms",
-        "published": "2026-08-14T02:17:24Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "America Cannot Protect Taiwan from China",
+        "source": "Lewrockwell.com",
+        "url": "https://www.lewrockwell.com/2026/08/martin-armstrong/america-cannot-protect-taiwan-from-china/",
+        "published": "2026-08-14T04:01:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan’s ‘White Wolf’ leads lonely crusade to ‘reunify’ with China",
         "source": "Al Jazeera English",
@@ -90,13 +97,6 @@
         "url": "https://economictimes.indiatimes.com/news/defence/taiwan-simulates-repelling-chinese-assault-to-slow-mobile-internet-in-annual-war-games/articleshow/133202809.cms",
         "published": "2026-08-13T07:00:38Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "The Boiling Moat: Urgent Steps to Defend Taiwan",
-        "source": "Hoover.org",
-        "url": "https://www.hoover.org/plus/research/boiling-moat",
-        "published": "2026-08-13T00:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
