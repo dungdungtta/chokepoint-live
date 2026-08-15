@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T17:37:38.900Z",
+    "generated_at": "2026-08-15T17:59:02.314Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Economists Say Iran Faces ‘Severe Collapse’ of Economy Under Blockade",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/08/14/economists-say-iran-faces-severe-collapse-of-economy-under-blockade/",
+        "published": "2026-08-14T17:49:49Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Canada sanctions five Iranian officials linked to IRGC over Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/canada-sanctions-iran-irgc-strait-hormuz/",
+        "published": "2026-08-14T17:48:23Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iranian Attacks Push Hormuz Shipping Toward Tehran-Controlled Route",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/iranian-attacks-push-hormuz-shipping-toward-tehran-controlled-route/",
+        "published": "2026-08-14T17:44:35Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Two Tankers Attacked as UAE Expands Hormuz Oil Shuttle",
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/two-tankers-attacked-as-uae-expands-hormuz-oil-shuttle/",
@@ -39,30 +60,16 @@
         "url": "https://finance.yahoo.com/energy/articles/hormuz-attacks-push-oil-toward-162121010.html",
         "published": "2026-08-14T16:21:21Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Hormuz Attacks Push Oil Toward $100 Despite US Crude Build",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Attacks-Push-Oil-Toward-100-Despite-US-Crude-Build.html",
-        "published": "2026-08-14T16:21:21Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S. Extends Jones Act Waiver Another 90 Days, Adds U.S.-Flag Vessel Availability Test",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/u-s-extends-jones-act-waiver-another-90-days-adds-u-s-flag-vessel-availability-test/",
-        "published": "2026-08-14T16:13:02Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. West Coast Refiners Tap Malaysian Supply",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/US-West-Coast-Refiners-Tap-Malaysian-Supply.html",
-        "published": "2026-08-14T15:30:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The US Navy’s Aircraft Carrier Troubles Can’t Be Fixed Quickly Enough",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/petersuciu/2026/08/14/the-us-navys-aircraft-carrier-troubles-cant-be-fixed-quickly-enough/",
+        "published": "2026-08-14T17:48:48Z",
+        "sentiment": "watch"
+      },
       {
         "title": "America Cannot Protect Taiwan from China",
         "source": "Lewrockwell.com",
@@ -90,13 +97,6 @@
         "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260813-cna04.htm",
         "published": "2026-08-13T12:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan simulates repelling Chinese assault, to slow mobile internet in annual war games",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/taiwan-simulates-repelling-chinese-assault-to-slow-mobile-internet-in-annual-war-games/articleshow/133202809.cms",
-        "published": "2026-08-13T07:00:38Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -132,7 +132,7 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "amber",
+    "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
