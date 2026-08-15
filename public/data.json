@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T09:03:37.944Z",
+    "generated_at": "2026-08-15T09:42:59.368Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,24 @@
   "news": {
     "hormuz": [
       {
-        "title": "Ukraine and Iran: why military strength doesn’t mean winning wars",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/ukraine-and-iran-why-military-strength-doesnt-mean-winning-wars-289242",
-        "published": "2026-08-14T08:56:40Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Asian refiners buy more US crude as Hormuz remains blocked, traders say",
+        "title": "Demand destruction cushions impact of geopolitical oil spikes",
         "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/asian-refiners-buy-more-us-crude-as-hormuz-remains-blocked-traders-say/article71344619.ece",
-        "published": "2026-08-14T08:55:44Z",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/demand-destruction-cushions-impact-of-geopolitical-oil-spikes/article71344918.ece",
+        "published": "2026-08-14T09:38:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "US to Soon Unveil Unprecedented Sanctions on Iran",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/us_to_soon_unveil_unprecedented_sanctions_on_iran-14-aug-2026-184374-article/",
-        "published": "2026-08-14T08:34:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil rises after US threatens indefinite blockade of Iran; set for weekly gains",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/oil-steadies-us-threatens-blockade-013600797.html",
-        "published": "2026-08-14T08:30:44Z",
+        "title": "Treasury yields rise as US threatens Iran with more sanctions amid standoff",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/treasury-yields-rise-as-us-threatens-iran-with-more-sanctions-amid-standoff/",
+        "published": "2026-08-14T09:07:33Z",
         "sentiment": "danger"
       },
       {
-        "title": "The dangerous “Polar Silk Road” in the Arctic bringing China & Russia closer: Moscow needs money & Beijing needs energy",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/08/14/the-dangerous-polar-silk-road-in-the-arctic-bringing-china-russia-closer-moscow-needs-money-beijing-needs-energy/",
-        "published": "2026-08-14T08:12:00Z",
+        "title": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/drone-incursions-sow-fear-chaos-along-natos-baltic-and-finnish-borders/articleshow/133234509.cms",
+        "published": "2026-08-14T09:06:49Z",
         "sentiment": "watch"
       }
     ],
