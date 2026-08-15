@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T12:54:26.918Z",
+    "generated_at": "2026-08-15T13:35:49.527Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "2 UAE oil tankers attacked while sailing through Strait of Hormuz",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/2-uae-oil-tankers-attacked-while-sailing-through-strait-of-hormuz-126081401077_1.html",
+        "published": "2026-08-14T13:21:55Z",
+        "sentiment": "danger"
+      },
       {
         "title": "NATO fighter jet shoots down a drone over Latvia",
         "source": "ABC News (AU)",
@@ -53,13 +60,6 @@
         "url": "https://www.livemint.com/companies/man-industries-bets-big-on-overseas-expansion-as-gulf-conflict-spurs-pipeline-demand-11786700320953.html",
         "published": "2026-08-14T12:40:36Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Hormuz Crisis Pushes Asian Refiners Toward U.S. Oil",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Crisis-Pushes-Asian-Refiners-Toward-US-Oil.html",
-        "published": "2026-08-14T12:30:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
