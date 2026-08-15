@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T11:58:28.976Z",
+    "generated_at": "2026-08-15T12:54:26.918Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Pinergy increases electricity bills by €169 a year from September",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/your-money/2026/08/14/pinergy-increases-electricity-bills-by-169-a-year-from-september/",
-        "published": "2026-08-14T11:52:20Z",
+        "title": "NATO fighter jet shoots down a drone over Latvia",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-08-14/nato-jets-shoot-down-drone-in-latvian-airspace/107040788",
+        "published": "2026-08-14T12:46:41Z",
         "sentiment": "watch"
       },
       {
-        "title": "US warns Iran it will step up economic pressure; two more ships attacked in Hormuz",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/us-warns-iran-step-up-economic-pressure-hormuz-attacks-6319876",
-        "published": "2026-08-14T11:45:59Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Morning Minute: Tether Finally Gets An Audit",
-        "source": "Decrypt",
-        "url": "https://decrypt.co/375625/morning-minute-tether-finally-gets-an-audit",
-        "published": "2026-08-14T11:45:39Z",
+        "title": "Saudi Arabia announces start of Red Sea defence alliance: Will it work?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/14/saudi-arabia-announces-start-of-red-sea-defence-alliance-will-it-work",
+        "published": "2026-08-14T12:45:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudi Oil Fleet Increasingly Going 'Dark' Due To Houthi Blockade",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/7ee890b8be1bff2b",
-        "published": "2026-08-14T11:32:35Z",
-        "sentiment": "danger"
+        "title": "Spectracide One-Shot Weed & Grass Killer 32-oz. Ready-to-Use Spray for $5 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Spectracide-One-Shot-Weed-Grass-Killer-32-oz-Ready-to-Use-Spray-for-5-free-shipping-w-Prime/22025099.html",
+        "published": "2026-08-14T12:41:50Z",
+        "sentiment": "watch"
       },
       {
-        "title": "US warns Iran it will step up economic pressure; two more ships attacked in Hormuz",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-warns-iran-it-will-step-up-economic-pressure-two-more-ships-attacked-in-hormuz/articleshow/133238963.cms",
-        "published": "2026-08-14T11:15:52Z",
+        "title": "MAN Industries bets big on overseas expansion as Gulf conflict spurs pipeline demand",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/companies/man-industries-bets-big-on-overseas-expansion-as-gulf-conflict-spurs-pipeline-demand-11786700320953.html",
+        "published": "2026-08-14T12:40:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Hormuz Crisis Pushes Asian Refiners Toward U.S. Oil",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Crisis-Pushes-Asian-Refiners-Toward-US-Oil.html",
+        "published": "2026-08-14T12:30:00Z",
         "sentiment": "danger"
       }
     ],
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
