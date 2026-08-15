@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T06:12:56.647Z",
+    "generated_at": "2026-08-15T07:01:26.481Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran-backed Houthis clash with Yemeni forces and other Mideast developments",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/iran-backed-houthis-clash-yemeni-forces-mideast-developments-135605001",
+        "published": "2026-08-14T06:33:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "NZX sharemarket enjoys slight rise ahead of upcoming busy reporting week - Market close",
+        "source": "New Zealand Herald",
+        "url": "https://www.nzherald.co.nz/business/markets/shares/nzx-sharemarket-enjoys-slight-rise-ahead-of-upcoming-busy-reporting-week-market-close/premium/QGDL3MPVYND2ZJPNKACG2CKZRQ/",
+        "published": "2026-08-14T06:15:28Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Asian shares mostly fall and US futures are little changed after US inflation data improves",
         "source": "WDIV ClickOnDetroit",
         "url": "https://www.clickondetroit.com/business/2026/08/14/asian-shares-mostly-fall-and-us-futures-are-little-changed-after-us-inflation-data-improves/",
@@ -46,20 +60,6 @@
         "url": "https://www.irishtimes.com/world/middle-east/2026/08/14/us-to-roll-out-economic-isolation-plan-for-iran-next-week/",
         "published": "2026-08-14T05:27:28Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Nifty hovers below 24,350 mark; metal shares decline for 2nd day",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/capital-market-news/nifty-hovers-below-24-350-mark-metal-shares-decline-for-2nd-day-126081400674_1.html",
-        "published": "2026-08-14T05:20:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US threatens Iran with sweeping economic isolation amid Hormuz tensions",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/us-threatens-iran-with-sweeping-economic-isolation-amid-hormuz-tensions-225603",
-        "published": "2026-08-14T05:18:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
