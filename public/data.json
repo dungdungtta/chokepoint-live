@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T10:01:30.380Z",
+    "generated_at": "2026-08-15T10:41:47.000Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,24 +27,31 @@
   "news": {
     "hormuz": [
       {
+        "title": "Sensex today | Stock Market Highlights: Sensex shed 70.71 pts or 0.09% to end at 78,009.25 after hitting a low of 77,684.37; Nifty 50 dipped 29.85 pts or 0.12% to 24,366",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-14th-august-2026/article71341547.ece",
+        "published": "2026-08-14T10:37:55Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Current price of oil as of August 14, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-08-14-2026/",
+        "published": "2026-08-14T10:30:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Middle East Oil Tankers Are Going Dark for Longer",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Tankers-Are-Going-Dark-for-Longer.html",
+        "published": "2026-08-14T10:25:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Demand destruction cushions impact of geopolitical oil spikes",
         "source": "BusinessLine",
         "url": "https://www.thehindubusinessline.com/markets/commodities/demand-destruction-cushions-impact-of-geopolitical-oil-spikes/article71344918.ece",
         "published": "2026-08-14T09:38:45Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Treasury yields rise as US threatens Iran with more sanctions amid standoff",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/treasury-yields-rise-as-us-threatens-iran-with-more-sanctions-amid-standoff/",
-        "published": "2026-08-14T09:07:33Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/drone-incursions-sow-fear-chaos-along-natos-baltic-and-finnish-borders/articleshow/133234509.cms",
-        "published": "2026-08-14T09:06:49Z",
         "sentiment": "watch"
       }
     ],
