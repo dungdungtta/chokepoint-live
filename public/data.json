@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T13:35:49.527Z",
+    "generated_at": "2026-08-15T14:00:50.974Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran’s Economy Is Buckling Under the Weight of War",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Geopolitics/Middle-East/Irans-Economy-Is-Buckling-Under-the-Weight-of-War.html",
+        "published": "2026-08-14T14:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "National Iranian Tanker Company resumes supertanker loadings at Kharg Island after weeks-long gap",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/nitc-resumes-supertanker-loadings-kharg-island/",
+        "published": "2026-08-14T13:41:37Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The Honest Kitchen review: feeding a ruthless, toothless 14-year-old dog",
+        "source": "New York Post",
+        "url": "https://nypost.com/lifestyle/dog-food-review-the-honest-kitchen/",
+        "published": "2026-08-14T13:41:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Top White House official QUITS as Trump's Iran war spirals out of control after chilling new attack",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16052723/White-House-QUITS-Trumps-Iran-attack.html",
+        "published": "2026-08-14T13:39:30Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "2 UAE oil tankers attacked while sailing through Strait of Hormuz",
         "source": "Business Standard",
         "url": "https://www.business-standard.com/world-news/2-uae-oil-tankers-attacked-while-sailing-through-strait-of-hormuz-126081401077_1.html",
         "published": "2026-08-14T13:21:55Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "NATO fighter jet shoots down a drone over Latvia",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-08-14/nato-jets-shoot-down-drone-in-latvian-airspace/107040788",
-        "published": "2026-08-14T12:46:41Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Arabia announces start of Red Sea defence alliance: Will it work?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/14/saudi-arabia-announces-start-of-red-sea-defence-alliance-will-it-work",
-        "published": "2026-08-14T12:45:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Spectracide One-Shot Weed & Grass Killer 32-oz. Ready-to-Use Spray for $5 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Spectracide-One-Shot-Weed-Grass-Killer-32-oz-Ready-to-Use-Spray-for-5-free-shipping-w-Prime/22025099.html",
-        "published": "2026-08-14T12:41:50Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "MAN Industries bets big on overseas expansion as Gulf conflict spurs pipeline demand",
-        "source": "Livemint",
-        "url": "https://www.livemint.com/companies/man-industries-bets-big-on-overseas-expansion-as-gulf-conflict-spurs-pipeline-demand-11786700320953.html",
-        "published": "2026-08-14T12:40:36Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
