@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T22:32:12.319Z",
+    "generated_at": "2026-08-15T22:59:41.788Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump says US may take control of Strait of Hormuz",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/08/trump-says-us-may-take-control-of-strait-of-hormuz/",
+        "published": "2026-08-14T22:55:34Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "'The Strait will remain Iranian': Iran unfazed by Trump’s threat to claim Hormuz",
         "source": "Israelnationalnews.com",
         "url": "https://www.israelnationalnews.com/news/431731",
@@ -52,13 +59,6 @@
         "source": "Dailymail.com",
         "url": "https://www.dailymail.com/news/article-16053819/Trump-Iran-Strait-Hormuz-US-territory.html",
         "published": "2026-08-14T20:21:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Asian refiners buy more US crude as Hormuz remains blocked",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/asian-refiners-buy-more-us-crude-as-hormuz-remains-blocked/articleshow/133251337.cms",
-        "published": "2026-08-14T19:50:09Z",
         "sentiment": "watch"
       }
     ],
