@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T21:36:40.862Z",
+    "generated_at": "2026-08-15T21:58:31.157Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Victoria Cast Iron 12\" Tawa Dosa Pan for $24 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Victoria-Cast-Iron-12-Tawa-Dosa-Pan-for-24-free-shipping-w-Prime/22025914.html",
+        "published": "2026-08-14T21:53:19Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Iran asserts control over Strait of Hormuz, vows blockade until US accepts Iran’s claim of victory",
         "source": "Crypto Briefing",
@@ -53,13 +60,6 @@
         "url": "https://cryptobriefing.com/trump-iran-economic-sanctions-operation-fury/",
         "published": "2026-08-14T19:38:31Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Bond traders face confusion as geopolitical risks and inflation overtake growth signals, AlphaSimplex says",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/bond-traders-geopolitical-risks-inflation-alphasimplex/",
-        "published": "2026-08-14T19:05:51Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
