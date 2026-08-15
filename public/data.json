@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T10:41:47.000Z",
+    "generated_at": "2026-08-15T11:00:50.780Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Russia will destroy Western support for Kiev’s war machine – Lavrov",
+        "source": "RT",
+        "url": "https://www.rt.com/russia/644247-lavrov-kiev-war-machine/",
+        "published": "2026-08-14T10:59:15Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Sensex today | Stock Market Highlights: Sensex shed 70.71 pts or 0.09% to end at 78,009.25 after hitting a low of 77,684.37; Nifty 50 dipped 29.85 pts or 0.12% to 24,366",
         "source": "BusinessLine",
