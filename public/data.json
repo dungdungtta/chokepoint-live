@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T17:59:02.314Z",
+    "generated_at": "2026-08-15T18:42:46.587Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "Canada announces new sanctions on Iranian officials over Strait of Hormuz",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/politics/canada-new-sanctions-iranians-strait-of-hormuz-9.7307555",
+        "published": "2026-08-14T18:39:43Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Who controls the Strait of Hormuz right now? Here's what the ship traffic actually shows",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/who-controls-strait-hormuz-right-now-heres-what-ship-traffic-actually-shows",
+        "published": "2026-08-14T18:34:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Oil Window",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/research-oil-window/",
+        "published": "2026-08-14T18:30:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump’s Tougher Russia Stance Puts Kazakhstan in a Difficult Position",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Geopolitics/Asia/Trumps-Tougher-Russia-Stance-Puts-Kazakhstan-in-a-Difficult-Position.html",
+        "published": "2026-08-14T18:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Economists Say Iran Faces ‘Severe Collapse’ of Economy Under Blockade",
         "source": "Breitbart News",
         "url": "https://www.breitbart.com/middle-east/2026/08/14/economists-say-iran-faces-severe-collapse-of-economy-under-blockade/",
         "published": "2026-08-14T17:49:49Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Canada sanctions five Iranian officials linked to IRGC over Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/canada-sanctions-iran-irgc-strait-hormuz/",
-        "published": "2026-08-14T17:48:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iranian Attacks Push Hormuz Shipping Toward Tehran-Controlled Route",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/iranian-attacks-push-hormuz-shipping-toward-tehran-controlled-route/",
-        "published": "2026-08-14T17:44:35Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Two Tankers Attacked as UAE Expands Hormuz Oil Shuttle",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/two-tankers-attacked-as-uae-expands-hormuz-oil-shuttle/",
-        "published": "2026-08-14T17:17:46Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Hormuz Attacks Push Oil Toward $100 Despite US Crude Build",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/hormuz-attacks-push-oil-toward-162121010.html",
-        "published": "2026-08-14T16:21:21Z",
         "sentiment": "danger"
       }
     ],
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
