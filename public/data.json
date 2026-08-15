@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T02:58:06.928Z",
+    "generated_at": "2026-08-15T03:48:20.694Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Trump admin to roll out 'economic isolation' plan for Iran next week",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/trump-admin-to-roll-out-economic-isolation-plan-for-iran-next-week-126081400117_1.html",
+        "published": "2026-08-14T03:31:49Z",
+        "sentiment": "watch"
+      },
       {
         "title": "US says Iran naval blockade can continue indefinitely as talks stall",
         "source": "Business Standard",
@@ -53,13 +60,6 @@
         "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-14-crude-oil-dips-below-88-despite-trumps-threat-to-blockade-iran-indefinitely-what-are-experts-saying/articleshow/133227242.cms",
         "published": "2026-08-14T02:17:24Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Anthropologie’s Beauty Advent Calendar Is Back — With Over $200 in Savings on Brands Like Caudalie, L’Occitane, and Mario Badescu",
-        "source": "WWD",
-        "url": "http://wwd.com/shop/shop-beauty/anthropologie-beauty-advent-calendar-2026-brands-buy-online-1239124376/",
-        "published": "2026-08-14T02:00:36Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
