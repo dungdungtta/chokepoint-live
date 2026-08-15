@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T19:58:10.113Z",
+    "generated_at": "2026-08-15T20:33:11.380Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Trump delivers Iran a gut punch with new declaration he's making the Strait of Hormuz a US territory",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16053819/Trump-Iran-Strait-Hormuz-US-territory.html",
+        "published": "2026-08-14T20:21:54Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Asian refiners buy more US crude as Hormuz remains blocked",
         "source": "The Times of India",
@@ -53,16 +60,16 @@
         "url": "https://www.abc.net.au/news/2026-08-15/africa-pakistan-turkiye-saudi-arabia-mecca-pact-egypt-djibouti/107037396",
         "published": "2026-08-14T19:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Nikkei Extends Rally as TOPIX Hits Fresh High",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/150368.php",
-        "published": "2026-08-14T18:58:21Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump’s Flurry of National Security Policies",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/08/14/trump-drone-tariffs-cyber-memo-zambia-election/",
+        "published": "2026-08-14T20:17:46Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The US Navy’s Aircraft Carrier Troubles Can’t Be Fixed Quickly Enough",
         "source": "Forbes",
@@ -89,13 +96,6 @@
         "source": "Taipei Times",
         "url": "https://www.taipeitimes.com/News/editorials/archives/2026/08/14/2003862453",
         "published": "2026-08-14T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. urges China to halt military pressure on Taiwan after naval drill",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260813-cna04.htm",
-        "published": "2026-08-13T12:00:00Z",
         "sentiment": "watch"
       }
     ],
