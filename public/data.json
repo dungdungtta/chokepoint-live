@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T00:01:37.743Z",
+    "generated_at": "2026-08-15T01:51:12.200Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "How traffic through the Strait of Hormuz is adapting to war",
-        "source": "CNN",
-        "url": "https://www.cnn.com/interactive/2026/08/world/strait-of-hormuz-shipping-data-traffic-routes-vis-intl",
-        "published": "2026-08-14T00:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US-Iran crisis: 94 countries subsidise fuel as Nigerians pay more",
-        "source": "The Punch",
-        "url": "https://punchng.com/us-iran-crisis-94-countries-subsidise-fuel-as-nigerians-pay-more/",
-        "published": "2026-08-13T23:40:51Z",
+        "title": "Target House Cleaning Bundle combining Coupons w $15gc wys $50 promo $1+ per item (1 replies)",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19876902-target-house-cleaning-bundle-combining-coupons-w-15gc-wys-50-promo-1-per-item",
+        "published": "2026-08-14T00:45:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "US to implement unprecedented measures against Iran, escalating tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-to-implement-unprecedented-measures-against-iran-escalating-tensions/",
-        "published": "2026-08-13T23:36:08Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "UAE reports Iran attacked ADNOC vessel with missile in Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/uae-iran-adnoc-vessels-strait-hormuz/",
-        "published": "2026-08-13T23:35:52Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "1968 Plymouth GTX Convertible",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1968-plymouth-gtx-42/",
-        "published": "2026-08-13T23:22:08Z",
+        "title": "Top FPIs ride out storm, outrun Nifty & Sensex in Q1",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/top-fpis-ride-out-stormoutrun-nifty-sensex-in-q1/articleshow/133226731.cms",
+        "published": "2026-08-14T00:39:01Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz",
+        "published": "2026-08-14T00:33:48Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran parliament dispute complicates Strait of Hormuz negotiations",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-parliament-dispute-complicates-strait-of-hormuz-negotiations/",
+        "published": "2026-08-14T00:08:03Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "US eyes indefinite Iran naval blockade, oil supply drops",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/0814/1587823-us-iran-strait/",
+        "published": "2026-08-14T00:06:44Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan’s ‘White Wolf’ leads lonely crusade to ‘reunify’ with China",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/14/taiwans-white-wolf-leads-lonely-crusade-to-reunify-with-china",
+        "published": "2026-08-14T01:43:08Z",
+        "sentiment": "watch"
+      },
       {
         "title": "AIT Shows Deepening Taiwan-US Ties",
         "source": "Taipei Times",
@@ -88,13 +95,6 @@
         "title": "The Boiling Moat: Urgent Steps to Defend Taiwan",
         "source": "Hoover.org",
         "url": "https://www.hoover.org/plus/research/boiling-moat",
-        "published": "2026-08-13T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Critical Choices In The Indo-Pacific",
-        "source": "Thefreedomfrequency.org",
-        "url": "https://www.thefreedomfrequency.org/p/critical-choices-in-the-indo-pacific",
         "published": "2026-08-13T00:00:00Z",
         "sentiment": "watch"
       }
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
