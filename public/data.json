@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T11:00:50.780Z",
+    "generated_at": "2026-08-15T11:35:57.727Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Saudi Oil Fleet Increasingly Going 'Dark' Due To Houthi Blockade",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/7ee890b8be1bff2b",
+        "published": "2026-08-14T11:32:35Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US warns Iran it will step up economic pressure; two more ships attacked in Hormuz",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-warns-iran-it-will-step-up-economic-pressure-two-more-ships-attacked-in-hormuz/articleshow/133238963.cms",
+        "published": "2026-08-14T11:15:52Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil set for weekly gains",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0814/1587887-oil-set-for-weekly-gains/",
+        "published": "2026-08-14T11:12:47Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Russia will destroy Western support for Kiev’s war machine – Lavrov",
         "source": "RT",
         "url": "https://www.rt.com/russia/644247-lavrov-kiev-war-machine/",
@@ -38,27 +59,6 @@
         "source": "BusinessLine",
         "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-14th-august-2026/article71341547.ece",
         "published": "2026-08-14T10:37:55Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Current price of oil as of August 14, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-08-14-2026/",
-        "published": "2026-08-14T10:30:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Middle East Oil Tankers Are Going Dark for Longer",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Tankers-Are-Going-Dark-for-Longer.html",
-        "published": "2026-08-14T10:25:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Demand destruction cushions impact of geopolitical oil spikes",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/demand-destruction-cushions-impact-of-geopolitical-oil-spikes/article71344918.ece",
-        "published": "2026-08-14T09:38:45Z",
         "sentiment": "watch"
       }
     ],
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
