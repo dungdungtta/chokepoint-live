@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T21:00:35.696Z",
+    "generated_at": "2026-08-15T21:36:40.862Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran asserts control over Strait of Hormuz, vows blockade until US accepts Iran’s claim of victory",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-strait-of-hormuz-blockade-control/",
+        "published": "2026-08-14T21:11:09Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Trump delivers Iran a gut punch with new declaration he's making the Strait of Hormuz a US territory",
         "source": "Dailymail.com",
         "url": "https://www.dailymail.com/news/article-16053819/Trump-Iran-Strait-Hormuz-US-territory.html",
@@ -52,13 +59,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/bond-traders-geopolitical-risks-inflation-alphasimplex/",
         "published": "2026-08-14T19:05:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Arabia, Turkiye and the UAE are looking to Africa",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-08-15/africa-pakistan-turkiye-saudi-arabia-mecca-pact-egypt-djibouti/107037396",
-        "published": "2026-08-14T19:00:00Z",
         "sentiment": "watch"
       }
     ],
