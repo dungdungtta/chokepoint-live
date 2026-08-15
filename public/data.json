@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T19:37:07.927Z",
+    "generated_at": "2026-08-15T19:58:10.113Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Asian refiners buy more US crude as Hormuz remains blocked",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/asian-refiners-buy-more-us-crude-as-hormuz-remains-blocked/articleshow/133251337.cms",
+        "published": "2026-08-14T19:50:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Donald Trump vows to hit Iran hard economically amid escalating conflict",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-iran-economic-sanctions-operation-fury/",
+        "published": "2026-08-14T19:38:31Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Bond traders face confusion as geopolitical risks and inflation overtake growth signals, AlphaSimplex says",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/bond-traders-geopolitical-risks-inflation-alphasimplex/",
@@ -45,20 +59,6 @@
         "source": "Newsonjapan.com",
         "url": "https://newsonjapan.com/article/150368.php",
         "published": "2026-08-14T18:58:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Canada announces new sanctions on Iranian officials over Strait of Hormuz",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/politics/canada-new-sanctions-iranians-strait-of-hormuz-9.7307555",
-        "published": "2026-08-14T18:39:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Who controls the Strait of Hormuz right now? Here's what the ship traffic actually shows",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/who-controls-strait-hormuz-right-now-heres-what-ship-traffic-actually-shows",
-        "published": "2026-08-14T18:34:00Z",
         "sentiment": "watch"
       }
     ],
