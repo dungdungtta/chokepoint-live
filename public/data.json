@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T14:41:20.125Z",
+    "generated_at": "2026-08-15T15:00:29.241Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Did Trump-linked oil company set up drilling operation in Greenland without permission?",
+        "source": "Snopes.com",
+        "url": "https://www.snopes.com//fact-check/trump-greenland-drilling-oil/",
+        "published": "2026-08-14T15:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East",
+        "source": "WKMG News 6 & ClickOrlando",
+        "url": "https://www.clickorlando.com/news/world/2026/08/14/2-uae-tankers-attacked-while-transiting-strait-of-hormuz-and-other-news-from-the-middle-east/",
+        "published": "2026-08-14T14:55:48Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Hormuz traffic slows further after US threatens more economic pressure on Iran",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/international/world-news/hormuz-traffic-slows-further-after-us-threatens-more-economic-pressure-on-iran/articleshow/133244610.cms",
@@ -46,20 +60,6 @@
         "url": "https://www.nakedcapitalism.com/2026/08/iran-war-mixed-signals-on-us-resuming-kinetic-action-as-iran-moves-to-offensive-stance-flight-from-israel-accelerating.html",
         "published": "2026-08-14T14:16:25Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Iran’s Economy Is Buckling Under the Weight of War",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Geopolitics/Middle-East/Irans-Economy-Is-Buckling-Under-the-Weight-of-War.html",
-        "published": "2026-08-14T14:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "National Iranian Tanker Company resumes supertanker loadings at Kharg Island after weeks-long gap",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/nitc-resumes-supertanker-loadings-kharg-island/",
-        "published": "2026-08-14T13:41:37Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
