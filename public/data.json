@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T04:38:28.752Z",
+    "generated_at": "2026-08-15T05:03:55.811Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "How a major oil slick started washing up on Iran's beaches",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cr7kpdkg13zo",
+        "published": "2026-08-14T05:01:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Nintendo Switch Controller Drift Repair vs Alternatives: Which Fix Is Best?",
+        "source": "Online-tech-tips.com",
+        "url": "https://www.online-tech-tips.com/nintendo-switch-controller-drift-repair-vs-alternatives/#article",
+        "published": "2026-08-14T04:40:12Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "UAE points finger at Iran as two ADNOC ships attacked in Strait of Hormuz",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/defence/uae-points-finger-at-iran-as-two-adnoc-ships-attacked-in-strait-of-hormuz/articleshow/133229037.cms",
@@ -46,20 +60,6 @@
         "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-to-unleash-economic-isolation-on-iran-next-week-as-trump-pressure-campaign-intensifies/articleshow/133228383.cms",
         "published": "2026-08-14T03:48:27Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Trump admin to roll out 'economic isolation' plan for Iran next week",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/trump-admin-to-roll-out-economic-isolation-plan-for-iran-next-week-126081400117_1.html",
-        "published": "2026-08-14T03:31:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US says Iran naval blockade can continue indefinitely as talks stall",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/us-says-iran-naval-blockade-can-continue-indefinitely-as-talks-stall-126081400084_1.html",
-        "published": "2026-08-14T02:45:15Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
