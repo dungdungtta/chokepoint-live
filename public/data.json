@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T08:37:22.805Z",
+    "generated_at": "2026-08-15T09:03:37.944Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Ukraine and Iran: why military strength doesn’t mean winning wars",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/ukraine-and-iran-why-military-strength-doesnt-mean-winning-wars-289242",
+        "published": "2026-08-14T08:56:40Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Asian refiners buy more US crude as Hormuz remains blocked, traders say",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/asian-refiners-buy-more-us-crude-as-hormuz-remains-blocked-traders-say/article71344619.ece",
+        "published": "2026-08-14T08:55:44Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US to Soon Unveil Unprecedented Sanctions on Iran",
         "source": "Rigzone",
         "url": "https://www.rigzone.com/news/wire/us_to_soon_unveil_unprecedented_sanctions_on_iran-14-aug-2026-184374-article/",
@@ -45,20 +59,6 @@
         "source": "Protothema.gr",
         "url": "https://en.protothema.gr/2026/08/14/the-dangerous-polar-silk-road-in-the-arctic-bringing-china-russia-closer-moscow-needs-money-beijing-needs-energy/",
         "published": "2026-08-14T08:12:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Drone hits tanker in Strait of Hormuz, raising maritime security concerns",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/drone-hits-tanker-in-strait-of-hormuz-raising-maritime-security-concerns/",
-        "published": "2026-08-14T08:05:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "NATO jets shoot down kamikaze drone over Latvia",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16052155/NATO-jets-shoot-kamikaze-drone-Latvia.html",
-        "published": "2026-08-14T07:51:12Z",
         "sentiment": "watch"
       }
     ],
