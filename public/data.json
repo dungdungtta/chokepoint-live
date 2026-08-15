@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T07:01:26.481Z",
+    "generated_at": "2026-08-15T07:45:17.204Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Dawn Platinum Plus Lemon Scent Dish Spray 16-oz. Refill for $2 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Dawn-Platinum-Plus-Lemon-Scent-Dish-Spray-16-oz-Refill-for-2-free-shipping-w-Prime/22024570.html",
+        "published": "2026-08-14T07:31:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "American Military in the Age of Trump",
+        "source": "Metafilter.com",
+        "url": "https://www.metafilter.com/214151/American-Military-in-the-Age-of-Trump",
+        "published": "2026-08-14T07:10:12Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran-backed Houthis clash with Yemeni forces and other Mideast developments",
         "source": "Abcnews.com",
         "url": "https://abcnews.com/International/wireStory/iran-backed-houthis-clash-yemeni-forces-mideast-developments-135605001",
@@ -45,20 +59,6 @@
         "source": "WDIV ClickOnDetroit",
         "url": "https://www.clickondetroit.com/business/2026/08/14/asian-shares-mostly-fall-and-us-futures-are-little-changed-after-us-inflation-data-improves/",
         "published": "2026-08-14T06:04:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Gasoline Prices Hold Near $4 Per Gallon as Iran Conflict, Refining Issues Hit Supply",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-14-gasoline-cost-hold-iran-conflict-refining-issues.html",
-        "published": "2026-08-14T06:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US to roll out ‘economic isolation’ plan for Iran next week",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/08/14/us-to-roll-out-economic-isolation-plan-for-iran-next-week/",
-        "published": "2026-08-14T05:27:28Z",
         "sentiment": "watch"
       }
     ],
