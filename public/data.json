@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T18:42:46.587Z",
+    "generated_at": "2026-08-15T19:08:41.905Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Bond traders face confusion as geopolitical risks and inflation overtake growth signals, AlphaSimplex says",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/bond-traders-geopolitical-risks-inflation-alphasimplex/",
+        "published": "2026-08-14T19:05:51Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Saudi Arabia, Turkiye and the UAE are looking to Africa",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-08-15/africa-pakistan-turkiye-saudi-arabia-mecca-pact-egypt-djibouti/107037396",
+        "published": "2026-08-14T19:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Nikkei Extends Rally as TOPIX Hits Fresh High",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150368.php",
+        "published": "2026-08-14T18:58:21Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Canada announces new sanctions on Iranian officials over Strait of Hormuz",
         "source": "CBC News",
         "url": "https://www.cbc.ca/news/politics/canada-new-sanctions-iranians-strait-of-hormuz-9.7307555",
@@ -39,27 +60,6 @@
         "url": "https://www.foxnews.com/politics/who-controls-strait-hormuz-right-now-heres-what-ship-traffic-actually-shows",
         "published": "2026-08-14T18:34:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "The Oil Window",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/research-oil-window/",
-        "published": "2026-08-14T18:30:44Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump’s Tougher Russia Stance Puts Kazakhstan in a Difficult Position",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Geopolitics/Asia/Trumps-Tougher-Russia-Stance-Puts-Kazakhstan-in-a-Difficult-Position.html",
-        "published": "2026-08-14T18:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Economists Say Iran Faces ‘Severe Collapse’ of Economy Under Blockade",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/08/14/economists-say-iran-faces-severe-collapse-of-economy-under-blockade/",
-        "published": "2026-08-14T17:49:49Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
