@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T21:58:31.157Z",
+    "generated_at": "2026-08-15T22:32:12.319Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "'The Strait will remain Iranian': Iran unfazed by Trump’s threat to claim Hormuz",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/431731",
+        "published": "2026-08-14T22:11:09Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Victoria Cast Iron 12\" Tawa Dosa Pan for $24 + free shipping w/ Prime",
         "source": "Dealnews.com",
@@ -53,13 +60,6 @@
         "url": "https://economictimes.indiatimes.com/news/international/world-news/asian-refiners-buy-more-us-crude-as-hormuz-remains-blocked/articleshow/133251337.cms",
         "published": "2026-08-14T19:50:09Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Donald Trump vows to hit Iran hard economically amid escalating conflict",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-economic-sanctions-operation-fury/",
-        "published": "2026-08-14T19:38:31Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
