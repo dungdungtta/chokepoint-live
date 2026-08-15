@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T17:01:48.739Z",
+    "generated_at": "2026-08-15T17:37:38.900Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Two Tankers Attacked as UAE Expands Hormuz Oil Shuttle",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/two-tankers-attacked-as-uae-expands-hormuz-oil-shuttle/",
+        "published": "2026-08-14T17:17:46Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Hormuz Attacks Push Oil Toward $100 Despite US Crude Build",
         "source": "Yahoo Entertainment",
@@ -53,13 +60,6 @@
         "url": "https://oilprice.com/Latest-Energy-News/World-News/US-West-Coast-Refiners-Tap-Malaysian-Supply.html",
         "published": "2026-08-14T15:30:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran's chilling midterm gamble against Trump revealed as insiders warn regime is 'playing with fire'",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16050945/Iran-aggressive-Hormuz-Trump.html",
-        "published": "2026-08-14T15:12:31Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
