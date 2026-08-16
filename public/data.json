@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T20:32:22.313Z",
+    "generated_at": "2026-08-16T21:00:17.416Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran slams Trump’s threat to declare Hormuz US territory",
+        "source": "The Punch",
+        "url": "https://punchng.com/iran-slams-trumps-threat-to-declare-hormuz-us-territory/",
+        "published": "2026-08-15T20:36:49Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Trump tells Americans to accept higher gas prices as the cost of restraining Iran",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/trump-gas-prices-iran-strait-hormuz/",
@@ -52,13 +59,6 @@
         "source": "ABC News (AU)",
         "url": "https://www.abc.net.au/news/2026-08-16/how-much-might-it-cost-to-electrify-road-freight/106956614",
         "published": "2026-08-15T18:40:53Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Strait of Hormuz: 14 claims we've investigated",
-        "source": "Snopes.com",
-        "url": "https://www.snopes.com/collections/iran-war-strait-of-hormuz/",
-        "published": "2026-08-15T18:00:00Z",
         "sentiment": "watch"
       }
     ],
