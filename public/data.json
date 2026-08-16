@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T19:05:36.034Z",
+    "generated_at": "2026-08-16T19:36:14.973Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "UAE Says Iran Attacked Another ADNOC Vessel In Hormuz",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/uae-says-iran-attacked-another-adnoc-vessel-in-hormuz/",
+        "published": "2026-08-15T19:25:07Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "'Arctic Express' Cargo Route From China to UK Kicks Off",
         "source": "Newser",
         "url": "https://www.newser.com/story/394704/arctic-express-cargo-route-from-china-to-uk-kicks-off.html",
@@ -52,13 +59,6 @@
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/defence/hormuz-ship-attacks-mount-as-us-vows-to-cripple-iran-economy/articleshow/133266552.cms",
         "published": "2026-08-15T17:55:27Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran fires back at Trump's threat to declare Hormuz a U.S. territory",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/iran-fires-back-at-trumps-threat-to-declare-hormuz-a-u-s-territory/articleshow/133266564.cms",
-        "published": "2026-08-15T17:55:12Z",
         "sentiment": "danger"
       }
     ],
