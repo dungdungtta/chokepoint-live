@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T09:07:27.041Z",
+    "generated_at": "2026-08-16T09:44:23.692Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Why a weekend break below $62,500 could unleash a Bitcoin selling wave toward $58,500",
+        "source": "CryptoSlate",
+        "url": "https://cryptoslate.com/bitcoin-has-nowhere-to-hide-this-weekend-if-62500-breaks/",
+        "published": "2026-08-15T09:30:33Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Wahl Professional 5-Star Vapor Clipper w/ F32 Fadeout Blade for $100 + free shipping w/ Prime",
         "source": "Dealnews.com",
