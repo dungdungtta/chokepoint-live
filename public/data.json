@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T11:36:12.459Z",
+    "generated_at": "2026-08-16T11:58:57.403Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran attacked state oil company vessel in Hormuz strait, says UAE",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/08/iran-attacked-state-oil-company-vessel-in-hormuz-strait-says-uae/",
+        "published": "2026-08-15T11:37:37Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "UAE oil giant says vessel attacked in Hormuz strait",
         "source": "The Punch",
         "url": "https://punchng.com/uae-oil-giant-says-vessel-attacked-in-hormuz-strait/",
@@ -52,13 +59,6 @@
         "source": "Nakedcapitalism.com",
         "url": "https://www.nakedcapitalism.com/2026/08/links-8-15-2026.html",
         "published": "2026-08-15T10:55:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran rejects ‘delusions’ after Trump says he wants the Strait of Hormuz to be a U.S. territory",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/iran-rejects-delusions-trump-strait-hormuz-us-territory-rcna592666",
-        "published": "2026-08-15T10:47:14Z",
         "sentiment": "watch"
       }
     ],
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
