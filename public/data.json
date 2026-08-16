@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T11:58:57.403Z",
+    "generated_at": "2026-08-16T12:56:09.729Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Yemen Government Says Houthi Strike On Red Sea Port Kills 4",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260815-rferl03.htm",
+        "published": "2026-08-15T12:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US Promises 'Unprecedented' Economic Isolation Of Iran. What Could That Mean?",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260815-rferl01.htm",
+        "published": "2026-08-15T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran attacked state oil company vessel in Hormuz strait, says UAE",
         "source": "Vanguard",
         "url": "https://www.vanguardngr.com/2026/08/iran-attacked-state-oil-company-vessel-in-hormuz-strait-says-uae/",
@@ -39,27 +53,6 @@
         "url": "https://punchng.com/uae-oil-giant-says-vessel-attacked-in-hormuz-strait/",
         "published": "2026-08-15T11:07:45Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Russia Threatens to Board British and French Ships in Revenge For 'Shadow Fleet' Seizures",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/europe/2026/08/15/russia-threatens-to-board-british-and-french-ships-in-revenge/",
-        "published": "2026-08-15T11:07:26Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Just for Men Touch of Gray Hair Color Kit 3-Pack for $10 w/ Sub & Save + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Just-for-Men-Touch-of-Gray-Hair-Color-Kit-3-Pack-for-10-w-Sub-Save-free-shipping-w-Prime/22031242.html",
-        "published": "2026-08-15T10:59:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Links 8/15/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/links-8-15-2026.html",
-        "published": "2026-08-15T10:55:23Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
