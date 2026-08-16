@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T14:01:22.967Z",
+    "generated_at": "2026-08-16T14:41:40.166Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Washington is coming for Iran's wallet | Al Bawaba",
+        "source": "Al-Bawaba",
+        "url": "https://www.albawaba.com/business/washington-coming-irans-wallet-1635084",
+        "published": "2026-08-15T14:21:50Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran, Oman edge closer to Hormuz shipping routes deal as war continues",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/iran-oman-edge-closer-to-hormuz-shipping-routes-deal-as-war-continues-126081501311_1.html",
+        "published": "2026-08-15T14:03:41Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Exclusive | Iran’s control of Strait of Hormuz has disrupted US calculations: Official",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/exclusive-irans-control-of-strait-of-hormuz-has-disrupted-us-calculations/",
@@ -45,13 +59,6 @@
         "source": "Business Standard",
         "url": "https://www.business-standard.com/world-news/vessel-attacked-in-hormuz-israeli-strikes-kill-9-in-southern-lebanon-126081501220_1.html",
         "published": "2026-08-15T12:56:34Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Yemen Government Says Houthi Strike On Red Sea Port Kills 4",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260815-rferl03.htm",
-        "published": "2026-08-15T12:00:00Z",
         "sentiment": "danger"
       }
     ],
