@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T10:42:12.079Z",
+    "generated_at": "2026-08-16T11:01:13.644Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Why a weekend break below $62,500 could unleash a Bitcoin selling wave toward $58,500",
-        "source": "CryptoSlate",
-        "url": "https://cryptoslate.com/bitcoin-has-nowhere-to-hide-this-weekend-if-62500-breaks/",
-        "published": "2026-08-15T09:30:33Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Wahl Professional 5-Star Vapor Clipper w/ F32 Fadeout Blade for $100 + free shipping w/ Prime",
+        "title": "Just for Men Touch of Gray Hair Color Kit 3-Pack for $10 w/ Sub & Save + free shipping w/ Prime",
         "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Wahl-Professional-5-Star-Vapor-Clipper-w-F32-Fadeout-Blade-for-100-free-shipping-w-Prime/22031024.html",
-        "published": "2026-08-15T08:51:23Z",
+        "url": "https://www.dealnews.com/Just-for-Men-Touch-of-Gray-Hair-Color-Kit-3-Pack-for-10-w-Sub-Save-free-shipping-w-Prime/22031242.html",
+        "published": "2026-08-15T10:59:27Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran defiant on Strait of Hormuz as Trump tells Americans to accept high fuel prices",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/08/15/iran-defiant-on-strait-of-hormuz-as-trump-tells-americans-to-accept-high-fuel-prices/",
-        "published": "2026-08-15T08:43:47Z",
+        "title": "Links 8/15/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/links-8-15-2026.html",
+        "published": "2026-08-15T10:55:23Z",
         "sentiment": "watch"
       },
       {
-        "title": "Tehran says Strait of Hormuz will 'remain Iranian' after Trump claims it will soon be US territory",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/trump-says-strait-of-hormuz-us-territory-7132035-Aug2026/",
-        "published": "2026-08-15T08:39:31Z",
+        "title": "Iran rejects ‘delusions’ after Trump says he wants the Strait of Hormuz to be a U.S. territory",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/iran-rejects-delusions-trump-strait-hormuz-us-territory-rcna592666",
+        "published": "2026-08-15T10:47:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran fires back at Trump’s threat to declare Hormuz a US territory",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/08/iran-fires-back-at-trumps-threat-to-declare-hormuz-a-us-territory/",
-        "published": "2026-08-15T08:12:17Z",
+        "title": "Iran seeks full control over Strait of Hormuz with new law banning US and Israeli vessels",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-strait-hormuz-control-law/",
+        "published": "2026-08-15T10:46:14Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US prepares new economic measures as attacks escalate in Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-sanctions-iran-strait-hormuz-attacks/",
+        "published": "2026-08-15T10:44:20Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Links 8/15/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/links-8-15-2026.html",
+        "published": "2026-08-15T10:55:23Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan passes defence budget after record delay, retains drone funding",
         "source": "Al Jazeera English",
@@ -89,13 +96,6 @@
         "source": "Lewrockwell.com",
         "url": "https://www.lewrockwell.com/2026/08/martin-armstrong/america-cannot-protect-taiwan-from-china/",
         "published": "2026-08-14T04:01:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan’s ‘White Wolf’ leads lonely crusade to ‘reunify’ with China",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/14/taiwans-white-wolf-leads-lonely-crusade-to-reunify-with-china",
-        "published": "2026-08-14T01:43:08Z",
         "sentiment": "watch"
       }
     ],
