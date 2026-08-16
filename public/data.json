@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T07:46:36.378Z",
+    "generated_at": "2026-08-16T08:38:09.401Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,32 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran fires back at Trump’s threat to declare Hormuz a US territory",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/08/iran-fires-back-at-trumps-threat-to-declare-hormuz-a-us-territory/",
+        "published": "2026-08-15T08:12:17Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran calls on US to accept defeat over Strait of Hormuz",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/2026/0815/1587983-iran-us-war/",
+        "published": "2026-08-15T07:46:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump says brace for fuel price rise amid Iran deadlock",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/0815/1587983-iran-us-war/",
+        "published": "2026-08-15T07:46:40Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Israeli strike kills 7 in Lebanon, and other news from the Middle East",
         "source": "Associated Press",
         "url": "https://apnews.com/article/iran-israel-lebanon-uae-us-hormuz-august-15-2026-ba738b9fb8803f28313a19df8bbcac19",
         "published": "2026-08-15T07:31:45Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Iran says Hormuz ‘will remain Iranian’ after Trump threats",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/iran-says-hormuz-will-remain-iranian-after-trump-threats-225647",
-        "published": "2026-08-15T07:30:28Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Avtar Steel files IPO papers with SEBI; aims to raise ₹585 crore",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/avtar-steel-files-ipo-papers-with-sebi-aims-to-raise-585-crore/article71348739.ece",
-        "published": "2026-08-15T06:31:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Vessel struck by projectile in high-tension zone, crew unharmed: UKMTO",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/vessel-struck-by-projectile-in-high-tension-zone-crew-unharmed-ukmto/",
-        "published": "2026-08-15T06:17:40Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
