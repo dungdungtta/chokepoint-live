@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T11:01:13.644Z",
+    "generated_at": "2026-08-16T11:36:12.459Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "UAE oil giant says vessel attacked in Hormuz strait",
+        "source": "The Punch",
+        "url": "https://punchng.com/uae-oil-giant-says-vessel-attacked-in-hormuz-strait/",
+        "published": "2026-08-15T11:07:45Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Russia Threatens to Board British and French Ships in Revenge For 'Shadow Fleet' Seizures",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/europe/2026/08/15/russia-threatens-to-board-british-and-french-ships-in-revenge/",
+        "published": "2026-08-15T11:07:26Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Just for Men Touch of Gray Hair Color Kit 3-Pack for $10 w/ Sub & Save + free shipping w/ Prime",
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/Just-for-Men-Touch-of-Gray-Hair-Color-Kit-3-Pack-for-10-w-Sub-Save-free-shipping-w-Prime/22031242.html",
@@ -46,23 +60,16 @@
         "url": "https://www.nbcnews.com/world/iran/iran-rejects-delusions-trump-strait-hormuz-us-territory-rcna592666",
         "published": "2026-08-15T10:47:14Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran seeks full control over Strait of Hormuz with new law banning US and Israeli vessels",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-strait-hormuz-control-law/",
-        "published": "2026-08-15T10:46:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US prepares new economic measures as attacks escalate in Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-sanctions-iran-strait-hormuz-attacks/",
-        "published": "2026-08-15T10:44:20Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan",
+        "published": "2026-08-15T11:30:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Links 8/15/2026",
         "source": "Nakedcapitalism.com",
@@ -89,13 +96,6 @@
         "source": "Forbes",
         "url": "https://www.forbes.com/sites/petersuciu/2026/08/14/the-us-navys-aircraft-carrier-troubles-cant-be-fixed-quickly-enough/",
         "published": "2026-08-14T17:48:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "America Cannot Protect Taiwan from China",
-        "source": "Lewrockwell.com",
-        "url": "https://www.lewrockwell.com/2026/08/martin-armstrong/america-cannot-protect-taiwan-from-china/",
-        "published": "2026-08-14T04:01:00Z",
         "sentiment": "watch"
       }
     ],
@@ -132,7 +132,7 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "yellow",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
