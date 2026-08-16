@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T08:38:09.401Z",
+    "generated_at": "2026-08-16T09:07:27.041Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,31 @@
   "news": {
     "hormuz": [
       {
+        "title": "Wahl Professional 5-Star Vapor Clipper w/ F32 Fadeout Blade for $100 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Wahl-Professional-5-Star-Vapor-Clipper-w-F32-Fadeout-Blade-for-100-free-shipping-w-Prime/22031024.html",
+        "published": "2026-08-15T08:51:23Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran defiant on Strait of Hormuz as Trump tells Americans to accept high fuel prices",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/08/15/iran-defiant-on-strait-of-hormuz-as-trump-tells-americans-to-accept-high-fuel-prices/",
+        "published": "2026-08-15T08:43:47Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Tehran says Strait of Hormuz will 'remain Iranian' after Trump claims it will soon be US territory",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/trump-says-strait-of-hormuz-us-territory-7132035-Aug2026/",
+        "published": "2026-08-15T08:39:31Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran fires back at Trump’s threat to declare Hormuz a US territory",
         "source": "Vanguard",
         "url": "https://www.vanguardngr.com/2026/08/iran-fires-back-at-trumps-threat-to-declare-hormuz-a-us-territory/",
         "published": "2026-08-15T08:12:17Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran calls on US to accept defeat over Strait of Hormuz",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/2026/0815/1587983-iran-us-war/",
-        "published": "2026-08-15T07:46:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump says brace for fuel price rise amid Iran deadlock",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/0815/1587983-iran-us-war/",
-        "published": "2026-08-15T07:46:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Israeli strike kills 7 in Lebanon, and other news from the Middle East",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/iran-israel-lebanon-uae-us-hormuz-august-15-2026-ba738b9fb8803f28313a19df8bbcac19",
-        "published": "2026-08-15T07:31:45Z",
         "sentiment": "danger"
       }
     ],
