@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T21:00:17.416Z",
+    "generated_at": "2026-08-16T21:30:32.892Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran fires anti-ship missiles from Qeshm Island toward Gulf of Oman",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-anti-ship-missiles-qeshm-gulf-oman/",
+        "published": "2026-08-15T21:29:04Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran’s IRGC fires again toward the Strait of Hormuz as tanker incidents mount",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/irgc-fires-strait-of-hormuz-tanker-incidents/",
+        "published": "2026-08-15T21:23:07Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran’s islamic revolutionary guard corps fires toward Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/irans-islamic-revolutionary-guard-corps-fires-toward-strait-of-hormuz/",
+        "published": "2026-08-15T21:20:45Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Iran slams Trump’s threat to declare Hormuz US territory",
         "source": "The Punch",
         "url": "https://punchng.com/iran-slams-trumps-threat-to-declare-hormuz-us-territory/",
@@ -38,27 +59,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/trump-gas-prices-iran-strait-hormuz/",
         "published": "2026-08-15T20:05:04Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "UAE Says Iran Attacked Another ADNOC Vessel In Hormuz",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/uae-says-iran-attacked-another-adnoc-vessel-in-hormuz/",
-        "published": "2026-08-15T19:25:07Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "'Arctic Express' Cargo Route From China to UK Kicks Off",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/394704/arctic-express-cargo-route-from-china-to-uk-kicks-off.html",
-        "published": "2026-08-15T18:51:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Australia is spending billions on fuel security. What if some of that went to electric trucks?",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-08-16/how-much-might-it-cost-to-electrify-road-freight/106956614",
-        "published": "2026-08-15T18:40:53Z",
         "sentiment": "watch"
       }
     ],
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
