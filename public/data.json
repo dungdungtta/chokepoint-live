@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T01:48:42.638Z",
+    "generated_at": "2026-08-16T03:07:06.713Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -25,80 +25,8 @@
     }
   },
   "news": {
-    "hormuz": [
-      {
-        "title": "Will declare Hormuz 'US territory' after defeating Iran: Trump",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/will-declare-hormuz-us-territory-after-defeating-iran-trump/articleshow/133253855.cms",
-        "published": "2026-08-15T01:39:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "UAE's ADNOC says one of its vessels came under attack while transiting Hormuz",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/uaes-adnoc-says-one-of-its-vessels-came-under-attack-while-transiting-hormuz/articleshow/133253801.cms",
-        "published": "2026-08-15T01:30:56Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump Says U.S. Will Declare Strait of Hormuz ‘U.S. Territory’ — ‘After We Finish Defeating Iran’",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/08/14/trump-declare-strait-hormuz-u-s-territory-finish-defeating-iran/",
-        "published": "2026-08-15T00:24:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Somali Piracy Surges Amid Hormuz Blockade",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Somali-Piracy-Surges-Amid-Hormuz-Blockade.html",
-        "published": "2026-08-15T00:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "1963 Chevrolet Corvette Split-Window Coupe L84 327/360 Fuelie 4-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1963-chevrolet-corvette-coupe-239/",
-        "published": "2026-08-14T23:40:13Z",
-        "sentiment": "watch"
-      }
-    ],
-    "taiwan": [
-      {
-        "title": "Trump’s Flurry of National Security Policies",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/08/14/trump-drone-tariffs-cyber-memo-zambia-election/",
-        "published": "2026-08-14T20:17:46Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The US Navy’s Aircraft Carrier Troubles Can’t Be Fixed Quickly Enough",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/petersuciu/2026/08/14/the-us-navys-aircraft-carrier-troubles-cant-be-fixed-quickly-enough/",
-        "published": "2026-08-14T17:48:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "America Cannot Protect Taiwan from China",
-        "source": "Lewrockwell.com",
-        "url": "https://www.lewrockwell.com/2026/08/martin-armstrong/america-cannot-protect-taiwan-from-china/",
-        "published": "2026-08-14T04:01:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan’s ‘White Wolf’ leads lonely crusade to ‘reunify’ with China",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/14/taiwans-white-wolf-leads-lonely-crusade-to-reunify-with-china",
-        "published": "2026-08-14T01:43:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "AIT Shows Deepening Taiwan-US Ties",
-        "source": "Taipei Times",
-        "url": "https://www.taipeitimes.com/News/editorials/archives/2026/08/14/2003862453",
-        "published": "2026-08-14T00:00:00Z",
-        "sentiment": "watch"
-      }
-    ],
+    "hormuz": [],
+    "taiwan": [],
     "malacca": []
   },
   "zones": {
