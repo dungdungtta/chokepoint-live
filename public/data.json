@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T13:37:20.466Z",
+    "generated_at": "2026-08-16T14:01:22.967Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Exclusive | Iran’s control of Strait of Hormuz has disrupted US calculations: Official",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/exclusive-irans-control-of-strait-of-hormuz-has-disrupted-us-calculations/",
+        "published": "2026-08-15T13:57:56Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US Promises 'Unprecedented' Economic Isolation Of Iran. What Could That Mean?",
         "source": "Radio Free Europe/ Radio Liberty",
         "url": "https://www.rferl.org/a/iran-us-economic-isolation-sanctions-pressure/33830630.html",
@@ -46,13 +53,6 @@
         "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260815-rferl03.htm",
         "published": "2026-08-15T12:00:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "US Promises 'Unprecedented' Economic Isolation Of Iran. What Could That Mean?",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260815-rferl01.htm",
-        "published": "2026-08-15T12:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
