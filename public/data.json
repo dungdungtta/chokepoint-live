@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T16:36:43.402Z",
+    "generated_at": "2026-08-16T17:01:50.469Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -28,6 +28,13 @@
     "hormuz": [
       {
         "title": "Iran, Oman home in on Hormuz Strait deal as ship attacks mount",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/iran-oman-home-in-on-hormuz-strait-deal-as-ship-attacks-mount/articleshow/133265965.cms",
+        "published": "2026-08-15T16:57:28Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran, Oman home in on Hormuz Strait deal as ship attacks mount",
         "source": "Fortune",
         "url": "https://fortune.com/2026/08/15/iran-oman-hormuz-strait-deal-shipping-map-routes-attacks/",
         "published": "2026-08-15T15:16:40Z",
@@ -53,13 +60,6 @@
         "url": "https://www.albawaba.com/business/washington-coming-irans-wallet-1635084",
         "published": "2026-08-15T14:21:50Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran, Oman edge closer to Hormuz shipping routes deal as war continues",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/iran-oman-edge-closer-to-hormuz-shipping-routes-deal-as-war-continues-126081501311_1.html",
-        "published": "2026-08-15T14:03:41Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
