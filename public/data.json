@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T18:41:19.087Z",
+    "generated_at": "2026-08-16T19:05:36.034Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "'Arctic Express' Cargo Route From China to UK Kicks Off",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/394704/arctic-express-cargo-route-from-china-to-uk-kicks-off.html",
+        "published": "2026-08-15T18:51:40Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Australia is spending billions on fuel security. What if some of that went to electric trucks?",
         "source": "ABC News (AU)",
@@ -53,13 +60,6 @@
         "url": "https://economictimes.indiatimes.com/news/defence/iran-fires-back-at-trumps-threat-to-declare-hormuz-a-u-s-territory/articleshow/133266564.cms",
         "published": "2026-08-15T17:55:12Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Trump Tells Americans To Accept High Gas Prices As Iran Remains Defiant On Strait Of Hormuz",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/trump-tells-americans-to-accept-high-gas-prices-as-iran-remains-defiant-on-strait-of-hormuz_n_6a8099aee4b05886dff51fac",
-        "published": "2026-08-15T17:04:42Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
