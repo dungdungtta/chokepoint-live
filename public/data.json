@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T19:57:25.910Z",
+    "generated_at": "2026-08-16T20:32:22.313Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Trump tells Americans to accept higher gas prices as the cost of restraining Iran",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-gas-prices-iran-strait-hormuz/",
+        "published": "2026-08-15T20:05:04Z",
+        "sentiment": "watch"
+      },
       {
         "title": "UAE Says Iran Attacked Another ADNOC Vessel In Hormuz",
         "source": "gcaptain.com",
@@ -53,13 +60,6 @@
         "url": "https://www.snopes.com/collections/iran-war-strait-of-hormuz/",
         "published": "2026-08-15T18:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Hormuz ship attacks mount as US vows to cripple Iran economy",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/hormuz-ship-attacks-mount-as-us-vows-to-cripple-iran-economy/articleshow/133266552.cms",
-        "published": "2026-08-15T17:55:27Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
