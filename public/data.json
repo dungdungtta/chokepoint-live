@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T07:00:55.657Z",
+    "generated_at": "2026-08-16T07:46:36.378Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -25,9 +25,103 @@
     }
   },
   "news": {
-    "hormuz": [],
-    "taiwan": [],
-    "malacca": []
+    "hormuz": [
+      {
+        "title": "Israeli strike kills 7 in Lebanon, and other news from the Middle East",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/iran-israel-lebanon-uae-us-hormuz-august-15-2026-ba738b9fb8803f28313a19df8bbcac19",
+        "published": "2026-08-15T07:31:45Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran says Hormuz ‘will remain Iranian’ after Trump threats",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/iran-says-hormuz-will-remain-iranian-after-trump-threats-225647",
+        "published": "2026-08-15T07:30:28Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Avtar Steel files IPO papers with SEBI; aims to raise ₹585 crore",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/avtar-steel-files-ipo-papers-with-sebi-aims-to-raise-585-crore/article71348739.ece",
+        "published": "2026-08-15T06:31:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Vessel struck by projectile in high-tension zone, crew unharmed: UKMTO",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/vessel-struck-by-projectile-in-high-tension-zone-crew-unharmed-ukmto/",
+        "published": "2026-08-15T06:17:40Z",
+        "sentiment": "watch"
+      }
+    ],
+    "taiwan": [
+      {
+        "title": "Taiwan passes defence budget after record delay, retains drone funding",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding",
+        "published": "2026-08-15T04:44:14Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump’s Flurry of National Security Policies",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/08/14/trump-drone-tariffs-cyber-memo-zambia-election/",
+        "published": "2026-08-14T20:17:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The US Navy’s Aircraft Carrier Troubles Can’t Be Fixed Quickly Enough",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/petersuciu/2026/08/14/the-us-navys-aircraft-carrier-troubles-cant-be-fixed-quickly-enough/",
+        "published": "2026-08-14T17:48:48Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "America Cannot Protect Taiwan from China",
+        "source": "Lewrockwell.com",
+        "url": "https://www.lewrockwell.com/2026/08/martin-armstrong/america-cannot-protect-taiwan-from-china/",
+        "published": "2026-08-14T04:01:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan’s ‘White Wolf’ leads lonely crusade to ‘reunify’ with China",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/14/taiwans-white-wolf-leads-lonely-crusade-to-reunify-with-china",
+        "published": "2026-08-14T01:43:08Z",
+        "sentiment": "watch"
+      }
+    ],
+    "malacca": [
+      {
+        "title": "Ships stuck in the Strait of Hormuz region may be biosecurity risks when they leave. What can we do?",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/ships-stuck-in-the-strait-of-hormuz-region-may-be-biosecurity-risks-when-they-leave-what-can-we-do-288551",
+        "published": "2026-08-07T02:30:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Strait of Malacca: The Indo-Pacific’s Most Critical Chokepoint?",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/07/the-strait-of-malacca-the-indo-pacifics-most-critical-chokepoint/",
+        "published": "2026-07-27T17:27:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "AI-Powered Vessel Traffic Management Advances Maritime Safety, Port Efficiency and Collision Risk Prediction",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/07/20/3329567/28124/en/AI-Powered-Vessel-Traffic-Management-Advances-Maritime-Safety-Port-Efficiency-and-Collision-Risk-Prediction.html",
+        "published": "2026-07-20T10:21:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Talks for release of 3 ships held by Somali pirates in advanced stage: Sources",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/talks-for-release-of-3-ships-held-by-somali-pirates-in-advanced-stage-sources/articleshow/132433123.cms",
+        "published": "2026-07-16T07:51:52Z",
+        "sentiment": "neutral"
+      }
+    ]
   },
   "zones": {
     "hormuz": "amber",
