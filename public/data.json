@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T17:01:50.469Z",
+    "generated_at": "2026-08-16T17:35:46.050Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump Tells Americans To Accept High Gas Prices As Iran Remains Defiant On Strait Of Hormuz",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/trump-tells-americans-to-accept-high-gas-prices-as-iran-remains-defiant-on-strait-of-hormuz_n_6a8099aee4b05886dff51fac",
+        "published": "2026-08-15T17:04:42Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran, Oman home in on Hormuz Strait deal as ship attacks mount",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/defence/iran-oman-home-in-on-hormuz-strait-deal-as-ship-attacks-mount/articleshow/133265965.cms",
@@ -52,13 +59,6 @@
         "source": "The Daily Caller",
         "url": "https://dailycaller.com/2026/08/15/china-shipping-route-arctic-sea-legend-line",
         "published": "2026-08-15T15:02:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Washington is coming for Iran's wallet | Al Bawaba",
-        "source": "Al-Bawaba",
-        "url": "https://www.albawaba.com/business/washington-coming-irans-wallet-1635084",
-        "published": "2026-08-15T14:21:50Z",
         "sentiment": "watch"
       }
     ],
