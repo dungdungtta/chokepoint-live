@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T21:57:45.404Z",
+    "generated_at": "2026-08-16T22:30:46.349Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "1965 Chevrolet Chevelle Malibu SS Coupe 4-Speed at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1965-chevrolet-chevelle-malibu-ss-79/",
+        "published": "2026-08-15T22:00:23Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Saudi Arabia launches maritime coalition amid escalation in Yemen",
         "source": "RT",
         "url": "https://www.rt.com/news/644292-saudi-arabia-launches-maritime-coalition/",
@@ -52,13 +59,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/iran-anti-ship-missiles-qeshm-gulf-oman/",
         "published": "2026-08-15T21:29:04Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran’s IRGC fires again toward the Strait of Hormuz as tanker incidents mount",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/irgc-fires-strait-of-hormuz-tanker-incidents/",
-        "published": "2026-08-15T21:23:07Z",
         "sentiment": "danger"
       }
     ],
