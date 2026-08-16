@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T15:01:22.861Z",
+    "generated_at": "2026-08-16T15:38:25.760Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran, Oman home in on Hormuz Strait deal as ship attacks mount",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/08/15/iran-oman-hormuz-strait-deal-shipping-map-routes-attacks/",
+        "published": "2026-08-15T15:16:40Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Empty LPG Tanker Pays Record $4.6 Million to Jump Panama Canal Queue Amid Iran War",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/record-bid-panama-canal-congestion-iran-conflict-1874101",
+        "published": "2026-08-15T15:07:31Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Beijing’s Voyage Through Frozen Waters Could Change Shipping Forever",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/08/15/china-shipping-route-arctic-sea-legend-line",
+        "published": "2026-08-15T15:02:16Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Washington is coming for Iran's wallet | Al Bawaba",
         "source": "Al-Bawaba",
         "url": "https://www.albawaba.com/business/washington-coming-irans-wallet-1635084",
@@ -39,30 +60,16 @@
         "url": "https://www.business-standard.com/world-news/iran-oman-edge-closer-to-hormuz-shipping-routes-deal-as-war-continues-126081501311_1.html",
         "published": "2026-08-15T14:03:41Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Exclusive | Iran’s control of Strait of Hormuz has disrupted US calculations: Official",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/exclusive-irans-control-of-strait-of-hormuz-has-disrupted-us-calculations/",
-        "published": "2026-08-15T13:57:56Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Promises 'Unprecedented' Economic Isolation Of Iran. What Could That Mean?",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/iran-us-economic-isolation-sanctions-pressure/33830630.html",
-        "published": "2026-08-15T12:57:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Vessel attacked in Hormuz, Israeli strikes kill 9 in southern Lebanon",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/vessel-attacked-in-hormuz-israeli-strikes-kill-9-in-southern-lebanon-126081501220_1.html",
-        "published": "2026-08-15T12:56:34Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Beijing’s Voyage Through Frozen Waters Could Change Shipping Forever",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/08/15/china-shipping-route-arctic-sea-legend-line",
+        "published": "2026-08-15T15:02:16Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
         "source": "Al Jazeera English",
@@ -89,13 +96,6 @@
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/08/14/trump-drone-tariffs-cyber-memo-zambia-election/",
         "published": "2026-08-14T20:17:46Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The US Navy’s Aircraft Carrier Troubles Can’t Be Fixed Quickly Enough",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/petersuciu/2026/08/14/the-us-navys-aircraft-carrier-troubles-cant-be-fixed-quickly-enough/",
-        "published": "2026-08-14T17:48:48Z",
         "sentiment": "watch"
       }
     ],
@@ -131,7 +131,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
