@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T17:35:46.050Z",
+    "generated_at": "2026-08-16T17:58:11.051Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Hormuz ship attacks mount as US vows to cripple Iran economy",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/hormuz-ship-attacks-mount-as-us-vows-to-cripple-iran-economy/articleshow/133266552.cms",
+        "published": "2026-08-15T17:55:27Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran fires back at Trump's threat to declare Hormuz a U.S. territory",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/iran-fires-back-at-trumps-threat-to-declare-hormuz-a-u-s-territory/articleshow/133266564.cms",
+        "published": "2026-08-15T17:55:12Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Trump Tells Americans To Accept High Gas Prices As Iran Remains Defiant On Strait Of Hormuz",
         "source": "HuffPost",
         "url": "https://www.huffpost.com/entry/trump-tells-americans-to-accept-high-gas-prices-as-iran-remains-defiant-on-strait-of-hormuz_n_6a8099aee4b05886dff51fac",
@@ -46,23 +60,16 @@
         "url": "https://fortune.com/2026/08/15/iran-oman-hormuz-strait-deal-shipping-map-routes-attacks/",
         "published": "2026-08-15T15:16:40Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Empty LPG Tanker Pays Record $4.6 Million to Jump Panama Canal Queue Amid Iran War",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/record-bid-panama-canal-congestion-iran-conflict-1874101",
-        "published": "2026-08-15T15:07:31Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Beijing’s Voyage Through Frozen Waters Could Change Shipping Forever",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/08/15/china-shipping-route-arctic-sea-legend-line",
-        "published": "2026-08-15T15:02:16Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east",
+        "published": "2026-08-15T17:49:42Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Beijing’s Voyage Through Frozen Waters Could Change Shipping Forever",
         "source": "The Daily Caller",
@@ -89,13 +96,6 @@
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding",
         "published": "2026-08-15T04:44:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump’s Flurry of National Security Policies",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/08/14/trump-drone-tariffs-cyber-memo-zambia-election/",
-        "published": "2026-08-14T20:17:46Z",
         "sentiment": "watch"
       }
     ],
