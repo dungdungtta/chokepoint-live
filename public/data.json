@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T12:56:09.729Z",
+    "generated_at": "2026-08-16T13:37:20.466Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "US Promises 'Unprecedented' Economic Isolation Of Iran. What Could That Mean?",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/iran-us-economic-isolation-sanctions-pressure/33830630.html",
+        "published": "2026-08-15T12:57:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Vessel attacked in Hormuz, Israeli strikes kill 9 in southern Lebanon",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/vessel-attacked-in-hormuz-israeli-strikes-kill-9-in-southern-lebanon-126081501220_1.html",
+        "published": "2026-08-15T12:56:34Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Yemen Government Says Houthi Strike On Red Sea Port Kills 4",
         "source": "Globalsecurity.org",
         "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260815-rferl03.htm",
@@ -39,20 +53,6 @@
         "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260815-rferl01.htm",
         "published": "2026-08-15T12:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran attacked state oil company vessel in Hormuz strait, says UAE",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/08/iran-attacked-state-oil-company-vessel-in-hormuz-strait-says-uae/",
-        "published": "2026-08-15T11:37:37Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "UAE oil giant says vessel attacked in Hormuz strait",
-        "source": "The Punch",
-        "url": "https://punchng.com/uae-oil-giant-says-vessel-attacked-in-hormuz-strait/",
-        "published": "2026-08-15T11:07:45Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -124,7 +124,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
