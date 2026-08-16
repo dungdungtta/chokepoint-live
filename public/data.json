@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T23:51:39.341Z",
+    "generated_at": "2026-08-16T01:48:42.638Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "Will declare Hormuz 'US territory' after defeating Iran: Trump",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/will-declare-hormuz-us-territory-after-defeating-iran-trump/articleshow/133253855.cms",
+        "published": "2026-08-15T01:39:26Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "UAE's ADNOC says one of its vessels came under attack while transiting Hormuz",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/uaes-adnoc-says-one-of-its-vessels-came-under-attack-while-transiting-hormuz/articleshow/133253801.cms",
+        "published": "2026-08-15T01:30:56Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump Says U.S. Will Declare Strait of Hormuz ‘U.S. Territory’ — ‘After We Finish Defeating Iran’",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/08/14/trump-declare-strait-hormuz-u-s-territory-finish-defeating-iran/",
+        "published": "2026-08-15T00:24:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Somali Piracy Surges Amid Hormuz Blockade",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Somali-Piracy-Surges-Amid-Hormuz-Blockade.html",
+        "published": "2026-08-15T00:00:00Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "1963 Chevrolet Corvette Split-Window Coupe L84 327/360 Fuelie 4-Speed",
         "source": "Bringatrailer.com",
         "url": "https://bringatrailer.com/listing/1963-chevrolet-corvette-coupe-239/",
         "published": "2026-08-14T23:40:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "We will not allow Iran march toward a nuclear weapon — Vance",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/08/we-will-not-allow-iran-march-toward-a-nuclear-weapon-vance/",
-        "published": "2026-08-14T23:40:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump says US may take control of Strait of Hormuz",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/08/trump-says-us-may-take-control-of-strait-of-hormuz/",
-        "published": "2026-08-14T22:55:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "'The Strait will remain Iranian': Iran unfazed by Trump’s threat to claim Hormuz",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/431731",
-        "published": "2026-08-14T22:11:09Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Victoria Cast Iron 12\" Tawa Dosa Pan for $24 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Victoria-Cast-Iron-12-Tawa-Dosa-Pan-for-24-free-shipping-w-Prime/22025914.html",
-        "published": "2026-08-14T21:53:19Z",
         "sentiment": "watch"
       }
     ],
@@ -99,36 +99,7 @@
         "sentiment": "watch"
       }
     ],
-    "malacca": [
-      {
-        "title": "Ships stuck in the Strait of Hormuz region may be biosecurity risks when they leave. What can we do?",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/ships-stuck-in-the-strait-of-hormuz-region-may-be-biosecurity-risks-when-they-leave-what-can-we-do-288551",
-        "published": "2026-08-07T02:30:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Strait of Malacca: The Indo-Pacific’s Most Critical Chokepoint?",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/07/the-strait-of-malacca-the-indo-pacifics-most-critical-chokepoint/",
-        "published": "2026-07-27T17:27:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "AI-Powered Vessel Traffic Management Advances Maritime Safety, Port Efficiency and Collision Risk Prediction",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/07/20/3329567/28124/en/AI-Powered-Vessel-Traffic-Management-Advances-Maritime-Safety-Port-Efficiency-and-Collision-Risk-Prediction.html",
-        "published": "2026-07-20T10:21:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Talks for release of 3 ships held by Somali pirates in advanced stage: Sources",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/talks-for-release-of-3-ships-held-by-somali-pirates-in-advanced-stage-sources/articleshow/132433123.cms",
-        "published": "2026-07-16T07:51:52Z",
-        "sentiment": "neutral"
-      }
-    ]
+    "malacca": []
   },
   "zones": {
     "hormuz": "amber",
