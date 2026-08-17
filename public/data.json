@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T06:22:44.971Z",
+    "generated_at": "2026-08-17T07:34:24.424Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -52,13 +52,6 @@
         "source": "Forbes",
         "url": "https://www.forbes.com/sites/carolinereid/2026/08/15/the-356-billion-driving-force-behind-disneys-next-theme-park/",
         "published": "2026-08-16T02:39:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "1965 Chevrolet Chevelle Malibu SS Coupe 4-Speed at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1965-chevrolet-chevelle-malibu-ss-79/",
-        "published": "2026-08-15T22:00:23Z",
         "sentiment": "watch"
       }
     ],
