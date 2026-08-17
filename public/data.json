@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T11:43:10.735Z",
+    "generated_at": "2026-08-17T12:02:28.898Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -25,13 +25,100 @@
     }
   },
   "news": {
-    "hormuz": [],
-    "taiwan": [],
-    "malacca": []
+    "hormuz": [
+      {
+        "title": "‘Limited options’ for many Iranians as war with US chokes economy",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy",
+        "published": "2026-08-16T11:38:50Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "A new ‘NATO of the East?’ Why the Mecca pact isn’t quite what it seems",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/a-new-nato-of-the-east-why-the-mecca-pact-isnt-quite-what-it-seems-289371",
+        "published": "2026-08-16T11:32:48Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Links 8/16/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/links-8-16-2026.html",
+        "published": "2026-08-16T10:55:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump wants more economic pressure on Iran. What are his options?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-wants-more-economic-pressure-on-iran-what-are-his-options/articleshow/133273712.cms",
+        "published": "2026-08-16T10:47:56Z",
+        "sentiment": "watch"
+      }
+    ],
+    "taiwan": [
+      {
+        "title": "Taiwan detects 11 Chinese aircraft, eight naval vessels operating near its territory",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/taiwan-detects-11-chinese-aircraft-eight-naval-vessels-operating-near-its-territory/articleshow/133268729.cms",
+        "published": "2026-08-16T01:27:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east",
+        "published": "2026-08-15T17:49:42Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Beijing’s Voyage Through Frozen Waters Could Change Shipping Forever",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/08/15/china-shipping-route-arctic-sea-legend-line",
+        "published": "2026-08-15T15:02:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan",
+        "published": "2026-08-15T11:30:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Links 8/15/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/links-8-15-2026.html",
+        "published": "2026-08-15T10:55:23Z",
+        "sentiment": "watch"
+      }
+    ],
+    "malacca": [
+      {
+        "title": "Ships stuck in the Strait of Hormuz region may be biosecurity risks when they leave. What can we do?",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/ships-stuck-in-the-strait-of-hormuz-region-may-be-biosecurity-risks-when-they-leave-what-can-we-do-288551",
+        "published": "2026-08-07T02:30:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Strait of Malacca: The Indo-Pacific’s Most Critical Chokepoint?",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/07/the-strait-of-malacca-the-indo-pacifics-most-critical-chokepoint/",
+        "published": "2026-07-27T17:27:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "AI-Powered Vessel Traffic Management Advances Maritime Safety, Port Efficiency and Collision Risk Prediction",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/07/20/3329567/28124/en/AI-Powered-Vessel-Traffic-Management-Advances-Maritime-Safety-Port-Efficiency-and-Collision-Risk-Prediction.html",
+        "published": "2026-07-20T10:21:00Z",
+        "sentiment": "watch"
+      }
+    ]
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "yellow",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
