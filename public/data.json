@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T20:09:08.085Z",
+    "generated_at": "2026-08-17T20:45:45.528Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "US-Iran MoU is set to expire: What to know",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know",
+        "published": "2026-08-16T20:28:21Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Turkey calls for reopening of Strait of Hormuz to resume global oil flows",
         "source": "Crypto Briefing",
