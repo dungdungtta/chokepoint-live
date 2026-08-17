@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T18:13:58.426Z",
+    "generated_at": "2026-08-17T19:01:57.691Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -18,14 +18,26 @@
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
-      "price_index": 15.09,
-      "change_pct": -6.6,
-      "date": "2026-06-01",
-      "unit": "USD/MMBtu (EU nat-gas proxy)"
+      "price_index": null,
+      "unit": "proxy"
     }
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Oil Majors Reap $93 Billion Windfall From the Iran War",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/oil-majors-reap-93-billion-190000461.html",
+        "published": "2026-08-16T19:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Israel strikes Lebanon again, 11 dead; Iran still defiant on Hormuz control",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/israel-strikes-lebanon-again-11-dead-iran-still-defiant-on-hormuz-control-126081700004_1.html",
+        "published": "2026-08-16T18:40:44Z",
+        "sentiment": "danger"
+      },
       {
         "title": "CENTCOM chief visits USS Lincoln troops after complaints of food shortages and mental health issues",
         "source": "Gingermag.pp.ua",
@@ -38,20 +50,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/hengli-group-sanctioned-iranian-crude-oil/",
         "published": "2026-08-16T13:42:32Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Wants More Economic Pressure On Iran. What Are His Options?",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/trump-iran-economic-pressure_n_6a81b56de4b0b3bc96f6d503",
-        "published": "2026-08-16T13:10:07Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "A New Game of Monopoly: Middle Eastern Pipelines Cannot Replace the Strait of Hormuz",
-        "source": "Fair Observer",
-        "url": "https://www.fairobserver.com/economics/a-new-game-of-monopoly-middle-eastern-pipelines-cannot-replace-the-strait-of-hormuz/",
-        "published": "2026-08-16T13:06:26Z",
         "sentiment": "watch"
       }
     ],
