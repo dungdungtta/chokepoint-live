@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T09:59:26.975Z",
+    "generated_at": "2026-08-17T10:43:37.242Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -25,36 +25,7 @@
     }
   },
   "news": {
-    "hormuz": [
-      {
-        "title": "Africa's low-key high-stakes Strait of Hormuz diplomacy",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/africas-low-key-high-stakes-strait-of-hormuz-diplomacy/a-78376699",
-        "published": "2026-08-16T05:31:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trapped with 23 crew and 110,000 tonnes of oil: Indian captain recounts 75 days stranded in Iran war",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/india/trapped-with-23-crew-and-110000-tonnes-of-oil-indian-captain-recounts-75-days-stranded-in-iran-war/articleshow/133269576.cms",
-        "published": "2026-08-16T04:10:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Smart Tugs And Trucks That Don’t Sleep. Automation Rewires US Transport",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/smart-tugs-and-trucks-that-dont-sleep-automation-rewires-us-transport/",
-        "published": "2026-08-16T04:03:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The $35.6 Billion Driving Force Behind Disney's Next Theme Park",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/carolinereid/2026/08/15/the-356-billion-driving-force-behind-disneys-next-theme-park/",
-        "published": "2026-08-16T02:39:38Z",
-        "sentiment": "watch"
-      }
-    ],
+    "hormuz": [],
     "taiwan": [],
     "malacca": []
   },
