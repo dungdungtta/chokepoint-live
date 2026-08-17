@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T03:06:48.443Z",
+    "generated_at": "2026-08-17T04:04:32.746Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Smart Tugs And Trucks That Don’t Sleep. Automation Rewires US Transport",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/smart-tugs-and-trucks-that-dont-sleep-automation-rewires-us-transport/",
+        "published": "2026-08-16T04:03:49Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The $35.6 Billion Driving Force Behind Disney's Next Theme Park",
         "source": "Forbes",
@@ -53,13 +60,6 @@
         "url": "https://bringatrailer.com/listing/1977-honda-cb400f-super-sport-8/",
         "published": "2026-08-15T21:42:56Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Hormuz Ship Attacks Mount As US Vows To Cripple Iran Economy",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/hormuz-ship-attacks-mount-as-us-vows-to-cripple-iran-economy/",
-        "published": "2026-08-15T21:38:43Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
