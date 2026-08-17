@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T22:43:53.006Z",
+    "generated_at": "2026-08-17T23:03:54.340Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Most Gulf bourses gain despite stalled Iran talks, Hormuz disruption - Reuters",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185007904",
+        "published": "2026-08-16T22:52:58Z",
+        "sentiment": "neutral"
+      },
+      {
         "title": "US-Iran MoU is set to expire: What to know",
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know",
@@ -52,13 +59,6 @@
         "source": "Yahoo Entertainment",
         "url": "https://finance.yahoo.com/energy/articles/oil-majors-reap-93-billion-190000461.html",
         "published": "2026-08-16T19:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Israel strikes Lebanon again, 11 dead; Iran still defiant on Hormuz control",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/israel-strikes-lebanon-again-11-dead-iran-still-defiant-on-hormuz-control-126081700004_1.html",
-        "published": "2026-08-16T18:40:44Z",
         "sentiment": "danger"
       }
     ],
