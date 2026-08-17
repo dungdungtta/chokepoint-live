@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T04:59:52.854Z",
+    "generated_at": "2026-08-17T05:44:59.904Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Africa's low-key high-stakes Strait of Hormuz diplomacy",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/africas-low-key-high-stakes-strait-of-hormuz-diplomacy/a-78376699",
+        "published": "2026-08-16T05:31:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trapped with 23 crew and 110,000 tonnes of oil: Indian captain recounts 75 days stranded in Iran war",
         "source": "The Times of India",
@@ -53,13 +60,6 @@
         "url": "https://bringatrailer.com/listing/1965-chevrolet-chevelle-malibu-ss-79/",
         "published": "2026-08-15T22:00:23Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Arabia launches maritime coalition amid escalation in Yemen",
-        "source": "RT",
-        "url": "https://www.rt.com/news/644292-saudi-arabia-launches-maritime-coalition/",
-        "published": "2026-08-15T21:52:59Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
