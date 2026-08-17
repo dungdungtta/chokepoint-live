@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T23:51:27.923Z",
+    "generated_at": "2026-08-17T01:46:37.557Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -64,6 +64,13 @@
     ],
     "taiwan": [
       {
+        "title": "Taiwan detects 11 Chinese aircraft, eight naval vessels operating near its territory",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/taiwan-detects-11-chinese-aircraft-eight-naval-vessels-operating-near-its-territory/articleshow/133268729.cms",
+        "published": "2026-08-16T01:27:02Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east",
@@ -89,13 +96,6 @@
         "source": "Nakedcapitalism.com",
         "url": "https://www.nakedcapitalism.com/2026/08/links-8-15-2026.html",
         "published": "2026-08-15T10:55:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan passes defence budget after record delay, retains drone funding",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding",
-        "published": "2026-08-15T04:44:14Z",
         "sentiment": "watch"
       }
     ],
