@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T13:54:28.086Z",
+    "generated_at": "2026-08-17T14:35:04.633Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "CENTCOM chief visits USS Lincoln troops after complaints of food shortages and mental health issues",
+        "source": "Gingermag.pp.ua",
+        "url": "https://latest.gingermag.pp.ua/blog/centcom-chief-visits-uss-lincoln-troops-after-comp-centcom-chief-visits-uss-lincoln-134731000/",
+        "published": "2026-08-16T14:34:36Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Hengli Group named main importer of sanctioned Iranian crude oil",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/hengli-group-sanctioned-iranian-crude-oil/",
@@ -52,13 +59,6 @@
         "source": "Yahoo Entertainment",
         "url": "https://finance.yahoo.com/economy/policy/articles/serious-mistake-moodys-analytics-economist-125500943.html",
         "published": "2026-08-16T12:55:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "India works out Chabahar handover to Iran amid US sanctions",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/logistics/india-works-out-chabahar-handover-to-iran-amid-us-sanctions/article71352548.ece",
-        "published": "2026-08-16T12:50:23Z",
         "sentiment": "watch"
       }
     ],
