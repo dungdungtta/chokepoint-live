@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T12:02:28.898Z",
+    "generated_at": "2026-08-17T13:08:11.759Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "A New Game of Monopoly: Middle Eastern Pipelines Cannot Replace the Strait of Hormuz",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/economics/a-new-game-of-monopoly-middle-eastern-pipelines-cannot-replace-the-strait-of-hormuz/",
+        "published": "2026-08-16T13:06:26Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "'A serious mistake': Moody's Analytics economist says the Fed is putting the economy at risk with its silence",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/economy/policy/articles/serious-mistake-moodys-analytics-economist-125500943.html",
+        "published": "2026-08-16T12:55:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "India works out Chabahar handover to Iran amid US sanctions",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/logistics/india-works-out-chabahar-handover-to-iran-amid-us-sanctions/article71352548.ece",
+        "published": "2026-08-16T12:50:23Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Federal Reserve holds rates as divided FOMC vote fuels rate hike expectations",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/fed-rate-hike-debate-investors/",
+        "published": "2026-08-16T12:14:23Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "‘Limited options’ for many Iranians as war with US chokes economy",
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy",
         "published": "2026-08-16T11:38:50Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "A new ‘NATO of the East?’ Why the Mecca pact isn’t quite what it seems",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/a-new-nato-of-the-east-why-the-mecca-pact-isnt-quite-what-it-seems-289371",
-        "published": "2026-08-16T11:32:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Links 8/16/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/links-8-16-2026.html",
-        "published": "2026-08-16T10:55:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump wants more economic pressure on Iran. What are his options?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-wants-more-economic-pressure-on-iran-what-are-his-options/articleshow/133273712.cms",
-        "published": "2026-08-16T10:47:56Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
