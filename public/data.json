@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T19:01:57.691Z",
+    "generated_at": "2026-08-17T19:43:53.687Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -18,12 +18,28 @@
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
-      "price_index": null,
-      "unit": "proxy"
+      "price_index": 17.93,
+      "change_pct": 18.8,
+      "date": "2026-07-01",
+      "unit": "USD/MMBtu (EU nat-gas proxy)"
     }
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Turkey calls for reopening of Strait of Hormuz to resume global oil flows",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/turkey-strait-hormuz-oil-flows/",
+        "published": "2026-08-16T19:37:12Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "1986 Honda Reflex at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1986-honda-reflex-12/",
+        "published": "2026-08-16T19:30:10Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Oil Majors Reap $93 Billion Windfall From the Iran War",
         "source": "Yahoo Entertainment",
@@ -37,20 +53,6 @@
         "url": "https://www.business-standard.com/world-news/israel-strikes-lebanon-again-11-dead-iran-still-defiant-on-hormuz-control-126081700004_1.html",
         "published": "2026-08-16T18:40:44Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "CENTCOM chief visits USS Lincoln troops after complaints of food shortages and mental health issues",
-        "source": "Gingermag.pp.ua",
-        "url": "https://latest.gingermag.pp.ua/blog/centcom-chief-visits-uss-lincoln-troops-after-comp-centcom-chief-visits-uss-lincoln-134731000/",
-        "published": "2026-08-16T14:34:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hengli Group named main importer of sanctioned Iranian crude oil",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/hengli-group-sanctioned-iranian-crude-oil/",
-        "published": "2026-08-16T13:42:32Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
