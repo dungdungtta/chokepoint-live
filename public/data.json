@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T04:04:32.746Z",
+    "generated_at": "2026-08-17T04:59:52.854Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Trapped with 23 crew and 110,000 tonnes of oil: Indian captain recounts 75 days stranded in Iran war",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/india/trapped-with-23-crew-and-110000-tonnes-of-oil-indian-captain-recounts-75-days-stranded-in-iran-war/articleshow/133269576.cms",
+        "published": "2026-08-16T04:10:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Smart Tugs And Trucks That Don’t Sleep. Automation Rewires US Transport",
         "source": "gcaptain.com",
@@ -53,13 +60,6 @@
         "url": "https://www.rt.com/news/644292-saudi-arabia-launches-maritime-coalition/",
         "published": "2026-08-15T21:52:59Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "1977 Honda CB400F Super Sport",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1977-honda-cb400f-super-sport-8/",
-        "published": "2026-08-15T21:42:56Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
