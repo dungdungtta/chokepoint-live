@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T16:01:49.429Z",
+    "generated_at": "2026-08-17T16:47:19.253Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -52,13 +52,6 @@
         "source": "Fair Observer",
         "url": "https://www.fairobserver.com/economics/a-new-game-of-monopoly-middle-eastern-pipelines-cannot-replace-the-strait-of-hormuz/",
         "published": "2026-08-16T13:06:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "'A serious mistake': Moody's Analytics economist says the Fed is putting the economy at risk with its silence",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/economy/policy/articles/serious-mistake-moodys-analytics-economist-125500943.html",
-        "published": "2026-08-16T12:55:00Z",
         "sentiment": "watch"
       }
     ],
