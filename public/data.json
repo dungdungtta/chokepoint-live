@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T04:45:57.800Z",
+    "generated_at": "2026-08-18T05:35:38.315Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Sensex slides 433 pts; PSU bank decline for 3rd day",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/capital-market-news/sensex-slides-433-pts-psu-bank-decline-for-3rd-day-126081700279_1.html",
+        "published": "2026-08-17T05:20:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Japanese automakers vulnerable to one-two punch of Iran war, yen rally",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/17/japanese-automakers-vulnerable-iran-war-yen-rally.html",
+        "published": "2026-08-17T05:18:44Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Brent crude futures edge higher despite continued uncertainty in West Asia",
         "source": "BusinessLine",
         "url": "https://www.thehindubusinessline.com/markets/commodities/brent-crude-futures-edge-higher-despite-continued-uncertainty-in-west-asia/article71354895.ece",
@@ -38,20 +52,6 @@
         "source": "Protothema.gr",
         "url": "https://en.protothema.gr/2026/08/17/iranian-general-threatens-washington-over-strait-of-hormuz-claim-offers-30k-reward-per-us-soldier/",
         "published": "2026-08-17T04:27:14Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Ukraine takes aim at Russia’s economy and morale by attacking online retailer",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/ukraine-takes-aim-russias-economy-morale-attacking-online-135699593",
-        "published": "2026-08-17T04:18:28Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Ukraine takes aim at Russia’s economy and morale by attacking online retailer",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/ukraine-takes-aim-russias-economy-morale-attacking-online-135699592",
-        "published": "2026-08-17T04:14:33Z",
         "sentiment": "danger"
       }
     ],
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
