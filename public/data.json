@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T21:02:18.214Z",
+    "generated_at": "2026-08-18T21:40:52.816Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "Finish Jet-Dry Dishwasher Rinse Aid 8.45 oz. for $2.75 via Sub & Save + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Finish-Jet-Dry-Dishwasher-Rinse-Aid-8-45-oz-for-2-75-via-Sub-Save-free-shipping-w-Prime/22046316.html",
+        "published": "2026-08-17T21:31:53Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran says 60-day peace deal window expired with ‘absolutely no progress’ as US rejects extension",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-us-peace-deal-expires/",
+        "published": "2026-08-17T21:17:21Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Vitol increases control over East Africa fuel supplies amid Iran crisis: Bloomberg",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/vitol-increases-control-over-east-africa-fuel-supplies-amid-iran-crisis/",
+        "published": "2026-08-17T21:12:47Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump rules out extending Iran framework agreement",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/431850",
+        "published": "2026-08-17T21:10:13Z",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Why Libya’s Next Oil Pipeline Could Be a Geopolitical Game-Changer",
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Energy/Crude-Oil/Why-Libyas-Next-Oil-Pipeline-Could-Be-a-Geopolitical-Game-Changer.html",
         "published": "2026-08-17T21:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump threatens to bomb Oman if it 'gets in the way' with Iran",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/iran-us-conflict-trump-oman-9.7310060",
-        "published": "2026-08-17T20:40:51Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices rise amid Iran conflict and Strait of Hormuz shipping constraints",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-prices-rise-amid-iran-conflict-and-strait-of-hormuz-shipping-constraints/",
-        "published": "2026-08-17T20:29:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump says Iran won't make deal he thinks is needed, threatens to bomb Oman",
-        "source": "Yahoo Entertainment",
-        "url": "https://uk.news.yahoo.com/trump-says-iran-surrender-threatens-144311635.html",
-        "published": "2026-08-17T20:16:49Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "USA-Iran Peace Prospects Dim",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/usairan_peace_prospects_dim-17-aug-2026-184391-article/",
-        "published": "2026-08-17T20:00:00Z",
         "sentiment": "watch"
       }
     ],
