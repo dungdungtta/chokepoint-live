@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T10:48:12.453Z",
+    "generated_at": "2026-08-18T11:31:38.240Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
+        "title": "Here’s What “Iran’s Secret Plan To Escalate The War” Means For Oil Stocks",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/17/heres-what-irans-secret-plan-to-escalate-the-war-means-for-oil-stocks/",
+        "published": "2026-08-17T11:12:18Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Ukraine takes aim at Russia's economy and morale by attacking online retailer...",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/russia-ukraine-war-putin-wildberries-kim-48c331f100a1d981959c5d75a1397d21",
+        "published": "2026-08-17T11:00:13Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US-Iran Peace Deal Expires Monday",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/394754/us-iran-peace-deal-expires-monday.html",
+        "published": "2026-08-17T10:59:01Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Harry Sargeant III exits Venezuelan oil company amid US policy shift",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/sargeant-exits-venezuelan-oil-company/",
+        "published": "2026-08-17T10:51:17Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US-Iran talks deadlock as 60-day MoU window expires with no extension in sight",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/us-iran-talks-deadlock-mou-expires/",
         "published": "2026-08-17T10:28:59Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Oil steady on Iran war stalemate",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-steady-iran-war-stalemate-6322876",
-        "published": "2026-08-17T10:18:55Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil rises on Iran war stalemate; near-term potential for further gains seen limited",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-rises-iran-war-stalemate-near-term-potential-further-gains-seen-limited-6322876",
-        "published": "2026-08-17T10:18:55Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump shrinks South Korea war games, citing ‘very good relationship’ with Kim Jong Un",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/08/17/trump-south-korea-war-games-very-good-relationship-with-kim-jong-un/",
-        "published": "2026-08-17T10:18:45Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Why Has Oil Not Rallied to $150 or Higher?",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/why_has_oil_not_rallied_to_150_or_higher-17-aug-2026-184387-article/",
-        "published": "2026-08-17T10:11:47Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Iran War: As MOU Expires, Iran and US Engage in Threat Display, With Iran Likely to Escalate Into Midterms; Energy and Commodity Supplies Continue to Deteriorate",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/iran-war-as-mou-expires-iran-and-us-engage-in-threat-display-with-iran-likely-to-escalate-into-midterms-energy-and-commodity-supplies-continue-to-deteriorate.html",
+        "published": "2026-08-17T10:54:19Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Taiwan's president says record defence spending an investment in peace",
         "source": "Yahoo Entertainment",
@@ -89,13 +96,6 @@
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east",
         "published": "2026-08-15T17:49:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Beijing’s Voyage Through Frozen Waters Could Change Shipping Forever",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/08/15/china-shipping-route-arctic-sea-legend-line",
-        "published": "2026-08-15T15:02:16Z",
         "sentiment": "watch"
       }
     ],
@@ -124,8 +124,8 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
-    "taiwan": "yellow",
+    "hormuz": "amber",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
