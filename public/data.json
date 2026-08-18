@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T12:03:03.154Z",
+    "generated_at": "2026-08-18T13:10:12.912Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump warns US will ‘bomb the s–t’ out of Oman if they interfere in Strait of Hormuz conflict",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/17/us-news/trump-warns-us-will-bomb-the-s-t-out-of-oman-if-they-interfere-in-strait-of-hormuz-conflict/",
-        "published": "2026-08-17T11:57:08Z",
+        "title": "Trump Reportedly Threatens He’ll ‘Bomb The S— Out Of’ Oman If It Disrupts Iran Operations",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/saradorn/2026/08/17/trump-reportedly-threatens-hell-bomb-the-s--out-of-oman-if-it-disrupts-iran-operations/",
+        "published": "2026-08-17T13:01:09Z",
         "sentiment": "danger"
       },
       {
-        "title": "Asian Refiners Ask to Pick Up Saudi Oil Outside Risky Red Sea",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/asian-refiners-ask-to-pick-up-saudi-oil-outside-risky-red-sea/",
-        "published": "2026-08-17T11:33:22Z",
+        "title": "China’s New Laws Are Ensnaring Western Companies",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/08/17/china-sanctions-laws-companies-legal-risk-extraterritorial-trade-embargo/",
+        "published": "2026-08-17T12:39:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "Here’s What “Iran’s Secret Plan To Escalate The War” Means For Oil Stocks",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/17/heres-what-irans-secret-plan-to-escalate-the-war-means-for-oil-stocks/",
-        "published": "2026-08-17T11:12:18Z",
+        "title": "Houthis claim missile attack on Saudi military ship in Red Sea as naval blockade intensifies",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/houthis-missile-attack-saudi-ship-red-sea/",
+        "published": "2026-08-17T12:33:46Z",
         "sentiment": "danger"
       },
       {
-        "title": "Ukraine takes aim at Russia's economy and morale by attacking online retailer...",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/russia-ukraine-war-putin-wildberries-kim-48c331f100a1d981959c5d75a1397d21",
-        "published": "2026-08-17T11:00:13Z",
+        "title": "Trump threatens to 'bomb' Oman if they get in way of Hormuz deal",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/trump-threatens-to-bomb-oman-if-they-get-in-way-of-hormuz-deal/articleshow/133296632.cms",
+        "published": "2026-08-17T12:14:18Z",
         "sentiment": "danger"
       },
       {
-        "title": "US-Iran Peace Deal Expires Monday",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/394754/us-iran-peace-deal-expires-monday.html",
-        "published": "2026-08-17T10:59:01Z",
+        "title": "After Trump Comment on Declaring Strait of Hormuz Us Territory, Tehran Says It ‘Will Remain Iranian’",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/after-trump-comment-declaring-strait-hormuz-us-territory-tehran-says-remain-iranian/5936888",
+        "published": "2026-08-17T12:12:55Z",
         "sentiment": "watch"
       }
     ],
