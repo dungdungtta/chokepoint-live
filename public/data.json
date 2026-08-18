@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T05:35:38.315Z",
+    "generated_at": "2026-08-18T06:03:36.198Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "World War E: The energy wars and the path to personal resilience",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-17-world-war-e-energy-wars-path-resilience.html",
+        "published": "2026-08-17T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "'The climate alarm is blaring'",
+        "source": "Theecologist.org",
+        "url": "https://theecologist.org/2026/aug/17/climate-alarm-blaring",
+        "published": "2026-08-17T06:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Sensex slides 433 pts; PSU bank decline for 3rd day",
         "source": "Business Standard",
         "url": "https://www.business-standard.com/markets/capital-market-news/sensex-slides-433-pts-psu-bank-decline-for-3rd-day-126081700279_1.html",
@@ -38,20 +52,6 @@
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/17/japanese-automakers-vulnerable-iran-war-yen-rally.html",
         "published": "2026-08-17T05:18:44Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Brent crude futures edge higher despite continued uncertainty in West Asia",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/brent-crude-futures-edge-higher-despite-continued-uncertainty-in-west-asia/article71354895.ece",
-        "published": "2026-08-17T04:37:07Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iranian general threatens Washington over Strait of Hormuz claim, offers 30k reward per US soldier",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/08/17/iranian-general-threatens-washington-over-strait-of-hormuz-claim-offers-30k-reward-per-us-soldier/",
-        "published": "2026-08-17T04:27:14Z",
         "sentiment": "danger"
       }
     ],
