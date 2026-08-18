@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T23:02:17.022Z",
+    "generated_at": "2026-08-18T23:39:40.454Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump threatens Oman if it 'gets in way' of Iran deal",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/2026/0818/1588299-iran-middle-east/",
+        "published": "2026-08-17T23:27:33Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Trump Doubles Down on Declaring Strait of Hormuz U.S. Territory as Iran Threatens to Break U.S. Blockade",
         "source": "Breitbart News",
         "url": "https://www.breitbart.com/politics/2026/08/17/trump-doubles-down-on-declaring-strait-of-hormuz-u-s-territory-as-iran-threatens-to-break-u-s-blockade/",
@@ -52,13 +59,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/iran-us-peace-deal-expires/",
         "published": "2026-08-17T21:17:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Vitol increases control over East Africa fuel supplies amid Iran crisis: Bloomberg",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/vitol-increases-control-over-east-africa-fuel-supplies-amid-iran-crisis/",
-        "published": "2026-08-17T21:12:47Z",
         "sentiment": "watch"
       }
     ],
