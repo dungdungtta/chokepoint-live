@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T11:31:38.240Z",
+    "generated_at": "2026-08-18T12:03:03.154Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump warns US will ‘bomb the s–t’ out of Oman if they interfere in Strait of Hormuz conflict",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/17/us-news/trump-warns-us-will-bomb-the-s-t-out-of-oman-if-they-interfere-in-strait-of-hormuz-conflict/",
+        "published": "2026-08-17T11:57:08Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Asian Refiners Ask to Pick Up Saudi Oil Outside Risky Red Sea",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/asian-refiners-ask-to-pick-up-saudi-oil-outside-risky-red-sea/",
+        "published": "2026-08-17T11:33:22Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Here’s What “Iran’s Secret Plan To Escalate The War” Means For Oil Stocks",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/08/17/heres-what-irans-secret-plan-to-escalate-the-war-means-for-oil-stocks/",
@@ -46,20 +60,6 @@
         "url": "https://www.newser.com/story/394754/us-iran-peace-deal-expires-monday.html",
         "published": "2026-08-17T10:59:01Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Harry Sargeant III exits Venezuelan oil company amid US policy shift",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/sargeant-exits-venezuelan-oil-company/",
-        "published": "2026-08-17T10:51:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US-Iran talks deadlock as 60-day MoU window expires with no extension in sight",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-talks-deadlock-mou-expires/",
-        "published": "2026-08-17T10:28:59Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
@@ -124,7 +124,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
