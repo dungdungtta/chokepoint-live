@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T19:59:53.430Z",
+    "generated_at": "2026-08-18T20:34:54.967Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil prices rise amid Iran conflict and Strait of Hormuz shipping constraints",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oil-prices-rise-amid-iran-conflict-and-strait-of-hormuz-shipping-constraints/",
+        "published": "2026-08-17T20:29:34Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump says Iran won't make deal he thinks is needed, threatens to bomb Oman",
+        "source": "Yahoo Entertainment",
+        "url": "https://uk.news.yahoo.com/trump-says-iran-surrender-threatens-144311635.html",
+        "published": "2026-08-17T20:16:49Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "USA-Iran Peace Prospects Dim",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/usairan_peace_prospects_dim-17-aug-2026-184391-article/",
+        "published": "2026-08-17T20:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump’s tariff rates remain unchanged due to rising energy prices, former Biden official says",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/trump-tariff-rates-energy-prices-harrell/",
@@ -38,27 +59,6 @@
         "source": "NBC News",
         "url": "https://www.nbcnews.com/business/economy/oil-jumps-trump-no-iran-ceasefire-rcna592978",
         "published": "2026-08-17T19:43:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Rejects Iran Truce Extension as Oil Tops $90",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/trump-rejects-iran-truce-extension-as-oil-tops-90/",
-        "published": "2026-08-17T19:22:50Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Abu Dhabi Wealth Fund L’imad’s Ports Deal Signals Growing Role",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/abu-dhabi-wealth-fund-limads-ports-deal-signals-growing-role/",
-        "published": "2026-08-17T19:18:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Neiko All-Angle Aluminum Handle Toilet Plunger 2-Pack for $14 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Neiko-All-Angle-Aluminum-Handle-Toilet-Plunger-2-Pack-for-14-free-shipping-w-Prime/22046154.html",
-        "published": "2026-08-17T19:07:46Z",
         "sentiment": "watch"
       }
     ],
