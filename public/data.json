@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T03:59:47.355Z",
+    "generated_at": "2026-08-18T04:45:57.800Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil hangs onto gains as US-Iran peace talks stall, Hormuz shipping slows - Reuters",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185011540",
-        "published": "2026-08-17T03:12:38Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Iran offers 30 billion rial bounty for killing or capturing US soldiers",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-kayhan-bounty-us-soldiers/",
-        "published": "2026-08-17T02:38:45Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Stock markets today: Another weak opening on the cards for Indian stocks",
+        "title": "Brent crude futures edge higher despite continued uncertainty in West Asia",
         "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/stock-markets-today-another-weak-opening-on-the-cards-for-indian-stocks/article71353605.ece",
-        "published": "2026-08-17T02:33:28Z",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/brent-crude-futures-edge-higher-despite-continued-uncertainty-in-west-asia/article71354895.ece",
+        "published": "2026-08-17T04:37:07Z",
         "sentiment": "watch"
       },
       {
-        "title": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - Reuters",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185010998",
-        "published": "2026-08-17T02:32:58Z",
+        "title": "Iranian general threatens Washington over Strait of Hormuz claim, offers 30k reward per US soldier",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/08/17/iranian-general-threatens-washington-over-strait-of-hormuz-claim-offers-30k-reward-per-us-soldier/",
+        "published": "2026-08-17T04:27:14Z",
         "sentiment": "danger"
       },
       {
-        "title": "How are humans harming the ocean?",
-        "source": "Lifesciencesworld.com",
-        "url": "https://www.lifesciencesworld.com/how-are-humans-harming-the-ocean/",
-        "published": "2026-08-17T02:19:54Z",
-        "sentiment": "watch"
+        "title": "Ukraine takes aim at Russia’s economy and morale by attacking online retailer",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/ukraine-takes-aim-russias-economy-morale-attacking-online-135699593",
+        "published": "2026-08-17T04:18:28Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Ukraine takes aim at Russia’s economy and morale by attacking online retailer",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/ukraine-takes-aim-russias-economy-morale-attacking-online-135699592",
+        "published": "2026-08-17T04:14:33Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -124,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
