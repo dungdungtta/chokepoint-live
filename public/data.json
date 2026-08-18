@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T07:06:07.416Z",
+    "generated_at": "2026-08-18T07:55:38.008Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+        "published": "2026-08-17T07:46:41Z",
+        "sentiment": "neutral"
+      },
+      {
         "title": "United States likely to emerge as India’s top LPG supplier: OPEC",
         "source": "BusinessLine",
         "url": "https://www.thehindubusinessline.com/markets/commodities/united-states-likely-to-emerge-as-indias-top-lpg-supplier-opec/article71355061.ece",
@@ -46,16 +53,16 @@
         "url": "https://theecologist.org/2026/aug/17/climate-alarm-blaring",
         "published": "2026-08-17T06:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "World War E: The energy wars and the path to personal resilience",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-17-world-war-e-energy-wars-path-resilience.html",
-        "published": "2026-08-17T06:00:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan's president says record defence spending an investment in peace",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/politics/articles/taiwan-president-says-record-defence-064654974.html",
+        "published": "2026-08-17T07:45:22Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Hoover Hosts Annual Summer Workshop on Modern China and Taiwan",
         "source": "Hoover.org",
@@ -83,13 +90,6 @@
         "url": "https://dailycaller.com/2026/08/15/china-shipping-route-arctic-sea-legend-line",
         "published": "2026-08-15T15:02:16Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan",
-        "published": "2026-08-15T11:30:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -118,7 +118,7 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "amber",
+    "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
