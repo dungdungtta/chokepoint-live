@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T21:59:57.592Z",
+    "generated_at": "2026-08-18T22:36:14.590Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump Doubles Down on Declaring Strait of Hormuz U.S. Territory as Iran Threatens to Break U.S. Blockade",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/08/17/trump-doubles-down-on-declaring-strait-of-hormuz-u-s-territory-as-iran-threatens-to-break-u-s-blockade/",
+        "published": "2026-08-17T22:20:46Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "UAE oil tanker detained near southern Iran...",
+        "source": "Anadolu Agency",
+        "url": "https://www.aa.com.tr/en/middle-east/uae-owned-oil-tanker-detained-near-southern-iran-s-qeshm-island-report/4029810",
+        "published": "2026-08-17T22:00:13Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Finish Jet-Dry Dishwasher Rinse Aid 8.45 oz. for $2.75 via Sub & Save + free shipping w/ Prime",
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/Finish-Jet-Dry-Dishwasher-Rinse-Aid-8-45-oz-for-2-75-via-Sub-Save-free-shipping-w-Prime/22046316.html",
@@ -45,20 +59,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/vitol-increases-control-over-east-africa-fuel-supplies-amid-iran-crisis/",
         "published": "2026-08-17T21:12:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump rules out extending Iran framework agreement",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/431850",
-        "published": "2026-08-17T21:10:13Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Why Libya’s Next Oil Pipeline Could Be a Geopolitical Game-Changer",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Why-Libyas-Next-Oil-Pipeline-Could-Be-a-Geopolitical-Game-Changer.html",
-        "published": "2026-08-17T21:00:00Z",
         "sentiment": "watch"
       }
     ],
