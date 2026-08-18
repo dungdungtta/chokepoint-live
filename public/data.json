@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T07:55:38.008Z",
+    "generated_at": "2026-08-18T08:46:59.264Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
+        "published": "2026-08-17T08:38:26Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "War in Lebanon Escalates",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/war_in_lebanon_escalates-17-aug-2026-184384-article/",
+        "published": "2026-08-17T08:17:46Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/1aa998c3add59acc",
+        "published": "2026-08-17T08:01:38Z",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
@@ -38,20 +59,6 @@
         "source": "BusinessLine",
         "url": "https://www.thehindubusinessline.com/markets/commodities/united-states-likely-to-emerge-as-indias-top-lpg-supplier-opec/article71355061.ece",
         "published": "2026-08-17T06:30:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil rises as US-Iran peace talks stall",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/0817/1588164-oil-rises-as-us-iran-peace-talks-stall/",
-        "published": "2026-08-17T06:26:10Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "'The climate alarm is blaring'",
-        "source": "Theecologist.org",
-        "url": "https://theecologist.org/2026/aug/17/climate-alarm-blaring",
-        "published": "2026-08-17T06:00:00Z",
         "sentiment": "watch"
       }
     ],
