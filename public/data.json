@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T20:34:54.967Z",
+    "generated_at": "2026-08-18T21:02:18.214Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Why Libya’s Next Oil Pipeline Could Be a Geopolitical Game-Changer",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Why-Libyas-Next-Oil-Pipeline-Could-Be-a-Geopolitical-Game-Changer.html",
+        "published": "2026-08-17T21:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump threatens to bomb Oman if it 'gets in the way' with Iran",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/iran-us-conflict-trump-oman-9.7310060",
+        "published": "2026-08-17T20:40:51Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Oil prices rise amid Iran conflict and Strait of Hormuz shipping constraints",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/oil-prices-rise-amid-iran-conflict-and-strait-of-hormuz-shipping-constraints/",
@@ -45,20 +59,6 @@
         "source": "Rigzone",
         "url": "https://www.rigzone.com/news/wire/usairan_peace_prospects_dim-17-aug-2026-184391-article/",
         "published": "2026-08-17T20:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump’s tariff rates remain unchanged due to rising energy prices, former Biden official says",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-tariff-rates-energy-prices-harrell/",
-        "published": "2026-08-17T19:58:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil jumps past $91 as Trump casts doubt on a new deal with Iran",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/business/economy/oil-jumps-trump-no-iran-ceasefire-rcna592978",
-        "published": "2026-08-17T19:43:54Z",
         "sentiment": "watch"
       }
     ],
