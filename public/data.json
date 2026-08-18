@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T18:48:39.145Z",
+    "generated_at": "2026-08-18T19:32:40.694Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump Rejects Iran Truce Extension as Oil Tops $90",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/trump-rejects-iran-truce-extension-as-oil-tops-90/",
+        "published": "2026-08-17T19:22:50Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Abu Dhabi Wealth Fund L’imad’s Ports Deal Signals Growing Role",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/abu-dhabi-wealth-fund-limads-ports-deal-signals-growing-role/",
+        "published": "2026-08-17T19:18:57Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Neiko All-Angle Aluminum Handle Toilet Plunger 2-Pack for $14 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Neiko-All-Angle-Aluminum-Handle-Toilet-Plunger-2-Pack-for-14-free-shipping-w-Prime/22046154.html",
+        "published": "2026-08-17T19:07:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Carbon Capture’s Biggest Problem Isn’t Capturing Carbon",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Carbon-Captures-Biggest-Problem-Isnt-Capturing-Carbon.html",
+        "published": "2026-08-17T19:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Strait of Hormuz Crossings Fall as US-Iran Ceasefire Expires",
         "source": "WWD",
         "url": "http://wwd.com/sourcing-journal/logistics/strait-of-hormuz-shipping-traffic-falls-us-iran-ceasefire-expires-maersk-hapag-oil-1239127068/",
         "published": "2026-08-17T18:47:06Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Trump suggests declaring Strait of Hormuz a US territory amid Iran tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-suggests-declaring-strait-of-hormuz-a-us-territory-amid-iran-tensions/",
-        "published": "2026-08-17T18:24:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "War and Drought Are Choking the World’s Most Vital Trade Routes",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/War-and-Drought-Are-Choking-the-Worlds-Most-Vital-Trade-Routes.html",
-        "published": "2026-08-17T18:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Russia taunts Nato as warship armed with hypersonic missiles is sent past German tourist island",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16058861/Russia-Nato-warship-armed-hypersonic-missiles-German-tourist-island.html",
-        "published": "2026-08-17T17:46:28Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oman intensifies efforts to contain oil spill from stranded tanker Caroline Bezengi",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oman-intensifies-efforts-to-contain-oil-spill-from-stranded-tanker-caroline/",
-        "published": "2026-08-17T17:43:47Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
