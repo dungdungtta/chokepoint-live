@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T19:32:40.694Z",
+    "generated_at": "2026-08-18T19:59:53.430Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump’s tariff rates remain unchanged due to rising energy prices, former Biden official says",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-tariff-rates-energy-prices-harrell/",
+        "published": "2026-08-17T19:58:51Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil jumps past $91 as Trump casts doubt on a new deal with Iran",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/business/economy/oil-jumps-trump-no-iran-ceasefire-rcna592978",
+        "published": "2026-08-17T19:43:54Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump Rejects Iran Truce Extension as Oil Tops $90",
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/trump-rejects-iran-truce-extension-as-oil-tops-90/",
@@ -46,20 +60,6 @@
         "url": "https://www.dealnews.com/Neiko-All-Angle-Aluminum-Handle-Toilet-Plunger-2-Pack-for-14-free-shipping-w-Prime/22046154.html",
         "published": "2026-08-17T19:07:46Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Carbon Capture’s Biggest Problem Isn’t Capturing Carbon",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Carbon-Captures-Biggest-Problem-Isnt-Capturing-Carbon.html",
-        "published": "2026-08-17T19:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Strait of Hormuz Crossings Fall as US-Iran Ceasefire Expires",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/strait-of-hormuz-shipping-traffic-falls-us-iran-ceasefire-expires-maersk-hapag-oil-1239127068/",
-        "published": "2026-08-17T18:47:06Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
