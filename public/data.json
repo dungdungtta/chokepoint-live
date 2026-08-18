@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T23:39:50.264Z",
+    "generated_at": "2026-08-18T00:00:48.623Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -64,6 +64,13 @@
     ],
     "taiwan": [
       {
+        "title": "Hoover Hosts Annual Summer Workshop on Modern China and Taiwan",
+        "source": "Hoover.org",
+        "url": "https://www.hoover.org/news/hoover-hosts-annual-summer-workshop-modern-china-and-taiwan-0",
+        "published": "2026-08-17T00:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Taiwan detects 11 Chinese aircraft, eight naval vessels operating near its territory",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/defence/taiwan-detects-11-chinese-aircraft-eight-naval-vessels-operating-near-its-territory/articleshow/133268729.cms",
@@ -90,13 +97,6 @@
         "url": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan",
         "published": "2026-08-15T11:30:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Links 8/15/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/links-8-15-2026.html",
-        "published": "2026-08-15T10:55:23Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
