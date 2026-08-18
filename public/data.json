@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T00:00:48.623Z",
+    "generated_at": "2026-08-18T01:51:59.697Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Most Gulf bourses gain despite stalled Iran talks, Hormuz disruption - Reuters",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185007904",
-        "published": "2026-08-16T22:52:58Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "US-Iran MoU is set to expire: What to know",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know",
-        "published": "2026-08-16T20:28:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Turkey calls for reopening of Strait of Hormuz to resume global oil flows",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/turkey-strait-hormuz-oil-flows/",
-        "published": "2026-08-16T19:37:12Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "1986 Honda Reflex at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1986-honda-reflex-12/",
-        "published": "2026-08-16T19:30:10Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Majors Reap $93 Billion Windfall From the Iran War",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/oil-majors-reap-93-billion-190000461.html",
-        "published": "2026-08-16T19:00:00Z",
+        "title": "Manufacturers groan as rising credit, production costs threaten recovery",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/08/manufacturers-groan-as-rising-credit-production-costs-threaten-recovery/",
+        "published": "2026-08-17T01:41:26Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Strait of Hormuz traffic drops to near standstill following tanker attacks",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/431799",
+        "published": "2026-08-17T01:23:27Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil Edges Higher as Middle East Tensions Linger: Markets Wrap - bloomberg.com",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185010142",
+        "published": "2026-08-17T01:13:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Tinubu bets on PH, Warri refineries despite Obasanjo’s doubts",
+        "source": "The Punch",
+        "url": "https://punchng.com/tinubu-bets-on-ph-warri-refineries-despite-obasanjos-doubts/",
+        "published": "2026-08-17T00:54:12Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil steady as US-Iran talks stall, Hormuz shipping slows",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oil-steady-as-us-iran-talks-stall-hormuz-shipping-slows/",
+        "published": "2026-08-17T00:37:37Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
@@ -124,7 +124,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
