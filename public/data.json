@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T01:51:59.697Z",
+    "generated_at": "2026-08-18T03:02:29.737Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Manufacturers groan as rising credit, production costs threaten recovery",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/08/manufacturers-groan-as-rising-credit-production-costs-threaten-recovery/",
-        "published": "2026-08-17T01:41:26Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Strait of Hormuz traffic drops to near standstill following tanker attacks",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/431799",
-        "published": "2026-08-17T01:23:27Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Edges Higher as Middle East Tensions Linger: Markets Wrap - bloomberg.com",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185010142",
-        "published": "2026-08-17T01:13:09Z",
+        "title": "Iran offers 30 billion rial bounty for killing or capturing US soldiers",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-kayhan-bounty-us-soldiers/",
+        "published": "2026-08-17T02:38:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "Tinubu bets on PH, Warri refineries despite Obasanjo’s doubts",
-        "source": "The Punch",
-        "url": "https://punchng.com/tinubu-bets-on-ph-warri-refineries-despite-obasanjos-doubts/",
-        "published": "2026-08-17T00:54:12Z",
+        "title": "Stock markets today: Another weak opening on the cards for Indian stocks",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/stock-markets-today-another-weak-opening-on-the-cards-for-indian-stocks/article71353605.ece",
+        "published": "2026-08-17T02:33:28Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - Reuters",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185010998",
+        "published": "2026-08-17T02:32:58Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil steady as US-Iran talks stall, Hormuz shipping slows",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-steady-as-us-iran-talks-stall-hormuz-shipping-slows/",
-        "published": "2026-08-17T00:37:37Z",
-        "sentiment": "neutral"
+        "title": "How are humans harming the ocean?",
+        "source": "Lifesciencesworld.com",
+        "url": "https://www.lifesciencesworld.com/how-are-humans-harming-the-ocean/",
+        "published": "2026-08-17T02:19:54Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Price Today (August 17): Crude oil approaches $90 again amid no breakthrough in Iran war talks. What’s next?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-17-crude-oil-approaches-90-again-amid-no-breakthrough-in-iran-war-talks-whats-next/articleshow/133284844.cms",
+        "published": "2026-08-17T02:12:02Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -124,7 +124,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
