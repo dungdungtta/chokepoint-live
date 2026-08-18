@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T15:15:36.042Z",
+    "generated_at": "2026-08-18T15:58:40.403Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo",
-        "published": "2026-08-17T14:36:44Z",
-        "sentiment": "danger"
+        "title": "Russia receives Indian gasoline cargo as fuel shortages bite",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/russia-receives-indian-gasoline-cargo-as-fuel-shortages-bite/articleshow/133301016.cms",
+        "published": "2026-08-17T15:57:15Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Iran threatens to escalate conflict if Hormuz shipping deal not reached",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-08-18/iran-us-memorandum-hormuz-strait/107048074",
-        "published": "2026-08-17T14:34:00Z",
-        "sentiment": "danger"
+        "title": "Greek-run oil tanker struck in Black Sea while awaiting Kazakh crude cargo",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/greek-tanker-attacked-black-sea/",
+        "published": "2026-08-17T15:49:02Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Russia receives Indian gasoline shipment amid domestic fuel shortages",
+        "title": "Many facets of strategic dependence",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/opinion/many-facets-of-strategic-dependence/article71357179.ece",
+        "published": "2026-08-17T15:39:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran works with Oman to finalise Hormuz agreement to manage shipping",
         "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/russia-receives-indian-gasoline-shipment-amid-domestic-fuel-shortages-126081701321_1.html",
-        "published": "2026-08-17T14:30:29Z",
-        "sentiment": "watch"
+        "url": "https://www.business-standard.com/world-news/iran-works-with-oman-to-finalise-hormuz-agreement-to-manage-shipping-126081701336_1.html",
+        "published": "2026-08-17T15:22:27Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Stocks lower as Hormuz concerns and high oil prices persist",
-        "source": "Digital Journal",
-        "url": "https://www.digitaljournal.com/article/stocks-lower-as-hormuz-concerns-and-high-oil-prices-persist/",
-        "published": "2026-08-17T14:05:37Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Nikkei Recovers 69,000 as AI Shares Defy Weak GDP",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/150393.php",
-        "published": "2026-08-17T14:01:09Z",
-        "sentiment": "watch"
+        "title": "Trump threatens Oman over US-Iran Strait of Hormuz negotiations",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-threatens-oman-over-us-iran-strait-of-hormuz-negotiations/",
+        "published": "2026-08-17T15:15:39Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan’s Urban Resilience Drills Are Becoming a Core Part of Deterrence",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/08/taiwans-urban-resilience-drills-are-becoming-a-core-part-of-deterrence/",
+        "published": "2026-08-17T15:44:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Indonesia-China naval drill raises neutrality concerns",
         "source": "DW (English)",
@@ -89,13 +96,6 @@
         "source": "Yahoo Entertainment",
         "url": "https://www.yahoo.com/news/politics/articles/taiwan-president-says-record-defence-064654974.html",
         "published": "2026-08-17T07:45:22Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hoover Hosts Annual Summer Workshop on Modern China and Taiwan",
-        "source": "Hoover.org",
-        "url": "https://www.hoover.org/news/hoover-hosts-annual-summer-workshop-modern-china-and-taiwan-0",
-        "published": "2026-08-17T00:00:00Z",
         "sentiment": "watch"
       }
     ],
