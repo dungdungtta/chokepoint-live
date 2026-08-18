@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T16:42:52.210Z",
+    "generated_at": "2026-08-18T17:12:43.768Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "US enforces maritime blockade in Strait of Hormuz, impacting oil shipments",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-enforces-maritime-blockade-in-strait-of-hormuz-impacting-oil-shipments/",
+        "published": "2026-08-17T17:11:49Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran seizes UAE-owned tanker in Strait of Hormuz, escalating Gulf maritime tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-seizes-uae-tanker-hormuz-strait/",
+        "published": "2026-08-17T17:04:26Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump Threatens to Bomb US Ally Oman as Iran Deadline Expires While Kushner Presses Netanyahu on Gaza Plan",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/trump-threatens-oman-iran-peace-talks-expire-1874222",
+        "published": "2026-08-17T16:55:22Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump Burns Allies Over Iran. South Korea and Oman Are Next.",
+        "source": "Mother Jones",
+        "url": "https://www.motherjones.com/politics/2026/08/trump-burns-allies-over-iran-south-korea-and-oman-are-next/",
+        "published": "2026-08-17T16:43:07Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran Threatens to Go on Offensive in Strait of Hormuz if Diplomacy Fails",
         "source": "Insurance Journal",
         "url": "https://www.insurancejournal.com/news/international/2026/08/17/881884.htm",
         "published": "2026-08-17T16:41:17Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Hormuz traffic falls to single digits as 60-day deadline for US-Iran MoU expires | The National",
-        "source": "Thenationalnews.com",
-        "url": "https://www.thenationalnews.com/business/energy/2026/08/17/hormuz-traffic-falls-to-single-digits-as-60-day-deadline-for-us-iran-mou-expires/",
-        "published": "2026-08-17T16:39:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran Threatens to Go On Offensive in Strait of Hormuz if Diplomacy With US Fails",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/iran-threatens-to-go-on-offensive-in-strait-of-hormuz-if-diplomacy-with-us-fails/",
-        "published": "2026-08-17T16:32:34Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US Prez Donald Trump says Iran should surrender, threatens to bomb Oman",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/us-prez-donald-trump-says-iran-should-surrender-threatens-to-bomb-oman-126081701412_1.html",
-        "published": "2026-08-17T16:18:55Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Nine Workers Killed at Hong Kong Convention-Certified Shipbreaking Yard in Bangladesh",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/nine-workers-killed-at-hong-kong-convention-certified-shipbreaking-yard-in-bangladesh/",
-        "published": "2026-08-17T16:04:47Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
