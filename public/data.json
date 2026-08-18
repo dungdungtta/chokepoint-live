@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T03:02:29.737Z",
+    "generated_at": "2026-08-18T03:59:47.355Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Oil hangs onto gains as US-Iran peace talks stall, Hormuz shipping slows - Reuters",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185011540",
+        "published": "2026-08-17T03:12:38Z",
+        "sentiment": "neutral"
+      },
       {
         "title": "Iran offers 30 billion rial bounty for killing or capturing US soldiers",
         "source": "Crypto Briefing",
@@ -53,13 +60,6 @@
         "url": "https://www.lifesciencesworld.com/how-are-humans-harming-the-ocean/",
         "published": "2026-08-17T02:19:54Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Oil Price Today (August 17): Crude oil approaches $90 again amid no breakthrough in Iran war talks. What’s next?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-17-crude-oil-approaches-90-again-amid-no-breakthrough-in-iran-war-talks-whats-next/articleshow/133284844.cms",
-        "published": "2026-08-17T02:12:02Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
