@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T06:03:36.198Z",
+    "generated_at": "2026-08-18T07:06:07.416Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,11 +27,18 @@
   "news": {
     "hormuz": [
       {
-        "title": "World War E: The energy wars and the path to personal resilience",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-17-world-war-e-energy-wars-path-resilience.html",
-        "published": "2026-08-17T06:00:00Z",
-        "sentiment": "danger"
+        "title": "United States likely to emerge as India’s top LPG supplier: OPEC",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/united-states-likely-to-emerge-as-indias-top-lpg-supplier-opec/article71355061.ece",
+        "published": "2026-08-17T06:30:01Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil rises as US-Iran peace talks stall",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0817/1588164-oil-rises-as-us-iran-peace-talks-stall/",
+        "published": "2026-08-17T06:26:10Z",
+        "sentiment": "neutral"
       },
       {
         "title": "'The climate alarm is blaring'",
@@ -41,17 +48,10 @@
         "sentiment": "watch"
       },
       {
-        "title": "Sensex slides 433 pts; PSU bank decline for 3rd day",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/capital-market-news/sensex-slides-433-pts-psu-bank-decline-for-3rd-day-126081700279_1.html",
-        "published": "2026-08-17T05:20:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Japanese automakers vulnerable to one-two punch of Iran war, yen rally",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/17/japanese-automakers-vulnerable-iran-war-yen-rally.html",
-        "published": "2026-08-17T05:18:44Z",
+        "title": "World War E: The energy wars and the path to personal resilience",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-17-world-war-e-energy-wars-path-resilience.html",
+        "published": "2026-08-17T06:00:00Z",
         "sentiment": "danger"
       }
     ],
