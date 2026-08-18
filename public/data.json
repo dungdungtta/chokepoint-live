@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T13:10:12.912Z",
+    "generated_at": "2026-08-18T13:58:17.646Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/articles/iran-threatens-offensive-strait-hormuz-134930139.html",
+        "published": "2026-08-17T13:49:30Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Ukraine takes aim at Russia's economy and morale by attacking online retailer",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/ukraine-takes-aim-at-russias-economy-and-morale-by-attacking-online-retailer/articleshow/133298728.cms",
+        "published": "2026-08-17T13:42:53Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump Reportedly Threatens He’ll ‘Bomb The S— Out Of’ Oman If It Disrupts Iran Operations",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4392077/posts",
+        "published": "2026-08-17T13:40:01Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Trump Reportedly Threatens He’ll ‘Bomb The S— Out Of’ Oman If It Disrupts Iran Operations",
         "source": "Forbes",
         "url": "https://www.forbes.com/sites/saradorn/2026/08/17/trump-reportedly-threatens-hell-bomb-the-s--out-of-oman-if-it-disrupts-iran-operations/",
         "published": "2026-08-17T13:01:09Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "China’s New Laws Are Ensnaring Western Companies",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/08/17/china-sanctions-laws-companies-legal-risk-extraterritorial-trade-embargo/",
-        "published": "2026-08-17T12:39:45Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Houthis claim missile attack on Saudi military ship in Red Sea as naval blockade intensifies",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/houthis-missile-attack-saudi-ship-red-sea/",
-        "published": "2026-08-17T12:33:46Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump threatens to 'bomb' Oman if they get in way of Hormuz deal",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/trump-threatens-to-bomb-oman-if-they-get-in-way-of-hormuz-deal/articleshow/133296632.cms",
-        "published": "2026-08-17T12:14:18Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "After Trump Comment on Declaring Strait of Hormuz Us Territory, Tehran Says It ‘Will Remain Iranian’",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/after-trump-comment-declaring-strait-hormuz-us-territory-tehran-says-remain-iranian/5936888",
-        "published": "2026-08-17T12:12:55Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Indonesia-China naval drill raises neutrality concerns",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/indonesia-china-naval-drill-military-neutrality-taiwan-geopolitics/a-78400288",
+        "published": "2026-08-17T13:37:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Indonesia neutrality tested by joint naval drill with China",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/indonesia-neutrality-tested-by-joint-naval-drill-with-china/a-78400288",
+        "published": "2026-08-17T13:37:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Iran War: As MOU Expires, Iran and US Engage in Threat Display, With Iran Likely to Escalate Into Midterms; Energy and Commodity Supplies Continue to Deteriorate",
         "source": "Nakedcapitalism.com",
@@ -82,20 +89,6 @@
         "source": "Hoover.org",
         "url": "https://www.hoover.org/news/hoover-hosts-annual-summer-workshop-modern-china-and-taiwan-0",
         "published": "2026-08-17T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan detects 11 Chinese aircraft, eight naval vessels operating near its territory",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/taiwan-detects-11-chinese-aircraft-eight-naval-vessels-operating-near-its-territory/articleshow/133268729.cms",
-        "published": "2026-08-16T01:27:02Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east",
-        "published": "2026-08-15T17:49:42Z",
         "sentiment": "watch"
       }
     ],
