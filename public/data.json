@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T17:47:13.307Z",
+    "generated_at": "2026-08-18T18:48:39.145Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Strait of Hormuz Crossings Fall as US-Iran Ceasefire Expires",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/strait-of-hormuz-shipping-traffic-falls-us-iran-ceasefire-expires-maersk-hapag-oil-1239127068/",
+        "published": "2026-08-17T18:47:06Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Trump suggests declaring Strait of Hormuz a US territory amid Iran tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-suggests-declaring-strait-of-hormuz-a-us-territory-amid-iran-tensions/",
+        "published": "2026-08-17T18:24:49Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "War and Drought Are Choking the World’s Most Vital Trade Routes",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/War-and-Drought-Are-Choking-the-Worlds-Most-Vital-Trade-Routes.html",
+        "published": "2026-08-17T18:00:00Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Russia taunts Nato as warship armed with hypersonic missiles is sent past German tourist island",
         "source": "Dailymail.com",
         "url": "https://www.dailymail.com/news/article-16058861/Russia-Nato-warship-armed-hypersonic-missiles-German-tourist-island.html",
@@ -39,30 +60,16 @@
         "url": "https://cryptobriefing.com/oman-intensifies-efforts-to-contain-oil-spill-from-stranded-tanker-caroline/",
         "published": "2026-08-17T17:43:47Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Donald Trump says Iran should surrender, threatens to bomb Oman",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/08/17/donald-trump-says-iran-should-surrender-threatens-to-bomb-oman/",
-        "published": "2026-08-17T17:33:19Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "SucceBuy Oil-free Portable Silent Air Compressors - 8L 900W $69, 18L 900W, $82, 24L 1450W $101 + Free Shipping",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19889622-succebuy-oil-free-portable-silent-air-compressors-8l-900w-69-18l-900w-82-24l-1450w-101-free-shipping",
-        "published": "2026-08-17T17:27:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran threatens to go on offensive in Hormuz if diplomacy with US fails",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/iran-threatens-to-go-on-offensive-in-hormuz-if-diplomacy-with-us-fails-126081701577_1.html",
-        "published": "2026-08-17T17:16:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump Just Took a Wild Stance on North Korea",
+        "source": "Slate Magazine",
+        "url": "https://slate.com/news-and-politics/2026/08/trump-south-korea-north-korea-kim-jong-un-iran-war.html",
+        "published": "2026-08-17T18:14:11Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan’s Urban Resilience Drills Are Becoming a Core Part of Deterrence",
         "source": "The Diplomat",
@@ -90,13 +97,6 @@
         "url": "https://www.nakedcapitalism.com/2026/08/iran-war-as-mou-expires-iran-and-us-engage-in-threat-display-with-iran-likely-to-escalate-into-midterms-energy-and-commodity-supplies-continue-to-deteriorate.html",
         "published": "2026-08-17T10:54:19Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Taiwan's president says record defence spending an investment in peace",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/politics/articles/taiwan-president-says-record-defence-064654974.html",
-        "published": "2026-08-17T07:45:22Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -124,7 +124,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
