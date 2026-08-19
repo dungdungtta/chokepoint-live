@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T19:31:48.433Z",
+    "generated_at": "2026-08-19T20:01:19.040Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Only 7% of Global Green Hydrogen Capacity Was Finished on Schedule",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Only-7-of-Global-Green-Hydrogen-Capacity-Was-Finished-on-Schedule.html",
+        "published": "2026-08-18T20:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Oil Hits Three-Week High on Iran Standoff",
         "source": "Rigzone",
         "url": "https://www.rigzone.com/news/wire/oil_hits_threeweek_high_on_iran_standoff-18-aug-2026-184405-article/?rss=true",
@@ -52,13 +59,6 @@
         "source": "CNN",
         "url": "https://www.cnn.com/2026/08/18/business/iran-strait-of-hormuz-oil",
         "published": "2026-08-18T18:35:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Conair Grip & Style Round Hair Brush for $1 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Conair-Grip-Style-Round-Hair-Brush-for-1-free-shipping-w-Prime/22052440.html",
-        "published": "2026-08-18T18:32:57Z",
         "sentiment": "watch"
       }
     ],
