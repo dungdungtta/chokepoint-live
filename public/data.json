@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T07:21:36.435Z",
+    "generated_at": "2026-08-19T08:05:05.063Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Chinese shipping giants halt oil tanker operations in strategic straits",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/chinese-shipping-giants-halt-oil-tanker-operations-in-strategic-straits/",
+        "published": "2026-08-18T08:03:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Nikkei Recovers 69,000 as AI Shares Defy Weak GDP",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150406.php",
+        "published": "2026-08-18T07:50:04Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "The global ‘freedom of the seas’ is dying in the Strait of Hormuz—and everyone, everywhere, could pay the tolls",
         "source": "Fortune",
         "url": "https://fortune.com/2026/08/18/global-freedom-seas-dying-strait-hormuz-everyone-everywhere-pay-tolls/",
@@ -46,20 +60,6 @@
         "url": "https://www.irishtimes.com/world/middle-east/2026/08/18/iran-threatens-new-offensive-while-trump-rules-out-extending-ceasefire-deal/",
         "published": "2026-08-18T06:11:48Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Foreign dominance of coastal waters threatens Nigeria’s security",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/08/foreign-dominance-of-coastal-waters-threatens-nigerias-security/",
-        "published": "2026-08-18T06:07:53Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Diesel Crack Spread Screams Economic Red Alert, and Inflation Will Soon Surge",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-18-diesel-crack-spread-screams-economic-red-alert.html",
-        "published": "2026-08-18T06:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
