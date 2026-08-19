@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T09:41:17.782Z",
+    "generated_at": "2026-08-19T10:11:09.131Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Will Oil Prices Keep Rising?",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/will_oil_prices_keep_rising-18-aug-2026-184396-article/",
-        "published": "2026-08-18T09:36:00Z",
+        "title": "Analysis-Canada's pipeline ambitions hinge on uncertain output expansion",
+        "source": "Yahoo Entertainment",
+        "url": "https://ca.news.yahoo.com/analysis-canadas-pipeline-ambitions-hinge-100608458.html",
+        "published": "2026-08-18T10:06:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "Wright Says US to Boost Fuel Refinery Output as Hormuz Disruptions Continue",
-        "source": "Theepochtimes.com",
-        "url": "https://www.theepochtimes.com/business/wright-says-us-to-boost-fuel-refinery-output-as-hormuz-disruptions-continue-6076354",
-        "published": "2026-08-18T09:28:05Z",
+        "title": "Idemitsu starts sourcing Saudi crude via Suez route, sees no risk to stable supplies -president",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/idemitsu-starts-sourcing-saudi-crude-suez-route-sees-no-risk-stable-supplies-president-6325736",
+        "published": "2026-08-18T10:05:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudi Arabia Resumes Oil Loadings, Sales From Inside Strait of Hormuz",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/saudi-arabia-resumes-oil-loadings-sales-from-inside-strait-of-hormuz/",
-        "published": "2026-08-18T09:24:25Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Goo Gone Grease & Grime Cleaner 20-oz. Tub for $5.13 via Sub. & Save + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Goo-Gone-Grease-Grime-Cleaner-20-oz-Tub-for-5-13-via-Sub-Save-free-shipping-w-Prime/22051794.html",
-        "published": "2026-08-18T09:21:16Z",
+        "title": "India's tanker exports surge over six-fold to USD 1.36 billion in Q1 FY27; UAE leads",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-tanker-exports-surge-over-six-fold-to-usd-1-36-billion-in-q1-fy27-uae-leads/articleshow/133318178.cms",
+        "published": "2026-08-18T10:01:56Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Supertanker Earnings on Mideast Route Near $510,000 a Day",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/oil-supertanker-earnings-on-mideast-route-near-510000-a-day/",
-        "published": "2026-08-18T09:21:04Z",
+        "title": "You’re not imagining it: Your kid’s school supplies cost more this year",
+        "source": "Salon",
+        "url": "https://www.salon.com/2026/08/18/youre-not-imagining-it-your-kids-school-supplies-cost-more-this-year-partner/",
+        "published": "2026-08-18T10:00:26Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Ship attacked during Strait of Hormuz transit",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/ship-attacked-during-strait-of-hormuz-transit/article71359640.ece",
+        "published": "2026-08-18T09:48:33Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
