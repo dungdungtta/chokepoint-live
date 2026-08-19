@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T00:00:04.908Z",
+    "generated_at": "2026-08-19T01:48:37.152Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil: 2.5% surge with Brent above $90, US-Iran standoff fuels $100 scenarios",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/08/18/oil-2-5-surge-with-brent-above-90-us-iran-standoff-fuels-100-scenarios/",
-        "published": "2026-08-17T23:52:05Z",
+        "title": "Oil climbs as fading US-Iran peace hopes raise supply risks",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-as-fading-us-iran-peace-hopes-raise-supply-risks/articleshow/133309237.cms",
+        "published": "2026-08-18T01:43:28Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump threatens Oman if it 'gets in way' of Iran deal",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/2026/0818/1588299-iran-middle-east/",
-        "published": "2026-08-17T23:27:33Z",
+        "title": "CNBC Daily Open: Markets caught between Mideast worries and AI optimism",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/18/cnbc-daily-open-trump-iran-war-nvidia-oil-markets.html",
+        "published": "2026-08-18T01:13:51Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil climbs as fading US-Iran peace hopes raise supply risks",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-climbs-fading-us-iran-peace-hopes-raise-supply-risks-6324826",
+        "published": "2026-08-18T01:13:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-threatens-to-go-on-offensive-in-strait-of-hormuz-if-diplomacy-with-us-fails/articleshow/133309029.cms",
+        "published": "2026-08-18T01:03:19Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump Doubles Down on Declaring Strait of Hormuz U.S. Territory as Iran Threatens to Break U.S. Blockade",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/08/17/trump-doubles-down-on-declaring-strait-of-hormuz-u-s-territory-as-iran-threatens-to-break-u-s-blockade/",
-        "published": "2026-08-17T22:20:46Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "UAE oil tanker detained near southern Iran...",
-        "source": "Anadolu Agency",
-        "url": "https://www.aa.com.tr/en/middle-east/uae-owned-oil-tanker-detained-near-southern-iran-s-qeshm-island-report/4029810",
-        "published": "2026-08-17T22:00:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Finish Jet-Dry Dishwasher Rinse Aid 8.45 oz. for $2.75 via Sub & Save + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Finish-Jet-Dry-Dishwasher-Rinse-Aid-8-45-oz-for-2-75-via-Sub-Save-free-shipping-w-Prime/22046316.html",
-        "published": "2026-08-17T21:31:53Z",
-        "sentiment": "watch"
+        "title": "Oman-Iran talks progress on Strait of Hormuz shipping corridor: WSJ",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oman-iran-talks-progress-on-strait-of-hormuz-shipping-corridor-wsj/",
+        "published": "2026-08-18T00:43:19Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
