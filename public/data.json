@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T06:16:19.147Z",
+    "generated_at": "2026-08-19T07:21:36.435Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "The global ‘freedom of the seas’ is dying in the Strait of Hormuz—and everyone, everywhere, could pay the tolls",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/08/18/global-freedom-seas-dying-strait-hormuz-everyone-everywhere-pay-tolls/",
+        "published": "2026-08-18T07:12:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints",
+        "published": "2026-08-18T06:28:31Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran threatens new offensive while Trump rules out extending ceasefire deal",
         "source": "The Irish Times",
         "url": "https://www.irishtimes.com/world/middle-east/2026/08/18/iran-threatens-new-offensive-while-trump-rules-out-extending-ceasefire-deal/",
@@ -46,20 +60,6 @@
         "url": "https://www.naturalnews.com/2026-08-18-diesel-crack-spread-screams-economic-red-alert.html",
         "published": "2026-08-18T06:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran Stands Firm on Strait of Hormuz as Trump Warns Americans of Higher Gas Prices",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-18-iran-firm-hormuz-trump-warns-higher-gas-cost.html",
-        "published": "2026-08-18T06:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Bessent warns of “never-before-seen” economic isolation for Iran as U.S. blocks ports",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-18-bessent-warns-never-before-seen-economic-isolation-iran.html",
-        "published": "2026-08-18T06:00:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -124,7 +124,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
