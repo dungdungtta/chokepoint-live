@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T08:05:05.063Z",
+    "generated_at": "2026-08-19T08:55:58.287Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Supertankers on Mideast Route Reach $510K a Day in Earnings",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/supertankers_on_mideast_route_reach_510k_a_day_in_earnings-18-aug-2026-184395-article/",
+        "published": "2026-08-18T08:17:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China Boosts Fuel Exports as Domestic Stockpiles Swell",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Boosts-Fuel-Exports-as-Domestic-Stockpiles-Swell.html",
+        "published": "2026-08-18T08:05:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China Boosts Fuel Exports as Domestic Stockpiles Swell",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/china-boosts-fuel-exports-domestic-080500877.html",
+        "published": "2026-08-18T08:05:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Chinese shipping giants halt oil tanker operations in strategic straits",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/chinese-shipping-giants-halt-oil-tanker-operations-in-strategic-straits/",
@@ -39,27 +60,6 @@
         "url": "https://newsonjapan.com/article/150406.php",
         "published": "2026-08-18T07:50:04Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "The global ‘freedom of the seas’ is dying in the Strait of Hormuz—and everyone, everywhere, could pay the tolls",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/08/18/global-freedom-seas-dying-strait-hormuz-everyone-everywhere-pay-tolls/",
-        "published": "2026-08-18T07:12:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints",
-        "published": "2026-08-18T06:28:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran threatens new offensive while Trump rules out extending ceasefire deal",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/08/18/iran-threatens-new-offensive-while-trump-rules-out-extending-ceasefire-deal/",
-        "published": "2026-08-18T06:11:48Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
