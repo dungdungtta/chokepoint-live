@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T01:48:37.152Z",
+    "generated_at": "2026-08-19T03:04:47.237Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil climbs as fading US-Iran peace hopes raise supply risks",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-as-fading-us-iran-peace-hopes-raise-supply-risks/articleshow/133309237.cms",
-        "published": "2026-08-18T01:43:28Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "CNBC Daily Open: Markets caught between Mideast worries and AI optimism",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/18/cnbc-daily-open-trump-iran-war-nvidia-oil-markets.html",
-        "published": "2026-08-18T01:13:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil climbs as fading US-Iran peace hopes raise supply risks",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-climbs-fading-us-iran-peace-hopes-raise-supply-risks-6324826",
-        "published": "2026-08-18T01:13:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-threatens-to-go-on-offensive-in-strait-of-hormuz-if-diplomacy-with-us-fails/articleshow/133309029.cms",
-        "published": "2026-08-18T01:03:19Z",
+        "title": "Trump says Iran won't make deal he thinks is needed, threatens to bomb Oman",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/trump-says-iran-wont-make-deal-he-thinks-is-needed-threatens-to-bomb-oman/article71358733.ece",
+        "published": "2026-08-18T03:02:09Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oman-Iran talks progress on Strait of Hormuz shipping corridor: WSJ",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oman-iran-talks-progress-on-strait-of-hormuz-shipping-corridor-wsj/",
-        "published": "2026-08-18T00:43:19Z",
+        "title": "Oil rises as Iran signals offensive stance, US rules out ceasefire extension",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/oil-rises-as-iran-signals-offensive-stance-us-rules-out-ceasefire-extension/article71358728.ece",
+        "published": "2026-08-18T02:58:24Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Trump threatens Oman as it works with Iran on Strait of Hormuz deal",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/trump-threatens-oman-as-it-works-with-iran-on-strait-of-hormuz-deal-126081800047_1.html",
+        "published": "2026-08-18T02:24:28Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil rises as Brent tops $91, bond yields rise as US-Iran truce expires",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/oil-rises-as-brent-tops-91-bond-yields-rise-as-us-iran-truce-expires-126081800075_1.html",
+        "published": "2026-08-18T02:24:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Crude prices cross $90 as ceasefire hopes dim, Hormuz disruption weighs on supply",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/business/international-business/crude-prices-cross-90-as-ceasefire-hopes-dim-hormuz-disruption-weighs-on-supply/articleshow/133309397.cms",
+        "published": "2026-08-18T02:03:45Z",
         "sentiment": "neutral"
       }
     ],
