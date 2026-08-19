@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T10:11:09.131Z",
+    "generated_at": "2026-08-19T10:48:36.324Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Third-Attack-on-Saudi-Aramco-Refinery-in-Two-Weeks.html",
+        "published": "2026-08-18T10:30:00Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Analysis-Canada's pipeline ambitions hinge on uncertain output expansion",
         "source": "Yahoo Entertainment",
         "url": "https://ca.news.yahoo.com/analysis-canadas-pipeline-ambitions-hinge-100608458.html",
@@ -46,20 +53,6 @@
         "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-tanker-exports-surge-over-six-fold-to-usd-1-36-billion-in-q1-fy27-uae-leads/articleshow/133318178.cms",
         "published": "2026-08-18T10:01:56Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "You’re not imagining it: Your kid’s school supplies cost more this year",
-        "source": "Salon",
-        "url": "https://www.salon.com/2026/08/18/youre-not-imagining-it-your-kids-school-supplies-cost-more-this-year-partner/",
-        "published": "2026-08-18T10:00:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ship attacked during Strait of Hormuz transit",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/ship-attacked-during-strait-of-hormuz-transit/article71359640.ece",
-        "published": "2026-08-18T09:48:33Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
