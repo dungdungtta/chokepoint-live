@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T08:55:58.287Z",
+    "generated_at": "2026-08-19T09:41:17.782Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Supertankers on Mideast Route Reach $510K a Day in Earnings",
+        "title": "Will Oil Prices Keep Rising?",
         "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/supertankers_on_mideast_route_reach_510k_a_day_in_earnings-18-aug-2026-184395-article/",
-        "published": "2026-08-18T08:17:46Z",
+        "url": "https://www.rigzone.com/news/will_oil_prices_keep_rising-18-aug-2026-184396-article/",
+        "published": "2026-08-18T09:36:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "China Boosts Fuel Exports as Domestic Stockpiles Swell",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Boosts-Fuel-Exports-as-Domestic-Stockpiles-Swell.html",
-        "published": "2026-08-18T08:05:00Z",
+        "title": "Wright Says US to Boost Fuel Refinery Output as Hormuz Disruptions Continue",
+        "source": "Theepochtimes.com",
+        "url": "https://www.theepochtimes.com/business/wright-says-us-to-boost-fuel-refinery-output-as-hormuz-disruptions-continue-6076354",
+        "published": "2026-08-18T09:28:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "China Boosts Fuel Exports as Domestic Stockpiles Swell",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/china-boosts-fuel-exports-domestic-080500877.html",
-        "published": "2026-08-18T08:05:00Z",
+        "title": "Saudi Arabia Resumes Oil Loadings, Sales From Inside Strait of Hormuz",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/saudi-arabia-resumes-oil-loadings-sales-from-inside-strait-of-hormuz/",
+        "published": "2026-08-18T09:24:25Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Goo Gone Grease & Grime Cleaner 20-oz. Tub for $5.13 via Sub. & Save + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Goo-Gone-Grease-Grime-Cleaner-20-oz-Tub-for-5-13-via-Sub-Save-free-shipping-w-Prime/22051794.html",
+        "published": "2026-08-18T09:21:16Z",
         "sentiment": "watch"
       },
       {
-        "title": "Chinese shipping giants halt oil tanker operations in strategic straits",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/chinese-shipping-giants-halt-oil-tanker-operations-in-strategic-straits/",
-        "published": "2026-08-18T08:03:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Nikkei Recovers 69,000 as AI Shares Defy Weak GDP",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/150406.php",
-        "published": "2026-08-18T07:50:04Z",
+        "title": "Oil Supertanker Earnings on Mideast Route Near $510,000 a Day",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/oil-supertanker-earnings-on-mideast-route-near-510000-a-day/",
+        "published": "2026-08-18T09:21:04Z",
         "sentiment": "watch"
       }
     ],
