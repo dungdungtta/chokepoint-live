@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T17:32:31.346Z",
+    "generated_at": "2026-08-19T18:01:11.002Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 93.26,
-      "change_pct": 0.6,
-      "date": "2026-08-11",
+      "price": 95.29,
+      "change_pct": 3.1,
+      "date": "2026-08-18",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -18,10 +18,8 @@
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
-      "price_index": 17.93,
-      "change_pct": 18.8,
-      "date": "2026-07-01",
-      "unit": "USD/MMBtu (EU nat-gas proxy)"
+      "price_index": null,
+      "unit": "proxy"
     }
   },
   "news": {
