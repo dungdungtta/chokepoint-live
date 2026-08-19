@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T11:32:32.638Z",
+    "generated_at": "2026-08-19T12:02:29.742Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "What to watch in Tuesday’s primaries and Buss family drama over Lakers share: Morning Rundown",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/news/us-news/tuesday-primaries-buss-family-lakers-morning-rundown-rcna593059",
-        "published": "2026-08-18T11:10:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Current price of oil as of August 18, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-08-18-2026/",
-        "published": "2026-08-18T11:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran War: Trump Threatens to Bomb Oman as Iran Attacks on Shipping Notch Up, WSJ Reports Planning for Bigger Escalation; Debate Over Covert Transits;",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/iran-war-trump-threatens-to-bomb-oman-as-iran-attacks-on-shipping-notch-up-wsj-reports-planning-for-bigger-escalation-debate-over-covert-transits.html",
-        "published": "2026-08-18T10:58:59Z",
+        "title": "Iran Says Hormuz Will Stay Shut Until U.S. Lifts Sanctions And Blockade—As Deadline Passes For Peace Deal",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/08/18/iran-says-hormuz-will-stay-shut-until-us-lifts-sanctions-and-blockade-as-deadline-passes-for-peace-deal/",
+        "published": "2026-08-18T12:00:46Z",
         "sentiment": "danger"
       },
       {
-        "title": "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Third-Attack-on-Saudi-Aramco-Refinery-in-Two-Weeks.html",
-        "published": "2026-08-18T10:30:00Z",
+        "title": "Tuesday: Hili dialogue",
+        "source": "Whyevolutionistrue.com",
+        "url": "https://whyevolutionistrue.com/2026/08/18/tuesday-hili-dialogue-593/",
+        "published": "2026-08-18T12:00:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "KazMunayGas Posts Higher H1 Profit",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/kazmunaygas_posts_higher_h1_profit-18-aug-2026-184399-article/",
+        "published": "2026-08-18T11:36:23Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Why has Trump threatened to bomb Oman – for a second time?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time",
+        "published": "2026-08-18T11:33:15Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran fails to strike deal with US as deadline passes and Trump calls for ‘white flag of surrender'",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/iran-fails-strike-deal-us-deadline-passes-trump-calls-white-flag-surrender",
+        "published": "2026-08-18T11:32:41Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Soldier indicted for leaking military secrets to China-linked group",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/intell/library/news/2026/intell-260818-cna01.htm",
+        "published": "2026-08-18T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "PLA Navy Task Force 83 returns after completing far-sea training and visits to Russia, Vietnam, Brunei and Indonesia",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/08/china-260818-globaltimes02.htm",
+        "published": "2026-08-18T12:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump Just Took a Wild Stance on North Korea",
         "source": "Slate Magazine",
@@ -76,20 +97,6 @@
         "url": "https://www.dw.com/en/indonesia-china-naval-drill-military-neutrality-taiwan-geopolitics/a-78400288",
         "published": "2026-08-17T13:37:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Indonesia neutrality tested by joint naval drill with China",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/indonesia-neutrality-tested-by-joint-naval-drill-with-china/a-78400288",
-        "published": "2026-08-17T13:37:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran War: As MOU Expires, Iran and US Engage in Threat Display, With Iran Likely to Escalate Into Midterms; Energy and Commodity Supplies Continue to Deteriorate",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/iran-war-as-mou-expires-iran-and-us-engage-in-threat-display-with-iran-likely-to-escalate-into-midterms-energy-and-commodity-supplies-continue-to-deteriorate.html",
-        "published": "2026-08-17T10:54:19Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -117,8 +124,8 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
-    "taiwan": "amber",
+    "hormuz": "red",
+    "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
