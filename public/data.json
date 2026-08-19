@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T15:38:23.133Z",
+    "generated_at": "2026-08-19T16:04:35.764Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Presentation: From Fab To Token - The State Of The Market",
+        "source": "InfoQ.com",
+        "url": "https://www.infoq.com/presentations/ai-hardware-tokenomics/",
+        "published": "2026-08-18T16:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/markets/bitcoin-tags-65k-as-sp-500-rebounds-from-2-week-lows-on-us-iran-rhetoric",
@@ -52,13 +59,6 @@
         "source": "Yahoo Entertainment",
         "url": "https://finance.yahoo.com/energy/articles/gulf-oil-escaping-strait-hormuz-150000576.html",
         "published": "2026-08-18T15:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ferry To Floatel: Heat Pumps Provide a Green Pathway",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/ferry-to-floatel-heat-pumps-provide-a-green-pathway/",
-        "published": "2026-08-18T14:59:16Z",
         "sentiment": "watch"
       }
     ],
