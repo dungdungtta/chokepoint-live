@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T16:04:35.764Z",
+    "generated_at": "2026-08-19T16:48:39.058Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Presentation: From Fab To Token - The State Of The Market",
-        "source": "InfoQ.com",
-        "url": "https://www.infoq.com/presentations/ai-hardware-tokenomics/",
-        "published": "2026-08-18T16:00:00Z",
+        "title": "US diesel margins exceed $100 a barrel amid global fuel crunch",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-diesel-margins-exceed-100-barrel/",
+        "published": "2026-08-18T16:29:53Z",
         "sentiment": "watch"
       },
       {
-        "title": "Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/markets/bitcoin-tags-65k-as-sp-500-rebounds-from-2-week-lows-on-us-iran-rhetoric",
-        "published": "2026-08-18T15:27:13Z",
-        "sentiment": "watch"
+        "title": "Report: Saudi Arabia Resumes Loading Oil in Strait of Hormuz",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/08/18/report-saudi-arabia-resumes-loading-oil-in-strait-of-hormuz/",
+        "published": "2026-08-18T16:28:32Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Trump trolls Iran, declaring Strait of Hormuz a 'new US territory' - prompting threats from Tehran",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16061015/Trump-trolls-Iran-declaring-Strait-Hormuz-new-US-territory-prompting-threats-Tehran.html",
-        "published": "2026-08-18T15:20:04Z",
+        "title": "Greek oil tanker attacked in Black Sea – Bloomberg",
+        "source": "RT",
+        "url": "https://www.rt.com/russia/644380-greek-tanker-attacked-black-sea/",
+        "published": "2026-08-18T16:26:27Z",
         "sentiment": "danger"
       },
       {
-        "title": "How Gulf Oil Is Escaping the Strait of Hormuz",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/How-Gulf-Oil-Is-Escaping-the-Strait-of-Hormuz.html",
-        "published": "2026-08-18T15:00:00Z",
-        "sentiment": "watch"
+        "title": "Iran prepares to keep economy alive as US threatens further sanctions",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions",
+        "published": "2026-08-18T16:21:49Z",
+        "sentiment": "danger"
       },
       {
-        "title": "How Gulf Oil Is Escaping the Strait of Hormuz",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/gulf-oil-escaping-strait-hormuz-150000576.html",
-        "published": "2026-08-18T15:00:00Z",
-        "sentiment": "watch"
+        "title": "Vance Pitches a New Objective for the Iran War",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/08/18/vance-iran-war-objectives-gas-prices/",
+        "published": "2026-08-18T16:18:18Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -124,7 +124,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
