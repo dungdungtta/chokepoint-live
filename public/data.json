@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T13:11:28.548Z",
+    "generated_at": "2026-08-19T13:59:44.083Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Futures slide as market reacts to soaring bond yields and diesel prices",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/futures-slide-bond-yields-diesel-prices/",
-        "published": "2026-08-18T12:47:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Claims Hormuz Strait as U.S. Territory",
+        "title": "Iran closes Strait of Hormuz as diesel prices surge to $5.46 a gallon across the United States",
         "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4392196/posts",
-        "published": "2026-08-18T12:43:31Z",
+        "url": "https://freerepublic.com/focus/f-news/4392203/posts",
+        "published": "2026-08-18T13:59:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "South Africa faces new fuel price shock",
-        "source": "RT",
-        "url": "https://www.rt.com/africa/644363-south-africa-faces-fuel-price-shock/",
-        "published": "2026-08-18T12:39:32Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran Says Hormuz Will Stay Shut Until U.S. Lifts Sanctions And Blockade—As Deadline Passes For Peace Deal",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/siladityaray/2026/08/18/iran-says-hormuz-will-stay-shut-until-us-lifts-sanctions-and-blockade-as-deadline-passes-for-peace-deal/",
-        "published": "2026-08-18T12:00:46Z",
+        "title": "Yemeni government escalates attacks against Houthis: What’s next?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next",
+        "published": "2026-08-18T13:51:33Z",
         "sentiment": "danger"
       },
       {
-        "title": "Tuesday: Hili dialogue",
-        "source": "Whyevolutionistrue.com",
-        "url": "https://whyevolutionistrue.com/2026/08/18/tuesday-hili-dialogue-593/",
-        "published": "2026-08-18T12:00:09Z",
+        "title": "Trump pursues hard line with Tehran as deadline expires",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-iran-strait-hormuz-deadline/",
+        "published": "2026-08-18T13:41:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Nasdaq, Dow and S&P 500 open lower, marking third day of declines",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/nasdaq-dow-sp500-third-day-declines/",
+        "published": "2026-08-18T13:39:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Gulf-to-China Supertanker Rates Hit $510,000 a Day",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Gulf-to-China-Supertanker-Rates-Hit-510000-a-Day.html",
+        "published": "2026-08-18T13:30:00Z",
         "sentiment": "watch"
       }
     ],
