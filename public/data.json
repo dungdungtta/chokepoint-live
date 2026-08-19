@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T13:59:44.083Z",
+    "generated_at": "2026-08-19T14:46:29.390Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump Threatened to Bomb Oman Because He’s Unhappy With Country’s Deal With Iran, Officials Say",
+        "source": "Military.com",
+        "url": "https://military.com/trump-threatened-to-bomb-oman-because-hes-unhappy-with-countrys-deal-with-iran-officials-say",
+        "published": "2026-08-18T14:38:46Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US-Iran ceasefire expires as Iran says MoU aimed to end the war, not just pause it",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-ceasefire-expires-war-preferences/",
+        "published": "2026-08-18T14:36:37Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump threatened to bomb Oman because he's unhappy with country's deal with Iran, officials say",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-threatened-bomb-oman-because-143004565.html",
+        "published": "2026-08-18T14:30:04Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Iran closes Strait of Hormuz as diesel prices surge to $5.46 a gallon across the United States",
         "source": "Freerepublic.com",
         "url": "https://freerepublic.com/focus/f-news/4392203/posts",
         "published": "2026-08-18T13:59:05Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Yemeni government escalates attacks against Houthis: What’s next?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next",
-        "published": "2026-08-18T13:51:33Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump pursues hard line with Tehran as deadline expires",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-strait-hormuz-deadline/",
-        "published": "2026-08-18T13:41:46Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Nasdaq, Dow and S&P 500 open lower, marking third day of declines",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/nasdaq-dow-sp500-third-day-declines/",
-        "published": "2026-08-18T13:39:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Gulf-to-China Supertanker Rates Hit $510,000 a Day",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Gulf-to-China-Supertanker-Rates-Hit-510000-a-Day.html",
-        "published": "2026-08-18T13:30:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Japanese encephalitis: Current status, recent progress, and persistent challenges",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014641",
+        "published": "2026-08-18T14:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "6 Reasons Why Kim Jong Un Might Want to Meet With Trump",
         "source": "The Diplomat",
@@ -89,13 +89,6 @@
         "source": "Slate Magazine",
         "url": "https://slate.com/news-and-politics/2026/08/trump-south-korea-north-korea-kim-jong-un-iran-war.html",
         "published": "2026-08-17T18:14:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan’s Urban Resilience Drills Are Becoming a Core Part of Deterrence",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/08/taiwans-urban-resilience-drills-are-becoming-a-core-part-of-deterrence/",
-        "published": "2026-08-17T15:44:00Z",
         "sentiment": "watch"
       }
     ],
@@ -124,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
