@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T23:09:11.356Z",
+    "generated_at": "2026-08-19T23:39:53.810Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran Calls Trump ‘Delusional,’ Declares ‘Post-American Order’ — After He Claims Hormuz as ‘New U.S. Territory’",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/08/18/iran-calls-trump-delusional-declares-post-american-order-after-he-claims-hormuz-as-new-u-s-territory/",
+        "published": "2026-08-18T23:22:15Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Goo Gone Pro-Power 24-oz. Goo & Adhesive Remover Spray Gel for $8 + free shipping w/ $35",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Goo-Gone-Pro-Power-24-oz-Goo-Adhesive-Remover-Spray-Gel-for-8-free-shipping-w-35/22052703.html",
+        "published": "2026-08-18T23:15:19Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "ACTIVE 32-oz. Pet Odor & Stain Eliminator Enzyme Cleaner for $14 w/ Subscribe & Save + free shipping w/ Prime",
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/products/ACTIVE-32-oz-Pet-Odor-Stain-Eliminator-Enzyme-Cleaner/521402.html",
@@ -46,20 +60,6 @@
         "url": "https://bringatrailer.com/listing/1982-honda-cbx-27/",
         "published": "2026-08-18T22:28:39Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "ACTIVE 7-oz. Mold Stain Remover Gel Cleaner for $11 w/ Subscribe & Save + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/ACTIVE-7-oz-Mold-Stain-Remover-Gel-Cleaner-for-11-w-Subscribe-Save-free-shipping-w-Prime/22052678.html",
-        "published": "2026-08-18T22:28:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Donald Trump orders envoys to halt all negotiations with Iran",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-halts-iran-negotiations/",
-        "published": "2026-08-18T22:27:05Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
