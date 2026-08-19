@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T22:44:10.139Z",
+    "generated_at": "2026-08-19T23:09:11.356Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "ACTIVE 32-oz. Pet Odor & Stain Eliminator Enzyme Cleaner for $14 w/ Subscribe & Save + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/products/ACTIVE-32-oz-Pet-Odor-Stain-Eliminator-Enzyme-Cleaner/521402.html",
+        "published": "2026-08-18T22:58:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "ACTIVE 32-oz. Ice Machine Cleaner & Descaler for $14 w/ Subscribe & Save + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/ACTIVE-32-oz-Ice-Machine-Cleaner-Descaler-for-14-w-Subscribe-Save-free-shipping-w-Prime/22052687.html",
+        "published": "2026-08-18T22:44:09Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "1982 Honda CBX Super Sport at No Reserve",
         "source": "Bringatrailer.com",
         "url": "https://bringatrailer.com/listing/1982-honda-cbx-27/",
@@ -46,20 +60,6 @@
         "url": "https://cryptobriefing.com/trump-halts-iran-negotiations/",
         "published": "2026-08-18T22:27:05Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "1984 Chevrolet Blazer M1009 CUCV Diesel 4×4",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1984-chevrolet-k5-blazer-32/",
-        "published": "2026-08-18T22:21:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil prices rise for fourth day amid US-Iran tensions, Strait of Hormuz risks",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-prices-rise-for-fourth-day-amid-us-iran-tensions-strait-of-hormuz-risks/",
-        "published": "2026-08-18T22:10:56Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
