@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T03:04:47.237Z",
+    "generated_at": "2026-08-19T04:01:05.001Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump says Iran won't make deal he thinks is needed, threatens to bomb Oman",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/trump-says-iran-wont-make-deal-he-thinks-is-needed-threatens-to-bomb-oman/article71358733.ece",
-        "published": "2026-08-18T03:02:09Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil rises as Iran signals offensive stance, US rules out ceasefire extension",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/oil-rises-as-iran-signals-offensive-stance-us-rules-out-ceasefire-extension/article71358728.ece",
-        "published": "2026-08-18T02:58:24Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Trump threatens Oman as it works with Iran on Strait of Hormuz deal",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/trump-threatens-oman-as-it-works-with-iran-on-strait-of-hormuz-deal-126081800047_1.html",
-        "published": "2026-08-18T02:24:28Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil rises as Brent tops $91, bond yields rise as US-Iran truce expires",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/oil-rises-as-brent-tops-91-bond-yields-rise-as-us-iran-truce-expires-126081800075_1.html",
-        "published": "2026-08-18T02:24:11Z",
+        "title": "Ukraine gets out of control",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/blog/2026/08/ukraine-gets-out-of-control/",
+        "published": "2026-08-18T04:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Crude prices cross $90 as ceasefire hopes dim, Hormuz disruption weighs on supply",
+        "title": "Iraq-Syria Pipeline Bypassing Hormuz Will Take Years, Billions to Rebuild",
+        "source": "Sputnikglobe.com",
+        "url": "https://sputnikglobe.com/20260818/iraq-syria-pipeline-bypassing-hormuz-will-take-years-billions-to-rebuild-1124594208.html",
+        "published": "2026-08-18T03:59:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US-Iran peace prospects dim with Trump in no hurry for deal",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-17/trump-threatens-to-bomb-oman-if-it-gets-in-way-of-us-fox-news-msx5rdoc",
+        "published": "2026-08-18T03:45:49Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "How much does a walrus pup weigh?",
+        "source": "Lifesciencesworld.com",
+        "url": "https://www.lifesciencesworld.com/how-much-does-a-walrus-pup-weigh/",
+        "published": "2026-08-18T03:38:58Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Global Market: Japan stocks slide as oil spike and rising bond yields weigh on sentiment",
         "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/business/international-business/crude-prices-cross-90-as-ceasefire-hopes-dim-hormuz-disruption-weighs-on-supply/articleshow/133309397.cms",
-        "published": "2026-08-18T02:03:45Z",
-        "sentiment": "neutral"
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-stocks-slide-as-oil-spike-and-rising-bond-yields-weigh-on-sentiment/articleshow/133310581.cms",
+        "published": "2026-08-18T03:34:57Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
