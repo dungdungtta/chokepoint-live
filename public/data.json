@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T05:37:02.815Z",
+    "generated_at": "2026-08-19T06:16:19.147Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "20-Pack 1-Ounce Lucas Oil Fishing Reel Oil $58.89 ($2.95 Ea) + Free Shipping",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19891662-20-pack-1-ounce-lucas-oil-fishing-reel-oil-58-89-2-95-ea-free-shipping",
-        "published": "2026-08-18T04:55:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Nifty slips for fifth straight session as crude spike, Iran fears rattle Dalal Street",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/nifty-slips-for-fifth-straight-session-as-crude-spike-iran-fears-rattle-dalal-street/article71358873.ece",
-        "published": "2026-08-18T04:13:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran oil spill: the War is leaving environmental Scars that Ceasefires cannot heal",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/08/leaving-environmental-ceasefires.html",
-        "published": "2026-08-18T04:04:24Z",
+        "title": "Iran threatens new offensive while Trump rules out extending ceasefire deal",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/08/18/iran-threatens-new-offensive-while-trump-rules-out-extending-ceasefire-deal/",
+        "published": "2026-08-18T06:11:48Z",
         "sentiment": "danger"
       },
       {
-        "title": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
-        "published": "2026-08-18T04:02:53Z",
+        "title": "Foreign dominance of coastal waters threatens Nigeria’s security",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/08/foreign-dominance-of-coastal-waters-threatens-nigerias-security/",
+        "published": "2026-08-18T06:07:53Z",
         "sentiment": "danger"
       },
       {
-        "title": "Ukraine gets out of control",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/blog/2026/08/ukraine-gets-out-of-control/",
-        "published": "2026-08-18T04:00:00Z",
+        "title": "Diesel Crack Spread Screams Economic Red Alert, and Inflation Will Soon Surge",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-18-diesel-crack-spread-screams-economic-red-alert.html",
+        "published": "2026-08-18T06:00:00Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Iran Stands Firm on Strait of Hormuz as Trump Warns Americans of Higher Gas Prices",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-18-iran-firm-hormuz-trump-warns-higher-gas-cost.html",
+        "published": "2026-08-18T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Bessent warns of “never-before-seen” economic isolation for Iran as U.S. blocks ports",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-18-bessent-warns-never-before-seen-economic-isolation-iran.html",
+        "published": "2026-08-18T06:00:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -124,7 +124,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
