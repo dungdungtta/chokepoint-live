@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T23:39:40.454Z",
+    "generated_at": "2026-08-19T00:00:04.908Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil: 2.5% surge with Brent above $90, US-Iran standoff fuels $100 scenarios",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/08/18/oil-2-5-surge-with-brent-above-90-us-iran-standoff-fuels-100-scenarios/",
+        "published": "2026-08-17T23:52:05Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump threatens Oman if it 'gets in way' of Iran deal",
         "source": "RTE",
         "url": "https://www.rte.ie/news/2026/0818/1588299-iran-middle-east/",
@@ -52,13 +59,6 @@
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/Finish-Jet-Dry-Dishwasher-Rinse-Aid-8-45-oz-for-2-75-via-Sub-Save-free-shipping-w-Prime/22046316.html",
         "published": "2026-08-17T21:31:53Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran says 60-day peace deal window expired with ‘absolutely no progress’ as US rejects extension",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-us-peace-deal-expires/",
-        "published": "2026-08-17T21:17:21Z",
         "sentiment": "watch"
       }
     ],
