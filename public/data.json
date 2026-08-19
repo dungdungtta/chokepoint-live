@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T10:48:36.324Z",
+    "generated_at": "2026-08-19T11:32:32.638Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,32 @@
   "news": {
     "hormuz": [
       {
+        "title": "What to watch in Tuesday’s primaries and Buss family drama over Lakers share: Morning Rundown",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/tuesday-primaries-buss-family-lakers-morning-rundown-rcna593059",
+        "published": "2026-08-18T11:10:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Current price of oil as of August 18, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-08-18-2026/",
+        "published": "2026-08-18T11:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran War: Trump Threatens to Bomb Oman as Iran Attacks on Shipping Notch Up, WSJ Reports Planning for Bigger Escalation; Debate Over Covert Transits;",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/iran-war-trump-threatens-to-bomb-oman-as-iran-attacks-on-shipping-notch-up-wsj-reports-planning-for-bigger-escalation-debate-over-covert-transits.html",
+        "published": "2026-08-18T10:58:59Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks",
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Third-Attack-on-Saudi-Aramco-Refinery-in-Two-Weeks.html",
         "published": "2026-08-18T10:30:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Analysis-Canada's pipeline ambitions hinge on uncertain output expansion",
-        "source": "Yahoo Entertainment",
-        "url": "https://ca.news.yahoo.com/analysis-canadas-pipeline-ambitions-hinge-100608458.html",
-        "published": "2026-08-18T10:06:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Idemitsu starts sourcing Saudi crude via Suez route, sees no risk to stable supplies -president",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/idemitsu-starts-sourcing-saudi-crude-suez-route-sees-no-risk-stable-supplies-president-6325736",
-        "published": "2026-08-18T10:05:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "India's tanker exports surge over six-fold to USD 1.36 billion in Q1 FY27; UAE leads",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-tanker-exports-surge-over-six-fold-to-usd-1-36-billion-in-q1-fy27-uae-leads/articleshow/133318178.cms",
-        "published": "2026-08-18T10:01:56Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
