@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T04:01:05.001Z",
+    "generated_at": "2026-08-19T04:53:45.570Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Nifty slips for fifth straight session as crude spike, Iran fears rattle Dalal Street",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/nifty-slips-for-fifth-straight-session-as-crude-spike-iran-fears-rattle-dalal-street/article71358873.ece",
+        "published": "2026-08-18T04:13:23Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran oil spill: the War is leaving environmental Scars that Ceasefires cannot heal",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/08/leaving-environmental-ceasefires.html",
+        "published": "2026-08-18T04:04:24Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
+        "published": "2026-08-18T04:02:53Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Ukraine gets out of control",
         "source": "Americanthinker.com",
         "url": "https://www.americanthinker.com/blog/2026/08/ukraine-gets-out-of-control/",
@@ -38,27 +59,6 @@
         "source": "Sputnikglobe.com",
         "url": "https://sputnikglobe.com/20260818/iraq-syria-pipeline-bypassing-hormuz-will-take-years-billions-to-rebuild-1124594208.html",
         "published": "2026-08-18T03:59:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US-Iran peace prospects dim with Trump in no hurry for deal",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-17/trump-threatens-to-bomb-oman-if-it-gets-in-way-of-us-fox-news-msx5rdoc",
-        "published": "2026-08-18T03:45:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How much does a walrus pup weigh?",
-        "source": "Lifesciencesworld.com",
-        "url": "https://www.lifesciencesworld.com/how-much-does-a-walrus-pup-weigh/",
-        "published": "2026-08-18T03:38:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Global Market: Japan stocks slide as oil spike and rising bond yields weigh on sentiment",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-stocks-slide-as-oil-spike-and-rising-bond-yields-weigh-on-sentiment/articleshow/133310581.cms",
-        "published": "2026-08-18T03:34:57Z",
         "sentiment": "watch"
       }
     ],
