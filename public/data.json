@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T20:47:19.731Z",
+    "generated_at": "2026-08-19T21:31:56.753Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Chinese State Shipping Companies Back Away from Chokepoints Threatened by Iran",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/08/18/chinese-state-shipping-companies-back-away-chokepoints-threatened-iran/",
+        "published": "2026-08-18T21:28:48Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "China Touts Success of Arctic ‘Ice Silk Road’ to Bypass Strait of Hormuz",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/asia/2026/08/18/china-touts-success-of-arctic-ice-silk-road-to-bypass-strait-of-hormuz/",
+        "published": "2026-08-18T21:19:52Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Only 7% of Global Green Hydrogen Capacity Was Finished on Schedule",
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Energy/Energy-General/Only-7-of-Global-Green-Hydrogen-Capacity-Was-Finished-on-Schedule.html",
@@ -46,20 +60,6 @@
         "url": "https://cryptobriefing.com/trump-threatens-bomb-oman-iran-strait-hormuz/",
         "published": "2026-08-18T19:20:51Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "A 4-Million-Bpd Shadow Oil Highway Is Running Through Hormuz",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/A-4-Million-Bpd-Shadow-Oil-Highway-Is-Running-Through-Hormuz.html",
-        "published": "2026-08-18T19:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran is losing control of the Strait of Hormuz | CNN Business",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/08/18/business/iran-strait-of-hormuz-oil",
-        "published": "2026-08-18T18:35:58Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
