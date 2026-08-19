@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T16:48:39.058Z",
+    "generated_at": "2026-08-19T17:32:31.346Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "12 Gigantic Red Flag Warning Signs For The Economy",
+        "source": "Theeconomiccollapseblog.com",
+        "url": "http://theeconomiccollapseblog.com/12-gigantic-red-flag-warning-signs-for-the-economy/",
+        "published": "2026-08-18T17:29:22Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Saudi Arabia resumes oil loadings, sales from inside Strait of Hormuz",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/saudi-arabia-resumes-oil-loadings-sales-from-inside-strait-of-hormuz-126081801553_1.html",
+        "published": "2026-08-18T17:13:28Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Trump is threatening to bomb Oman, but why?",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/trump-threatening-bomb-oman-135745050",
+        "published": "2026-08-18T17:05:32Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "US diesel margins exceed $100 a barrel amid global fuel crunch",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/us-diesel-margins-exceed-100-barrel/",
@@ -39,27 +60,6 @@
         "url": "https://www.breitbart.com/middle-east/2026/08/18/report-saudi-arabia-resumes-loading-oil-in-strait-of-hormuz/",
         "published": "2026-08-18T16:28:32Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Greek oil tanker attacked in Black Sea – Bloomberg",
-        "source": "RT",
-        "url": "https://www.rt.com/russia/644380-greek-tanker-attacked-black-sea/",
-        "published": "2026-08-18T16:26:27Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran prepares to keep economy alive as US threatens further sanctions",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions",
-        "published": "2026-08-18T16:21:49Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Vance Pitches a New Objective for the Iran War",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/08/18/vance-iran-war-objectives-gas-prices/",
-        "published": "2026-08-18T16:18:18Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -124,7 +124,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
