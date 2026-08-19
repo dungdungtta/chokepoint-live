@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T14:46:29.390Z",
+    "generated_at": "2026-08-19T15:38:23.133Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump Threatened to Bomb Oman Because He’s Unhappy With Country’s Deal With Iran, Officials Say",
-        "source": "Military.com",
-        "url": "https://military.com/trump-threatened-to-bomb-oman-because-hes-unhappy-with-countrys-deal-with-iran-officials-say",
-        "published": "2026-08-18T14:38:46Z",
+        "title": "Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/markets/bitcoin-tags-65k-as-sp-500-rebounds-from-2-week-lows-on-us-iran-rhetoric",
+        "published": "2026-08-18T15:27:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump trolls Iran, declaring Strait of Hormuz a 'new US territory' - prompting threats from Tehran",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16061015/Trump-trolls-Iran-declaring-Strait-Hormuz-new-US-territory-prompting-threats-Tehran.html",
+        "published": "2026-08-18T15:20:04Z",
         "sentiment": "danger"
       },
       {
-        "title": "US-Iran ceasefire expires as Iran says MoU aimed to end the war, not just pause it",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-ceasefire-expires-war-preferences/",
-        "published": "2026-08-18T14:36:37Z",
-        "sentiment": "danger"
+        "title": "How Gulf Oil Is Escaping the Strait of Hormuz",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/How-Gulf-Oil-Is-Escaping-the-Strait-of-Hormuz.html",
+        "published": "2026-08-18T15:00:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Trump threatened to bomb Oman because he's unhappy with country's deal with Iran, officials say",
+        "title": "How Gulf Oil Is Escaping the Strait of Hormuz",
         "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-threatened-bomb-oman-because-143004565.html",
-        "published": "2026-08-18T14:30:04Z",
-        "sentiment": "danger"
+        "url": "https://finance.yahoo.com/energy/articles/gulf-oil-escaping-strait-hormuz-150000576.html",
+        "published": "2026-08-18T15:00:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Iran closes Strait of Hormuz as diesel prices surge to $5.46 a gallon across the United States",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4392203/posts",
-        "published": "2026-08-18T13:59:05Z",
+        "title": "Ferry To Floatel: Heat Pumps Provide a Green Pathway",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/ferry-to-floatel-heat-pumps-provide-a-green-pathway/",
+        "published": "2026-08-18T14:59:16Z",
         "sentiment": "watch"
       }
     ],
@@ -117,7 +124,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
