@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T05:37:10.191Z",
+    "generated_at": "2026-08-20T06:16:17.985Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "UAE suspend Iran trade after ballistic missiles detected",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/2026/0819/1588442-middle-east/",
-        "published": "2026-08-19T05:35:17Z",
+        "title": "Trump Labels Strait of Hormuz “U.S. Territory”",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-19-trump-labels-strait-of-hormuz-us-territory.html",
+        "published": "2026-08-19T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "UAE suspends trade ties with Iran after missile launch: Key developments",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/uae-suspends-trade-ties-with-iran-after-missile-launch-key-developments-126081900238_1.html",
-        "published": "2026-08-19T04:22:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Crude oil futures gain as standoff over Hormuz reopening continues",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-gain-as-standoff-over-hormuz-reopening-continues/article71363309.ece",
-        "published": "2026-08-19T04:17:41Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Iran’s latest warning to the US signals the hardliners are just getting started",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/08/19/middleeast/iran-hardliners-just-getting-started-intl",
-        "published": "2026-08-19T04:01:29Z",
+        "title": "Iran Warns of “Strategic Surprises” from New Offensive Doctrine",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-19-iran-warns-strategic-surprises-new-offensive-doctrine.html",
+        "published": "2026-08-19T06:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil Price Today (August 19): Crude oil nears $92/barrel as Trump claims US in no talks with Iran. What lies ahead?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-19-crude-oil-nears-92/barrel-as-trump-claims-us-in-no-talks-with-iran-what-lies-ahead/articleshow/133336672.cms",
-        "published": "2026-08-19T03:49:59Z",
-        "sentiment": "neutral"
+        "title": "Drill, maybe drill in Greenland",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/2026/08/19/drill-maybe-drill-us-mining-company-triggers-annoyance-and-curiosity-in-greenland/",
+        "published": "2026-08-19T05:52:15Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Hormuz traffic slows as uncertainty over waterway persists",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/logistics/hormuz-traffic-slows-as-uncertainty-over-waterway-persists/article71363498.ece",
+        "published": "2026-08-19T05:42:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Prices Rise for Fourth Day as Hormuz Traffic Slows",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-for-Fourth-Day-as-Hormuz-Traffic-Slows.html",
+        "published": "2026-08-19T05:40:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "U.S. Withdraws Last Aircraft Carrier From Asia as Focus Shifts to Iran, Western Hemisphere, AP Reports",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-19-us-withdraws-last-aircraft-carrier-from-asia.html",
+        "published": "2026-08-19T06:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Colby’s Empty Charm Offensive",
         "source": "Foreign Policy",
@@ -88,13 +95,6 @@
         "title": "Soldier indicted for leaking military secrets to China-linked group",
         "source": "Globalsecurity.org",
         "url": "https://www.globalsecurity.org/intell/library/news/2026/intell-260818-cna01.htm",
-        "published": "2026-08-18T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "PLA Navy Task Force 83 returns after completing far-sea training and visits to Russia, Vietnam, Brunei and Indonesia",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/08/china-260818-globaltimes02.htm",
         "published": "2026-08-18T12:00:00Z",
         "sentiment": "watch"
       }
