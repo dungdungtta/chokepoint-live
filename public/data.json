@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T14:57:09.466Z",
+    "generated_at": "2026-08-20T15:41:39.851Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran Risks Losing Key Economic Lifeline With UAE Halting Trade",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/economy/articles/iran-risks-losing-key-economic-150832336.html",
+        "published": "2026-08-19T15:08:32Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "3 Chinese Supertankers Abort Hormuz Attempt",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/3_chinese_supertankers_abort_hormuz_attempt-19-aug-2026-184406-article/",
+        "published": "2026-08-19T15:02:43Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Jones Act 'Suppresses Domestic Commerce' - End It",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4392346/posts",
+        "published": "2026-08-19T15:00:51Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "‘Earning billions’: How fuel exporters in India, US are benefitting amid war-led oil supply disruptions",
         "source": "The Times of India",
         "url": "https://timesofindia.indiatimes.com/business/india-business/earning-billions-how-fuel-exporters-in-india-us-are-benefitting-from-war-led-oil-supply-disruptions/articleshow/133350815.cms",
@@ -38,27 +59,6 @@
         "source": "Business Standard",
         "url": "https://www.business-standard.com/world-news/oil-prices-hit-three-week-high-on-uncertainty-over-strait-of-hormuz-126081901178_1.html",
         "published": "2026-08-19T14:09:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Changes in skin properties are consequence but not cause of green spot in 'WA 38' apples",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356529",
-        "published": "2026-08-19T14:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Dow Rises as Target's Earnings Beat Offsets Lowe's Weak Guidance Ahead of Fed Minutes Release Wednesday",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/dow-jones-rises-mixed-retail-earnings-biotech-surge-1874272",
-        "published": "2026-08-19T13:57:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Dr Pepper Zero Sugar Creamy Coconut 12-oz. Can 12-Pack for 3 for $15 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Dr-Pepper-Zero-Sugar-Creamy-Coconut-12-oz-Can-12-Pack-for-3-for-15-free-shipping/22058759.html",
-        "published": "2026-08-19T13:23:28Z",
         "sentiment": "watch"
       }
     ],
