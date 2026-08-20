@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T21:45:48.118Z",
+    "generated_at": "2026-08-20T22:34:43.109Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran-US tensions keep oil prices elevated amid Strait of Hormuz concerns",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-us-tensions-keep-oil-prices-elevated-amid-strait-of-hormuz-concerns/",
+        "published": "2026-08-19T22:13:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Exxon Stock Rises as Oil Nears $92 on Hormuz Risk",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/e955b0b894ce54fd",
+        "published": "2026-08-19T22:10:04Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump: Hormuz blockade is '100% successful'",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/431957",
+        "published": "2026-08-19T22:09:20Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "US quietly guides millions of barrels of oil through Strait of Hormuz in stealth operation",
         "source": "New York Post",
         "url": "https://nypost.com/2026/08/19/world-news/us-guides-millions-of-barrels-of-oil-through-strait-of-hormuz-in-stealth-operation/",
@@ -39,27 +60,6 @@
         "url": "https://fortune.com/2026/08/19/trump-threatens-to-bomb-oman-widening-the-war-that-crippled-the-global-economy/",
         "published": "2026-08-19T20:32:28Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "The Strait of Hormuz Is Open. Also Closed. It’s Complicated.",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4392398/posts",
-        "published": "2026-08-19T20:27:53Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "A Stealth Operation to Transport Oil Through Hormuz",
-        "source": "Politicalwire.com",
-        "url": "https://politicalwire.com/2026/08/19/a-stealth-operation-to-transport-oil-through-hormuz/",
-        "published": "2026-08-19T20:25:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US said to be secretly passing oil through Hormuz",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/bffe5b5fa708a94b",
-        "published": "2026-08-19T20:20:43Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
