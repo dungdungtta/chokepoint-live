@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T10:14:12.480Z",
+    "generated_at": "2026-08-20T10:51:26.878Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Global Market: European shares flat as Middle East risks weigh; Fed Minutes in focus",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-flat-as-middle-east-risks-weigh-fed-minutes-in-focus/articleshow/133344247.cms",
-        "published": "2026-08-19T09:57:43Z",
+        "title": "Grocery Extravaganza Sale at Woot: Up to 40% off + extra 20% off + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Grocery-Extravaganza-Sale-at-Woot-Up-to-40-off-extra-20-off-free-shipping-w-Prime/22058538.html",
+        "published": "2026-08-19T10:36:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Russia to receive almost 270,000 tons of refined fuel from Asia in August, data shows",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/russia-imports-270000-tons-of-refined-fuel-from-asia-amid-ukraine-conflict/articleshow/133343968.cms",
-        "published": "2026-08-19T09:52:07Z",
+        "title": "Sensex today | Stock Market Highlights: Indian markets decline for seventh straight session; Nifty loses 2.1% in seven days",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-19th-august-2026/article71360276.ece",
+        "published": "2026-08-19T10:33:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "Strait of Hormuz Shipping Slows After Vessel Attack",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Strait-of-Hormuz-Shipping-Slows-After-Vessel-Attack.html",
-        "published": "2026-08-19T09:30:00Z",
+        "title": "Rupee hits three-week low, traders wary about fall to 96/USD as RBI stands guard",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/forex/rupee-hits-three-week-low-traders-wary-about-fall-to-96usd-as-rbi-stands-guard/article71364363.ece",
+        "published": "2026-08-19T10:28:56Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump signals economic pressure in Iran conflict as talks stall: ANALYSIS",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Politics/trump-signals-economic-pressure-iran-conflict-talks-stall/story?id=135753451",
-        "published": "2026-08-19T09:20:53Z",
-        "sentiment": "neutral"
+        "title": "Indian, US fuel exporters reaping bonanza amid oil supply uncertainty due to wars",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indian-us-fuel-exporters-reaping-bonanza-amid-oil-supply-uncertainty-due-to-wars/articleshow/133344591.cms",
+        "published": "2026-08-19T10:28:20Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Indian, US fuel exporters reaping bonanza amid oil supply uncertainty due to wars",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indian-us-fuel-exporters-reaping-bonanza-amid-oil-supply-uncertainty-due-to-wars/articleshow/133345072.cms",
+        "published": "2026-08-19T10:28:20Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -117,7 +124,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
