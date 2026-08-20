@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T15:41:39.851Z",
+    "generated_at": "2026-08-20T16:14:48.545Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Abu Dhabi cuts economic ties with Iran, with Fujairah’s maritime gateway at the epicenter",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/08/19/abu-dhabi-cuts-economic-ties-with-iran-with-fujairahs-maritime-gateway-at-the-epicenter/",
+        "published": "2026-08-19T15:59:16Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Iran Risks Losing Key Economic Lifeline With UAE Halting Trade",
         "source": "Yahoo Entertainment",
@@ -53,13 +60,6 @@
         "url": "https://timesofindia.indiatimes.com/business/india-business/earning-billions-how-fuel-exporters-in-india-us-are-benefitting-from-war-led-oil-supply-disruptions/articleshow/133350815.cms",
         "published": "2026-08-19T14:22:28Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices hit three-week high on uncertainty over Strait of Hormuz",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/oil-prices-hit-three-week-high-on-uncertainty-over-strait-of-hormuz-126081901178_1.html",
-        "published": "2026-08-19T14:09:36Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
