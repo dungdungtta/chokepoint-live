@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T23:04:19.181Z",
+    "generated_at": "2026-08-20T23:42:10.552Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Cheerios Confetti 11-oz. Breakfast Cereal for $2.53 via Sub & Save + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Cheerios-Confetti-11-oz-Breakfast-Cereal-for-2-53-via-Sub-Save-free-shipping-w-Prime/22059411.html",
+        "published": "2026-08-19T23:33:03Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump announces most severe economic action against Iran",
         "source": "Crypto Briefing",
@@ -53,13 +60,6 @@
         "url": "https://www.israelnationalnews.com/news/431957",
         "published": "2026-08-19T22:09:20Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "US quietly guides millions of barrels of oil through Strait of Hormuz in stealth operation",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/19/world-news/us-guides-millions-of-barrels-of-oil-through-strait-of-hormuz-in-stealth-operation/",
-        "published": "2026-08-19T20:47:31Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
