@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T04:54:48.878Z",
+    "generated_at": "2026-08-20T05:37:10.191Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "UAE suspend Iran trade after ballistic missiles detected",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/2026/0819/1588442-middle-east/",
+        "published": "2026-08-19T05:35:17Z",
+        "sentiment": "watch"
+      },
       {
         "title": "UAE suspends trade ties with Iran after missile launch: Key developments",
         "source": "Business Standard",
@@ -53,16 +60,16 @@
         "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-19-crude-oil-nears-92/barrel-as-trump-claims-us-in-no-talks-with-iran-what-lies-ahead/articleshow/133336672.cms",
         "published": "2026-08-19T03:49:59Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "From hammering Iran to strangling them: Donald Trump has a new approach in Middle East war",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/from-hammering-iran-to-strangling-them-donald-trump-has-a-new-approach-in-middle-east-war/articleshow/133336491.cms",
-        "published": "2026-08-19T03:49:30Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Colby’s Empty Charm Offensive",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/08/19/colby-philippines-southeast-asia-tour/",
+        "published": "2026-08-19T05:00:21Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Japanese encephalitis: Current status, recent progress, and persistent challenges",
         "source": "Plos.org",
@@ -89,13 +96,6 @@
         "source": "Globalsecurity.org",
         "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/08/china-260818-globaltimes02.htm",
         "published": "2026-08-18T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Just Took a Wild Stance on North Korea",
-        "source": "Slate Magazine",
-        "url": "https://slate.com/news-and-politics/2026/08/trump-south-korea-north-korea-kim-jong-un-iran-war.html",
-        "published": "2026-08-17T18:14:11Z",
         "sentiment": "watch"
       }
     ],
