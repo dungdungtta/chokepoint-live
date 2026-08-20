@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T17:36:45.731Z",
+    "generated_at": "2026-08-20T18:13:15.397Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Vevor SucceBuy 8L 900W Portable Air Pump for $65 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Vevor-Succe-Buy-8-L-900-W-Portable-Air-Pump-for-65-free-shipping/22059092.html",
+        "published": "2026-08-19T18:11:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Sailors weigh safe harbour against risky passage with higher pay",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/industry/news/sailors-weigh-safe-harbour-against-risky-passage-with-higher-pay-126081901579_1.html",
+        "published": "2026-08-19T17:55:05Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Silicon Data aids Wall Street in pricing AI compute resources",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/silicon-data-wall-street-ai-compute-pricing/",
+        "published": "2026-08-19T17:40:30Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Russia helps Iran sharpen its sword",
         "source": "Longwarjournal.org",
         "url": "https://www.longwarjournal.org/archives/2026/08/russia-helps-iran-sharpen-its-sword.php",
@@ -38,27 +59,6 @@
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/three-chinese-tankers-u-turn-in-hormuz-as-risks-remain-high/",
         "published": "2026-08-19T17:02:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Aramco Gives Full September Oil Allocations to 3 European Refiners",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Gives-Full-September-Oil-Allocations-to-3-European-Refiners.html",
-        "published": "2026-08-19T16:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Cabinet approves 5 rail and road projects worth ₹13,041 crore",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/national/cabinet-approves-5-rail-and-road-projects-worth-13041-crore/article71365077.ece",
-        "published": "2026-08-19T16:20:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Abu Dhabi cuts economic ties with Iran, with Fujairah’s maritime gateway at the epicenter",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/08/19/abu-dhabi-cuts-economic-ties-with-iran-with-fujairahs-maritime-gateway-at-the-epicenter/",
-        "published": "2026-08-19T15:59:16Z",
         "sentiment": "watch"
       }
     ],
