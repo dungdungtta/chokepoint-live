@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T01:52:53.815Z",
+    "generated_at": "2026-08-20T03:03:48.404Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil prices rise amid Strait of Hormuz export uncertainties",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/oil-edges-up-on-uncertainty-over-exports-through-hormuz",
-        "published": "2026-08-19T01:34:57Z",
+        "title": "Trump says US has no talks planned with Iran and other news from the Middle East",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/trump-us-talks-planned-iran-news-middle-east-135730184",
+        "published": "2026-08-19T02:38:21Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "BIODANCE Rejuvenating Caviar PDRN Capsule Cream $13.19 w/Subscribe & Save + Free Shipping w/Prime",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19895292-biodance-rejuvenating-caviar-pdrn-capsule-cream-13-19-w-subscribe-save-free-shipping-w-prime",
+        "published": "2026-08-19T02:36:35Z",
         "sentiment": "watch"
       },
       {
-        "title": "CNBC Daily Open: Trump puts 'open' sign on Hormuz. But traffic is barely trickling",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/19/cnbc-daily-open-trump-hormuz-markets-attack.html",
-        "published": "2026-08-19T01:31:26Z",
+        "title": "Oil prices edge higher on uncertainty over exports through Hormuz",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/commodities/oil-prices-edge-higher-on-uncertainty-over-exports-through-hormuz-126081900086_1.html",
+        "published": "2026-08-19T02:12:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "1965 Chevrolet Corvette Coupe SCCA/Trans Am Race Car",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1965-chevrolet-corvette-coupe-110/",
-        "published": "2026-08-19T01:29:44Z",
-        "sentiment": "watch"
+        "title": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/trump-says-no-talks-planned-with-iran-tehran-says-strait-of-hormuz-still-shut/article71363146.ece",
+        "published": "2026-08-19T02:06:50Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Oil edges up on uncertainty over exports through Hormuz",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/19/oil-edges-up-on-uncertainty-over-exports-through-hormuz.html",
-        "published": "2026-08-19T01:22:04Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump is threatening to bomb Oman, but why?",
+        "title": "Gold inches higher, focus on Fed minutes",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-is-threatening-to-bomb-oman-but-why/articleshow/133334886.cms",
-        "published": "2026-08-19T01:10:19Z",
-        "sentiment": "danger"
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-higher-focus-on-fed-minutes/articleshow/133335242.cms",
+        "published": "2026-08-19T01:59:17Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
