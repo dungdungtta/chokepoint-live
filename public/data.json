@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T22:34:43.109Z",
+    "generated_at": "2026-08-20T23:04:19.181Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Trump announces most severe economic action against Iran",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-announces-most-severe-economic-action-against-iran/",
+        "published": "2026-08-19T23:04:01Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Iran-US tensions keep oil prices elevated amid Strait of Hormuz concerns",
         "source": "Crypto Briefing",
@@ -53,13 +60,6 @@
         "url": "https://nypost.com/2026/08/19/world-news/us-guides-millions-of-barrels-of-oil-through-strait-of-hormuz-in-stealth-operation/",
         "published": "2026-08-19T20:47:31Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Trump threatens to bomb Oman, widening the war that crippled the global economy",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/08/19/trump-threatens-to-bomb-oman-widening-the-war-that-crippled-the-global-economy/",
-        "published": "2026-08-19T20:32:28Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
