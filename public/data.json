@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T03:03:48.404Z",
+    "generated_at": "2026-08-20T04:00:48.442Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil Price Today (August 19): Crude oil nears $92/barrel as Trump claims US in no talks with Iran. What lies ahead?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-19-crude-oil-nears-92/barrel-as-trump-claims-us-in-no-talks-with-iran-what-lies-ahead/articleshow/133336672.cms",
+        "published": "2026-08-19T03:49:59Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "From hammering Iran to strangling them: Donald Trump has a new approach in Middle East war",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/from-hammering-iran-to-strangling-them-donald-trump-has-a-new-approach-in-middle-east-war/articleshow/133336491.cms",
+        "published": "2026-08-19T03:49:30Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks",
+        "published": "2026-08-19T03:34:40Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Trump says US has no talks planned with Iran and other news from the Middle East",
         "source": "Abcnews.com",
         "url": "https://abcnews.com/International/wireStory/trump-us-talks-planned-iran-news-middle-east-135730184",
@@ -38,27 +59,6 @@
         "source": "Slickdeals.net",
         "url": "https://slickdeals.net/f/19895292-biodance-rejuvenating-caviar-pdrn-capsule-cream-13-19-w-subscribe-save-free-shipping-w-prime",
         "published": "2026-08-19T02:36:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil prices edge higher on uncertainty over exports through Hormuz",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/commodities/oil-prices-edge-higher-on-uncertainty-over-exports-through-hormuz-126081900086_1.html",
-        "published": "2026-08-19T02:12:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/trump-says-no-talks-planned-with-iran-tehran-says-strait-of-hormuz-still-shut/article71363146.ece",
-        "published": "2026-08-19T02:06:50Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Gold inches higher, focus on Fed minutes",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-higher-focus-on-fed-minutes/articleshow/133335242.cms",
-        "published": "2026-08-19T01:59:17Z",
         "sentiment": "watch"
       }
     ],
