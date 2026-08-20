@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T20:36:24.937Z",
+    "generated_at": "2026-08-20T21:11:14.521Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "US quietly guides millions of barrels of oil through Strait of Hormuz in stealth operation",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/19/world-news/us-guides-millions-of-barrels-of-oil-through-strait-of-hormuz-in-stealth-operation/",
+        "published": "2026-08-19T20:47:31Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump threatens to bomb Oman, widening the war that crippled the global economy",
         "source": "Fortune",
         "url": "https://fortune.com/2026/08/19/trump-threatens-to-bomb-oman-widening-the-war-that-crippled-the-global-economy/",
@@ -52,13 +59,6 @@
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/bffe5b5fa708a94b",
         "published": "2026-08-19T20:20:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "$100 Diesel Cracks Signal a Much Tighter Oil Market Than Brent Suggests",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/100-Diesel-Cracks-Signal-a-Much-Tighter-Oil-Market-Than-Brent-Suggests.html",
-        "published": "2026-08-19T20:00:00Z",
         "sentiment": "watch"
       }
     ],
