@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T19:47:32.118Z",
+    "generated_at": "2026-08-20T20:36:24.937Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US military establishes oil shipping corridor through Strait of Hormuz amid ongoing Iranian threats",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-military-oil-corridor-strait-hormuz/",
-        "published": "2026-08-19T19:41:08Z",
+        "title": "Trump threatens to bomb Oman, widening the war that crippled the global economy",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/08/19/trump-threatens-to-bomb-oman-widening-the-war-that-crippled-the-global-economy/",
+        "published": "2026-08-19T20:32:28Z",
         "sentiment": "danger"
       },
       {
-        "title": "U.S. conducting stealth operation to transport oil through Hormuz",
+        "title": "The Strait of Hormuz Is Open. Also Closed. It’s Complicated.",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4392398/posts",
+        "published": "2026-08-19T20:27:53Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "A Stealth Operation to Transport Oil Through Hormuz",
+        "source": "Politicalwire.com",
+        "url": "https://politicalwire.com/2026/08/19/a-stealth-operation-to-transport-oil-through-hormuz/",
+        "published": "2026-08-19T20:25:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US said to be secretly passing oil through Hormuz",
         "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/b46060cc9b52e4b8",
-        "published": "2026-08-19T19:34:45Z",
+        "url": "https://biztoc.com/x/bffe5b5fa708a94b",
+        "published": "2026-08-19T20:20:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "Copper Backwardation Collapses After 20,000 Tons Hit LME Warehouses",
+        "title": "$100 Diesel Cracks Signal a Much Tighter Oil Market Than Brent Suggests",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Metals/Commodities/Copper-Backwardation-Collapses-After-20000-Tons-Hit-LME-Warehouses.html",
-        "published": "2026-08-19T19:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Op-Ed: 'Crack Spread' Is What's Really Driving Pain at Pump",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/394921/op-ed-crack-spread-is-whats-really-driving-pain-at-pump.html",
-        "published": "2026-08-19T18:50:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Vevor SucceBuy 8L 900W Portable Air Pump for $65 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Vevor-Succe-Buy-8-L-900-W-Portable-Air-Pump-for-65-free-shipping/22059092.html",
-        "published": "2026-08-19T18:11:10Z",
+        "url": "https://oilprice.com/Energy/Energy-General/100-Diesel-Cracks-Signal-a-Much-Tighter-Oil-Market-Than-Brent-Suggests.html",
+        "published": "2026-08-19T20:00:00Z",
         "sentiment": "watch"
       }
     ],
