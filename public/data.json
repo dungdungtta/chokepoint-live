@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T04:00:48.442Z",
+    "generated_at": "2026-08-20T04:54:48.878Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "UAE suspends trade ties with Iran after missile launch: Key developments",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/uae-suspends-trade-ties-with-iran-after-missile-launch-key-developments-126081900238_1.html",
+        "published": "2026-08-19T04:22:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Crude oil futures gain as standoff over Hormuz reopening continues",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-gain-as-standoff-over-hormuz-reopening-continues/article71363309.ece",
+        "published": "2026-08-19T04:17:41Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Iran’s latest warning to the US signals the hardliners are just getting started",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/08/19/middleeast/iran-hardliners-just-getting-started-intl",
+        "published": "2026-08-19T04:01:29Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Oil Price Today (August 19): Crude oil nears $92/barrel as Trump claims US in no talks with Iran. What lies ahead?",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-19-crude-oil-nears-92/barrel-as-trump-claims-us-in-no-talks-with-iran-what-lies-ahead/articleshow/133336672.cms",
@@ -39,27 +60,6 @@
         "url": "https://economictimes.indiatimes.com/news/international/global-trends/from-hammering-iran-to-strangling-them-donald-trump-has-a-new-approach-in-middle-east-war/articleshow/133336491.cms",
         "published": "2026-08-19T03:49:30Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks",
-        "published": "2026-08-19T03:34:40Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump says US has no talks planned with Iran and other news from the Middle East",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/trump-us-talks-planned-iran-news-middle-east-135730184",
-        "published": "2026-08-19T02:38:21Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "BIODANCE Rejuvenating Caviar PDRN Capsule Cream $13.19 w/Subscribe & Save + Free Shipping w/Prime",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19895292-biodance-rejuvenating-caviar-pdrn-capsule-cream-13-19-w-subscribe-save-free-shipping-w-prime",
-        "published": "2026-08-19T02:36:35Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
