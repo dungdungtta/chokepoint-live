@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T06:16:17.985Z",
+    "generated_at": "2026-08-20T07:23:56.284Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump Labels Strait of Hormuz “U.S. Territory”",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-19-trump-labels-strait-of-hormuz-us-territory.html",
-        "published": "2026-08-19T06:00:00Z",
+        "title": "Oil extends climb on prolonged Hormuz export uncertainty",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0819/1588455-world-oil-prices/",
+        "published": "2026-08-19T07:09:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran Warns of “Strategic Surprises” from New Offensive Doctrine",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-19-iran-warns-strategic-surprises-new-offensive-doctrine.html",
-        "published": "2026-08-19T06:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Drill, maybe drill in Greenland",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/2026/08/19/drill-maybe-drill-us-mining-company-triggers-annoyance-and-curiosity-in-greenland/",
-        "published": "2026-08-19T05:52:15Z",
+        "title": "Strait of Hormuz chaos has incentivized China to use an alternative trade route: a 3,400 mile frozen Arctic channel dubbed the ‘Ice Silk Road’",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/08/19/strait-of-hormuz-iran-war-china-trade-route-ice-silk-road/",
+        "published": "2026-08-19T07:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Hormuz traffic slows as uncertainty over waterway persists",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/logistics/hormuz-traffic-slows-as-uncertainty-over-waterway-persists/article71363498.ece",
-        "published": "2026-08-19T05:42:39Z",
+        "title": "UAE halts all trade, financial dealings with Iran",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/uae-halts-all-trade-financial-dealings-with-iran-225784",
+        "published": "2026-08-19T06:59:48Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Prices Rise for Fourth Day as Hormuz Traffic Slows",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-for-Fourth-Day-as-Hormuz-Traffic-Slows.html",
-        "published": "2026-08-19T05:40:00Z",
+        "title": "UAE suspends trade, financial dealings with Iran",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/08/uae-suspends-trade-financial-dealings-with-iran/",
+        "published": "2026-08-19T06:45:07Z",
         "sentiment": "watch"
       }
     ],
