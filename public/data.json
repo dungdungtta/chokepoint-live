@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T13:13:33.037Z",
+    "generated_at": "2026-08-20T14:03:11.417Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Changes in skin properties are consequence but not cause of green spot in 'WA 38' apples",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356529",
+        "published": "2026-08-19T14:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Dow Rises as Target's Earnings Beat Offsets Lowe's Weak Guidance Ahead of Fed Minutes Release Wednesday",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/dow-jones-rises-mixed-retail-earnings-biotech-surge-1874272",
+        "published": "2026-08-19T13:57:08Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Dr Pepper Zero Sugar Creamy Coconut 12-oz. Can 12-Pack for 3 for $15 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Dr-Pepper-Zero-Sugar-Creamy-Coconut-12-oz-Can-12-Pack-for-3-for-15-free-shipping/22058759.html",
+        "published": "2026-08-19T13:23:28Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "macOS Tahoe 26.6.2 (25G83)",
         "source": "Rlsbb.cc",
         "url": "https://post.rlsbb.cc/macos-tahoe-26-6-2-25g83/",
@@ -39,30 +60,16 @@
         "url": "https://www.aljazeera.com/news/2026/8/19/uae-trade-embargo-could-shut-irans-key-economic-escape-route-heres-why",
         "published": "2026-08-19T12:37:40Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Trekor Updates Status of Aley Niobium and Strengthens Project Team",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/globe-newswire/trekor-updates-status-of-aley-niobium-and-strengthens-project-team",
-        "published": "2026-08-19T12:33:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil India may offer higher upside than ONGC as crude prices stay elevated",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/oil-india-may-offer-higher-upside-than-ongc-as-crude-prices-stay-elevated-126081900990_1.html",
-        "published": "2026-08-19T12:05:32Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Murban Crude Jumps to 4-Month High as ADNOC Curbs Supply to Asia",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Murban-Crude-Jumps-to-4-Month-High-as-ADNOC-Curbs-Supply-to-Asia.html",
-        "published": "2026-08-19T11:30:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Japan’s So-Called ‘Rising Militarism’ and Japan-US Relations",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/08/japans-so-called-rising-militarism-and-japan-us-relations/",
+        "published": "2026-08-19T13:31:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "US shifts military focus from Pacific to Middle East amid Iran-Israel conflict",
         "source": "Crypto Briefing",
@@ -89,13 +96,6 @@
         "source": "Plos.org",
         "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014641",
         "published": "2026-08-18T14:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "6 Reasons Why Kim Jong Un Might Want to Meet With Trump",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/08/6-reasons-why-kim-jong-un-might-want-to-meet-with-trump/",
-        "published": "2026-08-18T12:43:00Z",
         "sentiment": "watch"
       }
     ],
