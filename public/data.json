@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T08:57:46.265Z",
+    "generated_at": "2026-08-20T09:44:16.143Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil prices spike as ships in Strait of Hormuz hit by fresh strikes",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-08-19/oil-prices-spike-as-ships-in-strait-of-hormuz-hit/107055414",
-        "published": "2026-08-19T08:28:18Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Chinese Oil Tankers Turn Back as Hormuz Risks Mount",
+        "title": "Strait of Hormuz Shipping Slows After Vessel Attack",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Oil-Tankers-Turn-Back-as-Hormuz-Risks-Mount.html",
-        "published": "2026-08-19T08:15:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "2 Chinese Supertankers Abort Hormuz Attempt",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/2_chinese_supertankers_abort_hormuz_attempt-19-aug-2026-184406-article/",
-        "published": "2026-08-19T08:08:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Global Market: Foreign inflows into major Asian bond markets fall to four-month low in July",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-foreign-inflows-into-major-asian-bond-markets-fall-to-four-month-low-in-july/articleshow/133341777.cms",
-        "published": "2026-08-19T07:59:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran warns Gulf countries against helping US after UAE cuts trade ties",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/iran-warns-gulf-countries-us-military-uae-cut-trade-ties-6328211",
-        "published": "2026-08-19T07:58:00Z",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Strait-of-Hormuz-Shipping-Slows-After-Vessel-Attack.html",
+        "published": "2026-08-19T09:30:00Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Trump signals economic pressure in Iran conflict as talks stall: ANALYSIS",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Politics/trump-signals-economic-pressure-iran-conflict-talks-stall/story?id=135753451",
+        "published": "2026-08-19T09:20:53Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Gold's next test: Can the August rally survive Jackson Hole?",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/commodities/gold-price-prediction-can-the-august-rally-survive-jackson-hole-126081900649_1.html",
+        "published": "2026-08-19T09:16:55Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Nikkei Drops 3.2% as AI Selloff and Bond Yields Hit Tokyo",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150426.php",
+        "published": "2026-08-19T09:16:23Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "US shifts military focus from Pacific to Middle East amid Iran-Israel conflict",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-shifts-military-focus-from-pacific-to-middle-east-amid-iran-israel-conflict/",
+        "published": "2026-08-19T09:08:09Z",
+        "sentiment": "watch"
+      },
       {
         "title": "U.S. Withdraws Last Aircraft Carrier From Asia as Focus Shifts to Iran, Western Hemisphere, AP Reports",
         "source": "Naturalnews.com",
@@ -89,13 +89,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/08/6-reasons-why-kim-jong-un-might-want-to-meet-with-trump/",
         "published": "2026-08-18T12:43:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Soldier indicted for leaking military secrets to China-linked group",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/intell/library/news/2026/intell-260818-cna01.htm",
-        "published": "2026-08-18T12:00:00Z",
         "sentiment": "watch"
       }
     ],
