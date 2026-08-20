@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T08:06:57.801Z",
+    "generated_at": "2026-08-20T08:57:46.265Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil prices spike as ships in Strait of Hormuz hit by fresh strikes",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-08-19/oil-prices-spike-as-ships-in-strait-of-hormuz-hit/107055414",
+        "published": "2026-08-19T08:28:18Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Chinese Oil Tankers Turn Back as Hormuz Risks Mount",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Oil-Tankers-Turn-Back-as-Hormuz-Risks-Mount.html",
+        "published": "2026-08-19T08:15:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "2 Chinese Supertankers Abort Hormuz Attempt",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/2_chinese_supertankers_abort_hormuz_attempt-19-aug-2026-184406-article/",
+        "published": "2026-08-19T08:08:52Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Global Market: Foreign inflows into major Asian bond markets fall to four-month low in July",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-foreign-inflows-into-major-asian-bond-markets-fall-to-four-month-low-in-july/articleshow/133341777.cms",
@@ -39,20 +60,6 @@
         "url": "https://www.channelnewsasia.com/world/iran-warns-gulf-countries-us-military-uae-cut-trade-ties-6328211",
         "published": "2026-08-19T07:58:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Rupee holds near ₹95.7 as RBI intervention offsets oil, bond yield pressures",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/forex/rupee-holds-near-957-as-rbi-intervention-offsets-oil-bond-yield-pressures/article71363546.ece",
-        "published": "2026-08-19T07:53:02Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Asia bond foreign inflows hit four-month low in July on oil shock",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/bonds/asia-bond-foreign-inflows-hit-four-month-low-in-july-on-oil-shock/articleshow/133341577.cms",
-        "published": "2026-08-19T07:52:16Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
