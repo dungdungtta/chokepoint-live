@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T19:04:34.458Z",
+    "generated_at": "2026-08-20T19:47:32.118Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "US military establishes oil shipping corridor through Strait of Hormuz amid ongoing Iranian threats",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-military-oil-corridor-strait-hormuz/",
+        "published": "2026-08-19T19:41:08Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "U.S. conducting stealth operation to transport oil through Hormuz",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/b46060cc9b52e4b8",
+        "published": "2026-08-19T19:34:45Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Copper Backwardation Collapses After 20,000 Tons Hit LME Warehouses",
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Metals/Commodities/Copper-Backwardation-Collapses-After-20000-Tons-Hit-LME-Warehouses.html",
@@ -45,20 +59,6 @@
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/Vevor-Succe-Buy-8-L-900-W-Portable-Air-Pump-for-65-free-shipping/22059092.html",
         "published": "2026-08-19T18:11:10Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Sailors weigh safe harbour against risky passage with higher pay",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/industry/news/sailors-weigh-safe-harbour-against-risky-passage-with-higher-pay-126081901579_1.html",
-        "published": "2026-08-19T17:55:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Silicon Data aids Wall Street in pricing AI compute resources",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/silicon-data-wall-street-ai-compute-pricing/",
-        "published": "2026-08-19T17:40:30Z",
         "sentiment": "watch"
       }
     ],
