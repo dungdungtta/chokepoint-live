@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T12:04:01.450Z",
+    "generated_at": "2026-08-20T13:13:33.037Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "macOS Tahoe 26.6.2 (25G83)",
+        "source": "Rlsbb.cc",
+        "url": "https://post.rlsbb.cc/macos-tahoe-26-6-2-25g83/",
+        "published": "2026-08-19T12:39:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "UAE trade embargo could shut Iran’s key economic escape route: Here’s why",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/19/uae-trade-embargo-could-shut-irans-key-economic-escape-route-heres-why",
+        "published": "2026-08-19T12:37:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trekor Updates Status of Aley Niobium and Strengthens Project Team",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/globe-newswire/trekor-updates-status-of-aley-niobium-and-strengthens-project-team",
+        "published": "2026-08-19T12:33:57Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil India may offer higher upside than ONGC as crude prices stay elevated",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/oil-india-may-offer-higher-upside-than-ongc-as-crude-prices-stay-elevated-126081900990_1.html",
+        "published": "2026-08-19T12:05:32Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Murban Crude Jumps to 4-Month High as ADNOC Curbs Supply to Asia",
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Latest-Energy-News/World-News/Murban-Crude-Jumps-to-4-Month-High-as-ADNOC-Curbs-Supply-to-Asia.html",
         "published": "2026-08-19T11:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Dollar softens as bond market steadies ahead of Fed minutes",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-drifts-near-multi-month-013146327.html",
-        "published": "2026-08-19T11:05:56Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Current price of oil as of August 19, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-08-19-2026/",
-        "published": "2026-08-19T11:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Links 8/19/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/links-8-19-2026.html",
-        "published": "2026-08-19T10:59:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Grocery Extravaganza Sale at Woot: Up to 40% off + extra 20% off + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Grocery-Extravaganza-Sale-at-Woot-Up-to-40-off-extra-20-off-free-shipping-w-Prime/22058538.html",
-        "published": "2026-08-19T10:36:00Z",
         "sentiment": "watch"
       }
     ],
