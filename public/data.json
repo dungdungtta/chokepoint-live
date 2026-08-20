@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T16:55:29.322Z",
+    "generated_at": "2026-08-20T17:36:45.731Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Russia helps Iran sharpen its sword",
+        "source": "Longwarjournal.org",
+        "url": "https://www.longwarjournal.org/archives/2026/08/russia-helps-iran-sharpen-its-sword.php",
+        "published": "2026-08-19T17:32:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Three Chinese Tankers U-Turn in Hormuz as Risks Remain High",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/three-chinese-tankers-u-turn-in-hormuz-as-risks-remain-high/",
+        "published": "2026-08-19T17:02:08Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Saudi Aramco Gives Full September Oil Allocations to 3 European Refiners",
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Gives-Full-September-Oil-Allocations-to-3-European-Refiners.html",
@@ -45,20 +59,6 @@
         "source": "Protothema.gr",
         "url": "https://en.protothema.gr/2026/08/19/abu-dhabi-cuts-economic-ties-with-iran-with-fujairahs-maritime-gateway-at-the-epicenter/",
         "published": "2026-08-19T15:59:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran Risks Losing Key Economic Lifeline With UAE Halting Trade",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/economy/articles/iran-risks-losing-key-economic-150832336.html",
-        "published": "2026-08-19T15:08:32Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "3 Chinese Supertankers Abort Hormuz Attempt",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/3_chinese_supertankers_abort_hormuz_attempt-19-aug-2026-184406-article/",
-        "published": "2026-08-19T15:02:43Z",
         "sentiment": "watch"
       }
     ],
