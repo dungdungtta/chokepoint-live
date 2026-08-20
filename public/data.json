@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T07:23:56.284Z",
+    "generated_at": "2026-08-20T08:06:57.801Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil extends climb on prolonged Hormuz export uncertainty",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/0819/1588455-world-oil-prices/",
-        "published": "2026-08-19T07:09:39Z",
+        "title": "Global Market: Foreign inflows into major Asian bond markets fall to four-month low in July",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-foreign-inflows-into-major-asian-bond-markets-fall-to-four-month-low-in-july/articleshow/133341777.cms",
+        "published": "2026-08-19T07:59:26Z",
         "sentiment": "watch"
       },
       {
-        "title": "Strait of Hormuz chaos has incentivized China to use an alternative trade route: a 3,400 mile frozen Arctic channel dubbed the ‘Ice Silk Road’",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/08/19/strait-of-hormuz-iran-war-china-trade-route-ice-silk-road/",
-        "published": "2026-08-19T07:00:00Z",
+        "title": "Iran warns Gulf countries against helping US after UAE cuts trade ties",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/iran-warns-gulf-countries-us-military-uae-cut-trade-ties-6328211",
+        "published": "2026-08-19T07:58:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Rupee holds near ₹95.7 as RBI intervention offsets oil, bond yield pressures",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/forex/rupee-holds-near-957-as-rbi-intervention-offsets-oil-bond-yield-pressures/article71363546.ece",
+        "published": "2026-08-19T07:53:02Z",
         "sentiment": "watch"
       },
       {
-        "title": "UAE halts all trade, financial dealings with Iran",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/uae-halts-all-trade-financial-dealings-with-iran-225784",
-        "published": "2026-08-19T06:59:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "UAE suspends trade, financial dealings with Iran",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/08/uae-suspends-trade-financial-dealings-with-iran/",
-        "published": "2026-08-19T06:45:07Z",
+        "title": "Asia bond foreign inflows hit four-month low in July on oil shock",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/bonds/asia-bond-foreign-inflows-hit-four-month-low-in-july-on-oil-shock/articleshow/133341577.cms",
+        "published": "2026-08-19T07:52:16Z",
         "sentiment": "watch"
       }
     ],
