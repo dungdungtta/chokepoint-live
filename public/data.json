@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T14:03:11.417Z",
+    "generated_at": "2026-08-20T14:57:09.466Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "‘Earning billions’: How fuel exporters in India, US are benefitting amid war-led oil supply disruptions",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/earning-billions-how-fuel-exporters-in-india-us-are-benefitting-from-war-led-oil-supply-disruptions/articleshow/133350815.cms",
+        "published": "2026-08-19T14:22:28Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil prices hit three-week high on uncertainty over Strait of Hormuz",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/oil-prices-hit-three-week-high-on-uncertainty-over-strait-of-hormuz-126081901178_1.html",
+        "published": "2026-08-19T14:09:36Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Changes in skin properties are consequence but not cause of green spot in 'WA 38' apples",
         "source": "Plos.org",
         "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356529",
@@ -46,23 +60,16 @@
         "url": "https://www.dealnews.com/Dr-Pepper-Zero-Sugar-Creamy-Coconut-12-oz-Can-12-Pack-for-3-for-15-free-shipping/22058759.html",
         "published": "2026-08-19T13:23:28Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "macOS Tahoe 26.6.2 (25G83)",
-        "source": "Rlsbb.cc",
-        "url": "https://post.rlsbb.cc/macos-tahoe-26-6-2-25g83/",
-        "published": "2026-08-19T12:39:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "UAE trade embargo could shut Iran’s key economic escape route: Here’s why",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/19/uae-trade-embargo-could-shut-irans-key-economic-escape-route-heres-why",
-        "published": "2026-08-19T12:37:40Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Sen. Darline Graham fumbles basic national security question in debate flop: ‘I’m not that informed’",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/19/us-news/sen-darline-graham-fumbles-basic-national-security-question-in-debate-flop-im-not-that-informed/",
+        "published": "2026-08-19T14:30:04Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Japan’s So-Called ‘Rising Militarism’ and Japan-US Relations",
         "source": "The Diplomat",
@@ -89,13 +96,6 @@
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/08/19/colby-philippines-southeast-asia-tour/",
         "published": "2026-08-19T05:00:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Japanese encephalitis: Current status, recent progress, and persistent challenges",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014641",
-        "published": "2026-08-18T14:00:00Z",
         "sentiment": "watch"
       }
     ],
