@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T16:14:48.545Z",
+    "generated_at": "2026-08-20T16:55:29.322Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Saudi Aramco Gives Full September Oil Allocations to 3 European Refiners",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Gives-Full-September-Oil-Allocations-to-3-European-Refiners.html",
+        "published": "2026-08-19T16:30:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Cabinet approves 5 rail and road projects worth ₹13,041 crore",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/national/cabinet-approves-5-rail-and-road-projects-worth-13041-crore/article71365077.ece",
+        "published": "2026-08-19T16:20:14Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Abu Dhabi cuts economic ties with Iran, with Fujairah’s maritime gateway at the epicenter",
         "source": "Protothema.gr",
         "url": "https://en.protothema.gr/2026/08/19/abu-dhabi-cuts-economic-ties-with-iran-with-fujairahs-maritime-gateway-at-the-epicenter/",
@@ -46,20 +60,6 @@
         "url": "https://www.rigzone.com/news/wire/3_chinese_supertankers_abort_hormuz_attempt-19-aug-2026-184406-article/",
         "published": "2026-08-19T15:02:43Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Jones Act 'Suppresses Domestic Commerce' - End It",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4392346/posts",
-        "published": "2026-08-19T15:00:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "‘Earning billions’: How fuel exporters in India, US are benefitting amid war-led oil supply disruptions",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/earning-billions-how-fuel-exporters-in-india-us-are-benefitting-from-war-led-oil-supply-disruptions/articleshow/133350815.cms",
-        "published": "2026-08-19T14:22:28Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
