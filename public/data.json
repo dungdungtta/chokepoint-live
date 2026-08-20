@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T23:39:53.810Z",
+    "generated_at": "2026-08-20T00:00:40.909Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Another Republican caught begging for gas money after green-lighting Trump's war: report",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/susan-collins-2677723669/",
+        "published": "2026-08-18T23:55:49Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Iran Calls Trump ‘Delusional,’ Declares ‘Post-American Order’ — After He Claims Hormuz as ‘New U.S. Territory’",
         "source": "Breitbart News",
         "url": "https://www.breitbart.com/politics/2026/08/18/iran-calls-trump-delusional-declares-post-american-order-after-he-claims-hormuz-as-new-u-s-territory/",
@@ -52,13 +59,6 @@
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/ACTIVE-32-oz-Ice-Machine-Cleaner-Descaler-for-14-w-Subscribe-Save-free-shipping-w-Prime/22052687.html",
         "published": "2026-08-18T22:44:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "1982 Honda CBX Super Sport at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1982-honda-cbx-27/",
-        "published": "2026-08-18T22:28:39Z",
         "sentiment": "watch"
       }
     ],
