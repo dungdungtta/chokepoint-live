@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T16:54:36.552Z",
+    "generated_at": "2026-08-21T17:35:40.554Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump Threatens Economic Isolation for Iran and Its Trading Partners",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/trump-threatens-economic-isolation-for-iran-and-its-trading-partners/",
+        "published": "2026-08-20T17:02:44Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Yemen's Houthis say targeted Saudi airport, Aramco facility",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/yemen-houthi-rebels-attack-saudi-airport-aramco-6331696",
+        "published": "2026-08-20T17:02:28Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Quote of the Day by John D. Rockefeller: “I never placed my head upon the pillow at night without reminding myself that...” — a powerful life lesson on humility, wealth preservation, self-discipline and why daily self-reckoning protects long-term prosperity by the legendary American industrialist known for building one of history’s largest private fortunes",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-john-d-rockefeller-i-never-placed-my-head-upon-the-pillow-at-night-without-reminding-myself-that-a-powerful-life-lesson-on-humility-wealth-preservation-self-discipline-and-why-daily-self-reckoning-protects-long-term-prosperity-by-the-legendary-american-industrialist-known-for-building-one-of-historys-largest-private-fortunes/articleshow/133381568.cms",
+        "published": "2026-08-20T17:00:13Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US Central Command redirects 62 vessels, disables three as Iran naval blockade intensifies",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/centcom-redirects-67-vessels-iran-naval-blockade/",
@@ -39,30 +60,16 @@
         "url": "https://cryptobriefing.com/houthis-attack-najran-aramco-saudi-arabia/",
         "published": "2026-08-20T16:25:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Driver shortages, booming exports reshape US-Mexico freight market",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/economy/articles/driver-shortages-booming-exports-reshape-162434955.html",
-        "published": "2026-08-20T16:24:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How to Turn Your Creator Business Into an Empire | 142",
-        "source": "Nathanbarry.com",
-        "url": "https://nathanbarry.com/how-to-turn-your-creator-business-into-an-empire-142/",
-        "published": "2026-08-20T16:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "2-in-1 Light-Blocking Oil Sprayer for $3 + free shipping w/ $25",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/2-in-1-Light-Blocking-Oil-Sprayer-for-3-free-shipping-w-25/22065256.html",
-        "published": "2026-08-20T15:50:03Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan Unveils Record Defense Budget As China Threat Grows",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/08/20/taiwan-unveils-record-defense-budget-china-threat",
+        "published": "2026-08-20T17:32:15Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Taiwan Calls Renaming of National Pavilion at Gwangju Biennale ‘Political Censorship’",
         "source": "ARTnews",
@@ -83,13 +90,6 @@
         "url": "https://www.naturalnews.com/2026-08-20-jpmorgan-warns-of-potential-2027-global-food-crisis.html",
         "published": "2026-08-20T06:00:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "A battle for Taipei could hinge on defending this river. Here's how Taiwan's forces are readying for that fight.",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/china-victory-taiwan-single-river-tamsui-taipei-trianing-defend-2026-8#article",
-        "published": "2026-08-20T04:48:38Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
