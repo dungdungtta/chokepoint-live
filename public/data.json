@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T19:01:06.968Z",
+    "generated_at": "2026-08-21T19:39:23.275Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "[SnS] $3.18* | 40-Oz Crisco Pure Canola Oil at Amazon",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19903377-sns-3-18-40-oz-crisco-pure-canola-oil-at-amazon",
+        "published": "2026-08-20T19:35:42Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Venezuela continues difficult recovery from twin earthquakes as oil sales surge",
         "source": "Longwarjournal.org",
@@ -53,13 +60,6 @@
         "url": "https://gcaptain.com/trump-threatens-economic-isolation-for-iran-and-its-trading-partners/",
         "published": "2026-08-20T17:02:44Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Yemen's Houthis say targeted Saudi airport, Aramco facility",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/yemen-houthi-rebels-attack-saudi-airport-aramco-6331696",
-        "published": "2026-08-20T17:02:28Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
