@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T22:43:44.565Z",
+    "generated_at": "2026-08-21T23:08:52.197Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "The coming irrelevancy of the Strait of Hormuz",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/08/coming-irrelevancy-strait-hormuz/",
+        "published": "2026-08-20T22:58:46Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump Calls for ‘Economic D-Day’ on Iran as US Seeks to Restore Hormuz Shipping",
         "source": "WWD",
         "url": "http://wwd.com/sourcing-journal/logistics/trump-economic-d-day-iran-strait-hormuz-shipping-sanctions-1239145294/",
@@ -52,13 +59,6 @@
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Latest-Energy-News/World-News/Washington-Eases-Gasoline-Rules-as-Iran-Pressure-Campaign-Jolts-Fuel-Costs.html",
         "published": "2026-08-20T21:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Will Impose ‘Toughest Sanctions in History’ on Iran, Bessent Says",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/us-will-impose-toughest-sanctions-in-history-on-iran-bessent-says/",
-        "published": "2026-08-20T20:24:24Z",
         "sentiment": "watch"
       }
     ],
