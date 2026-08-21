@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T22:02:04.420Z",
+    "generated_at": "2026-08-21T22:43:44.565Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump Calls for ‘Economic D-Day’ on Iran as US Seeks to Restore Hormuz Shipping",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/trump-economic-d-day-iran-strait-hormuz-shipping-sanctions-1239145294/",
+        "published": "2026-08-20T22:08:03Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "16-Oz XBllcyiv 2-in-1 Glass Olive Oil Sprayer & Dispenser w/ Labels (Black or Green) $4.99 + Free Shipping w/ Prime or on $35+",
         "source": "Slickdeals.net",
         "url": "https://slickdeals.net/f/19903908-16-oz-xbllcyiv-2-in-1-glass-olive-oil-sprayer-dispenser-w-labels-black-or-green-4-99-free-shipping-w-prime-or-on-35",
@@ -52,13 +59,6 @@
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/us-will-impose-toughest-sanctions-in-history-on-iran-bessent-says/",
         "published": "2026-08-20T20:24:24Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Europe’s Energy Reserves Worked. The Next Test Will Be Harder",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Europes-Energy-Reserves-Worked-The-Next-Test-Will-Be-Harder.html",
-        "published": "2026-08-20T20:00:00Z",
         "sentiment": "watch"
       }
     ],
