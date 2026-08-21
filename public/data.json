@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T19:59:38.431Z",
+    "generated_at": "2026-08-21T20:35:31.541Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "US Will Impose ‘Toughest Sanctions in History’ on Iran, Bessent Says",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/us-will-impose-toughest-sanctions-in-history-on-iran-bessent-says/",
+        "published": "2026-08-20T20:24:24Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Europe’s Energy Reserves Worked. The Next Test Will Be Harder",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Europes-Energy-Reserves-Worked-The-Next-Test-Will-Be-Harder.html",
+        "published": "2026-08-20T20:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Advance Auto Parts Oil Change Bundle: Free Carquest Oil Filter w/ 5-Quarts Oil Purchase + free shipping w/ $35",
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/Advance-Auto-Parts-Oil-Change-Bundle-Free-Carquest-Oil-Filter-w-5-Quarts-Oil-Purchase-free-shipping-w-35/22065476.html",
@@ -45,20 +59,6 @@
         "source": "Longwarjournal.org",
         "url": "https://www.longwarjournal.org/archives/2026/08/venezuela-continues-difficult-recovery-from-twin-earthquakes-as-oil-sales-surge.php",
         "published": "2026-08-20T18:44:07Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Arctic power play gives top US adversary new opening with Russia as US stakes grow",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/arctic-power-play-gives-top-us-adversary-new-opening-russia-us-stakes-grow",
-        "published": "2026-08-20T18:22:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Panama Canal Congestion May Push More Imports to West Coast, LA Port Says",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/port-of-los-angeles-panama-canal-congestion-imports-west-coast-iran-cargo-1239144755/",
-        "published": "2026-08-20T18:21:16Z",
         "sentiment": "watch"
       }
     ],
