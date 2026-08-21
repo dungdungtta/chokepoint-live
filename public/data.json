@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T01:59:07.724Z",
+    "generated_at": "2026-08-21T03:12:03.522Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil prices steady as investors assess US-Iran war outlook",
+        "title": "Stock market today: GIFT Nifty signals positive start for Sensex and Nifty 50",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-steady-as-investors-assess-us-iran-war-outlook/articleshow/133361786.cms",
-        "published": "2026-08-20T01:56:25Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump announces ‘most crushing economic operation ever’ against Iran",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4392437/posts",
-        "published": "2026-08-20T01:30:10Z",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-20-august-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/133362780.cms",
+        "published": "2026-08-20T03:02:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran taps financial lifeline, Russian arms as Trump escalates 'crushing' economic warfare",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/iran-taps-financial-lifeline-russian-arms-trump-escalates-crushing-economic-warfare",
-        "published": "2026-08-20T01:09:10Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump vows 'tremendous' economic costs on Iran partners",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/0820/1588589-iran-us-trump/",
-        "published": "2026-08-20T01:04:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Japan's exports jump 23% to monthly record in July",
+        "title": "Bonds steady after US Treasury comes to the rescue",
         "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/japans-exports-jump-23-monthly-record-in-july-6329831",
-        "published": "2026-08-20T00:53:07Z",
+        "url": "https://www.channelnewsasia.com/business/bonds-steady-after-us-treasury-comes-rescue-6329931",
+        "published": "2026-08-20T02:49:42Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Q1 outliers: 26 Nifty 500 stocks post over 50% PAT, revenue growth",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/q1-outliers-26-nifty-500-stocks-post-over-50-pat-revenue-growth-126082000092_1.html",
+        "published": "2026-08-20T02:48:04Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Sensex, Nifty set to open higher as global bond markets steady",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty-set-to-open-higher-as-global-bond-markets-steady/article71367635.ece",
+        "published": "2026-08-20T02:45:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran goes on offensive as diplomacy with US stalls",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-goes-on-offensive-as-diplomacy-with-us-stalls/articleshow/133362291.cms",
+        "published": "2026-08-20T02:41:28Z",
         "sentiment": "watch"
       }
     ],
