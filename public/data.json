@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T16:12:20.491Z",
+    "generated_at": "2026-08-21T16:54:36.552Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "US Central Command redirects 62 vessels, disables three as Iran naval blockade intensifies",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/centcom-redirects-67-vessels-iran-naval-blockade/",
+        "published": "2026-08-20T16:31:13Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Houthis claim attacks on Najran airport, Aramco facilities in Saudi Arabia",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/houthis-attack-najran-aramco-saudi-arabia/",
+        "published": "2026-08-20T16:25:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Driver shortages, booming exports reshape US-Mexico freight market",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/economy/articles/driver-shortages-booming-exports-reshape-162434955.html",
+        "published": "2026-08-20T16:24:34Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "How to Turn Your Creator Business Into an Empire | 142",
         "source": "Nathanbarry.com",
         "url": "https://nathanbarry.com/how-to-turn-your-creator-business-into-an-empire-142/",
@@ -38,27 +59,6 @@
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/2-in-1-Light-Blocking-Oil-Sprayer-for-3-free-shipping-w-25/22065256.html",
         "published": "2026-08-20T15:50:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump warns of economic consequences for countries supporting Iran",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/08/20/trump-warns-of-economic-consequences-for-countries-supporting-iran/",
-        "published": "2026-08-20T15:48:21Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Gunmen seize tanker off Yemen amid resurgence of Somali piracy",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy",
-        "published": "2026-08-20T15:36:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Maritime Markets Bracing for Long-term Disruption in the Middle East",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/maritime-markets-bracing-for-long-term-disruption-in-the-middle-east/",
-        "published": "2026-08-20T15:15:02Z",
         "sentiment": "watch"
       }
     ],
