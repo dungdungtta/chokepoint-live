@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T05:39:32.417Z",
+    "generated_at": "2026-08-21T06:17:29.887Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Skeptical Science New Research for Week #34 2026",
+        "source": "Skepticalscience.com",
+        "url": "https://skepticalscience.com/new_research_2026_34.html",
+        "published": "2026-08-20T06:08:59Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil prices rise for fifth session as Iran war threatens global supply",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/commodities/oil-prices-rise-for-fifth-session-as-iran-war-threatens-global-supply-126082000261_1.html",
+        "published": "2026-08-20T05:53:25Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Oil advances as Trump takes aim at Iran’s economy",
         "source": "The Irish Times",
         "url": "https://www.irishtimes.com/business/markets/2026/08/20/oil-advances-as-trump-takes-aim-at-irans-economy/",
@@ -46,23 +60,16 @@
         "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Refiners-Snap-Up-Iraqi-Oil-as-Gulf-Supply-Routes-Fracture.html",
         "published": "2026-08-20T05:30:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Oil Price Today (August 20): Crude oil above $92/barrel as Trump vows ‘tremendous’ economic warfare on Iran",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-20-crude-oil-above-92/barrel-as-trump-vows-tremendous-economic-warfare-on-iran/articleshow/133364055.cms",
-        "published": "2026-08-20T04:27:53Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The Mecca Security Pact is not about Iran",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/08/mecca-security-about.html",
-        "published": "2026-08-20T04:15:21Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "JPMorgan warns of potential 2027 global food crisis driven by Hormuz disruptions and El NiÃ±o",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-20-jpmorgan-warns-of-potential-2027-global-food-crisis.html",
+        "published": "2026-08-20T06:00:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "A battle for Taipei could hinge on defending this river. Here's how Taiwan's forces are readying for that fight.",
         "source": "Business Insider",
@@ -89,13 +96,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/us-shifts-military-focus-from-pacific-to-middle-east-amid-iran-israel-conflict/",
         "published": "2026-08-19T09:08:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. Withdraws Last Aircraft Carrier From Asia as Focus Shifts to Iran, Western Hemisphere, AP Reports",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-19-us-withdraws-last-aircraft-carrier-from-asia.html",
-        "published": "2026-08-19T06:00:00Z",
         "sentiment": "watch"
       }
     ],
@@ -125,7 +125,7 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "yellow",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
