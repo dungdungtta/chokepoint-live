@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T21:02:51.369Z",
+    "generated_at": "2026-08-21T21:41:48.068Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Washington Eases Gasoline Rules as Iran Pressure Campaign Jolts Fuel Costs",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Washington-Eases-Gasoline-Rules-as-Iran-Pressure-Campaign-Jolts-Fuel-Costs.html",
+        "published": "2026-08-20T21:30:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "US Will Impose ‘Toughest Sanctions in History’ on Iran, Bessent Says",
         "source": "gcaptain.com",
@@ -53,16 +60,16 @@
         "url": "https://slickdeals.net/f/19903377-sns-3-18-40-oz-crisco-pure-canola-oil-at-amazon",
         "published": "2026-08-20T19:35:42Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Venezuela continues difficult recovery from twin earthquakes as oil sales surge",
-        "source": "Longwarjournal.org",
-        "url": "https://www.longwarjournal.org/archives/2026/08/venezuela-continues-difficult-recovery-from-twin-earthquakes-as-oil-sales-surge.php",
-        "published": "2026-08-20T18:44:07Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China's PLA used drones to send gold bars, US$100 notes in a bizarre 'wartime financial support' drill",
+        "source": "TechRadar",
+        "url": "https://www.techradar.com/pro/chinas-pla-used-drones-to-send-gold-bars-us-usd100-notes-in-a-bizarre-wartime-financial-support-drill",
+        "published": "2026-08-20T21:40:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Taiwan Unveils Record Defense Budget As China Threat Grows",
         "source": "The Daily Caller",
@@ -83,13 +90,6 @@
         "url": "https://economictimes.indiatimes.com/news/international/global-trends/why-taiwan-and-the-south-china-sea-are-two-sides-of-the-same-strategic-coin/articleshow/133373753.cms",
         "published": "2026-08-20T10:17:58Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "JPMorgan warns of potential 2027 global food crisis driven by Hormuz disruptions and El NiÃ±o",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-20-jpmorgan-warns-of-potential-2027-global-food-crisis.html",
-        "published": "2026-08-20T06:00:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
