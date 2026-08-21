@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T04:55:55.253Z",
+    "generated_at": "2026-08-21T05:39:32.417Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil advances as Trump takes aim at Iran’s economy",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/markets/2026/08/20/oil-advances-as-trump-takes-aim-at-irans-economy/",
+        "published": "2026-08-20T05:38:32Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump Vows 'Most Crushing' Sanctions in Iran War",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/394966/trump-vows-most-crushing-sanctions-in-iran-war.html",
+        "published": "2026-08-20T05:30:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Chinese Refiners Snap Up Iraqi Oil as Gulf Supply Routes Fracture",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Refiners-Snap-Up-Iraqi-Oil-as-Gulf-Supply-Routes-Fracture.html",
+        "published": "2026-08-20T05:30:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Oil Price Today (August 20): Crude oil above $92/barrel as Trump vows ‘tremendous’ economic warfare on Iran",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-20-crude-oil-above-92/barrel-as-trump-vows-tremendous-economic-warfare-on-iran/articleshow/133364055.cms",
@@ -39,27 +60,6 @@
         "url": "https://www.juancole.com/2026/08/mecca-security-about.html",
         "published": "2026-08-20T04:15:21Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Gulf oil producers drive tanker demand, pushing vessel prices higher: FT",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/gulf-oil-producers-drive-tanker-demand-pushing-vessel-prices-higher-ft/",
-        "published": "2026-08-20T04:09:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US military facilitates oil shipments through secret Hormuz route: Report",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/us-military-facilitates-oil-shipments-through-secret-hormuz-route-report-126082000171_1.html",
-        "published": "2026-08-20T04:07:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why Trump’s Blockade Cannot Turn Iran Into an Island",
-        "source": "Lewrockwell.com",
-        "url": "https://www.lewrockwell.com/2026/08/no_author/why-trumps-blockade-cannot-turn-iran-into-an-island/",
-        "published": "2026-08-20T04:01:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
