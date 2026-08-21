@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T18:12:53.674Z",
+    "generated_at": "2026-08-21T19:01:06.968Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Venezuela continues difficult recovery from twin earthquakes as oil sales surge",
+        "source": "Longwarjournal.org",
+        "url": "https://www.longwarjournal.org/archives/2026/08/venezuela-continues-difficult-recovery-from-twin-earthquakes-as-oil-sales-surge.php",
+        "published": "2026-08-20T18:44:07Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Arctic power play gives top US adversary new opening with Russia as US stakes grow",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/arctic-power-play-gives-top-us-adversary-new-opening-russia-us-stakes-grow",
+        "published": "2026-08-20T18:22:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Panama Canal Congestion May Push More Imports to West Coast, LA Port Says",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/port-of-los-angeles-panama-canal-congestion-imports-west-coast-iran-cargo-1239144755/",
+        "published": "2026-08-20T18:21:16Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump Threatens Economic Isolation for Iran and Its Trading Partners",
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/trump-threatens-economic-isolation-for-iran-and-its-trading-partners/",
@@ -39,27 +60,6 @@
         "url": "https://www.channelnewsasia.com/world/yemen-houthi-rebels-attack-saudi-airport-aramco-6331696",
         "published": "2026-08-20T17:02:28Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Quote of the Day by John D. Rockefeller: “I never placed my head upon the pillow at night without reminding myself that...” — a powerful life lesson on humility, wealth preservation, self-discipline and why daily self-reckoning protects long-term prosperity by the legendary American industrialist known for building one of history’s largest private fortunes",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-john-d-rockefeller-i-never-placed-my-head-upon-the-pillow-at-night-without-reminding-myself-that-a-powerful-life-lesson-on-humility-wealth-preservation-self-discipline-and-why-daily-self-reckoning-protects-long-term-prosperity-by-the-legendary-american-industrialist-known-for-building-one-of-historys-largest-private-fortunes/articleshow/133381568.cms",
-        "published": "2026-08-20T17:00:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Central Command redirects 62 vessels, disables three as Iran naval blockade intensifies",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/centcom-redirects-67-vessels-iran-naval-blockade/",
-        "published": "2026-08-20T16:31:13Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Houthis claim attacks on Najran airport, Aramco facilities in Saudi Arabia",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/houthis-attack-najran-aramco-saudi-arabia/",
-        "published": "2026-08-20T16:25:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
