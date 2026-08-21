@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T06:17:29.887Z",
+    "generated_at": "2026-08-21T07:25:04.778Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Michael Hudson: U.S. War Against Russia Has Blocked Black Sea Grain Transport as Well as the Persian Gulf Oil Trade.",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/michael-hudson-u-s-war-against-russia-has-blocked-black-sea-grain-transport-as-well-as-the-persian-gulf-oil-trade.html",
+        "published": "2026-08-20T07:00:36Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "North Sea drilling tests UK gov’t climate pledge",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/north-sea-drilling-tests-uk-govt-climate-pledge-225834",
+        "published": "2026-08-20T06:38:56Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US opens secret oil shipping corridor, exporting about 10 million barrels a day amid Iran stalemate: Report",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/us-opens-secret-oil-shipping-corridor-exporting-about-10-million-barrels-a-day-amid-iran-stalemate-report/article71368005.ece",
+        "published": "2026-08-20T06:38:33Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Skeptical Science New Research for Week #34 2026",
         "source": "Skepticalscience.com",
         "url": "https://skepticalscience.com/new_research_2026_34.html",
@@ -39,27 +60,6 @@
         "url": "https://www.business-standard.com/markets/commodities/oil-prices-rise-for-fifth-session-as-iran-war-threatens-global-supply-126082000261_1.html",
         "published": "2026-08-20T05:53:25Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Oil advances as Trump takes aim at Iran’s economy",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/markets/2026/08/20/oil-advances-as-trump-takes-aim-at-irans-economy/",
-        "published": "2026-08-20T05:38:32Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Vows 'Most Crushing' Sanctions in Iran War",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/394966/trump-vows-most-crushing-sanctions-in-iran-war.html",
-        "published": "2026-08-20T05:30:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Chinese Refiners Snap Up Iraqi Oil as Gulf Supply Routes Fracture",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Refiners-Snap-Up-Iraqi-Oil-as-Gulf-Supply-Routes-Fracture.html",
-        "published": "2026-08-20T05:30:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
