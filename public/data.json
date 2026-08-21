@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T08:07:20.462Z",
+    "generated_at": "2026-08-21T08:59:39.762Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Middle East Oil Crisis Sends Supertanker Prices to Record Highs",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Crisis-Sends-Supertanker-Prices-to-Record-Highs.html",
-        "published": "2026-08-20T08:00:00Z",
+        "title": "India reworks oil map With Venezuela as Hormuz battlefield keeps Gulf flows in doubt",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-reworks-oil-map-with-venezuela-as-hormuz-battlefield-keeps-gulf-flows-in-doubt/articleshow/133371249.cms",
+        "published": "2026-08-20T08:51:36Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump Iran War Risk Could Sink GOP Midterm Hopes",
-        "source": "Grandgoldman.com",
-        "url": "https://grandgoldman.com/blogs/business/trump-iran-war-risk-could-sink-gop-midterm-hopes",
-        "published": "2026-08-20T07:49:41Z",
+        "title": "Are Hormuz ships more willing to defy Iran or the US? What data shows",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows",
+        "published": "2026-08-20T08:43:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump Targets Iran Trade Partners",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/trump_targets_iran_trade_partners-20-aug-2026-184417-article/",
+        "published": "2026-08-20T08:35:27Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Report: Trump suggests intense attacks on Iran if economic pressure fails",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/431982",
+        "published": "2026-08-20T08:35:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired",
-        "published": "2026-08-20T07:38:22Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil prices gain on Middle East supply concerns",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/0820/1588605-world-oil-prices/",
-        "published": "2026-08-20T07:34:18Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Nikkei Rebounds 890 Points as U.S. Bond Relief Lifts Risk Appetite",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/150446.php",
-        "published": "2026-08-20T07:30:29Z",
+        "title": "Oil prices rise as Trump sharpens Iran rhetoric amid talks impasse",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html",
+        "published": "2026-08-20T08:33:57Z",
         "sentiment": "neutral"
       }
     ],
