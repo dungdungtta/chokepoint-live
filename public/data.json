@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T11:44:12.755Z",
+    "generated_at": "2026-08-21T12:15:47.831Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump threatens Iran With “Economic D-Day”",
+        "source": "Legalinsurrection.com",
+        "url": "https://legalinsurrection.com/2026/08/trump-threatens-iran-with-economic-d-day/",
+        "published": "2026-08-20T12:00:18Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Certified Refurb Efurden 4,400W Portable Inverter Generator for $182 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Certified-Refurb-Efurden-4-400-W-Portable-Inverter-Generator-for-182-free-shipping/22064968.html",
+        "published": "2026-08-20T12:00:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260820-treasury01.htm",
+        "published": "2026-08-20T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Japan deepen strategic ties with maritime security cooperation deal",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/external-affairs-defence-security/news/japan-deepen-strategic-ties-with-maritime-security-cooperation-deal-126082000969_1.html",
+        "published": "2026-08-20T11:49:53Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran dismisses US economic threats and other developments in the Middle East",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-dismisses-us-economic-threats-and-other-developments-in-the-middle-east/articleshow/133376025.cms",
         "published": "2026-08-20T11:43:07Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Nifty breaks losing streak, Sensex rallies 628 points; sugar stocks shine",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/capital-market-news/nifty-breaks-losing-streak-sensex-rallies-628-points-sugar-stocks-shine-126082000932_1.html",
-        "published": "2026-08-20T11:34:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How Is The U.S. Keeping Oil Flowing Through The Strait Of Hormuz",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/afddb7aa20c4e70f",
-        "published": "2026-08-20T11:28:04Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Qatar calls for return to normal traffic in Hormuz Strait amid US-Israel conflict",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/qatar-calls-for-return-to-normal-traffic-in-hormuz-strait-amid-us-israel/",
-        "published": "2026-08-20T11:09:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Donald Trump’s Crypto Firm Gets Approval To Operate As A Bank. What Could Go Wrong?",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/trump-crypto-bank_n_6a85e09fe4b0e9f1dd270377",
-        "published": "2026-08-20T11:00:18Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
