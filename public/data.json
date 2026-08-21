@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T07:25:04.778Z",
+    "generated_at": "2026-08-21T08:07:20.462Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Michael Hudson: U.S. War Against Russia Has Blocked Black Sea Grain Transport as Well as the Persian Gulf Oil Trade.",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/michael-hudson-u-s-war-against-russia-has-blocked-black-sea-grain-transport-as-well-as-the-persian-gulf-oil-trade.html",
-        "published": "2026-08-20T07:00:36Z",
+        "title": "Middle East Oil Crisis Sends Supertanker Prices to Record Highs",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Crisis-Sends-Supertanker-Prices-to-Record-Highs.html",
+        "published": "2026-08-20T08:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump Iran War Risk Could Sink GOP Midterm Hopes",
+        "source": "Grandgoldman.com",
+        "url": "https://grandgoldman.com/blogs/business/trump-iran-war-risk-could-sink-gop-midterm-hopes",
+        "published": "2026-08-20T07:49:41Z",
         "sentiment": "danger"
       },
       {
-        "title": "North Sea drilling tests UK gov’t climate pledge",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/north-sea-drilling-tests-uk-govt-climate-pledge-225834",
-        "published": "2026-08-20T06:38:56Z",
+        "title": "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired",
+        "published": "2026-08-20T07:38:22Z",
         "sentiment": "watch"
       },
       {
-        "title": "US opens secret oil shipping corridor, exporting about 10 million barrels a day amid Iran stalemate: Report",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/us-opens-secret-oil-shipping-corridor-exporting-about-10-million-barrels-a-day-amid-iran-stalemate-report/article71368005.ece",
-        "published": "2026-08-20T06:38:33Z",
+        "title": "Oil prices gain on Middle East supply concerns",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0820/1588605-world-oil-prices/",
+        "published": "2026-08-20T07:34:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "Skeptical Science New Research for Week #34 2026",
-        "source": "Skepticalscience.com",
-        "url": "https://skepticalscience.com/new_research_2026_34.html",
-        "published": "2026-08-20T06:08:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil prices rise for fifth session as Iran war threatens global supply",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/commodities/oil-prices-rise-for-fifth-session-as-iran-war-threatens-global-supply-126082000261_1.html",
-        "published": "2026-08-20T05:53:25Z",
-        "sentiment": "danger"
+        "title": "Nikkei Rebounds 890 Points as U.S. Bond Relief Lifts Risk Appetite",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150446.php",
+        "published": "2026-08-20T07:30:29Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
