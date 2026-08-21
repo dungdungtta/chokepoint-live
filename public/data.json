@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T00:02:48.237Z",
+    "generated_at": "2026-08-21T01:59:07.724Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "How Secretary Bessent Is Going Full-Hegseth Retard to No Avail",
-        "source": "Antiwar.com",
-        "url": "https://original.antiwar.com/david_stockman/2026/08/19/how-secretary-bessent-is-going-full-hegseth-retard-to-no-avail/",
-        "published": "2026-08-20T00:00:11Z",
+        "title": "Oil prices steady as investors assess US-Iran war outlook",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-steady-as-investors-assess-us-iran-war-outlook/articleshow/133361786.cms",
+        "published": "2026-08-20T01:56:25Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump announces ‘most crushing economic operation ever’ against Iran",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4392437/posts",
+        "published": "2026-08-20T01:30:10Z",
         "sentiment": "watch"
       },
       {
-        "title": "Your Dollar Is About to Lose Half Its Buying Power — And the National Debt Just Hit $40 Trillion",
-        "source": "Offgridsurvival.com",
-        "url": "https://offgridsurvival.com/your-dollar-is-about-to-lose-half-its-buying-power-and-the-national-debt-just-hit-40-trillion/",
-        "published": "2026-08-19T23:59:17Z",
+        "title": "Iran taps financial lifeline, Russian arms as Trump escalates 'crushing' economic warfare",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/iran-taps-financial-lifeline-russian-arms-trump-escalates-crushing-economic-warfare",
+        "published": "2026-08-20T01:09:10Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump vows 'tremendous' economic costs on Iran partners",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/0820/1588589-iran-us-trump/",
+        "published": "2026-08-20T01:04:48Z",
         "sentiment": "watch"
       },
       {
-        "title": "Cheerios Confetti 11-oz. Breakfast Cereal for $2.53 via Sub & Save + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Cheerios-Confetti-11-oz-Breakfast-Cereal-for-2-53-via-Sub-Save-free-shipping-w-Prime/22059411.html",
-        "published": "2026-08-19T23:33:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump announces most severe economic action against Iran",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-announces-most-severe-economic-action-against-iran/",
-        "published": "2026-08-19T23:04:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran-US tensions keep oil prices elevated amid Strait of Hormuz concerns",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-us-tensions-keep-oil-prices-elevated-amid-strait-of-hormuz-concerns/",
-        "published": "2026-08-19T22:13:37Z",
+        "title": "Japan's exports jump 23% to monthly record in July",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/japans-exports-jump-23-monthly-record-in-july-6329831",
+        "published": "2026-08-20T00:53:07Z",
         "sentiment": "watch"
       }
     ],
