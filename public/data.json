@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T23:08:52.197Z",
+    "generated_at": "2026-08-21T23:41:23.149Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war",
+        "published": "2026-08-20T23:19:56Z",
+        "sentiment": "danger"
+      },
       {
         "title": "The coming irrelevancy of the Strait of Hormuz",
         "source": "Wnd.com",
@@ -53,13 +60,6 @@
         "url": "https://allthatsinteresting.com/slovakia-danube-river-world-war-ii-mine",
         "published": "2026-08-20T21:45:09Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Washington Eases Gasoline Rules as Iran Pressure Campaign Jolts Fuel Costs",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Washington-Eases-Gasoline-Rules-as-Iran-Pressure-Campaign-Jolts-Fuel-Costs.html",
-        "published": "2026-08-20T21:30:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
