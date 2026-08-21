@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T15:40:08.444Z",
+    "generated_at": "2026-08-21T16:12:20.491Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "How to Turn Your Creator Business Into an Empire | 142",
+        "source": "Nathanbarry.com",
+        "url": "https://nathanbarry.com/how-to-turn-your-creator-business-into-an-empire-142/",
+        "published": "2026-08-20T16:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "2-in-1 Light-Blocking Oil Sprayer for $3 + free shipping w/ $25",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/2-in-1-Light-Blocking-Oil-Sprayer-for-3-free-shipping-w-25/22065256.html",
+        "published": "2026-08-20T15:50:03Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump warns of economic consequences for countries supporting Iran",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/08/20/trump-warns-of-economic-consequences-for-countries-supporting-iran/",
+        "published": "2026-08-20T15:48:21Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Gunmen seize tanker off Yemen amid resurgence of Somali piracy",
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy",
@@ -38,27 +59,6 @@
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/maritime-markets-bracing-for-long-term-disruption-in-the-middle-east/",
         "published": "2026-08-20T15:15:02Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "12 ships laden with petroleum products, various commodities arrive Lagos ports",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/08/12-ships-laden-with-petroleum-products-various-commodities-arrive-lagos-ports/",
-        "published": "2026-08-20T14:58:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Threatens Iran with ‘Economic D-Day.’ Are Energy Stocks Still Worth Chasing?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/20/trump-threatens-iran-with-economic-d-day-are-energy-stocks-still-worth-chasing/",
-        "published": "2026-08-20T14:36:29Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Dow Falls Nearly 350 Points as Walmart's Weak Sales Growth Overshadows Earnings Beat Amid Rising Yields",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/dow-drops-walmart-sales-oil-prices-1874311",
-        "published": "2026-08-20T14:09:18Z",
         "sentiment": "watch"
       }
     ],
