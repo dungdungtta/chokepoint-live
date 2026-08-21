@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T11:06:52.380Z",
+    "generated_at": "2026-08-21T11:44:12.755Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran dismisses US economic threats and other developments in the Middle East",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-dismisses-us-economic-threats-and-other-developments-in-the-middle-east/articleshow/133376025.cms",
+        "published": "2026-08-20T11:43:07Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Nifty breaks losing streak, Sensex rallies 628 points; sugar stocks shine",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/capital-market-news/nifty-breaks-losing-streak-sensex-rallies-628-points-sugar-stocks-shine-126082000932_1.html",
+        "published": "2026-08-20T11:34:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "How Is The U.S. Keeping Oil Flowing Through The Strait Of Hormuz",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/afddb7aa20c4e70f",
+        "published": "2026-08-20T11:28:04Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Qatar calls for return to normal traffic in Hormuz Strait amid US-Israel conflict",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/qatar-calls-for-return-to-normal-traffic-in-hormuz-strait-amid-us-israel/",
+        "published": "2026-08-20T11:09:01Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Donald Trump’s Crypto Firm Gets Approval To Operate As A Bank. What Could Go Wrong?",
         "source": "HuffPost",
         "url": "https://www.huffpost.com/entry/trump-crypto-bank_n_6a85e09fe4b0e9f1dd270377",
         "published": "2026-08-20T11:00:18Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Current price of oil as of August 20, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-08-20-2026/",
-        "published": "2026-08-20T11:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Sensex today | Stock Market Highlights: Sensex, Nifty snap losing streak as IT and financial stocks drive broad-based gains",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-updates-20th-august-2026/article71365156.ece",
-        "published": "2026-08-20T10:37:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Markdown Mania Under $10 Deals for Deals for $10 or less + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Markdown-Mania-Under-10-Deals-for-Deals-for-10-or-less-free-shipping-w-Prime/22064815.html",
-        "published": "2026-08-20T10:04:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Crude oil price jumps over 1% as US issues fresh threats to Iran",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-price-jumps-over-1-as-fresh-us-economic-warfare-on-iran-revives-supply-concerns/article71368559.ece",
-        "published": "2026-08-20T10:03:15Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
