@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T14:08:12.297Z",
+    "generated_at": "2026-08-21T14:54:55.364Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump Threatens Iran with ‘Economic D-Day.’ Are Energy Stocks Still Worth Chasing?",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/20/trump-threatens-iran-with-economic-d-day-are-energy-stocks-still-worth-chasing/",
+        "published": "2026-08-20T14:36:29Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Dow Falls Nearly 350 Points as Walmart's Weak Sales Growth Overshadows Earnings Beat Amid Rising Yields",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/dow-drops-walmart-sales-oil-prices-1874311",
+        "published": "2026-08-20T14:09:18Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Oil rises to 3-week high as Iran war impasse fuels Middle East supply concerns",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/oil-rises-to-3-week-high-as-iran-war-impasse-fuels-middle-east-supply-concerns/articleshow/133380064.cms",
@@ -39,20 +53,6 @@
         "url": "https://www.globalresearch.ca/new-food-crisis-strait-hormuz-black-sea-danube-rhine/5937373",
         "published": "2026-08-20T13:45:53Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "ADNOC Issues Ninth Spot Crude Tender Since June as UAE Boosts Exports",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Issues-Ninth-Spot-Crude-Tender-Since-June-as-UAE-Boosts-Exports.html",
-        "published": "2026-08-20T12:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump threatens Iran With “Economic D-Day”",
-        "source": "Legalinsurrection.com",
-        "url": "https://legalinsurrection.com/2026/08/trump-threatens-iran-with-economic-d-day/",
-        "published": "2026-08-20T12:00:18Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
