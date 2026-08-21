@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T14:54:55.364Z",
+    "generated_at": "2026-08-21T15:40:08.444Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Gunmen seize tanker off Yemen amid resurgence of Somali piracy",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy",
+        "published": "2026-08-20T15:36:59Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Maritime Markets Bracing for Long-term Disruption in the Middle East",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/maritime-markets-bracing-for-long-term-disruption-in-the-middle-east/",
+        "published": "2026-08-20T15:15:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "12 ships laden with petroleum products, various commodities arrive Lagos ports",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/08/12-ships-laden-with-petroleum-products-various-commodities-arrive-lagos-ports/",
+        "published": "2026-08-20T14:58:01Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump Threatens Iran with ‘Economic D-Day.’ Are Energy Stocks Still Worth Chasing?",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/08/20/trump-threatens-iran-with-economic-d-day-are-energy-stocks-still-worth-chasing/",
@@ -39,23 +60,16 @@
         "url": "https://www.ibtimes.com.au/dow-drops-walmart-sales-oil-prices-1874311",
         "published": "2026-08-20T14:09:18Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Oil rises to 3-week high as Iran war impasse fuels Middle East supply concerns",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/oil-rises-to-3-week-high-as-iran-war-impasse-fuels-middle-east-supply-concerns/articleshow/133380064.cms",
-        "published": "2026-08-20T14:04:52Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "A New Food Crisis From the Strait of Hormuz to the Black Sea, From the Danube to the Rhine",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/new-food-crisis-strait-hormuz-black-sea-danube-rhine/5937373",
-        "published": "2026-08-20T13:45:53Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan Calls Renaming of National Pavilion at Gwangju Biennale ‘Political Censorship’",
+        "source": "ARTnews",
+        "url": "https://www.artnews.com/art-news/news/taiwan-national-pavilion-controversy-2026-gwangju-biennale-1234795375/",
+        "published": "2026-08-20T15:02:57Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Why Taiwan and the South China Sea are two sides of the same strategic coin",
         "source": "The Times of India",
@@ -75,13 +89,6 @@
         "source": "Business Insider",
         "url": "https://www.businessinsider.com/china-victory-taiwan-single-river-tamsui-taipei-trianing-defend-2026-8#article",
         "published": "2026-08-20T04:48:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Sen. Darline Graham fumbles basic national security question in debate flop: ‘I’m not that informed’",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/19/us-news/sen-darline-graham-fumbles-basic-national-security-question-in-debate-flop-im-not-that-informed/",
-        "published": "2026-08-19T14:30:04Z",
         "sentiment": "watch"
       }
     ],
