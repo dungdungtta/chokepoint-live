@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T13:27:15.593Z",
+    "generated_at": "2026-08-21T14:08:12.297Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil rises to 3-week high as Iran war impasse fuels Middle East supply concerns",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/oil-rises-to-3-week-high-as-iran-war-impasse-fuels-middle-east-supply-concerns/articleshow/133380064.cms",
+        "published": "2026-08-20T14:04:52Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "A New Food Crisis From the Strait of Hormuz to the Black Sea, From the Danube to the Rhine",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/new-food-crisis-strait-hormuz-black-sea-danube-rhine/5937373",
+        "published": "2026-08-20T13:45:53Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "ADNOC Issues Ninth Spot Crude Tender Since June as UAE Boosts Exports",
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Issues-Ninth-Spot-Crude-Tender-Since-June-as-UAE-Boosts-Exports.html",
@@ -39,20 +53,6 @@
         "url": "https://legalinsurrection.com/2026/08/trump-threatens-iran-with-economic-d-day/",
         "published": "2026-08-20T12:00:18Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Certified Refurb Efurden 4,400W Portable Inverter Generator for $182 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Certified-Refurb-Efurden-4-400-W-Portable-Inverter-Generator-for-182-free-shipping/22064968.html",
-        "published": "2026-08-20T12:00:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260820-treasury01.htm",
-        "published": "2026-08-20T12:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
