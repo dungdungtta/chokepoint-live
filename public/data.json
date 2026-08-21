@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T21:41:48.068Z",
+    "generated_at": "2026-08-21T22:02:04.420Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "16-Oz XBllcyiv 2-in-1 Glass Olive Oil Sprayer & Dispenser w/ Labels (Black or Green) $4.99 + Free Shipping w/ Prime or on $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19903908-16-oz-xbllcyiv-2-in-1-glass-olive-oil-sprayer-dispenser-w-labels-black-or-green-4-99-free-shipping-w-prime-or-on-35",
+        "published": "2026-08-20T21:58:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Low Water Levels In The Danube River Just Exposed A 1,500-Pound British Mine From World War II",
+        "source": "Allthatsinteresting.com",
+        "url": "https://allthatsinteresting.com/slovakia-danube-river-world-war-ii-mine",
+        "published": "2026-08-20T21:45:09Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Washington Eases Gasoline Rules as Iran Pressure Campaign Jolts Fuel Costs",
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Latest-Energy-News/World-News/Washington-Eases-Gasoline-Rules-as-Iran-Pressure-Campaign-Jolts-Fuel-Costs.html",
@@ -45,20 +59,6 @@
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Energy/Crude-Oil/Europes-Energy-Reserves-Worked-The-Next-Test-Will-Be-Harder.html",
         "published": "2026-08-20T20:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Advance Auto Parts Oil Change Bundle: Free Carquest Oil Filter w/ 5-Quarts Oil Purchase + free shipping w/ $35",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Advance-Auto-Parts-Oil-Change-Bundle-Free-Carquest-Oil-Filter-w-5-Quarts-Oil-Purchase-free-shipping-w-35/22065476.html",
-        "published": "2026-08-20T19:48:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "[SnS] $3.18* | 40-Oz Crisco Pure Canola Oil at Amazon",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19903377-sns-3-18-40-oz-crisco-pure-canola-oil-at-amazon",
-        "published": "2026-08-20T19:35:42Z",
         "sentiment": "watch"
       }
     ],
