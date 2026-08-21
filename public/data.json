@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T23:42:10.552Z",
+    "generated_at": "2026-08-21T00:02:48.237Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "How Secretary Bessent Is Going Full-Hegseth Retard to No Avail",
+        "source": "Antiwar.com",
+        "url": "https://original.antiwar.com/david_stockman/2026/08/19/how-secretary-bessent-is-going-full-hegseth-retard-to-no-avail/",
+        "published": "2026-08-20T00:00:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Your Dollar Is About to Lose Half Its Buying Power — And the National Debt Just Hit $40 Trillion",
+        "source": "Offgridsurvival.com",
+        "url": "https://offgridsurvival.com/your-dollar-is-about-to-lose-half-its-buying-power-and-the-national-debt-just-hit-40-trillion/",
+        "published": "2026-08-19T23:59:17Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Cheerios Confetti 11-oz. Breakfast Cereal for $2.53 via Sub & Save + free shipping w/ Prime",
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/Cheerios-Confetti-11-oz-Breakfast-Cereal-for-2-53-via-Sub-Save-free-shipping-w-Prime/22059411.html",
@@ -46,20 +60,6 @@
         "url": "https://cryptobriefing.com/iran-us-tensions-keep-oil-prices-elevated-amid-strait-of-hormuz-concerns/",
         "published": "2026-08-19T22:13:37Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Exxon Stock Rises as Oil Nears $92 on Hormuz Risk",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/e955b0b894ce54fd",
-        "published": "2026-08-19T22:10:04Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump: Hormuz blockade is '100% successful'",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/431957",
-        "published": "2026-08-19T22:09:20Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
