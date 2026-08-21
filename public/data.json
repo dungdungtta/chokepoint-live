@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T19:39:23.275Z",
+    "generated_at": "2026-08-21T19:59:38.431Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Advance Auto Parts Oil Change Bundle: Free Carquest Oil Filter w/ 5-Quarts Oil Purchase + free shipping w/ $35",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Advance-Auto-Parts-Oil-Change-Bundle-Free-Carquest-Oil-Filter-w-5-Quarts-Oil-Purchase-free-shipping-w-35/22065476.html",
+        "published": "2026-08-20T19:48:31Z",
+        "sentiment": "watch"
+      },
       {
         "title": "[SnS] $3.18* | 40-Oz Crisco Pure Canola Oil at Amazon",
         "source": "Slickdeals.net",
@@ -53,13 +60,6 @@
         "url": "http://wwd.com/sourcing-journal/logistics/port-of-los-angeles-panama-canal-congestion-imports-west-coast-iran-cargo-1239144755/",
         "published": "2026-08-20T18:21:16Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Trump Threatens Economic Isolation for Iran and Its Trading Partners",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/trump-threatens-economic-isolation-for-iran-and-its-trading-partners/",
-        "published": "2026-08-20T17:02:44Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
