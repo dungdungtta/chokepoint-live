@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T03:12:03.522Z",
+    "generated_at": "2026-08-21T04:04:19.489Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Why Trump’s Blockade Cannot Turn Iran Into an Island",
+        "source": "Lewrockwell.com",
+        "url": "https://www.lewrockwell.com/2026/08/no_author/why-trumps-blockade-cannot-turn-iran-into-an-island/",
+        "published": "2026-08-20T04:01:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Strategy shift: Tehran is replacing nuclear blackmail with the Strait of Hormuz",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/blog/2026/08/strategy-shift-tehran-is-replacing-nuclear-blackmail-with-the-strait-of-hormuz/",
+        "published": "2026-08-20T04:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "New York Times: US Navy Is Getting Oil Through the Strait of Hormuz",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4392442/posts",
+        "published": "2026-08-20T03:47:03Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Stock market today: GIFT Nifty signals positive start for Sensex and Nifty 50",
         "source": "The Times of India",
         "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-20-august-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/133362780.cms",
@@ -38,27 +59,6 @@
         "source": "CNA",
         "url": "https://www.channelnewsasia.com/business/bonds-steady-after-us-treasury-comes-rescue-6329931",
         "published": "2026-08-20T02:49:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Q1 outliers: 26 Nifty 500 stocks post over 50% PAT, revenue growth",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/q1-outliers-26-nifty-500-stocks-post-over-50-pat-revenue-growth-126082000092_1.html",
-        "published": "2026-08-20T02:48:04Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Sensex, Nifty set to open higher as global bond markets steady",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty-set-to-open-higher-as-global-bond-markets-steady/article71367635.ece",
-        "published": "2026-08-20T02:45:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran goes on offensive as diplomacy with US stalls",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-goes-on-offensive-as-diplomacy-with-us-stalls/articleshow/133362291.cms",
-        "published": "2026-08-20T02:41:28Z",
         "sentiment": "watch"
       }
     ],
