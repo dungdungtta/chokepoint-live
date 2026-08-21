@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T12:15:47.831Z",
+    "generated_at": "2026-08-21T13:27:15.593Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "ADNOC Issues Ninth Spot Crude Tender Since June as UAE Boosts Exports",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Issues-Ninth-Spot-Crude-Tender-Since-June-as-UAE-Boosts-Exports.html",
+        "published": "2026-08-20T12:30:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump threatens Iran With “Economic D-Day”",
         "source": "Legalinsurrection.com",
         "url": "https://legalinsurrection.com/2026/08/trump-threatens-iran-with-economic-d-day/",
@@ -46,20 +53,6 @@
         "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260820-treasury01.htm",
         "published": "2026-08-20T12:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Japan deepen strategic ties with maritime security cooperation deal",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/external-affairs-defence-security/news/japan-deepen-strategic-ties-with-maritime-security-cooperation-deal-126082000969_1.html",
-        "published": "2026-08-20T11:49:53Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran dismisses US economic threats and other developments in the Middle East",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-dismisses-us-economic-threats-and-other-developments-in-the-middle-east/articleshow/133376025.cms",
-        "published": "2026-08-20T11:43:07Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
