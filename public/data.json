@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T04:04:19.489Z",
+    "generated_at": "2026-08-21T04:55:55.253Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil Price Today (August 20): Crude oil above $92/barrel as Trump vows ‘tremendous’ economic warfare on Iran",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-20-crude-oil-above-92/barrel-as-trump-vows-tremendous-economic-warfare-on-iran/articleshow/133364055.cms",
+        "published": "2026-08-20T04:27:53Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The Mecca Security Pact is not about Iran",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/08/mecca-security-about.html",
+        "published": "2026-08-20T04:15:21Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Gulf oil producers drive tanker demand, pushing vessel prices higher: FT",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/gulf-oil-producers-drive-tanker-demand-pushing-vessel-prices-higher-ft/",
+        "published": "2026-08-20T04:09:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US military facilitates oil shipments through secret Hormuz route: Report",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/us-military-facilitates-oil-shipments-through-secret-hormuz-route-report-126082000171_1.html",
+        "published": "2026-08-20T04:07:31Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Why Trump’s Blockade Cannot Turn Iran Into an Island",
         "source": "Lewrockwell.com",
         "url": "https://www.lewrockwell.com/2026/08/no_author/why-trumps-blockade-cannot-turn-iran-into-an-island/",
         "published": "2026-08-20T04:01:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Strategy shift: Tehran is replacing nuclear blackmail with the Strait of Hormuz",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/blog/2026/08/strategy-shift-tehran-is-replacing-nuclear-blackmail-with-the-strait-of-hormuz/",
-        "published": "2026-08-20T04:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "New York Times: US Navy Is Getting Oil Through the Strait of Hormuz",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4392442/posts",
-        "published": "2026-08-20T03:47:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Stock market today: GIFT Nifty signals positive start for Sensex and Nifty 50",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-20-august-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/133362780.cms",
-        "published": "2026-08-20T03:02:45Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Bonds steady after US Treasury comes to the rescue",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/bonds-steady-after-us-treasury-comes-rescue-6329931",
-        "published": "2026-08-20T02:49:42Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "A battle for Taipei could hinge on defending this river. Here's how Taiwan's forces are readying for that fight.",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/china-victory-taiwan-single-river-tamsui-taipei-trianing-defend-2026-8#article",
+        "published": "2026-08-20T04:48:38Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Sen. Darline Graham fumbles basic national security question in debate flop: ‘I’m not that informed’",
         "source": "New York Post",
@@ -89,13 +96,6 @@
         "source": "Naturalnews.com",
         "url": "https://www.naturalnews.com/2026-08-19-us-withdraws-last-aircraft-carrier-from-asia.html",
         "published": "2026-08-19T06:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Colby’s Empty Charm Offensive",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/08/19/colby-philippines-southeast-asia-tour/",
-        "published": "2026-08-19T05:00:21Z",
         "sentiment": "watch"
       }
     ],
