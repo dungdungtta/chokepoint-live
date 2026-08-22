@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T06:52:11.039Z",
+    "generated_at": "2026-08-22T07:37:23.090Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -57,6 +57,20 @@
     ],
     "taiwan": [
       {
+        "title": "A Rock and China’s Three-Sea Problem",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/a-rock-and-chinas-three-sea-problem/",
+        "published": "2026-08-21T07:30:50Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US redeploys aircraft carriers to Middle East, leaves Asia-Pacific gap",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-redeploys-aircraft-carriers-to-middle-east-leaves-asia-pacific-gap/",
+        "published": "2026-08-21T07:25:20Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "What happens when interceptor missiles run out? The growing shortage is causing panic in Ukraine and elsewhere",
         "source": "Freerepublic.com",
         "url": "https://freerepublic.com/focus/f-news/4392573/posts",
@@ -76,20 +90,6 @@
         "url": "https://dailycaller.com/2026/08/20/taiwan-unveils-record-defense-budget-china-threat",
         "published": "2026-08-20T17:32:15Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Taiwan Calls Renaming of National Pavilion at Gwangju Biennale ‘Political Censorship’",
-        "source": "ARTnews",
-        "url": "https://www.artnews.com/art-news/news/taiwan-national-pavilion-controversy-2026-gwangju-biennale-1234795375/",
-        "published": "2026-08-20T15:02:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why Taiwan and the South China Sea are two sides of the same strategic coin",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/why-taiwan-and-the-south-china-sea-are-two-sides-of-the-same-strategic-coin/articleshow/133373753.cms",
-        "published": "2026-08-20T10:17:58Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
