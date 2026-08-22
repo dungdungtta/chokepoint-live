@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T16:34:56.840Z",
+    "generated_at": "2026-08-22T17:01:15.754Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran warns of ‘devastating’ response as US plans toughest sanctions",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/iran-warns-of-devastating-response-as-us-plans-toughest-sanctions/article71375057.ece",
+        "published": "2026-08-21T16:47:40Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran vows ‘devastating’ response as US threatens crushing sanctions designed to ‘collapse’ regime",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/21/world-news/iran-vows-devastating-response-as-us-threatens-crushing-sanctions-designed-to-collapse-regime/",
+        "published": "2026-08-21T16:41:22Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Fanttik Z10 Pro 6\" Cordless Hedge Trimmer $28.49 + Free Shipping w/ Prime or on $35+",
         "source": "Slickdeals.net",
         "url": "https://slickdeals.net/f/19907145-fanttik-z10-pro-6-cordless-hedge-trimmer-28-49-free-shipping-w-prime-or-on-35",
@@ -38,20 +52,6 @@
         "source": "Rigzone",
         "url": "https://www.rigzone.com/news/court_upholds_trump_admin_order_to_restart_syu-21-aug-2026-184433-article/",
         "published": "2026-08-21T15:22:53Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US refiners face supply drop from biggest foreign crude supplier as Mexico redirects oil homeward",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-refiners-mexico-crude-supply-drop/",
-        "published": "2026-08-21T15:20:16Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "₹2,008 cr investment push for Paradip port to speed up cargo movement",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/industry/news/2-008-cr-investment-push-for-paradip-port-to-speed-up-cargo-movement-126082101367_1.html",
-        "published": "2026-08-21T15:17:15Z",
         "sentiment": "watch"
       }
     ],
