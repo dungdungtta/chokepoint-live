@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T05:12:13.670Z",
+    "generated_at": "2026-08-22T05:46:06.658Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -53,13 +53,6 @@
         "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-nikkei-slips-as-rising-oil-prices-bond-yields-weigh-on-japanese-stocks/articleshow/133393113.cms",
         "published": "2026-08-21T04:34:16Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Diesel: The Netanyahu-Trump War on Iran Threatens Shortages, Price Spike",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/08/netanyahu-threatens-shortages.html",
-        "published": "2026-08-21T04:15:50Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
