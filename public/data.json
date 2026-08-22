@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T14:32:45.484Z",
+    "generated_at": "2026-08-22T15:00:14.666Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,31 @@
   "news": {
     "hormuz": [
       {
+        "title": "China opens new Arctic trade route – but obstacles will prevent its wider use",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/china-opens-new-arctic-trade-route-but-obstacles-will-prevent-its-wider-use-290117",
+        "published": "2026-08-21T14:42:35Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump Threatens 'Economic D-Day' for Iran as Sanctions Push Extends Six-Month-Old Conflict Further",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/trump-intensifies-economic-pressure-iran-1874360",
+        "published": "2026-08-21T14:36:16Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Two vessels with 22 Indians on board hijacked off Yemen, Somalia",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/logistics/two-vessels-with-22-indians-on-board-hijacked-off-yemen-somalia/article71372801.ece",
+        "published": "2026-08-21T14:35:07Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Saudi Oil Exports from Mediterranean Soar with Shuttles North to Avoid Houthis",
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Oil-Exports-from-Mediterranean-Soar-with-Shuttles-North-to-Avoid-Houthis.html",
         "published": "2026-08-21T14:28:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets",
-        "published": "2026-08-21T13:47:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran vows 'devastating' response as US threatens toughest ever economic hit",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/iran-vows-devastating-response-as-us-threatens-toughest-ever-economic-hit-126082101122_1.html",
-        "published": "2026-08-21T13:28:04Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
-        "published": "2026-08-21T13:26:28Z",
         "sentiment": "watch"
       }
     ],
