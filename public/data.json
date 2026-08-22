@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T04:42:23.977Z",
+    "generated_at": "2026-08-22T05:12:13.670Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "ASX 200 Closes Lower as Weakness in BHP and CSL Offsets Guzman y Gomez's 14% Earnings Surge to Close Week",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/asx-200-ends-volatile-week-lower-mixed-earnings-1874327",
+        "published": "2026-08-21T05:03:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "'Perfect storm' brews for global food supply this winter as grain prices soar",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/21/grain-price-russia-food-supply.html",
+        "published": "2026-08-21T05:00:01Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "JD Vance backs economic pressure as key to US strategy on Iran",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/jd-vance-backs-economic-pressure-as-key-to-us-strategy-on-iran/",
@@ -46,20 +60,6 @@
         "url": "https://www.juancole.com/2026/08/netanyahu-threatens-shortages.html",
         "published": "2026-08-21T04:15:50Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "What to make of Trump’s National Security Statement now?",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/blog/2026/08/what-to-make-of-trump-s-national-security-statement-now/",
-        "published": "2026-08-21T04:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Shrinking sea ice makes year-round shipping possible on Hudson Bay: Manitoba premier's office",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-kinew-port-churchill-study-9.7314788",
-        "published": "2026-08-21T03:55:33Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
