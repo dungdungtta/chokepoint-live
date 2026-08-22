@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T08:49:26.186Z",
+    "generated_at": "2026-08-22T09:33:40.575Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iranian families struggle to afford the basics as US ratchets up economic warfare",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/world/articles/iranian-families-struggle-afford-basics-090628572.html",
+        "published": "2026-08-21T09:06:28Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Why drought at the Panama Canal matters for your wallet",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/08/21/climate/el-nino-panama-canal-drought-price-increase-consumers",
+        "published": "2026-08-21T09:00:29Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iranian oil offers to Chinese buyers fall as US blockade bites, sources say",
         "source": "Yahoo Entertainment",
         "url": "https://finance.yahoo.com/energy/articles/iranian-oil-offers-chinese-buyers-081555135.html",
@@ -38,27 +52,6 @@
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
         "published": "2026-08-21T08:43:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Tankers Stack Up as Venezuela Sells Oil Faster Than Its Ports Can Handle",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/tankers-stack-up-as-venezuela-sells-oil-faster-than-its-ports-can-handle/",
-        "published": "2026-08-21T08:32:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US presses allies, China to join economic pressure on Iran",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/us-presses-allies-china-to-join-economic-pressure-on-iran-225875",
-        "published": "2026-08-21T06:11:10Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Indonesia secures US$78,000 clove export deal with Saudi Arabia",
-        "source": "Antaranews.com",
-        "url": "https://en.antaranews.com/news/428059/indonesia-secures-us78000-clove-export-deal-with-saudi-arabia",
-        "published": "2026-08-21T06:09:10Z",
         "sentiment": "watch"
       }
     ],
@@ -99,22 +92,7 @@
         "sentiment": "danger"
       }
     ],
-    "malacca": [
-      {
-        "title": "Ships stuck in the Strait of Hormuz region may be biosecurity risks when they leave. What can we do?",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/ships-stuck-in-the-strait-of-hormuz-region-may-be-biosecurity-risks-when-they-leave-what-can-we-do-288551",
-        "published": "2026-08-07T02:30:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Strait of Malacca: The Indo-Pacific’s Most Critical Chokepoint?",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/07/the-strait-of-malacca-the-indo-pacifics-most-critical-chokepoint/",
-        "published": "2026-07-27T17:27:00Z",
-        "sentiment": "watch"
-      }
-    ]
+    "malacca": []
   },
   "zones": {
     "hormuz": "amber",
