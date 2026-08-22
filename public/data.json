@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T15:31:42.188Z",
+    "generated_at": "2026-08-22T15:58:38.623Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -52,13 +52,6 @@
         "source": "Business Standard",
         "url": "https://www.business-standard.com/external-affairs-defence-security/news/bangladesh-pm-tarique-rahman-unlikely-to-visit-india-for-brics-summit-126082101345_1.html",
         "published": "2026-08-21T15:04:10Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The U.S. Is Learning the Wrong Lessons in Iran",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/08/21/iran-military-lessons-tactics-strategy-trump/",
-        "published": "2026-08-21T15:03:19Z",
         "sentiment": "watch"
       }
     ],
