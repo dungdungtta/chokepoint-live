@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T20:34:09.162Z",
+    "generated_at": "2026-08-22T21:01:40.260Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "The Race to Unlock the World’s Hidden Hydrogen Reserves",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/The-Race-to-Unlock-the-Worlds-Hidden-Hydrogen-Reserves.html",
+        "published": "2026-08-21T21:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Putin Holds Arctic Security Meeting as China Promotes Northern Workaround to Strait of Hormuz",
         "source": "Breitbart News",
@@ -53,13 +60,6 @@
         "url": "https://gcaptain.com/panama-canal-draught-restrictions-set-to-add-to-congestion-chaos/",
         "published": "2026-08-21T18:17:44Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran Vows ‘Devastating’ Response to US Threat to Cut Off Its Economic Lifelines",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/iran-vows-devastating-response-to-us-threat-to-cut-off-its-economic-lifelines/",
-        "published": "2026-08-21T17:50:34Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
