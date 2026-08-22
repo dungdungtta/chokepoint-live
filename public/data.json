@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T17:01:15.754Z",
+    "generated_at": "2026-08-22T17:38:23.999Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Ukraine Says Russia Hit 52 Civilian Ships in Six Weeks as Black Sea Attacks Escalate",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/ukraine-says-russia-hit-52-civilian-ships-in-six-weeks-as-black-sea-attacks-escalate/",
+        "published": "2026-08-21T17:34:52Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Iran warns of ‘devastating’ response as US plans toughest sanctions",
         "source": "BusinessLine",
         "url": "https://www.thehindubusinessline.com/news/world/iran-warns-of-devastating-response-as-us-plans-toughest-sanctions/article71375057.ece",
@@ -45,13 +52,6 @@
         "source": "Slickdeals.net",
         "url": "https://slickdeals.net/f/19907145-fanttik-z10-pro-6-cordless-hedge-trimmer-28-49-free-shipping-w-prime-or-on-35",
         "published": "2026-08-21T16:19:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Court Upholds Trump Admin Order to Restart SYU",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/court_upholds_trump_admin_order_to_restart_syu-21-aug-2026-184433-article/",
-        "published": "2026-08-21T15:22:53Z",
         "sentiment": "watch"
       }
     ],
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
