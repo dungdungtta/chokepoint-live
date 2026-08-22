@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T01:52:04.884Z",
+    "generated_at": "2026-08-22T03:00:43.833Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil prices up more than 2% after Trump threatens countries supporting Iran",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/commodities/oil-prices-up-more-than-2-after-trump-threatens-countries-supporting-iran-126082100033_1.html",
+        "published": "2026-08-21T02:45:41Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil Price Today (August 21): Crude oil nears $95 as Iran peace deal hopes fade. What are experts saying?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-21-crude-oil-nears-95-as-iran-peace-deal-hopes-fade-what-are-experts-saying/articleshow/133391008.cms",
+        "published": "2026-08-21T02:25:52Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil set for second weekly rise as unsettled US-Iran war crimps supply",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-set-for-second-weekly-rise-as-unsettled-us-iran-war-crimps-supply/articleshow/133390801.cms",
+        "published": "2026-08-21T01:58:46Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "US to impose ‘toughest sanctions in history’ on Iran, Scott Bessent says",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/international/world-news/us-to-impose-toughest-sanctions-in-history-on-iran-scott-bessent-says/articleshow/133390380.cms",
@@ -39,30 +60,16 @@
         "url": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war",
         "published": "2026-08-20T23:19:56Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "The coming irrelevancy of the Strait of Hormuz",
-        "source": "Wnd.com",
-        "url": "https://www.wnd.com/2026/08/coming-irrelevancy-strait-hormuz/",
-        "published": "2026-08-20T22:58:46Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Calls for ‘Economic D-Day’ on Iran as US Seeks to Restore Hormuz Shipping",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/trump-economic-d-day-iran-strait-hormuz-shipping-sanctions-1239145294/",
-        "published": "2026-08-20T22:08:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "16-Oz XBllcyiv 2-in-1 Glass Olive Oil Sprayer & Dispenser w/ Labels (Black or Green) $4.99 + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19903908-16-oz-xbllcyiv-2-in-1-glass-olive-oil-sprayer-dispenser-w-labels-black-or-green-4-99-free-shipping-w-prime-or-on-35",
-        "published": "2026-08-20T21:58:06Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "What happens when interceptor missiles run out? The growing shortage is causing panic in Ukraine and elsewhere",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4392573/posts",
+        "published": "2026-08-21T02:15:49Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China's PLA used drones to send gold bars, US$100 notes in a bizarre 'wartime financial support' drill",
         "source": "TechRadar",
@@ -110,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
