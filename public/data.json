@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T05:46:06.658Z",
+    "generated_at": "2026-08-22T06:52:11.039Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,31 @@
   "news": {
     "hormuz": [
       {
+        "title": "US presses allies, China to join economic pressure on Iran",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/us-presses-allies-china-to-join-economic-pressure-on-iran-225875",
+        "published": "2026-08-21T06:11:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Indonesia secures US$78,000 clove export deal with Saudi Arabia",
+        "source": "Antaranews.com",
+        "url": "https://en.antaranews.com/news/428059/indonesia-secures-us78000-clove-export-deal-with-saudi-arabia",
+        "published": "2026-08-21T06:09:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US plans unprecedented sanctions on Iran, escalating tensions: Bessent",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-plans-unprecedented-sanctions-on-iran-escalating-tensions-bessent/",
+        "published": "2026-08-21T05:46:17Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "ASX 200 Closes Lower as Weakness in BHP and CSL Offsets Guzman y Gomez's 14% Earnings Surge to Close Week",
         "source": "Ibtimes.com.au",
         "url": "https://www.ibtimes.com.au/asx-200-ends-volatile-week-lower-mixed-earnings-1874327",
         "published": "2026-08-21T05:03:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "'Perfect storm' brews for global food supply this winter as grain prices soar",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/21/grain-price-russia-food-supply.html",
-        "published": "2026-08-21T05:00:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "JD Vance backs economic pressure as key to US strategy on Iran",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/jd-vance-backs-economic-pressure-as-key-to-us-strategy-on-iran/",
-        "published": "2026-08-21T04:40:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Global Market: Nikkei slips as rising oil prices, bond yields weigh on Japanese stocks",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-nikkei-slips-as-rising-oil-prices-bond-yields-weigh-on-japanese-stocks/articleshow/133393113.cms",
-        "published": "2026-08-21T04:34:16Z",
         "sentiment": "watch"
       }
     ],
