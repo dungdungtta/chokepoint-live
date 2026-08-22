@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T03:00:43.833Z",
+    "generated_at": "2026-08-22T03:58:02.080Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil prices up more than 2% after Trump threatens countries supporting Iran",
+        "title": "Shrinking sea ice makes year-round shipping possible on Hudson Bay: Manitoba premier's office",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-kinew-port-churchill-study-9.7314788",
+        "published": "2026-08-21T03:55:33Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Vance: Iran war has entered 'new phase' as US turns to economic pressure",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/432031",
+        "published": "2026-08-21T03:53:27Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "22 Indians aboard two ships hijacked by pirates near Yemen, Somalia",
         "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/commodities/oil-prices-up-more-than-2-after-trump-threatens-countries-supporting-iran-126082100033_1.html",
-        "published": "2026-08-21T02:45:41Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Price Today (August 21): Crude oil nears $95 as Iran peace deal hopes fade. What are experts saying?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-21-crude-oil-nears-95-as-iran-peace-deal-hopes-fade-what-are-experts-saying/articleshow/133391008.cms",
-        "published": "2026-08-21T02:25:52Z",
+        "url": "https://www.business-standard.com/external-affairs-defence-security/news/22-indians-aboard-two-ships-hijacked-by-pirates-near-yemen-somalia-126082100151_1.html",
+        "published": "2026-08-21T03:49:37Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil set for second weekly rise as unsettled US-Iran war crimps supply",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-set-for-second-weekly-rise-as-unsettled-us-iran-war-crimps-supply/articleshow/133390801.cms",
-        "published": "2026-08-21T01:58:46Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US to impose ‘toughest sanctions in history’ on Iran, Scott Bessent says",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-to-impose-toughest-sanctions-in-history-on-iran-scott-bessent-says/articleshow/133390380.cms",
-        "published": "2026-08-21T00:38:39Z",
+        "title": "Ships passing through Hormuz hover in single digits, data shows",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/ships-passing-through-hormuz-hover-in-single-digits-data-shows/article71372095.ece",
+        "published": "2026-08-21T03:28:06Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war",
-        "published": "2026-08-20T23:19:56Z",
-        "sentiment": "danger"
+        "title": "Ships passing through Hormuz hover in single digits, data shows",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/articles/hormuz-ship-crossings-hover-single-024305270.html",
+        "published": "2026-08-21T03:15:32Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
