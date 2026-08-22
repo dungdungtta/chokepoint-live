@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T15:58:38.623Z",
+    "generated_at": "2026-08-22T16:34:56.840Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Fanttik Z10 Pro 6\" Cordless Hedge Trimmer $28.49 + Free Shipping w/ Prime or on $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19907145-fanttik-z10-pro-6-cordless-hedge-trimmer-28-49-free-shipping-w-prime-or-on-35",
+        "published": "2026-08-21T16:19:25Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Court Upholds Trump Admin Order to Restart SYU",
         "source": "Rigzone",
         "url": "https://www.rigzone.com/news/court_upholds_trump_admin_order_to_restart_syu-21-aug-2026-184433-article/",
@@ -45,13 +52,6 @@
         "source": "Business Standard",
         "url": "https://www.business-standard.com/industry/news/2-008-cr-investment-push-for-paradip-port-to-speed-up-cargo-movement-126082101367_1.html",
         "published": "2026-08-21T15:17:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Bangladesh PM Tarique Rahman unlikely to visit India for BRICS Summit",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/external-affairs-defence-security/news/bangladesh-pm-tarique-rahman-unlikely-to-visit-india-for-brics-summit-126082101345_1.html",
-        "published": "2026-08-21T15:04:10Z",
         "sentiment": "watch"
       }
     ],
