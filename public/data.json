@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T08:02:04.376Z",
+    "generated_at": "2026-08-22T08:49:26.186Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iranian oil offers to Chinese buyers fall as US blockade bites, sources say",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/iranian-oil-offers-chinese-buyers-081555135.html",
+        "published": "2026-08-21T08:44:40Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
+        "published": "2026-08-21T08:43:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Tankers Stack Up as Venezuela Sells Oil Faster Than Its Ports Can Handle",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/tankers-stack-up-as-venezuela-sells-oil-faster-than-its-ports-can-handle/",
+        "published": "2026-08-21T08:32:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US presses allies, China to join economic pressure on Iran",
         "source": "Hurriyet Daily News",
         "url": "https://www.hurriyetdailynews.com/us-presses-allies-china-to-join-economic-pressure-on-iran-225875",
@@ -39,23 +60,16 @@
         "url": "https://en.antaranews.com/news/428059/indonesia-secures-us78000-clove-export-deal-with-saudi-arabia",
         "published": "2026-08-21T06:09:10Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "US plans unprecedented sanctions on Iran, escalating tensions: Bessent",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-plans-unprecedented-sanctions-on-iran-escalating-tensions-bessent/",
-        "published": "2026-08-21T05:46:17Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "ASX 200 Closes Lower as Weakness in BHP and CSL Offsets Guzman y Gomez's 14% Earnings Surge to Close Week",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/asx-200-ends-volatile-week-lower-mixed-earnings-1874327",
-        "published": "2026-08-21T05:03:09Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China military: three Philippine aircraft ‘intruded into’ airspace in Scarborough Shoal – statement",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/china-military-three-philippine-aircraft-intruded-into-airspace-in-scarborough/",
+        "published": "2026-08-21T08:41:31Z",
+        "sentiment": "watch"
+      },
       {
         "title": "A Rock and China’s Three-Sea Problem",
         "source": "War on the Rocks",
@@ -82,13 +96,6 @@
         "source": "TechRadar",
         "url": "https://www.techradar.com/pro/chinas-pla-used-drones-to-send-gold-bars-us-usd100-notes-in-a-bizarre-wartime-financial-support-drill",
         "published": "2026-08-20T21:40:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Taiwan Unveils Record Defense Budget As China Threat Grows",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/08/20/taiwan-unveils-record-defense-budget-china-threat",
-        "published": "2026-08-20T17:32:15Z",
         "sentiment": "danger"
       }
     ],
