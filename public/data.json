@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T17:59:03.731Z",
+    "generated_at": "2026-08-22T18:44:06.309Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Panama Canal Draught Restrictions Set to Add to Congestion Chaos",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/panama-canal-draught-restrictions-set-to-add-to-congestion-chaos/",
+        "published": "2026-08-21T18:17:44Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran Vows ‘Devastating’ Response to US Threat to Cut Off Its Economic Lifelines",
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/iran-vows-devastating-response-to-us-threat-to-cut-off-its-economic-lifelines/",
@@ -52,13 +59,6 @@
         "source": "BusinessLine",
         "url": "https://www.thehindubusinessline.com/news/world/iran-warns-of-devastating-response-as-us-plans-toughest-sanctions/article71375057.ece",
         "published": "2026-08-21T16:47:40Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran vows ‘devastating’ response as US threatens crushing sanctions designed to ‘collapse’ regime",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/21/world-news/iran-vows-devastating-response-as-us-threatens-crushing-sanctions-designed-to-collapse-regime/",
-        "published": "2026-08-21T16:41:22Z",
         "sentiment": "danger"
       }
     ],
