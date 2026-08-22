@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T19:10:52.827Z",
+    "generated_at": "2026-08-22T19:38:47.059Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "NATO members discuss Strait of Hormuz options without alliance involvement",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/nato-strait-hormuz-coalition-discussions/",
+        "published": "2026-08-21T19:25:41Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Panama Canal Draught Restrictions Set to Add to Congestion Chaos",
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/panama-canal-draught-restrictions-set-to-add-to-congestion-chaos/",
@@ -52,13 +59,6 @@
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/ukraine-says-russia-hit-52-civilian-ships-in-six-weeks-as-black-sea-attacks-escalate/",
         "published": "2026-08-21T17:34:52Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran warns of ‘devastating’ response as US plans toughest sanctions",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/iran-warns-of-devastating-response-as-us-plans-toughest-sanctions/article71375057.ece",
-        "published": "2026-08-21T16:47:40Z",
         "sentiment": "danger"
       }
     ],
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
