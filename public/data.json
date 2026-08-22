@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T14:00:15.929Z",
+    "generated_at": "2026-08-22T14:32:45.484Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Saudi Oil Exports from Mediterranean Soar with Shuttles North to Avoid Houthis",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Oil-Exports-from-Mediterranean-Soar-with-Shuttles-North-to-Avoid-Houthis.html",
+        "published": "2026-08-21T14:28:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets",
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets",
@@ -45,20 +52,6 @@
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
         "published": "2026-08-21T13:26:28Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump's desperate move to stop looming midterm bloodbath as economic downturn tears through American households",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16069845/Trumps-desperate-stop-looming-midterm-bloodbath-economic-downturn-tears-American-households.html",
-        "published": "2026-08-21T13:06:10Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Current price of oil as of August 21, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-08-21-2026/",
-        "published": "2026-08-21T12:30:00Z",
         "sentiment": "watch"
       }
     ],
