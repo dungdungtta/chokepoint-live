@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T11:01:49.930Z",
+    "generated_at": "2026-08-22T11:37:54.697Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "War pushes Iranians deeper into economic hardship",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/war-pushes-iranians-deeper-into-economic-hardship-225902",
+        "published": "2026-08-21T11:19:20Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump's Latest Tactic on Iran: an 'Economic D-Day'",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/395041/trumps-latest-tactic-on-iran-an-economic-d-day.html",
+        "published": "2026-08-21T11:13:29Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "From ‘Indispensable’ Ally to Target of Annihilation",
         "source": "The Atlantic",
         "url": "https://www.theatlantic.com/national-security/2026/08/oman-trump-iran-war-strait-hormuz/688335/",
@@ -45,20 +59,6 @@
         "source": "Ericcressey.com",
         "url": "https://ericcressey.com/csp-elite-baseball-development-podcast-pinch-hit-friday-84-pitch-count-study/",
         "published": "2026-08-21T09:59:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Two vessels with 22 Indians on board hijacked off Yemen, Somalia",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/two-vessels-with-22-indians-on-board-hijacked-off-yemen-somalia/article71372801.ece",
-        "published": "2026-08-21T09:52:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "A Beloved Artifact From My Teens Has Been Reissued for Gen Z. These Poor Kids.",
-        "source": "Slate Magazine",
-        "url": "https://slate.com/life/2026/08/perfume-gap-body-shop-fragrance-nineties-scents-gen-z.html",
-        "published": "2026-08-21T09:45:00Z",
         "sentiment": "watch"
       }
     ],
