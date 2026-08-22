@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T00:01:56.037Z",
+    "generated_at": "2026-08-22T01:52:04.884Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "US to impose ‘toughest sanctions in history’ on Iran, Scott Bessent says",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-to-impose-toughest-sanctions-in-history-on-iran-scott-bessent-says/articleshow/133390380.cms",
+        "published": "2026-08-21T00:38:39Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
         "source": "Al Jazeera English",
@@ -53,13 +60,6 @@
         "url": "https://slickdeals.net/f/19903908-16-oz-xbllcyiv-2-in-1-glass-olive-oil-sprayer-dispenser-w-labels-black-or-green-4-99-free-shipping-w-prime-or-on-35",
         "published": "2026-08-20T21:58:06Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Low Water Levels In The Danube River Just Exposed A 1,500-Pound British Mine From World War II",
-        "source": "Allthatsinteresting.com",
-        "url": "https://allthatsinteresting.com/slovakia-danube-river-world-war-ii-mine",
-        "published": "2026-08-20T21:45:09Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
