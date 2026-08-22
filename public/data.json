@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T10:42:18.801Z",
+    "generated_at": "2026-08-22T11:01:49.930Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "From ‘Indispensable’ Ally to Target of Annihilation",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/national-security/2026/08/oman-trump-iran-war-strait-hormuz/688335/",
+        "published": "2026-08-21T11:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "India's goods trade deficit hits 6-month high as imports rise amid Gulf war",
         "source": "Business Standard",
         "url": "https://www.business-standard.com/economy/news/india-s-goods-trade-deficit-hits-6-month-high-as-imports-rise-amid-gulf-war-126081301364_1.html",
@@ -52,13 +59,6 @@
         "source": "Slate Magazine",
         "url": "https://slate.com/life/2026/08/perfume-gap-body-shop-fragrance-nineties-scents-gen-z.html",
         "published": "2026-08-21T09:45:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Pirates hijack 2 ships with 22 Indian sailors on board",
-        "source": "RT",
-        "url": "https://www.rt.com/india/644473-pirates-hijack-ships-indians/",
-        "published": "2026-08-21T09:44:10Z",
         "sentiment": "watch"
       }
     ],
