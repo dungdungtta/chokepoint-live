@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T10:01:03.796Z",
+    "generated_at": "2026-08-22T10:42:18.801Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -25,13 +25,100 @@
     }
   },
   "news": {
-    "hormuz": [],
-    "taiwan": [],
-    "malacca": []
+    "hormuz": [
+      {
+        "title": "India's goods trade deficit hits 6-month high as imports rise amid Gulf war",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/economy/news/india-s-goods-trade-deficit-hits-6-month-high-as-imports-rise-amid-gulf-war-126081301364_1.html",
+        "published": "2026-08-21T10:23:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "CSP Elite Baseball Development Podcast – Pinch Hit Friday #84: A Pitch Count Study for the Ages",
+        "source": "Ericcressey.com",
+        "url": "https://ericcressey.com/csp-elite-baseball-development-podcast-pinch-hit-friday-84-pitch-count-study/",
+        "published": "2026-08-21T09:59:21Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Two vessels with 22 Indians on board hijacked off Yemen, Somalia",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/two-vessels-with-22-indians-on-board-hijacked-off-yemen-somalia/article71372801.ece",
+        "published": "2026-08-21T09:52:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "A Beloved Artifact From My Teens Has Been Reissued for Gen Z. These Poor Kids.",
+        "source": "Slate Magazine",
+        "url": "https://slate.com/life/2026/08/perfume-gap-body-shop-fragrance-nineties-scents-gen-z.html",
+        "published": "2026-08-21T09:45:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Pirates hijack 2 ships with 22 Indian sailors on board",
+        "source": "RT",
+        "url": "https://www.rt.com/india/644473-pirates-hijack-ships-indians/",
+        "published": "2026-08-21T09:44:10Z",
+        "sentiment": "watch"
+      }
+    ],
+    "taiwan": [
+      {
+        "title": "China military: three Philippine aircraft ‘intruded into’ airspace in Scarborough Shoal – statement",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/china-military-three-philippine-aircraft-intruded-into-airspace-in-scarborough/",
+        "published": "2026-08-21T08:41:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "A Rock and China’s Three-Sea Problem",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/a-rock-and-chinas-three-sea-problem/",
+        "published": "2026-08-21T07:30:50Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US redeploys aircraft carriers to Middle East, leaves Asia-Pacific gap",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-redeploys-aircraft-carriers-to-middle-east-leaves-asia-pacific-gap/",
+        "published": "2026-08-21T07:25:20Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "What happens when interceptor missiles run out? The growing shortage is causing panic in Ukraine and elsewhere",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4392573/posts",
+        "published": "2026-08-21T02:15:49Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China's PLA used drones to send gold bars, US$100 notes in a bizarre 'wartime financial support' drill",
+        "source": "TechRadar",
+        "url": "https://www.techradar.com/pro/chinas-pla-used-drones-to-send-gold-bars-us-usd100-notes-in-a-bizarre-wartime-financial-support-drill",
+        "published": "2026-08-20T21:40:00Z",
+        "sentiment": "danger"
+      }
+    ],
+    "malacca": [
+      {
+        "title": "Ships stuck in the Strait of Hormuz region may be biosecurity risks when they leave. What can we do?",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/ships-stuck-in-the-strait-of-hormuz-region-may-be-biosecurity-risks-when-they-leave-what-can-we-do-288551",
+        "published": "2026-08-07T02:30:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Strait of Malacca: The Indo-Pacific’s Most Critical Chokepoint?",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/07/the-strait-of-malacca-the-indo-pacifics-most-critical-chokepoint/",
+        "published": "2026-07-27T17:27:00Z",
+        "sentiment": "watch"
+      }
+    ]
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "yellow",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
