@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T11:37:54.697Z",
+    "generated_at": "2026-08-22T11:59:18.614Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Rust, power cuts and delays: Inside Venezuela’s oil export crisis",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/rust-power-cuts-and-delays-inside-venezuelas-oil-export-crisis/articleshow/133403425.cms",
+        "published": "2026-08-21T11:55:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran vows 'devastating' response as US threatens toughest ever economic hit",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/iran-vows-devastating-response-as-us-threatens-toughest-ever-economic-hit/articleshow/133403286.cms",
+        "published": "2026-08-21T11:43:25Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "War pushes Iranians deeper into economic hardship",
         "source": "Hurriyet Daily News",
         "url": "https://www.hurriyetdailynews.com/war-pushes-iranians-deeper-into-economic-hardship-225902",
@@ -45,20 +59,6 @@
         "source": "The Atlantic",
         "url": "https://www.theatlantic.com/national-security/2026/08/oman-trump-iran-war-strait-hormuz/688335/",
         "published": "2026-08-21T11:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "India's goods trade deficit hits 6-month high as imports rise amid Gulf war",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/economy/news/india-s-goods-trade-deficit-hits-6-month-high-as-imports-rise-amid-gulf-war-126081301364_1.html",
-        "published": "2026-08-21T10:23:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "CSP Elite Baseball Development Podcast – Pinch Hit Friday #84: A Pitch Count Study for the Ages",
-        "source": "Ericcressey.com",
-        "url": "https://ericcressey.com/csp-elite-baseball-development-podcast-pinch-hit-friday-84-pitch-count-study/",
-        "published": "2026-08-21T09:59:21Z",
         "sentiment": "watch"
       }
     ],
