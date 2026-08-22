@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T17:38:23.999Z",
+    "generated_at": "2026-08-22T17:59:03.731Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran Vows ‘Devastating’ Response to US Threat to Cut Off Its Economic Lifelines",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/iran-vows-devastating-response-to-us-threat-to-cut-off-its-economic-lifelines/",
+        "published": "2026-08-21T17:50:34Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Piracy Observer Says Somali Incidents Rising as Navies Stretched",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/piracy-observer-says-somali-incidents-rising-as-navies-stretched/",
+        "published": "2026-08-21T17:45:30Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Ukraine Says Russia Hit 52 Civilian Ships in Six Weeks as Black Sea Attacks Escalate",
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/ukraine-says-russia-hit-52-civilian-ships-in-six-weeks-as-black-sea-attacks-escalate/",
@@ -46,13 +60,6 @@
         "url": "https://nypost.com/2026/08/21/world-news/iran-vows-devastating-response-as-us-threatens-crushing-sanctions-designed-to-collapse-regime/",
         "published": "2026-08-21T16:41:22Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Fanttik Z10 Pro 6\" Cordless Hedge Trimmer $28.49 + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19907145-fanttik-z10-pro-6-cordless-hedge-trimmer-28-49-free-shipping-w-prime-or-on-35",
-        "published": "2026-08-21T16:19:25Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
