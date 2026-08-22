@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T12:55:54.611Z",
+    "generated_at": "2026-08-22T13:37:29.731Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran vows 'devastating' response as US threatens toughest ever economic hit",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/iran-vows-devastating-response-as-us-threatens-toughest-ever-economic-hit-126082101122_1.html",
+        "published": "2026-08-21T13:28:04Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
+        "published": "2026-08-21T13:26:28Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump's desperate move to stop looming midterm bloodbath as economic downturn tears through American households",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16069845/Trumps-desperate-stop-looming-midterm-bloodbath-economic-downturn-tears-American-households.html",
+        "published": "2026-08-21T13:06:10Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Current price of oil as of August 21, 2026",
         "source": "Fortune",
         "url": "https://fortune.com/article/price-of-oil-08-21-2026/",
@@ -38,27 +59,6 @@
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/b6000e695455b621",
         "published": "2026-08-21T12:14:44Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran vows 'devastating' response to US economic threats",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/0821/1588775-iran-us-war/",
-        "published": "2026-08-21T12:14:41Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Bulls Take Control as Iran Deal Collapses and Hormuz Stays Restricted",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Oil-Bulls-Take-Control-as-Iran-Deal-Collapses-and-Hormuz-Stays-Restricted.html",
-        "published": "2026-08-21T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Somali Pirates Seize Iran-Linked Tanker",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260821-rferl02.htm",
-        "published": "2026-08-21T12:00:00Z",
         "sentiment": "watch"
       }
     ],
