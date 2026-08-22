@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T11:59:18.614Z",
+    "generated_at": "2026-08-22T12:55:54.611Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Rust, power cuts and delays: Inside Venezuela’s oil export crisis",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/rust-power-cuts-and-delays-inside-venezuelas-oil-export-crisis/articleshow/133403425.cms",
-        "published": "2026-08-21T11:55:36Z",
+        "title": "Current price of oil as of August 21, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-08-21-2026/",
+        "published": "2026-08-21T12:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran vows 'devastating' response as US threatens toughest ever economic hit",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/iran-vows-devastating-response-as-us-threatens-toughest-ever-economic-hit/articleshow/133403286.cms",
-        "published": "2026-08-21T11:43:25Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "War pushes Iranians deeper into economic hardship",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/war-pushes-iranians-deeper-into-economic-hardship-225902",
-        "published": "2026-08-21T11:19:20Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump's Latest Tactic on Iran: an 'Economic D-Day'",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/395041/trumps-latest-tactic-on-iran-an-economic-d-day.html",
-        "published": "2026-08-21T11:13:29Z",
+        "title": "Why Are Oil Prices Rising As U.S. Pressure On Iran Intensifies",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/b6000e695455b621",
+        "published": "2026-08-21T12:14:44Z",
         "sentiment": "watch"
       },
       {
-        "title": "From ‘Indispensable’ Ally to Target of Annihilation",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/national-security/2026/08/oman-trump-iran-war-strait-hormuz/688335/",
-        "published": "2026-08-21T11:00:00Z",
+        "title": "Iran vows 'devastating' response to US economic threats",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/0821/1588775-iran-us-war/",
+        "published": "2026-08-21T12:14:41Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil Bulls Take Control as Iran Deal Collapses and Hormuz Stays Restricted",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Oil-Bulls-Take-Control-as-Iran-Deal-Collapses-and-Hormuz-Stays-Restricted.html",
+        "published": "2026-08-21T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Somali Pirates Seize Iran-Linked Tanker",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260821-rferl02.htm",
+        "published": "2026-08-21T12:00:00Z",
         "sentiment": "watch"
       }
     ],
