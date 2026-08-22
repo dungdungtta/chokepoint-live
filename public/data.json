@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T19:58:42.656Z",
+    "generated_at": "2026-08-22T20:34:09.162Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Putin Holds Arctic Security Meeting as China Promotes Northern Workaround to Strait of Hormuz",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/asia/2026/08/21/putin-holds-arctic-security-meeting-as-china-promotes-northern-workaround-to-strait-of-hormuz/",
+        "published": "2026-08-21T20:02:51Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran’s crude loadings drop to one-seventh of pre-war levels as US blockade tightens",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-crude-loadings-drop-us-blockade/",
+        "published": "2026-08-21T20:00:39Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "NATO members discuss Strait of Hormuz options without alliance involvement",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/nato-strait-hormuz-coalition-discussions/",
@@ -45,20 +59,6 @@
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/iran-vows-devastating-response-to-us-threat-to-cut-off-its-economic-lifelines/",
         "published": "2026-08-21T17:50:34Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Piracy Observer Says Somali Incidents Rising as Navies Stretched",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/piracy-observer-says-somali-incidents-rising-as-navies-stretched/",
-        "published": "2026-08-21T17:45:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ukraine Says Russia Hit 52 Civilian Ships in Six Weeks as Black Sea Attacks Escalate",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/ukraine-says-russia-hit-52-civilian-ships-in-six-weeks-as-black-sea-attacks-escalate/",
-        "published": "2026-08-21T17:34:52Z",
         "sentiment": "danger"
       }
     ],
