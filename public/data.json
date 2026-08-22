@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T03:58:02.080Z",
+    "generated_at": "2026-08-22T04:42:23.977Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "JD Vance backs economic pressure as key to US strategy on Iran",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/jd-vance-backs-economic-pressure-as-key-to-us-strategy-on-iran/",
+        "published": "2026-08-21T04:40:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Global Market: Nikkei slips as rising oil prices, bond yields weigh on Japanese stocks",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-nikkei-slips-as-rising-oil-prices-bond-yields-weigh-on-japanese-stocks/articleshow/133393113.cms",
+        "published": "2026-08-21T04:34:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Diesel: The Netanyahu-Trump War on Iran Threatens Shortages, Price Spike",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/08/netanyahu-threatens-shortages.html",
+        "published": "2026-08-21T04:15:50Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "What to make of Trump’s National Security Statement now?",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/blog/2026/08/what-to-make-of-trump-s-national-security-statement-now/",
+        "published": "2026-08-21T04:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Shrinking sea ice makes year-round shipping possible on Hudson Bay: Manitoba premier's office",
         "source": "CBC News",
         "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-kinew-port-churchill-study-9.7314788",
         "published": "2026-08-21T03:55:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Vance: Iran war has entered 'new phase' as US turns to economic pressure",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/432031",
-        "published": "2026-08-21T03:53:27Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "22 Indians aboard two ships hijacked by pirates near Yemen, Somalia",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/external-affairs-defence-security/news/22-indians-aboard-two-ships-hijacked-by-pirates-near-yemen-somalia-126082100151_1.html",
-        "published": "2026-08-21T03:49:37Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ships passing through Hormuz hover in single digits, data shows",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/ships-passing-through-hormuz-hover-in-single-digits-data-shows/article71372095.ece",
-        "published": "2026-08-21T03:28:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ships passing through Hormuz hover in single digits, data shows",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/articles/hormuz-ship-crossings-hover-single-024305270.html",
-        "published": "2026-08-21T03:15:32Z",
         "sentiment": "watch"
       }
     ],
