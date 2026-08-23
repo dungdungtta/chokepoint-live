@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T15:39:43.219Z",
+    "generated_at": "2026-08-23T15:59:56.753Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump Administration Claims Massive Oil Flows Through Hormuz But Industry Data Raises Questions",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/trump-administration-claims-massive-oil-flows-through-hormuz-but-industry-data-raises-questions/",
+        "published": "2026-08-22T15:54:24Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Putin warns of ‘catastrophic scenario’ for Ukraine",
         "source": "RT",
         "url": "https://www.rt.com/russia/644534-putin-warns-of-potential-catastrophic-scenario/",
@@ -52,13 +59,6 @@
         "source": "Protothema.gr",
         "url": "https://en.protothema.gr/2026/08/22/secret-tanker-crossings-are-keeping-oil-prices-from-soaring-through-the-strait-of-hormuz/",
         "published": "2026-08-22T12:57:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Piracy Observer Says Somali Incidents Rising as Navies Stretched",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/08/22/882495.htm",
-        "published": "2026-08-22T12:31:55Z",
         "sentiment": "watch"
       }
     ],
