@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T14:02:12.798Z",
+    "generated_at": "2026-08-23T14:42:19.901Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "What did war with the US reveal about Iran’s weapons capabilities?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities",
+        "published": "2026-08-22T14:19:06Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Secret tanker crossings are keeping oil prices from soaring through the Strait of Hormuz",
         "source": "Protothema.gr",
@@ -53,13 +60,6 @@
         "url": "https://slickdeals.net/f/19909152-sns-4-78-14-oz-garden-of-life-organic-extra-virgin-coconut-oil-unrefined-at-amazon",
         "published": "2026-08-22T12:27:24Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Tehran Warns Countries Against Participating In US Economic Actions Against Iran",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260822-rferl01.htm",
-        "published": "2026-08-22T12:00:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
