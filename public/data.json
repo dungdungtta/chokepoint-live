@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T06:03:48.853Z",
+    "generated_at": "2026-08-23T07:03:22.224Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "South Korean container ship sets sail on first commercial Arctic voyage to Europe",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/south-korean-container-ship-sets-sail-on-first-commercial-arctic-voyage-to-europe/articleshow/133419283.cms",
+        "published": "2026-08-22T06:59:12Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Treasury Secretary Bessent Promises New Iran Measures Amid Stalemate",
         "source": "Naturalnews.com",
         "url": "https://www.naturalnews.com/2026-08-22-bessent-promises-new-iran-measures-amid-stalemate.html",
@@ -45,20 +52,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/iran-us-deal-stalls-trump-sanctions/",
         "published": "2026-08-22T05:49:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "UK could have averted US 'trap' in Iran war, says Boris Johnson; calls for India-US-UK coordination over Hormuz",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/uk-could-have-averted-us-trap-in-iran-war-says-boris-johnson-calls-for-india-us-uk-coordination-over-hormuz/articleshow/133417978.cms",
-        "published": "2026-08-22T05:28:04Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US military moves 15 million barrels through Hormuz amid standoff with Iran",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-military-moves-15-million-barrels-through-hormuz-amid-standoff-with-iran/articleshow/133417233.cms",
-        "published": "2026-08-22T04:25:18Z",
         "sentiment": "watch"
       }
     ],
