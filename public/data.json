@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T04:03:08.826Z",
+    "generated_at": "2026-08-23T04:53:25.430Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "US military moves 15 million barrels through Hormuz amid standoff with Iran",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-military-moves-15-million-barrels-through-hormuz-amid-standoff-with-iran/articleshow/133417233.cms",
+        "published": "2026-08-22T04:25:18Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Turmoil in Tehran",
         "source": "Americanthinker.com",
@@ -53,16 +60,16 @@
         "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-calls-strait-of-hormuz-american-territory-warns-iran-over-nuclear-arms/articleshow/133415911.cms",
         "published": "2026-08-22T01:59:09Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "US blockade of Iran intensifies as 68 commercial vessels redirected: CENTCOM",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/us-blockade-of-iran-intensifies-as-68-commercial-vessels-redirected-centcom/articleshow/133415864.cms",
-        "published": "2026-08-22T01:51:59Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump claps back with 'mom' jibe after protestor's brazen stunt at rally",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16071579/Trump-claps-mom-zinger-protestors.html",
+        "published": "2026-08-22T04:47:33Z",
+        "sentiment": "watch"
+      },
       {
         "title": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
         "source": "The Times of India",
@@ -89,13 +96,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/china-military-three-philippine-aircraft-intruded-into-airspace-in-scarborough/",
         "published": "2026-08-21T08:41:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "A Rock and China’s Three-Sea Problem",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/a-rock-and-chinas-three-sea-problem/",
-        "published": "2026-08-21T07:30:50Z",
         "sentiment": "watch"
       }
     ],
