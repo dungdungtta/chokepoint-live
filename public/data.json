@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T23:00:04.251Z",
+    "generated_at": "2026-08-23T23:31:33.077Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -18,12 +18,28 @@
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
-      "price_index": null,
-      "unit": "proxy"
+      "price_index": 17.93,
+      "change_pct": 18.8,
+      "date": "2026-07-01",
+      "unit": "USD/MMBtu (EU nat-gas proxy)"
     }
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts",
+        "published": "2026-08-22T23:26:15Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "2012 Ducati 1199 Panigale S",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/2012-ducati-1199-panigale-6/",
+        "published": "2026-08-22T23:20:16Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint",
         "source": "OilPrice.com",
@@ -36,20 +52,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-oil-prices/",
         "published": "2026-08-22T20:24:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Original-Owner 2004 BMW R1100S BoxerCup Replika at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2004-bmw-r1100s-19/",
-        "published": "2026-08-22T20:18:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "$59.99 | Refurb: Ninja Flip 10-in-1 Digital Air Fry XL Oven at Woot! (1 replies)",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19911042-59-99-refurb-ninja-flip-10-in-1-digital-air-fry-xl-oven-at-woot",
-        "published": "2026-08-22T18:54:06Z",
         "sentiment": "watch"
       }
     ],
