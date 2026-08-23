@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T07:48:34.932Z",
+    "generated_at": "2026-08-23T08:38:46.876Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Shadow of sanctions: How Trump’s Iran ultimatum hits China, India, and global energy",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/opinion/columns/us-iran-sanctions-chabahar-port-project-strait-of-hormuz-11787385680620.html",
+        "published": "2026-08-22T08:09:28Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "South Korean container ship sets sail on first commercial Arctic voyage to Europe",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/international/world-news/south-korean-container-ship-sets-sail-on-first-commercial-arctic-voyage-to-europe/articleshow/133419283.cms",
@@ -38,20 +45,6 @@
         "source": "Naturalnews.com",
         "url": "https://www.naturalnews.com/2026-08-22-bessent-promises-new-iran-measures-amid-stalemate.html",
         "published": "2026-08-22T06:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Washington Eases Gasoline Rules as Iran Pressure Campaign Jolts Fuel Costs",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-22-washington-eases-gasoline-rules-iran-pressure-campaign.html",
-        "published": "2026-08-22T06:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran seeks deal with US, but Trump says terms aren’t right yet",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-us-deal-stalls-trump-sanctions/",
-        "published": "2026-08-22T05:49:20Z",
         "sentiment": "watch"
       }
     ],
