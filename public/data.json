@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T17:37:12.164Z",
+    "generated_at": "2026-08-23T17:58:21.118Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Fox News Host Dismantles JD Vance Rally Speech Point By Point",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/fox-news-host-jessica-tarlov-debunks-jd-vance-claims_n_6a89aa72e4b0832f431747c2",
+        "published": "2026-08-22T17:37:36Z",
+        "sentiment": "watch"
+      },
       {
         "title": "As Global Fuel Markets Whipsaw Through Historic Volatility, JSV Global's Jason Venturelli Calls for a New Playbook on Fuel Risk",
         "source": "PRNewswire",
@@ -53,13 +60,6 @@
         "url": "https://www.rt.com/russia/644534-putin-warns-of-potential-catastrophic-scenario/",
         "published": "2026-08-22T15:16:38Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Putin hints at ‘catastrophic scenario’ for Ukraine",
-        "source": "RT",
-        "url": "https://www.rt.com/russia/644534-putin-warns-potential-catastrophic-scenario/",
-        "published": "2026-08-22T15:16:38Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
