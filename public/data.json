@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T18:42:44.538Z",
+    "generated_at": "2026-08-23T19:09:44.366Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "$59.99 | Refurb: Ninja Flip 10-in-1 Digital Air Fry XL Oven at Woot! (1 replies)",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19911042-59-99-refurb-ninja-flip-10-in-1-digital-air-fry-xl-oven-at-woot",
+        "published": "2026-08-22T18:54:06Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Fox News Host Dismantles JD Vance Rally Speech Point By Point",
         "source": "HuffPost",
@@ -53,13 +60,6 @@
         "url": "https://gcaptain.com/trump-administration-claims-massive-oil-flows-through-hormuz-but-industry-data-raises-questions/",
         "published": "2026-08-22T15:54:24Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Putin warns of ‘catastrophic scenario’ for Ukraine",
-        "source": "RT",
-        "url": "https://www.rt.com/russia/644534-putin-warns-of-potential-catastrophic-scenario/",
-        "published": "2026-08-22T15:16:38Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
