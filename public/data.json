@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T16:37:33.887Z",
+    "generated_at": "2026-08-23T17:03:05.777Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "As Global Fuel Markets Whipsaw Through Historic Volatility, JSV Global's Jason Venturelli Calls for a New Playbook on Fuel Risk",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/as-global-fuel-markets-whipsaw-through-historic-volatility-jsv-globals-jason-venturelli-calls-for-a-new-playbook-on-fuel-risk-302857708.html",
+        "published": "2026-08-22T17:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "ACDelco GM Genuine Parts PF64 Oil Filter $3.99 + Free S&H w/ Prime at Woot!",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19910835-acdelco-gm-genuine-parts-pf64-oil-filter-3-99-free-s-h-w-prime-at-woot",
+        "published": "2026-08-22T16:45:19Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump Administration Claims Massive Oil Flows Through Hormuz But Industry Data Raises Questions",
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/trump-administration-claims-massive-oil-flows-through-hormuz-but-industry-data-raises-questions/",
@@ -45,20 +59,6 @@
         "source": "RT",
         "url": "https://www.rt.com/russia/644534-putin-warns-potential-catastrophic-scenario/",
         "published": "2026-08-22T15:16:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What did war with the US reveal about Iran’s weapons capabilities?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities",
-        "published": "2026-08-22T14:19:06Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Secret tanker crossings are keeping oil prices from soaring through the Strait of Hormuz",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/08/22/secret-tanker-crossings-are-keeping-oil-prices-from-soaring-through-the-strait-of-hormuz/",
-        "published": "2026-08-22T12:57:12Z",
         "sentiment": "watch"
       }
     ],
