@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T03:09:52.654Z",
+    "generated_at": "2026-08-23T04:03:08.826Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Turmoil in Tehran",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/articles/2026/08/turmoil-in-tehran/",
+        "published": "2026-08-22T04:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump doubles down on controlling Strait of Hormuz... as Iran's president begs for fighting to end while smell of 'burning flesh' lingers on Tehran streets",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16071367/Trump-Strait-Hormuz-Iran-president.html",
+        "published": "2026-08-22T03:53:59Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Strait of Hormuz sees single ship transit amid US-Iran tensions",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/strait-of-hormuz-sees-single-ship-transit-amid-us-iran-tensions/",
@@ -46,20 +60,6 @@
         "url": "https://economictimes.indiatimes.com/news/defence/us-blockade-of-iran-intensifies-as-68-commercial-vessels-redirected-centcom/articleshow/133415864.cms",
         "published": "2026-08-22T01:51:59Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "The Race to Unlock the World’s Hidden Hydrogen Reserves",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/The-Race-to-Unlock-the-Worlds-Hidden-Hydrogen-Reserves.html",
-        "published": "2026-08-21T21:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Putin Holds Arctic Security Meeting as China Promotes Northern Workaround to Strait of Hormuz",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/asia/2026/08/21/putin-holds-arctic-security-meeting-as-china-promotes-northern-workaround-to-strait-of-hormuz/",
-        "published": "2026-08-21T20:02:51Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
