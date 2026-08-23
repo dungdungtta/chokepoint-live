@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T20:33:49.843Z",
+    "generated_at": "2026-08-23T21:00:46.694Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/The-Gas-Turbine-Shortage-Just-Became-AIs-Biggest-Constraint.html",
+        "published": "2026-08-22T21:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran closes Strait of Hormuz, traffic falls to 6% of normal as demands mount",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-oil-prices/",
@@ -52,13 +59,6 @@
         "source": "HuffPost",
         "url": "https://www.huffpost.com/entry/fox-news-host-jessica-tarlov-debunks-jd-vance-claims_n_6a89aa72e4b0832f431747c2",
         "published": "2026-08-22T17:37:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "As Global Fuel Markets Whipsaw Through Historic Volatility, JSV Global's Jason Venturelli Calls for a New Playbook on Fuel Risk",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/as-global-fuel-markets-whipsaw-through-historic-volatility-jsv-globals-jason-venturelli-calls-for-a-new-playbook-on-fuel-risk-302857708.html",
-        "published": "2026-08-22T17:00:00Z",
         "sentiment": "watch"
       }
     ],
