@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T22:32:35.497Z",
+    "generated_at": "2026-08-23T23:00:04.251Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -18,10 +18,8 @@
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
-      "price_index": 17.93,
-      "change_pct": 18.8,
-      "date": "2026-07-01",
-      "unit": "USD/MMBtu (EU nat-gas proxy)"
+      "price_index": null,
+      "unit": "proxy"
     }
   },
   "news": {
@@ -52,13 +50,6 @@
         "source": "Slickdeals.net",
         "url": "https://slickdeals.net/f/19911042-59-99-refurb-ninja-flip-10-in-1-digital-air-fry-xl-oven-at-woot",
         "published": "2026-08-22T18:54:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Fox News Host Dismantles JD Vance Rally Speech Point By Point",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/fox-news-host-jessica-tarlov-debunks-jd-vance-claims_n_6a89aa72e4b0832f431747c2",
-        "published": "2026-08-22T17:37:36Z",
         "sentiment": "watch"
       }
     ],
