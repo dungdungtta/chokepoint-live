@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T05:35:34.330Z",
+    "generated_at": "2026-08-23T06:03:48.853Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Treasury Secretary Bessent Promises New Iran Measures Amid Stalemate",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-22-bessent-promises-new-iran-measures-amid-stalemate.html",
+        "published": "2026-08-22T06:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Washington Eases Gasoline Rules as Iran Pressure Campaign Jolts Fuel Costs",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-22-washington-eases-gasoline-rules-iran-pressure-campaign.html",
+        "published": "2026-08-22T06:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran seeks deal with US, but Trump says terms aren’t right yet",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-us-deal-stalls-trump-sanctions/",
+        "published": "2026-08-22T05:49:20Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "UK could have averted US 'trap' in Iran war, says Boris Johnson; calls for India-US-UK coordination over Hormuz",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/defence/uk-could-have-averted-us-trap-in-iran-war-says-boris-johnson-calls-for-india-us-uk-coordination-over-hormuz/articleshow/133417978.cms",
@@ -38,27 +59,6 @@
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/international/world-news/us-military-moves-15-million-barrels-through-hormuz-amid-standoff-with-iran/articleshow/133417233.cms",
         "published": "2026-08-22T04:25:18Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Turmoil in Tehran",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/articles/2026/08/turmoil-in-tehran/",
-        "published": "2026-08-22T04:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump doubles down on controlling Strait of Hormuz... as Iran's president begs for fighting to end while smell of 'burning flesh' lingers on Tehran streets",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16071367/Trump-Strait-Hormuz-Iran-president.html",
-        "published": "2026-08-22T03:53:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Strait of Hormuz sees single ship transit amid US-Iran tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/strait-of-hormuz-sees-single-ship-transit-amid-us-iran-tensions/",
-        "published": "2026-08-22T02:20:49Z",
         "sentiment": "watch"
       }
     ],
