@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T15:02:10.723Z",
+    "generated_at": "2026-08-23T15:39:43.219Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Putin warns of ‘catastrophic scenario’ for Ukraine",
+        "source": "RT",
+        "url": "https://www.rt.com/russia/644534-putin-warns-of-potential-catastrophic-scenario/",
+        "published": "2026-08-22T15:16:38Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Putin hints at ‘catastrophic scenario’ for Ukraine",
+        "source": "RT",
+        "url": "https://www.rt.com/russia/644534-putin-warns-potential-catastrophic-scenario/",
+        "published": "2026-08-22T15:16:38Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "What did war with the US reveal about Iran’s weapons capabilities?",
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities",
@@ -45,20 +59,6 @@
         "source": "Insurance Journal",
         "url": "https://www.insurancejournal.com/news/international/2026/08/22/882495.htm",
         "published": "2026-08-22T12:31:55Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Arctic Shipping a Daunting Prospect in Hotly Contested Region",
-        "source": "Aawsat.com",
-        "url": "https://english.aawsat.com/business/5309794-arctic-shipping-daunting-prospect-hotly-contested-region",
-        "published": "2026-08-22T12:30:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "14-Oz Garden of Life Organic Extra Virgin Coconut Oil (Unrefined) $4.80 w/ S&S",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19909152-sns-4-78-14-oz-garden-of-life-organic-extra-virgin-coconut-oil-unrefined-at-amazon",
-        "published": "2026-08-22T12:27:24Z",
         "sentiment": "watch"
       }
     ],
