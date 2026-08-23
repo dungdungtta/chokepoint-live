@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T08:38:46.876Z",
+    "generated_at": "2026-08-23T09:10:41.317Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "How Middle Eastern oil producers flipped the script on Iran | CNN Business",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/08/22/business/oil-strait-of-hormuz-iran",
+        "published": "2026-08-22T09:00:29Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Shadow of sanctions: How Trump’s Iran ultimatum hits China, India, and global energy",
         "source": "Livemint",
         "url": "https://www.livemint.com/opinion/columns/us-iran-sanctions-chabahar-port-project-strait-of-hormuz-11787385680620.html",
@@ -39,16 +46,16 @@
         "url": "https://economictimes.indiatimes.com/news/international/world-news/south-korean-container-ship-sets-sail-on-first-commercial-arctic-voyage-to-europe/articleshow/133419283.cms",
         "published": "2026-08-22T06:59:12Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Treasury Secretary Bessent Promises New Iran Measures Amid Stalemate",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-22-bessent-promises-new-iran-measures-amid-stalemate.html",
-        "published": "2026-08-22T06:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "How Middle Eastern oil producers flipped the script on Iran | CNN Business",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/08/22/business/oil-strait-of-hormuz-iran",
+        "published": "2026-08-22T09:00:29Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump claps back with 'mom' jibe after protestor's brazen stunt at rally",
         "source": "Dailymail.com",
@@ -75,13 +82,6 @@
         "source": "Dailymail.com",
         "url": "https://www.dailymail.com/news/us-politics/article-16070101/Trump-South-Carolina-save-Darline-Graham.html",
         "published": "2026-08-22T00:00:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China military: three Philippine aircraft ‘intruded into’ airspace in Scarborough Shoal – statement",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/china-military-three-philippine-aircraft-intruded-into-airspace-in-scarborough/",
-        "published": "2026-08-21T08:41:31Z",
         "sentiment": "watch"
       }
     ],
