@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T01:55:12.730Z",
+    "generated_at": "2026-08-23T03:09:52.654Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Strait of Hormuz sees single ship transit amid US-Iran tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/strait-of-hormuz-sees-single-ship-transit-amid-us-iran-tensions/",
+        "published": "2026-08-22T02:20:49Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump calls Strait of Hormuz ‘American territory’, warns Iran over nuclear arms",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-calls-strait-of-hormuz-american-territory-warns-iran-over-nuclear-arms/articleshow/133415911.cms",
+        "published": "2026-08-22T01:59:09Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "US blockade of Iran intensifies as 68 commercial vessels redirected: CENTCOM",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/defence/us-blockade-of-iran-intensifies-as-68-commercial-vessels-redirected-centcom/articleshow/133415864.cms",
@@ -45,20 +59,6 @@
         "source": "Breitbart News",
         "url": "https://www.breitbart.com/asia/2026/08/21/putin-holds-arctic-security-meeting-as-china-promotes-northern-workaround-to-strait-of-hormuz/",
         "published": "2026-08-21T20:02:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran’s crude loadings drop to one-seventh of pre-war levels as US blockade tightens",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-crude-loadings-drop-us-blockade/",
-        "published": "2026-08-21T20:00:39Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "NATO members discuss Strait of Hormuz options without alliance involvement",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/nato-strait-hormuz-coalition-discussions/",
-        "published": "2026-08-21T19:25:41Z",
         "sentiment": "watch"
       }
     ],
