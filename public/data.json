@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T04:53:25.430Z",
+    "generated_at": "2026-08-23T05:35:34.330Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "UK could have averted US 'trap' in Iran war, says Boris Johnson; calls for India-US-UK coordination over Hormuz",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/uk-could-have-averted-us-trap-in-iran-war-says-boris-johnson-calls-for-india-us-uk-coordination-over-hormuz/articleshow/133417978.cms",
+        "published": "2026-08-22T05:28:04Z",
+        "sentiment": "danger"
+      },
       {
         "title": "US military moves 15 million barrels through Hormuz amid standoff with Iran",
         "source": "The Times of India",
@@ -53,13 +60,6 @@
         "url": "https://cryptobriefing.com/strait-of-hormuz-sees-single-ship-transit-amid-us-iran-tensions/",
         "published": "2026-08-22T02:20:49Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Trump calls Strait of Hormuz ‘American territory’, warns Iran over nuclear arms",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-calls-strait-of-hormuz-american-territory-warns-iran-over-nuclear-arms/articleshow/133415911.cms",
-        "published": "2026-08-22T01:59:09Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
