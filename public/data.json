@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T07:11:56.466Z",
+    "generated_at": "2026-08-24T08:06:16.384Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Central govt asks states to appoint nodal officers to speed up PNG adoption",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/economy/news/central-govt-asks-states-to-appoint-nodal-officers-to-speed-up-png-adoption-126082300237_1.html",
+        "published": "2026-08-23T07:26:28Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Centre pushes states to speed up PNG adoption, seeks district-level officers to drive LPG-to-gas transition",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/centre-pushes-states-to-speed-up-png-adoption-seeks-district-level-officers-to-drive-lpg-to-gas-transition/articleshow/133436060.cms",
+        "published": "2026-08-23T07:20:34Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "[SnS, AC] $16.90* | 4-Pk 24-Oz Dr Teal's Shea Butter & Almond Oil Body Wash w/ Pure Epsom Salt at Amazon",
         "source": "Slickdeals.net",
         "url": "https://slickdeals.net/f/19912521-sns-ac-16-90-4-pk-24-oz-dr-teal-s-shea-butter-almond-oil-body-wash-w-pure-epsom-salt-at-amazon",
@@ -46,20 +60,6 @@
         "url": "https://cryptobriefing.com/iran-strikes-vessels-strait-of-hormuz/",
         "published": "2026-08-23T03:39:27Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Iran security chief warns neighbours against joining US economic pressure",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/iran-security-chief-warns-neighbours-against-joining-us-economic-pressure-126082300027_1.html",
-        "published": "2026-08-23T02:08:15Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump labels Strait of Hormuz as ‘new US territory’ amid Iran tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-labels-strait-of-hormuz-as-new-us-territory-amid-iran-tensions/",
-        "published": "2026-08-23T00:35:01Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
