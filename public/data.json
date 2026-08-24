@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T17:36:33.209Z",
+    "generated_at": "2026-08-24T18:14:19.948Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "United States to unveil ‘toughest sanctions in history’ on Iran",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/us/2026/08/23/united-states-to-unveil-toughest-sanctions-in-history-on-iran/",
+        "published": "2026-08-23T18:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Iran dismisses new US sanctions threat as ‘desperate’ effort",
         "source": "Crypto Briefing",
@@ -53,13 +60,6 @@
         "url": "https://www.activistpost.com/irans-shock-strike-strategy-against-us-assets-opens-multiple-fronts/",
         "published": "2026-08-23T16:05:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "How long could global oil stockpiles last if supply disruptions continue?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/d1132782ce916b2b",
-        "published": "2026-08-23T16:00:23Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
