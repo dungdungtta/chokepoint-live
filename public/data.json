@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T12:03:48.899Z",
+    "generated_at": "2026-08-24T13:15:08.516Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
+        "title": "Zelenskyy Says Putin Rejected Black Sea Shipping Truce Offer",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/zelenskyy-says-putin-rejected-black-sea-shipping-truce-offer/",
+        "published": "2026-08-23T13:10:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/irans-president-us-memorandum-best-path-stalled-war-135879989",
+        "published": "2026-08-23T12:34:44Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran says new sanctions threatened by 'desperate' US will fail",
+        "source": "Yahoo Entertainment",
+        "url": "https://uk.news.yahoo.com/iran-says-sanctions-threatened-desperate-122445093.html",
+        "published": "2026-08-23T12:24:45Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Can Iran retaliate against countries that join US ‘economic war’?",
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war",
         "published": "2026-08-23T11:50:22Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Iran Unleashed",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/international/2026/08/iran-middle-east-power/688374/",
-        "published": "2026-08-23T11:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US memorandum is best path out of stalled war, says Iranian President",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/us-memorandum-is-best-path-out-of-stalled-war-says-iranian-president-126082300289_1.html",
-        "published": "2026-08-23T10:04:12Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Hormuz crisis hides a deeper oil threat that could outlast the war",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/strait-hormuz-may-only-half-story-new-oil-threat-comes-focus",
-        "published": "2026-08-23T10:00:56Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Panama-flagged cargo ship sinks in Bay of Bengal, 22 crew members missing",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/india-news/panama-flagged-cargo-ship-sinks-bay-of-bengal-crew-missing-126082300377_1.html",
-        "published": "2026-08-23T09:51:13Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan tech insiders warn Beijing’s germanium squeeze hits production",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/taiwan-germanium-squeeze-beijing-production/",
+        "published": "2026-08-23T12:55:22Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Iran Unleashed",
         "source": "The Atlantic",
@@ -89,13 +89,6 @@
         "source": "Protothema.gr",
         "url": "https://en.protothema.gr/2026/08/22/secret-tanker-crossings-are-keeping-oil-prices-from-soaring-through-the-strait-of-hormuz/",
         "published": "2026-08-22T12:57:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How Middle Eastern oil producers flipped the script on Iran | CNN Business",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/08/22/business/oil-strait-of-hormuz-iran",
-        "published": "2026-08-22T09:00:29Z",
         "sentiment": "watch"
       }
     ],
