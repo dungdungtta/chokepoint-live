@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T03:10:54.875Z",
+    "generated_at": "2026-08-24T04:08:12.659Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Iranian projectiles strike five vessels in Strait of Hormuz, threatening global oil chokepoint",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-strikes-vessels-strait-of-hormuz/",
+        "published": "2026-08-23T03:39:27Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Iran security chief warns neighbours against joining US economic pressure",
         "source": "Business Standard",
@@ -110,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
