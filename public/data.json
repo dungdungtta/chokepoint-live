@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T20:38:39.158Z",
+    "generated_at": "2026-08-24T21:12:28.715Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "As Trump administration readies economic warfare measures against Iran, top security official vows retaliation ‘in a seismic manner’",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/08/23/trump-economic-warfare-iran-sanctions-military-retaliation/",
+        "published": "2026-08-23T21:09:47Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "In April 2023, an Indian plant began converting 2,000 metric tons of cashew residues monthly into marine fuel. Now, the refined oil has passed real-world ocean trials, linking a village waste stream to global shipping",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/international/us/science-in-april-2023-an-indian-plant-began-converting-2000-metric-tons-of-cashew-residues-monthly-into-marine-fuel-now-the-refined-oil-has-passed-real-world-ocean-trials-linking-a-village-waste-stream-to-global-shipping/articleshow/133446157.cms",
@@ -52,13 +59,6 @@
         "source": "ABC News (AU)",
         "url": "https://www.abc.net.au/news/2026-08-24/summer-heatwaves-in-europe-hurting-economy/107054578",
         "published": "2026-08-23T18:54:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Running out of things to say on a date? Try these 5 conversation starters",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/relationships/running-out-of-things-to-say-on-a-date-try-these-5-conversation-starters/articleshow/133409423.cms",
-        "published": "2026-08-23T18:19:55Z",
         "sentiment": "watch"
       }
     ],
