@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T05:03:37.148Z",
+    "generated_at": "2026-08-24T05:55:12.368Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -64,6 +64,13 @@
     ],
     "taiwan": [
       {
+        "title": "Peace through strength, Taiwan president says on China battle anniversary",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/articles/peace-strength-taiwan-president-says-053315147.html",
+        "published": "2026-08-23T05:33:15Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Secret tanker crossings are keeping oil prices from soaring through the Strait of Hormuz",
         "source": "Protothema.gr",
         "url": "https://en.protothema.gr/2026/08/22/secret-tanker-crossings-are-keeping-oil-prices-from-soaring-through-the-strait-of-hormuz/",
@@ -89,13 +96,6 @@
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/defence/us-navy-aircraft-transits-taiwan-strait-before-planned-xi-trump-meeting/articleshow/133415731.cms",
         "published": "2026-08-22T01:19:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US military flight over Taiwan Strait highlights support for free Indo-Pacific",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-military-flight-over-taiwan-strait-highlights-support-for-free-indo-pacific/",
-        "published": "2026-08-22T00:45:44Z",
         "sentiment": "watch"
       }
     ],
