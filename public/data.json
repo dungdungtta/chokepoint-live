@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T23:58:56.271Z",
+    "generated_at": "2026-08-24T01:52:39.151Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump labels Strait of Hormuz as ‘new US territory’ amid Iran tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-labels-strait-of-hormuz-as-new-us-territory-amid-iran-tensions/",
+        "published": "2026-08-23T00:35:01Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts",
@@ -45,13 +52,6 @@
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Energy/Energy-General/The-Gas-Turbine-Shortage-Just-Became-AIs-Biggest-Constraint.html",
         "published": "2026-08-22T21:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran closes Strait of Hormuz, traffic falls to 6% of normal as demands mount",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-oil-prices/",
-        "published": "2026-08-22T20:24:58Z",
         "sentiment": "watch"
       }
     ],
