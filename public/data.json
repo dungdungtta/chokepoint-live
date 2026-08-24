@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T05:55:12.368Z",
+    "generated_at": "2026-08-24T07:11:56.466Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "[SnS, AC] $16.90* | 4-Pk 24-Oz Dr Teal's Shea Butter & Almond Oil Body Wash w/ Pure Epsom Salt at Amazon",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19912521-sns-ac-16-90-4-pk-24-oz-dr-teal-s-shea-butter-almond-oil-body-wash-w-pure-epsom-salt-at-amazon",
+        "published": "2026-08-23T06:21:33Z",
+        "sentiment": "watch"
+      },
       {
         "title": "A 70:30 strategy could help investors balance gold and silver exposure: Tata Mutual Fund",
         "source": "Economictimes.com",
@@ -53,13 +60,6 @@
         "url": "https://cryptobriefing.com/trump-labels-strait-of-hormuz-as-new-us-territory-amid-iran-tensions/",
         "published": "2026-08-23T00:35:01Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts",
-        "published": "2026-08-22T23:26:15Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
