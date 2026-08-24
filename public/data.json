@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T13:15:08.516Z",
+    "generated_at": "2026-08-24T14:07:14.750Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us",
+        "published": "2026-08-23T13:37:50Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Zelenskyy Says Putin Rejected Black Sea Shipping Truce Offer",
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/zelenskyy-says-putin-rejected-black-sea-shipping-truce-offer/",
@@ -45,13 +52,6 @@
         "source": "Yahoo Entertainment",
         "url": "https://uk.news.yahoo.com/iran-says-sanctions-threatened-desperate-122445093.html",
         "published": "2026-08-23T12:24:45Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Can Iran retaliate against countries that join US ‘economic war’?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war",
-        "published": "2026-08-23T11:50:22Z",
         "sentiment": "danger"
       }
     ],
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
