@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T23:03:07.398Z",
+    "generated_at": "2026-08-24T23:39:06.001Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "1982 Honda CBX Super Sport at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1982-honda-cbx-28/",
+        "published": "2026-08-23T23:30:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran rips Trump's 'empty talk' while issuing blistering ultimatum to neighboring nations",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16073625/Iran-rips-Trumps-talk-issuing-blistering-ultimatum.html",
+        "published": "2026-08-23T23:17:37Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "The next big oil trade may have nothing to do with oil stocks",
         "source": "TheStreet",
         "url": "https://www.thestreet.com/economy/the-next-big-oil-trade-may-have-nothing-to-do-with-oil-stocks",
@@ -45,20 +59,6 @@
         "source": "Fortune",
         "url": "https://fortune.com/2026/08/23/trump-economic-warfare-iran-sanctions-military-retaliation/",
         "published": "2026-08-23T21:09:47Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "In April 2023, an Indian plant began converting 2,000 metric tons of cashew residues monthly into marine fuel. Now, the refined oil has passed real-world ocean trials, linking a village waste stream to global shipping",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/science-in-april-2023-an-indian-plant-began-converting-2000-metric-tons-of-cashew-residues-monthly-into-marine-fuel-now-the-refined-oil-has-passed-real-world-ocean-trials-linking-a-village-waste-stream-to-global-shipping/articleshow/133446157.cms",
-        "published": "2026-08-23T20:00:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran threatens to halt all Persian Gulf oil exports, labels US support as act of war",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-threatens-halt-persian-gulf-oil-exports/",
-        "published": "2026-08-23T19:51:47Z",
         "sentiment": "danger"
       }
     ],
