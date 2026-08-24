@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T15:58:00.447Z",
+    "generated_at": "2026-08-24T16:49:21.092Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Food prices predicted to surge in 2027 as two global threats collide, JPMorgan warns",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/sciencetech/article-16070689/food-prices-jpmorgan-warning-el-nino-fertilizer.html",
+        "published": "2026-08-23T16:23:04Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran’s Shock Strike Strategy Against US Assets Opens Multiple Fronts",
+        "source": "Activistpost.com",
+        "url": "https://www.activistpost.com/irans-shock-strike-strategy-against-us-assets-opens-multiple-fronts/",
+        "published": "2026-08-23T16:05:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "How long could global oil stockpiles last if supply disruptions continue?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/d1132782ce916b2b",
+        "published": "2026-08-23T16:00:23Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Russia Eyes Railway Route to Secure India’s Oil Supplies",
         "source": "Globalresearch.ca",
         "url": "https://www.globalresearch.ca/russia-eyes-railway-route-secure-india-oil-supplies/5937408",
@@ -38,27 +59,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/iran-strait-hormuz-transit-fees/",
         "published": "2026-08-23T15:33:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How long could global oil stockpiles last if supply disruptions continue?",
-        "source": "Advfn.com",
-        "url": "https://investorshub.advfn.com/market-news/article/34842/how-long-could-global-oil-stockpiles-last-if-supply-disruptions-continue",
-        "published": "2026-08-23T15:20:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Refurb: Ninja Flip 10-in-1 Digital Air Fry XL Oven $60 + Free S&H w/ Prime",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19909344-59-99-refurb-ninja-flip-10-in-1-digital-air-fry-xl-oven-at-woot",
-        "published": "2026-08-23T15:04:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran: President defends deal with US as best option for peace",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/iran-president-defends-deal-with-us-as-best-option-for-peace/a-78477486",
-        "published": "2026-08-23T14:49:00Z",
         "sentiment": "watch"
       }
     ],
