@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T10:05:55.502Z",
+    "generated_at": "2026-08-24T10:55:19.313Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -64,6 +64,13 @@
     ],
     "taiwan": [
       {
+        "title": "The Dawn of a New Cold War",
+        "source": "The Intercept",
+        "url": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/",
+        "published": "2026-08-23T10:10:00Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Peace through strength, Taiwan president says on China battle anniversary",
         "source": "Yahoo Entertainment",
         "url": "https://www.yahoo.com/news/articles/peace-strength-taiwan-president-says-053315147.html",
@@ -90,13 +97,6 @@
         "url": "https://www.dailymail.com/news/article-16071579/Trump-claps-mom-zinger-protestors.html",
         "published": "2026-08-22T04:47:33Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/us-navy-aircraft-transits-taiwan-strait-before-planned-xi-trump-meeting/articleshow/133415731.cms",
-        "published": "2026-08-22T01:19:54Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -118,7 +118,7 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "yellow",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
