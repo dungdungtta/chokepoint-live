@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T09:06:29.749Z",
+    "generated_at": "2026-08-24T10:05:55.502Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "13-Oz SheaMoisture Baby Wash & Shampoo (100% Virgin Coconut Oil) $3.55 w/ S&S",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19909533-13-oz-sheamoisture-baby-wash-shampoo-100-virgin-coconut-oil-3-55-w-s-s",
-        "published": "2026-08-23T08:48:45Z",
-        "sentiment": "watch"
+        "title": "US memorandum is best path out of stalled war, says Iranian President",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/us-memorandum-is-best-path-out-of-stalled-war-says-iranian-president-126082300289_1.html",
+        "published": "2026-08-23T10:04:12Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Ukraine offers Black Sea shipping truce to Russia, gets flatly rejected",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/ukraine-russia-black-sea-truce-rejected/",
-        "published": "2026-08-23T08:24:37Z",
+        "title": "Hormuz crisis hides a deeper oil threat that could outlast the war",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/strait-hormuz-may-only-half-story-new-oil-threat-comes-focus",
+        "published": "2026-08-23T10:00:56Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Panama-flagged cargo ship sinks in Bay of Bengal, 22 crew members missing",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/india-news/panama-flagged-cargo-ship-sinks-bay-of-bengal-crew-missing-126082300377_1.html",
+        "published": "2026-08-23T09:51:13Z",
         "sentiment": "watch"
       },
       {
         "title": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/world/articles/iran-president-says-us-memorandum-080628964.html",
-        "published": "2026-08-23T08:06:28Z",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/irans-president-us-memorandum-best-path-stalled-war-135879438",
+        "published": "2026-08-23T09:30:30Z",
         "sentiment": "danger"
       },
       {
-        "title": "Central govt asks states to appoint nodal officers to speed up PNG adoption",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/economy/news/central-govt-asks-states-to-appoint-nodal-officers-to-speed-up-png-adoption-126082300237_1.html",
-        "published": "2026-08-23T07:26:28Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Centre pushes states to speed up PNG adoption, seeks district-level officers to drive LPG-to-gas transition",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/centre-pushes-states-to-speed-up-png-adoption-seeks-district-level-officers-to-drive-lpg-to-gas-transition/articleshow/133436060.cms",
-        "published": "2026-08-23T07:20:34Z",
+        "title": "13-Oz SheaMoisture Baby Wash & Shampoo (100% Virgin Coconut Oil) $3.55 w/ S&S",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19909533-13-oz-sheamoisture-baby-wash-shampoo-100-virgin-coconut-oil-3-55-w-s-s",
+        "published": "2026-08-23T08:48:45Z",
         "sentiment": "watch"
       }
     ],
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
