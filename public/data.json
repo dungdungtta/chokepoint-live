@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T01:52:39.151Z",
+    "generated_at": "2026-08-24T03:10:54.875Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran security chief warns neighbours against joining US economic pressure",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/iran-security-chief-warns-neighbours-against-joining-us-economic-pressure-126082300027_1.html",
+        "published": "2026-08-23T02:08:15Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Trump labels Strait of Hormuz as ‘new US territory’ amid Iran tensions",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/trump-labels-strait-of-hormuz-as-new-us-territory-amid-iran-tensions/",
@@ -45,13 +52,6 @@
         "source": "Bringatrailer.com",
         "url": "https://bringatrailer.com/listing/2012-ducati-1199-panigale-6/",
         "published": "2026-08-22T23:20:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/The-Gas-Turbine-Shortage-Just-Became-AIs-Biggest-Constraint.html",
-        "published": "2026-08-22T21:00:00Z",
         "sentiment": "watch"
       }
     ],
