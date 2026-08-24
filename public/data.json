@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T19:46:35.227Z",
+    "generated_at": "2026-08-24T20:38:39.158Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "In April 2023, an Indian plant began converting 2,000 metric tons of cashew residues monthly into marine fuel. Now, the refined oil has passed real-world ocean trials, linking a village waste stream to global shipping",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/science-in-april-2023-an-indian-plant-began-converting-2000-metric-tons-of-cashew-residues-monthly-into-marine-fuel-now-the-refined-oil-has-passed-real-world-ocean-trials-linking-a-village-waste-stream-to-global-shipping/articleshow/133446157.cms",
+        "published": "2026-08-23T20:00:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran threatens to halt all Persian Gulf oil exports, labels US support as act of war",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-threatens-halt-persian-gulf-oil-exports/",
+        "published": "2026-08-23T19:51:47Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Western Carriers widens Devaliya MMTC services",
         "source": "BusinessLine",
         "url": "https://www.thehindubusinessline.com/economy/logistics/western-carriers-widens-devaliya-mmtc-services/article71382169.ece",
@@ -46,20 +60,6 @@
         "url": "https://timesofindia.indiatimes.com/relationships/running-out-of-things-to-say-on-a-date-try-these-5-conversation-starters/articleshow/133409423.cms",
         "published": "2026-08-23T18:19:55Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "United States to unveil ‘toughest sanctions in history’ on Iran",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/us/2026/08/23/united-states-to-unveil-toughest-sanctions-in-history-on-iran/",
-        "published": "2026-08-23T18:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran dismisses new US sanctions threat as ‘desperate’ effort",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-dismisses-new-us-sanctions-threat-as-desperate-effort/",
-        "published": "2026-08-23T17:12:06Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
