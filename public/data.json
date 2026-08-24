@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T11:35:51.497Z",
+    "generated_at": "2026-08-24T12:03:48.899Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Can Iran retaliate against countries that join US ‘economic war’?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war",
+        "published": "2026-08-23T11:50:22Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Iran Unleashed",
         "source": "The Atlantic",
@@ -53,13 +60,6 @@
         "url": "https://www.business-standard.com/india-news/panama-flagged-cargo-ship-sinks-bay-of-bengal-crew-missing-126082300377_1.html",
         "published": "2026-08-23T09:51:13Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/irans-president-us-memorandum-best-path-stalled-war-135879438",
-        "published": "2026-08-23T09:30:30Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
