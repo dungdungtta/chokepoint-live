@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T04:08:12.659Z",
+    "generated_at": "2026-08-24T05:03:37.148Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "A 70:30 strategy could help investors balance gold and silver exposure: Tata Mutual Fund",
+        "source": "Economictimes.com",
+        "url": "https://m.economictimes.com/mf/analysis/a-7030-strategy-could-help-investors-balance-gold-and-silver-exposure-tata-mutual-fund/articleshow/133434410.cms",
+        "published": "2026-08-23T04:49:21Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Iranian projectiles strike five vessels in Strait of Hormuz, threatening global oil chokepoint",
         "source": "Crypto Briefing",
@@ -53,13 +60,6 @@
         "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts",
         "published": "2026-08-22T23:26:15Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "2012 Ducati 1199 Panigale S",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2012-ducati-1199-panigale-6/",
-        "published": "2026-08-22T23:20:16Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
