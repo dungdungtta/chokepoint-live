@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T19:05:05.627Z",
+    "generated_at": "2026-08-24T19:46:35.227Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Western Carriers widens Devaliya MMTC services",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/logistics/western-carriers-widens-devaliya-mmtc-services/article71382169.ece",
+        "published": "2026-08-23T19:08:44Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "'Exceptional' summer heatwaves in Europe hurting economy",
         "source": "ABC News (AU)",
         "url": "https://www.abc.net.au/news/2026-08-24/summer-heatwaves-in-europe-hurting-economy/107054578",
@@ -52,13 +59,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/iran-dismisses-new-us-sanctions-threat-as-desperate-effort/",
         "published": "2026-08-23T17:12:06Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Defiant Iran says new sanctions threatened by 'desperate' US will fail",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/defiant-iran-says-new-sanctions-threatened-by-desperate-us-will-fail-126082300776_1.html",
-        "published": "2026-08-23T17:02:23Z",
         "sentiment": "danger"
       }
     ],
