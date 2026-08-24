@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T18:14:19.948Z",
+    "generated_at": "2026-08-24T19:05:05.627Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "'Exceptional' summer heatwaves in Europe hurting economy",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-08-24/summer-heatwaves-in-europe-hurting-economy/107054578",
+        "published": "2026-08-23T18:54:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Running out of things to say on a date? Try these 5 conversation starters",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/relationships/running-out-of-things-to-say-on-a-date-try-these-5-conversation-starters/articleshow/133409423.cms",
+        "published": "2026-08-23T18:19:55Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "United States to unveil ‘toughest sanctions in history’ on Iran",
         "source": "The Irish Times",
         "url": "https://www.irishtimes.com/world/us/2026/08/23/united-states-to-unveil-toughest-sanctions-in-history-on-iran/",
@@ -45,20 +59,6 @@
         "source": "Business Standard",
         "url": "https://www.business-standard.com/world-news/defiant-iran-says-new-sanctions-threatened-by-desperate-us-will-fail-126082300776_1.html",
         "published": "2026-08-23T17:02:23Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Food prices predicted to surge in 2027 as two global threats collide, JPMorgan warns",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/sciencetech/article-16070689/food-prices-jpmorgan-warning-el-nino-fertilizer.html",
-        "published": "2026-08-23T16:23:04Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran’s Shock Strike Strategy Against US Assets Opens Multiple Fronts",
-        "source": "Activistpost.com",
-        "url": "https://www.activistpost.com/irans-shock-strike-strategy-against-us-assets-opens-multiple-fronts/",
-        "published": "2026-08-23T16:05:00Z",
         "sentiment": "danger"
       }
     ],
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
