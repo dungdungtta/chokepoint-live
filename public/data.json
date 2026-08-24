@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T14:07:14.750Z",
+    "generated_at": "2026-08-24T15:02:32.669Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Iran: President defends deal with US as best option for peace",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/iran-president-defends-deal-with-us-as-best-option-for-peace/a-78477486",
+        "published": "2026-08-23T14:49:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
         "source": "Al Jazeera English",
