@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T04:55:47.094Z",
+    "generated_at": "2026-08-25T05:38:21.071Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "INR in narrow range as simmering geopolitical tensions weigh",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/capital-market-news/inr-in-narrow-range-as-simmering-geopolitical-tensions-weigh-126082400299_1.html",
+        "published": "2026-08-24T05:35:40Z",
+        "sentiment": "watch"
+      },
       {
         "title": "'We took the head off the snake': US to enter 'new phase' in Iran war very soon, says US House Speaker Mike Johnson",
         "source": "The Times of India",
@@ -53,16 +60,16 @@
         "url": "https://economictimes.indiatimes.com/news/international/world-news/fewer-than-20-ships-cross-strait-of-hormuz-over-weekend-as-us-iran-blockades-choke-key-oil-route/articleshow/133450109.cms",
         "published": "2026-08-24T03:13:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "16-Ounce Light-Blocking Glass Oil Sprayer (White) $4.99 + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19915410-16-ounce-light-blocking-glass-oil-sprayer-white-4-99-free-shipping-w-prime-or-on-35",
-        "published": "2026-08-24T03:08:27Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan's troops are training to fight China in ordinary neighborhoods as people go about their days",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/taiwan-troops-train-fight-china-ordinary-neighborhood-public-han-kuang-2026-8#article",
+        "published": "2026-08-24T04:59:13Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan tech insiders warn Beijing’s germanium squeeze hits production",
         "source": "Crypto Briefing",
@@ -89,13 +96,6 @@
         "source": "Yahoo Entertainment",
         "url": "https://www.yahoo.com/news/articles/peace-strength-taiwan-president-says-053315147.html",
         "published": "2026-08-23T05:33:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Secret tanker crossings are keeping oil prices from soaring through the Strait of Hormuz",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/08/22/secret-tanker-crossings-are-keeping-oil-prices-from-soaring-through-the-strait-of-hormuz/",
-        "published": "2026-08-22T12:57:12Z",
         "sentiment": "watch"
       }
     ],
