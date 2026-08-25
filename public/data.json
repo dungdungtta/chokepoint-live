@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T05:38:21.071Z",
+    "generated_at": "2026-08-25T06:16:49.444Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Treasury Secretary Calls on China to Enforce U.S. Sanctions on Iran",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-24-treasury-secretary-calls-china-enforce-sanctions-iran.html",
+        "published": "2026-08-24T06:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US vows 'economic D-Day' as Iran threatens oil exports",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/world/2026/0824/1588950-middle-east/",
+        "published": "2026-08-24T05:59:17Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "El Niño shock could re-price food inflation, Central Bank policy paths: US analyst",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/agri-business/el-nino-shock-could-re-price-food-inflation-central-bank-policy-paths-us-analyst/article71383344.ece",
+        "published": "2026-08-24T05:55:52Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Bessent vows ‘economic D-Day’ against Iran",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/bessent-vows-economic-d-day-against-iran-225962",
+        "published": "2026-08-24T05:45:06Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "INR in narrow range as simmering geopolitical tensions weigh",
         "source": "Business Standard",
         "url": "https://www.business-standard.com/markets/capital-market-news/inr-in-narrow-range-as-simmering-geopolitical-tensions-weigh-126082400299_1.html",
         "published": "2026-08-24T05:35:40Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "'We took the head off the snake': US to enter 'new phase' in Iran war very soon, says US House Speaker Mike Johnson",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/we-took-the-head-off-the-snake-us-to-enter-new-phase-in-iran-war-very-soon-says-us-house-speaker-mike-johnson/articleshow/133451341.cms",
-        "published": "2026-08-24T04:39:48Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Rupee rises 7 paise to 95.64 against US dollar during early trade",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/finance/news/rupee-rises-7-paise-to-95-64-against-us-dollar-during-early-trade-126082400157_1.html",
-        "published": "2026-08-24T04:24:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The shipping industry profits from conflict and looks East",
-        "source": "POLITICO.eu",
-        "url": "https://www.politico.eu/sponsored-content/the-shipping-industry-profits-from-conflict-and-looks-east/",
-        "published": "2026-08-24T04:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Fewer than 20 ships cross Strait of Hormuz over weekend as US-Iran blockades choke key oil route",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/fewer-than-20-ships-cross-strait-of-hormuz-over-weekend-as-us-iran-blockades-choke-key-oil-route/articleshow/133450109.cms",
-        "published": "2026-08-24T03:13:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
