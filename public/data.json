@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T11:10:48.917Z",
+    "generated_at": "2026-08-25T11:46:04.858Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iranian MPs advance plan to charge Hormuz ships",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/iranian-mps-advance-plan-to-charge-hormuz-ships-225996",
-        "published": "2026-08-24T11:00:48Z",
+        "title": "Bessent Warns 'Economic D-Day' Awaits Recalcitrant Iran",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/europe/2026/08/24/bessent-warns-economic-d-day-awaits-recalcitrant-iran/",
+        "published": "2026-08-24T11:45:32Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "2.7-Oz NYX Suga Baddie Hair & Body Fragrance Mist $6.35 w/ S&S + Free Shipping w/ Prime or on $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19917021-2-7-oz-nyx-suga-baddie-hair-body-fragrance-mist-6-35-w-s-s-free-shipping-w-prime-or-on-35",
+        "published": "2026-08-24T11:43:56Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-threatens-45-tankers-with-fines-confiscation-in-hormuz-escalation/articleshow/133461996.cms",
-        "published": "2026-08-24T10:49:46Z",
+        "title": "US to unveil new Iran sanctions, says war entering 'endgame'",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/us-to-unveil-new-iran-sanctions-says-war-entering-endgame/a-78483909",
+        "published": "2026-08-24T11:35:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran warns of a harsh response to anticipated US sanctions and other Middle East news",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/us/articles/iran-warns-harsh-response-anticipated-104856351.html",
-        "published": "2026-08-24T10:48:56Z",
+        "title": "US announces more secondary sanctions against Iran, threatens countries that do not comply that they will 'share in the isolation'",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/us-announces-bid-to-further-isolate-iran-economically/a-78483909",
+        "published": "2026-08-24T11:35:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran faces 'economic D-Day', US Treasury Secretary warns",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o",
-        "published": "2026-08-24T10:39:23Z",
-        "sentiment": "danger"
+        "title": "Thrace Plastics targets Moroccan company Naturplas in international expansion push",
+        "source": "Naftemporiki.gr",
+        "url": "https://www.naftemporiki.gr/english/2152829/thrace-plastics-targets-moroccan-company-naturplas-in-international-expansion-push/",
+        "published": "2026-08-24T11:14:33Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan issues indictments over alleged illegal export of AI servers to China",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/taiwan-issues-indictments-over-alleged-illegal-export-of-ai-servers-to-china/",
+        "published": "2026-08-24T11:22:20Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Risks of Downplaying China’s Military",
         "source": "War on the Rocks",
@@ -83,13 +97,6 @@
         "url": "https://cryptobriefing.com/taiwan-germanium-squeeze-beijing-production/",
         "published": "2026-08-23T12:55:22Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Iran Unleashed",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/international/2026/08/iran-middle-east-power/688374/",
-        "published": "2026-08-23T11:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
