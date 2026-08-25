@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T07:26:20.915Z",
+    "generated_at": "2026-08-25T08:10:40.133Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Italian Olive Crafters 16.9-oz. Organic Extra Virgin Olive Oil for $33 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Italian-Olive-Crafters-16-9-oz-Organic-Extra-Virgin-Olive-Oil-for-33-free-shipping/22087684.html",
+        "published": "2026-08-24T08:05:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran warns ships of fines, seizure risk in Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-warns-ships-of-fines-seizure-risk-in-strait-of-hormuz/",
+        "published": "2026-08-24T07:52:05Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "How much more are you spending on petrol since the war in Iran began?",
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began",
@@ -46,23 +60,16 @@
         "url": "https://www.rte.ie/news/business/2026/0824/1588964-world-oil-prices/",
         "published": "2026-08-24T07:11:39Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Why stocks of rice exporters LT Foods, KRBL jump up to 13% on Monday?",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/lt-foods-surges-13-hits-52-week-high-krbl-soars-9-here-s-why-126082400353_1.html",
-        "published": "2026-08-24T06:52:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US vows ‘economic D-Day’ as Iran threatens to halt all oil exports",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/08/24/us-vows-economic-d-day-as-iran-threatens-to-halt-all-oil-exports/",
-        "published": "2026-08-24T06:32:44Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Risks of Downplaying China’s Military",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/the-risks-of-downplaying-chinas-military/",
+        "published": "2026-08-24T07:30:35Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump's North Korea gambit tests US ties with Asian partners, including India",
         "source": "The Times of India",
@@ -90,13 +97,6 @@
         "url": "https://www.theatlantic.com/international/2026/08/iran-middle-east-power/688374/",
         "published": "2026-08-23T11:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "The Dawn of a New Cold War",
-        "source": "The Intercept",
-        "url": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/",
-        "published": "2026-08-23T10:10:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
