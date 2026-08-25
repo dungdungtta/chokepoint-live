@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T22:34:32.907Z",
+    "generated_at": "2026-08-25T23:04:14.272Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "How US sanctions on Iran ripple through global markets and consumers",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers",
+        "published": "2026-08-24T22:46:02Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Tanker hit by unknown projectile in Gulf of Oman, UKMTO reports",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/tanker-hit-by-unknown-projectile-in-gulf-of-oman-ukmto-reports/",
@@ -52,13 +59,6 @@
         "source": "Trendkia.com",
         "url": "https://trendkia.com/en/business/us-sanctions-on-iran-threaten-global-finance-shipping-routes-and-market-stability-21464",
         "published": "2026-08-24T21:54:58Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S. Threatens Iran’s Trading Partners in New Economic Pressure Campaign",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/u-s-threatens-irans-trading-partners-in-new-economic-pressure-campaign/",
-        "published": "2026-08-24T21:42:52Z",
         "sentiment": "danger"
       }
     ],
