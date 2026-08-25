@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T16:57:18.897Z",
+    "generated_at": "2026-08-25T17:38:51.113Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "TORM plc Appoints Jann Brown to the Board of Directors",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/torm-plc-appoints-jann-brown-to-the-board-of-directors-302858509.html",
-        "published": "2026-08-24T16:48:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Don’t ask us to take sides in Harry vs William – it’s childish and harmful",
-        "source": "The-independent.com",
-        "url": "https://www.the-independent.com/life-style/prince-harry-uk-cotswolds-william-royal-family-king-charles-b3038189.html",
-        "published": "2026-08-24T16:26:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Houthi militant group targets Saudi Arabian supertanker in Red Sea",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/houthi-targets-saudi-supertanker-red-sea/",
-        "published": "2026-08-24T16:19:55Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US to broaden secondary sanctions to isolate Iran on 'economic D-Day'",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-to-broaden-secondary-sanctions-to-isolate-iran-on-economic-d-day/articleshow/133473057.cms",
-        "published": "2026-08-24T16:18:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran blacklists 45 tankers in Strait of Hormuz, threatens to fine and confiscate cargo",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/24/us-news/iran-blacklists-45-tankers-in-strait-of-hormuz-threatens-fines-and-confiscated-cargo/",
-        "published": "2026-08-24T16:13:43Z",
+        "title": "Bessent threatens new Iran secondary sanctions, says Trump asking world leaders to sign on",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/business/economy/bessent-iran-sanctions-d-day-rcna594103",
+        "published": "2026-08-24T17:25:02Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Operation Economic Outcast: Bessent declares 'economic onslaught' on Iran's economy",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/432177",
+        "published": "2026-08-24T17:25:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Every country backing Iran should brace for US sanctions, warns Bessent",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/every-country-backing-iran-should-brace-for-us-sanctions-bessent/articleshow/133474551.cms",
+        "published": "2026-08-24T17:23:46Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump launches ferocious 'economic onslaught' on Iran to cripple its economy after bombing campaign and peace deal stalls... with chilling warning to China",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16075815/Trump-launches-ferocious-economic-onslaught-Iran-cripple-economy-bombing-campaign-peace-deal-stalls-chilling-warning-China.html",
+        "published": "2026-08-24T17:17:52Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The 60 Day Peace Window Closed, and Trump’s Iran Strategy May Shift Dramatically",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/The-60-Day-Peace-Window-Closed-and-Trumps-Iran-Strategy-May-Shift-Dramatically.html",
+        "published": "2026-08-24T17:00:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The 60 Day Peace Window Closed, and Trump’s Iran Strategy May Shift Dramatically",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/The-60-Day-Peace-Window-Closed-and-Trumps-Iran-Strategy-May-Shift-Dramatically.html",
+        "published": "2026-08-24T17:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump’s Kim gambit deepens doubts over US reliability at a key moment for Asia",
         "source": "The Irish Times",
@@ -90,13 +97,6 @@
         "url": "https://economictimes.indiatimes.com/news/defence/trumps-north-korea-gambit-tests-us-ties-with-asian-partners-including-india/articleshow/133453345.cms",
         "published": "2026-08-24T06:22:52Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan's troops are training to fight China in ordinary neighborhoods as people go about their days",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/taiwan-troops-train-fight-china-ordinary-neighborhood-public-han-kuang-2026-8#article",
-        "published": "2026-08-24T04:59:13Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
