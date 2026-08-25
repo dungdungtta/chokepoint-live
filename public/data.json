@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T19:47:12.391Z",
+    "generated_at": "2026-08-25T20:36:48.405Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Yemen’s Houthis report attack on Saudi ship",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship",
-        "published": "2026-08-24T19:44:23Z",
+        "title": "Oil Retreats While Iran Pressure Builds",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_retreats_while_iran_pressure_builds-24-aug-2026-184448-article/",
+        "published": "2026-08-24T20:36:21Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Gas prices hit record highs for August as Ukraine, Iran conflicts drive costs up",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4392974/posts",
+        "published": "2026-08-24T20:14:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Houthis Target Saudi Oil Tanker in Red Sea Missile and Drone Attack",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Geopolitics/Middle-East/Houthis-Target-Saudi-Oil-Tanker-in-Red-Sea-Missile-and-Drone-Attack.html",
+        "published": "2026-08-24T20:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Scott Bessent announces sweeping sanctions targeting Iran’s digital assets and technology",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/bessent-sanctions-iran-digital-assets/",
-        "published": "2026-08-24T19:40:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Exxon Drops as Oil Retreats From $94",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/9ba4a780827b85cf",
-        "published": "2026-08-24T19:32:28Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Treasury Expands Iran Sanctions Without Targeting Major Chinese Banks",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Treasury-Expands-Iran-Sanctions-Without-Targeting-Major-Chinese-Banks.html",
-        "published": "2026-08-24T19:13:50Z",
+        "title": "Sinopec Says China Oil Demand 'Very Likely' Peaked in 2025",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/sinopec_says_china_oil_demand_very_likely_peaked_in_2025-24-aug-2026-184444-article/",
+        "published": "2026-08-24T20:00:00Z",
         "sentiment": "watch"
       }
     ],
