@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T11:46:04.858Z",
+    "generated_at": "2026-08-25T13:00:54.626Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Bessent Warns 'Economic D-Day' Awaits Recalcitrant Iran",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/europe/2026/08/24/bessent-warns-economic-d-day-awaits-recalcitrant-iran/",
-        "published": "2026-08-24T11:45:32Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "2.7-Oz NYX Suga Baddie Hair & Body Fragrance Mist $6.35 w/ S&S + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19917021-2-7-oz-nyx-suga-baddie-hair-body-fragrance-mist-6-35-w-s-s-free-shipping-w-prime-or-on-35",
-        "published": "2026-08-24T11:43:56Z",
+        "title": "Current price of oil as of August 24, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-08-24-2026/",
+        "published": "2026-08-24T13:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US to unveil new Iran sanctions, says war entering 'endgame'",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/us-to-unveil-new-iran-sanctions-says-war-entering-endgame/a-78483909",
-        "published": "2026-08-24T11:35:00Z",
-        "sentiment": "danger"
+        "title": "Saudi Arabia’s MBS visits Macron in France: What to expect",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect",
+        "published": "2026-08-24T12:59:55Z",
+        "sentiment": "watch"
       },
       {
-        "title": "US announces more secondary sanctions against Iran, threatens countries that do not comply that they will 'share in the isolation'",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/us-announces-bid-to-further-isolate-iran-economically/a-78483909",
-        "published": "2026-08-24T11:35:00Z",
-        "sentiment": "danger"
+        "title": "India's exports to Iran set to fall further due to Dubai halt, US sanctions",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-exports-to-iran-set-to-fall-further-due-to-dubai-halt-us-sanctions/articleshow/133467129.cms",
+        "published": "2026-08-24T12:56:33Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Thrace Plastics targets Moroccan company Naturplas in international expansion push",
-        "source": "Naftemporiki.gr",
-        "url": "https://www.naftemporiki.gr/english/2152829/thrace-plastics-targets-moroccan-company-naturplas-in-international-expansion-push/",
-        "published": "2026-08-24T11:14:33Z",
+        "title": "TotalEnergies CEO Just Exposed the $10 Secret That Makes the Hormuz Oil Panic Look Overblown",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/621e5c9e1d0e856f",
+        "published": "2026-08-24T12:05:51Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "TotalEnergies CEO Just Exposed the $10 Secret That Makes the Hormuz Oil Panic Look Overblown",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/24/totalenergies-ceo-just-exposed-the-10-secret-that-makes-the-hormuz-oil-panic-look-overblown/",
+        "published": "2026-08-24T12:03:37Z",
         "sentiment": "watch"
       }
     ],
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
