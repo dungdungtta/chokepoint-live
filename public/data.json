@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T19:03:36.282Z",
+    "generated_at": "2026-08-25T19:47:12.391Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "US unveils ‘economic onslaught’ against Iran",
-        "source": "RT",
-        "url": "https://www.rt.com/news/644604-bessent-economic-sanctions-iran/",
-        "published": "2026-08-24T18:48:59Z",
+        "title": "Yemen’s Houthis report attack on Saudi ship",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship",
+        "published": "2026-08-24T19:44:23Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Scott Bessent announces sweeping sanctions targeting Iran’s digital assets and technology",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/bessent-sanctions-iran-digital-assets/",
+        "published": "2026-08-24T19:40:40Z",
         "sentiment": "watch"
       },
       {
-        "title": "[SnS, AC] $9.61* | 2 × 150-ct Nature Made Burp Less Fish Oil Omega 3 1000mg Softgels ($4.81 each) at Amazon",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19919256-sns-ac-9-61-2-150-ct-nature-made-burp-less-fish-oil-omega-3-1000mg-softgels-4-81-each-at-amazon",
-        "published": "2026-08-24T18:38:49Z",
+        "title": "Exxon Drops as Oil Retreats From $94",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/9ba4a780827b85cf",
+        "published": "2026-08-24T19:32:28Z",
         "sentiment": "watch"
       },
       {
-        "title": "Scott Bessent Skimps On Details In Big ‘Economic D-Day’ Iran Sanctions Announcement",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/08/24/bessent-unveils-economic-d-day-to-cripple-irans-economy",
-        "published": "2026-08-24T18:32:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump administration expands U.S. sanctions on Iran targeting countries with business ties to Tehran",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/trump-bessent-sanctions-iran-9.7318089",
-        "published": "2026-08-24T18:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Launching 'Economic Onslaught' On Iran, Demands Countries Cut 'Lifelines' That Sustain Tehran",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/iran-us-sanctions-bessent-oil-trade/33837303.html",
-        "published": "2026-08-24T18:18:38Z",
+        "title": "Treasury Expands Iran Sanctions Without Targeting Major Chinese Banks",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Treasury-Expands-Iran-Sanctions-Without-Targeting-Major-Chinese-Banks.html",
+        "published": "2026-08-24T19:13:50Z",
         "sentiment": "watch"
       }
     ],
