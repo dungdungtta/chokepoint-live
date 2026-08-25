@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T01:53:58.990Z",
+    "generated_at": "2026-08-25T03:05:56.417Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran says support for new sanctions would be 'act of war'",
+        "title": "Beggar woman dies; Rs 8.40 lakh in savings, including coins, found at home and in bank account",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-support-for-new-sanctions-would-be-act-of-war-other-middle-east-news/articleshow/133449149.cms",
-        "published": "2026-08-24T01:46:43Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "8-Oz Native Pet Omega Oil Liquid Supplement $8.49 w/ S&S + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19915179-8-oz-native-pet-omega-oil-liquid-supplement-8-49-w-s-s-free-shipping-w-prime-or-on-35",
-        "published": "2026-08-24T01:17:37Z",
+        "url": "https://timesofindia.indiatimes.com/city/mysuru/beggar-woman-dies-rs-8-40-lakh-in-savings-including-coins-found-at-home-and-in-bank-account/articleshow/133449716.cms",
+        "published": "2026-08-24T02:45:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "US vows 'economic D-Day' as Iran threatens to halt all oil exports",
-        "source": "Yahoo Entertainment",
-        "url": "https://uk.news.yahoo.com/us-vows-economic-d-day-003335422.html",
-        "published": "2026-08-24T01:14:25Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran says new sanctions threatened by 'desperate' US will fail",
+        "title": "'Vessels violating Iranian protocols for Strait of Hormuz' shall face fines, detention, confiscation: Iran",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-says-new-sanctions-threatened-by-desperate-us-will-fail/articleshow/133448862.cms",
-        "published": "2026-08-24T00:52:24Z",
-        "sentiment": "danger"
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/vessels-violating-iranian-protocols-for-strait-of-hormuz-shall-face-fines-detention-confiscation-iran/articleshow/133449750.cms",
+        "published": "2026-08-24T02:44:54Z",
+        "sentiment": "watch"
       },
       {
-        "title": "4-Oz PanOxyl Clarifying Exfoliant w/ 2% Salicylic Acid $6.20 w/ S&S",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19909218-sns-6-17-4-oz-panoxyl-clarifying-exfoliant-with-2-salicylic-acid-at-amazon",
-        "published": "2026-08-24T00:27:28Z",
+        "title": "Five wins and five frontiers for India",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/toi-blogs/from-toi-print/five-wins-and-five-frontiers-for-india/articleshow/133449679.cms",
+        "published": "2026-08-24T02:41:55Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran plans fees for ships in Strait of Hormuz amid fiscal strain",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-plans-fees-for-ships-in-strait-of-hormuz-amid-fiscal-strain/",
+        "published": "2026-08-24T02:40:20Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "KVS NVS Tier-2 Result 2026 released for PGT Physics and key non-teaching posts; check status",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/education/news/kvs-nvs-tier-2-result-2026-released-for-pgt-physics-and-key-non-teaching-posts-check-status/articleshow/133449531.cms",
+        "published": "2026-08-24T02:38:03Z",
         "sentiment": "watch"
       }
     ],
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
