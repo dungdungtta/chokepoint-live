@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T04:02:14.956Z",
+    "generated_at": "2026-08-25T04:55:47.094Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "'We took the head off the snake': US to enter 'new phase' in Iran war very soon, says US House Speaker Mike Johnson",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/we-took-the-head-off-the-snake-us-to-enter-new-phase-in-iran-war-very-soon-says-us-house-speaker-mike-johnson/articleshow/133451341.cms",
+        "published": "2026-08-24T04:39:48Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Rupee rises 7 paise to 95.64 against US dollar during early trade",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/finance/news/rupee-rises-7-paise-to-95-64-against-us-dollar-during-early-trade-126082400157_1.html",
+        "published": "2026-08-24T04:24:20Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "The shipping industry profits from conflict and looks East",
         "source": "POLITICO.eu",
         "url": "https://www.politico.eu/sponsored-content/the-shipping-industry-profits-from-conflict-and-looks-east/",
@@ -45,20 +59,6 @@
         "source": "Slickdeals.net",
         "url": "https://slickdeals.net/f/19915410-16-ounce-light-blocking-glass-oil-sprayer-white-4-99-free-shipping-w-prime-or-on-35",
         "published": "2026-08-24T03:08:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Beggar woman dies; Rs 8.40 lakh in savings, including coins, found at home and in bank account",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/city/mysuru/beggar-woman-dies-rs-8-40-lakh-in-savings-including-coins-found-at-home-and-in-bank-account/articleshow/133449716.cms",
-        "published": "2026-08-24T02:45:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "'Vessels violating Iranian protocols for Strait of Hormuz' shall face fines, detention, confiscation: Iran",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/vessels-violating-iranian-protocols-for-strait-of-hormuz-shall-face-fines-detention-confiscation-iran/articleshow/133449750.cms",
-        "published": "2026-08-24T02:44:54Z",
         "sentiment": "watch"
       }
     ],
