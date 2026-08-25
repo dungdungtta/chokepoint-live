@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T15:07:19.651Z",
+    "generated_at": "2026-08-25T16:02:08.555Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump bets everything on ‘century-old delusion’ doomed to trigger 'catastrophe': expert",
+        "title": "Trump will have to risk pain to make new Iran sanctions truly bite",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-will-have-to-risk-pain-to-make-new-iran-sanctions-truly-bite/articleshow/133472419.cms",
+        "published": "2026-08-24T15:46:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "$20 million: The cost of shipping oil through Strait of Hormuz, TotalEnergies CEO says",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/business/20-million-the-cost-of-shipping-oil-through-strait-of-hormuz-totalenergies-ceo-says/articleshow/133472007.cms",
+        "published": "2026-08-24T15:41:56Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump's new scheme has two outcomes — and both threaten disaster: expert",
         "source": "Raw Story",
-        "url": "https://www.rawstory.com/trump-iran-2677768122/",
-        "published": "2026-08-24T14:29:41Z",
-        "sentiment": "watch"
+        "url": "https://www.rawstory.com/economic-d-day/",
+        "published": "2026-08-24T15:39:01Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Nikkei Falls as Rising Yields Hit AI and Chip Shares",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/150495.php",
-        "published": "2026-08-24T14:21:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Palmers Coconut Oil Protein Pack only $0.49 at Target",
-        "source": "Moneysavingmom.com",
-        "url": "https://moneysavingmom.com/palmers-coconut-oil-protein-pack-only-0-49-at-target/",
-        "published": "2026-08-24T14:13:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Refinery rivalry: billion-dollar oil projects expose East Africa’s long-running regional tensions",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/refinery-rivalry-billion-dollar-oil-projects-expose-east-africas-long-running-regional-tensions-289820",
-        "published": "2026-08-24T14:07:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran blacklists 45 tankers amid Hormuz standoff escalation",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-blacklists-45-tankers-hormuz-escalation/",
-        "published": "2026-08-24T14:06:26Z",
+        "title": "Iran Warns of Ship Seizures in Strait of Hormuz as US Prepares 'Economic D-Day' Sanctions",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/tensions-rise-iran-threatens-ship-seizures-strait-hormuz-1874489",
+        "published": "2026-08-24T15:34:11Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump’s Kim gambit deepens doubts over US reliability at a key moment for Asia",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/asia-pacific/2026/08/24/trumps-kim-gambit-deepens-doubts-over-us-reliability-at-a-key-moment-for-asia/",
+        "published": "2026-08-24T15:10:59Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan issues indictments over alleged illegal export of AI servers to China",
         "source": "Crypto Briefing",
@@ -90,13 +90,6 @@
         "url": "https://www.businessinsider.com/taiwan-troops-train-fight-china-ordinary-neighborhood-public-han-kuang-2026-8#article",
         "published": "2026-08-24T04:59:13Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan tech insiders warn Beijing’s germanium squeeze hits production",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/taiwan-germanium-squeeze-beijing-production/",
-        "published": "2026-08-23T12:55:22Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -118,7 +111,7 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "amber",
+    "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
