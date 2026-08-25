@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T18:14:32.968Z",
+    "generated_at": "2026-08-25T19:03:36.282Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Bessent Flails as Trump’s Phony “Economic D-Day” on Iran Is Exposed",
-        "source": "The New Republic",
-        "url": "https://newrepublic.com/post/214647/bessent-trump-phony-economic-d-day-iran-sanctions-exposed",
-        "published": "2026-08-24T18:12:25Z",
+        "title": "US unveils ‘economic onslaught’ against Iran",
+        "source": "RT",
+        "url": "https://www.rt.com/news/644604-bessent-economic-sanctions-iran/",
+        "published": "2026-08-24T18:48:59Z",
         "sentiment": "watch"
       },
       {
-        "title": "'Economic D-Day': US announces expansion of sanctions in 'onslaught' on Iran",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/economic-d-day-us-announces-expansion-of-sanctions-in-onslaught-on-iran/articleshow/133474919.cms",
-        "published": "2026-08-24T17:39:35Z",
+        "title": "[SnS, AC] $9.61* | 2 × 150-ct Nature Made Burp Less Fish Oil Omega 3 1000mg Softgels ($4.81 each) at Amazon",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19919256-sns-ac-9-61-2-150-ct-nature-made-burp-less-fish-oil-omega-3-1000mg-softgels-4-81-each-at-amazon",
+        "published": "2026-08-24T18:38:49Z",
         "sentiment": "watch"
       },
       {
-        "title": "Bessent threatens new Iran secondary sanctions, says Trump asking world leaders to sign on",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/business/economy/bessent-iran-sanctions-d-day-rcna594103",
-        "published": "2026-08-24T17:25:02Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Operation Economic Outcast: Bessent declares 'economic onslaught' on Iran's economy",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/432177",
-        "published": "2026-08-24T17:25:00Z",
+        "title": "Scott Bessent Skimps On Details In Big ‘Economic D-Day’ Iran Sanctions Announcement",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/08/24/bessent-unveils-economic-d-day-to-cripple-irans-economy",
+        "published": "2026-08-24T18:32:47Z",
         "sentiment": "watch"
       },
       {
-        "title": "Every country backing Iran should brace for US sanctions, warns Bessent",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/every-country-backing-iran-should-brace-for-us-sanctions-bessent/articleshow/133474551.cms",
-        "published": "2026-08-24T17:23:46Z",
-        "sentiment": "danger"
+        "title": "Trump administration expands U.S. sanctions on Iran targeting countries with business ties to Tehran",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/trump-bessent-sanctions-iran-9.7318089",
+        "published": "2026-08-24T18:30:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US Launching 'Economic Onslaught' On Iran, Demands Countries Cut 'Lifelines' That Sustain Tehran",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/iran-us-sanctions-bessent-oil-trade/33837303.html",
+        "published": "2026-08-24T18:18:38Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "US Navy Spy Plane Makes Rare Taiwan Strait Flight Ahead Of Xi White House Visit",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/08/24/us-navy-spy-plane-taiwan-strait-rare-flight",
+        "published": "2026-08-24T18:33:15Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The 60 Day Peace Window Closed, and Trump’s Iran Strategy May Shift Dramatically",
         "source": "OilPrice.com",
@@ -89,13 +96,6 @@
         "source": "War on the Rocks",
         "url": "https://warontherocks.com/the-risks-of-downplaying-chinas-military/",
         "published": "2026-08-24T07:30:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump's North Korea gambit tests US ties with Asian partners, including India",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/trumps-north-korea-gambit-tests-us-ties-with-asian-partners-including-india/articleshow/133453345.cms",
-        "published": "2026-08-24T06:22:52Z",
         "sentiment": "watch"
       }
     ],
