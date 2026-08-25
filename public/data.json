@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T10:39:51.841Z",
+    "generated_at": "2026-08-25T11:10:48.917Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,32 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iranian MPs advance plan to charge Hormuz ships",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/iranian-mps-advance-plan-to-charge-hormuz-ships-225996",
+        "published": "2026-08-24T11:00:48Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-threatens-45-tankers-with-fines-confiscation-in-hormuz-escalation/articleshow/133461996.cms",
+        "published": "2026-08-24T10:49:46Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran warns of a harsh response to anticipated US sanctions and other Middle East news",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/us/articles/iran-warns-harsh-response-anticipated-104856351.html",
+        "published": "2026-08-24T10:48:56Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Iran faces 'economic D-Day', US Treasury Secretary warns",
         "source": "BBC News",
         "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o",
         "published": "2026-08-24T10:39:23Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "US threatens toughest sanctions yet against Iran: What we know",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know",
-        "published": "2026-08-24T10:23:11Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Rhine Water Rises Sharply After Rain, Ships Able to Load More Cargo",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/rhine-water-rises-sharply-after-rain-ships-able-to-load-more-cargo/",
-        "published": "2026-08-24T10:20:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Climate change opens Arctic shipping routes as roadless forest protections face rollback",
-        "source": "Scientific American",
-        "url": "https://www.scientificamerican.com/podcast/episode/climate-change-opens-arctic-shipping-routes-as-roadless-forest-protections-face-rollback/",
-        "published": "2026-08-24T10:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
