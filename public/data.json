@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T09:52:52.937Z",
+    "generated_at": "2026-08-25T10:39:51.841Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran's rial currency hits new record low as US prepares to announce more sanctions",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/irans-rial-currency-hits-new-record-low-us-135895333",
-        "published": "2026-08-24T09:34:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "AI Trade in Focus as Nvidia Earnings and Iran Sanctions Keep Markets on Edge: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-        "source": "Advfn.com",
-        "url": "https://investorshub.advfn.com/market-news/article/34860/ai-trade-in-focus-as-nvidia-earnings-and-iran-sanctions-keep-markets-on-edge-dow-jones-sp-nasdaq-wall-street-futures",
-        "published": "2026-08-24T09:28:46Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente",
-        "published": "2026-08-24T09:10:12Z",
+        "title": "Iran faces 'economic D-Day', US Treasury Secretary warns",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o",
+        "published": "2026-08-24T10:39:23Z",
         "sentiment": "danger"
       },
       {
-        "title": "UKMTO says tanker struck by unknown projectile off Saudi Arabia's Yanbu",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/ukmto-says-tanker-struck-by-unknown-projectile-off-saudi-arabias-yanbu/articleshow/133459341.cms",
-        "published": "2026-08-24T09:08:42Z",
+        "title": "US threatens toughest sanctions yet against Iran: What we know",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know",
+        "published": "2026-08-24T10:23:11Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Rhine Water Rises Sharply After Rain, Ships Able to Load More Cargo",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/rhine-water-rises-sharply-after-rain-ships-able-to-load-more-cargo/",
+        "published": "2026-08-24T10:20:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran's Rial Currency Hits New Record Low As U.S. Prepares To Announce More Sanctions",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/iran-rial-currency-record-low_n_6a8c05a3e4b006e7e00e7992",
-        "published": "2026-08-24T09:07:34Z",
+        "title": "Climate change opens Arctic shipping routes as roadless forest protections face rollback",
+        "source": "Scientific American",
+        "url": "https://www.scientificamerican.com/podcast/episode/climate-change-opens-arctic-shipping-routes-as-roadless-forest-protections-face-rollback/",
+        "published": "2026-08-24T10:00:00Z",
         "sentiment": "watch"
       }
     ],
