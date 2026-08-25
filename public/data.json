@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T23:04:14.272Z",
+    "generated_at": "2026-08-25T23:40:28.014Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Lodge Pre-Seasoned Cast Iron Burger Press, 6.25 Inches $16.90 @Amazon",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19920393-lodge-pre-seasoned-cast-iron-burger-press-6-25-inches-16-90-amazon",
+        "published": "2026-08-24T23:22:22Z",
+        "sentiment": "watch"
+      },
       {
         "title": "How US sanctions on Iran ripple through global markets and consumers",
         "source": "Al Jazeera English",
@@ -53,13 +60,6 @@
         "url": "https://www.abc.net.au/news/2026-08-25/operation-economic-outcast-new-us-plan-for-iran/107073902",
         "published": "2026-08-24T22:00:39Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "US Sanctions on Iran Threaten Global Finance, Shipping Routes, and Market Stability — TrendKia",
-        "source": "Trendkia.com",
-        "url": "https://trendkia.com/en/business/us-sanctions-on-iran-threaten-global-finance-shipping-routes-and-market-stability-21464",
-        "published": "2026-08-24T21:54:58Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
