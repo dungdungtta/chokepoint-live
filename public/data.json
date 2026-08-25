@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T13:00:54.626Z",
+    "generated_at": "2026-08-25T14:05:38.200Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Current price of oil as of August 24, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-08-24-2026/",
-        "published": "2026-08-24T13:00:00Z",
+        "title": "Iran Blacklists 45 Tankers as Hormuz Standoff Escalates",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Iran-Blacklists-45-Tankers-as-Hormuz-Standoff-Escalates.html",
+        "published": "2026-08-24T14:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Otherworldly Wonders | Sophie’s ELECTRIC Road Trip Part 7",
+        "source": "PBS",
+        "url": "https://www.pbs.org/wnet/nature/otherworldly-wonders-sophies-electric-road-trip-part-7/35086/",
+        "published": "2026-08-24T13:33:35Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudi Arabia’s MBS visits Macron in France: What to expect",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect",
-        "published": "2026-08-24T12:59:55Z",
+        "title": "MRPL says no single geography, supplier or route decisive for crude sourcing",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/mrpl-says-no-single-geography-supplier-or-route-decisive-for-crude-sourcing/article71384527.ece",
+        "published": "2026-08-24T13:19:15Z",
         "sentiment": "watch"
       },
       {
-        "title": "India's exports to Iran set to fall further due to Dubai halt, US sanctions",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-exports-to-iran-set-to-fall-further-due-to-dubai-halt-us-sanctions/articleshow/133467129.cms",
-        "published": "2026-08-24T12:56:33Z",
+        "title": "Dangote refinery drives increase in petroleum shipments from Nigeria",
+        "source": "Eia.gov",
+        "url": "https://www.eia.gov/todayinenergy/detail.php?id=68004",
+        "published": "2026-08-24T13:10:54Z",
         "sentiment": "watch"
       },
       {
-        "title": "TotalEnergies CEO Just Exposed the $10 Secret That Makes the Hormuz Oil Panic Look Overblown",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/621e5c9e1d0e856f",
-        "published": "2026-08-24T12:05:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "TotalEnergies CEO Just Exposed the $10 Secret That Makes the Hormuz Oil Panic Look Overblown",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/24/totalenergies-ceo-just-exposed-the-10-secret-that-makes-the-hormuz-oil-panic-look-overblown/",
-        "published": "2026-08-24T12:03:37Z",
+        "title": "India's Iran exports set to fall further amid Dubai halt, US sanctions",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/india-s-iran-exports-set-to-fall-further-amid-dubai-halt-us-sanctions-126082401014_1.html",
+        "published": "2026-08-24T13:02:18Z",
         "sentiment": "watch"
       }
     ],
