@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T00:00:42.748Z",
+    "generated_at": "2026-08-25T01:53:58.990Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "1982 Honda CBX Super Sport at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1982-honda-cbx-28/",
-        "published": "2026-08-23T23:30:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran rips Trump's 'empty talk' while issuing blistering ultimatum to neighboring nations",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16073625/Iran-rips-Trumps-talk-issuing-blistering-ultimatum.html",
-        "published": "2026-08-23T23:17:37Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The next big oil trade may have nothing to do with oil stocks",
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/economy/the-next-big-oil-trade-may-have-nothing-to-do-with-oil-stocks",
-        "published": "2026-08-23T22:33:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "United States enters economic D-Day in confrontation with Iran",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-economic-d-day-iran-sanctions/",
-        "published": "2026-08-23T22:27:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "As Trump administration readies economic warfare measures against Iran, top security official vows retaliation ‘in a seismic manner’",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/08/23/trump-economic-warfare-iran-sanctions-military-retaliation/",
-        "published": "2026-08-23T21:09:47Z",
+        "title": "Iran says support for new sanctions would be 'act of war'",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-support-for-new-sanctions-would-be-act-of-war-other-middle-east-news/articleshow/133449149.cms",
+        "published": "2026-08-24T01:46:43Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "8-Oz Native Pet Omega Oil Liquid Supplement $8.49 w/ S&S + Free Shipping w/ Prime or on $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19915179-8-oz-native-pet-omega-oil-liquid-supplement-8-49-w-s-s-free-shipping-w-prime-or-on-35",
+        "published": "2026-08-24T01:17:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US vows 'economic D-Day' as Iran threatens to halt all oil exports",
+        "source": "Yahoo Entertainment",
+        "url": "https://uk.news.yahoo.com/us-vows-economic-d-day-003335422.html",
+        "published": "2026-08-24T01:14:25Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran says new sanctions threatened by 'desperate' US will fail",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-says-new-sanctions-threatened-by-desperate-us-will-fail/articleshow/133448862.cms",
+        "published": "2026-08-24T00:52:24Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "4-Oz PanOxyl Clarifying Exfoliant w/ 2% Salicylic Acid $6.20 w/ S&S",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19909218-sns-6-17-4-oz-panoxyl-clarifying-exfoliant-with-2-salicylic-acid-at-amazon",
+        "published": "2026-08-24T00:27:28Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
