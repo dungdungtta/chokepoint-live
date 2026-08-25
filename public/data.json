@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T21:45:18.683Z",
+    "generated_at": "2026-08-25T22:34:32.907Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Tanker hit by unknown projectile in Gulf of Oman, UKMTO reports",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/tanker-hit-by-unknown-projectile-in-gulf-of-oman-ukmto-reports/",
+        "published": "2026-08-24T22:22:04Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Operation Economic Outcast is a recipe for success against Iran",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/24/opinion/operation-economic-outcast-is-a-recipe-for-success-against-iran/",
+        "published": "2026-08-24T22:18:42Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "What is Operation Economic Outcast, the US's new plan for Iran?",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-08-25/operation-economic-outcast-new-us-plan-for-iran/107073902",
+        "published": "2026-08-24T22:00:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US Sanctions on Iran Threaten Global Finance, Shipping Routes, and Market Stability — TrendKia",
+        "source": "Trendkia.com",
+        "url": "https://trendkia.com/en/business/us-sanctions-on-iran-threaten-global-finance-shipping-routes-and-market-stability-21464",
+        "published": "2026-08-24T21:54:58Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "U.S. Threatens Iran’s Trading Partners in New Economic Pressure Campaign",
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/u-s-threatens-irans-trading-partners-in-new-economic-pressure-campaign/",
         "published": "2026-08-24T21:42:52Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "‘Operation Economic Outcast’: New Wave of White House Sanctions Against Iran Targets Crypto Assets, Tech, Gold, Aviation and Shipping",
-        "source": "The Daily Hodl",
-        "url": "https://dailyhodl.com/2026/08/24/operation-economic-outcast-new-wave-of-white-house-sanctions-against-iran-targets-crypto-assets-tech-gold-aviation-and-shipping/",
-        "published": "2026-08-24T21:42:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Select Accounts: 60-Count Sports Research Vegan Omega-3 Algae Oil Softgels $14.55 w/ S&S",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19905303-select-accounts-60-count-sports-research-vegan-omega-3-algae-oil-softgels-14-55-free-shipping-w-prime-or-on-35",
-        "published": "2026-08-24T21:39:37Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US dollar rallies as Treasury Secretary Scott Bessent announces sweeping Iran sanctions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-dollar-rallies-iran-sanctions-bessent/",
-        "published": "2026-08-24T21:35:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What If China Doesn't Play Ball? US Sanctions Campaign Faces It's Biggest Test",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/33837376.html",
-        "published": "2026-08-24T21:30:13Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
