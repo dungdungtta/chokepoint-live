@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T14:05:38.200Z",
+    "generated_at": "2026-08-25T15:07:19.651Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran Blacklists 45 Tankers as Hormuz Standoff Escalates",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Iran-Blacklists-45-Tankers-as-Hormuz-Standoff-Escalates.html",
-        "published": "2026-08-24T14:00:00Z",
+        "title": "Trump bets everything on ‘century-old delusion’ doomed to trigger 'catastrophe': expert",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/trump-iran-2677768122/",
+        "published": "2026-08-24T14:29:41Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Nikkei Falls as Rising Yields Hit AI and Chip Shares",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150495.php",
+        "published": "2026-08-24T14:21:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Palmers Coconut Oil Protein Pack only $0.49 at Target",
+        "source": "Moneysavingmom.com",
+        "url": "https://moneysavingmom.com/palmers-coconut-oil-protein-pack-only-0-49-at-target/",
+        "published": "2026-08-24T14:13:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Refinery rivalry: billion-dollar oil projects expose East Africa’s long-running regional tensions",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/refinery-rivalry-billion-dollar-oil-projects-expose-east-africas-long-running-regional-tensions-289820",
+        "published": "2026-08-24T14:07:03Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran blacklists 45 tankers amid Hormuz standoff escalation",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-blacklists-45-tankers-hormuz-escalation/",
+        "published": "2026-08-24T14:06:26Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Otherworldly Wonders | Sophie’s ELECTRIC Road Trip Part 7",
-        "source": "PBS",
-        "url": "https://www.pbs.org/wnet/nature/otherworldly-wonders-sophies-electric-road-trip-part-7/35086/",
-        "published": "2026-08-24T13:33:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "MRPL says no single geography, supplier or route decisive for crude sourcing",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/mrpl-says-no-single-geography-supplier-or-route-decisive-for-crude-sourcing/article71384527.ece",
-        "published": "2026-08-24T13:19:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Dangote refinery drives increase in petroleum shipments from Nigeria",
-        "source": "Eia.gov",
-        "url": "https://www.eia.gov/todayinenergy/detail.php?id=68004",
-        "published": "2026-08-24T13:10:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "India's Iran exports set to fall further amid Dubai halt, US sanctions",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/india-s-iran-exports-set-to-fall-further-amid-dubai-halt-us-sanctions-126082401014_1.html",
-        "published": "2026-08-24T13:02:18Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
