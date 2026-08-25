@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T06:16:49.444Z",
+    "generated_at": "2026-08-25T07:26:20.915Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Treasury Secretary Calls on China to Enforce U.S. Sanctions on Iran",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-24-treasury-secretary-calls-china-enforce-sanctions-iran.html",
-        "published": "2026-08-24T06:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US vows 'economic D-Day' as Iran threatens oil exports",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/world/2026/0824/1588950-middle-east/",
-        "published": "2026-08-24T05:59:17Z",
+        "title": "How much more are you spending on petrol since the war in Iran began?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began",
+        "published": "2026-08-24T07:26:15Z",
         "sentiment": "danger"
       },
       {
-        "title": "El Niño shock could re-price food inflation, Central Bank policy paths: US analyst",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/agri-business/el-nino-shock-could-re-price-food-inflation-central-bank-policy-paths-us-analyst/article71383344.ece",
-        "published": "2026-08-24T05:55:52Z",
+        "title": "Iran’s oil shipments to Asia plummet as prices fall ahead of US sanctions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-oil-exports-plummet-us-sanctions/",
+        "published": "2026-08-24T07:14:22Z",
         "sentiment": "watch"
       },
       {
-        "title": "Bessent vows ‘economic D-Day’ against Iran",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/bessent-vows-economic-d-day-against-iran-225962",
-        "published": "2026-08-24T05:45:06Z",
+        "title": "Oil falls as US prepares to unveil new Iran sanctions",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0824/1588964-world-oil-prices/",
+        "published": "2026-08-24T07:11:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "INR in narrow range as simmering geopolitical tensions weigh",
+        "title": "Why stocks of rice exporters LT Foods, KRBL jump up to 13% on Monday?",
         "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/capital-market-news/inr-in-narrow-range-as-simmering-geopolitical-tensions-weigh-126082400299_1.html",
-        "published": "2026-08-24T05:35:40Z",
+        "url": "https://www.business-standard.com/markets/news/lt-foods-surges-13-hits-52-week-high-krbl-soars-9-here-s-why-126082400353_1.html",
+        "published": "2026-08-24T06:52:23Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "US vows ‘economic D-Day’ as Iran threatens to halt all oil exports",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/08/24/us-vows-economic-d-day-as-iran-threatens-to-halt-all-oil-exports/",
+        "published": "2026-08-24T06:32:44Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump's North Korea gambit tests US ties with Asian partners, including India",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/trumps-north-korea-gambit-tests-us-ties-with-asian-partners-including-india/articleshow/133453345.cms",
+        "published": "2026-08-24T06:22:52Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan's troops are training to fight China in ordinary neighborhoods as people go about their days",
         "source": "Business Insider",
@@ -90,13 +97,6 @@
         "url": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/",
         "published": "2026-08-23T10:10:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Peace through strength, Taiwan president says on China battle anniversary",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/articles/peace-strength-taiwan-president-says-053315147.html",
-        "published": "2026-08-23T05:33:15Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
