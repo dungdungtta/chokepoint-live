@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T16:02:08.555Z",
+    "generated_at": "2026-08-25T16:57:18.897Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump will have to risk pain to make new Iran sanctions truly bite",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-will-have-to-risk-pain-to-make-new-iran-sanctions-truly-bite/articleshow/133472419.cms",
-        "published": "2026-08-24T15:46:29Z",
+        "title": "TORM plc Appoints Jann Brown to the Board of Directors",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/torm-plc-appoints-jann-brown-to-the-board-of-directors-302858509.html",
+        "published": "2026-08-24T16:48:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "$20 million: The cost of shipping oil through Strait of Hormuz, TotalEnergies CEO says",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/business/20-million-the-cost-of-shipping-oil-through-strait-of-hormuz-totalenergies-ceo-says/articleshow/133472007.cms",
-        "published": "2026-08-24T15:41:56Z",
+        "title": "Don’t ask us to take sides in Harry vs William – it’s childish and harmful",
+        "source": "The-independent.com",
+        "url": "https://www.the-independent.com/life-style/prince-harry-uk-cotswolds-william-royal-family-king-charles-b3038189.html",
+        "published": "2026-08-24T16:26:16Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump's new scheme has two outcomes — and both threaten disaster: expert",
-        "source": "Raw Story",
-        "url": "https://www.rawstory.com/economic-d-day/",
-        "published": "2026-08-24T15:39:01Z",
-        "sentiment": "danger"
+        "title": "Houthi militant group targets Saudi Arabian supertanker in Red Sea",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/houthi-targets-saudi-supertanker-red-sea/",
+        "published": "2026-08-24T16:19:55Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Iran Warns of Ship Seizures in Strait of Hormuz as US Prepares 'Economic D-Day' Sanctions",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/tensions-rise-iran-threatens-ship-seizures-strait-hormuz-1874489",
-        "published": "2026-08-24T15:34:11Z",
+        "title": "US to broaden secondary sanctions to isolate Iran on 'economic D-Day'",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-to-broaden-secondary-sanctions-to-isolate-iran-on-economic-d-day/articleshow/133473057.cms",
+        "published": "2026-08-24T16:18:58Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran blacklists 45 tankers in Strait of Hormuz, threatens to fine and confiscate cargo",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/24/us-news/iran-blacklists-45-tankers-in-strait-of-hormuz-threatens-fines-and-confiscated-cargo/",
+        "published": "2026-08-24T16:13:43Z",
         "sentiment": "danger"
       }
     ],
