@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T10:07:40.590Z",
+    "generated_at": "2026-08-26T10:52:43.515Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,25 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump administration sanctions on Iran create uncertainty in enforcement",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-administration-sanctions-on-iran-create-uncertainty-in-enforcement/",
-        "published": "2026-08-25T09:45:47Z",
+        "title": "Sensex settles 287 pts higher; Nifty ends above 24,300 level",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/capital-market-news/sensex-settles-287-pts-higher-nifty-ends-above-24-300-level-126082500830_1.html",
+        "published": "2026-08-25T10:34:02Z",
         "sentiment": "watch"
       },
       {
-        "title": "India’s Crude Import Bill Surges as Hormuz Shipping Rates Soar",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Import-Bill-Surges-as-Hormuz-Shipping-Rates-Soar.html",
-        "published": "2026-08-25T09:45:00Z",
+        "title": "The US is expanding sanctions on Iran's financial networks. Iranian business owners worry about their economic future",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/iran-us-sanctions-economy/a-78494630",
+        "published": "2026-08-25T10:34:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "India’s Crude Import Bill Surges as Hormuz Shipping Rates Soar",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/india-crude-import-bill-surges-094500112.html",
-        "published": "2026-08-25T09:45:00Z",
+        "title": "Will tougher US sanctions disrupt Iran's shadow economy?",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/will-tougher-us-sanctions-disrupt-irans-shadow-economy/a-78494630",
+        "published": "2026-08-25T10:34:00Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Commodity Vessel Transits Through Strait of Hormuz Hit Three-Month Low, Data Shows",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/commodity-vessel-transits-through-strait-of-hormuz-hit-three-month-low-data-shows/",
+        "published": "2026-08-25T10:26:53Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "India turns to US for LPG, LNG as West Asia war disrupts Gulf supplies",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/economy/news/india-turns-to-us-for-lpg-lng-as-west-asia-war-disrupts-gulf-supplies-126082500795_1.html",
+        "published": "2026-08-25T10:22:36Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
