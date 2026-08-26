@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T13:35:47.954Z",
+    "generated_at": "2026-08-26T14:28:13.997Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Weekly Rupee View: Rupee recovers",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/portfolio/technical-analysis/weekly-rupee-viewrupee-recovers/article71387999.ece",
-        "published": "2026-08-25T13:32:09Z",
+        "title": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted",
+        "published": "2026-08-25T14:17:06Z",
         "sentiment": "watch"
       },
       {
-        "title": "US Treasury Targets Iran’s Shipping Lifelines in New Sanctions Push",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/scott-bessent-treasury-operation-economic-outcast-iran-sanctions-1239148500/",
-        "published": "2026-08-25T13:00:00Z",
+        "title": "Pay $10 for $44 in Febreze, Bounce & Dawn Products at CVS! Just Use Your Phone",
+        "source": "Livingrichwithcoupons.com",
+        "url": "https://www.livingrichwithcoupons.com/2026/08/pay-10-for-44-in-febreze-bounce-dawn-products-at-cvs-just-use-your-phone.html",
+        "published": "2026-08-25T14:00:41Z",
         "sentiment": "watch"
       },
       {
-        "title": "A U.S. - Canada Trade War Would Bring Dire Impacts On Oil Trade",
+        "title": "Can Trump Isolate Iran Without Triggering a Clash With China?",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Can-Trump-Isolate-Iran-Without-Triggering-a-Clash-With-China.html",
+        "published": "2026-08-25T14:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "America’s Strategic Petroleum Reserve Is Running on Fumes. What Happens When the Next Supply Shock Hits?",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/25/americas-strategic-petroleum-reserve-is-running-on-fumes-what-happens-when-the-next-supply-shock-hits/",
+        "published": "2026-08-25T13:42:19Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Without China’s Cooperation, Iran Will Not Face An Economic D-Day",
         "source": "Forbes",
-        "url": "https://www.forbes.com/sites/davidblackmon/2026/08/25/a-uscanada-trade-war-would-bring-dire-impacts-on-oil-trade/",
-        "published": "2026-08-25T12:41:27Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Nigeria's jet fuel conundrum: Scarcity at home, abundance abroad",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/nigerias-jet-fuel-conundrum-scarcity-at-home-abundance-abroad/a-78492451",
-        "published": "2026-08-25T12:37:00Z",
+        "url": "https://www.forbes.com/sites/natashalindstaedt/2026/08/25/without-chinas-cooperation-iran-will-not-face-an-economic-d-day/",
+        "published": "2026-08-25T13:40:16Z",
         "sentiment": "watch"
       }
     ],
