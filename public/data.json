@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T14:28:13.997Z",
+    "generated_at": "2026-08-26T16:02:47.281Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted",
-        "published": "2026-08-25T14:17:06Z",
+        "title": "Capturing the Future of Climate Change Mitigation: IEAGHG CCS Summer School 2026",
+        "source": "Columbia.edu",
+        "url": "https://blogs.law.columbia.edu/climatechange/2026/08/25/capturing-the-future-of-climate-change-mitigation-ieaghg-ccs-summer-school-2026/",
+        "published": "2026-08-25T15:55:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "Pay $10 for $44 in Febreze, Bounce & Dawn Products at CVS! Just Use Your Phone",
-        "source": "Livingrichwithcoupons.com",
-        "url": "https://www.livingrichwithcoupons.com/2026/08/pay-10-for-44-in-febreze-bounce-dawn-products-at-cvs-just-use-your-phone.html",
-        "published": "2026-08-25T14:00:41Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Can Trump Isolate Iran Without Triggering a Clash With China?",
+        "title": "Oil Prices Fall as Iran Negotiation Hopes Return",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Can-Trump-Isolate-Iran-Without-Triggering-a-Clash-With-China.html",
-        "published": "2026-08-25T14:00:00Z",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Fall-as-Iran-Negotiation-Hopes-Return.html",
+        "published": "2026-08-25T15:53:00Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Treasury sanctions Iranian hackers tied to critical infrastructure breaches",
+        "source": "Nextgov",
+        "url": "https://www.nextgov.com/cybersecurity/2026/08/treasury-sanctions-iranian-hackers-tied-critical-infrastructure-breaches/415619/",
+        "published": "2026-08-25T15:37:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "America’s Strategic Petroleum Reserve Is Running on Fumes. What Happens When the Next Supply Shock Hits?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/25/americas-strategic-petroleum-reserve-is-running-on-fumes-what-happens-when-the-next-supply-shock-hits/",
-        "published": "2026-08-25T13:42:19Z",
+        "title": "Indonesia, Malaysia and Singapore reaffirm commitment to keep Malacca and Singapore straits safe and open",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/singapore/strait-malacca-singapore-indonesia-malaysia-6340351",
+        "published": "2026-08-25T15:33:59Z",
         "sentiment": "watch"
       },
       {
-        "title": "Without China’s Cooperation, Iran Will Not Face An Economic D-Day",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/natashalindstaedt/2026/08/25/without-chinas-cooperation-iran-will-not-face-an-economic-d-day/",
-        "published": "2026-08-25T13:40:16Z",
-        "sentiment": "watch"
+        "title": "Houthi strikes threaten to pull Yemen back into full-scale war",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/houthi-strikes-threaten-to-pull-yemen-back-into-full-scale-war/a-78497448",
+        "published": "2026-08-25T15:31:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
