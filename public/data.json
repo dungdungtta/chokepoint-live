@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T00:01:10.319Z",
+    "generated_at": "2026-08-26T02:00:23.461Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "The Biggest Victims Of Trump’s Economic D-Day On Iran",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/The-Biggest-Victims-Of-Trumps-Economic-D-Day-On-Iran.html",
-        "published": "2026-08-25T00:00:00Z",
+        "title": "Oil prices steady as investors weigh impact of expanded US sanctions against Iran",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-steady-as-investors-weigh-impact-of-expanded-us-sanctions-against-iran/articleshow/133487053.cms",
+        "published": "2026-08-25T01:59:29Z",
         "sentiment": "watch"
       },
       {
-        "title": "Lodge Pre-Seasoned Cast Iron Burger Press, 6.25 Inches $16.90 @Amazon",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19920393-lodge-pre-seasoned-cast-iron-burger-press-6-25-inches-16-90-amazon",
-        "published": "2026-08-24T23:22:22Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How US sanctions on Iran ripple through global markets and consumers",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers",
-        "published": "2026-08-24T22:46:02Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Tanker hit by unknown projectile in Gulf of Oman, UKMTO reports",
+        "title": "Rice prices surge over 47% since start of Iran war, Hedgeye reports",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/tanker-hit-by-unknown-projectile-in-gulf-of-oman-ukmto-reports/",
-        "published": "2026-08-24T22:22:04Z",
+        "url": "https://cryptobriefing.com/rice-prices-surge-iran-war-hedgeye/",
+        "published": "2026-08-25T01:58:40Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Rice prices surge over 47% since Iran war onset: Hedgeye",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/rice-prices-surge-over-47-since-iran-war-onset-hedgeye/",
+        "published": "2026-08-25T01:56:23Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Bessent's D-Day sanctions are more Anzio, but Iran response is key",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/bessents-d-day-sanctions-are-more-anzio-but-iran-response-is-key/articleshow/133486260.cms",
+        "published": "2026-08-25T01:22:50Z",
         "sentiment": "watch"
       },
       {
-        "title": "Operation Economic Outcast is a recipe for success against Iran",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/24/opinion/operation-economic-outcast-is-a-recipe-for-success-against-iran/",
-        "published": "2026-08-24T22:18:42Z",
+        "title": "Oil prices steady as investors weigh impact of expanded US sanctions against Iran",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-prices-steady-investors-weigh-impact-expanded-us-sanctions-against-iran-6338871",
+        "published": "2026-08-25T01:15:47Z",
         "sentiment": "watch"
       }
     ],
