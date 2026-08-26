@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T03:14:52.834Z",
+    "generated_at": "2026-08-26T04:06:39.966Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Pakistan reports “significant progress” in Tehran talks on US-Iran conflict",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/pakistan-iran-conflict-talks-progress/",
+        "published": "2026-08-25T03:51:36Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Strait of Hormuz shipping traffic hits record low amid US-Iran tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/strait-of-hormuz-shipping-traffic-hits-record-low-amid-us-iran-tensions/",
+        "published": "2026-08-25T03:34:34Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil steady as investors weigh impact of expanded US sanctions against Iran",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/commodities/oil-steady-as-investors-weigh-impact-of-expanded-us-sanctions-against-iran-126082500075_1.html",
+        "published": "2026-08-25T03:34:08Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Stocks stagger and oil rises as traders eye Iran threat, Nvidia results",
-        "source": "Digital Journal",
-        "url": "https://www.digitaljournal.com/article/stocks-stagger-and-oil-rises-as-traders-eye-iran-threat-nvidia-results/",
-        "published": "2026-08-25T02:50:36Z",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/stocks-stagger-and-oil-rises-traders-eye-iran-threat-nvidia-results-6339071",
+        "published": "2026-08-25T03:19:26Z",
         "sentiment": "danger"
       },
       {
-        "title": "US attempt to strangle Iran's economy depends on China's cooperation",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/us-attempt-to-strangle-iran-s-economy-depends-on-china-s-cooperation-126082500095_1.html",
-        "published": "2026-08-25T02:38:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US ‘by no means’ ruling out kinetic strikes on Iran, including Strait of Hormuz, Pete Hegseth says",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/us-by-no-means-ruling-out-strikes-on-iran-including-strait-of-hormuz-pete-hegseth-says/articleshow/133487451.cms",
-        "published": "2026-08-25T02:21:57Z",
+        "title": "Stocks rise and oil slips as traders eye Iran threat, Nvidia results",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/stocks-rise-and-oil-slips-traders-eye-iran-threat-nvidia-results-6339071",
+        "published": "2026-08-25T03:19:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Bessent's economic D-Day threat to Iran hinges on willingness to hit China",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/bessent-s-economic-d-day-threat-to-iran-hinges-on-willingness-to-hit-china-126082500085_1.html",
-        "published": "2026-08-25T02:19:36Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Price Today (August 25): Crude oil at $92 as investors digest US economic sanctions on Iran. What’s next for investors?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-25-crude-oil-at-92-as-investors-digest-us-economic-sanctions-on-iran-whats-next-for-investors/articleshow/133487237.cms",
-        "published": "2026-08-25T02:08:39Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
