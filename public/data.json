@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T12:16:17.455Z",
+    "generated_at": "2026-08-26T13:35:47.954Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S. Threatens New Economic War on Iran by Targeting China & Tehran's Other Top Trading Partners",
-        "source": "Democracy Now!",
-        "url": "https://www.democracynow.org/2026/8/25/trump_bessent_iran_sanctions_nicholas_mulder",
-        "published": "2026-08-25T12:13:15Z",
+        "title": "Weekly Rupee View: Rupee recovers",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/portfolio/technical-analysis/weekly-rupee-viewrupee-recovers/article71387999.ece",
+        "published": "2026-08-25T13:32:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US Treasury Targets Iran’s Shipping Lifelines in New Sanctions Push",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/scott-bessent-treasury-operation-economic-outcast-iran-sanctions-1239148500/",
+        "published": "2026-08-25T13:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "A U.S. - Canada Trade War Would Bring Dire Impacts On Oil Trade",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/davidblackmon/2026/08/25/a-uscanada-trade-war-would-bring-dire-impacts-on-oil-trade/",
+        "published": "2026-08-25T12:41:27Z",
         "sentiment": "danger"
       },
       {
-        "title": "The Mocha monopoly: how Yemen’s dominance of the global coffee trade birthed the Houthi rebels",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/the-mocha-monopoly-how-yemens-dominance-of-the-global-coffee-trade-birthed-the-houthi-rebels-290102",
-        "published": "2026-08-25T12:11:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Undersea Infrastructure : A Weak Spot For National Security",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/arielcohen/2026/08/25/undersea-infrastructure--a-weak-spot-for-national-security/",
-        "published": "2026-08-25T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Current price of oil as of August 25, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-08-25-2026/",
-        "published": "2026-08-25T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Morning Minute: Coinbase Puts Tokenized Stocks on Base",
-        "source": "Decrypt",
-        "url": "https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base",
-        "published": "2026-08-25T11:58:22Z",
+        "title": "Nigeria's jet fuel conundrum: Scarcity at home, abundance abroad",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/nigerias-jet-fuel-conundrum-scarcity-at-home-abundance-abroad/a-78492451",
+        "published": "2026-08-25T12:37:00Z",
         "sentiment": "watch"
       }
     ],
