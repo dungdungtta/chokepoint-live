@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T04:57:41.442Z",
+    "generated_at": "2026-08-26T05:42:54.137Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "US widens Iran sanctions as Tehran threatens to halt Gulf oil flows",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/us-widens-iran-sanctions-as-tehran-threatens-to-halt-gulf-oil-flows-226014",
+        "published": "2026-08-25T05:42:05Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran-US conflict escalates, impacting Strait of Hormuz shipping routes",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-us-conflict-escalates-impacting-strait-of-hormuz-shipping-routes/",
+        "published": "2026-08-25T05:41:31Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US targets Iran’s crypto sector, cites over $100M in oil-linked payments",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments",
+        "published": "2026-08-25T05:29:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran war disrupts nearly half of global oil flows as Strait of Hormuz traffic collapses",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-war-disrupts-global-oil-flows/",
+        "published": "2026-08-25T05:16:51Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "“Let no one test our resolve”: The US ultimatum to Iran’s partners and the threat of expulsion from the Dollar",
         "source": "Protothema.gr",
         "url": "https://en.protothema.gr/2026/08/25/let-no-one-test-our-resolve-the-us-ultimatum-to-irans-partners-and-the-threat-of-expulsion-from-the-dollar/",
         "published": "2026-08-25T04:51:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Six months on, Hormuz remains disrupted as ships stay away",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/six-months-on-hormuz-remains-disrupted-as-ships-stay-away/articleshow/133491397.cms",
-        "published": "2026-08-25T04:27:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "GE Shipping rises as board to mull buyback proposal",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/capital-market-news/ge-shipping-rises-as-board-to-mull-buyback-proposal-126082500193_1.html",
-        "published": "2026-08-25T04:22:02Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hormuz Catastrophe: Netanyahu & Trump knew Risks, Escalated Anyway",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/08/catastrophe-netanyahu-escalated.html",
-        "published": "2026-08-25T04:15:12Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Pakistan reports “significant progress” in Tehran talks on US-Iran conflict",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/pakistan-iran-conflict-talks-progress/",
-        "published": "2026-08-25T03:51:36Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
