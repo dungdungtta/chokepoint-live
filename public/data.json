@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T05:42:54.137Z",
+    "generated_at": "2026-08-26T06:20:41.049Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US widens Iran sanctions as Tehran threatens to halt Gulf oil flows",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/us-widens-iran-sanctions-as-tehran-threatens-to-halt-gulf-oil-flows-226014",
-        "published": "2026-08-25T05:42:05Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran-US conflict escalates, impacting Strait of Hormuz shipping routes",
+        "title": "US expands Iran sanctions, warns nations to cut ties or face exclusion from dollar system",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-us-conflict-escalates-impacting-strait-of-hormuz-shipping-routes/",
-        "published": "2026-08-25T05:41:31Z",
+        "url": "https://cryptobriefing.com/us-expands-iran-sanctions-operation-economic-outcast/",
+        "published": "2026-08-25T06:19:19Z",
         "sentiment": "danger"
       },
       {
-        "title": "US targets Iran’s crypto sector, cites over $100M in oil-linked payments",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments",
-        "published": "2026-08-25T05:29:29Z",
+        "title": "Iran Threatens to Block Gulf Oil Exports if Region Cooperates with U.S. Plan",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-25-iran-threatens-to-block-gulf-oil-exports.html",
+        "published": "2026-08-25T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Operation Economic Outcast explained: How the US plans to isolate Iran",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/operation-economic-outcast-us-iran-sanctions-west-asia-conflict-oil-trade-126082500363_1.html",
+        "published": "2026-08-25T05:58:48Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran war disrupts nearly half of global oil flows as Strait of Hormuz traffic collapses",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-war-disrupts-global-oil-flows/",
-        "published": "2026-08-25T05:16:51Z",
-        "sentiment": "danger"
+        "title": "Oil steadies as US plan offers little clarity on Hormuz deadlock",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/2026/08/25/oil-steadies-as-us-plan-offers-little-clarity-on-hormuz-deadlock/",
+        "published": "2026-08-25T05:56:37Z",
+        "sentiment": "watch"
       },
       {
-        "title": "“Let no one test our resolve”: The US ultimatum to Iran’s partners and the threat of expulsion from the Dollar",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/08/25/let-no-one-test-our-resolve-the-us-ultimatum-to-irans-partners-and-the-threat-of-expulsion-from-the-dollar/",
-        "published": "2026-08-25T04:51:00Z",
+        "title": "Treasury Department warns mariners of sanctions risks from Iranian organizations",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/treasury-warns-mariners-iran-sanctions-risks/",
+        "published": "2026-08-25T05:50:41Z",
         "sentiment": "danger"
       }
     ],
