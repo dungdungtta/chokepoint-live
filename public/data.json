@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T08:20:20.290Z",
+    "generated_at": "2026-08-26T09:20:43.557Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran vows to retaliate after US widens sanctions",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/08/25/iran-vows-to-retaliate-after-us-widens-sanctions/",
+        "published": "2026-08-25T09:14:08Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
+        "published": "2026-08-25T09:07:09Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The UK and Ukraine have signed a declaration on AI-enabled military capabilities",
+        "source": "The Next Web",
+        "url": "https://thenextweb.com/news/uk-ukraine-ai-military-declaration-burnham",
+        "published": "2026-08-25T09:06:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Higher crude oil prices risk demand destruction, says Mirae Asset Sharekhan",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/higher-crude-oil-prices-risk-demand-destruction-says-mirae-asset-sharekhan-126082500640_1.html",
+        "published": "2026-08-25T08:42:14Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran hits back at US 'D-Day' sanctions and hints it could drag war out for the rest of Trump's presidency: 'We know how to play the game'",
         "source": "Dailymail.com",
         "url": "https://www.dailymail.com/news/article-16077645/Iran-sanctions-Trumps-presidency-game.html",
         "published": "2026-08-25T08:19:26Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Stocks rise, oil slips as traders eye Iran threat",
-        "source": "The Punch",
-        "url": "https://punchng.com/stocks-rise-oil-slips-as-traders-eye-iran-threat/",
-        "published": "2026-08-25T08:08:54Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US adds four Indian companies to Iran sanctions list",
-        "source": "RT",
-        "url": "https://www.rt.com/india/644613-us-sanctions-indian-companies/",
-        "published": "2026-08-25T08:06:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Conflict-hit oil supply crisis deepens as nearly half of global output comes from affected countries",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/conflict-hit-oil-supply-crisis-deepens-as-nearly-half-of-global-output-comes-from-affected-countries/articleshow/133499798.cms",
-        "published": "2026-08-25T07:49:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What K.M. & Tsipras say about the elections, the phantom investor and the crème de la crème, bonuses at Astieras & shipowners selling tankers",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/08/25/what-k-m-tsipras-say-about-the-elections-the-phantom-investor-and-the-creme-de-la-creme-bonuses-at-astieras-shipowners-selling-tankers/",
-        "published": "2026-08-25T07:12:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
