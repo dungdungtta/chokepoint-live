@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T23:40:28.014Z",
+    "generated_at": "2026-08-26T00:01:10.319Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "The Biggest Victims Of Trump’s Economic D-Day On Iran",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/The-Biggest-Victims-Of-Trumps-Economic-D-Day-On-Iran.html",
+        "published": "2026-08-25T00:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Lodge Pre-Seasoned Cast Iron Burger Press, 6.25 Inches $16.90 @Amazon",
         "source": "Slickdeals.net",
         "url": "https://slickdeals.net/f/19920393-lodge-pre-seasoned-cast-iron-burger-press-6-25-inches-16-90-amazon",
@@ -52,13 +59,6 @@
         "source": "New York Post",
         "url": "https://nypost.com/2026/08/24/opinion/operation-economic-outcast-is-a-recipe-for-success-against-iran/",
         "published": "2026-08-24T22:18:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What is Operation Economic Outcast, the US's new plan for Iran?",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-08-25/operation-economic-outcast-new-us-plan-for-iran/107073902",
-        "published": "2026-08-24T22:00:39Z",
         "sentiment": "watch"
       }
     ],
