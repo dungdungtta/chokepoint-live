@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T19:20:42.658Z",
+    "generated_at": "2026-08-26T22:25:55.490Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Russia strikes five vessels in Ukraine’s Black Sea ports, escalating maritime conflict",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/russia-strikes-ukraine-black-sea-ports/",
-        "published": "2026-08-25T19:14:43Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "EVA Air Collaborates with AIT Worldwide Logistics, Microsoft and Formosa Petrochemical Corporation to Deliver 15,000 Metric Tons of Scope 3 Emissions Reductions",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/eva-air-collaborates-with-ait-worldwide-logistics-microsoft-and-formosa-petrochemical-corporation-to-deliver-15-000-metric-tons-of-scope-3-emissions-reductions-302859737.html",
-        "published": "2026-08-25T18:46:00Z",
+        "title": "Iran Vows To Resist Widened U.S. Sanctions Aimed At Isolating Economy",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/iran-vows-resist-us-sanctions_n_6a8e0b51e4b0e34ff061f640",
+        "published": "2026-08-25T22:00:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran Vows to Resist Widened U.S. Sanctions, Says Washington Seeks Talks",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/iran-vows-to-resist-widened-u-s-sanctions-says-washington-seeks-talks/",
-        "published": "2026-08-25T18:29:01Z",
-        "sentiment": "neutral"
+        "title": "Hegseth’s Army Purges Have Undermined Military Leadership on Iran",
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/post/214747/hegseth-army-purges-undermined-iran",
+        "published": "2026-08-25T21:53:20Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Russia-Ukraine war likely to raise import price of sunflower oil, yellow peas",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/russia-ukraine-war-likely-to-raise-import-price-of-sunflower-oil-yellow-peas/articleshow/133522331.cms",
-        "published": "2026-08-25T18:22:28Z",
+        "title": "For the ‘Smoke’ Main Titles, There Was One Right Idea: Burn Stuff Up, Backward",
+        "source": "TheWrap",
+        "url": "https://www.thewrap.com/industry-news/awards/smoke-main-titles-emmy-interview/",
+        "published": "2026-08-25T21:52:56Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Valvoline Daily Protection 5-Quart 10W-30 Conventional Motor Oil for $23 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Valvoline-Daily-Protection-5-Quart-10-W-30-Conventional-Motor-Oil-for-23-free-shipping/22094152.html",
+        "published": "2026-08-25T21:31:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Bessent: Iran’s Leadership ‘Panicking’ Under Trump Economic Offensive — Vows to Sever ‘Every Economic Lifeline’",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/08/25/bessent-irans-leadership-panicking-under-trump-economic-offensive-vows-to-sever-every-economic-lifeline/",
+        "published": "2026-08-25T21:25:39Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
