@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T10:52:43.515Z",
+    "generated_at": "2026-08-26T11:36:12.402Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Sensex settles 287 pts higher; Nifty ends above 24,300 level",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/capital-market-news/sensex-settles-287-pts-higher-nifty-ends-above-24-300-level-126082500830_1.html",
-        "published": "2026-08-25T10:34:02Z",
+        "title": "Dr. Squatch Limited Edition FIFA World Cup 2026 Natural Bar Soap 3-Pack for $12 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Dr-Squatch-Limited-Edition-FIFA-World-Cup-2026-Natural-Bar-Soap-3-Pack-for-12-free-shipping-w-Prime/22093435.html",
+        "published": "2026-08-25T11:07:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "The US is expanding sanctions on Iran's financial networks. Iranian business owners worry about their economic future",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/iran-us-sanctions-economy/a-78494630",
-        "published": "2026-08-25T10:34:00Z",
+        "title": "‘Buckle up’: Panicked shock as Trump admin grapples with imminent crisis of its own making",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/us-oil-reserves/",
+        "published": "2026-08-25T11:03:59Z",
         "sentiment": "watch"
       },
       {
-        "title": "Will tougher US sanctions disrupt Iran's shadow economy?",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/will-tougher-us-sanctions-disrupt-irans-shadow-economy/a-78494630",
-        "published": "2026-08-25T10:34:00Z",
+        "title": "Malacca States Vow to Keep Asia’s Busiest Shipping Route Open",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Malacca-States-Vow-to-Keep-Asias-Busiest-Shipping-Route-Open.html",
+        "published": "2026-08-25T11:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Commodity Vessel Transits Through Strait of Hormuz Hit Three-Month Low, Data Shows",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/commodity-vessel-transits-through-strait-of-hormuz-hit-three-month-low-data-shows/",
-        "published": "2026-08-25T10:26:53Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "India turns to US for LPG, LNG as West Asia war disrupts Gulf supplies",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/economy/news/india-turns-to-us-for-lpg-lng-as-west-asia-war-disrupts-gulf-supplies-126082500795_1.html",
-        "published": "2026-08-25T10:22:36Z",
+        "title": "Iran War: Bessent’s “The Nigger Gets It” Iran Sanctions Strategy as His Ex-Boss Druckenmiller Trashes His New Treasury Scheme; Iran Hits US Escorted Tanker as Strait of Hormuz Transits Fall Further",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/08/iran-war-bessents-the-nigger-gets-it-iran-sanctions-strategy-as-his-ex-boss-druckenmiller-trashes-his-new-treasury-scheme-iran-hits-us-escorted-tanker-as-strait-of-hormuz-transits-fall-furthe.html",
+        "published": "2026-08-25T10:57:51Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "India pivots to US for LPG, LNG as West Asia crisis disrupts Gulf supplies",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-pivots-to-us-for-lpg-lng-as-west-asia-crisis-disrupts-gulf-supplies/articleshow/133506345.cms",
+        "published": "2026-08-25T10:54:10Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
