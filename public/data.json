@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T11:36:12.402Z",
+    "generated_at": "2026-08-26T12:16:17.455Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Dr. Squatch Limited Edition FIFA World Cup 2026 Natural Bar Soap 3-Pack for $12 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Dr-Squatch-Limited-Edition-FIFA-World-Cup-2026-Natural-Bar-Soap-3-Pack-for-12-free-shipping-w-Prime/22093435.html",
-        "published": "2026-08-25T11:07:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "‘Buckle up’: Panicked shock as Trump admin grapples with imminent crisis of its own making",
-        "source": "Raw Story",
-        "url": "https://www.rawstory.com/us-oil-reserves/",
-        "published": "2026-08-25T11:03:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Malacca States Vow to Keep Asia’s Busiest Shipping Route Open",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Malacca-States-Vow-to-Keep-Asias-Busiest-Shipping-Route-Open.html",
-        "published": "2026-08-25T11:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran War: Bessent’s “The Nigger Gets It” Iran Sanctions Strategy as His Ex-Boss Druckenmiller Trashes His New Treasury Scheme; Iran Hits US Escorted Tanker as Strait of Hormuz Transits Fall Further",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/iran-war-bessents-the-nigger-gets-it-iran-sanctions-strategy-as-his-ex-boss-druckenmiller-trashes-his-new-treasury-scheme-iran-hits-us-escorted-tanker-as-strait-of-hormuz-transits-fall-furthe.html",
-        "published": "2026-08-25T10:57:51Z",
+        "title": "U.S. Threatens New Economic War on Iran by Targeting China & Tehran's Other Top Trading Partners",
+        "source": "Democracy Now!",
+        "url": "https://www.democracynow.org/2026/8/25/trump_bessent_iran_sanctions_nicholas_mulder",
+        "published": "2026-08-25T12:13:15Z",
         "sentiment": "danger"
       },
       {
-        "title": "India pivots to US for LPG, LNG as West Asia crisis disrupts Gulf supplies",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-pivots-to-us-for-lpg-lng-as-west-asia-crisis-disrupts-gulf-supplies/articleshow/133506345.cms",
-        "published": "2026-08-25T10:54:10Z",
+        "title": "The Mocha monopoly: how Yemen’s dominance of the global coffee trade birthed the Houthi rebels",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/the-mocha-monopoly-how-yemens-dominance-of-the-global-coffee-trade-birthed-the-houthi-rebels-290102",
+        "published": "2026-08-25T12:11:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Undersea Infrastructure : A Weak Spot For National Security",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/arielcohen/2026/08/25/undersea-infrastructure--a-weak-spot-for-national-security/",
+        "published": "2026-08-25T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Current price of oil as of August 25, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-08-25-2026/",
+        "published": "2026-08-25T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Morning Minute: Coinbase Puts Tokenized Stocks on Base",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base",
+        "published": "2026-08-25T11:58:22Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Undersea Infrastructure : A Weak Spot For National Security",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/arielcohen/2026/08/25/undersea-infrastructure--a-weak-spot-for-national-security/",
+        "published": "2026-08-25T12:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "US attempt to strangle Iran's economy depends on China's cooperation",
         "source": "Business Standard",
@@ -89,13 +96,6 @@
         "source": "The Irish Times",
         "url": "https://www.irishtimes.com/world/asia-pacific/2026/08/24/trumps-kim-gambit-deepens-doubts-over-us-reliability-at-a-key-moment-for-asia/",
         "published": "2026-08-24T15:10:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan issues indictments over alleged illegal export of AI servers to China",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/taiwan-issues-indictments-over-alleged-illegal-export-of-ai-servers-to-china/",
-        "published": "2026-08-24T11:22:20Z",
         "sentiment": "watch"
       }
     ],
