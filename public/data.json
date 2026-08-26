@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T17:50:29.739Z",
+    "generated_at": "2026-08-26T19:20:42.658Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Ukraine’s drone strikes push Russian oil processing to lowest level since 2002",
+        "title": "Russia strikes five vessels in Ukraine’s Black Sea ports, escalating maritime conflict",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/ukraine-drone-strikes-russian-oil-disruption/",
-        "published": "2026-08-25T17:35:04Z",
+        "url": "https://cryptobriefing.com/russia-strikes-ukraine-black-sea-ports/",
+        "published": "2026-08-25T19:14:43Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html",
-        "published": "2026-08-25T17:16:25Z",
+        "title": "EVA Air Collaborates with AIT Worldwide Logistics, Microsoft and Formosa Petrochemical Corporation to Deliver 15,000 Metric Tons of Scope 3 Emissions Reductions",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/eva-air-collaborates-with-ait-worldwide-logistics-microsoft-and-formosa-petrochemical-corporation-to-deliver-15-000-metric-tons-of-scope-3-emissions-reductions-302859737.html",
+        "published": "2026-08-25T18:46:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "China Defies U.S. Economic D-Day against Iran",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Defies-US-Economic-D-Day-against-Iran.html",
-        "published": "2026-08-25T17:15:00Z",
-        "sentiment": "watch"
+        "title": "Iran Vows to Resist Widened U.S. Sanctions, Says Washington Seeks Talks",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/iran-vows-to-resist-widened-u-s-sanctions-says-washington-seeks-talks/",
+        "published": "2026-08-25T18:29:01Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Bombshell Leak Reveals The Iran Warnings Trump Blatantly Ignored",
-        "source": "Crooksandliars.com",
-        "url": "https://crooksandliars.com/2026/08/bombshell-leak-reveals-iran-warnings-trump",
-        "published": "2026-08-25T16:57:21Z",
+        "title": "Russia-Ukraine war likely to raise import price of sunflower oil, yellow peas",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/russia-ukraine-war-likely-to-raise-import-price-of-sunflower-oil-yellow-peas/articleshow/133522331.cms",
+        "published": "2026-08-25T18:22:28Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "United States sanctions nearly 60 Iran-linked entities and vessels under Operation Economic Outcast",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-sanctions-iran-operation-economic-outcast/",
-        "published": "2026-08-25T16:52:13Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
