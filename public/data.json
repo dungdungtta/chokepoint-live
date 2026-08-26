@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T09:20:43.557Z",
+    "generated_at": "2026-08-26T10:07:40.590Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,25 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran vows to retaliate after US widens sanctions",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/08/25/iran-vows-to-retaliate-after-us-widens-sanctions/",
-        "published": "2026-08-25T09:14:08Z",
+        "title": "Trump administration sanctions on Iran create uncertainty in enforcement",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-administration-sanctions-on-iran-create-uncertainty-in-enforcement/",
+        "published": "2026-08-25T09:45:47Z",
         "sentiment": "watch"
       },
       {
-        "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
-        "published": "2026-08-25T09:07:09Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The UK and Ukraine have signed a declaration on AI-enabled military capabilities",
-        "source": "The Next Web",
-        "url": "https://thenextweb.com/news/uk-ukraine-ai-military-declaration-burnham",
-        "published": "2026-08-25T09:06:10Z",
+        "title": "India’s Crude Import Bill Surges as Hormuz Shipping Rates Soar",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Import-Bill-Surges-as-Hormuz-Shipping-Rates-Soar.html",
+        "published": "2026-08-25T09:45:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Higher crude oil prices risk demand destruction, says Mirae Asset Sharekhan",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/higher-crude-oil-prices-risk-demand-destruction-says-mirae-asset-sharekhan-126082500640_1.html",
-        "published": "2026-08-25T08:42:14Z",
+        "title": "India’s Crude Import Bill Surges as Hormuz Shipping Rates Soar",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/india-crude-import-bill-surges-094500112.html",
+        "published": "2026-08-25T09:45:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran hits back at US 'D-Day' sanctions and hints it could drag war out for the rest of Trump's presidency: 'We know how to play the game'",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16077645/Iran-sanctions-Trumps-presidency-game.html",
-        "published": "2026-08-25T08:19:26Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
