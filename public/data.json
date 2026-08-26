@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T06:20:41.049Z",
+    "generated_at": "2026-08-26T07:27:48.771Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "US expands Iran sanctions, warns nations to cut ties or face exclusion from dollar system",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-expands-iran-sanctions-operation-economic-outcast/",
-        "published": "2026-08-25T06:19:19Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran Threatens to Block Gulf Oil Exports if Region Cooperates with U.S. Plan",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-25-iran-threatens-to-block-gulf-oil-exports.html",
-        "published": "2026-08-25T06:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Operation Economic Outcast explained: How the US plans to isolate Iran",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/operation-economic-outcast-us-iran-sanctions-west-asia-conflict-oil-trade-126082500363_1.html",
-        "published": "2026-08-25T05:58:48Z",
+        "title": "What K.M. & Tsipras say about the elections, the phantom investor and the crème de la crème, bonuses at Astieras & shipowners selling tankers",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/08/25/what-k-m-tsipras-say-about-the-elections-the-phantom-investor-and-the-creme-de-la-creme-bonuses-at-astieras-shipowners-selling-tankers/",
+        "published": "2026-08-25T07:12:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil steadies as US plan offers little clarity on Hormuz deadlock",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/2026/08/25/oil-steadies-as-us-plan-offers-little-clarity-on-hormuz-deadlock/",
-        "published": "2026-08-25T05:56:37Z",
+        "title": "Dry bulk freight rates surge 36% to three-year high amid Iran war, higher oil prices: BoB Report",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/dry-bulk-freight-rates-surge-36-to-three-year-high-amid-iran-war-higher-oil-prices-bob-report/article71387605.ece",
+        "published": "2026-08-25T07:08:27Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil falls again as investors shrug off sanctions on Iran",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0825/1589092-world-oil-prices/",
+        "published": "2026-08-25T07:03:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "Treasury Department warns mariners of sanctions risks from Iranian organizations",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/treasury-warns-mariners-iran-sanctions-risks/",
-        "published": "2026-08-25T05:50:41Z",
-        "sentiment": "danger"
+        "title": "Nikkei Falls as Nvidia Caution Hits Chip Shares",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150509.php",
+        "published": "2026-08-25T06:54:54Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -117,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
