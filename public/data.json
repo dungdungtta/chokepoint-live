@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-27T03:30:49.345Z",
+    "generated_at": "2026-08-27T14:47:30.646Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,76 +27,76 @@
   "news": {
     "hormuz": [
       {
-        "title": "SpaceX plans to build $100bn rocket complex in Louisiana",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/world/2026/0826/1589238-spacex-100bn-complex/",
-        "published": "2026-08-26T03:27:19Z",
+        "title": "Japan Plan Seeks to Back Pipelines Bypassing Hormuz",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/japan_plan_seeks_to_back_pipelines_bypassing_hormuz-26-aug-2026-184464-article/",
+        "published": "2026-08-26T14:41:27Z",
         "sentiment": "watch"
       },
       {
-        "title": "Four India-based companies engulfed in Trump's economic offensive against Iran",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/four-india-based-companies-engulfed-in-trumps-economic-offensive-against-iran/articleshow/133528011.cms",
-        "published": "2026-08-26T03:17:56Z",
+        "title": "Houthis Use Muhammad's Birthday to Threaten Saudi Arabia",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/08/26/houthis-use-muhammads-birthday-to-threaten-saudi-arabia/",
+        "published": "2026-08-26T14:41:23Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran resumes talks with Oman to manage Strait of Hormuz amid US pressure",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-resumes-talks-with-oman-to-manage-strait-of-hormuz-amid-us-pressure/",
+        "published": "2026-08-26T14:12:44Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Digital health promotion, prevention and health literacy measures among seafarers and crews on cargo and passenger ships: A scoping review",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356798",
+        "published": "2026-08-26T14:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "India urges global cooperation to safeguard sea lanes for food, fuel at UNSC",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/india/india-urges-un-to-safeguard-sea-lanes-for-food-fuel/articleshow/133527872.cms",
-        "published": "2026-08-26T02:46:46Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "India calls on international community to safeguard critical sea lanes",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/india-calls-on-international-community-to-safeguard-critical-sea-lanes-126082600096_1.html",
-        "published": "2026-08-26T02:37:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Stock Market LIVE: GIFT Nifty signals positive open; Asia markets fall; Brent crude extends loss",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/stock-market-live-updates-august-26-nse-bse-sensex-today-nifty-gift-nifty-us-iran-tension-crude-annu-projects-ipo-126082600098_1.html",
-        "published": "2026-08-26T02:25:01Z",
+        "title": "The Smartest AI Growth ETF to Buy With $1,000",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/26/the-smartest-ai-growth-etf-to-buy-with-1000/",
+        "published": "2026-08-26T13:45:16Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "After America: The Causes and Consequences of US Global Decline",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/politics/after-america-the-causes-and-consequences-of-us-global-decline/",
+        "published": "2026-08-26T13:36:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump’s Korean gambit exposes a shifting East Asian order",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/8/26/trumps-korean-gambit-exposes-a-shifting-east-asian-order",
+        "published": "2026-08-26T08:18:55Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Porcupines, Silicon, and Alliances: How Middle Powers Can Resist Great Power Coercion",
+        "source": "Smallwarsjournal.com",
+        "url": "https://smallwarsjournal.com/2026/08/26/porcupines-silicon-and-alliances/",
+        "published": "2026-08-26T06:00:22Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "So-called 'English teachers' at Taiwan's big war games are an open secret — US military help is getting harder to hide",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/us-quietly-help-taiwan-train-fight-china-han-kuang-2026-8#article",
+        "published": "2026-08-26T04:42:48Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan",
         "published": "2026-08-26T01:43:50Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "China's new ambassador delivers a warning to Australia amid ongoing tensions",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16079777/china-australia-ambassador-albanese-liu-jinsong.html",
-        "published": "2026-08-26T00:42:54Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Undersea Infrastructure : A Weak Spot For National Security",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/arielcohen/2026/08/25/undersea-infrastructure--a-weak-spot-for-national-security/",
-        "published": "2026-08-25T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US attempt to strangle Iran's economy depends on China's cooperation",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/us-attempt-to-strangle-iran-s-economy-depends-on-china-s-cooperation-126082500095_1.html",
-        "published": "2026-08-25T02:38:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Navy Spy Plane Makes Rare Taiwan Strait Flight Ahead Of Xi White House Visit",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/08/24/us-navy-spy-plane-taiwan-strait-rare-flight",
-        "published": "2026-08-24T18:33:15Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "yellow",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
