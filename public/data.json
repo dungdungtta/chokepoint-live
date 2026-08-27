@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T22:25:55.490Z",
+    "generated_at": "2026-08-27T03:30:49.345Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran Vows To Resist Widened U.S. Sanctions Aimed At Isolating Economy",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/iran-vows-resist-us-sanctions_n_6a8e0b51e4b0e34ff061f640",
-        "published": "2026-08-25T22:00:09Z",
+        "title": "SpaceX plans to build $100bn rocket complex in Louisiana",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/world/2026/0826/1589238-spacex-100bn-complex/",
+        "published": "2026-08-26T03:27:19Z",
         "sentiment": "watch"
       },
       {
-        "title": "Hegseth’s Army Purges Have Undermined Military Leadership on Iran",
-        "source": "The New Republic",
-        "url": "https://newrepublic.com/post/214747/hegseth-army-purges-undermined-iran",
-        "published": "2026-08-25T21:53:20Z",
+        "title": "Four India-based companies engulfed in Trump's economic offensive against Iran",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/four-india-based-companies-engulfed-in-trumps-economic-offensive-against-iran/articleshow/133528011.cms",
+        "published": "2026-08-26T03:17:56Z",
         "sentiment": "watch"
       },
       {
-        "title": "For the ‘Smoke’ Main Titles, There Was One Right Idea: Burn Stuff Up, Backward",
-        "source": "TheWrap",
-        "url": "https://www.thewrap.com/industry-news/awards/smoke-main-titles-emmy-interview/",
-        "published": "2026-08-25T21:52:56Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Valvoline Daily Protection 5-Quart 10W-30 Conventional Motor Oil for $23 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Valvoline-Daily-Protection-5-Quart-10-W-30-Conventional-Motor-Oil-for-23-free-shipping/22094152.html",
-        "published": "2026-08-25T21:31:36Z",
+        "title": "India urges global cooperation to safeguard sea lanes for food, fuel at UNSC",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/india/india-urges-un-to-safeguard-sea-lanes-for-food-fuel/articleshow/133527872.cms",
+        "published": "2026-08-26T02:46:46Z",
         "sentiment": "watch"
       },
       {
-        "title": "Bessent: Iran’s Leadership ‘Panicking’ Under Trump Economic Offensive — Vows to Sever ‘Every Economic Lifeline’",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/08/25/bessent-irans-leadership-panicking-under-trump-economic-offensive-vows-to-sever-every-economic-lifeline/",
-        "published": "2026-08-25T21:25:39Z",
+        "title": "India calls on international community to safeguard critical sea lanes",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/india-calls-on-international-community-to-safeguard-critical-sea-lanes-126082600096_1.html",
+        "published": "2026-08-26T02:37:52Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Stock Market LIVE: GIFT Nifty signals positive open; Asia markets fall; Brent crude extends loss",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/stock-market-live-updates-august-26-nse-bse-sensex-today-nifty-gift-nifty-us-iran-tension-crude-annu-projects-ipo-126082600098_1.html",
+        "published": "2026-08-26T02:25:01Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan",
+        "published": "2026-08-26T01:43:50Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "China's new ambassador delivers a warning to Australia amid ongoing tensions",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16079777/china-australia-ambassador-albanese-liu-jinsong.html",
+        "published": "2026-08-26T00:42:54Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Undersea Infrastructure : A Weak Spot For National Security",
         "source": "Forbes",
@@ -82,20 +96,6 @@
         "source": "The Daily Caller",
         "url": "https://dailycaller.com/2026/08/24/us-navy-spy-plane-taiwan-strait-rare-flight",
         "published": "2026-08-24T18:33:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The 60 Day Peace Window Closed, and Trump’s Iran Strategy May Shift Dramatically",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/The-60-Day-Peace-Window-Closed-and-Trumps-Iran-Strategy-May-Shift-Dramatically.html",
-        "published": "2026-08-24T17:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump’s Kim gambit deepens doubts over US reliability at a key moment for Asia",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/asia-pacific/2026/08/24/trumps-kim-gambit-deepens-doubts-over-us-reliability-at-a-key-moment-for-asia/",
-        "published": "2026-08-24T15:10:59Z",
         "sentiment": "watch"
       }
     ],
@@ -117,8 +117,8 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
-    "taiwan": "yellow",
+    "hormuz": "yellow",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
