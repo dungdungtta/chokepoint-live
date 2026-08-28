@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-28T00:20:37.993Z",
+    "generated_at": "2026-08-28T12:04:26.962Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Bessent Suggests Economic Warfare Against Iran Could ‘Blow Up the Global Financial System’",
-        "source": "Antiwar.com",
-        "url": "https://original.antiwar.com/brett_wilkins/2026/08/26/bessent-suggests-economic-warfare-against-iran-could-blow-up-the-global-financial-system/",
-        "published": "2026-08-27T00:00:46Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "1969 Chevrolet Camaro Z/28 4-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1969-chevrolet-camaro-z-28-295/",
-        "published": "2026-08-26T23:50:05Z",
+        "title": "Qatar and Iran discuss interim shipping corridor through Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/qatar-iran-shipping-corridor-strait-hormuz/",
+        "published": "2026-08-27T11:50:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "Fears Putin will use 'tactical nuclear weapons' on Ukraine as peace talks 'reach a dead end'",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16082617/Fears-Putin-tactical-nuclear-weapons-Ukraine-peace-talks.html",
-        "published": "2026-08-26T23:43:30Z",
-        "sentiment": "neutral"
+        "title": "Oil gains as traders weigh prospects of easing Middle East supply disruptions",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/oil-extends-losses-on-hopes-middle-east-talks-could-ease-supply-woes-081929665.html",
+        "published": "2026-08-27T11:45:32Z",
+        "sentiment": "watch"
       },
       {
-        "title": "US allies question Trump’s claim of mine-free Strait of Hormuz, warn of threats",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-allies-question-trumps-claim-of-mine-free-strait-of-hormuz-warn-of-threats/",
-        "published": "2026-08-26T23:38:40Z",
-        "sentiment": "danger"
+        "title": "Current price of oil as of August 27, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-08-27-2026/",
+        "published": "2026-08-27T11:30:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "India's Crude Import Bill Surges As Hormuz Shipping Rates Soar",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/0ae8655ffe768a27",
-        "published": "2026-08-26T23:23:02Z",
+        "title": "Meeting of 22-23 July 2026",
+        "source": "Europa.eu",
+        "url": "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg260827~f06c21fd54.en.html",
+        "published": "2026-08-27T11:30:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Analyst Explains Why Oil Prices Are Easing",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/analyst_explains_why_oil_prices_are_easing-27-aug-2026-184471-article/",
+        "published": "2026-08-27T11:23:10Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The ‘Stability-Instability Paradox’ Comes for Markets",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/08/27/stability-instability-paradox-markets/",
+        "published": "2026-08-27T04:01:07Z",
+        "sentiment": "watch"
+      },
       {
         "title": "This Has Me Worried. Trump Under Immense Pressure",
         "source": "Shtfplan.com",
@@ -90,13 +97,6 @@
         "url": "https://www.aljazeera.com/opinions/2026/8/26/trumps-korean-gambit-exposes-a-shifting-east-asian-order",
         "published": "2026-08-26T08:18:55Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Porcupines, Silicon, and Alliances: How Middle Powers Can Resist Great Power Coercion",
-        "source": "Smallwarsjournal.com",
-        "url": "https://smallwarsjournal.com/2026/08/26/porcupines-silicon-and-alliances/",
-        "published": "2026-08-26T06:00:22Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "yellow",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
