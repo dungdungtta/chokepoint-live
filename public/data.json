@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-27T14:47:30.646Z",
+    "generated_at": "2026-08-28T00:20:37.993Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Japan Plan Seeks to Back Pipelines Bypassing Hormuz",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/japan_plan_seeks_to_back_pipelines_bypassing_hormuz-26-aug-2026-184464-article/",
-        "published": "2026-08-26T14:41:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Houthis Use Muhammad's Birthday to Threaten Saudi Arabia",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/08/26/houthis-use-muhammads-birthday-to-threaten-saudi-arabia/",
-        "published": "2026-08-26T14:41:23Z",
+        "title": "Bessent Suggests Economic Warfare Against Iran Could ‘Blow Up the Global Financial System’",
+        "source": "Antiwar.com",
+        "url": "https://original.antiwar.com/brett_wilkins/2026/08/26/bessent-suggests-economic-warfare-against-iran-could-blow-up-the-global-financial-system/",
+        "published": "2026-08-27T00:00:46Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran resumes talks with Oman to manage Strait of Hormuz amid US pressure",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-resumes-talks-with-oman-to-manage-strait-of-hormuz-amid-us-pressure/",
-        "published": "2026-08-26T14:12:44Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Digital health promotion, prevention and health literacy measures among seafarers and crews on cargo and passenger ships: A scoping review",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356798",
-        "published": "2026-08-26T14:00:00Z",
+        "title": "1969 Chevrolet Camaro Z/28 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1969-chevrolet-camaro-z-28-295/",
+        "published": "2026-08-26T23:50:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Smartest AI Growth ETF to Buy With $1,000",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/26/the-smartest-ai-growth-etf-to-buy-with-1000/",
-        "published": "2026-08-26T13:45:16Z",
+        "title": "Fears Putin will use 'tactical nuclear weapons' on Ukraine as peace talks 'reach a dead end'",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16082617/Fears-Putin-tactical-nuclear-weapons-Ukraine-peace-talks.html",
+        "published": "2026-08-26T23:43:30Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "US allies question Trump’s claim of mine-free Strait of Hormuz, warn of threats",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-allies-question-trumps-claim-of-mine-free-strait-of-hormuz-warn-of-threats/",
+        "published": "2026-08-26T23:38:40Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "India's Crude Import Bill Surges As Hormuz Shipping Rates Soar",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/0ae8655ffe768a27",
+        "published": "2026-08-26T23:23:02Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "This Has Me Worried. Trump Under Immense Pressure",
+        "source": "Shtfplan.com",
+        "url": "https://www.shtfplan.com/headline-news/this-has-me-worried-trump-under-immense-pressure",
+        "published": "2026-08-26T18:16:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan president pushes $6.6B military drone bill ahead of crucial legislative vote",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/taiwan-military-drone-bill-66-billion-vote/",
+        "published": "2026-08-26T15:45:43Z",
+        "sentiment": "watch"
+      },
       {
         "title": "After America: The Causes and Consequences of US Global Decline",
         "source": "Fair Observer",
@@ -83,20 +97,6 @@
         "url": "https://smallwarsjournal.com/2026/08/26/porcupines-silicon-and-alliances/",
         "published": "2026-08-26T06:00:22Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "So-called 'English teachers' at Taiwan's big war games are an open secret — US military help is getting harder to hide",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/us-quietly-help-taiwan-train-fight-china-han-kuang-2026-8#article",
-        "published": "2026-08-26T04:42:48Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan",
-        "published": "2026-08-26T01:43:50Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -118,7 +118,7 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "amber",
+    "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
