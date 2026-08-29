@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-29T03:49:30.377Z",
+    "generated_at": "2026-08-29T10:58:25.587Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran War Diplomacy Turns Toward Reopening Hormuz",
+        "title": "Des marins turcs pris entre deux feux alors que les attaques se multiplient en mer Noire (Anglais)",
+        "source": "Turkeyrecap.com",
+        "url": "https://www.turkeyrecap.com/p/turkish-sailors-caught-in-crossfire",
+        "published": "2026-08-28T10:39:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "BW LPG Posts Higher Shipping Revenue",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/bw_lpg_posts_higher_shipping_revenue-28-aug-2026-184481-article/",
+        "published": "2026-08-28T10:35:55Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US Commander Declares Hormuz Shipping Lanes Are Mine-Free",
         "source": "gcaptain.com",
-        "url": "https://gcaptain.com/iran-war-diplomacy-turns-toward-reopening-hormuz/",
-        "published": "2026-08-28T03:46:31Z",
-        "sentiment": "danger"
+        "url": "https://gcaptain.com/us-commander-declares-hormuz-shipping-lanes-are-mine-free/",
+        "published": "2026-08-28T10:34:54Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Mediators place renewed focus on reopening Hormuz",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/world/2026/0828/1589513-middle-east-iran/",
-        "published": "2026-08-28T03:30:10Z",
-        "sentiment": "neutral"
+        "title": "Indices snap 2-day losses; IT shares rally",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/capital-market-news/indices-snap-2-day-losses-it-shares-rally-126082800851_1.html",
+        "published": "2026-08-28T10:34:50Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Mediators place renewed focus on reopening Hormuz",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/world/2026/0828/1589513-middle-east/",
-        "published": "2026-08-28T03:30:10Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "CENTCOM announces Strait of Hormuz shipping lanes are ‘free of Iranian sea mines,’ marking ‘major milestone’ in the Iran war",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/27/us-news/centcom-announces-strait-of-hormuz-shipping-lanes-are-free-of-iranian-sea-mines-marking-major-milestone-in-the-iran-war/",
-        "published": "2026-08-28T03:17:08Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/regional-powers-seek-off-ramp-iran-war-middle-135997418",
-        "published": "2026-08-28T03:01:26Z",
+        "title": "Pipelines and Ports: Iran War Spurs Gulf Infrastructure Investment",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/pipelines-and-ports-iran-war-spurs-gulf-infrastructure-investment/",
+        "published": "2026-08-28T10:30:40Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "On islands key to Taiwan's defense, troops prepare for a Chinese first strike",
+        "source": "Yahoo Entertainment",
+        "url": "https://ca.news.yahoo.com/islands-key-taiwans-defense-troops-060259320.html",
+        "published": "2026-08-28T06:07:23Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Taiwan Passes Massive $7,560,000,000 Drone Plan As China Threat Looms",
         "source": "The Daily Caller",
@@ -90,13 +97,6 @@
         "url": "http://foreignpolicy.com/2026/08/27/stability-instability-paradox-markets/",
         "published": "2026-08-27T04:01:07Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "This Has Me Worried. Trump Under Immense Pressure",
-        "source": "Shtfplan.com",
-        "url": "https://www.shtfplan.com/headline-news/this-has-me-worried-trump-under-immense-pressure",
-        "published": "2026-08-26T18:16:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
