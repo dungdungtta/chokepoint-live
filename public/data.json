@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-29T21:38:12.644Z",
+    "generated_at": "2026-08-29T23:37:33.081Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran’s war reshapes global energy economics after six months",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-war-reshapes-global-energy-economics/",
+        "published": "2026-08-28T23:18:57Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran conflict pushes VLCC rates to $650,000 per day amid Strait of Hormuz risks",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-conflict-pushes-vlcc-rates-to-650000-per-day-amid-strait-of-hormuz-risks/",
+        "published": "2026-08-28T23:17:54Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Hedge funds increase bullish bets on US gasoline by most since US-Iran war began",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/hedge-funds-bullish-gasoline-bets-us-iran-war/",
+        "published": "2026-08-28T22:44:55Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump plans meeting with US oil refining executives to address high gasoline prices",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-oil-refining-executives-gasoline-prices/",
+        "published": "2026-08-28T22:19:39Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran’s crude oil exports near zero as US targets banking networks with Operation Economic Outcast",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/iran-oil-exports-near-zero-us-sanctions/",
         "published": "2026-08-28T21:14:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "440-Powered 1962 Dodge Dart Convertible at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1962-dodge-dart-440-2/",
-        "published": "2026-08-28T21:01:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Axios admits Trump has gained the upper hand in the battle for the Strait of Hormuz",
-        "source": "TheBlaze",
-        "url": "https://www.theblaze.com/news/iran-strait-trump-military-advantage",
-        "published": "2026-08-28T21:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why this Canada-U.S. pipeline has emerged as a midterm election issue in the U.S. Midwest",
-        "source": "National Post",
-        "url": "https://nationalpost.com/news/canada/why-this-canada-u-s-pipeline-has-emerged-as-a-midterm-election-issue-in-the-u-s-midwest",
-        "published": "2026-08-28T20:44:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran Returns to 'Diplomacy' Talk as Economy Collapses",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/08/28/iran-returns-to-diplomacy-talk-as-economy-collapses/",
-        "published": "2026-08-28T20:09:40Z",
         "sentiment": "watch"
       }
     ],
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "yellow",
+    "hormuz": "amber",
     "taiwan": "red",
     "malacca": "yellow",
     "suez": "amber",
