@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T20:06:31.093Z",
+    "generated_at": "2026-08-30T22:47:36.764Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran challenges US claims on Strait of Hormuz oil traffic, insists waterway is closed",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-challenges-us-strait-hormuz-claims/",
+        "published": "2026-08-29T22:27:33Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump's Venezuelan oil deal: What we know and how it could impact Canada's oil industry",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/trump-venezuela-oil-deal-explainer-9.7325621",
+        "published": "2026-08-29T21:28:52Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "New U.S. sanctions will hit ordinary Iranians hard. That may be the whole point as the crashing economy stirs fresh protests",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/us/articles/u-sanctions-hit-ordinary-iranians-212605033.html",
+        "published": "2026-08-29T21:26:05Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "New U.S. sanctions will hit ordinary Iranians hard. That may be the whole point as the crashing economy stirs fresh protests",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/08/29/iran-economy-us-sanctions-gold-crypto-protests-inflation-naval-blockade/",
+        "published": "2026-08-29T21:26:05Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Mrs. Meyer's 12.5-oz. Clean Day Liquid Hand Soap 3-Pack for $9 + free shipping w/ Prime",
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/Mrs-Meyers-12-5-oz-Clean-Day-Liquid-Hand-Soap-3-Pack-for-9-free-shipping-w-Prime/22114549.html",
         "published": "2026-08-29T16:56:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. Eyes 18th-Century Law to Seize and Sell Iranian Oil",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/US-Eyes-18th-Century-Law-to-Seize-and-Sell-Iranian-Oil.html",
-        "published": "2026-08-29T16:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "War weighs on Iran's economy as US intensifies sanctions",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/war-weighs-on-irans-economy-as-us-intensifies-sanctions/articleshow/133614980.cms",
-        "published": "2026-08-29T15:41:22Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Refiners’ Big Yellow Cash Cow",
-        "source": "Dailyreckoning.com",
-        "url": "https://dailyreckoning.com/oil-refiners-big-yellow-cash-cow/",
-        "published": "2026-08-29T14:30:44Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "MacGregor says demand for its electric cranes is BOOMING in 2026",
-        "source": "Electrek",
-        "url": "http://electrek.co/2026/08/29/macgregor-says-demand-for-its-electric-cranes-is-booming-in-2026/",
-        "published": "2026-08-29T14:10:09Z",
         "sentiment": "watch"
       }
     ],
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "yellow",
     "taiwan": "red",
     "malacca": "yellow",
     "suez": "amber",
