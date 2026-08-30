@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T07:31:34.394Z",
+    "generated_at": "2026-08-30T13:19:28.493Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Mark Carney’s high-stakes gambit: why Canada walked out on US trade talks and doubled down on retaliatory levies",
-        "source": "Livemint",
-        "url": "https://www.livemint.com/opinion/mark-carney-s-high-stakes-gambit-why-canada-walked-out-on-us-trade-talks-and-doubled-down-on-retaliatory-levies-11787983325516.html",
-        "published": "2026-08-29T06:35:13Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Ecological cost of US-Iran war: Scientists warn ships stranded for months in the Strait of Hormuz could now carry invasive species, posing an ‘immense international biosecurity threat’",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/us-iran-war-scientists-warn-hormuz-ships-could-spread-invasive-species/articleshow/133604631.cms",
-        "published": "2026-08-29T05:36:08Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Crude oil prices end winning run with first weekly fall in nearly a month. Can liquid gold slide further?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-prices-end-winning-run-with-first-weekly-fall-in-nearly-a-month-can-liquid-gold-slide-further/articleshow/133604216.cms",
-        "published": "2026-08-29T04:52:18Z",
+        "title": "Six months ago, Iran was supposed to collapse. Here’s what happened instead",
+        "source": "RT",
+        "url": "https://www.rt.com/news/644802-six-months-iran-us-israel/",
+        "published": "2026-08-29T12:20:27Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran’s economy reels as US sanctions bite, foreign trade falls 35% amid war",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/irans-economy-reels-as-us-sanctions-bite-foreign-trade-falls-35-amid-war/article71403529.ece",
-        "published": "2026-08-29T04:49:54Z",
+        "title": "[S&S]Crisco Pure Canola Oil, 40 Fluid Ounce $3.18 + Free S&H w/ Prime or $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19941408-s-s-crisco-pure-canola-oil-40-fluid-ounce-3-18-free-s-h-w-prime-or-35",
+        "published": "2026-08-29T12:13:18Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Robert Kiyosaki says he’s $1.2B in debt — and isn’t worried. He uses debt to buy this 1 asset and ‘pay no tax legally’",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/real-estate/articles/robert-kiyosaki-says-1-2b-113500795.html",
+        "published": "2026-08-29T11:35:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Strait of Hormuz Tanker Traffic Climbs Sharply, but It Remains Well Below Prewar Shipping Levels",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/tanker-traffic-strait-hormuz-surges-1874729",
+        "published": "2026-08-29T10:35:29Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil settles lower on clues about Fed policy, rumors of Hormuz deal",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-settles-lower-on-clues-about-fed-policy-rumors-of-hormuz-deal/articleshow/133603629.cms",
-        "published": "2026-08-29T04:13:11Z",
+        "title": "V.O. Chidambaranar Port handles first crude palm oil ship at modified coal jetty-2",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/logistics/vo-chidambaranar-port-handles-first-crude-palm-oil-ship-at-modified-coal-jetty-2/article71404217.ece",
+        "published": "2026-08-29T10:15:16Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "After giving up on military force, Trump’s new plan to defeat Iran is…more economic sanctions?",
+        "source": "Mondoweiss",
+        "url": "https://mondoweiss.net/2026/08/after-giving-up-on-military-force-trumps-new-plan-to-defeat-iran-ismore-economic-sanctions/",
+        "published": "2026-08-29T12:30:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China’s GJ-21 stealth drone spotted as 40,000-tonne Sichuan drone ship nears trials",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/chinas-gj-21-stealth-drone-spotted-as-40000-tonne-sichuan-drone-ship-nears-trials/articleshow/133610814.cms",
+        "published": "2026-08-29T12:00:57Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan prepares troops on key islands for potential Chinese strike",
         "source": "Crypto Briefing",
@@ -83,20 +97,6 @@
         "url": "https://ca.news.yahoo.com/islands-key-taiwans-defense-troops-060259320.html",
         "published": "2026-08-28T06:07:23Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Taiwan Passes Massive $7,560,000,000 Drone Plan As China Threat Looms",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/08/27/taiwan-parliament-approves-drone-plan-china-threat",
-        "published": "2026-08-27T16:37:32Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Quickwrit: Thanks to Trump and Hegseth, Our National Defense is in Crisis",
-        "source": "Dianeravitch.net",
-        "url": "https://dianeravitch.net/2026/08/27/quickwrit-thanks-to-trump-and-hegseth-our-national-defense-is-in-crisis/",
-        "published": "2026-08-27T15:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
