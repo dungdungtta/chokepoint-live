@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T01:44:09.967Z",
+    "generated_at": "2026-08-30T07:31:34.394Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran’s war reshapes global energy economics after six months",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-war-reshapes-global-energy-economics/",
-        "published": "2026-08-28T23:18:57Z",
+        "title": "Mark Carney’s high-stakes gambit: why Canada walked out on US trade talks and doubled down on retaliatory levies",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/opinion/mark-carney-s-high-stakes-gambit-why-canada-walked-out-on-us-trade-talks-and-doubled-down-on-retaliatory-levies-11787983325516.html",
+        "published": "2026-08-29T06:35:13Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Ecological cost of US-Iran war: Scientists warn ships stranded for months in the Strait of Hormuz could now carry invasive species, posing an ‘immense international biosecurity threat’",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/us-iran-war-scientists-warn-hormuz-ships-could-spread-invasive-species/articleshow/133604631.cms",
+        "published": "2026-08-29T05:36:08Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran conflict pushes VLCC rates to $650,000 per day amid Strait of Hormuz risks",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-conflict-pushes-vlcc-rates-to-650000-per-day-amid-strait-of-hormuz-risks/",
-        "published": "2026-08-28T23:17:54Z",
+        "title": "Crude oil prices end winning run with first weekly fall in nearly a month. Can liquid gold slide further?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-prices-end-winning-run-with-first-weekly-fall-in-nearly-a-month-can-liquid-gold-slide-further/articleshow/133604216.cms",
+        "published": "2026-08-29T04:52:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "Hedge funds increase bullish bets on US gasoline by most since US-Iran war began",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/hedge-funds-bullish-gasoline-bets-us-iran-war/",
-        "published": "2026-08-28T22:44:55Z",
+        "title": "Iran’s economy reels as US sanctions bite, foreign trade falls 35% amid war",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/irans-economy-reels-as-us-sanctions-bite-foreign-trade-falls-35-amid-war/article71403529.ece",
+        "published": "2026-08-29T04:49:54Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump plans meeting with US oil refining executives to address high gasoline prices",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-oil-refining-executives-gasoline-prices/",
-        "published": "2026-08-28T22:19:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran’s crude oil exports near zero as US targets banking networks with Operation Economic Outcast",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-oil-exports-near-zero-us-sanctions/",
-        "published": "2026-08-28T21:14:39Z",
+        "title": "Oil settles lower on clues about Fed policy, rumors of Hormuz deal",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-settles-lower-on-clues-about-fed-policy-rumors-of-hormuz-deal/articleshow/133603629.cms",
+        "published": "2026-08-29T04:13:11Z",
         "sentiment": "watch"
       }
     ],
