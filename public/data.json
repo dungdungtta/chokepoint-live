@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T15:29:51.107Z",
+    "generated_at": "2026-08-31T21:02:56.200Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "What we know about Trump's deal giving US access to vast oil reserves in Venezuela",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/what-we-know-about-trumps-deal-giving-us-access-to-vast-oil-reserves-in-venezuela/articleshow/133631225.cms",
-        "published": "2026-08-30T14:14:53Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran’s armed forces block 30 vessels in Strait of Hormuz since August, choking global oil artery",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-blocks-vessels-strait-of-hormuz/",
-        "published": "2026-08-30T12:40:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Strait of Hormuz daily ship crossings collapse to below 20 amid escalating tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-blocks-strait-hormuz-ship-traffic/",
-        "published": "2026-08-30T12:07:44Z",
+        "title": "U.S. forces strike Iranian rocket launchers on Hormuz in first military action in weeks",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/national-security/us-forces-strike-iranian-rocket-launchers-strait-hormuz-first-military-rcna595194",
+        "published": "2026-08-30T20:19:57Z",
         "sentiment": "danger"
       },
       {
-        "title": "Piracy attacks off Somalia surge this year",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/newslens/2026/0830/1589710-somalia-piracy/",
-        "published": "2026-08-30T11:23:02Z",
-        "sentiment": "danger"
+        "title": "The Gulf South emerges as the ‘new Silicon Valley’ as coast along Texas and Florida sees growth",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/30/business/the-gulf-south-emerges-as-the-new-silicon-valley-as-coast-along-texas-and-florida-sees-growth/",
+        "published": "2026-08-30T19:53:43Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Can Domestic Drone Production Transform Japan's Defense?",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/150552.php",
-        "published": "2026-08-30T11:16:44Z",
+        "title": "Performance Tool 10-Quart Oil Drain Container for $15 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/products/Performance-Tool/Performance-Tool-10-Quart-Oil-Drain-Container/527755.html",
+        "published": "2026-08-30T19:51:06Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "US strikes IRGC positions as forces prepare to launch sea mines into Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-strikes-iranian-launchers-strait-hormuz/",
+        "published": "2026-08-30T19:44:07Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "China cannot yet hold a beach on Taiwan",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/08/china-cannot-yet-hold-beach-taiwan/",
+        "published": "2026-08-30T19:16:34Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Military leaders warned Hegseth that a prolonged Iran war risked hollowing out U.S. readiness",
         "source": "Crypto Briefing",
@@ -90,13 +90,6 @@
         "url": "https://cryptobriefing.com/taiwan-troops-islands-chinese-strike/",
         "published": "2026-08-28T15:41:12Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "After six months of war, what have US, Iran gained and lost?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/28/after-six-months-of-war-what-have-us-iran-gained-and-lost",
-        "published": "2026-08-28T12:37:10Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -111,11 +104,11 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "red",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "amber"
+    "korea": "yellow"
   },
   "thresholds": {
     "brent_alert": 110,
