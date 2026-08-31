@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T01:19:43.083Z",
+    "generated_at": "2026-08-31T07:30:50.311Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "SpaceX Is Building the Chips AND the Rockets",
-        "source": "Next Big Future",
-        "url": "https://www.nextbigfuture.com/2026/08/spacex-is-building-the-chips-and-the-rockets.html",
-        "published": "2026-08-29T23:09:57Z",
+        "title": "Russia is one of the world's top oil producers, so why is it still importing petrol from India",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/russia-is-one-of-the-worlds-top-oil-producers-so-why-is-it-still-importing-petrol-from-india/articleshow/133624269.cms",
+        "published": "2026-08-30T06:10:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "California gas prices spike for 11th day in a row — as drivers shell out at the pumps",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/29/us-news/california-gas-prices-spike-for-11th-day-in-a-row-as-drivers-shell-out-at-the-pumps/",
-        "published": "2026-08-29T22:57:05Z",
+        "title": "Report: U.S. Shifts from Military Strikes to Economic Warfare Against Iran",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-30-us-shifts-military-strikes-economic-warfare-iran.html",
+        "published": "2026-08-30T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Bessent Announces Sanctions Campaign Against Iran, Warns of Global Financial Disruption",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-30-secretary-bessent-announces-sanctions-campaign-against-iran.html",
+        "published": "2026-08-30T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Corporate actions this week: NTPC, Coal India among nearly 90 stocks with record dates for bonus issues, stock splits and dividend payouts. Check full list",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/corporate-actions-this-week-ntpc-coal-india-among-nearly-90-stocks-with-record-dates-for-bonus-issues-stock-splits-and-dividend-payouts-check-full-list/articleshow/133623707.cms",
+        "published": "2026-08-30T05:26:06Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran challenges US claims on Strait of Hormuz oil traffic, insists waterway is closed",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-challenges-us-strait-hormuz-claims/",
-        "published": "2026-08-29T22:27:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump's Venezuelan oil deal: What we know and how it could impact Canada's oil industry",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/trump-venezuela-oil-deal-explainer-9.7325621",
-        "published": "2026-08-29T21:28:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "New U.S. sanctions will hit ordinary Iranians hard. That may be the whole point as the crashing economy stirs fresh protests",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/us/articles/u-sanctions-hit-ordinary-iranians-212605033.html",
-        "published": "2026-08-29T21:26:05Z",
+        "title": "$0.75 | Vaseline Intensive Care Vitalizing Gel Body Oil at Woot! (1 replies)",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19943607-0-75-vaseline-intensive-care-vitalizing-gel-body-oil-at-woot",
+        "published": "2026-08-30T05:05:33Z",
         "sentiment": "watch"
       }
     ],
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "yellow",
+    "hormuz": "amber",
     "taiwan": "red",
     "malacca": "yellow",
     "suez": "amber",
