@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T22:47:36.764Z",
+    "generated_at": "2026-08-31T01:19:43.083Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "SpaceX Is Building the Chips AND the Rockets",
+        "source": "Next Big Future",
+        "url": "https://www.nextbigfuture.com/2026/08/spacex-is-building-the-chips-and-the-rockets.html",
+        "published": "2026-08-29T23:09:57Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "California gas prices spike for 11th day in a row — as drivers shell out at the pumps",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/29/us-news/california-gas-prices-spike-for-11th-day-in-a-row-as-drivers-shell-out-at-the-pumps/",
+        "published": "2026-08-29T22:57:05Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran challenges US claims on Strait of Hormuz oil traffic, insists waterway is closed",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/iran-challenges-us-strait-hormuz-claims/",
@@ -45,20 +59,6 @@
         "source": "Yahoo Entertainment",
         "url": "https://www.yahoo.com/news/us/articles/u-sanctions-hit-ordinary-iranians-212605033.html",
         "published": "2026-08-29T21:26:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "New U.S. sanctions will hit ordinary Iranians hard. That may be the whole point as the crashing economy stirs fresh protests",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/08/29/iran-economy-us-sanctions-gold-crypto-protests-inflation-naval-blockade/",
-        "published": "2026-08-29T21:26:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Mrs. Meyer's 12.5-oz. Clean Day Liquid Hand Soap 3-Pack for $9 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Mrs-Meyers-12-5-oz-Clean-Day-Liquid-Hand-Soap-3-Pack-for-9-free-shipping-w-Prime/22114549.html",
-        "published": "2026-08-29T16:56:43Z",
         "sentiment": "watch"
       }
     ],
