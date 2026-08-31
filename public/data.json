@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T07:30:50.311Z",
+    "generated_at": "2026-08-31T15:29:51.107Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Russia is one of the world's top oil producers, so why is it still importing petrol from India",
+        "title": "What we know about Trump's deal giving US access to vast oil reserves in Venezuela",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/russia-is-one-of-the-worlds-top-oil-producers-so-why-is-it-still-importing-petrol-from-india/articleshow/133624269.cms",
-        "published": "2026-08-30T06:10:18Z",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/what-we-know-about-trumps-deal-giving-us-access-to-vast-oil-reserves-in-venezuela/articleshow/133631225.cms",
+        "published": "2026-08-30T14:14:53Z",
         "sentiment": "watch"
       },
       {
-        "title": "Report: U.S. Shifts from Military Strikes to Economic Warfare Against Iran",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-30-us-shifts-military-strikes-economic-warfare-iran.html",
-        "published": "2026-08-30T06:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Bessent Announces Sanctions Campaign Against Iran, Warns of Global Financial Disruption",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-08-30-secretary-bessent-announces-sanctions-campaign-against-iran.html",
-        "published": "2026-08-30T06:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Corporate actions this week: NTPC, Coal India among nearly 90 stocks with record dates for bonus issues, stock splits and dividend payouts. Check full list",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/corporate-actions-this-week-ntpc-coal-india-among-nearly-90-stocks-with-record-dates-for-bonus-issues-stock-splits-and-dividend-payouts-check-full-list/articleshow/133623707.cms",
-        "published": "2026-08-30T05:26:06Z",
+        "title": "Iran’s armed forces block 30 vessels in Strait of Hormuz since August, choking global oil artery",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-blocks-vessels-strait-of-hormuz/",
+        "published": "2026-08-30T12:40:48Z",
         "sentiment": "watch"
       },
       {
-        "title": "$0.75 | Vaseline Intensive Care Vitalizing Gel Body Oil at Woot! (1 replies)",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19943607-0-75-vaseline-intensive-care-vitalizing-gel-body-oil-at-woot",
-        "published": "2026-08-30T05:05:33Z",
+        "title": "Strait of Hormuz daily ship crossings collapse to below 20 amid escalating tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-blocks-strait-hormuz-ship-traffic/",
+        "published": "2026-08-30T12:07:44Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Piracy attacks off Somalia surge this year",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/newslens/2026/0830/1589710-somalia-piracy/",
+        "published": "2026-08-30T11:23:02Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Can Domestic Drone Production Transform Japan's Defense?",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150552.php",
+        "published": "2026-08-30T11:16:44Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Military leaders warned Hegseth that a prolonged Iran war risked hollowing out U.S. readiness",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/military-leaders-warned-hegseth-iran-war-readiness/",
+        "published": "2026-08-30T10:06:37Z",
+        "sentiment": "danger"
+      },
       {
         "title": "After giving up on military force, Trump’s new plan to defeat Iran is…more economic sanctions?",
         "source": "Mondoweiss",
@@ -89,13 +96,6 @@
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/8/28/after-six-months-of-war-what-have-us-iran-gained-and-lost",
         "published": "2026-08-28T12:37:10Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "On islands key to Taiwan's defense, troops prepare for a Chinese first strike",
-        "source": "Yahoo Entertainment",
-        "url": "https://ca.news.yahoo.com/islands-key-taiwans-defense-troops-060259320.html",
-        "published": "2026-08-28T06:07:23Z",
         "sentiment": "danger"
       }
     ],
