@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T21:02:56.200Z",
+    "generated_at": "2026-09-01T00:39:09.708Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S. forces strike Iranian rocket launchers on Hormuz in first military action in weeks",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/national-security/us-forces-strike-iranian-rocket-launchers-strait-hormuz-first-military-rcna595194",
-        "published": "2026-08-30T20:19:57Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The Gulf South emerges as the ‘new Silicon Valley’ as coast along Texas and Florida sees growth",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/30/business/the-gulf-south-emerges-as-the-new-silicon-valley-as-coast-along-texas-and-florida-sees-growth/",
-        "published": "2026-08-30T19:53:43Z",
+        "title": "Goldman Sachs sends blunt message on oil price, economy",
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/investing/goldman-sachs-on-oil-price-economy",
+        "published": "2026-08-31T00:37:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Performance Tool 10-Quart Oil Drain Container for $15 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/products/Performance-Tool/Performance-Tool-10-Quart-Oil-Drain-Container/527755.html",
-        "published": "2026-08-30T19:51:06Z",
+        "title": "Petrol near N1,400 as Dangote defends price hikes",
+        "source": "The Punch",
+        "url": "https://punchng.com/petrol-near-n1400-as-dangote-defends-price-hikes/",
+        "published": "2026-08-31T00:07:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "US strikes IRGC positions as forces prepare to launch sea mines into Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-strikes-iranian-launchers-strait-hormuz/",
-        "published": "2026-08-30T19:44:07Z",
+        "title": "US strikes Iran for first time in a month, Tehran retaliates... Developing...",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/us/articles/us-strikes-iran-first-time-232723257.html",
+        "published": "2026-08-31T00:00:17Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Vessels Crossing Strait Of Hormuz Drop To 5 Per Day",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/vessels-crossing-strait-of-hormuz-drop-to-5-per-day/",
+        "published": "2026-08-30T23:42:52Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran’s president admits ‘we have many problems’ and missiles ‘are of no use’ as the U.S. chokes its economy while weakening Tehran’s grip on Hormuz",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-president-admits-many-problems-231054810.html",
+        "published": "2026-08-30T23:10:54Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Changes Unseen, Strategies Uncharted | Sinification: August 2026",
+        "source": "Sinocism.com",
+        "url": "https://sinocism.com/p/changes-unseen-strategies-uncharted",
+        "published": "2026-08-30T22:23:14Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Why This Small Island Chain Could Be The First Domino In A Taiwan War",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/08/30/taiwan-penghu-islands-us-economy-china",
+        "published": "2026-08-30T21:32:15Z",
+        "sentiment": "danger"
+      },
       {
         "title": "China cannot yet hold a beach on Taiwan",
         "source": "Wnd.com",
@@ -76,20 +97,6 @@
         "url": "https://mondoweiss.net/2026/08/after-giving-up-on-military-force-trumps-new-plan-to-defeat-iran-ismore-economic-sanctions/",
         "published": "2026-08-29T12:30:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "China’s GJ-21 stealth drone spotted as 40,000-tonne Sichuan drone ship nears trials",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/chinas-gj-21-stealth-drone-spotted-as-40000-tonne-sichuan-drone-ship-nears-trials/articleshow/133610814.cms",
-        "published": "2026-08-29T12:00:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan prepares troops on key islands for potential Chinese strike",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/taiwan-troops-islands-chinese-strike/",
-        "published": "2026-08-28T15:41:12Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
