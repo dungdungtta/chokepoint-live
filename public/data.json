@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T00:39:09.708Z",
+    "generated_at": "2026-09-01T05:43:23.563Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Goldman Sachs sends blunt message on oil price, economy",
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/investing/goldman-sachs-on-oil-price-economy",
-        "published": "2026-08-31T00:37:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Petrol near N1,400 as Dangote defends price hikes",
-        "source": "The Punch",
-        "url": "https://punchng.com/petrol-near-n1400-as-dangote-defends-price-hikes/",
-        "published": "2026-08-31T00:07:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US strikes Iran for first time in a month, Tehran retaliates... Developing...",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/us/articles/us-strikes-iran-first-time-232723257.html",
-        "published": "2026-08-31T00:00:17Z",
+        "title": "US, Iran Exchange First Strikes in a Month",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/395558/us-iran-exchange-first-strikes-in-a-month.html",
+        "published": "2026-08-31T05:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Vessels Crossing Strait Of Hormuz Drop To 5 Per Day",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/vessels-crossing-strait-of-hormuz-drop-to-5-per-day/",
-        "published": "2026-08-30T23:42:52Z",
+        "title": "20 stocks, 100% returns: How retail investors tapped a multibagger wave in deeper Indian market",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/20-stocks-100-returns-how-retail-investors-tapped-a-multibagger-wave-in-deeper-indian-market/articleshow/133641555.cms",
+        "published": "2026-08-31T04:27:38Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran’s president admits ‘we have many problems’ and missiles ‘are of no use’ as the U.S. chokes its economy while weakening Tehran’s grip on Hormuz",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-president-admits-many-problems-231054810.html",
-        "published": "2026-08-30T23:10:54Z",
+        "title": "Indices drift lower in early trade; breadth positive",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/capital-market-news/indices-drift-lower-in-early-trade-breadth-positive-126083100178_1.html",
+        "published": "2026-08-31T04:21:05Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Crude oil futures gain after US forces attack Iranian island",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-gain-after-us-forces-attack-iranian-island/article71409629.ece",
+        "published": "2026-08-31T04:17:20Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump Says Iran's Kharg Is Being 'Blown To Smithereens,' But Gives No Details",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/trump-kharg-island-blown-smithereens_n_6a94ff0de4b0f75d1947d891",
+        "published": "2026-08-31T04:16:17Z",
         "sentiment": "watch"
       }
     ],
