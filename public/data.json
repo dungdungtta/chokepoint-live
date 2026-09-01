@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T21:23:52.762Z",
+    "generated_at": "2026-09-01T23:30:57.861Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Can we afford Iran?",
-        "source": "Vox",
-        "url": "https://www.vox.com/today-explained-newsletter/501396/us-military-readiness-iran-war",
-        "published": "2026-08-31T21:05:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "2019 MV Agusta Dragster 800 RC at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2019-mv-agusta-dragster-800-rc/",
-        "published": "2026-08-31T20:30:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Rallies on Fresh US-Iran Fighting",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_rallies_on_fresh_usiran_fighting-31-aug-2026-184500-article/",
-        "published": "2026-08-31T20:08:56Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Goldman Sachs Steps Up Warnings on Diesel",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/goldman_sachs_steps_up_warnings_on_diesel-31-aug-2026-184494-article/",
-        "published": "2026-08-31T20:00:00Z",
+        "title": "Iran retaliates against US bases in Jordan after American airstrikes hit Larak Island",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-strikes-us-forces-retaliation-oil-prices/",
+        "published": "2026-08-31T23:02:57Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "What the latest U.S.-Iran strikes mean for oil supplies and maritime safety",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/show/what-the-latest-u-s-iran-strikes-mean-for-oil-supplies-and-maritime-safety",
+        "published": "2026-08-31T22:52:42Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil: Prices jump more than 2.5% after new military escalation — Brent above $90",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/09/01/oil-prices-jump-more-than-2-5-after-new-military-escalation-brent-above-90/",
+        "published": "2026-08-31T22:43:29Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US and Canada brawl over hockey sticks — so China skates off with big trade wins",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/31/opinion/us-canada-trade-brawl-lets-china-skate-off-with-big-wins/",
+        "published": "2026-08-31T22:40:05Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Bio Bidet by Bemis FLOW Motion Activated Pull-Down Sprayer Kitchen Faucet (Chrome or Oil Rubbed Bronze) $79 + Free S&H (2 replies)",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19951404-bio-bidet-by-bemis-flow-motion-activated-pull-down-sprayer-kitchen-faucet-chrome-or-oil-rubbed-bronze-79-free-s-h",
+        "published": "2026-08-31T21:58:27Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "What the latest U.S.-Iran strikes mean for oil supplies and maritime safety",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/show/what-the-latest-u-s-iran-strikes-mean-for-oil-supplies-and-maritime-safety",
+        "published": "2026-08-31T22:52:42Z",
+        "sentiment": "danger"
+      },
       {
         "title": "The Stage Is Set, The Fuse Is Lit, And 3 Global Conflicts Are On The Brink Of Detonation",
         "source": "Theeconomiccollapseblog.com",
@@ -83,13 +97,6 @@
         "url": "https://uk.news.yahoo.com/taiwan-says-unpredictable-china-strengthens-124919731.html",
         "published": "2026-08-31T12:49:19Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "China deploys record number of ships around Taiwan, raising Wall Street concerns",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/china-deploys-record-number-of-ships-around-taiwan-raising-wall-street-concerns/",
-        "published": "2026-08-31T10:58:06Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -110,8 +117,8 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
-    "taiwan": "yellow",
+    "hormuz": "red",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
