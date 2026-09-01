@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T15:13:14.039Z",
+    "generated_at": "2026-09-01T18:37:17.939Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Death toll rises to three from US military strike on Iran’s Larak Island",
+        "title": "Donald Trump conducts limited strikes against Iran to protect shipping in Strait of Hormuz",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-strike-iran-larak-island-death-toll/",
-        "published": "2026-08-31T15:03:55Z",
+        "url": "https://cryptobriefing.com/trump-considers-strikes-iran-strait-hormuz/",
+        "published": "2026-08-31T18:26:04Z",
         "sentiment": "danger"
       },
       {
-        "title": "Is Taiwan The Only Leverage The U.S. Has In Getting China To Toe The Line In Ira",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Geopolitics/Asia/Is-Taiwan-The-Only-Leverage-The-US-Has-In-Getting-China-To-Toe-The-Line-In-Ira.html",
-        "published": "2026-08-31T15:00:00Z",
+        "title": "US stocks slump as utilities decline and energy gains offset losses",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-stocks-slump-utilities-decline-energy-gains/",
+        "published": "2026-08-31T18:05:13Z",
         "sentiment": "watch"
       },
       {
-        "title": "Is Taiwan The Only Leverage The U.S. Has In Getting China To Toe The Line In Ira",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/taiwan-only-leverage-u-getting-150000246.html",
-        "published": "2026-08-31T15:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Tesla Jumps 4% as Oil Climbs to $86: Is the Gas-Price Trade Back?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/31/tesla-jumps-4-as-oil-climbs-to-86-is-the-gas-price-trade-back/",
-        "published": "2026-08-31T14:48:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "War and heat: Why are wheat prices soaring?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/31/war-and-heat-why-are-wheat-prices-soaring",
-        "published": "2026-08-31T14:42:40Z",
+        "title": "Saudis explore about $8 billion in loans as war strains finances",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/saudis-explore-about-8-billion-in-loans-as-war-strains-finances-126083101564_1.html",
+        "published": "2026-08-31T18:04:26Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "caannasweis 15-Piece Nonstick Oven-Safe Ceramic Cookware Set for $90 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/caannasweis-15-Piece-Nonstick-Oven-Safe-Ceramic-Cookware-Set-for-90-free-shipping/22124227.html",
+        "published": "2026-08-31T17:52:20Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil Names Mix With AI Stocks On Elite Screen As Three Trade Near Buy Points",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/de9ad06d0a53c8c3",
+        "published": "2026-08-31T17:45:27Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
