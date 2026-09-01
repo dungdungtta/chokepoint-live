@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T18:37:17.939Z",
+    "generated_at": "2026-09-01T21:23:52.762Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Donald Trump conducts limited strikes against Iran to protect shipping in Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-considers-strikes-iran-strait-hormuz/",
-        "published": "2026-08-31T18:26:04Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US stocks slump as utilities decline and energy gains offset losses",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-stocks-slump-utilities-decline-energy-gains/",
-        "published": "2026-08-31T18:05:13Z",
+        "title": "Can we afford Iran?",
+        "source": "Vox",
+        "url": "https://www.vox.com/today-explained-newsletter/501396/us-military-readiness-iran-war",
+        "published": "2026-08-31T21:05:23Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudis explore about $8 billion in loans as war strains finances",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/saudis-explore-about-8-billion-in-loans-as-war-strains-finances-126083101564_1.html",
-        "published": "2026-08-31T18:04:26Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "caannasweis 15-Piece Nonstick Oven-Safe Ceramic Cookware Set for $90 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/caannasweis-15-Piece-Nonstick-Oven-Safe-Ceramic-Cookware-Set-for-90-free-shipping/22124227.html",
-        "published": "2026-08-31T17:52:20Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Names Mix With AI Stocks On Elite Screen As Three Trade Near Buy Points",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/de9ad06d0a53c8c3",
-        "published": "2026-08-31T17:45:27Z",
+        "title": "2019 MV Agusta Dragster 800 RC at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/2019-mv-agusta-dragster-800-rc/",
+        "published": "2026-08-31T20:30:09Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Oil Rallies on Fresh US-Iran Fighting",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_rallies_on_fresh_usiran_fighting-31-aug-2026-184500-article/",
+        "published": "2026-08-31T20:08:56Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Goldman Sachs Steps Up Warnings on Diesel",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/goldman_sachs_steps_up_warnings_on_diesel-31-aug-2026-184494-article/",
+        "published": "2026-08-31T20:00:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Stage Is Set, The Fuse Is Lit, And 3 Global Conflicts Are On The Brink Of Detonation",
+        "source": "Theeconomiccollapseblog.com",
+        "url": "http://theeconomiccollapseblog.com/the-stage-is-set-the-fuse-is-lit-and-3-global-conflicts-are-on-the-brink-of-detonation/",
+        "published": "2026-08-31T19:13:25Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Is Taiwan The Only Leverage The U.S. Has In Getting China To Toe The Line In Ira",
         "source": "OilPrice.com",
@@ -90,13 +90,6 @@
         "url": "https://cryptobriefing.com/china-deploys-record-number-of-ships-around-taiwan-raising-wall-street-concerns/",
         "published": "2026-08-31T10:58:06Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Trump Has Peaked",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/08/31/trump-peak-iran-war-foreign-policy/",
-        "published": "2026-08-31T10:00:20Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -117,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
