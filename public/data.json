@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T10:31:34.429Z",
+    "generated_at": "2026-09-01T15:13:14.039Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,75 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "Attacks flare between U.S., Iran after month-long pause",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/08/31/g-s1-141175/attacks-flare-us-iran",
-        "published": "2026-08-31T10:04:30Z",
+        "title": "Death toll rises to three from US military strike on Iran’s Larak Island",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-strike-iran-larak-island-death-toll/",
+        "published": "2026-08-31T15:03:55Z",
         "sentiment": "danger"
       },
       {
-        "title": "United Arab Emirates says it has intercepted an Iranian drone over its territorial waters",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/united-arab-emirates-says-it-has-intercepted-an-iranian-drone-over-its-territorial-waters/article71410102.ece",
-        "published": "2026-08-31T10:03:48Z",
+        "title": "Is Taiwan The Only Leverage The U.S. Has In Getting China To Toe The Line In Ira",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Geopolitics/Asia/Is-Taiwan-The-Only-Leverage-The-US-Has-In-Getting-China-To-Toe-The-Line-In-Ira.html",
+        "published": "2026-08-31T15:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "The World Is Telling the Wrong Story About China",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/international/2026/08/china-beijing-communist-xi-favorability/688454/",
-        "published": "2026-08-31T10:00:00Z",
+        "title": "Is Taiwan The Only Leverage The U.S. Has In Getting China To Toe The Line In Ira",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/taiwan-only-leverage-u-getting-150000246.html",
+        "published": "2026-08-31T15:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US strikes Iranian targets near Strait of Hormuz for first time in weeks as tensions reignite",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-military-strikes-strait-hormuz/",
-        "published": "2026-08-31T09:34:26Z",
-        "sentiment": "danger"
+        "title": "Tesla Jumps 4% as Oil Climbs to $86: Is the Gas-Price Trade Back?",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/31/tesla-jumps-4-as-oil-climbs-to-86-is-the-gas-price-trade-back/",
+        "published": "2026-08-31T14:48:38Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Iran’s state media identifies second casualty in US strike on Larak Island",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-larak-island-us-strike-casualties-identified/",
-        "published": "2026-08-31T09:22:49Z",
+        "title": "War and heat: Why are wheat prices soaring?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/31/war-and-heat-why-are-wheat-prices-soaring",
+        "published": "2026-08-31T14:42:40Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
       {
+        "title": "Is Taiwan The Only Leverage The U.S. Has In Getting China To Toe The Line In Ira",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Geopolitics/Asia/Is-Taiwan-The-Only-Leverage-The-US-Has-In-Getting-China-To-Toe-The-Line-In-Ira.html",
+        "published": "2026-08-31T15:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Is Taiwan The Only Leverage The U.S. Has In Getting China To Toe The Line In Ira",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/taiwan-only-leverage-u-getting-150000246.html",
+        "published": "2026-08-31T15:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Taiwan says 'unpredictable' China strengthens air and sea control nearby",
+        "source": "Yahoo Entertainment",
+        "url": "https://uk.news.yahoo.com/taiwan-says-unpredictable-china-strengthens-124919731.html",
+        "published": "2026-08-31T12:49:19Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China deploys record number of ships around Taiwan, raising Wall Street concerns",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/china-deploys-record-number-of-ships-around-taiwan-raising-wall-street-concerns/",
+        "published": "2026-08-31T10:58:06Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump Has Peaked",
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/08/31/trump-peak-iran-war-foreign-policy/",
         "published": "2026-08-31T10:00:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US-Taiwan ties stronger than ever amid China tensions, says top diplomat",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-taiwan-ties-stronger-than-ever-amid-china-tensions-says-top-diplomat/",
-        "published": "2026-08-31T09:23:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Changes Unseen, Strategies Uncharted | Sinification: August 2026",
-        "source": "Sinocism.com",
-        "url": "https://sinocism.com/p/changes-unseen-strategies-uncharted",
-        "published": "2026-08-30T22:23:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why This Small Island Chain Could Be The First Domino In A Taiwan War",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/08/30/taiwan-penghu-islands-us-economy-china",
-        "published": "2026-08-30T21:32:15Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "China cannot yet hold a beach on Taiwan",
-        "source": "Wnd.com",
-        "url": "https://www.wnd.com/2026/08/china-cannot-yet-hold-beach-taiwan/",
-        "published": "2026-08-30T19:16:34Z",
         "sentiment": "watch"
       }
     ],
@@ -117,8 +117,8 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
-    "taiwan": "amber",
+    "hormuz": "amber",
+    "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
