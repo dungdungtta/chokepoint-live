@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T05:43:23.563Z",
+    "generated_at": "2026-09-01T10:31:34.429Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "US, Iran Exchange First Strikes in a Month",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/395558/us-iran-exchange-first-strikes-in-a-month.html",
-        "published": "2026-08-31T05:00:00Z",
+        "title": "Attacks flare between U.S., Iran after month-long pause",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/08/31/g-s1-141175/attacks-flare-us-iran",
+        "published": "2026-08-31T10:04:30Z",
         "sentiment": "danger"
       },
       {
-        "title": "20 stocks, 100% returns: How retail investors tapped a multibagger wave in deeper Indian market",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/20-stocks-100-returns-how-retail-investors-tapped-a-multibagger-wave-in-deeper-indian-market/articleshow/133641555.cms",
-        "published": "2026-08-31T04:27:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Indices drift lower in early trade; breadth positive",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/capital-market-news/indices-drift-lower-in-early-trade-breadth-positive-126083100178_1.html",
-        "published": "2026-08-31T04:21:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Crude oil futures gain after US forces attack Iranian island",
+        "title": "United Arab Emirates says it has intercepted an Iranian drone over its territorial waters",
         "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-gain-after-us-forces-attack-iranian-island/article71409629.ece",
-        "published": "2026-08-31T04:17:20Z",
+        "url": "https://www.thehindubusinessline.com/news/world/united-arab-emirates-says-it-has-intercepted-an-iranian-drone-over-its-territorial-waters/article71410102.ece",
+        "published": "2026-08-31T10:03:48Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The World Is Telling the Wrong Story About China",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/international/2026/08/china-beijing-communist-xi-favorability/688454/",
+        "published": "2026-08-31T10:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US strikes Iranian targets near Strait of Hormuz for first time in weeks as tensions reignite",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-military-strikes-strait-hormuz/",
+        "published": "2026-08-31T09:34:26Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump Says Iran's Kharg Is Being 'Blown To Smithereens,' But Gives No Details",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/trump-kharg-island-blown-smithereens_n_6a94ff0de4b0f75d1947d891",
-        "published": "2026-08-31T04:16:17Z",
-        "sentiment": "watch"
+        "title": "Iran’s state media identifies second casualty in US strike on Larak Island",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-larak-island-us-strike-casualties-identified/",
+        "published": "2026-08-31T09:22:49Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump Has Peaked",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/08/31/trump-peak-iran-war-foreign-policy/",
+        "published": "2026-08-31T10:00:20Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US-Taiwan ties stronger than ever amid China tensions, says top diplomat",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-taiwan-ties-stronger-than-ever-amid-china-tensions-says-top-diplomat/",
+        "published": "2026-08-31T09:23:14Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Changes Unseen, Strategies Uncharted | Sinification: August 2026",
         "source": "Sinocism.com",
@@ -83,23 +97,16 @@
         "url": "https://www.wnd.com/2026/08/china-cannot-yet-hold-beach-taiwan/",
         "published": "2026-08-30T19:16:34Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Military leaders warned Hegseth that a prolonged Iran war risked hollowing out U.S. readiness",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/military-leaders-warned-hegseth-iran-war-readiness/",
-        "published": "2026-08-30T10:06:37Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "After giving up on military force, Trump’s new plan to defeat Iran is…more economic sanctions?",
-        "source": "Mondoweiss",
-        "url": "https://mondoweiss.net/2026/08/after-giving-up-on-military-force-trumps-new-plan-to-defeat-iran-ismore-economic-sanctions/",
-        "published": "2026-08-29T12:30:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
+      {
+        "title": "Global Trade and the United States Navy",
+        "source": "Acoup.blog",
+        "url": "https://acoup.blog/2026/08/28/collections-global-trade-and-united-states-navy/",
+        "published": "2026-08-29T13:55:35Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Ships stuck in the Strait of Hormuz region may be biosecurity risks when they leave. What can we do?",
         "source": "The Conversation Africa",
@@ -110,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
