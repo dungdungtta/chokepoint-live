@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T11:38:53.990Z",
+    "generated_at": "2026-09-02T15:20:14.216Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "‘Hit them hard’: Does Trump have another ‘new’ Iran strategy, can it work?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/1/hit-them-hard-does-trump-have-another-new-iran-strategy-can-it-work",
-        "published": "2026-09-01T11:38:14Z",
+        "title": "Fresh attacks on tankers threaten recovery of Persian Gulf oil exports",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/tanker-attacks-persian-gulf-oil-exports/",
+        "published": "2026-09-01T15:19:50Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Eurozone inflation jumps to 3.3% in August as energy prices surge",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/83d3d1fec785c9ad",
+        "published": "2026-09-01T14:30:29Z",
         "sentiment": "watch"
       },
       {
-        "title": "Kallas says Hormuz diplomacy has produced ‘no results’",
-        "source": "POLITICO.eu",
-        "url": "https://www.politico.eu/article/eu-kaja-kallas-says-hormuz-diplomacy-has-produced-no-results/",
-        "published": "2026-09-01T11:35:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Two Supertankers Hit by Unknown Projectiles in Strait of Hormuz",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Two-Supertankers-Hit-by-Unknown-Projectiles-in-Strait-of-Hormuz.html",
-        "published": "2026-09-01T11:35:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/09/01/g-s1-141357/up-first-newsletter-trump-white-house-ballroom-dan-driscoll-g20-iran-usps-mail-in-voting",
-        "published": "2026-09-01T11:23:46Z",
-        "sentiment": "watch"
+        "title": "Oil up more than 2% as renewed US-Iran strikes stoke supply fears",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/oil-up-more-than-2-as-renewed-us-iran-strikes-stoke-supply-fears/articleshow/133684457.cms",
+        "published": "2026-09-01T14:19:19Z",
+        "sentiment": "danger"
       },
       {
         "title": "Iran urges US to comply with interim deal after Trump threatens further strikes",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-urges-us-comply-interim-111339974.html",
-        "published": "2026-09-01T11:17:24Z",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/war-iran-interim-deal-trump-us-strikes-6355261",
+        "published": "2026-09-01T14:14:00Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Two tankers reportedly struck as oil shipments through Hormuz face risks",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/two-tankers-reportedly-struck-as-oil-shipments-through-hormuz-face-risks-126090101267_1.html",
+        "published": "2026-09-01T14:11:56Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "red",
     "malacca": "yellow",
     "suez": "amber",
