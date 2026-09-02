@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T18:54:56.382Z",
+    "generated_at": "2026-09-02T21:42:54.299Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran: US launches fresh strikes as hostilities flare again",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/iran-us-launches-fresh-strikes-as-hostilities-flare-again/a-78655364",
-        "published": "2026-09-01T18:48:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US strikes Iran for the first time in a month as Trump warns biggest attack 'waiting in the wings'",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/us-strikes-iran-trump-threat-hormuz-7149405-Sep2026/",
-        "published": "2026-09-01T18:44:25Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "BREAKING: US Clobbers Iran With New Round Of Strikes",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4393881/posts",
-        "published": "2026-09-01T18:43:32Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US launches new barrage of strikes on Iran around Strait of Hormuz",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/us-launches-new-barrage-of-strikes-on-iran-around-strait-of-hormuz-126090200003_1.html",
-        "published": "2026-09-01T18:37:05Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Super El Niño could spike food prices by double-digits — and it could take years to return to normal",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/01/us-news/how-super-el-nino-could-spike-food-prices-by-double-digits/",
-        "published": "2026-09-01T18:27:29Z",
+        "title": "Strait of Hormuz to be ‘worthless’ in two years, says US Treasury Secretary",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/strait-of-hormuz-to-be-worthless-in-two-years-says-us-treasury-secretary/",
+        "published": "2026-09-01T21:27:51Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Trump Meets Oil Refiners As Gas Still Over $4 Amid Iran War",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/09/01/trump-oil-refiners-white-house-meeting-gas-prices-iran-war",
+        "published": "2026-09-01T21:12:40Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Tropical Storm Edouard makes landfall near Gulf Coast natural gas hub",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/01/us-news/tropical-storm-edouard-makes-landfall-near-gulf-coast-natural-gas-hub/",
+        "published": "2026-09-01T20:57:57Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "At least four people killed in Iran when a US strike hit a house where a wedding was taking place",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/least-four-people-killed-in-iran-when-us-strike-hit-house-where-wedding-was-taking-place-6355866",
+        "published": "2026-09-01T20:48:41Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "At least four people killed in Iran when a US strike hit a house where a wedding was taking place",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/iran-us-strike-4-killed-house-wedding-6355866",
+        "published": "2026-09-01T20:48:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
