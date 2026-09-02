@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T21:42:54.299Z",
+    "generated_at": "2026-09-02T23:36:07.485Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Clean electricity supplied 40% of new energy demand in 2025. Faster deployment and sectoral breakthroughs can cut emissions permanently, says annual Energy Transition Monitor",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/clean-electricity-supplied-40-of-new-energy-demand-in-2025-faster-deployment-and-sectoral-breakthroughs-can-cut-emissions-permanently-says-annual-energy-transition-monitor-302866742.html",
+        "published": "2026-09-01T23:01:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Russia cannot change Ukraine’s borders after 1,651 days of war — UK",
+        "source": "The Punch",
+        "url": "https://punchng.com/russia-cannot-change-ukraines-borders-after-1651-days-of-war-uk/",
+        "published": "2026-09-01T22:37:53Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Floor And Decor, Williams-Sonoma, Ollie's, and Petco Shares Are Falling, What You Need To Know",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/8a416699c7c97ccb",
+        "published": "2026-09-01T21:52:23Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Strait of Hormuz to be ‘worthless’ in two years, says US Treasury Secretary",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/strait-of-hormuz-to-be-worthless-in-two-years-says-us-treasury-secretary/",
@@ -38,27 +59,6 @@
         "source": "The Daily Caller",
         "url": "https://dailycaller.com/2026/09/01/trump-oil-refiners-white-house-meeting-gas-prices-iran-war",
         "published": "2026-09-01T21:12:40Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Tropical Storm Edouard makes landfall near Gulf Coast natural gas hub",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/01/us-news/tropical-storm-edouard-makes-landfall-near-gulf-coast-natural-gas-hub/",
-        "published": "2026-09-01T20:57:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "At least four people killed in Iran when a US strike hit a house where a wedding was taking place",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/least-four-people-killed-in-iran-when-us-strike-hit-house-where-wedding-was-taking-place-6355866",
-        "published": "2026-09-01T20:48:41Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "At least four people killed in Iran when a US strike hit a house where a wedding was taking place",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/iran-us-strike-4-killed-house-wedding-6355866",
-        "published": "2026-09-01T20:48:00Z",
         "sentiment": "danger"
       }
     ],
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "red",
     "malacca": "yellow",
     "suez": "amber",
