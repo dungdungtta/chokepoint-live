@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T01:26:32.623Z",
+    "generated_at": "2026-09-02T06:21:46.799Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Vance: Iran’s leaders are 'really crazy'",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/432519",
-        "published": "2026-09-01T01:15:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Global Market Today: Asian bonds fall as geopolitical risks lift oil, yields",
+        "title": "The Americas' oil bonanza will outlast the Iran conflict",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-bonds-fall-as-geopolitical-risks-lift-oil-yields/articleshow/133665614.cms",
-        "published": "2026-09-01T01:00:09Z",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/the-americas-oil-bonanza-will-outlast-the-iran-conflict/articleshow/133670635.cms",
+        "published": "2026-09-01T06:19:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil prices rise as latest fighting resurrects Middle East supply disruption risks",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-prices-rise-latest-fighting-resurrects-middle-east-supply-disruption-risks-6353426",
-        "published": "2026-09-01T00:57:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump: Iran a ‘Failed Nation,’ Says U.S. May ‘Smack Them’ Again as He Weighs Limited Hormuz Strikes",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/08/31/trump-iran-failed-nation-weighs-limited-hormuz-strikes/",
-        "published": "2026-09-01T00:46:02Z",
+        "title": "Oil prices climb as US, Iranian attacks stoke fears of escalation",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation",
+        "published": "2026-09-01T06:07:39Z",
         "sentiment": "danger"
       },
       {
-        "title": "Advance Auto Parts Sitewide Sale: 20% off + free shipping w/ $35",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Advance-Auto-Parts-Sitewide-Sale-20-off-free-shipping-w-35/22124691.html",
-        "published": "2026-09-01T00:37:14Z",
+        "title": "Trump vows to hit Iran 'hard' as fighting resumes after month-long lull",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/us-iran-fighting-resumes-after-month-long-lull-226295",
+        "published": "2026-09-01T05:33:00Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "New U.S.-Iran escalation: Strikes in the Strait of Hormuz, Iranian retaliation and Trump’s threats",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/09/01/new-u-s-iran-escalation-strikes-in-the-strait-of-hormuz-iranian-retaliation-and-trumps-threats/",
+        "published": "2026-09-01T05:32:39Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil prices rise on renewed supply disruption risks",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/markets/2026/09/01/oil-prices-rise-on-renewed-supply-disruption-risks/",
+        "published": "2026-09-01T05:30:37Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan isn't saying much about its war plans for a China fight — but its military drills are",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/how-taiwans-drills-reveal-unspoken-blueprint-for-chinese-invasion-2026-9#article",
+        "published": "2026-09-01T05:19:45Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "China opposes Taiwan’s participation in Pacific islands meeting, warns of consequences",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/china-opposes-taiwans-participation-in-pacific-islands-meeting-warns-of/",
+        "published": "2026-09-01T04:57:34Z",
+        "sentiment": "danger"
+      },
       {
         "title": "What the latest U.S.-Iran strikes mean for oil supplies and maritime safety",
         "source": "PBS",
@@ -82,20 +96,6 @@
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Geopolitics/Asia/Is-Taiwan-The-Only-Leverage-The-US-Has-In-Getting-China-To-Toe-The-Line-In-Ira.html",
         "published": "2026-08-31T15:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Is Taiwan The Only Leverage The U.S. Has In Getting China To Toe The Line In Ira",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/taiwan-only-leverage-u-getting-150000246.html",
-        "published": "2026-08-31T15:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan says 'unpredictable' China strengthens air and sea control nearby",
-        "source": "Yahoo Entertainment",
-        "url": "https://uk.news.yahoo.com/taiwan-says-unpredictable-china-strengthens-124919731.html",
-        "published": "2026-08-31T12:49:19Z",
         "sentiment": "watch"
       }
     ],
@@ -118,11 +118,11 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "amber",
+    "taiwan": "red",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "yellow"
+    "korea": "amber"
   },
   "thresholds": {
     "brent_alert": 110,
