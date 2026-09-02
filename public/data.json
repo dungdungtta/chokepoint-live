@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T06:21:46.799Z",
+    "generated_at": "2026-09-02T11:38:53.990Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "The Americas' oil bonanza will outlast the Iran conflict",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/the-americas-oil-bonanza-will-outlast-the-iran-conflict/articleshow/133670635.cms",
-        "published": "2026-09-01T06:19:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil prices climb as US, Iranian attacks stoke fears of escalation",
+        "title": "‘Hit them hard’: Does Trump have another ‘new’ Iran strategy, can it work?",
         "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation",
-        "published": "2026-09-01T06:07:39Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump vows to hit Iran 'hard' as fighting resumes after month-long lull",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/us-iran-fighting-resumes-after-month-long-lull-226295",
-        "published": "2026-09-01T05:33:00Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "New U.S.-Iran escalation: Strikes in the Strait of Hormuz, Iranian retaliation and Trump’s threats",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/09/01/new-u-s-iran-escalation-strikes-in-the-strait-of-hormuz-iranian-retaliation-and-trumps-threats/",
-        "published": "2026-09-01T05:32:39Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices rise on renewed supply disruption risks",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/markets/2026/09/01/oil-prices-rise-on-renewed-supply-disruption-risks/",
-        "published": "2026-09-01T05:30:37Z",
+        "url": "https://www.aljazeera.com/news/2026/9/1/hit-them-hard-does-trump-have-another-new-iran-strategy-can-it-work",
+        "published": "2026-09-01T11:38:14Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Kallas says Hormuz diplomacy has produced ‘no results’",
+        "source": "POLITICO.eu",
+        "url": "https://www.politico.eu/article/eu-kaja-kallas-says-hormuz-diplomacy-has-produced-no-results/",
+        "published": "2026-09-01T11:35:26Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Two Supertankers Hit by Unknown Projectiles in Strait of Hormuz",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Two-Supertankers-Hit-by-Unknown-Projectiles-in-Strait-of-Hormuz.html",
+        "published": "2026-09-01T11:35:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/09/01/g-s1-141357/up-first-newsletter-trump-white-house-ballroom-dan-driscoll-g20-iran-usps-mail-in-voting",
+        "published": "2026-09-01T11:23:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran urges US to comply with interim deal after Trump threatens further strikes",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-urges-us-comply-interim-111339974.html",
+        "published": "2026-09-01T11:17:24Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Links 9/1/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/09/links-9-1-2026.html",
+        "published": "2026-09-01T10:55:29Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan isn't saying much about its war plans for a China fight — but its military drills are",
         "source": "Business Insider",
@@ -89,13 +96,6 @@
         "source": "Theeconomiccollapseblog.com",
         "url": "http://theeconomiccollapseblog.com/the-stage-is-set-the-fuse-is-lit-and-3-global-conflicts-are-on-the-brink-of-detonation/",
         "published": "2026-08-31T19:13:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Is Taiwan The Only Leverage The U.S. Has In Getting China To Toe The Line In Ira",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Geopolitics/Asia/Is-Taiwan-The-Only-Leverage-The-US-Has-In-Getting-China-To-Toe-The-Line-In-Ira.html",
-        "published": "2026-08-31T15:00:00Z",
         "sentiment": "watch"
       }
     ],
