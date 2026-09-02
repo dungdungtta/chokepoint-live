@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T15:20:14.216Z",
+    "generated_at": "2026-09-02T18:54:56.382Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 88.24,
-      "change_pct": -4.8,
-      "date": "2026-08-25",
+      "price": 96.02,
+      "change_pct": 7,
+      "date": "2026-09-01",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Fresh attacks on tankers threaten recovery of Persian Gulf oil exports",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/tanker-attacks-persian-gulf-oil-exports/",
-        "published": "2026-09-01T15:19:50Z",
+        "title": "Iran: US launches fresh strikes as hostilities flare again",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/iran-us-launches-fresh-strikes-as-hostilities-flare-again/a-78655364",
+        "published": "2026-09-01T18:48:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Eurozone inflation jumps to 3.3% in August as energy prices surge",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/83d3d1fec785c9ad",
-        "published": "2026-09-01T14:30:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil up more than 2% as renewed US-Iran strikes stoke supply fears",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/oil-up-more-than-2-as-renewed-us-iran-strikes-stoke-supply-fears/articleshow/133684457.cms",
-        "published": "2026-09-01T14:19:19Z",
+        "title": "US strikes Iran for the first time in a month as Trump warns biggest attack 'waiting in the wings'",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/us-strikes-iran-trump-threat-hormuz-7149405-Sep2026/",
+        "published": "2026-09-01T18:44:25Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran urges US to comply with interim deal after Trump threatens further strikes",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/war-iran-interim-deal-trump-us-strikes-6355261",
-        "published": "2026-09-01T14:14:00Z",
+        "title": "BREAKING: US Clobbers Iran With New Round Of Strikes",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4393881/posts",
+        "published": "2026-09-01T18:43:32Z",
         "sentiment": "danger"
       },
       {
-        "title": "Two tankers reportedly struck as oil shipments through Hormuz face risks",
+        "title": "US launches new barrage of strikes on Iran around Strait of Hormuz",
         "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/two-tankers-reportedly-struck-as-oil-shipments-through-hormuz-face-risks-126090101267_1.html",
-        "published": "2026-09-01T14:11:56Z",
+        "url": "https://www.business-standard.com/world-news/us-launches-new-barrage-of-strikes-on-iran-around-strait-of-hormuz-126090200003_1.html",
+        "published": "2026-09-01T18:37:05Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Super El Niño could spike food prices by double-digits — and it could take years to return to normal",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/01/us-news/how-super-el-nino-could-spike-food-prices-by-double-digits/",
+        "published": "2026-09-01T18:27:29Z",
         "sentiment": "watch"
       }
     ],
