@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T11:39:04.440Z",
+    "generated_at": "2026-09-03T15:13:53.245Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "US and Iran exchange significant attacks amid escalating tensions near Strait of Hormuz",
+        "title": "US airstrikes in southern Iran kill five at wedding, injure dozens as regional tensions escalate",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-attacks-escalating-tensions/",
-        "published": "2026-09-02T11:26:08Z",
+        "url": "https://cryptobriefing.com/us-airstrikes-iran-wedding-casualties/",
+        "published": "2026-09-02T15:05:59Z",
         "sentiment": "danger"
       },
       {
-        "title": "US, Iran trade strikes as fears mount over wider return to hostilities",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/us-iran-trade-strikes-as-fears-mount-over-wider-return-to-hostilities-226375",
-        "published": "2026-09-02T11:25:57Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "ICE says it now has enough body cameras. And, Congress averts shutdown before midterms",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/09/02/g-s1-141513/up-first-newsletter-iran-war-ice-body-cameras-massachusetts-ed-markey-government-shutdown",
-        "published": "2026-09-02T11:08:04Z",
+        "title": "China’s Xi visits Egypt’s el-Sisi: Why it matters",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-visits-egypts-el-sisi-why-it-matters",
+        "published": "2026-09-02T15:00:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "US-Iran war flares up again: How far can Tehran go in retaliation?",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-flares-up-again-how-far-can-tehran-go-in-retaliation/articleshow/133707148.cms",
-        "published": "2026-09-02T10:50:44Z",
+        "title": "Iran fighting drives oil and gas prices higher, raising inflation fears in Europe",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-fighting-oil-gas-prices-europe-inflation/",
+        "published": "2026-09-02T14:44:35Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Ships Adopt Makeshift Anti-Drone Defenses as Black Sea Attacks Intensify",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/09/02/883693.htm",
+        "published": "2026-09-02T14:37:57Z",
         "sentiment": "danger"
       },
       {
-        "title": "Tehran fires on Gulf neighbors after US renews Iran strikes",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/02/world-news/iran-fires-on-gulf-neighbors-after-us-military-strikes-iran-after-a-monthlong-lull/",
-        "published": "2026-09-02T10:49:59Z",
-        "sentiment": "danger"
+        "title": "From a German airport to a Polish drone factory fire, the EU confronts a wave of suspected Russian sabotage",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/09/02/germany-russia-drone-attack-eu-response/",
+        "published": "2026-09-02T14:19:28Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China’s Xi visits Egypt’s el-Sisi: Why it matters",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-visits-egypts-el-sisi-why-it-matters",
+        "published": "2026-09-02T15:00:30Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China’s Ocean, Türkiye’s Confined Seas",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/china-ocean-turkiye-confined-seas/5938769",
+        "published": "2026-09-02T13:39:29Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Xi visits Egypt as China seeks deeper influence across the Middle East",
         "source": "New York Post",
@@ -82,20 +96,6 @@
         "source": "Abcnews.com",
         "url": "https://abcnews.com/International/wireStory/xi-visits-egypt-china-seeks-deeper-influence-mideast-136131092",
         "published": "2026-09-02T02:38:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/xi-visits-egypt-as-china-seeks-deeper-influence-across-the-mideast/articleshow/133695443.cms",
-        "published": "2026-09-02T02:33:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Links 9/1/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/09/links-9-1-2026.html",
-        "published": "2026-09-01T10:55:29Z",
         "sentiment": "watch"
       }
     ],
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
