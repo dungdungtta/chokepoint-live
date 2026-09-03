@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T23:36:07.485Z",
+    "generated_at": "2026-09-03T01:30:01.837Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Clean electricity supplied 40% of new energy demand in 2025. Faster deployment and sectoral breakthroughs can cut emissions permanently, says annual Energy Transition Monitor",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/clean-electricity-supplied-40-of-new-energy-demand-in-2025-faster-deployment-and-sectoral-breakthroughs-can-cut-emissions-permanently-says-annual-energy-transition-monitor-302866742.html",
-        "published": "2026-09-01T23:01:00Z",
+        "title": "Tinubu defends reforms as Atiku faults economic policies",
+        "source": "The Punch",
+        "url": "https://punchng.com/tinubu-defends-reforms-as-atiku-faults-economic-policies/",
+        "published": "2026-09-02T01:09:22Z",
         "sentiment": "watch"
       },
       {
-        "title": "Russia cannot change Ukraine’s borders after 1,651 days of war — UK",
+        "title": "High charges, delays undermine Nigeria’s maritime hub ambition – Alabi",
         "source": "The Punch",
-        "url": "https://punchng.com/russia-cannot-change-ukraines-borders-after-1651-days-of-war-uk/",
-        "published": "2026-09-01T22:37:53Z",
+        "url": "https://punchng.com/high-charges-delays-undermine-nigerias-maritime-hub-ambition-alabi/",
+        "published": "2026-09-02T01:09:22Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil up nearly 1% as US and Iran trade fresh strikes",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-up-nearly-1-us-and-iran-trade-fresh-strikes-6356296",
+        "published": "2026-09-02T00:55:24Z",
         "sentiment": "danger"
       },
       {
-        "title": "Floor And Decor, Williams-Sonoma, Ollie's, and Petco Shares Are Falling, What You Need To Know",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/8a416699c7c97ccb",
-        "published": "2026-09-01T21:52:23Z",
-        "sentiment": "watch"
+        "title": "Iran launches retaliatory strikes as conflict escalates",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/0902/1590024-iran-strikes-back-against-latest-us-attacks/",
+        "published": "2026-09-02T00:44:51Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Strait of Hormuz to be ‘worthless’ in two years, says US Treasury Secretary",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/strait-of-hormuz-to-be-worthless-in-two-years-says-us-treasury-secretary/",
-        "published": "2026-09-01T21:27:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Meets Oil Refiners As Gas Still Over $4 Amid Iran War",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/09/01/trump-oil-refiners-white-house-meeting-gas-prices-iran-war",
-        "published": "2026-09-01T21:12:40Z",
+        "title": "Iran retaliates on gulf bases as US strikes leave 11 dead",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/0902/1590024-middle-east/",
+        "published": "2026-09-02T00:44:51Z",
         "sentiment": "danger"
       }
     ],
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "red",
     "malacca": "yellow",
     "suez": "amber",
