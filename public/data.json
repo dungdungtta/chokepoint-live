@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T06:27:20.974Z",
+    "generated_at": "2026-09-03T11:39:04.440Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Australian Stocks Tumble As Middle East Tensions And Global Bond Selloff Rattle Markets, ASX 200 Sinks 1%",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/australian-shares-plunge-us-strikes-iran-oil-prices-1874869",
-        "published": "2026-09-02T06:20:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. Launches Strikes on Iran as Trump Threatens Further Action",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-09-02-us-launches-strikes-iran-trump-threatens-action.html",
-        "published": "2026-09-02T06:00:00Z",
+        "title": "US and Iran exchange significant attacks amid escalating tensions near Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-attacks-escalating-tensions/",
+        "published": "2026-09-02T11:26:08Z",
         "sentiment": "danger"
       },
       {
-        "title": "Corpus Christi, Long Beach Selected for Small Modular Reactor Integration at U.S. Ports",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-09-02-corpus-christi-long-beach-smr-integration-us-ports.html",
-        "published": "2026-09-02T06:00:00Z",
+        "title": "US, Iran trade strikes as fears mount over wider return to hostilities",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/us-iran-trade-strikes-as-fears-mount-over-wider-return-to-hostilities-226375",
+        "published": "2026-09-02T11:25:57Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "ICE says it now has enough body cameras. And, Congress averts shutdown before midterms",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/09/02/g-s1-141513/up-first-newsletter-iran-war-ice-body-cameras-massachusetts-ed-markey-government-shutdown",
+        "published": "2026-09-02T11:08:04Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil’s Long Goodbye: From Shocks to Transition",
-        "source": "CounterPunch",
-        "url": "https://www.counterpunch.org/2026/09/02/oils-long-goodbye-from-shocks-to-transition/",
-        "published": "2026-09-02T05:58:29Z",
-        "sentiment": "watch"
+        "title": "US-Iran war flares up again: How far can Tehran go in retaliation?",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-flares-up-again-how-far-can-tehran-go-in-retaliation/articleshow/133707148.cms",
+        "published": "2026-09-02T10:50:44Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Crude oil futures rise as US conducts fresh strikes on Iranian targets",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-rise-as-us-conducts-fresh-strikes-on-iranian-targets/article71418065.ece",
-        "published": "2026-09-02T04:19:41Z",
+        "title": "Tehran fires on Gulf neighbors after US renews Iran strikes",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/02/world-news/iran-fires-on-gulf-neighbors-after-us-military-strikes-iran-after-a-monthlong-lull/",
+        "published": "2026-09-02T10:49:59Z",
         "sentiment": "danger"
       }
     ],
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
