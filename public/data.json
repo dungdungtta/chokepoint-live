@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T21:25:20.029Z",
+    "generated_at": "2026-09-03T23:28:51.391Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil: Another 1% rise after US–Iran strikes, brent climbs above $95",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/09/03/oil-another-1-rise-after-us-iran-strikes-brent-climbs-above-95/",
+        "published": "2026-09-02T23:17:19Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "60 targets struck, 18M barrels of oil protected: The US military’s record day in the Strait of Hormuz",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/09/02/politics/latest-us-strikes-against-iran-marked-a-shift-in-strategy",
+        "published": "2026-09-02T22:50:57Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump and Xi are set to meet in DC. Why some China watchers have low expectations",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/02/trump-xi-summit-iran-china-trade-elections.html",
+        "published": "2026-09-02T22:00:01Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran fires on U.S. allies in Gulf after night of American strikes it claims killed four at a wedding",
         "source": "Fortune",
         "url": "https://fortune.com/2026/09/02/iran-war-oil-prices-gulf-strait-hormuz/",
@@ -39,27 +60,6 @@
         "url": "http://wwd.com/shop/shop-beauty/beauty-skin-supplements-deals-iherb-anniversary-sale-buy-1239194994/",
         "published": "2026-09-02T21:03:35Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Bahri Says Two Crew Members Killed in Strait Of Hormuz Incident",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/1d7c90949217b151",
-        "published": "2026-09-02T20:08:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Holds Above $90 as Fighting Flares",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_holds_above_90_as_fighting_flares-02-sep-2026-184524-article/",
-        "published": "2026-09-02T20:07:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Trump Administration says more oil exited the Middle East this week than before the Iran war, but the data says otherwise",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/09/02/trump-more-oil-exited-middle-east-before-war-data-otherwise/",
-        "published": "2026-09-02T20:06:20Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
