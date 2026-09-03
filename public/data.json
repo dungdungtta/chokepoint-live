@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T01:30:01.837Z",
+    "generated_at": "2026-09-03T06:27:20.974Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,75 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "Tinubu defends reforms as Atiku faults economic policies",
-        "source": "The Punch",
-        "url": "https://punchng.com/tinubu-defends-reforms-as-atiku-faults-economic-policies/",
-        "published": "2026-09-02T01:09:22Z",
+        "title": "Australian Stocks Tumble As Middle East Tensions And Global Bond Selloff Rattle Markets, ASX 200 Sinks 1%",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/australian-shares-plunge-us-strikes-iran-oil-prices-1874869",
+        "published": "2026-09-02T06:20:03Z",
         "sentiment": "watch"
       },
       {
-        "title": "High charges, delays undermine Nigeria’s maritime hub ambition – Alabi",
-        "source": "The Punch",
-        "url": "https://punchng.com/high-charges-delays-undermine-nigerias-maritime-hub-ambition-alabi/",
-        "published": "2026-09-02T01:09:22Z",
+        "title": "U.S. Launches Strikes on Iran as Trump Threatens Further Action",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-09-02-us-launches-strikes-iran-trump-threatens-action.html",
+        "published": "2026-09-02T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Corpus Christi, Long Beach Selected for Small Modular Reactor Integration at U.S. Ports",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-09-02-corpus-christi-long-beach-smr-integration-us-ports.html",
+        "published": "2026-09-02T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil up nearly 1% as US and Iran trade fresh strikes",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-up-nearly-1-us-and-iran-trade-fresh-strikes-6356296",
-        "published": "2026-09-02T00:55:24Z",
-        "sentiment": "danger"
+        "title": "Oil’s Long Goodbye: From Shocks to Transition",
+        "source": "CounterPunch",
+        "url": "https://www.counterpunch.org/2026/09/02/oils-long-goodbye-from-shocks-to-transition/",
+        "published": "2026-09-02T05:58:29Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Iran launches retaliatory strikes as conflict escalates",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/0902/1590024-iran-strikes-back-against-latest-us-attacks/",
-        "published": "2026-09-02T00:44:51Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran retaliates on gulf bases as US strikes leave 11 dead",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/0902/1590024-middle-east/",
-        "published": "2026-09-02T00:44:51Z",
+        "title": "Crude oil futures rise as US conducts fresh strikes on Iranian targets",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-rise-as-us-conducts-fresh-strikes-on-iranian-targets/article71418065.ece",
+        "published": "2026-09-02T04:19:41Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
       {
+        "title": "Xi visits Egypt as China seeks deeper influence across the Middle East",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/01/world-news/president-xi-visits-egypt-as-china-seeks-deeper-influence-across-the-middle-east/",
+        "published": "2026-09-02T03:38:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/xi-visits-egypt-china-seeks-deeper-influence-mideast-136131093",
+        "published": "2026-09-02T02:38:15Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/xi-visits-egypt-china-seeks-deeper-influence-mideast-136131092",
+        "published": "2026-09-02T02:38:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/xi-visits-egypt-as-china-seeks-deeper-influence-across-the-mideast/articleshow/133695443.cms",
+        "published": "2026-09-02T02:33:36Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Links 9/1/2026",
         "source": "Nakedcapitalism.com",
         "url": "https://www.nakedcapitalism.com/2026/09/links-9-1-2026.html",
         "published": "2026-09-01T10:55:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan isn't saying much about its war plans for a China fight — but its military drills are",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/how-taiwans-drills-reveal-unspoken-blueprint-for-chinese-invasion-2026-9#article",
-        "published": "2026-09-01T05:19:45Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "China opposes Taiwan’s participation in Pacific islands meeting, warns of consequences",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/china-opposes-taiwans-participation-in-pacific-islands-meeting-warns-of/",
-        "published": "2026-09-01T04:57:34Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "What the latest U.S.-Iran strikes mean for oil supplies and maritime safety",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/show/what-the-latest-u-s-iran-strikes-mean-for-oil-supplies-and-maritime-safety",
-        "published": "2026-08-31T22:52:42Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The Stage Is Set, The Fuse Is Lit, And 3 Global Conflicts Are On The Brink Of Detonation",
-        "source": "Theeconomiccollapseblog.com",
-        "url": "http://theeconomiccollapseblog.com/the-stage-is-set-the-fuse-is-lit-and-3-global-conflicts-are-on-the-brink-of-detonation/",
-        "published": "2026-08-31T19:13:25Z",
         "sentiment": "watch"
       }
     ],
@@ -117,12 +117,12 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
-    "taiwan": "red",
+    "hormuz": "amber",
+    "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "amber"
+    "korea": "yellow"
   },
   "thresholds": {
     "brent_alert": 110,
