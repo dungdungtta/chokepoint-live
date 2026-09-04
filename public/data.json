@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T18:27:19.476Z",
+    "generated_at": "2026-09-04T20:59:19.060Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "CBS News gas and oil price tracker shows how much energy costs are rising",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/c07eba0aa5f4b7ec",
+        "published": "2026-09-03T20:05:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Zelenskyy Says US Envoys To Visit Kyiv, Moscow As Russia Again Strikes Ukraine's Capital",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/zelenskyy-witkoff-kushner-trump-kyiv-russia/33846491.html",
+        "published": "2026-09-03T19:00:36Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Electric Trucks Have Moved From Impossible to Inevitable",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Electric-Trucks-Have-Moved-From-Impossible-to-Inevitable.html",
+        "published": "2026-09-03T19:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China Installing Huge Facility That Turns Plastic Waste Into Jet Fuel",
+        "source": "Futurism",
+        "url": "https://futurism.com/science-energy/china-huge-facility-plastic-waste-jet-fuel-pyrolysis",
+        "published": "2026-09-03T18:41:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Midterm bloodbath looms for the GOP: Democrats storm to an 8-point lead as Trump's Iran war and prices bite",
         "source": "Dailymail.com",
         "url": "https://www.dailymail.com/news/us-politics/article-16096827/Midterm-bloodbath-GOP-Democrats-Iran.html",
         "published": "2026-09-03T18:15:39Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump turns to a dual economic and military approach in latest attempt to squeeze Iran",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/trump-turns-dual-economic-military-approach-latest-attempt-136180326",
-        "published": "2026-09-03T17:30:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump turns to a dual economic and military approach in latest attempt to squeeze Iran",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-turns-dual-economic-military-171747288.html",
-        "published": "2026-09-03T17:17:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Brazil Hands Government Control Over Mining Deals",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Metals/Commodities/Brazil-Hands-Government-Control-Over-Mining-Deals.html",
-        "published": "2026-09-03T17:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ukraine attacks service ship at CPC oil terminal in Black Sea",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/ukraine-attacks-cpc-oil-terminal-black-sea/",
-        "published": "2026-09-03T16:59:05Z",
         "sentiment": "danger"
       }
     ],
