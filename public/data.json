@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T15:08:28.557Z",
+    "generated_at": "2026-09-04T18:27:19.476Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Russia’s Oil Revenue Sinks as Urals Falls to $59",
+        "title": "Midterm bloodbath looms for the GOP: Democrats storm to an 8-point lead as Trump's Iran war and prices bite",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/us-politics/article-16096827/Midterm-bloodbath-GOP-Democrats-Iran.html",
+        "published": "2026-09-03T18:15:39Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump turns to a dual economic and military approach in latest attempt to squeeze Iran",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/trump-turns-dual-economic-military-approach-latest-attempt-136180326",
+        "published": "2026-09-03T17:30:42Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump turns to a dual economic and military approach in latest attempt to squeeze Iran",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-turns-dual-economic-military-171747288.html",
+        "published": "2026-09-03T17:17:47Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Brazil Hands Government Control Over Mining Deals",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Oil-Revenue-Sinks-as-Urals-Falls-to-59.html",
-        "published": "2026-09-03T15:00:00Z",
+        "url": "https://oilprice.com/Metals/Commodities/Brazil-Hands-Government-Control-Over-Mining-Deals.html",
+        "published": "2026-09-03T17:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "China Isn’t Scared of Trump’s Squeeze on Iran",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/03/china-iran-economy-sanctions-trade-trump-bessent/",
-        "published": "2026-09-03T14:58:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Weighs Declaring Iran War Over",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4394081/posts",
-        "published": "2026-09-03T14:40:52Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump Weighs Declaring Iran War Over",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-bloggers/4394081/posts",
-        "published": "2026-09-03T14:40:52Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices rise on escalation in Middle East",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-prices-rise-escalation-in-middle-east-6360811",
-        "published": "2026-09-03T14:08:46Z",
+        "title": "Ukraine attacks service ship at CPC oil terminal in Black Sea",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/ukraine-attacks-cpc-oil-terminal-black-sea/",
+        "published": "2026-09-03T16:59:05Z",
         "sentiment": "danger"
       }
     ],
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
