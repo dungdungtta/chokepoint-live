@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T01:18:47.450Z",
+    "generated_at": "2026-09-04T06:28:36.432Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "120-Count PatchRx Hydrocolloid Pimple Patches w/ Tea Tree Oil $4.19 w/ S&S + Free Shipping w/ Prime or on $35+ (0 replies)",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19963152-120-count-patchrx-hydrocolloid-pimple-patches-w-tea-tree-oil-4-19-w-s-s-free-shipping-w-prime-or-on-35",
-        "published": "2026-09-03T01:09:30Z",
+        "title": "Oil importers are learning to live with a new reality as old routes of business fall apart",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/business/oil-importers-are-learning-to-live-with-a-new-reality-as-old-routes-of-business-fall-apart/articleshow/133727444.cms",
+        "published": "2026-09-03T06:28:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump: Iran Regime ‘Getting Weaker and Weaker by the Day’ — ‘I Don’t Know How Much More They Can Take’",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/09/02/trump-iran-regime-getting-weaker-weaker-bythe-day/",
-        "published": "2026-09-03T01:07:12Z",
+        "title": "Oil importers are learning to live with a new reality as old routes of business fall apart",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/business/oil-importers-are-learning-to-live-with-a-new-reality-as-old-routes-of-business-fall-apart/articleshow/133727612.cms",
+        "published": "2026-09-03T06:28:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil edges down as investors weigh uncertainty over US-Iran strikes",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-edges-down-investors-weigh-uncertainty-over-us-iran-strikes-6359096",
-        "published": "2026-09-03T00:49:30Z",
+        "title": "Iran attacks US targets despite Trump threats",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/iran-attacks-us-targets-despite-trump-threats-226394",
+        "published": "2026-09-03T06:27:06Z",
         "sentiment": "danger"
       },
       {
-        "title": "Apapa Terminal records 6% export growth in H1 2026",
-        "source": "The Punch",
-        "url": "https://punchng.com/apapa-terminal-records-6-export-growth-in-h1-2026/",
-        "published": "2026-09-03T00:38:14Z",
-        "sentiment": "watch"
+        "title": "Iran attacks US targets in Kuwait despite Trump threats",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/0903/1590149-iran-war/",
+        "published": "2026-09-03T05:53:18Z",
+        "sentiment": "danger"
       },
       {
-        "title": "FG gives MDAs November deadline to remove export barriers",
-        "source": "The Punch",
-        "url": "https://punchng.com/fg-gives-mdas-november-deadline-to-remove-export-barriers/",
-        "published": "2026-09-03T00:20:46Z",
-        "sentiment": "watch"
+        "title": "Iran attacks US bases in Kuwait after promising 'a new strategy'",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/iran-attacks-kuwait-bases-7150848-Sep2026/",
+        "published": "2026-09-03T05:48:25Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
