@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T23:28:51.391Z",
+    "generated_at": "2026-09-04T01:18:47.450Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil: Another 1% rise after US–Iran strikes, brent climbs above $95",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/09/03/oil-another-1-rise-after-us-iran-strikes-brent-climbs-above-95/",
-        "published": "2026-09-02T23:17:19Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "60 targets struck, 18M barrels of oil protected: The US military’s record day in the Strait of Hormuz",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/09/02/politics/latest-us-strikes-against-iran-marked-a-shift-in-strategy",
-        "published": "2026-09-02T22:50:57Z",
+        "title": "120-Count PatchRx Hydrocolloid Pimple Patches w/ Tea Tree Oil $4.19 w/ S&S + Free Shipping w/ Prime or on $35+ (0 replies)",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19963152-120-count-patchrx-hydrocolloid-pimple-patches-w-tea-tree-oil-4-19-w-s-s-free-shipping-w-prime-or-on-35",
+        "published": "2026-09-03T01:09:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump and Xi are set to meet in DC. Why some China watchers have low expectations",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/02/trump-xi-summit-iran-china-trade-elections.html",
-        "published": "2026-09-02T22:00:01Z",
+        "title": "Trump: Iran Regime ‘Getting Weaker and Weaker by the Day’ — ‘I Don’t Know How Much More They Can Take’",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/09/02/trump-iran-regime-getting-weaker-weaker-bythe-day/",
+        "published": "2026-09-03T01:07:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran fires on U.S. allies in Gulf after night of American strikes it claims killed four at a wedding",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/09/02/iran-war-oil-prices-gulf-strait-hormuz/",
-        "published": "2026-09-02T21:20:51Z",
+        "title": "Oil edges down as investors weigh uncertainty over US-Iran strikes",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-edges-down-investors-weigh-uncertainty-over-us-iran-strikes-6359096",
+        "published": "2026-09-03T00:49:30Z",
         "sentiment": "danger"
       },
       {
-        "title": "Online Wellness Marketplace iHerb Is Hosting Its Biggest Sale of the Year — Save 30% on Skin-Friendly Supplements From NAD to Collagen",
-        "source": "WWD",
-        "url": "http://wwd.com/shop/shop-beauty/beauty-skin-supplements-deals-iherb-anniversary-sale-buy-1239194994/",
-        "published": "2026-09-02T21:03:35Z",
+        "title": "Apapa Terminal records 6% export growth in H1 2026",
+        "source": "The Punch",
+        "url": "https://punchng.com/apapa-terminal-records-6-export-growth-in-h1-2026/",
+        "published": "2026-09-03T00:38:14Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "FG gives MDAs November deadline to remove export barriers",
+        "source": "The Punch",
+        "url": "https://punchng.com/fg-gives-mdas-november-deadline-to-remove-export-barriers/",
+        "published": "2026-09-03T00:20:46Z",
         "sentiment": "watch"
       }
     ],
