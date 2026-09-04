@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T11:41:22.817Z",
+    "generated_at": "2026-09-04T15:08:28.557Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Should We Be Afraid of Our Food?",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/ideas/2026/09/food-safety-crisis-trump-cyclospora/688495/",
-        "published": "2026-09-03T11:00:00Z",
+        "title": "Russia’s Oil Revenue Sinks as Urals Falls to $59",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Oil-Revenue-Sinks-as-Urals-Falls-to-59.html",
+        "published": "2026-09-03T15:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "BRP PRESENTS ITS SECOND QUARTER RESULTS FOR FISCAL YEAR 2027",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/brp-presents-its-second-quarter-results-for-fiscal-year-2027-804400640.html",
-        "published": "2026-09-03T10:00:00Z",
+        "title": "China Isn’t Scared of Trump’s Squeeze on Iran",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/03/china-iran-economy-sanctions-trade-trump-bessent/",
+        "published": "2026-09-03T14:58:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "BRP PRESENTS ITS SECOND QUARTER RESULTS FOR FISCAL YEAR 2027",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/brp-presents-its-second-quarter-results-for-fiscal-year-2027-302868425.html",
-        "published": "2026-09-03T10:00:00Z",
-        "sentiment": "watch"
+        "title": "Trump Weighs Declaring Iran War Over",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4394081/posts",
+        "published": "2026-09-03T14:40:52Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Makita 20\" Saw Chain for $11 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Makita-20-Saw-Chain-for-11-free-shipping-w-Prime/22139059.html",
-        "published": "2026-09-03T09:50:41Z",
-        "sentiment": "watch"
+        "title": "Trump Weighs Declaring Iran War Over",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-bloggers/4394081/posts",
+        "published": "2026-09-03T14:40:52Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Oil falls as investors weigh uncertainty on war strikes",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/0903/1590181-world-oil-prices/",
-        "published": "2026-09-03T08:52:09Z",
+        "title": "Oil prices rise on escalation in Middle East",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-prices-rise-escalation-in-middle-east-6360811",
+        "published": "2026-09-03T14:08:46Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Malaysia's middle path between China and US faces new tests",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/malaysias-middle-path-between-china-and-us-faces-new-tests/a-78865212",
+        "published": "2026-09-03T12:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
         "source": "NPR",
@@ -90,13 +97,6 @@
         "url": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-visits-egypts-el-sisi-why-it-matters",
         "published": "2026-09-02T15:00:30Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "China’s Ocean, Türkiye’s Confined Seas",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/china-ocean-turkiye-confined-seas/5938769",
-        "published": "2026-09-02T13:39:29Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
