@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T15:59:22.817Z",
+    "generated_at": "2026-09-05T18:11:29.282Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Why the United States Should Recognize Somaliland",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/04/somaliland-somalia-iran-houthis-united-states-israel/",
-        "published": "2026-09-04T15:44:28Z",
+        "title": "“Diesel Is the Blood of the Economy”: U.S. Prices Just Hit an All-Time High of $5.848 a Gallon",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/04/diesel-is-the-blood-of-the-economy-u-s-prices-just-hit-an-all-time-high-of-5-848-a-gallon/",
+        "published": "2026-09-04T17:48:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "China Rare Earth Firms Freeze U.S. Exports Weeks Before Xi-Trump Summit",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Rare-Earth-Firms-Freeze-US-Exports-Weeks-Before-Xi-Trump-Summit.html",
-        "published": "2026-09-04T15:30:00Z",
+        "title": "Bapatla man dies in Vietnam in industrial accident",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/vijayawada/bapatla-man-dies-in-vietnam-in-industrial-accident/articleshow/133772748.cms",
+        "published": "2026-09-04T17:25:46Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran demands Hormuz reopening before US talks, impacting oil markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-demands-hormuz-reopening-before-us-talks-impacting-oil-markets/",
-        "published": "2026-09-04T15:28:53Z",
-        "sentiment": "neutral"
+        "title": "Declare all Dharwad taluks drought-hit, Arvind Bellad urges govt",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/hubballi/declare-all-dharwad-taluks-drought-hit-arvind-bellad-urges-govt/articleshow/133772540.cms",
+        "published": "2026-09-04T17:19:09Z",
+        "sentiment": "watch"
       },
       {
-        "title": "IMO Net-Zero Framework Holds Ground After Latest Round of Climate Talks",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/imo-net-zero-framework-holds-ground-after-latest-round-of-climate-talks/",
-        "published": "2026-09-04T15:02:11Z",
-        "sentiment": "neutral"
+        "title": "Fake Noel Tata WhatsApp account case remains unsolved, Mumbai Police submits closure report",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/mumbai/fake-noel-tata-whatsapp-account-case-remains-unsolved-mumbai-police-submits-closure-report/articleshow/133772532.cms",
+        "published": "2026-09-04T17:18:53Z",
+        "sentiment": "danger"
       },
       {
-        "title": "More than 120 dead in Yemen's worst clashes in years",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/0904/1590368-120-killed-in-yemen/",
-        "published": "2026-09-04T14:53:24Z",
+        "title": "Crackdown on illegal canal taps as farmers allege water theft",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/hubballi/crackdown-on-illegal-canal-taps-as-farmers-allege-water-theft/articleshow/133772519.cms",
+        "published": "2026-09-04T17:18:40Z",
         "sentiment": "watch"
       }
     ],
