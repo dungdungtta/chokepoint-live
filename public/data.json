@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T09:26:11.994Z",
+    "generated_at": "2026-09-05T12:59:55.791Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Transatlantic \"Pink Corridor\" project explores nuclear shipping corridor",
-        "source": "New Atlas",
-        "url": "https://newatlas.com/marine/transatlantic-pink-corridor-project-shipping-corridor/",
-        "published": "2026-09-04T09:03:00Z",
+        "title": "How Much Oil Is Really Getting Through the Strait of Hormuz?",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/How-Much-Oil-Is-Really-Getting-Through-the-Strait-of-Hormuz.html",
+        "published": "2026-09-04T12:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil rallies for the week as US-Iran fighting resumes; diesel hits record high",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-rallies-week-us-iran-fighting-resumes-diesel-hits-record-high-6361856",
-        "published": "2026-09-04T08:36:49Z",
-        "sentiment": "neutral"
+        "title": "WTI Back Above $91 as War Premium Returns",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/WTI-Back-Above-91-as-War-Premium-Returns.html",
+        "published": "2026-09-04T12:30:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Oil prices set for weekly gain as US-Iran hostilities intensify",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-prices-set-weekly-gain-us-iran-hostilities-intensify-6361856",
-        "published": "2026-09-04T08:36:49Z",
+        "title": "The Iran War Has Put Venezuela’s Oil Back in the Spotlight",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Has-Put-Venezuelas-Oil-Back-in-the-Spotlight.html",
+        "published": "2026-09-04T12:30:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "You ate all my rings (crazy priest baptized him, my Alexis), the Thessaloniki Fair tax on board members, the miracle at the Superfund, OTE’s baptism",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/09/04/you-ate-all-my-rings-crazy-priest-baptized-him-my-alexis-the-thessaloniki-fair-tax-on-board-members-the-miracle-at-the-superfund-otes-baptism/",
+        "published": "2026-09-04T11:36:42Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil heads for weekly gain as US-Iran fighting resumes; diesel hits record high",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-heads-weekly-gain-us-iran-fighting-resumes-diesel-hits-record-high-6361856",
-        "published": "2026-09-04T08:36:49Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Oil may top $100 as Hormuz, Russia risks persist: Mirae Asset Sharekhan",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/commodities/oil-may-top-100-as-hormuz-russia-risks-persist-mirae-asset-sharekhan-126090400492_1.html",
-        "published": "2026-09-04T07:35:51Z",
-        "sentiment": "watch"
+        "title": "Iran war: Why US midterms could be a pivotal moment",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment",
+        "published": "2026-09-04T11:12:51Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Chinese general responsible for Taiwan meets US Indo-Pacific commander for first time",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/chinese-general-meets-us-indo-pacific-commander/",
+        "published": "2026-09-04T11:49:24Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Wild Way Out of the Iran War That Still Manages to Be Better Than Any Alternative",
+        "source": "Slate Magazine",
+        "url": "https://slate.com/news-and-politics/2026/09/iran-war-donald-trump-victory-go-home.html",
+        "published": "2026-09-04T09:40:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Inside the Han Kuang — how Taiwan prepares for the world's most consequential war",
         "source": "Business Insider",
@@ -82,20 +96,6 @@
         "source": "NPR",
         "url": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
         "published": "2026-09-03T07:04:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China builds ‘soft power’ with Egypt as Jinping cultivates relationships with Middle East allies",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/09/02/china-soft-power-egypt-visit/",
-        "published": "2026-09-02T20:26:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How Trump Lost Asia",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/podcasts/2026/09/david-frum-show-malcolm-turnbull-australia-pacific-china/688500/",
-        "published": "2026-09-02T17:00:00Z",
         "sentiment": "watch"
       }
     ],
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
