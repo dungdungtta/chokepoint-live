@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T22:59:46.841Z",
+    "generated_at": "2026-09-05T00:52:16.327Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "Nigeria’s energy investment may double in five years — IEA",
+        "source": "The Punch",
+        "url": "https://punchng.com/nigerias-energy-investment-may-double-in-five-years-iea/",
+        "published": "2026-09-04T00:24:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Asian LNG prices hit highest since 2022 amid Iran conflict escalation",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/asian-lng-prices-hit-highest-since-2022-amid-iran-conflict-escalation/",
+        "published": "2026-09-04T00:07:05Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US probes Iran wedding strike that analysis shows was likely direct hit by US munition",
+        "source": "Yahoo Entertainment",
+        "url": "https://uk.news.yahoo.com/us-probes-iran-wedding-strike-235700084.html",
+        "published": "2026-09-04T00:00:40Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "1968 Plymouth Barracuda 318",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1968-plymouth-barracuda-54/",
+        "published": "2026-09-03T23:00:32Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "US investigates missile strike on Iran wedding that killed at least four, says JD Vance",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/us-investigates-iran-wedding-missile-strike/",
         "published": "2026-09-03T22:28:17Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "2006 Ducati SportClassic Sport 1000 Monoposto",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2006-ducati-sportclassic-sport-1000-monoposto-16/",
-        "published": "2026-09-03T22:25:10Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Vance: US won’t talk to Iran until it stops attacking commercial ships",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/432683",
-        "published": "2026-09-03T22:21:14Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "2 Boxes Of Triscuit Cracked Pepper And Olive Oil Whole Grain Wheat Crackers For $5.94-$6.99 From Amazon",
-        "source": "Dansdeals.com",
-        "url": "https://www.dansdeals.com/shopping-deals/amazon/2-boxes-of-triscuit-cracked-pepper-and-olive-oil-whole-grain-wheat-crackers-for-5-94-6-99-from-amazon/",
-        "published": "2026-09-03T21:45:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Vice President JD Vance declines to offer timeline for end of Iran war",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war",
-        "published": "2026-09-03T21:07:56Z",
         "sentiment": "danger"
       }
     ],
