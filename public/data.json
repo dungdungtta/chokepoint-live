@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T12:59:55.791Z",
+    "generated_at": "2026-09-05T15:59:22.817Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "How Much Oil Is Really Getting Through the Strait of Hormuz?",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/How-Much-Oil-Is-Really-Getting-Through-the-Strait-of-Hormuz.html",
-        "published": "2026-09-04T12:30:00Z",
+        "title": "Why the United States Should Recognize Somaliland",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/04/somaliland-somalia-iran-houthis-united-states-israel/",
+        "published": "2026-09-04T15:44:28Z",
         "sentiment": "watch"
       },
       {
-        "title": "WTI Back Above $91 as War Premium Returns",
+        "title": "China Rare Earth Firms Freeze U.S. Exports Weeks Before Xi-Trump Summit",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/WTI-Back-Above-91-as-War-Premium-Returns.html",
-        "published": "2026-09-04T12:30:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The Iran War Has Put Venezuela’s Oil Back in the Spotlight",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Has-Put-Venezuelas-Oil-Back-in-the-Spotlight.html",
-        "published": "2026-09-04T12:30:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "You ate all my rings (crazy priest baptized him, my Alexis), the Thessaloniki Fair tax on board members, the miracle at the Superfund, OTE’s baptism",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/09/04/you-ate-all-my-rings-crazy-priest-baptized-him-my-alexis-the-thessaloniki-fair-tax-on-board-members-the-miracle-at-the-superfund-otes-baptism/",
-        "published": "2026-09-04T11:36:42Z",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Rare-Earth-Firms-Freeze-US-Exports-Weeks-Before-Xi-Trump-Summit.html",
+        "published": "2026-09-04T15:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran war: Why US midterms could be a pivotal moment",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment",
-        "published": "2026-09-04T11:12:51Z",
-        "sentiment": "danger"
+        "title": "Iran demands Hormuz reopening before US talks, impacting oil markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-demands-hormuz-reopening-before-us-talks-impacting-oil-markets/",
+        "published": "2026-09-04T15:28:53Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "IMO Net-Zero Framework Holds Ground After Latest Round of Climate Talks",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/imo-net-zero-framework-holds-ground-after-latest-round-of-climate-talks/",
+        "published": "2026-09-04T15:02:11Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "More than 120 dead in Yemen's worst clashes in years",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/0904/1590368-120-killed-in-yemen/",
+        "published": "2026-09-04T14:53:24Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "U.S.-Iran Escalation Raise Fears of a Wider War",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/us-iran-escalation-raise-fears-wider-war/5939009",
+        "published": "2026-09-04T13:41:51Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Chinese general responsible for Taiwan meets US Indo-Pacific commander for first time",
         "source": "Crypto Briefing",
@@ -90,13 +97,6 @@
         "url": "https://www.dw.com/en/malaysias-middle-path-between-china-and-us-faces-new-tests/a-78865212",
         "published": "2026-09-03T12:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
-        "published": "2026-09-03T07:04:25Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -117,12 +117,12 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
-    "taiwan": "amber",
+    "hormuz": "amber",
+    "taiwan": "red",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "yellow"
+    "korea": "amber"
   },
   "thresholds": {
     "brent_alert": 110,
