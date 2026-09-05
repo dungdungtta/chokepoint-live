@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T05:32:27.989Z",
+    "generated_at": "2026-09-05T09:26:11.994Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Crude oil futures rise as Vance declines to give timeline to end US-Iran conflict",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-rise-as-vance-declines-to-give-timeline-to-end-us-iran-conflict/article71426962.ece",
-        "published": "2026-09-04T04:28:11Z",
+        "title": "Transatlantic \"Pink Corridor\" project explores nuclear shipping corridor",
+        "source": "New Atlas",
+        "url": "https://newatlas.com/marine/transatlantic-pink-corridor-project-shipping-corridor/",
+        "published": "2026-09-04T09:03:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran has opened a new front - America’s Persian Gulf bases are now in the crosshairs",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/432696",
-        "published": "2026-09-04T04:21:44Z",
+        "title": "Oil rallies for the week as US-Iran fighting resumes; diesel hits record high",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-rallies-week-us-iran-fighting-resumes-diesel-hits-record-high-6361856",
+        "published": "2026-09-04T08:36:49Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Oil prices set for weekly gain as US-Iran hostilities intensify",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-prices-set-weekly-gain-us-iran-hostilities-intensify-6361856",
+        "published": "2026-09-04T08:36:49Z",
         "sentiment": "watch"
       },
       {
-        "title": "Greece's pivot to Israel: Spyware, war corridors, and a risky alliance",
-        "source": "Blogspot.com",
-        "url": "https://i-epikaira.blogspot.com/2026/09/greeces-pivot-to-israel-spyware-war.html",
-        "published": "2026-09-04T04:09:00Z",
-        "sentiment": "danger"
+        "title": "Oil heads for weekly gain as US-Iran fighting resumes; diesel hits record high",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-heads-weekly-gain-us-iran-fighting-resumes-diesel-hits-record-high-6361856",
+        "published": "2026-09-04T08:36:49Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "How Much Oil Is Getting Through the Strait of Hormuz?",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4394175/posts",
-        "published": "2026-09-04T04:08:11Z",
+        "title": "Oil may top $100 as Hormuz, Russia risks persist: Mirae Asset Sharekhan",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/commodities/oil-may-top-100-as-hormuz-russia-risks-persist-mirae-asset-sharekhan-126090400492_1.html",
+        "published": "2026-09-04T07:35:51Z",
         "sentiment": "watch"
       }
     ],
