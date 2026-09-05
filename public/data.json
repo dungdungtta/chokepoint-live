@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T20:27:09.214Z",
+    "generated_at": "2026-09-05T22:12:50.997Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Milei Renews Argentina’s Falklands Push",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/04/argentina-falkland-islands-milei-malvinas-oil-drilling-britain-trump/",
+        "published": "2026-09-04T20:53:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Coast Guard Key Bridge Inquiry Finds U.S. Ports Facing Growing Risks from Larger Ships",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/coast-guard-key-bridge-inquiry-finds-u-s-ports-facing-growing-risks-from-larger-ships/",
+        "published": "2026-09-04T20:34:52Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Oil Holds Gains",
         "source": "Rigzone",
         "url": "https://www.rigzone.com/news/wire/oil_holds_gains-04-sep-2026-184547-article/",
@@ -46,23 +60,23 @@
         "url": "https://mondoweiss.net/2026/09/what-the-latest-flare-up-between-the-u-s-and-iran-means/",
         "published": "2026-09-04T19:41:34Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "2017 KTM 1290 Super Duke GT at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2017-ktm-super-duke-gt-3/",
-        "published": "2026-09-04T19:25:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Kill List: The 10 Events That Could Wipe Out Humanity (And Why We May Already Be Too Late)",
-        "source": "Activistpost.com",
-        "url": "https://www.activistpost.com/the-kill-list-the-10-events-that-could-wipe-out-humanity-and-why-we-may-already-be-too-late/",
-        "published": "2026-09-04T19:17:24Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan Defense Spending Breaks Trillion-Dollar Milestone for First Time",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/asia/2026/09/04/taiwan-defense-spending-breaks-trillion-dollar-milestone-for-first-time/",
+        "published": "2026-09-04T21:40:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Milei Renews Argentina’s Falklands Push",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/04/argentina-falkland-islands-milei-malvinas-oil-drilling-britain-trump/",
+        "published": "2026-09-04T20:53:25Z",
+        "sentiment": "watch"
+      },
       {
         "title": "U.S.-Iran Escalation Raise Fears of a Wider War",
         "source": "Globalresearch.ca",
@@ -83,20 +97,6 @@
         "url": "https://slate.com/news-and-politics/2026/09/iran-war-donald-trump-victory-go-home.html",
         "published": "2026-09-04T09:40:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Inside the Han Kuang — how Taiwan prepares for the world's most consequential war",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/inside-han-kuang-taiwan-annual-war-games-2026-9#article",
-        "published": "2026-09-04T05:12:42Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Malaysia's middle path between China and US faces new tests",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/malaysias-middle-path-between-china-and-us-faces-new-tests/a-78865212",
-        "published": "2026-09-03T12:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -118,11 +118,11 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "red",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "amber"
+    "korea": "yellow"
   },
   "thresholds": {
     "brent_alert": 110,
