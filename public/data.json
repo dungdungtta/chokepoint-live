@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T00:52:16.327Z",
+    "generated_at": "2026-09-05T05:32:27.989Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Nigeria’s energy investment may double in five years — IEA",
-        "source": "The Punch",
-        "url": "https://punchng.com/nigerias-energy-investment-may-double-in-five-years-iea/",
-        "published": "2026-09-04T00:24:06Z",
+        "title": "Crude oil futures rise as Vance declines to give timeline to end US-Iran conflict",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-rise-as-vance-declines-to-give-timeline-to-end-us-iran-conflict/article71426962.ece",
+        "published": "2026-09-04T04:28:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "Asian LNG prices hit highest since 2022 amid Iran conflict escalation",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/asian-lng-prices-hit-highest-since-2022-amid-iran-conflict-escalation/",
-        "published": "2026-09-04T00:07:05Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US probes Iran wedding strike that analysis shows was likely direct hit by US munition",
-        "source": "Yahoo Entertainment",
-        "url": "https://uk.news.yahoo.com/us-probes-iran-wedding-strike-235700084.html",
-        "published": "2026-09-04T00:00:40Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "1968 Plymouth Barracuda 318",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1968-plymouth-barracuda-54/",
-        "published": "2026-09-03T23:00:32Z",
+        "title": "Iran has opened a new front - America’s Persian Gulf bases are now in the crosshairs",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/432696",
+        "published": "2026-09-04T04:21:44Z",
         "sentiment": "watch"
       },
       {
-        "title": "US investigates missile strike on Iran wedding that killed at least four, says JD Vance",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-investigates-iran-wedding-missile-strike/",
-        "published": "2026-09-03T22:28:17Z",
+        "title": "Greece's pivot to Israel: Spyware, war corridors, and a risky alliance",
+        "source": "Blogspot.com",
+        "url": "https://i-epikaira.blogspot.com/2026/09/greeces-pivot-to-israel-spyware-war.html",
+        "published": "2026-09-04T04:09:00Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "How Much Oil Is Getting Through the Strait of Hormuz?",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4394175/posts",
+        "published": "2026-09-04T04:08:11Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Inside the Han Kuang — how Taiwan prepares for the world's most consequential war",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/inside-han-kuang-taiwan-annual-war-games-2026-9#article",
+        "published": "2026-09-04T05:12:42Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Malaysia's middle path between China and US faces new tests",
         "source": "DW (English)",
@@ -90,13 +90,6 @@
         "url": "https://www.theatlantic.com/podcasts/2026/09/david-frum-show-malcolm-turnbull-australia-pacific-china/688500/",
         "published": "2026-09-02T17:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "China’s Xi visits Egypt’s el-Sisi: Why it matters",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-visits-egypts-el-sisi-why-it-matters",
-        "published": "2026-09-02T15:00:30Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -117,8 +110,8 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
-    "taiwan": "yellow",
+    "hormuz": "amber",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
