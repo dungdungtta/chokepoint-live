@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T20:43:44.661Z",
+    "generated_at": "2026-09-06T22:26:36.427Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump’s ‘Tanker‑for‑Tanker’ Policy Escalates: U.S. Strikes 3 IRGC Oil Tankers After Iran Targets 2 Warships",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/09/05/trumps-tanker-for-tanker-policy-escalates-u-s-strikes-3-irgc-oil-tankers-after-iran-targets-2-warships/",
+        "published": "2026-09-05T21:23:01Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "U.S. strikes three Iranian oil tankers in renewal of hostilities",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/09/05/nx-s1-5959181/u-s-strikes-three-iranian-oil-tankers-in-renewal-of-hostilities",
+        "published": "2026-09-05T21:01:12Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "IRGC Navy launches missiles at US warships in Strait of Hormuz, US retaliates by striking Iranian oil tankers",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/irgc-missiles-us-vessels-strait-hormuz/",
+        "published": "2026-09-05T20:56:08Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Russia’s Vostok Oil loads first crude for shipment via Northern Sea Route",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/vostok-oil-first-crude-northern-sea-route/",
@@ -39,27 +60,6 @@
         "url": "https://military.com/us-hits-iranian-oil-tankers-and-other-key-mideast-developments",
         "published": "2026-09-05T17:34:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "After hitting oil tankers, Iran targets Navy warships and U.S. retaliates with ‘higher economic cost’ in new escalation that could transform the war",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/us/articles/hitting-oil-tankers-iran-targets-172555229.html",
-        "published": "2026-09-05T17:25:55Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "After hitting oil tankers, Iran targets Navy warships and U.S. retaliates with ‘higher economic cost’ in new escalation that could transform the war",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/09/05/iran-war-navy-warships-us-higher-economic-cost-escalation/",
-        "published": "2026-09-05T17:25:55Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "1969 Chevrolet Camaro Z11 Pace Car Convertible",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1969-chevrolet-camaro-ss-123/",
-        "published": "2026-09-05T17:05:13Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
