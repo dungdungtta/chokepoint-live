@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T08:49:30.851Z",
+    "generated_at": "2026-09-06T12:48:27.436Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Army Tests 257-Foot Autonomous Ship Converted in 9 Days",
-        "source": "Military.com",
-        "url": "https://military.com/army-tests-fully-autonomous-ship-that-was-converted-in-just-9-days",
-        "published": "2026-09-05T07:00:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Can the EU find its energy independence in the Arctic?",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/0905/1590308-arctic-energy-independence/",
-        "published": "2026-09-05T06:00:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Can the EU find its energy independence in the Arctic?",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/analysis-and-comment/2026/0905/1590308-arctic-energy-independence/",
-        "published": "2026-09-05T06:00:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "European Gas Prices Rise to Highest Since 2023 as U.S. Intensifies Strikes on Iran",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-09-05-european-gas-rise-highest-us-intesifies-strikes-iran.html",
-        "published": "2026-09-05T06:00:00Z",
+        "title": "Iran condemns US attacks on oil tankers as violation of international law",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260905-irna03.htm",
+        "published": "2026-09-05T12:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump Calls for Strait of Hormuz to Be Renamed “Trump Strait”",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-09-05-trump-calls-for-strait-of-hormuz-renaming.html",
-        "published": "2026-09-05T06:00:00Z",
+        "title": "US military warns Iranian oil tanker STARK 1 amid strike near Kharg Island",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-military-warns-iranian-tanker-stark-1-kharg-island/",
+        "published": "2026-09-05T11:56:32Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump boasts Iran blockade is ‘unbelievable’ as oil tops $90 and US reserves near danger. Inflation-proof your nest egg",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/trump-boasts-iran-blockade-unbelievable-111500672.html",
+        "published": "2026-09-05T11:15:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Wall Street week ahead: The market focuses on key inflation updates",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/wall-street-week-ahead-market-focuses-key-inflation-136221835",
+        "published": "2026-09-05T10:39:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran accuses the US of targeting a tanker near Kharg Island, and other key Mideast developments",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/world/articles/iran-accuses-us-targeting-tanker-101408517.html",
+        "published": "2026-09-05T10:14:08Z",
         "sentiment": "watch"
       }
     ],
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
