@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T18:20:58.779Z",
+    "generated_at": "2026-09-06T20:43:44.661Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -42,15 +42,15 @@
       },
       {
         "title": "After hitting oil tankers, Iran targets Navy warships and U.S. retaliates with ‘higher economic cost’ in new escalation that could transform the war",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/09/05/iran-war-navy-warships-us-higher-economic-cost-escalation/",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/us/articles/hitting-oil-tankers-iran-targets-172555229.html",
         "published": "2026-09-05T17:25:55Z",
         "sentiment": "danger"
       },
       {
         "title": "After hitting oil tankers, Iran targets Navy warships and U.S. retaliates with ‘higher economic cost’ in new escalation that could transform the war",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/us/articles/hitting-oil-tankers-iran-targets-172555229.html",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/09/05/iran-war-navy-warships-us-higher-economic-cost-escalation/",
         "published": "2026-09-05T17:25:55Z",
         "sentiment": "danger"
       },
