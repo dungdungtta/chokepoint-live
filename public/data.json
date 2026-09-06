@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T23:58:55.543Z",
+    "generated_at": "2026-09-06T04:25:49.682Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Milei Renews Argentina’s Falklands Push",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/04/argentina-falkland-islands-milei-malvinas-oil-drilling-britain-trump/",
-        "published": "2026-09-04T20:53:25Z",
+        "title": "[SnS] $12.82* | 1-Oz CeraVe Skin Renewing Gel Oil Hyaluronic Acid Face Serum at Amazon",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19974045-sns-12-82-1-oz-cerave-skin-renewing-gel-oil-hyaluronic-acid-face-serum-at-amazon",
+        "published": "2026-09-05T04:21:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "Coast Guard Key Bridge Inquiry Finds U.S. Ports Facing Growing Risks from Larger Ships",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/coast-guard-key-bridge-inquiry-finds-u-s-ports-facing-growing-risks-from-larger-ships/",
-        "published": "2026-09-04T20:34:52Z",
+        "title": "The War on Iran: Six Months of Epic Failure",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/09/iran-months-failure.html",
+        "published": "2026-09-05T04:04:36Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Sanctioning a Ghost: Europe’s Empty Gesture Against Iran",
+        "source": "Lewrockwell.com",
+        "url": "https://www.lewrockwell.com/2026/09/no_author/sanctioning-a-ghost-europes-empty-gesture-against-iran/",
+        "published": "2026-09-05T04:01:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Holds Gains",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_holds_gains-04-sep-2026-184547-article/",
-        "published": "2026-09-04T20:06:46Z",
+        "title": "Europe Signs On",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/articles/2026/09/europe-signs-on/",
+        "published": "2026-09-05T04:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "USA Retail Diesel Hits Record",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/usa_retail_diesel_hits_record-04-sep-2026-184542-article/",
-        "published": "2026-09-04T20:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What the latest flare-up between the U.S and Iran means",
-        "source": "Mondoweiss",
-        "url": "https://mondoweiss.net/2026/09/what-the-latest-flare-up-between-the-u-s-and-iran-means/",
-        "published": "2026-09-04T19:41:34Z",
-        "sentiment": "watch"
+        "title": "Oil ends week higher on renewed US-Iran strikes, diesel hits record",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-ends-week-higher-on-renewed-us-iran-strikes-diesel-hits-record/articleshow/133786882.cms",
+        "published": "2026-09-05T03:58:45Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
