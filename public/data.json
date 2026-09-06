@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T12:48:27.436Z",
+    "generated_at": "2026-09-06T16:08:09.734Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran condemns US attacks on oil tankers as violation of international law",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260905-irna03.htm",
-        "published": "2026-09-05T12:00:00Z",
+        "title": "US claims strikes on three Iranian oil tankers after attacks",
+        "source": "The Punch",
+        "url": "https://punchng.com/us-claims-strikes-on-three-iranian-oil-tankers-after-attacks/",
+        "published": "2026-09-05T15:39:14Z",
         "sentiment": "danger"
       },
       {
-        "title": "US military warns Iranian oil tanker STARK 1 amid strike near Kharg Island",
+        "title": "U.S. Destroys Iranian Tanker, Disables Two Others After Missile Attacks on Navy Warships",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/u-s-destroys-iranian-tanker-disables-two-others-after-missile-attacks-on-navy-warships/",
+        "published": "2026-09-05T15:07:21Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "There’s No Crystal Ball for the Economy",
+        "source": "Daily Signal",
+        "url": "https://www.dailysignal.com/2026/09/05/theres-no-crystal-ball-for-the-economy/",
+        "published": "2026-09-05T15:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S. strikes 3 Iranian oil tankers after Iran targets Navy warships, CENTCOM says",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/us-strikes-3-iranian-oil-tankers-iran-targets-rcna596222",
+        "published": "2026-09-05T14:20:40Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US military strikes Iranian oil carriers amid escalating tensions",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-military-warns-iranian-tanker-stark-1-kharg-island/",
-        "published": "2026-09-05T11:56:32Z",
+        "url": "https://cryptobriefing.com/us-military-strikes-iranian-oil-carriers-amid-escalating-tensions/",
+        "published": "2026-09-05T14:02:59Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Trump boasts Iran blockade is ‘unbelievable’ as oil tops $90 and US reserves near danger. Inflation-proof your nest egg",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/trump-boasts-iran-blockade-unbelievable-111500672.html",
-        "published": "2026-09-05T11:15:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Wall Street week ahead: The market focuses on key inflation updates",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/wall-street-week-ahead-market-focuses-key-inflation-136221835",
-        "published": "2026-09-05T10:39:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran accuses the US of targeting a tanker near Kharg Island, and other key Mideast developments",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/world/articles/iran-accuses-us-targeting-tanker-101408517.html",
-        "published": "2026-09-05T10:14:08Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
