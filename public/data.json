@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T10:23:21.605Z",
+    "generated_at": "2026-09-07T16:00:42.716Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran Claims Retaliatory Hit on U.S. Ship in Strait of Hormuz, Warns 'More Painful' Strikes to Come",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/europe/2026/09/06/iran-claims-retaliatory-hit-on-u-s-ship-in-strait-of-hormuz/",
-        "published": "2026-09-06T10:03:38Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran has 30 million barrels of oil left for China, says Treasury Secretary Bessent",
+        "title": "US Navy escorts keeping Hormuz crude flows alive as Iran tensions persist",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-30m-barrels-oil-china-bessent/",
-        "published": "2026-09-06T09:53:07Z",
+        "url": "https://cryptobriefing.com/us-navy-escorts-strait-of-hormuz-crude-flows/",
+        "published": "2026-09-06T15:41:28Z",
         "sentiment": "watch"
       },
       {
-        "title": "US strikes three Iranian oil tankers as US-Iran maritime conflict escalates",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-targets-oil-tankers-strait-of-hormuz/",
-        "published": "2026-09-06T09:29:18Z",
-        "sentiment": "danger"
+        "title": "4.2-Oz Clinique Dramatically Different Hydrating Jelly Oil-Free Face Moisturizer w/ Hyaluronic Acid $16.15 w/ S&S + Free Shipping w/ Prime or on $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19978599-4-2-oz-clinique-dramatically-different-hydrating-jelly-oil-free-face-moisturizer-w-hyaluronic-acid-16-15-w-s-s-free-shipping-w-prime-or-on-35",
+        "published": "2026-09-06T15:23:19Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Iran retaliates after US strikes oil tankers",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/09/iran-retaliates-after-us-strikes-oil-tankers/",
-        "published": "2026-09-06T08:13:13Z",
-        "sentiment": "danger"
+        "title": "4.2-Oz Clinique Dramatically Different Moisturizing Gel Oil-Free Face Moisturizer $16.15 w/ S&S + Free Shipping w/ Prime or on $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19978590-4-2-oz-clinique-dramatically-different-moisturizing-gel-oil-free-face-moisturizer-16-15-w-s-s-free-shipping-w-prime-or-on-35",
+        "published": "2026-09-06T15:21:30Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Iran retaliates after US strikes oil tankers",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/us/2026/0906/1590473-iran-united-states/",
-        "published": "2026-09-06T07:04:22Z",
-        "sentiment": "danger"
+        "title": "Upcoming inflation data could determine if the Federal Reserve hikes interest rates soon, leaving Wall Street on edge",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/09/06/fed-rate-hikes-inflation-data-ppi-cpi-august-tariffs-oil-prices/",
+        "published": "2026-09-06T15:03:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "\"Strait of Hormuz is effectively blocked\": Foreign expert Robinder Sachdev on US-Iran \"tit-for-tat\" phase",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/strait-of-hormuz-is-effectively-blocked-foreign-expert-robinder-sachdev-on-us-iran-tit-for-tat-phase/articleshow/133839328.cms",
+        "published": "2026-09-06T13:45:12Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
