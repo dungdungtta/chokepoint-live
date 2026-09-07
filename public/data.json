@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T05:07:15.535Z",
+    "generated_at": "2026-09-07T10:23:21.605Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Labour tax raids make US gas cheaper than North Sea supplies",
-        "source": "Wattsupwiththat.com",
-        "url": "https://wattsupwiththat.com/2026/09/05/labour-tax-raids-make-us-gas-cheaper-than-north-sea-supplies/",
-        "published": "2026-09-06T05:00:00Z",
+        "title": "Iran Claims Retaliatory Hit on U.S. Ship in Strait of Hormuz, Warns 'More Painful' Strikes to Come",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/europe/2026/09/06/iran-claims-retaliatory-hit-on-u-s-ship-in-strait-of-hormuz/",
+        "published": "2026-09-06T10:03:38Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran has 30 million barrels of oil left for China, says Treasury Secretary Bessent",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-30m-barrels-oil-china-bessent/",
+        "published": "2026-09-06T09:53:07Z",
         "sentiment": "watch"
       },
       {
-        "title": "India emerges as key diesel supplier to Europe as Russian, US flows falter",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-emerges-as-key-diesel-supplier-to-europe-as-russian-us-flows-falter/articleshow/133826348.cms",
-        "published": "2026-09-06T04:59:25Z",
-        "sentiment": "watch"
+        "title": "US strikes three Iranian oil tankers as US-Iran maritime conflict escalates",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-targets-oil-tankers-strait-of-hormuz/",
+        "published": "2026-09-06T09:29:18Z",
+        "sentiment": "danger"
       },
       {
-        "title": "India emerges as key diesel supplier to Europe as Russian, US flows falter",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-emerges-as-key-diesel-supplier-to-europe-as-russian-us-flows-falter/articleshow/133826466.cms",
-        "published": "2026-09-06T04:59:25Z",
-        "sentiment": "watch"
+        "title": "Iran retaliates after US strikes oil tankers",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/09/iran-retaliates-after-us-strikes-oil-tankers/",
+        "published": "2026-09-06T08:13:13Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Crude oil rally nears $100: Will geopolitical risks push prices higher?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-rally-nears-100-will-geopolitical-risks-push-prices-higher/articleshow/133826020.cms",
-        "published": "2026-09-06T04:39:45Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "In War Crime, Trump sinks Civilian Iranian Tanker, disables 2 Others",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/09/civilian-iranian-disables.html",
-        "published": "2026-09-06T04:15:45Z",
+        "title": "Iran retaliates after US strikes oil tankers",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/us/2026/0906/1590473-iran-united-states/",
+        "published": "2026-09-06T07:04:22Z",
         "sentiment": "danger"
       }
     ],
@@ -90,13 +90,6 @@
         "url": "https://cryptobriefing.com/chinese-general-meets-us-indo-pacific-commander/",
         "published": "2026-09-04T11:49:24Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "The Wild Way Out of the Iran War That Still Manages to Be Better Than Any Alternative",
-        "source": "Slate Magazine",
-        "url": "https://slate.com/news-and-politics/2026/09/iran-war-donald-trump-victory-go-home.html",
-        "published": "2026-09-04T09:40:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -117,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
