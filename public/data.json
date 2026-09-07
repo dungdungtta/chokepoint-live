@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T00:16:42.561Z",
+    "generated_at": "2026-09-07T05:07:15.535Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Hormuz crisis: Africa must control trade routes, says Prateek Suri",
-        "source": "The Punch",
-        "url": "https://punchng.com/hormuz-crisis-africa-must-control-trade-routes-says-prateek-suri/",
-        "published": "2026-09-06T00:00:50Z",
+        "title": "Labour tax raids make US gas cheaper than North Sea supplies",
+        "source": "Wattsupwiththat.com",
+        "url": "https://wattsupwiththat.com/2026/09/05/labour-tax-raids-make-us-gas-cheaper-than-north-sea-supplies/",
+        "published": "2026-09-06T05:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "[NEW] $11.99 | Ingersoll Rand 10P Edge Series Premium Air Tool Oil at Amazon",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19976358-new-11-99-ingersoll-rand-10p-edge-series-premium-air-tool-oil-at-amazon",
-        "published": "2026-09-05T23:01:59Z",
+        "title": "India emerges as key diesel supplier to Europe as Russian, US flows falter",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-emerges-as-key-diesel-supplier-to-europe-as-russian-us-flows-falter/articleshow/133826348.cms",
+        "published": "2026-09-06T04:59:25Z",
         "sentiment": "watch"
       },
       {
-        "title": "US strikes three Iranian crude oil tankers (VIDEO)",
-        "source": "RT",
-        "url": "https://www.rt.com/news/645171-us-iran-tanker-strikes/",
-        "published": "2026-09-05T22:57:37Z",
+        "title": "India emerges as key diesel supplier to Europe as Russian, US flows falter",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-emerges-as-key-diesel-supplier-to-europe-as-russian-us-flows-falter/articleshow/133826466.cms",
+        "published": "2026-09-06T04:59:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Crude oil rally nears $100: Will geopolitical risks push prices higher?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-rally-nears-100-will-geopolitical-risks-push-prices-higher/articleshow/133826020.cms",
+        "published": "2026-09-06T04:39:45Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "In War Crime, Trump sinks Civilian Iranian Tanker, disables 2 Others",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/09/civilian-iranian-disables.html",
+        "published": "2026-09-06T04:15:45Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Middle East tensions, Panama Canal limits can further tighten global shipping",
-        "source": "Digitimes",
-        "url": "https://www.digitimes.com/news/a20260904PD223/shipping-capacity-military-demand-market.html?chid=10",
-        "published": "2026-09-05T22:47:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US gasoline prices hit record $4.03 per gallon for Labor Day weekend amid Iran tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-gasoline-prices-record-labor-day-iran/",
-        "published": "2026-09-05T22:37:44Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
