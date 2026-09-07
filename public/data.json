@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T19:59:31.291Z",
+    "generated_at": "2026-09-07T22:46:15.453Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran threatens greater force if US launches more attacks",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/09/iran-threatens-greater-force-if-us-launches-more-attacks/",
+        "published": "2026-09-06T21:43:55Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran to establish restricted zone near Strait of Hormuz amid US tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-to-establish-restricted-zone-near-strait-of-hormuz-amid-us-tensions/",
+        "published": "2026-09-06T20:18:37Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Map exposes 10 worst zip codes in America: From Arizona desert cities to Texas towns... and a part of New York with shocking water problems",
         "source": "Dailymail.com",
         "url": "https://www.dailymail.com/real-estate/article-16099233/worst-zip-codes-america.html",
@@ -46,20 +60,6 @@
         "url": "https://cryptobriefing.com/us-forces-disable-three-iranian-tankers-irgc-attack/",
         "published": "2026-09-06T18:43:13Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Even Supreme Leader Mojtaba Khamenei is worried about Iran’s economy and ‘social cohesion’ as U.S. pressure gets tougher to withstand",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/09/06/supreme-leader-mojtaba-khamenei-iran-economy-social-cohesion-us-pressure-inflation-gas-shortage-rial-currency/",
-        "published": "2026-09-06T17:37:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Even Supreme Leader Mojtaba Khamenei is worried about Iran’s economy and ‘social cohesion’ as U.S. pressure gets tougher to withstand",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/us/articles/even-supreme-leader-mojtaba-khamenei-173743296.html",
-        "published": "2026-09-06T17:37:43Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
