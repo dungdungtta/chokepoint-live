@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T11:09:35.592Z",
+    "generated_at": "2026-09-08T15:09:02.538Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Rosneft begins oil shipments from Vostok Oil project in Arctic",
-        "source": "Offshore Technology",
-        "url": "https://www.offshore-technology.com/news/rosneft-begins-oil-shipments-vostok-oil-arctic/",
-        "published": "2026-09-07T11:05:46Z",
+        "title": "IT stocks buckle under crude oil surge and geopolitical tensions",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/it-stocks-buckle-under-crude-oil-surge-and-geopolitical-tensions-126090701313_1.html",
+        "published": "2026-09-07T15:06:33Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudi Aramco facility hit in new strikes amid regional tensions",
+        "title": "Commodity trading houses report soaring profits amid Iran war",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/saudi-aramco-jazan-refinery-houthi-strikes/",
-        "published": "2026-09-07T11:04:43Z",
+        "url": "https://cryptobriefing.com/commodity-trading-houses-profits-iran-war/",
+        "published": "2026-09-07T14:05:25Z",
         "sentiment": "danger"
       },
       {
-        "title": "India’s Crude Oil Benchmark Tops $100 as Middle East War Escalates",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/india-crude-oil-benchmark-tops-110000096.html",
-        "published": "2026-09-07T11:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "India’s Crude Oil Benchmark Tops $100 as Middle East War Escalates",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Oil-Benchmark-Tops-100-as-Middle-East-War-Escalates.html",
-        "published": "2026-09-07T11:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Goldman Sachs Warns Oil Could Hit $120 as Shipping Risks Rise",
+        "title": "Goldman Sachs Flags $120 Oil Risk As Middle East Attacks Intensify",
         "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/a1040c1f1ca069fb",
-        "published": "2026-09-07T10:45:21Z",
+        "url": "https://biztoc.com/x/6248a9a66ea53b99",
+        "published": "2026-09-07T13:45:15Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Five-year fuel contract with Mauritius: IndianOil turns 25-year presence into strategic foothold",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/five-year-fuel-contract-with-mauritius-indianoil-turns-25-year-presence-into-strategic-foothold/articleshow/133880391.cms",
+        "published": "2026-09-07T13:42:28Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -110,7 +103,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
