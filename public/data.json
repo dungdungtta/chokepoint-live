@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T22:46:15.453Z",
+    "generated_at": "2026-09-08T01:05:16.046Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran threatens greater force if US launches more attacks",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/09/iran-threatens-greater-force-if-us-launches-more-attacks/",
-        "published": "2026-09-06T21:43:55Z",
+        "title": "Analysis-Ship fuel shortage looms as refiners strained by war favour other products",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/news/analysis-ship-fuel-shortage-looms-010200350.html",
+        "published": "2026-09-07T01:02:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran to establish restricted zone near Strait of Hormuz amid US tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-to-establish-restricted-zone-near-strait-of-hormuz-amid-us-tensions/",
-        "published": "2026-09-06T20:18:37Z",
+        "title": "Global Shipping Carbon Tax Negotiations Stall thanks to President Trump",
+        "source": "Wattsupwiththat.com",
+        "url": "https://wattsupwiththat.com/2026/09/06/global-shipping-carbon-taxes-negotiations-stall-thanks-to-president-trump/",
+        "published": "2026-09-07T01:00:00Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Bessent: U.S. Waging ‘Greatest Economic Isolation Operation in History’ Against Iran — ‘Strangling’ Economy to Force Change",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/09/06/bessent-u-s-waging-greatest-economic-isolation-operation-iran/",
+        "published": "2026-09-07T00:23:57Z",
         "sentiment": "watch"
       },
       {
-        "title": "Map exposes 10 worst zip codes in America: From Arizona desert cities to Texas towns... and a part of New York with shocking water problems",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/real-estate/article-16099233/worst-zip-codes-america.html",
-        "published": "2026-09-06T19:32:38Z",
+        "title": "Oil extends gains after US and Iran strike ships",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/oil-extends-gains-us-iran-001532615.html",
+        "published": "2026-09-07T00:15:32Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Scientists Discover the Missing Piece of the Brain’s Drainage System",
+        "source": "Mercola.com",
+        "url": "https://articles.mercola.com/sites/articles/archive/2026/09/07/brain-waste-clearance-arachnoid-fenestrations.aspx",
+        "published": "2026-09-07T00:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran to declare restricted zone outside Strait of Hormuz, threatening sanctions on non-compliant vessels",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-restricted-zone-strait-of-hormuz/",
-        "published": "2026-09-06T18:59:38Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US forces disable three Iranian-linked tankers after IRGC missile attacks on Navy warships",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-forces-disable-three-iranian-tankers-irgc-attack/",
-        "published": "2026-09-06T18:43:13Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "China Mounts Fresh Campaign To Encircle Taiwan With Patrols",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/china-mounts-fresh-campaign-to-encircle-taiwan-with-patrols/",
+        "published": "2026-09-06T23:58:03Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China shifts maritime pressure east of Taiwan, intensifying Pacific coast operations",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/china-shifts-maritime-pressure-east-of-taiwan-intensifying-pacific-coast/",
+        "published": "2026-09-06T23:22:58Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan Defense Spending Breaks Trillion-Dollar Milestone for First Time",
         "source": "Breitbart News",
@@ -75,20 +89,6 @@
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/09/04/argentina-falkland-islands-milei-malvinas-oil-drilling-britain-trump/",
         "published": "2026-09-04T20:53:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S.-Iran Escalation Raise Fears of a Wider War",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/us-iran-escalation-raise-fears-wider-war/5939009",
-        "published": "2026-09-04T13:41:51Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Chinese general responsible for Taiwan meets US Indo-Pacific commander for first time",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/chinese-general-meets-us-indo-pacific-commander/",
-        "published": "2026-09-04T11:49:24Z",
         "sentiment": "watch"
       }
     ],
@@ -110,8 +110,8 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
-    "taiwan": "amber",
+    "hormuz": "amber",
+    "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
