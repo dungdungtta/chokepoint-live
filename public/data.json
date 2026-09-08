@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T15:09:02.538Z",
+    "generated_at": "2026-09-08T18:43:25.455Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "IT stocks buckle under crude oil surge and geopolitical tensions",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/it-stocks-buckle-under-crude-oil-surge-and-geopolitical-tensions-126090701313_1.html",
-        "published": "2026-09-07T15:06:33Z",
+        "title": "1969 Chevrolet Camaro COPO L72 427/425 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1969-chevrolet-camaro-621/",
+        "published": "2026-09-07T17:45:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "Commodity trading houses report soaring profits amid Iran war",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/commodity-trading-houses-profits-iran-war/",
-        "published": "2026-09-07T14:05:25Z",
-        "sentiment": "danger"
+        "title": "US Navy SEALS spent four months demaining the Strait of Hormuz in dangerous, nighttime mission",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/07/world-news/us-navy-seals-spent-four-months-demaining-the-strait-of-hormuz-in-dangerous-nighttime-mission/",
+        "published": "2026-09-07T17:33:55Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Goldman Sachs Flags $120 Oil Risk As Middle East Attacks Intensify",
+        "title": "US claims Hormuz is fully open, under its control",
         "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/6248a9a66ea53b99",
-        "published": "2026-09-07T13:45:15Z",
+        "url": "https://biztoc.com/x/bb901cf2b0ff5ac0",
+        "published": "2026-09-07T17:30:27Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump’s blockade pushes Iran toward military escalation",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/09/07/middleeast/trump-blockade-iran-military-escalation-intl-latam",
+        "published": "2026-09-07T17:19:23Z",
         "sentiment": "danger"
       },
       {
-        "title": "Five-year fuel contract with Mauritius: IndianOil turns 25-year presence into strategic foothold",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/five-year-fuel-contract-with-mauritius-indianoil-turns-25-year-presence-into-strategic-foothold/articleshow/133880391.cms",
-        "published": "2026-09-07T13:42:28Z",
-        "sentiment": "watch"
+        "title": "Iran warns US energy assets in Gulf are vulnerable after latest clashes",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/iran-warns-us-energy-assets-in-gulf-are-vulnerable-after-latest-clashes-126090701495_1.html",
+        "published": "2026-09-07T16:59:48Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -91,13 +98,6 @@
         "source": "Acoup.blog",
         "url": "https://acoup.blog/2026/08/28/collections-global-trade-and-united-states-navy/",
         "published": "2026-08-29T13:55:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ships stuck in the Strait of Hormuz region may be biosecurity risks when they leave. What can we do?",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/ships-stuck-in-the-strait-of-hormuz-region-may-be-biosecurity-risks-when-they-leave-what-can-we-do-288551",
-        "published": "2026-08-07T02:30:06Z",
         "sentiment": "watch"
       }
     ]
