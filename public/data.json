@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T05:59:57.938Z",
+    "generated_at": "2026-09-08T11:09:35.592Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Shipping Fuel Shortage Looms as Refiners Prioritize Diesel",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Shipping-Fuel-Shortage-Looms-as-Refiners-Prioritize-Diesel.html",
-        "published": "2026-09-07T05:50:00Z",
+        "title": "Rosneft begins oil shipments from Vostok Oil project in Arctic",
+        "source": "Offshore Technology",
+        "url": "https://www.offshore-technology.com/news/rosneft-begins-oil-shipments-vostok-oil-arctic/",
+        "published": "2026-09-07T11:05:46Z",
         "sentiment": "watch"
       },
       {
-        "title": "Shipping Fuel Shortage Looms as Refiners Prioritize Diesel",
+        "title": "Saudi Aramco facility hit in new strikes amid regional tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/saudi-aramco-jazan-refinery-houthi-strikes/",
+        "published": "2026-09-07T11:04:43Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "India’s Crude Oil Benchmark Tops $100 as Middle East War Escalates",
         "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/shipping-fuel-shortage-looms-refiners-055000909.html",
-        "published": "2026-09-07T05:50:00Z",
-        "sentiment": "watch"
+        "url": "https://finance.yahoo.com/energy/articles/india-crude-oil-benchmark-tops-110000096.html",
+        "published": "2026-09-07T11:00:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "[SnS, AC] $1.58 | 5-Oz Bumble Bee Prime Yellowfin Tuna in Extra Virgin Olive Oil (Balsamic & Herb) at Amazon",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19980696-sns-ac-1-58-5-oz-bumble-bee-prime-yellowfin-tuna-in-extra-virgin-olive-oil-balsamic-herb-at-amazon",
-        "published": "2026-09-07T05:43:37Z",
-        "sentiment": "watch"
+        "title": "India’s Crude Oil Benchmark Tops $100 as Middle East War Escalates",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Oil-Benchmark-Tops-100-as-Middle-East-War-Escalates.html",
+        "published": "2026-09-07T11:00:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Iran says Hormuz corridor deal with Oman due within days",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/iran-says-hormuz-corridor-deal-with-oman-due-within-days-226541",
-        "published": "2026-09-07T05:08:07Z",
-        "sentiment": "watch"
+        "title": "Goldman Sachs Warns Oil Could Hit $120 as Shipping Risks Rise",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/a1040c1f1ca069fb",
+        "published": "2026-09-07T10:45:21Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "China Expands Patrols of Taiwan’s Pacific Coast, Raising Maritime Tensions",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/china-expands-patrols-of-taiwans-pacific-coast-raising-maritime-tensions/",
+        "published": "2026-09-07T09:44:26Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China Mounts Fresh Campaign To Encircle Taiwan With Patrols",
         "source": "gcaptain.com",
@@ -75,13 +89,6 @@
         "source": "Breitbart News",
         "url": "https://www.breitbart.com/asia/2026/09/04/taiwan-defense-spending-breaks-trillion-dollar-milestone-for-first-time/",
         "published": "2026-09-04T21:40:46Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Milei Renews Argentina’s Falklands Push",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/04/argentina-falkland-islands-milei-malvinas-oil-drilling-britain-trump/",
-        "published": "2026-09-04T20:53:25Z",
         "sentiment": "watch"
       }
     ],
@@ -103,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
