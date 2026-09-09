@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-09T16:31:55.177Z",
+    "generated_at": "2026-09-09T19:30:46.741Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran-backed attacks threaten a second major oil chokepoint as new risk emerges for US consumers",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/iran-backed-attacks-threaten-second-major-oil-chokepoint-new-risk-emerges-us-consumers",
-        "published": "2026-09-08T16:27:43Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Suez Canal Revival Gathers Pace as Hormuz Crisis Reroutes Ships",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/suez-canal-revival-gathers-pace-as-hormuz-crisis-reroutes-ships/",
-        "published": "2026-09-08T16:10:46Z",
+        "title": "A shipping container falling off a cargo ship in 1992 spilled 28,000 rubber ducks and other bath toys into the Pacific, and oceanographers spent the next 20 years tracking where they washed ashore to map the world’s ocean currents.",
+        "source": "Space Daily",
+        "url": "https://spacedaily.com/k-a-shipping-container-falling-off-a-cargo-ship-in-1992-spilled-28000-rubber-ducks-and-other-bath-toys-into-the-pacific-and-oceanographers-spent-the-next-20-years-tracking-where-they-washed-ashore-to/",
+        "published": "2026-09-08T19:28:04Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Tanker Company Says It’s Owed $55 Million in Rate Dispute",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/oil-tanker-company-says-its-owed-55-million-in-rate-dispute/",
-        "published": "2026-09-08T16:07:06Z",
+        "title": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/377705/bitcoin-holds-wall-street-stalls-oil-shock-fed-hike",
+        "published": "2026-09-08T18:59:35Z",
         "sentiment": "watch"
       },
       {
-        "title": "MSC Shipmanagement Fined $1.75 Million Over Illegal Oily Waste Discharges",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/msc-shipmanagement-fined-1-75-million-over-illegal-oily-waste-discharges/",
-        "published": "2026-09-08T16:04:59Z",
+        "title": "China and Qatar are strengthening bilateral ties: What that really means",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/9/8/china-and-qatar-are-strengthening-bilateral-ties-what-that-really-means",
+        "published": "2026-09-08T18:44:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "Goldman Sachs Warns Oil Could Top $120 Amid Persian Gulf Escalation",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/fdf304f8d3e9aa6b",
-        "published": "2026-09-08T16:04:56Z",
-        "sentiment": "danger"
+        "title": "La Tourangelle 8.45-oz. Basil Oil for $5.48 via Sub & Save + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/La-Tourangelle-8-45-oz-Basil-Oil-for-5-48-via-Sub-Save-free-shipping-w-Prime/22159006.html",
+        "published": "2026-09-08T18:27:19Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "OPEC crude oil production falls 900,000 barrels per day in August as Saudi Arabia curbs output",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/opec-crude-oil-production-falls-august/",
+        "published": "2026-09-08T17:58:27Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
