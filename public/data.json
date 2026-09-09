@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-09T01:35:18.278Z",
+    "generated_at": "2026-09-09T06:44:50.823Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil extends gains as renewed Mideast hostilities raise worries of prolonged conflict",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
-        "published": "2026-09-08T01:32:32Z",
+        "title": "NZ sharemarket falls over 1% as oil prices rise again – Market close",
+        "source": "New Zealand Herald",
+        "url": "https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-falls-over-1-as-oil-prices-rise-again-market-close/premium/CMOGWSO7PZEIHNU4BMYADBM5GQ/",
+        "published": "2026-09-08T06:34:38Z",
         "sentiment": "watch"
       },
       {
-        "title": "US redirects 94 vessels as Iran warns of maritime exclusion zone in Gulf",
+        "title": "Saudi Oil Exports Hit Nine-Year Low, Report Says",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-09-08-saudi-oil-exports-hit-nine-year-low.html",
+        "published": "2026-09-08T06:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "An Iranian port city feels the pain of Washington's tightening economic measures",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/iranian-port-city-feels-pain-washingtons-tightening-economic-136264247",
+        "published": "2026-09-08T05:54:26Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran to announce new restricted zone in Gulf in the coming days",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/us-redirects-94-vessels-as-iran-warns-of-maritime-exclusion-zone-in-gulf/articleshow/133902623.cms",
-        "published": "2026-09-08T01:18:42Z",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-to-announce-new-restricted-zone-in-gulf-in-the-coming-days/articleshow/133909279.cms",
+        "published": "2026-09-08T05:43:49Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Prices Climb Toward $100 as Middle East Peace Hopes Fade",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-Toward-100-as-Middle-East-Peace-Hopes-Fade.html",
+        "published": "2026-09-08T05:30:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Delayed climate, clean air action costs $1.5tn yearly – UN",
-        "source": "The Punch",
-        "url": "https://punchng.com/delayed-climate-clean-air-action-costs-1-5tn-yearly-un/",
-        "published": "2026-09-08T01:18:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil prices rise as Iran nears Hormuz shipping deal with Oman",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-prices-rise-as-iran-nears-hormuz-shipping-deal-with-oman/",
-        "published": "2026-09-08T01:02:22Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil closes in on $100, again...",
-        "source": "Newsmax",
-        "url": "https://www.newsmax.com/newsfront/Oil-Surges-Toward-100-as-Iran-War-Threatens-Global-Supplies/2026/09/07/id/1268626",
-        "published": "2026-09-08T01:00:15Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
