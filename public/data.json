@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-09T19:30:46.741Z",
+    "generated_at": "2026-09-09T21:58:17.149Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran threatens tankers near Bahrain and Kuwait after US strikes",
+        "source": "RT",
+        "url": "https://www.rt.com/news/645293-iran-oil-tanker-attacks/",
+        "published": "2026-09-08T21:25:54Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Brent Nears $100 on Mideast Strikes",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/brent_nears_100_on_mideast_strikes-08-sep-2026-184568-article/",
+        "published": "2026-09-08T20:17:36Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US stocks today: US stocks slip as AI fears weigh on software, while oil and rate bets add pressure",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-slip-as-ai-fears-weigh-on-software-while-oil-and-rate-bets-add-pressure/articleshow/133940798.cms",
+        "published": "2026-09-08T20:14:05Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Diesel Prices Reach New High Over Labor Day Weekend",
+        "source": "Truthout",
+        "url": "https://truthout.org/articles/diesel-prices-reach-new-high-over-labor-day-weekend/",
+        "published": "2026-09-08T20:06:50Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "A shipping container falling off a cargo ship in 1992 spilled 28,000 rubber ducks and other bath toys into the Pacific, and oceanographers spent the next 20 years tracking where they washed ashore to map the world’s ocean currents.",
         "source": "Space Daily",
         "url": "https://spacedaily.com/k-a-shipping-container-falling-off-a-cargo-ship-in-1992-spilled-28000-rubber-ducks-and-other-bath-toys-into-the-pacific-and-oceanographers-spent-the-next-20-years-tracking-where-they-washed-ashore-to/",
         "published": "2026-09-08T19:28:04Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
-        "source": "Decrypt",
-        "url": "https://decrypt.co/377705/bitcoin-holds-wall-street-stalls-oil-shock-fed-hike",
-        "published": "2026-09-08T18:59:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China and Qatar are strengthening bilateral ties: What that really means",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/features/2026/9/8/china-and-qatar-are-strengthening-bilateral-ties-what-that-really-means",
-        "published": "2026-09-08T18:44:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "La Tourangelle 8.45-oz. Basil Oil for $5.48 via Sub & Save + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/La-Tourangelle-8-45-oz-Basil-Oil-for-5-48-via-Sub-Save-free-shipping-w-Prime/22159006.html",
-        "published": "2026-09-08T18:27:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "OPEC crude oil production falls 900,000 barrels per day in August as Saudi Arabia curbs output",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/opec-crude-oil-production-falls-august/",
-        "published": "2026-09-08T17:58:27Z",
         "sentiment": "watch"
       }
     ],
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
