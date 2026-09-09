@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-09T06:44:50.823Z",
+    "generated_at": "2026-09-09T11:58:49.797Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "NZ sharemarket falls over 1% as oil prices rise again – Market close",
-        "source": "New Zealand Herald",
-        "url": "https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-falls-over-1-as-oil-prices-rise-again-market-close/premium/CMOGWSO7PZEIHNU4BMYADBM5GQ/",
-        "published": "2026-09-08T06:34:38Z",
+        "title": "Tuesday: Hili dialogue",
+        "source": "Whyevolutionistrue.com",
+        "url": "https://whyevolutionistrue.com/2026/09/08/tuesday-hili-dialogue-596/",
+        "published": "2026-09-08T11:45:52Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudi Oil Exports Hit Nine-Year Low, Report Says",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-09-08-saudi-oil-exports-hit-nine-year-low.html",
-        "published": "2026-09-08T06:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "An Iranian port city feels the pain of Washington's tightening economic measures",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/iranian-port-city-feels-pain-washingtons-tightening-economic-136264247",
-        "published": "2026-09-08T05:54:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran to announce new restricted zone in Gulf in the coming days",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-to-announce-new-restricted-zone-in-gulf-in-the-coming-days/articleshow/133909279.cms",
-        "published": "2026-09-08T05:43:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Prices Climb Toward $100 as Middle East Peace Hopes Fade",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-Toward-100-as-Middle-East-Peace-Hopes-Fade.html",
-        "published": "2026-09-08T05:30:00Z",
+        "title": "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next",
+        "published": "2026-09-08T11:40:21Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Mobil 1 Triple Action 0W-40 Full Synthetic Engine Oil 5L $64.89 + Delivery (Free C&C) @ Supercheap Auto",
+        "source": "Ozbargain.com.au",
+        "url": "https://www.ozbargain.com.au/node/974336",
+        "published": "2026-09-08T11:38:34Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Prices Hit 3-Month Highs",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/oil_prices_hit_3month_highs-08-sep-2026-184562-article/",
+        "published": "2026-09-08T11:34:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Europe Gas Hits Three-Year High as Traders Race to Fill Storage",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/europe-gas-hits-three-year-high-as-traders-race-to-fill-storage/",
+        "published": "2026-09-08T11:32:09Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Will Taiwan Just Give Up?",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/magazine/2026/10/trump-taiwan-sovereignty-china/688356/",
+        "published": "2026-09-08T11:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China Expands Patrols of Taiwan’s Pacific Coast, Raising Maritime Tensions",
         "source": "gcaptain.com",
@@ -82,13 +89,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/china-shifts-maritime-pressure-east-of-taiwan-intensifying-pacific-coast/",
         "published": "2026-09-06T23:22:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan Defense Spending Breaks Trillion-Dollar Milestone for First Time",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/asia/2026/09/04/taiwan-defense-spending-breaks-trillion-dollar-milestone-for-first-time/",
-        "published": "2026-09-04T21:40:46Z",
         "sentiment": "watch"
       }
     ],
