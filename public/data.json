@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T00:06:27.631Z",
+    "generated_at": "2026-09-10T04:48:22.840Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,76 +27,76 @@
   "news": {
     "hormuz": [
       {
-        "title": "Foreigners pull out money from govt. bonds after 2 months of buys",
+        "title": "GE Shipping contracts to buy a kamsarmax dry bulk carrier",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/capital-market-news/ge-shipping-contracts-to-buy-a-kamsarmax-dry-bulk-carrier-126090900221_1.html",
+        "published": "2026-09-09T04:20:51Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Why stock market is down today? Sensex plunges 600 points, Nifty below 23,500. 6 key triggers behind D-Street selloff",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/bonds/foreigners-pull-out-money-from-govt-bonds-after-2-months-of-buys/articleshow/133946339.cms",
-        "published": "2026-09-09T00:00:23Z",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-stock-market-is-down-today-sensex-plunges-600-points-nifty-below-23500-6-key-triggers-behind-d-street-selloff/articleshow/133951578.cms",
+        "published": "2026-09-09T04:09:41Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran’s Oil Exports Collapse as Hormuz Standoff Drags On",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Irans-Oil-Exports-Collapse-as-Hormuz-Standoff-Drags-On.html",
-        "published": "2026-09-09T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Middle East tensions push crude towards $100",
-        "source": "The Punch",
-        "url": "https://punchng.com/middle-east-tensions-push-crude-towards-100/",
-        "published": "2026-09-08T23:50:10Z",
+        "title": "Iran War: Tehran’s assertive Rhetoric signals a new and dangerous Phase in Conflict",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/09/assertive-rhetoric-dangerous.html",
+        "published": "2026-09-09T04:08:36Z",
         "sentiment": "danger"
       },
       {
-        "title": "1966 Dodge Dart Super Stock “D/Dart” Two-Door Hardtop 273 4-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1966-dodge-dart-16/",
-        "published": "2026-09-08T22:47:17Z",
+        "title": "How to Survive in a World Without Rules",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/09/hal-brands-rules-based-order-great-power-politics-geopolitics/",
+        "published": "2026-09-09T04:02:35Z",
         "sentiment": "watch"
       },
       {
-        "title": "War expands as Iran-backed Houthis attack Saudi cities and US strikes Iranian tankers",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/iran-us-war-expands-houthis-saudi-arabia-6371136",
-        "published": "2026-09-08T22:32:25Z",
-        "sentiment": "danger"
+        "title": "A New Engine of Development",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/09/economic-development-global-south-over-growth-globalization-jobs-population-demographics-labor-force/",
+        "published": "2026-09-09T04:01:35Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "Trump's Iran war keeps US in self-made quagmire, leaves world in chaos: Analysts",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260908-irna10.htm",
-        "published": "2026-09-08T12:00:00Z",
+        "title": "Conflict over Taiwan would be disastrous, de facto US ambassador says",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/taiwan-conflict-us-diplomat-warns-of-economic-catastrophe-greater-than-wwii/articleshow/133951977.cms",
+        "published": "2026-09-09T04:12:01Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Conflict over Taiwan would be disastrous, de facto US ambassador warns",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/9/9/conflict-over-taiwan-would-be-disastrous-de-facto-us-ambassador-warns",
+        "published": "2026-09-09T04:04:45Z",
         "sentiment": "danger"
       },
       {
-        "title": "Will Taiwan Just Give Up?",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/magazine/2026/10/trump-taiwan-sovereignty-china/688356/",
-        "published": "2026-09-08T11:00:00Z",
+        "title": "How to Survive in a World Without Rules",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/09/hal-brands-rules-based-order-great-power-politics-geopolitics/",
+        "published": "2026-09-09T04:02:35Z",
         "sentiment": "watch"
       },
       {
-        "title": "China Expands Patrols of Taiwan’s Pacific Coast, Raising Maritime Tensions",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/china-expands-patrols-of-taiwans-pacific-coast-raising-maritime-tensions/",
-        "published": "2026-09-07T09:44:26Z",
-        "sentiment": "watch"
+        "title": "Taiwan Strait conflict could hit global economy harder than World War Two, US envoy warns",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/taiwan-strait-conflict-could-hit-global-economy-harder-than-world-war-two-us-envoy-warns/articleshow/133949098.cms",
+        "published": "2026-09-09T02:14:20Z",
+        "sentiment": "danger"
       },
       {
-        "title": "China Mounts Fresh Campaign To Encircle Taiwan With Patrols",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/china-mounts-fresh-campaign-to-encircle-taiwan-with-patrols/",
-        "published": "2026-09-06T23:58:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China shifts maritime pressure east of Taiwan, intensifying Pacific coast operations",
+        "title": "US diplomat warns Taiwan Strait conflict could surpass WWII economic impact",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/china-shifts-maritime-pressure-east-of-taiwan-intensifying-pacific-coast/",
-        "published": "2026-09-06T23:22:58Z",
-        "sentiment": "watch"
+        "url": "https://cryptobriefing.com/us-diplomat-warns-taiwan-strait-conflict-could-surpass-wwii-economic-impact/",
+        "published": "2026-09-09T01:17:48Z",
+        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -111,11 +111,11 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "amber",
+    "taiwan": "red",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "yellow"
+    "korea": "amber"
   },
   "thresholds": {
     "brent_alert": 110,
