@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T04:48:22.840Z",
+    "generated_at": "2026-09-10T09:33:01.586Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "GE Shipping contracts to buy a kamsarmax dry bulk carrier",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/capital-market-news/ge-shipping-contracts-to-buy-a-kamsarmax-dry-bulk-carrier-126090900221_1.html",
-        "published": "2026-09-09T04:20:51Z",
+        "title": "Oil reaches $100 as markets assess Middle East conflict, rates and US-Canada trade tensions: Dow Jones, S&P, Nasdaq, Wall Street Futures",
+        "source": "Advfn.com",
+        "url": "https://investorshub.advfn.com/market-news/article/35893/oil-reaches-100-as-markets-assess-middle-east-conflict-rates-and-us-canada-trade-tensions-dow-jones-sp-nasdaq-wall-street-futures",
+        "published": "2026-09-09T09:26:02Z",
         "sentiment": "watch"
       },
       {
-        "title": "Why stock market is down today? Sensex plunges 600 points, Nifty below 23,500. 6 key triggers behind D-Street selloff",
+        "title": "South Korea built an underground seed vault to save wild plants but some seeds could help crops survive a hotter, harsher future",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-stock-market-is-down-today-sensex-plunges-600-points-nifty-below-23500-6-key-triggers-behind-d-street-selloff/articleshow/133951578.cms",
-        "published": "2026-09-09T04:09:41Z",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/south-korea-built-an-underground-seed-vault-to-save-wild-plants-but-some-seeds-could-help-crops-survive-a-hotter-harsher-future/articleshow/133882656.cms",
+        "published": "2026-09-09T09:25:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran War: Tehran’s assertive Rhetoric signals a new and dangerous Phase in Conflict",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/09/assertive-rhetoric-dangerous.html",
-        "published": "2026-09-09T04:08:36Z",
+        "title": "Goldman Sachs Raises Oil Forecasts As Middle East Clashes Push Prices Toward $100",
+        "source": "The Daily Hodl",
+        "url": "https://dailyhodl.com/2026/09/09/goldman-sachs-raises-oil-forecasts-as-middle-east-clashes-push-oil-prices-toward-100/",
+        "published": "2026-09-09T09:15:33Z",
         "sentiment": "danger"
       },
       {
-        "title": "How to Survive in a World Without Rules",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/09/hal-brands-rules-based-order-great-power-politics-geopolitics/",
-        "published": "2026-09-09T04:02:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "A New Engine of Development",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/09/economic-development-global-south-over-growth-globalization-jobs-population-demographics-labor-force/",
-        "published": "2026-09-09T04:01:35Z",
+        "title": "Oil hits $100 a barrel for first time in months as Middle East conflict intensifies again",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/business/business-news/oil-hits-100-barrel-middle-east-conflict-intensifies-us-iran-trump-gas-rcna596752",
+        "published": "2026-09-09T08:43:16Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Southeast Asia’s Subtle Shift on Taiwan",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/09/southeast-asia-brief-taiwan-china-stance/",
+        "published": "2026-09-09T05:00:26Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Conflict over Taiwan would be disastrous, de facto US ambassador says",
         "source": "The Times of India",
@@ -90,13 +90,6 @@
         "url": "https://economictimes.indiatimes.com/news/international/world-news/taiwan-strait-conflict-could-hit-global-economy-harder-than-world-war-two-us-envoy-warns/articleshow/133949098.cms",
         "published": "2026-09-09T02:14:20Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "US diplomat warns Taiwan Strait conflict could surpass WWII economic impact",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-diplomat-warns-taiwan-strait-conflict-could-surpass-wwii-economic-impact/",
-        "published": "2026-09-09T01:17:48Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -111,11 +104,11 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "red",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "amber"
+    "korea": "yellow"
   },
   "thresholds": {
     "brent_alert": 110,
