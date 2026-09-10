@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T09:33:01.586Z",
+    "generated_at": "2026-09-10T13:51:42.459Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil reaches $100 as markets assess Middle East conflict, rates and US-Canada trade tensions: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-        "source": "Advfn.com",
-        "url": "https://investorshub.advfn.com/market-news/article/35893/oil-reaches-100-as-markets-assess-middle-east-conflict-rates-and-us-canada-trade-tensions-dow-jones-sp-nasdaq-wall-street-futures",
-        "published": "2026-09-09T09:26:02Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "South Korea built an underground seed vault to save wild plants but some seeds could help crops survive a hotter, harsher future",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/south-korea-built-an-underground-seed-vault-to-save-wild-plants-but-some-seeds-could-help-crops-survive-a-hotter-harsher-future/articleshow/133882656.cms",
-        "published": "2026-09-09T09:25:45Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Goldman Sachs Raises Oil Forecasts As Middle East Clashes Push Prices Toward $100",
-        "source": "The Daily Hodl",
-        "url": "https://dailyhodl.com/2026/09/09/goldman-sachs-raises-oil-forecasts-as-middle-east-clashes-push-oil-prices-toward-100/",
-        "published": "2026-09-09T09:15:33Z",
+        "title": "Nasdaq Slips As Oil Hits $100 On Iran Strikes, Apple's Ternus-Led Event Looms Wednesday In New York Trading",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/us-stocks-dip-oil-prices-apple-event-1875237",
+        "published": "2026-09-09T13:40:27Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil hits $100 a barrel for first time in months as Middle East conflict intensifies again",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/business/business-news/oil-hits-100-barrel-middle-east-conflict-intensifies-us-iran-trump-gas-rcna596752",
-        "published": "2026-09-09T08:43:16Z",
+        "title": "Rupee falls to 95.11 vs US dollar as West Asia tensions drive oil fears",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-to-95-11-vs-us-dollar-as-west-asia-tensions-drive-oil-fears/articleshow/133971268.cms",
+        "published": "2026-09-09T13:31:54Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "For these Venezuelans living in the US, June's earthquakes still reverberate",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/venezuelans-living-us-junes-earthquakes-reverberate-daily-life-136300051",
+        "published": "2026-09-09T12:42:19Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran attacks ten ships, oil prices surge above 100 dollars",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-attacks-ten-ships-oil-prices-surge-above-100-dollars/",
+        "published": "2026-09-09T12:36:28Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The Only One In The USA! A Rare 1990 RMA “Amphi-Ranger”",
+        "source": "Silodrome.com",
+        "url": "https://silodrome.com/rma-amphi-ranger/",
+        "published": "2026-09-09T12:30:50Z",
         "sentiment": "watch"
       }
     ],
