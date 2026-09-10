@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T13:51:42.459Z",
+    "generated_at": "2026-09-10T17:37:41.902Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -12,9 +12,9 @@
       "unit": "USD/bbl"
     },
     "freight": {
-      "freight_index": 181.9,
-      "change_pct": -1.6,
-      "date": "2026-07-01",
+      "freight_index": 185.9,
+      "change_pct": 1.4,
+      "date": "2026-08-01",
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Nasdaq Slips As Oil Hits $100 On Iran Strikes, Apple's Ternus-Led Event Looms Wednesday In New York Trading",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/us-stocks-dip-oil-prices-apple-event-1875237",
-        "published": "2026-09-09T13:40:27Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Rupee falls to 95.11 vs US dollar as West Asia tensions drive oil fears",
+        "title": "‘Neither Ammy nor his car targeted’: Singer’s father dismisses Canada shooting reports",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-to-95-11-vs-us-dollar-as-west-asia-tensions-drive-oil-fears/articleshow/133971268.cms",
-        "published": "2026-09-09T13:31:54Z",
+        "url": "https://timesofindia.indiatimes.com/city/chandigarh/neither-ammy-nor-his-car-targeted-singers-father-dismisses-canada-shooting-reports/articleshow/133978816.cms",
+        "published": "2026-09-09T17:37:29Z",
         "sentiment": "watch"
       },
       {
-        "title": "For these Venezuelans living in the US, June's earthquakes still reverberate",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/venezuelans-living-us-junes-earthquakes-reverberate-daily-life-136300051",
-        "published": "2026-09-09T12:42:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran attacks ten ships, oil prices surge above 100 dollars",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-attacks-ten-ships-oil-prices-surge-above-100-dollars/",
-        "published": "2026-09-09T12:36:28Z",
+        "title": "Himalayan Day marked across state with focus on global warming",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/agra/himalayan-day-marked-across-state-with-focus-on-global-warming/articleshow/133978849.cms",
+        "published": "2026-09-09T17:36:37Z",
         "sentiment": "danger"
       },
       {
-        "title": "The Only One In The USA! A Rare 1990 RMA “Amphi-Ranger”",
-        "source": "Silodrome.com",
-        "url": "https://silodrome.com/rma-amphi-ranger/",
-        "published": "2026-09-09T12:30:50Z",
+        "title": "KV principal booked for alleged caste abuse",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/hubballi/kv-principal-booked-for-alleged-caste-abuse/articleshow/133978822.cms",
+        "published": "2026-09-09T17:35:35Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Woman, lover jailed for husband’s killing",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/hubballi/woman-lover-jailed-for-husbands-killing/articleshow/133978814.cms",
+        "published": "2026-09-09T17:35:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "State BJP targets govt over Padayatra restrictions",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/hubballi/state-bjp-targets-govt-over-padayatra-restrictions/articleshow/133978803.cms",
+        "published": "2026-09-09T17:34:56Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China says it held 'candid and in-depth' military talks with Canadian officials last week",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/politics/canada-china-military-cooperation-9.7337345",
+        "published": "2026-09-09T17:22:05Z",
+        "sentiment": "neutral"
+      },
       {
         "title": "Southeast Asia’s Subtle Shift on Taiwan",
         "source": "Foreign Policy",
@@ -90,13 +97,6 @@
         "url": "http://foreignpolicy.com/2026/09/09/hal-brands-rules-based-order-great-power-politics-geopolitics/",
         "published": "2026-09-09T04:02:35Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan Strait conflict could hit global economy harder than World War Two, US envoy warns",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/taiwan-strait-conflict-could-hit-global-economy-harder-than-world-war-two-us-envoy-warns/articleshow/133949098.cms",
-        "published": "2026-09-09T02:14:20Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
