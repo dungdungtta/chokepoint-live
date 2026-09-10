@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-09T21:58:17.149Z",
+    "generated_at": "2026-09-10T00:06:27.631Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran threatens tankers near Bahrain and Kuwait after US strikes",
-        "source": "RT",
-        "url": "https://www.rt.com/news/645293-iran-oil-tanker-attacks/",
-        "published": "2026-09-08T21:25:54Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Brent Nears $100 on Mideast Strikes",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/brent_nears_100_on_mideast_strikes-08-sep-2026-184568-article/",
-        "published": "2026-09-08T20:17:36Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US stocks today: US stocks slip as AI fears weigh on software, while oil and rate bets add pressure",
+        "title": "Foreigners pull out money from govt. bonds after 2 months of buys",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-slip-as-ai-fears-weigh-on-software-while-oil-and-rate-bets-add-pressure/articleshow/133940798.cms",
-        "published": "2026-09-08T20:14:05Z",
+        "url": "https://economictimes.indiatimes.com/markets/bonds/foreigners-pull-out-money-from-govt-bonds-after-2-months-of-buys/articleshow/133946339.cms",
+        "published": "2026-09-09T00:00:23Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran’s Oil Exports Collapse as Hormuz Standoff Drags On",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Irans-Oil-Exports-Collapse-as-Hormuz-Standoff-Drags-On.html",
+        "published": "2026-09-09T00:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Middle East tensions push crude towards $100",
+        "source": "The Punch",
+        "url": "https://punchng.com/middle-east-tensions-push-crude-towards-100/",
+        "published": "2026-09-08T23:50:10Z",
         "sentiment": "danger"
       },
       {
-        "title": "Diesel Prices Reach New High Over Labor Day Weekend",
-        "source": "Truthout",
-        "url": "https://truthout.org/articles/diesel-prices-reach-new-high-over-labor-day-weekend/",
-        "published": "2026-09-08T20:06:50Z",
+        "title": "1966 Dodge Dart Super Stock “D/Dart” Two-Door Hardtop 273 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1966-dodge-dart-16/",
+        "published": "2026-09-08T22:47:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "A shipping container falling off a cargo ship in 1992 spilled 28,000 rubber ducks and other bath toys into the Pacific, and oceanographers spent the next 20 years tracking where they washed ashore to map the world’s ocean currents.",
-        "source": "Space Daily",
-        "url": "https://spacedaily.com/k-a-shipping-container-falling-off-a-cargo-ship-in-1992-spilled-28000-rubber-ducks-and-other-bath-toys-into-the-pacific-and-oceanographers-spent-the-next-20-years-tracking-where-they-washed-ashore-to/",
-        "published": "2026-09-08T19:28:04Z",
-        "sentiment": "watch"
+        "title": "War expands as Iran-backed Houthis attack Saudi cities and US strikes Iranian tankers",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/iran-us-war-expands-houthis-saudi-arabia-6371136",
+        "published": "2026-09-08T22:32:25Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
