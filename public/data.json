@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T17:37:41.902Z",
+    "generated_at": "2026-09-10T20:04:17.117Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 96.02,
-      "change_pct": 7,
-      "date": "2026-09-01",
+      "price": 109.51,
+      "change_pct": 3.2,
+      "date": "2026-09-09",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "‘Neither Ammy nor his car targeted’: Singer’s father dismisses Canada shooting reports",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/city/chandigarh/neither-ammy-nor-his-car-targeted-singers-father-dismisses-canada-shooting-reports/articleshow/133978816.cms",
-        "published": "2026-09-09T17:37:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Himalayan Day marked across state with focus on global warming",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/city/agra/himalayan-day-marked-across-state-with-focus-on-global-warming/articleshow/133978849.cms",
-        "published": "2026-09-09T17:36:37Z",
+        "title": "Oil Surges as Attacks Escalate",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_surges_as_attacks_escalate-09-sep-2026-184579-article/",
+        "published": "2026-09-09T19:53:38Z",
         "sentiment": "danger"
       },
       {
-        "title": "KV principal booked for alleged caste abuse",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/city/hubballi/kv-principal-booked-for-alleged-caste-abuse/articleshow/133978822.cms",
-        "published": "2026-09-09T17:35:35Z",
+        "title": "Trump: Oil Prices Will Come Down Right After Midterms",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/396169/trump-oil-prices-will-come-down-right-after-midterms.html",
+        "published": "2026-09-09T19:50:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Woman, lover jailed for husband’s killing",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/city/hubballi/woman-lover-jailed-for-husbands-killing/articleshow/133978814.cms",
-        "published": "2026-09-09T17:35:17Z",
-        "sentiment": "watch"
+        "title": "A China-Taiwan War Could Bring The Global Economy To Its Knees, Top Diplomat Warns",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/09/09/china-taiwan-war-global-economy-top-diplomat-raymond-greene-warning",
+        "published": "2026-09-09T19:20:33Z",
+        "sentiment": "danger"
       },
       {
-        "title": "State BJP targets govt over Padayatra restrictions",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/city/hubballi/state-bjp-targets-govt-over-padayatra-restrictions/articleshow/133978803.cms",
-        "published": "2026-09-09T17:34:56Z",
+        "title": "Iran-Backed Houthis Threaten Red Sea Shipping and Bab el-Mandeb Strait",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/national-security/2026/09/09/iran-backed-houthis-threaten-red-sea-shipping-bab-el-mandeb-strait/",
+        "published": "2026-09-09T19:04:08Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Britain Can Save £500 by Scrapping Net Zero, If It Ignores Most of the Bill",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Britain-Can-Save-500-by-Scrapping-Net-Zero-If-It-Ignores-Most-of-the-Bill.html",
+        "published": "2026-09-09T19:00:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "A China-Taiwan War Could Bring The Global Economy To Its Knees, Top Diplomat Warns",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/09/09/china-taiwan-war-global-economy-top-diplomat-raymond-greene-warning",
+        "published": "2026-09-09T19:20:33Z",
+        "sentiment": "danger"
+      },
       {
         "title": "China says it held 'candid and in-depth' military talks with Canadian officials last week",
         "source": "CBC News",
@@ -90,13 +97,6 @@
         "url": "https://www.aljazeera.com/economy/2026/9/9/conflict-over-taiwan-would-be-disastrous-de-facto-us-ambassador-warns",
         "published": "2026-09-09T04:04:45Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "How to Survive in a World Without Rules",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/09/hal-brands-rules-based-order-great-power-politics-geopolitics/",
-        "published": "2026-09-09T04:02:35Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
