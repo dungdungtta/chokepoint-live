@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T20:04:17.117Z",
+    "generated_at": "2026-09-10T22:37:30.369Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Surges as Attacks Escalate",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_surges_as_attacks_escalate-09-sep-2026-184579-article/",
-        "published": "2026-09-09T19:53:38Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump: Oil Prices Will Come Down Right After Midterms",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/396169/trump-oil-prices-will-come-down-right-after-midterms.html",
-        "published": "2026-09-09T19:50:00Z",
+        "title": "3.6L-Powered 1987 Porsche 911 Carrera Coupe G50",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1987-porsche-911-carrera-coupe-126/",
+        "published": "2026-09-09T22:10:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "A China-Taiwan War Could Bring The Global Economy To Its Knees, Top Diplomat Warns",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/09/09/china-taiwan-war-global-economy-top-diplomat-raymond-greene-warning",
-        "published": "2026-09-09T19:20:33Z",
+        "title": "Iran Launches Massive Attack on Global Shipping",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/09/iran-strikes-shipping-strait-hormuz-jordan-us-oil-prices/",
+        "published": "2026-09-09T21:19:26Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran-Backed Houthis Threaten Red Sea Shipping and Bab el-Mandeb Strait",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/national-security/2026/09/09/iran-backed-houthis-threaten-red-sea-shipping-bab-el-mandeb-strait/",
-        "published": "2026-09-09T19:04:08Z",
-        "sentiment": "danger"
+        "title": "Trading Day: $100 oil bites",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/trading-day-100-oil-bites-6374011",
+        "published": "2026-09-09T21:02:32Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Britain Can Save £500 by Scrapping Net Zero, If It Ignores Most of the Bill",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Britain-Can-Save-500-by-Scrapping-Net-Zero-If-It-Ignores-Most-of-the-Bill.html",
-        "published": "2026-09-09T19:00:00Z",
+        "title": "What India Gets Out of BRICS",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/09/india-brics-summit-new-delhi-global-south/",
+        "published": "2026-09-09T21:01:50Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Lucas Oil 5.25-Oz Deep Clean Fuel System Cleaner (LUC10669) $5.79 + Free Shipping w/ Prime or on $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/19993755-lucas-oil-5-25-oz-deep-clean-fuel-system-cleaner-luc10669-5-79-free-shipping-w-prime-or-on-35",
+        "published": "2026-09-09T20:52:29Z",
         "sentiment": "watch"
       }
     ],
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
