@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T20:51:28.106Z",
+    "generated_at": "2026-09-11T23:09:21.845Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Report Details 500+ Yemeni Civilian Casualties From 2023-25 US Airstrikes",
-        "source": "Common Dreams",
-        "url": "https://www.commondreams.org/news/us-airstrikes-yemen-civilians",
-        "published": "2026-09-10T20:38:59Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Staten Island waterfront explosion sparks fire months after deadly blast",
-        "source": "Gothamist",
-        "url": "https://gothamist.com/news/explosion-sparks-fire-at-staten-island-shipyard-months-after-deadly-blast-nearby",
-        "published": "2026-09-10T20:21:00Z",
+        "title": "Iran-backed Houthis capture Red Sea port, putting more pressure on oil markets",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/760a05d737f5315c",
+        "published": "2026-09-10T23:06:02Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Bab el-Mandeb Problem",
+        "title": "Trump keeps telling voters he doesn’t care much about affordability",
+        "source": "Vox",
+        "url": "https://www.vox.com/politics/502567/trump-iran-gas-prices-republican-midterm-convention",
+        "published": "2026-09-10T22:42:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran-backed Houthis capture Red Sea port, putting more pressure on oil markets",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/show/iran-backed-houthis-capture-red-sea-port-putting-more-pressure-on-oil-markets",
+        "published": "2026-09-10T22:40:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Surging oil prices, higher bond yields weigh on stocks",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/surging-oil-prices-higher-bond-yields-weigh-stocks-6377296",
+        "published": "2026-09-10T22:31:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "What Makes a Good Counterterrorism Strategy?",
         "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/10/houthis-yemen-mokha-port-red-sea-bab-el-mandeb-iran-saudi-arabia-strait-hormuz/",
-        "published": "2026-09-10T20:04:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "A Major Ground Offensive In The Middle East Just Caused A Dramatic Surge In The Price Of Oil",
-        "source": "Theeconomiccollapseblog.com",
-        "url": "http://theeconomiccollapseblog.com/a-major-ground-offensive-in-the-middle-east-just-caused-a-dramatic-surge-in-the-price-of-oil/",
-        "published": "2026-09-10T20:03:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Soars as Hormuz Risks Rattle Markets",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_soars_as_hormuz_risks_rattle_markets-10-sep-2026-184590-article/",
-        "published": "2026-09-10T19:56:15Z",
+        "url": "http://foreignpolicy.com/2026/09/10/us-terrorism-9-11-anniversary-jihadism-al-qaeda/",
+        "published": "2026-09-10T21:53:49Z",
         "sentiment": "watch"
       }
     ],
