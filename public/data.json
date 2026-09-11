@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T05:18:47.356Z",
+    "generated_at": "2026-09-11T09:57:24.138Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Skeptical Science New Research for Week #37 2026",
-        "source": "Skepticalscience.com",
-        "url": "https://skepticalscience.com/new_research_2026_37.html",
-        "published": "2026-09-10T05:05:37Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The polls, Samaras, Karamanlis, Salmas and Sofos, Alexis’s rings and safe deposit boxes, the UNESCO dinner and Amal ///",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/09/10/the-polls-samaras-karamanlis-salmas-and-sofos-alexiss-rings-and-safe-deposit-boxes-the-unesco-dinner-and-amal/",
-        "published": "2026-09-10T05:00:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Gold edges higher on weaker dollar, US inflation data in focus",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/gold/gold-edges-higher-on-weaker-dollar-us-inflation-data-in-focus/article71450203.ece",
-        "published": "2026-09-10T04:55:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Global Market: Japanese bond yields rise as oil surge, hawkish BOJ remarks lift rate hike bets",
+        "title": "Who is fighting in Yemen? Key factions battling for control of the country",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japanese-bond-yields-rise-as-oil-surge-hawkish-boj-remarks-lift-rate-hike-bets/articleshow/133994320.cms",
-        "published": "2026-09-10T04:55:36Z",
+        "url": "https://economictimes.indiatimes.com/news/defence/who-is-fighting-in-yemen-key-factions-battling-for-control-of-the-country/articleshow/134002722.cms",
+        "published": "2026-09-10T09:53:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "Upstream stocks: Oil India, ONGC surge 3% as Brent holds above $100-mark",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/upstream-stocks-oil-india-ongc-surge-3-as-brent-holds-above-100-mark-126091000231_1.html",
-        "published": "2026-09-10T04:49:19Z",
+        "title": "Wall Street has thrown in the towel on a quick end to the global oil shock",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/oil-price-forecasts-global-shock-iran-war-wall-street-outlook-2026-9#article",
+        "published": "2026-09-10T09:50:01Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Wall Street has thrown in the towel on a quick end to the global oil shock",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/oil-price-forecasts-global-shock-iran-war-wall-street-outlook-2026-9",
+        "published": "2026-09-10T09:50:01Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "India Calls for Bigger Biofuel Push as Oil Prices Soar",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Calls-for-Bigger-Biofuel-Push-as-Oil-Prices-Soar.html",
+        "published": "2026-09-10T09:30:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran War: Pakistan and Turkiye Saber Rattle at Iran Over Ansar Allah Attacks on Saudis; Oil at $101 a Barrel Even as Flows Out of Persian Gulf Increase Despite Iran’s More Aggressive Footing",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/09/iran-war-pakistan-and-turkiye-saber-rattle-at-iran-over-ansar-allah-attacks-on-saudis-oil-at-101-a-barrel-even-as-flows-out-of-persian-gulf-increase-despite-irans-more-aggressive-footing.html",
+        "published": "2026-09-10T09:15:49Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
