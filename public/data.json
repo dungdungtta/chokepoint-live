@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T22:37:30.369Z",
+    "generated_at": "2026-09-11T00:34:56.019Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil extends gains, with Brent above $101 after U.S. destroys Iranian oil tankers",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
+        "published": "2026-09-10T00:20:42Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran war will not end until after November US elections, says Trump",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo",
+        "published": "2026-09-09T23:46:06Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "3.6L-Powered 1987 Porsche 911 Carrera Coupe G50",
         "source": "Bringatrailer.com",
         "url": "https://bringatrailer.com/listing/1987-porsche-911-carrera-coupe-126/",
@@ -46,23 +60,16 @@
         "url": "https://www.channelnewsasia.com/business/trading-day-100-oil-bites-6374011",
         "published": "2026-09-09T21:02:32Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "What India Gets Out of BRICS",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/09/india-brics-summit-new-delhi-global-south/",
-        "published": "2026-09-09T21:01:50Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Lucas Oil 5.25-Oz Deep Clean Fuel System Cleaner (LUC10669) $5.79 + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/19993755-lucas-oil-5-25-oz-deep-clean-fuel-system-cleaner-luc10669-5-79-free-shipping-w-prime-or-on-35",
-        "published": "2026-09-09T20:52:29Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Deflation over for now; MOFCOM responds to US distillation advisory; DeepSeek IPO and new model; Xi-Trump summit",
+        "source": "Sinocism.com",
+        "url": "https://sinocism.com/p/deflation-over-for-now-mofcom-responds",
+        "published": "2026-09-09T23:15:10Z",
+        "sentiment": "watch"
+      },
       {
         "title": "A China-Taiwan War Could Bring The Global Economy To Its Knees, Top Diplomat Warns",
         "source": "The Daily Caller",
@@ -90,13 +97,6 @@
         "url": "https://economictimes.indiatimes.com/news/international/world-news/taiwan-conflict-us-diplomat-warns-of-economic-catastrophe-greater-than-wwii/articleshow/133951977.cms",
         "published": "2026-09-09T04:12:01Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Conflict over Taiwan would be disastrous, de facto US ambassador warns",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/9/9/conflict-over-taiwan-would-be-disastrous-de-facto-us-ambassador-warns",
-        "published": "2026-09-09T04:04:45Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
