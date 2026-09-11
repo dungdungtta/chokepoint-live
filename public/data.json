@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T14:18:08.496Z",
+    "generated_at": "2026-09-11T17:50:50.406Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Yemen’s Houthis seize strategic Red Sea city of Mocha",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/10/yemens-houthis-seize-strategic-red-sea-city-of-mocha",
-        "published": "2026-09-10T14:16:42Z",
+        "title": "‘The global economy as we know it would come to a sudden halt’: Shipping authorities from 18 countries warn of a ‘two-tier’ system imperiling trade",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/09/10/two-tier-maritime-trade-system-shadow-fleets-iran-war-strait-of-hormuz-economic-threat/",
+        "published": "2026-09-10T17:47:04Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil surges 5%, Brent and US crude both over $100 on more tanker attacks",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-surges-5-brent-and-us-crude-both-over-100-on-more-tanker-attacks/articleshow/134023313.cms",
+        "published": "2026-09-10T17:47:03Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Inflation won’t die. Now the bond market is daring the Fed to do something about it",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/09/10/10-year-treasury-yield-inflation-fed/",
+        "published": "2026-09-10T17:37:48Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran, USA Brace for Long War",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/iran_usa_brace_for_long_war-10-sep-2026-184585-article/",
-        "published": "2026-09-10T14:15:08Z",
+        "title": "Price Tag For Oil Tanker Shipments Soars To Record High As War Grips Middle East",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/09/10/oil-supertanker-iran-war-cost-david-blackmon-stuart-turley",
+        "published": "2026-09-10T17:01:25Z",
         "sentiment": "danger"
       },
       {
-        "title": "Yemen risks a return to civil war as Iran-backed rebels target a vital oil shipping route",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/yemen-risks-a-return-to-civil-war-as-iran-backed-rebels-target-a-vital-oil-shipping-route/articleshow/134014289.cms",
-        "published": "2026-09-10T14:13:38Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump Advisers Secretly Issue Dire Warning About Iran War",
-        "source": "The New Republic",
-        "url": "https://newrepublic.com/post/215250/donald-trump-advisers-dire-warning-iran-war-end",
-        "published": "2026-09-10T14:13:32Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US wholesale prices rise in latest sign of stubborn inflation as oil prices continue to climb",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-wholesale-prices-rise-in-latest-sign-of-stubborn-inflation-as-oil-prices-continue-to-climb/articleshow/134013970.cms",
-        "published": "2026-09-10T14:08:52Z",
+        "title": "Yemen: Houthis take control of strategic Red Sea towns",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/yemen-houthis-take-control-of-strategic-red-sea-towns/a-79220628",
+        "published": "2026-09-10T17:01:00Z",
         "sentiment": "watch"
       }
     ],
