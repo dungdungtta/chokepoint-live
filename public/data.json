@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T00:34:56.019Z",
+    "generated_at": "2026-09-11T05:18:47.356Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil extends gains, with Brent above $101 after U.S. destroys Iranian oil tankers",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
-        "published": "2026-09-10T00:20:42Z",
+        "title": "Skeptical Science New Research for Week #37 2026",
+        "source": "Skepticalscience.com",
+        "url": "https://skepticalscience.com/new_research_2026_37.html",
+        "published": "2026-09-10T05:05:37Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran war will not end until after November US elections, says Trump",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo",
-        "published": "2026-09-09T23:46:06Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "3.6L-Powered 1987 Porsche 911 Carrera Coupe G50",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1987-porsche-911-carrera-coupe-126/",
-        "published": "2026-09-09T22:10:12Z",
+        "title": "The polls, Samaras, Karamanlis, Salmas and Sofos, Alexis’s rings and safe deposit boxes, the UNESCO dinner and Amal ///",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/09/10/the-polls-samaras-karamanlis-salmas-and-sofos-alexiss-rings-and-safe-deposit-boxes-the-unesco-dinner-and-amal/",
+        "published": "2026-09-10T05:00:36Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran Launches Massive Attack on Global Shipping",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/09/iran-strikes-shipping-strait-hormuz-jordan-us-oil-prices/",
-        "published": "2026-09-09T21:19:26Z",
-        "sentiment": "danger"
+        "title": "Gold edges higher on weaker dollar, US inflation data in focus",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/gold/gold-edges-higher-on-weaker-dollar-us-inflation-data-in-focus/article71450203.ece",
+        "published": "2026-09-10T04:55:47Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Trading Day: $100 oil bites",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/trading-day-100-oil-bites-6374011",
-        "published": "2026-09-09T21:02:32Z",
+        "title": "Global Market: Japanese bond yields rise as oil surge, hawkish BOJ remarks lift rate hike bets",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japanese-bond-yields-rise-as-oil-surge-hawkish-boj-remarks-lift-rate-hike-bets/articleshow/133994320.cms",
+        "published": "2026-09-10T04:55:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Upstream stocks: Oil India, ONGC surge 3% as Brent holds above $100-mark",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/upstream-stocks-oil-india-ongc-surge-3-as-brent-holds-above-100-mark-126091000231_1.html",
+        "published": "2026-09-10T04:49:19Z",
         "sentiment": "watch"
       }
     ],
