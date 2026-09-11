@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T17:50:50.406Z",
+    "generated_at": "2026-09-11T20:51:28.106Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "‘The global economy as we know it would come to a sudden halt’: Shipping authorities from 18 countries warn of a ‘two-tier’ system imperiling trade",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/09/10/two-tier-maritime-trade-system-shadow-fleets-iran-war-strait-of-hormuz-economic-threat/",
-        "published": "2026-09-10T17:47:04Z",
+        "title": "Report Details 500+ Yemeni Civilian Casualties From 2023-25 US Airstrikes",
+        "source": "Common Dreams",
+        "url": "https://www.commondreams.org/news/us-airstrikes-yemen-civilians",
+        "published": "2026-09-10T20:38:59Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil surges 5%, Brent and US crude both over $100 on more tanker attacks",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-surges-5-brent-and-us-crude-both-over-100-on-more-tanker-attacks/articleshow/134023313.cms",
-        "published": "2026-09-10T17:47:03Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Inflation won’t die. Now the bond market is daring the Fed to do something about it",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/09/10/10-year-treasury-yield-inflation-fed/",
-        "published": "2026-09-10T17:37:48Z",
+        "title": "Staten Island waterfront explosion sparks fire months after deadly blast",
+        "source": "Gothamist",
+        "url": "https://gothamist.com/news/explosion-sparks-fire-at-staten-island-shipyard-months-after-deadly-blast-nearby",
+        "published": "2026-09-10T20:21:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Price Tag For Oil Tanker Shipments Soars To Record High As War Grips Middle East",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/09/10/oil-supertanker-iran-war-cost-david-blackmon-stuart-turley",
-        "published": "2026-09-10T17:01:25Z",
-        "sentiment": "danger"
+        "title": "The Bab el-Mandeb Problem",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/10/houthis-yemen-mokha-port-red-sea-bab-el-mandeb-iran-saudi-arabia-strait-hormuz/",
+        "published": "2026-09-10T20:04:01Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Yemen: Houthis take control of strategic Red Sea towns",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/yemen-houthis-take-control-of-strategic-red-sea-towns/a-79220628",
-        "published": "2026-09-10T17:01:00Z",
+        "title": "A Major Ground Offensive In The Middle East Just Caused A Dramatic Surge In The Price Of Oil",
+        "source": "Theeconomiccollapseblog.com",
+        "url": "http://theeconomiccollapseblog.com/a-major-ground-offensive-in-the-middle-east-just-caused-a-dramatic-surge-in-the-price-of-oil/",
+        "published": "2026-09-10T20:03:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Soars as Hormuz Risks Rattle Markets",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_soars_as_hormuz_risks_rattle_markets-10-sep-2026-184590-article/",
+        "published": "2026-09-10T19:56:15Z",
         "sentiment": "watch"
       }
     ],
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
