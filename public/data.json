@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T09:57:24.138Z",
+    "generated_at": "2026-09-11T14:18:08.496Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Who is fighting in Yemen? Key factions battling for control of the country",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/who-is-fighting-in-yemen-key-factions-battling-for-control-of-the-country/articleshow/134002722.cms",
-        "published": "2026-09-10T09:53:08Z",
+        "title": "Yemen’s Houthis seize strategic Red Sea city of Mocha",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/9/10/yemens-houthis-seize-strategic-red-sea-city-of-mocha",
+        "published": "2026-09-10T14:16:42Z",
         "sentiment": "watch"
       },
       {
-        "title": "Wall Street has thrown in the towel on a quick end to the global oil shock",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/oil-price-forecasts-global-shock-iran-war-wall-street-outlook-2026-9#article",
-        "published": "2026-09-10T09:50:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Wall Street has thrown in the towel on a quick end to the global oil shock",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/oil-price-forecasts-global-shock-iran-war-wall-street-outlook-2026-9",
-        "published": "2026-09-10T09:50:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "India Calls for Bigger Biofuel Push as Oil Prices Soar",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Calls-for-Bigger-Biofuel-Push-as-Oil-Prices-Soar.html",
-        "published": "2026-09-10T09:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran War: Pakistan and Turkiye Saber Rattle at Iran Over Ansar Allah Attacks on Saudis; Oil at $101 a Barrel Even as Flows Out of Persian Gulf Increase Despite Iran’s More Aggressive Footing",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/09/iran-war-pakistan-and-turkiye-saber-rattle-at-iran-over-ansar-allah-attacks-on-saudis-oil-at-101-a-barrel-even-as-flows-out-of-persian-gulf-increase-despite-irans-more-aggressive-footing.html",
-        "published": "2026-09-10T09:15:49Z",
+        "title": "Iran, USA Brace for Long War",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/iran_usa_brace_for_long_war-10-sep-2026-184585-article/",
+        "published": "2026-09-10T14:15:08Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Yemen risks a return to civil war as Iran-backed rebels target a vital oil shipping route",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/yemen-risks-a-return-to-civil-war-as-iran-backed-rebels-target-a-vital-oil-shipping-route/articleshow/134014289.cms",
+        "published": "2026-09-10T14:13:38Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump Advisers Secretly Issue Dire Warning About Iran War",
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/post/215250/donald-trump-advisers-dire-warning-iran-war-end",
+        "published": "2026-09-10T14:13:32Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US wholesale prices rise in latest sign of stubborn inflation as oil prices continue to climb",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-wholesale-prices-rise-in-latest-sign-of-stubborn-inflation-as-oil-prices-continue-to-climb/articleshow/134013970.cms",
+        "published": "2026-09-10T14:08:52Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China’s Economic Crossroads: Growth, Inequality and Geopolitical Pressures",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/economics/chinas-economic-crossroads-growth-inequality-and-geopolitical-pressures/",
+        "published": "2026-09-10T13:09:58Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump Is Preparing for a Long War",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/national-security/2026/09/trump-iran-war-navy/688563/",
+        "published": "2026-09-10T12:12:02Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Deflation over for now; MOFCOM responds to US distillation advisory; DeepSeek IPO and new model; Xi-Trump summit",
         "source": "Sinocism.com",
@@ -83,20 +97,6 @@
         "url": "https://www.cbc.ca/news/politics/canada-china-military-cooperation-9.7337345",
         "published": "2026-09-09T17:22:05Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Southeast Asia’s Subtle Shift on Taiwan",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/09/southeast-asia-brief-taiwan-china-stance/",
-        "published": "2026-09-09T05:00:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Conflict over Taiwan would be disastrous, de facto US ambassador says",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/taiwan-conflict-us-diplomat-warns-of-economic-catastrophe-greater-than-wwii/articleshow/133951977.cms",
-        "published": "2026-09-09T04:12:01Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
