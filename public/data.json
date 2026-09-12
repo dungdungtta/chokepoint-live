@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T16:54:50.710Z",
+    "generated_at": "2026-09-12T19:07:15.563Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran-backed Houthis take full control of Red Sea coastline, tightening grip on crucial shipping lane - NBC News",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185607180",
-        "published": "2026-09-11T16:53:09Z",
+        "title": "Oil prices dive on signs of Hormuz diplomacy while Saudi Arabia is left hanging in fight against an Iranian ally threatening crude’s other chokepoint",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/oil-prices-dive-signs-hormuz-190707648.html",
+        "published": "2026-09-11T19:07:07Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil prices dive on signs of Hormuz diplomacy while Saudi Arabia is left hanging in fight against an Iranian ally threatening crude’s other chokepoint",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/09/11/oil-prices-hormuz-diplomacy-saudi-arabia-houthis-pakistan-us-bab-al-mandab/",
+        "published": "2026-09-11T19:07:07Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Houthi advance in Yemen is about more than just the Red Sea",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/9/11/houthi-advance-in-yemen-is-about-more-than-just-the-red-sea",
+        "published": "2026-09-11T19:01:07Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudi Arabian oil pipeline system hit by projectiles triggering fires | CNN Politics",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/09/11/politics/saudi-arabian-oil-pipeline-hit-by-projectiles-triggering-fires",
-        "published": "2026-09-11T16:45:58Z",
-        "sentiment": "watch"
+        "title": "Germany's election and the UK's sanctions signals political warfare",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-09-12/political-warfare-andy-burnham-germany-election-sanctions/107143228",
+        "published": "2026-09-11T19:00:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Yemen's Houthis reach strategic island at mouth of vital shipping lane",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/yemen-s-houthis-reach-strategic-island-at-mouth-of-vital-shipping-lane-126091101294_1.html",
-        "published": "2026-09-11T16:43:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Houthis control key shipping route after gains along Yemen’s Red Sea coast - aljazeera.com",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185606914",
-        "published": "2026-09-11T16:34:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Don’t Blame Ukraine for High Gas Prices",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/11/gas-prices-trump-iran-war-wright-ukraine-russia/",
-        "published": "2026-09-11T16:24:29Z",
+        "title": "Houthis seize Yemen's entire Red Sea coast, tightening grip on key shipping route",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/433083",
+        "published": "2026-09-11T18:51:00Z",
         "sentiment": "watch"
       }
     ],
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
