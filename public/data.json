@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T10:33:43.119Z",
+    "generated_at": "2026-09-12T13:45:46.737Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Hormuz Shipping Traffic Plunges as Middle East War Escalates",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Shipping-Traffic-Plunges-as-Middle-East-War-Escalates.html",
-        "published": "2026-09-11T10:30:00Z",
+        "title": "Iran-backed Houthis seize Red Sea port, putting another key trade route at risk",
+        "source": "POLITICO.eu",
+        "url": "https://www.politico.eu/article/houthi-yemen-red-sea-seize-port-us-iran-war-second-shipping-route-risk/",
+        "published": "2026-09-11T13:45:03Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Diesel Prices Soar To $6 Per Gallon As Iran War Continues",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/09/11/diesel-prices-6-per-gallon-new-record",
+        "published": "2026-09-11T13:44:14Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran-backed Yemen’s Houthis seize key Red Sea island",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/09/iran-backed-yemens-houthis-seize-key-red-sea-island/",
-        "published": "2026-09-11T10:24:01Z",
+        "title": "Modi, Putin agree to strengthen India-Russia partnership on eve of BRICS summit",
+        "source": "Yahoo Entertainment",
+        "url": "https://uk.news.yahoo.com/modi-putin-hold-talks-delhi-105749601.html",
+        "published": "2026-09-11T13:42:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "What if the Assumptions Embedded in the Oil Curve Are Wrong?",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/what_if_the_assumptions_embedded_in_the_oil_curve_are_wrong-11-sep-2026-184593-article/",
-        "published": "2026-09-11T10:19:14Z",
+        "title": "Houthis 'take control' of key island in global shipping route",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/live/cmd683p01eljt",
+        "published": "2026-09-11T13:41:38Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthis take control of Yemen’s Red Sea coast, key shipping route",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route",
-        "published": "2026-09-11T10:11:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Houthis reach strategic island in key shipping route, threatening global trade chokepoint",
+        "title": "Houthi forces seize Mokha port and push toward Bab al-Mandab chokepoint",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/houthis-perim-island-shipping-route/",
-        "published": "2026-09-11T10:06:49Z",
+        "url": "https://cryptobriefing.com/houthi-forces-seize-mokha-port-bab-al-mandab/",
+        "published": "2026-09-11T13:33:59Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "President Trump Is Bold, Brave, and Right on the Iran War",
+        "source": "Reason",
+        "url": "https://reason.com/volokh/2026/09/11/president-trump-is-bold-brave-and-right-on-the-iran-war/",
+        "published": "2026-09-11T12:01:01Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Taiwan official’s Europe visit challenges China’s isolation efforts",
         "source": "Crypto Briefing",
@@ -90,13 +97,6 @@
         "url": "https://sinocism.com/p/deflation-over-for-now-mofcom-responds",
         "published": "2026-09-09T23:15:10Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "A China-Taiwan War Could Bring The Global Economy To Its Knees, Top Diplomat Warns",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/09/09/china-taiwan-war-global-economy-top-diplomat-raymond-greene-warning",
-        "published": "2026-09-09T19:20:33Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
