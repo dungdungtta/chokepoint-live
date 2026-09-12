@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T13:45:46.737Z",
+    "generated_at": "2026-09-12T16:54:50.710Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran-backed Houthis seize Red Sea port, putting another key trade route at risk",
-        "source": "POLITICO.eu",
-        "url": "https://www.politico.eu/article/houthi-yemen-red-sea-seize-port-us-iran-war-second-shipping-route-risk/",
-        "published": "2026-09-11T13:45:03Z",
+        "title": "Iran-backed Houthis take full control of Red Sea coastline, tightening grip on crucial shipping lane - NBC News",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185607180",
+        "published": "2026-09-11T16:53:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "Diesel Prices Soar To $6 Per Gallon As Iran War Continues",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/09/11/diesel-prices-6-per-gallon-new-record",
-        "published": "2026-09-11T13:44:14Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Modi, Putin agree to strengthen India-Russia partnership on eve of BRICS summit",
-        "source": "Yahoo Entertainment",
-        "url": "https://uk.news.yahoo.com/modi-putin-hold-talks-delhi-105749601.html",
-        "published": "2026-09-11T13:42:24Z",
+        "title": "Saudi Arabian oil pipeline system hit by projectiles triggering fires | CNN Politics",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/09/11/politics/saudi-arabian-oil-pipeline-hit-by-projectiles-triggering-fires",
+        "published": "2026-09-11T16:45:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthis 'take control' of key island in global shipping route",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/live/cmd683p01eljt",
-        "published": "2026-09-11T13:41:38Z",
+        "title": "Yemen's Houthis reach strategic island at mouth of vital shipping lane",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/yemen-s-houthis-reach-strategic-island-at-mouth-of-vital-shipping-lane-126091101294_1.html",
+        "published": "2026-09-11T16:43:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthi forces seize Mokha port and push toward Bab al-Mandab chokepoint",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/houthi-forces-seize-mokha-port-bab-al-mandab/",
-        "published": "2026-09-11T13:33:59Z",
-        "sentiment": "danger"
+        "title": "Houthis control key shipping route after gains along Yemen’s Red Sea coast - aljazeera.com",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185606914",
+        "published": "2026-09-11T16:34:26Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Don’t Blame Ukraine for High Gas Prices",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/11/gas-prices-trump-iran-war-wright-ukraine-russia/",
+        "published": "2026-09-11T16:24:29Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "FO Exclusive: Lightning Roundup of August 2026 Writeup",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/world-news/fo-exclusive-lightning-roundup-of-august-2026-writeup/",
+        "published": "2026-09-11T14:20:46Z",
+        "sentiment": "watch"
+      },
       {
         "title": "President Trump Is Bold, Brave, and Right on the Iran War",
         "source": "Reason",
@@ -90,13 +97,6 @@
         "url": "https://www.theatlantic.com/national-security/2026/09/trump-iran-war-navy/688563/",
         "published": "2026-09-10T12:12:02Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Deflation over for now; MOFCOM responds to US distillation advisory; DeepSeek IPO and new model; Xi-Trump summit",
-        "source": "Sinocism.com",
-        "url": "https://sinocism.com/p/deflation-over-for-now-mofcom-responds",
-        "published": "2026-09-09T23:15:10Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
