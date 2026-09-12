@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T05:51:33.168Z",
+    "generated_at": "2026-09-12T10:33:43.119Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
-        "published": "2026-09-11T05:40:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Tim Ferriss Show Transcripts: Why Kids Can Learn 10x Faster Than We Think — Niels Hoven of Mentava (Tim Coaching Session) (#882)",
-        "source": "Tim.blog",
-        "url": "https://tim.blog/2026/09/10/niels-hoven-mentava-transcript/",
-        "published": "2026-09-11T05:31:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi oil pipeline may be hit as Houthi attacks escalate",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4395081/posts",
-        "published": "2026-09-11T05:24:44Z",
+        "title": "Hormuz Shipping Traffic Plunges as Middle East War Escalates",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Shipping-Traffic-Plunges-as-Middle-East-War-Escalates.html",
+        "published": "2026-09-11T10:30:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Global bond yields surge as oil spike fuels inflation fears",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-bond-yields-surge-as-oil-spike-fuels-inflation-fears/articleshow/134047045.cms",
-        "published": "2026-09-11T05:21:21Z",
+        "title": "Iran-backed Yemen’s Houthis seize key Red Sea island",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/09/iran-backed-yemens-houthis-seize-key-red-sea-island/",
+        "published": "2026-09-11T10:24:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "INR struggles at one and half month low amid soaring oil prices",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/capital-market-news/inr-struggles-at-one-and-half-month-low-amid-soaring-oil-prices-126091100284_1.html",
-        "published": "2026-09-11T04:47:22Z",
+        "title": "What if the Assumptions Embedded in the Oil Curve Are Wrong?",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/what_if_the_assumptions_embedded_in_the_oil_curve_are_wrong-11-sep-2026-184593-article/",
+        "published": "2026-09-11T10:19:14Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Houthis take control of Yemen’s Red Sea coast, key shipping route",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route",
+        "published": "2026-09-11T10:11:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Houthis reach strategic island in key shipping route, threatening global trade chokepoint",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/houthis-perim-island-shipping-route/",
+        "published": "2026-09-11T10:06:49Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan official’s Europe visit challenges China’s isolation efforts",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/taiwan-officials-europe-visit-challenges-chinas-isolation-efforts/",
+        "published": "2026-09-11T06:46:29Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China’s Economic Crossroads: Growth, Inequality and Geopolitical Pressures",
         "source": "Fair Observer",
@@ -90,13 +97,6 @@
         "url": "https://dailycaller.com/2026/09/09/china-taiwan-war-global-economy-top-diplomat-raymond-greene-warning",
         "published": "2026-09-09T19:20:33Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "China says it held 'candid and in-depth' military talks with Canadian officials last week",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/politics/canada-china-military-cooperation-9.7337345",
-        "published": "2026-09-09T17:22:05Z",
-        "sentiment": "neutral"
       }
     ],
     "malacca": [
