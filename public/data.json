@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T21:27:25.584Z",
+    "generated_at": "2026-09-12T23:13:53.943Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran bags US hardware, German voters revolt, and Zelensky survives a 160km ‘near-miss’: RT stories that shaped the week",
-        "source": "RT",
-        "url": "https://www.rt.com/news/645510-rt-top-stories-iran-germany-ukraine/",
-        "published": "2026-09-11T21:11:57Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices set to rocket after Saudi Arabia pipeline comes under attack from drones launched from Iraqi territory as the Houthis take over strait vital to global shipping",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16124587/Oil-Saudi-Arabia-pipeline-attack-drones-Iraqi-Houthis.html",
-        "published": "2026-09-11T21:02:59Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iraqi Militias Join The Iran War As The Fire Rises",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/09/11/iraq-militias-iran-war-saudi-arabia-pipeline-oil",
-        "published": "2026-09-11T20:58:51Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil crisis deepens after Houthis take over vital shipping route",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/houthis-red-sea-shipping-7160187-Sep2026/",
-        "published": "2026-09-11T20:28:56Z",
+        "title": "1963 Chevrolet Corvette Split-Window Coupe 327/340 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1963-chevrolet-corvette-coupe-267/",
+        "published": "2026-09-11T23:00:10Z",
         "sentiment": "watch"
       },
       {
-        "title": "US stocks today: US stocks end higher as strong inflation data cements rate-hike bets",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-strong-inflation-data-cements-rate-hike-bets/articleshow/134088893.cms",
-        "published": "2026-09-11T20:14:25Z",
+        "title": "Yemen's Houthis take over strait vital to global shipping",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/yemen-houthis-red-sea-shipping-iran-war-6379706",
+        "published": "2026-09-11T22:33:53Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Everything Trump Wants to Do Causes Inflation",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/newsletters/2026/09/trump-5k-inflation-republican-midterm-convention/688603/",
+        "published": "2026-09-11T22:16:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web",
+        "published": "2026-09-11T21:45:05Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -110,7 +103,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
