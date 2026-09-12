@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T01:09:56.814Z",
+    "generated_at": "2026-09-12T05:51:33.168Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Global Market Today: Asian stocks, bonds fall on oil, inflation concern",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-bonds-fall-on-oil-inflation-concern/articleshow/134038662.cms",
-        "published": "2026-09-11T01:06:20Z",
+        "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
+        "published": "2026-09-11T05:40:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "Crude hits $107, fresh petrol price hike looms",
-        "source": "The Punch",
-        "url": "https://punchng.com/crude-hits-107-fresh-petrol-price-hike-looms/",
-        "published": "2026-09-11T00:52:10Z",
+        "title": "The Tim Ferriss Show Transcripts: Why Kids Can Learn 10x Faster Than We Think — Niels Hoven of Mentava (Tim Coaching Session) (#882)",
+        "source": "Tim.blog",
+        "url": "https://tim.blog/2026/09/10/niels-hoven-mentava-transcript/",
+        "published": "2026-09-11T05:31:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "Yemen risks return to civil war as Iran-backed Houthis target vital oil shipping route",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/cc57124192bb81f3",
-        "published": "2026-09-11T00:21:09Z",
+        "title": "Saudi oil pipeline may be hit as Houthi attacks escalate",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4395081/posts",
+        "published": "2026-09-11T05:24:44Z",
         "sentiment": "danger"
       },
       {
-        "title": "Analysts: Trade surplus to narrow as oil prices moderate",
-        "source": "The Punch",
-        "url": "https://punchng.com/analysts-trade-surplus-to-narrow-as-oil-prices-moderate/",
-        "published": "2026-09-11T00:08:46Z",
+        "title": "Global bond yields surge as oil spike fuels inflation fears",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-bond-yields-surge-as-oil-spike-fuels-inflation-fears/articleshow/134047045.cms",
+        "published": "2026-09-11T05:21:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "India ramps up domestic LPG production as renewed US-Iran attacks spark fresh fears over Strait of Hormuz supplies",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-ramps-up-domestic-lpg-production-as-renewed-us-iran-attacks-spark-fresh-fears-over-strait-of-hormuz-supplies/articleshow/134027282.cms",
-        "published": "2026-09-11T00:00:00Z",
-        "sentiment": "danger"
+        "title": "INR struggles at one and half month low amid soaring oil prices",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/capital-market-news/inr-struggles-at-one-and-half-month-low-amid-soaring-oil-prices-126091100284_1.html",
+        "published": "2026-09-11T04:47:22Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
