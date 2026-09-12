@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T23:09:21.845Z",
+    "generated_at": "2026-09-12T01:09:56.814Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran-backed Houthis capture Red Sea port, putting more pressure on oil markets",
+        "title": "Global Market Today: Asian stocks, bonds fall on oil, inflation concern",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-bonds-fall-on-oil-inflation-concern/articleshow/134038662.cms",
+        "published": "2026-09-11T01:06:20Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Crude hits $107, fresh petrol price hike looms",
+        "source": "The Punch",
+        "url": "https://punchng.com/crude-hits-107-fresh-petrol-price-hike-looms/",
+        "published": "2026-09-11T00:52:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Yemen risks return to civil war as Iran-backed Houthis target vital oil shipping route",
         "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/760a05d737f5315c",
-        "published": "2026-09-10T23:06:02Z",
+        "url": "https://biztoc.com/x/cc57124192bb81f3",
+        "published": "2026-09-11T00:21:09Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Analysts: Trade surplus to narrow as oil prices moderate",
+        "source": "The Punch",
+        "url": "https://punchng.com/analysts-trade-surplus-to-narrow-as-oil-prices-moderate/",
+        "published": "2026-09-11T00:08:46Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump keeps telling voters he doesn’t care much about affordability",
-        "source": "Vox",
-        "url": "https://www.vox.com/politics/502567/trump-iran-gas-prices-republican-midterm-convention",
-        "published": "2026-09-10T22:42:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran-backed Houthis capture Red Sea port, putting more pressure on oil markets",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/show/iran-backed-houthis-capture-red-sea-port-putting-more-pressure-on-oil-markets",
-        "published": "2026-09-10T22:40:02Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Surging oil prices, higher bond yields weigh on stocks",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/surging-oil-prices-higher-bond-yields-weigh-stocks-6377296",
-        "published": "2026-09-10T22:31:37Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What Makes a Good Counterterrorism Strategy?",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/10/us-terrorism-9-11-anniversary-jihadism-al-qaeda/",
-        "published": "2026-09-10T21:53:49Z",
-        "sentiment": "watch"
+        "title": "India ramps up domestic LPG production as renewed US-Iran attacks spark fresh fears over Strait of Hormuz supplies",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-ramps-up-domestic-lpg-production-as-renewed-us-iran-attacks-spark-fresh-fears-over-strait-of-hormuz-supplies/articleshow/134027282.cms",
+        "published": "2026-09-11T00:00:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
