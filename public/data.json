@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T19:07:15.563Z",
+    "generated_at": "2026-09-12T21:27:25.584Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil prices dive on signs of Hormuz diplomacy while Saudi Arabia is left hanging in fight against an Iranian ally threatening crude’s other chokepoint",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/oil-prices-dive-signs-hormuz-190707648.html",
-        "published": "2026-09-11T19:07:07Z",
+        "title": "Iran bags US hardware, German voters revolt, and Zelensky survives a 160km ‘near-miss’: RT stories that shaped the week",
+        "source": "RT",
+        "url": "https://www.rt.com/news/645510-rt-top-stories-iran-germany-ukraine/",
+        "published": "2026-09-11T21:11:57Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil prices dive on signs of Hormuz diplomacy while Saudi Arabia is left hanging in fight against an Iranian ally threatening crude’s other chokepoint",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/09/11/oil-prices-hormuz-diplomacy-saudi-arabia-houthis-pakistan-us-bab-al-mandab/",
-        "published": "2026-09-11T19:07:07Z",
+        "title": "Oil prices set to rocket after Saudi Arabia pipeline comes under attack from drones launched from Iraqi territory as the Houthis take over strait vital to global shipping",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16124587/Oil-Saudi-Arabia-pipeline-attack-drones-Iraqi-Houthis.html",
+        "published": "2026-09-11T21:02:59Z",
         "sentiment": "danger"
       },
       {
-        "title": "Houthi advance in Yemen is about more than just the Red Sea",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/11/houthi-advance-in-yemen-is-about-more-than-just-the-red-sea",
-        "published": "2026-09-11T19:01:07Z",
+        "title": "Iraqi Militias Join The Iran War As The Fire Rises",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/09/11/iraq-militias-iran-war-saudi-arabia-pipeline-oil",
+        "published": "2026-09-11T20:58:51Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil crisis deepens after Houthis take over vital shipping route",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/houthis-red-sea-shipping-7160187-Sep2026/",
+        "published": "2026-09-11T20:28:56Z",
         "sentiment": "watch"
       },
       {
-        "title": "Germany's election and the UK's sanctions signals political warfare",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-09-12/political-warfare-andy-burnham-germany-election-sanctions/107143228",
-        "published": "2026-09-11T19:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Houthis seize Yemen's entire Red Sea coast, tightening grip on key shipping route",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/433083",
-        "published": "2026-09-11T18:51:00Z",
+        "title": "US stocks today: US stocks end higher as strong inflation data cements rate-hike bets",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-strong-inflation-data-cements-rate-hike-bets/articleshow/134088893.cms",
+        "published": "2026-09-11T20:14:25Z",
         "sentiment": "watch"
       }
     ],
