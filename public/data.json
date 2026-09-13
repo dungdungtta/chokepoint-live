@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T06:14:45.565Z",
+    "generated_at": "2026-09-13T12:03:54.676Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Saudi Arabia has few options as it faces mounting threats from Iran, its allies",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/saudi-arabia-has-few-options-as-it-faces-mounting-threats-from-iran-its-allies/article71459258.ece",
-        "published": "2026-09-12T06:11:38Z",
+        "title": "Yemen government forces say Houthi ‘members, vehicles’ targeted in Mocha",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/9/12/yemen-government-forces-say-houthi-members-vehicles-targeted-in-mocha",
+        "published": "2026-09-12T11:57:49Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Ukraine strikes Russia’s shadow fleet amid ongoing attacks, 11 killed",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/ukraine-strikes-russia-shadow-fleet-odesa/",
+        "published": "2026-09-12T11:54:41Z",
         "sentiment": "danger"
       },
       {
-        "title": "Dangote refinery raises petrol gantry price to N1,350",
+        "title": "Perma-Pipe’s (PPIH) Middle East Bet Just Got A Lot More Real",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/perma-pipe-ppih-middle-east-113634120.html",
+        "published": "2026-09-12T11:36:34Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Saudi Arabia shuts key oil pipeline after Iraqi drone attack",
         "source": "The Punch",
-        "url": "https://punchng.com/dangote-refinery-raises-petrol-gantry-price-to-n1350/",
-        "published": "2026-09-12T06:08:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran strikes U.S. spy drone in Strait of Hormuz, escalating maritime crisis",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-09-12-iran-strikes-us-spy-drone-strait-of-hormuz.html",
-        "published": "2026-09-12T06:00:00Z",
+        "url": "https://punchng.com/saudi-arabia-shuts-key-oil-pipeline-after-iraqi-drone-attack/",
+        "published": "2026-09-12T11:09:12Z",
         "sentiment": "danger"
       },
       {
-        "title": "Cliff Taylor: Energy price hikes are killing hopes of a feelgood budget",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/opinion/2026/09/12/cliff-taylor-energy-price-hikes-are-killing-hopes-of-a-feelgood-budget/",
-        "published": "2026-09-12T06:00:00Z",
+        "title": "Trump says Yemen’s Houthis have asked US not to intervene",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/09/trump-says-yemens-houthis-have-asked-us-not-to-intervene/",
+        "published": "2026-09-12T10:52:29Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/saudi-arabia-options-faces-mounting-threats-iran-allies-136384544",
-        "published": "2026-09-12T05:59:20Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
