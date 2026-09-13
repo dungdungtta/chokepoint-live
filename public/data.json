@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T21:22:02.759Z",
+    "generated_at": "2026-09-13T23:24:32.223Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/12/bahrain-says-it-will-not-participate-in-irans-proposed-hormuz-meeting",
-        "published": "2026-09-12T19:34:04Z",
+        "title": "Houthis asked US to stay out of Saudi fight – Trump (VIDEOS)",
+        "source": "RT",
+        "url": "https://www.rt.com/news/645614-houthis-trump-saudi-fight/",
+        "published": "2026-09-12T23:05:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-6380641",
-        "published": "2026-09-12T18:47:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Attack that closed key Saudi pipeline blamed on Iran-backed militias in Iraq",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/iraq-iran-yemen-saudi-arabia-c1359273dd970b969e823356e5ead377",
-        "published": "2026-09-12T18:42:25Z",
+        "title": "Oil Industry Braces for Years-Long Iran War",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Industry-Braces-for-Years-Long-Iran-War.html",
+        "published": "2026-09-12T23:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Houthis seize Perim Island, control Bab el-Mandeb Strait after 18-hour assault",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/houthis-seize-perim-island-control-bab-el-mandeb-strait-after-18-hour-assault/",
-        "published": "2026-09-12T18:35:56Z",
+        "title": "1,400 flee Yemen to Djibouti as Houthis invade",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/09/1400-flee-yemen-to-djibouti-as-houthis-invade/",
+        "published": "2026-09-12T22:26:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "Rising energy costs may drive up US apparel prices amid Iran tensions, El Niño",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/rising-energy-costs-may-drive-up-us-apparel-prices-amid-iran-tensions-el-nio/",
-        "published": "2026-09-12T18:02:19Z",
+        "title": "16k-Mile 2004 BMW R1150GS Adventure at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/2004-bmw-r1150gs-12/",
+        "published": "2026-09-12T22:10:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "‘I can’t do math!’: Confused Fox News host struggles to calculate record gas price hike",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/gas-prices-2677851928/",
+        "published": "2026-09-12T21:54:32Z",
         "sentiment": "watch"
       }
     ],
