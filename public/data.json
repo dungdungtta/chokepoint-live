@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T16:22:30.668Z",
+    "generated_at": "2026-09-13T18:54:05.204Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "After attack on Saudi pipeline, Trump says Houthis don’t want the U.S. involved — ‘everything’s going to work out fine and dandy’",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/09/12/after-saudi-pipeline-trump-houthis-iran-red-sea-shipping/",
-        "published": "2026-09-12T16:12:12Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Houthi advance in Yemen puts U.S. in a new bind",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/houthi-advance-in-yemen-puts-u-s-in-a-new-bind/articleshow/134142061.cms",
-        "published": "2026-09-12T16:00:13Z",
+        "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-6380641",
+        "published": "2026-09-12T18:47:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "As Iran proxies activate in Yemen and Iraq, Trump’s Mideast morass deepens",
+        "title": "Attack that closed key Saudi pipeline blamed on Iran-backed militias in Iraq",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/iraq-iran-yemen-saudi-arabia-c1359273dd970b969e823356e5ead377",
+        "published": "2026-09-12T18:42:25Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Houthis seize Perim Island, control Bab el-Mandeb Strait after 18-hour assault",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/as-iran-proxies-activate-in-yemen-and-iraq-trumps-mideast-morass-deepens/",
-        "published": "2026-09-12T15:46:33Z",
+        "url": "https://cryptobriefing.com/houthis-seize-perim-island-control-bab-el-mandeb-strait-after-18-hour-assault/",
+        "published": "2026-09-12T18:35:56Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudi Arabia’s nightmare scenario comes true as Houthis threaten crucial Red Sea shipping route and drone attacks force closure of major pipeline",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/09/12/saudi-arabia-nightmare-scenario-houthis-red-sea-shipping-route-drone-attacks-closure-east-west-pipeline/",
-        "published": "2026-09-12T15:22:02Z",
-        "sentiment": "danger"
+        "title": "Rising energy costs may drive up US apparel prices amid Iran tensions, El Niño",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/rising-energy-costs-may-drive-up-us-apparel-prices-amid-iran-tensions-el-nio/",
+        "published": "2026-09-12T18:02:19Z",
+        "sentiment": "watch"
       },
       {
-        "title": "2008 BMW R1200R at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2008-bmw-r1200r-4-2/",
-        "published": "2026-09-12T15:20:09Z",
+        "title": "Saudi Arabia Shuts Down Key Pipeline as Iranian Proxies Wage Multi-Front Assault",
+        "source": "Legalinsurrection.com",
+        "url": "https://legalinsurrection.com/2026/09/saudi-arabia-shuts-down-key-pipeline-as-iranian-proxies-wage-multi-front-assault/",
+        "published": "2026-09-12T18:00:42Z",
         "sentiment": "watch"
       }
     ],
