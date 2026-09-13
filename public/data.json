@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T01:08:06.587Z",
+    "generated_at": "2026-09-13T06:14:45.565Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Gulf oil threatened anew as Houthis reach key island and pipeline is shut down",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/gulf-oil-threatened-anew-as-houthis-reach-key-island-and-pipeline-is-shut-down/articleshow/134100369.cms",
-        "published": "2026-09-12T00:55:46Z",
+        "title": "Saudi Arabia has few options as it faces mounting threats from Iran, its allies",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/saudi-arabia-has-few-options-as-it-faces-mounting-threats-from-iran-its-allies/article71459258.ece",
+        "published": "2026-09-12T06:11:38Z",
         "sentiment": "danger"
       },
       {
-        "title": "Houthis seize strategic Red Sea island, raising fresh threat to Saudi oil exports",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/houthis-seize-strategic-red-sea-island-raising-fresh-threat-to-saudi-oil-exports/articleshow/134087216.cms",
-        "published": "2026-09-12T00:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "We left Australia after buying a 12-bedroom ski lodge in Japan. From affordable cost of living to a slow-pace lifestyle - here's why our lives are so much better than before",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/lifestyle/article-16026589/We-left-Australia-buying-12-bedroom-ski-lodge-Japan-affordable-cost-living-slow-pace-lifestyle-heres-lives-better-before.html",
-        "published": "2026-09-11T23:59:50Z",
+        "title": "Dangote refinery raises petrol gantry price to N1,350",
+        "source": "The Punch",
+        "url": "https://punchng.com/dangote-refinery-raises-petrol-gantry-price-to-n1350/",
+        "published": "2026-09-12T06:08:03Z",
         "sentiment": "watch"
       },
       {
-        "title": "Drone attacks shut key Saudi oil pipeline (SATELLITE PHOTOS)",
-        "source": "RT",
-        "url": "https://www.rt.com/news/645534-saudi-oil-pipeline-drones/",
-        "published": "2026-09-11T23:57:36Z",
+        "title": "Iran strikes U.S. spy drone in Strait of Hormuz, escalating maritime crisis",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-09-12-iran-strikes-us-spy-drone-strait-of-hormuz.html",
+        "published": "2026-09-12T06:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Saudi Arabia closes oil pipeline after drone attack launched from Iraq",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-09-12/drone-attack-on-saudi-oil-pipeline-from-iraq/107146218",
-        "published": "2026-09-11T23:53:16Z",
+        "title": "Cliff Taylor: Energy price hikes are killing hopes of a feelgood budget",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/opinion/2026/09/12/cliff-taylor-energy-price-hikes-are-killing-hopes-of-a-feelgood-budget/",
+        "published": "2026-09-12T06:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/saudi-arabia-options-faces-mounting-threats-iran-allies-136384544",
+        "published": "2026-09-12T05:59:20Z",
         "sentiment": "danger"
       }
     ],
