@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T23:13:53.943Z",
+    "generated_at": "2026-09-13T01:08:06.587Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "1963 Chevrolet Corvette Split-Window Coupe 327/340 4-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1963-chevrolet-corvette-coupe-267/",
-        "published": "2026-09-11T23:00:10Z",
+        "title": "Gulf oil threatened anew as Houthis reach key island and pipeline is shut down",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/gulf-oil-threatened-anew-as-houthis-reach-key-island-and-pipeline-is-shut-down/articleshow/134100369.cms",
+        "published": "2026-09-12T00:55:46Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Houthis seize strategic Red Sea island, raising fresh threat to Saudi oil exports",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/houthis-seize-strategic-red-sea-island-raising-fresh-threat-to-saudi-oil-exports/articleshow/134087216.cms",
+        "published": "2026-09-12T00:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "We left Australia after buying a 12-bedroom ski lodge in Japan. From affordable cost of living to a slow-pace lifestyle - here's why our lives are so much better than before",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/lifestyle/article-16026589/We-left-Australia-buying-12-bedroom-ski-lodge-Japan-affordable-cost-living-slow-pace-lifestyle-heres-lives-better-before.html",
+        "published": "2026-09-11T23:59:50Z",
         "sentiment": "watch"
       },
       {
-        "title": "Yemen's Houthis take over strait vital to global shipping",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/yemen-houthis-red-sea-shipping-iran-war-6379706",
-        "published": "2026-09-11T22:33:53Z",
-        "sentiment": "watch"
+        "title": "Drone attacks shut key Saudi oil pipeline (SATELLITE PHOTOS)",
+        "source": "RT",
+        "url": "https://www.rt.com/news/645534-saudi-oil-pipeline-drones/",
+        "published": "2026-09-11T23:57:36Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Everything Trump Wants to Do Causes Inflation",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/newsletters/2026/09/trump-5k-inflation-republican-midterm-convention/688603/",
-        "published": "2026-09-11T22:16:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
-        "source": "Decrypt",
-        "url": "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web",
-        "published": "2026-09-11T21:45:05Z",
+        "title": "Saudi Arabia closes oil pipeline after drone attack launched from Iraq",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-09-12/drone-attack-on-saudi-oil-pipeline-from-iraq/107146218",
+        "published": "2026-09-11T23:53:16Z",
         "sentiment": "danger"
       }
     ],
@@ -103,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
