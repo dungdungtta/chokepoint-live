@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-14T14:07:54.222Z",
+    "generated_at": "2026-09-14T19:25:08.569Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending",
-        "published": "2026-09-13T13:59:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/13/iran-war-oil-prices-freight-tankers-shipping.html",
-        "published": "2026-09-13T13:50:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran is set to unveil Hormuz Agreement to Gulf Nations on Monday",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-13/uae-iran-leaders-meet-as-push-to-resolve-hormuz-standoff-grows",
-        "published": "2026-09-13T13:39:25Z",
+        "title": "Gulf states and Iran meeting postponed, delaying Strait of Hormuz talks",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/gulf-states-and-iran-meeting-postponed-delaying-strait-of-hormuz-talks/",
+        "published": "2026-09-13T19:20:38Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/13/vessel-struck-strait-of-hormuz-ukmto.html",
-        "published": "2026-09-13T13:38:23Z",
-        "sentiment": "watch"
+        "title": "85,000+ Yemeni Civilians Displaced by Renewed Fighting Kicked Off by Trump's Iran War",
+        "source": "Common Dreams",
+        "url": "https://www.commondreams.org/news/yemen-displaced",
+        "published": "2026-09-13T19:05:22Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Johnson says Congress would work with to deliver $5,000 checks Trump promised to Americans",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/congress/johnson-congress-work-deliver-5000-checks-trump-midterm-elections-rcna597459",
-        "published": "2026-09-13T13:23:59Z",
-        "sentiment": "watch"
+        "title": "US Energy Secretary Chris Wright warns oil traders not to bank on Iran deal for Strait of Hormuz",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/wright-warns-oil-traders-strait-of-hormuz/",
+        "published": "2026-09-13T18:57:28Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Costco Is Rationing Motor Oil, The Middle East Is In Chaos, And Western Leaders Riding A Train In Ukraine Just Narrowly Avoided A Russian Drone Strike",
+        "source": "Theeconomiccollapseblog.com",
+        "url": "http://theeconomiccollapseblog.com/costco-is-rationing-motor-oil-the-middle-east-is-in-chaos-and-western-leaders-riding-a-train-in-ukraine-just-narrowly-avoided-a-russian-drone-strike/",
+        "published": "2026-09-13T18:56:05Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump’s Iran leverage crumbles as new ‘inflationary shock’ threat materializes: experts",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/trump-iran-2677852816/",
+        "published": "2026-09-13T18:45:44Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
