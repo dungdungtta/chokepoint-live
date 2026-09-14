@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-14T01:30:11.367Z",
+    "generated_at": "2026-09-14T07:00:45.898Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "From isolated rebels to regional force: How the Houthis took Bab al-Mandab",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/from-isolated-rebels-to-regional-force-how-the-houthis-took-bab-al-mandab/articleshow/134169596.cms",
-        "published": "2026-09-13T01:21:37Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Petrol hits N1,395/litre as Dangote hikes price again",
-        "source": "The Punch",
-        "url": "https://punchng.com/petrol-hits-n1395-litre-as-dangote-hikes-price-again/",
-        "published": "2026-09-13T01:21:18Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
-        "source": "Haaretz",
-        "url": "https://www.haaretz.com/middle-east-news/2026-09-13/ty-article/saudis-shut-down-oil-pipeline-as-houthis-tighten-grip-on-red-sea-shipping/000001a0-9725-de76-a1f7-bf6d6ed10000",
-        "published": "2026-09-13T01:16:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Houthis claim hit on Saudi base after renewed fighting with Yemeni forces",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-09-13/houthis-hit-saudi-base-amid-renewed-fighting-with-yemen/107147690",
-        "published": "2026-09-13T01:13:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "'A much more powerful Iran': Trump's advisers warn him war could go on for YEARS",
+        "title": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies",
         "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/e56b20c91dca4512",
-        "published": "2026-09-13T01:02:54Z",
+        "url": "https://biztoc.com/x/de12cc9a6b10be7c",
+        "published": "2026-09-13T06:00:13Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "U.S. Average Diesel Prices Cross $6 a Gallon for First Time, GasBuddy Says",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-09-13-us-diesel-prices-surpass-six-per-gallon-nationwide.html",
+        "published": "2026-09-13T06:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Hormuz Crossings Fall to Seven as More Ships Sail Without Tracking",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-09-13-hormuz-crossings-fall-ships-sail-without-tracking.html",
+        "published": "2026-09-13T06:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "South Koreans Protest Possible Military Deployment to Strait of Hormuz",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-09-13-south-koreans-protest-possible-military-deployment-hormuz.html",
+        "published": "2026-09-13T06:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "An Iranian commercial ship is struck near Strait of Hormuz with 1 dead, Iranian media say",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/world/articles/iranian-commercial-ship-struck-near-055331558.html",
+        "published": "2026-09-13T05:53:31Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
