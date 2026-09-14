@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-14T19:25:08.569Z",
+    "generated_at": "2026-09-14T22:41:31.487Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Gulf states and Iran meeting postponed, delaying Strait of Hormuz talks",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/gulf-states-and-iran-meeting-postponed-delaying-strait-of-hormuz-talks/",
-        "published": "2026-09-13T19:20:38Z",
+        "title": "Oil Jumps as Shutdown of Saudi Pipeline Deepens Energy Crisis",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/oil-jumps-shutdown-saudi-pipeline-222833324.html",
+        "published": "2026-09-13T22:28:33Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Tehran and Muscat delay talks, citing regional consensus need",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need",
+        "published": "2026-09-13T21:50:50Z",
         "sentiment": "neutral"
       },
       {
-        "title": "85,000+ Yemeni Civilians Displaced by Renewed Fighting Kicked Off by Trump's Iran War",
-        "source": "Common Dreams",
-        "url": "https://www.commondreams.org/news/yemen-displaced",
-        "published": "2026-09-13T19:05:22Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US Energy Secretary Chris Wright warns oil traders not to bank on Iran deal for Strait of Hormuz",
+        "title": "US diesel prices hit record $6.20/gallon, up 78% in nine months",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/wright-warns-oil-traders-strait-of-hormuz/",
-        "published": "2026-09-13T18:57:28Z",
-        "sentiment": "danger"
+        "url": "https://cryptobriefing.com/us-diesel-prices-hit-record-620gallon-up-78-in-nine-months/",
+        "published": "2026-09-13T21:17:19Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Costco Is Rationing Motor Oil, The Middle East Is In Chaos, And Western Leaders Riding A Train In Ukraine Just Narrowly Avoided A Russian Drone Strike",
-        "source": "Theeconomiccollapseblog.com",
-        "url": "http://theeconomiccollapseblog.com/costco-is-rationing-motor-oil-the-middle-east-is-in-chaos-and-western-leaders-riding-a-train-in-ukraine-just-narrowly-avoided-a-russian-drone-strike/",
-        "published": "2026-09-13T18:56:05Z",
-        "sentiment": "danger"
+        "title": "Fuel price rise deepens pressure on Nigerians",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/09/fuel-price-rise-deepens-pressure-on-nigerians/",
+        "published": "2026-09-13T21:14:51Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Trump’s Iran leverage crumbles as new ‘inflationary shock’ threat materializes: experts",
-        "source": "Raw Story",
-        "url": "https://www.rawstory.com/trump-iran-2677852816/",
-        "published": "2026-09-13T18:45:44Z",
+        "title": "Pipeline Damage, Houthi Attack Pressure Global Oil Supply",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/396351/pipeline-damage-houthi-attack-pressure-global-oil-supply.html",
+        "published": "2026-09-13T21:10:00Z",
         "sentiment": "danger"
       }
     ],
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
