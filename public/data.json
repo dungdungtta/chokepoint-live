@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T23:24:32.223Z",
+    "generated_at": "2026-09-14T01:30:11.367Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Houthis asked US to stay out of Saudi fight – Trump (VIDEOS)",
-        "source": "RT",
-        "url": "https://www.rt.com/news/645614-houthis-trump-saudi-fight/",
-        "published": "2026-09-12T23:05:43Z",
+        "title": "From isolated rebels to regional force: How the Houthis took Bab al-Mandab",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/from-isolated-rebels-to-regional-force-how-the-houthis-took-bab-al-mandab/articleshow/134169596.cms",
+        "published": "2026-09-13T01:21:37Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Industry Braces for Years-Long Iran War",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Industry-Braces-for-Years-Long-Iran-War.html",
-        "published": "2026-09-12T23:00:00Z",
+        "title": "Petrol hits N1,395/litre as Dangote hikes price again",
+        "source": "The Punch",
+        "url": "https://punchng.com/petrol-hits-n1395-litre-as-dangote-hikes-price-again/",
+        "published": "2026-09-13T01:21:18Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
+        "source": "Haaretz",
+        "url": "https://www.haaretz.com/middle-east-news/2026-09-13/ty-article/saudis-shut-down-oil-pipeline-as-houthis-tighten-grip-on-red-sea-shipping/000001a0-9725-de76-a1f7-bf6d6ed10000",
+        "published": "2026-09-13T01:16:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Houthis claim hit on Saudi base after renewed fighting with Yemeni forces",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-09-13/houthis-hit-saudi-base-amid-renewed-fighting-with-yemen/107147690",
+        "published": "2026-09-13T01:13:15Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "'A much more powerful Iran': Trump's advisers warn him war could go on for YEARS",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/e56b20c91dca4512",
+        "published": "2026-09-13T01:02:54Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "1,400 flee Yemen to Djibouti as Houthis invade",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/09/1400-flee-yemen-to-djibouti-as-houthis-invade/",
-        "published": "2026-09-12T22:26:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "16k-Mile 2004 BMW R1150GS Adventure at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2004-bmw-r1150gs-12/",
-        "published": "2026-09-12T22:10:10Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "‘I can’t do math!’: Confused Fox News host struggles to calculate record gas price hike",
-        "source": "Raw Story",
-        "url": "https://www.rawstory.com/gas-prices-2677851928/",
-        "published": "2026-09-12T21:54:32Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan’s Six-Year Hunt for China’s Undercover Chip Labs",
+        "source": "Restofworld.org",
+        "url": "https://restofworld.org/2026/taiwan-china-chip-investigations/",
+        "published": "2026-09-13T00:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "FO Exclusive: Lightning Roundup of August 2026 Writeup",
         "source": "Fair Observer",
@@ -90,13 +97,6 @@
         "url": "https://www.fairobserver.com/economics/chinas-economic-crossroads-growth-inequality-and-geopolitical-pressures/",
         "published": "2026-09-10T13:09:58Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Trump Is Preparing for a Long War",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/national-security/2026/09/trump-iran-war-navy/688563/",
-        "published": "2026-09-10T12:12:02Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
