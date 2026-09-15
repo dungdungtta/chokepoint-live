@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-15T00:57:45.605Z",
+    "generated_at": "2026-09-15T06:04:48.594Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Tanker rates for India-bound tankers double as West Asia crisis deepens",
-        "source": "Livemint",
-        "url": "https://www.livemint.com/industry/energy/iran-war-impact-on-india-shipping-freight-rates-brent-crude-oil-prices-11789275277081.html",
-        "published": "2026-09-14T00:01:02Z",
+        "title": "The Saudi Pipeline Is Gone: Why the Global Energy Shock Just Got Far Worse",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-09-14-saudi-pipeline-gone-global-energy-shock-worse.html",
+        "published": "2026-09-14T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Original-Owner 1966 Mercedes-Benz 230SL 4-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1966-mercedes-benz-230sl-85/",
-        "published": "2026-09-14T00:00:04Z",
+        "title": "Houthi missiles and a mystery drone strike expose the cracks in Saudi Arabia’s shield",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-09-14-houthi-missiles-and-a-mystery-drone-strike-expose-the-cracks-in-saudi-arabias-shield.html",
+        "published": "2026-09-14T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Houthis advance on Marib-Taiz as Saudi Arabia faces pressure to respond",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/houthis-advance-on-marib-taiz-as-saudi-arabia-faces-pressure-to-respond/article71465425.ece",
+        "published": "2026-09-14T05:56:54Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthis' Yemen advance leaves Gulf states with uncomfortable choice",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/houthis-yemen-saudi-arabia-gulf-conflict-bab-el-mandeb-global-shipping-oil-6382121",
-        "published": "2026-09-13T23:55:57Z",
-        "sentiment": "watch"
+        "title": "Yemen conflict intensifies as Houthi attacks threaten Red Sea oil supplies",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/yemen-conflict-intensifies-as-houthi-attacks-threaten-red-sea-oil-supplies-126091400165_1.html",
+        "published": "2026-09-14T05:39:30Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Fuel-Injected 500-Powered 1968 Plymouth GTX Convertible 6-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1968-plymouth-gtx-43/",
-        "published": "2026-09-13T23:30:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Shares skid in Asia as oil rises, rate hikes loom",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/shares-skid-in-asia-oil-rises-rate-hikes-loom-6382051",
-        "published": "2026-09-13T23:10:39Z",
+        "title": "Middle East conflict drives oil tanker rates to record highs",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/middle-east-conflict-drives-oil-tanker-rates-to-record-highs/",
+        "published": "2026-09-14T05:32:21Z",
         "sentiment": "watch"
       }
     ],
