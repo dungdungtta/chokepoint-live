@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-15T06:04:48.594Z",
+    "generated_at": "2026-09-15T11:49:02.338Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "The Saudi Pipeline Is Gone: Why the Global Energy Shock Just Got Far Worse",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-09-14-saudi-pipeline-gone-global-energy-shock-worse.html",
-        "published": "2026-09-14T06:00:00Z",
+        "title": "EIA Sees 2026 Oil Price Coming in $22 Higher Than Last Year",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/eia_sees_2026_oil_price_coming_in_22_higher_than_last_year-14-sep-2026-184606-article/",
+        "published": "2026-09-14T11:46:59Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthi missiles and a mystery drone strike expose the cracks in Saudi Arabia’s shield",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-09-14-houthi-missiles-and-a-mystery-drone-strike-expose-the-cracks-in-saudi-arabias-shield.html",
-        "published": "2026-09-14T06:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Houthis advance on Marib-Taiz as Saudi Arabia faces pressure to respond",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/houthis-advance-on-marib-taiz-as-saudi-arabia-faces-pressure-to-respond/article71465425.ece",
-        "published": "2026-09-14T05:56:54Z",
+        "title": "Houthis seize 2 strategic Red Sea islands, and other Mideast developments",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/houthis-seize-2-strategic-red-sea-islands-mideast-136416872",
+        "published": "2026-09-14T11:27:42Z",
         "sentiment": "watch"
       },
       {
-        "title": "Yemen conflict intensifies as Houthi attacks threaten Red Sea oil supplies",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/yemen-conflict-intensifies-as-houthi-attacks-threaten-red-sea-oil-supplies-126091400165_1.html",
-        "published": "2026-09-14T05:39:30Z",
-        "sentiment": "danger"
+        "title": "Yemen's Houthi rebels seize more key islands in southern Red Sea, tighten grip on shipping routes",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/yemens-houthi-rebels-seize-more-key-islands-in-southern-red-sea-tighten-grip-on-shipping-routes/articleshow/134240092.cms",
+        "published": "2026-09-14T11:25:30Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Middle East conflict drives oil tanker rates to record highs",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/middle-east-conflict-drives-oil-tanker-rates-to-record-highs/",
-        "published": "2026-09-14T05:32:21Z",
+        "title": "Houthis seize additional Red Sea islands, tightening grip on key shipping route",
+        "source": "Haaretz",
+        "url": "https://www.haaretz.com/middle-east-news/2026-09-14/ty-article/houthis-seize-additional-red-sea-islands-tightening-grip-on-key-shipping-route/000001a0-9f53-d219-a3ed-bfdbccb90000",
+        "published": "2026-09-14T11:20:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "AI alarm bells reach Capitol Hill and diesel prices hit all-time high after key pipeline shuts: Morning Rundown",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/ai-alarm-bells-reach-capitol-hill-oil-prices-rise-iran-morning-rundown-rcna597632",
+        "published": "2026-09-14T11:16:14Z",
         "sentiment": "watch"
       }
     ],
