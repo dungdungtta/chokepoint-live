@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-15T20:06:51.587Z",
+    "generated_at": "2026-09-15T22:55:14.920Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Tanker explodes after colliding with mines in Hormuz...",
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/middle-east/iran-news/article-908589",
-        "published": "2026-09-14T20:00:13Z",
+        "title": "1967 Chevrolet Corvette Convertible L79 327/350 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1967-chevrolet-corvette-convertible-354/",
+        "published": "2026-09-14T22:30:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "WATCH: Kennedy Center says it could close as soon as Tuesday unless Trump’s name is there",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/video/136431794/",
-        "published": "2026-09-14T19:59:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "‘Chaos On the Ground’: Fox Reports On Escalating Battle Threatening to Further Choke Global Oil Supply",
-        "source": "Mediaite",
-        "url": "https://www.mediaite.com/media/tv/chaos-on-the-ground-fox-reports-on-escalating-battle-threatening-to-further-choke-global-oil-supply/",
-        "published": "2026-09-14T19:57:24Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Heating Oil Bills Could Jump 31% This Winter As Iran War Drives Up Prices",
+        "title": "Costco Raises Motor Oil Price, Caps Customer Purchases As Iran War Drags On",
         "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/09/14/heating-oil-costs-winter-neada-iran-war",
-        "published": "2026-09-14T19:49:48Z",
+        "url": "https://dailycaller.com/2026/09/14/costco-motor-oil-rationing-price-iran-war",
+        "published": "2026-09-14T22:13:51Z",
         "sentiment": "danger"
       },
       {
-        "title": "Crude Enters the Week Near $100 With Hormuz Talks Set for Monday",
+        "title": "TORM plc announces secondary public offering of its class A common shares by a selling shareholder",
         "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/crude-enters-the-week-near-100-with-hormuz-talks-set-for-monday-302878037.html",
-        "published": "2026-09-14T19:34:00Z",
+        "url": "https://www.prnewswire.com/news-releases/torm-plc-announces-secondary-public-offering-of-its-class-a-common-shares-by-a-selling-shareholder-302878136.html",
+        "published": "2026-09-14T21:40:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Stays Above $100 as Hormuz Talks With Iran Are Postponed",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/7ed59baa30ecd1f6",
+        "published": "2026-09-14T21:24:53Z",
         "sentiment": "neutral"
+      },
+      {
+        "title": "Breitbart Business Digest: The Fed Might Be Hiking at the Wrong Moment",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/economy/2026/09/14/breitbart-business-digest-the-fed-might-be-hiking-at-the-wrong-moment/",
+        "published": "2026-09-14T21:17:29Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
