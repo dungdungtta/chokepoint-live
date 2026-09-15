@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-15T16:47:36.675Z",
+    "generated_at": "2026-09-15T20:06:51.587Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Why Middle East tensions are pushing oil prices above $100",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-middle-east-tensions-are-pushing-oil-prices-above-100",
-        "published": "2026-09-14T16:36:05Z",
+        "title": "Tanker explodes after colliding with mines in Hormuz...",
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/article-908589",
+        "published": "2026-09-14T20:00:13Z",
         "sentiment": "watch"
       },
       {
-        "title": "Report Details 500+ Yemeni Civilian Casualties From 2023-25 US Airstrikes",
-        "source": "Antiwar.com",
-        "url": "https://www.antiwar.com/blog/2026/09/14/report-details-500-yemeni-civilian-casualties-from-2023-25-us-airstrikes/",
-        "published": "2026-09-14T16:28:34Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Gulf States Postpone Iran Talks as Houthis Strike Saudi Arabia",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/gulf-states-postpone-iran-talks-as-houthis-strike-saudi-arabia/",
-        "published": "2026-09-14T16:25:34Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Swedish Club Warns Cape Horn Is No Simple Panama Canal Alternative",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/swedish-club-warns-cape-horn-is-no-simple-panama-canal-alternative/",
-        "published": "2026-09-14T16:17:16Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Strangling Iran: Will Trump’s endgame win out?",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/433150",
-        "published": "2026-09-14T16:07:40Z",
+        "title": "WATCH: Kennedy Center says it could close as soon as Tuesday unless Trump’s name is there",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/video/136431794/",
+        "published": "2026-09-14T19:59:01Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "‘Chaos On the Ground’: Fox Reports On Escalating Battle Threatening to Further Choke Global Oil Supply",
+        "source": "Mediaite",
+        "url": "https://www.mediaite.com/media/tv/chaos-on-the-ground-fox-reports-on-escalating-battle-threatening-to-further-choke-global-oil-supply/",
+        "published": "2026-09-14T19:57:24Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Heating Oil Bills Could Jump 31% This Winter As Iran War Drives Up Prices",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/09/14/heating-oil-costs-winter-neada-iran-war",
+        "published": "2026-09-14T19:49:48Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Crude Enters the Week Near $100 With Hormuz Talks Set for Monday",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/crude-enters-the-week-near-100-with-hormuz-talks-set-for-monday-302878037.html",
+        "published": "2026-09-14T19:34:00Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
