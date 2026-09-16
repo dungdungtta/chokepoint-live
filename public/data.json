@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-16T17:02:31.530Z",
+    "generated_at": "2026-09-16T20:11:12.930Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 109.51,
-      "change_pct": 3.2,
-      "date": "2026-09-09",
+      "price": 130.8,
+      "change_pct": 7.9,
+      "date": "2026-09-15",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Saudi Oil Crisis Deepens as Aramco Suspends Yanbu Loadings",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Oil-Crisis-Deepens-as-Aramco-Suspends-Yanbu-Loadings.html",
-        "published": "2026-09-15T17:00:00Z",
+        "title": "What Is the Status of the U.S.-Iran Peace Talks? Here's What Both Sides Are Saying",
+        "source": "Time",
+        "url": "https://time.com/article/2026/09/15/us-iran-peace-talks-deal-stalled-houthis-leverage-shipping-disruptions/",
+        "published": "2026-09-15T19:58:15Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "How much oil-market buffer is left?",
+        "source": "Depletion.org",
+        "url": "https://www.depletion.org",
+        "published": "2026-09-15T19:56:56Z",
         "sentiment": "watch"
       },
       {
-        "title": "Supvan E10 Bluetooth Label Maker Machine w/ 3 Tapes for $20 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Supvan-E10-Bluetooth-Label-Maker-Machine-w-3-Tapes-for-20-free-shipping-w-Prime/22185026.html",
-        "published": "2026-09-15T16:51:34Z",
-        "sentiment": "watch"
+        "title": "Saudi Seeks Egypt’s Backing As Houthi Attacks Rattle Red Sea Oil Routes",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/saudi-seeks-egypt-backing-houthi-attacks-red-sea_n_6aa99e90e4b03cde7fad14c7",
+        "published": "2026-09-15T19:46:39Z",
+        "sentiment": "danger"
       },
       {
-        "title": "SUPVAN E10 Bluetooth Label Maker Machine w/ 3 Tapes for $20 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Supvan-E10-Bluetooth-Label-Maker-Machine-w-3-Tapes-for-20-free-shipping-w-Prime/22185026.html",
-        "published": "2026-09-15T16:51:34Z",
-        "sentiment": "watch"
+        "title": "Iran war will enter ‘much different phase in a couple of months,’ JD Vance tells The Post",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/15/us-news/iran-war-will-enter-much-different-phase-in-a-couple-of-months-jd-vance-tells-the-post/",
+        "published": "2026-09-15T19:41:47Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Drivers in Germany fume over soaring fuel prices",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/germany-drivers-fuel-costs-energy-crisis-iran-war-economic-impact-merz/a-79282456",
-        "published": "2026-09-15T16:43:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Drivers in Germany fume over soaring fuel prices",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/germany-drivers-fuel-costs-energy-crisis-iran-war-economic-impact-merz/a-79282456",
-        "published": "2026-09-15T16:43:00Z",
+        "title": "Markets on edge as US Fed meets to tackle high inflation",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/markets-edge-us-fed-meets-tackle-high-inflation-6387061",
+        "published": "2026-09-15T19:20:56Z",
         "sentiment": "watch"
       }
     ],
@@ -124,7 +124,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
