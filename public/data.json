@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-16T01:16:28.791Z",
+    "generated_at": "2026-09-16T06:36:03.026Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Houthis strike Saudi targets anew as talks over Strait of Hormuz stall",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/houthis-strike-saudi-targets-anew-as-talks-over-strait-of-hormuz-stall/articleshow/134249624.cms",
-        "published": "2026-09-15T00:54:17Z",
+        "title": "Oil up as Saudi pipeline outage, attacks heighten fears",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0915/1591567-world-oil-prices/",
+        "published": "2026-09-15T06:17:26Z",
         "sentiment": "danger"
       },
       {
-        "title": "What Saudi Arabia’s East-West pipeline closure means for global energy markets",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/what-saudi-arabias-east-west-pipeline-closure-means-for-global-energy-markets/article71466517.ece",
-        "published": "2026-09-15T00:51:05Z",
+        "title": "Houthis seize strategic Red Sea islands as analysts warn of impending oil crunch",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/338142e0de2d2fa5",
+        "published": "2026-09-15T06:12:27Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-climbs-saudi-pipeline-outage-fresh-attacks-heighten-supply-concerns-6384666",
-        "published": "2026-09-15T00:36:17Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices rise as Saudi pipeline outage, fresh attacks raise supply concerns",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-prices-rise-saudi-pipeline-outage-fresh-attacks-raise-supply-concerns-6384666",
-        "published": "2026-09-15T00:36:17Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Houthi advance in Red Sea leads oil past $108/bbl",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/houthi-advance-in-red-sea-leads-oil-past-108/bbl/articleshow/134247384.cms",
-        "published": "2026-09-15T00:30:00Z",
+        "title": "[SnS, AC] $4.18* | 3.3-Oz OGX Extra Strength Argan Oil Hair Treatment at Amazon",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20016537-sns-ac-4-18-3-3-oz-ogx-extra-strength-argan-oil-hair-treatment-at-amazon",
+        "published": "2026-09-15T06:12:05Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Oil supply squeeze drives up energy bills",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/oil-supply-squeeze-drives-up-energy-bills-226891",
+        "published": "2026-09-15T06:09:50Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Global implications: Yemen tells Saudi Arabia there will be no security while the blockade and bombs continue",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-09-15-yemen-tells-saudi-there-will-be-no-security.html",
+        "published": "2026-09-15T06:00:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
