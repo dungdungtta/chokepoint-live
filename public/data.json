@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-16T06:36:03.026Z",
+    "generated_at": "2026-09-16T12:08:51.609Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil up as Saudi pipeline outage, attacks heighten fears",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/0915/1591567-world-oil-prices/",
-        "published": "2026-09-15T06:17:26Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Houthis seize strategic Red Sea islands as analysts warn of impending oil crunch",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/338142e0de2d2fa5",
-        "published": "2026-09-15T06:12:27Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "[SnS, AC] $4.18* | 3.3-Oz OGX Extra Strength Argan Oil Hair Treatment at Amazon",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20016537-sns-ac-4-18-3-3-oz-ogx-extra-strength-argan-oil-hair-treatment-at-amazon",
-        "published": "2026-09-15T06:12:05Z",
+        "title": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Autodesk, Eli Lilly, Etsy, Lear, Netskope, Nokia, Northrop Grumman, Rapid7, Rivian Automotive, Ulta Beauty, and More",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/15/here-are-tuesdays-top-wall-street-analyst-research-calls-autodesk-eli-lilly-etsy-lear-netskope-nokia-northrop-grumman-rapid7-rivian-automotive-ulta-beauty-and-more/",
+        "published": "2026-09-15T12:04:26Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil supply squeeze drives up energy bills",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/oil-supply-squeeze-drives-up-energy-bills-226891",
-        "published": "2026-09-15T06:09:50Z",
+        "title": "Benchmark US government bond yield hits 19-year peak as oil prices surge",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/9/15/benchmark-us-government-bond-yield-hits-19-year-peak-as-oil-prices-surge",
+        "published": "2026-09-15T11:36:51Z",
         "sentiment": "watch"
       },
       {
-        "title": "Global implications: Yemen tells Saudi Arabia there will be no security while the blockade and bombs continue",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-09-15-yemen-tells-saudi-there-will-be-no-security.html",
-        "published": "2026-09-15T06:00:00Z",
+        "title": "Iran’s threat to cut undersea cables in Strait of Hormuz poses a serious threat to Gulf states",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/irans-threat-to-cut-undersea-cables-in-strait-of-hormuz-poses-a-serious-threat-to-gulf-states-291618",
+        "published": "2026-09-15T11:25:16Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Houthis control almost the entire western coast of Yemen as noose tightens around Bab el-Mandeb",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/09/15/houthis-control-almost-the-entire-western-coast-of-yemen-as-noose-tightens-around-bab-el-mandeb/",
+        "published": "2026-09-15T11:03:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran War: Ansar Allah Strikes Yanbu Port as Rising Energy Prices Help Push 10 Year Treasury Yields Over 5%",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/09/iran-war-ansar-allah-strikes-yanbu-port-as-rising-energy-prices-help-push-10-year-treasury-yields-over-5.html",
+        "published": "2026-09-15T10:58:56Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "US war with Iran has caused a 'munitions shortfall' despite Trump's claims and cost $33.4billion by June 30, defence officials confirm",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16132597/US-war-Iran-munitions-shortfall-Trumps-defence-officials.html",
+        "published": "2026-09-15T11:01:03Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Dow Slips as AI Slowdown Calls and Surging Oil Prices Test Wall Street's Nerve Ahead of the Fed Meeting",
         "source": "Ibtimes.com.au",
@@ -90,13 +97,6 @@
         "url": "https://www.fairobserver.com/world-news/fo-exclusive-lightning-roundup-of-august-2026-writeup/",
         "published": "2026-09-11T14:20:46Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "President Trump Is Bold, Brave, and Right on the Iran War",
-        "source": "Reason",
-        "url": "https://reason.com/volokh/2026/09/11/president-trump-is-bold-brave-and-right-on-the-iran-war/",
-        "published": "2026-09-11T12:01:01Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
