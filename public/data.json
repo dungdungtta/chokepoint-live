@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-16T12:08:51.609Z",
+    "generated_at": "2026-09-16T17:02:31.530Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Autodesk, Eli Lilly, Etsy, Lear, Netskope, Nokia, Northrop Grumman, Rapid7, Rivian Automotive, Ulta Beauty, and More",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/15/here-are-tuesdays-top-wall-street-analyst-research-calls-autodesk-eli-lilly-etsy-lear-netskope-nokia-northrop-grumman-rapid7-rivian-automotive-ulta-beauty-and-more/",
-        "published": "2026-09-15T12:04:26Z",
+        "title": "Saudi Oil Crisis Deepens as Aramco Suspends Yanbu Loadings",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Oil-Crisis-Deepens-as-Aramco-Suspends-Yanbu-Loadings.html",
+        "published": "2026-09-15T17:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Benchmark US government bond yield hits 19-year peak as oil prices surge",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/9/15/benchmark-us-government-bond-yield-hits-19-year-peak-as-oil-prices-surge",
-        "published": "2026-09-15T11:36:51Z",
+        "title": "Supvan E10 Bluetooth Label Maker Machine w/ 3 Tapes for $20 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Supvan-E10-Bluetooth-Label-Maker-Machine-w-3-Tapes-for-20-free-shipping-w-Prime/22185026.html",
+        "published": "2026-09-15T16:51:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran’s threat to cut undersea cables in Strait of Hormuz poses a serious threat to Gulf states",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/irans-threat-to-cut-undersea-cables-in-strait-of-hormuz-poses-a-serious-threat-to-gulf-states-291618",
-        "published": "2026-09-15T11:25:16Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Houthis control almost the entire western coast of Yemen as noose tightens around Bab el-Mandeb",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/09/15/houthis-control-almost-the-entire-western-coast-of-yemen-as-noose-tightens-around-bab-el-mandeb/",
-        "published": "2026-09-15T11:03:00Z",
+        "title": "SUPVAN E10 Bluetooth Label Maker Machine w/ 3 Tapes for $20 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Supvan-E10-Bluetooth-Label-Maker-Machine-w-3-Tapes-for-20-free-shipping-w-Prime/22185026.html",
+        "published": "2026-09-15T16:51:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran War: Ansar Allah Strikes Yanbu Port as Rising Energy Prices Help Push 10 Year Treasury Yields Over 5%",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/09/iran-war-ansar-allah-strikes-yanbu-port-as-rising-energy-prices-help-push-10-year-treasury-yields-over-5.html",
-        "published": "2026-09-15T10:58:56Z",
-        "sentiment": "danger"
+        "title": "Drivers in Germany fume over soaring fuel prices",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/germany-drivers-fuel-costs-energy-crisis-iran-war-economic-impact-merz/a-79282456",
+        "published": "2026-09-15T16:43:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Drivers in Germany fume over soaring fuel prices",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/germany-drivers-fuel-costs-energy-crisis-iran-war-economic-impact-merz/a-79282456",
+        "published": "2026-09-15T16:43:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Perils of Mind-Reading in the Taiwan Strait",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/the-perils-of-mind-reading-in-the-taiwan-strait/",
+        "published": "2026-09-15T14:39:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The New Geopolitcal Landscape: How to Do Business in a World Adrift",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/politics/the-new-geopolitcal-landscape-how-to-do-business-in-a-world-adrift/",
+        "published": "2026-09-15T14:03:17Z",
+        "sentiment": "watch"
+      },
       {
         "title": "US war with Iran has caused a 'munitions shortfall' despite Trump's claims and cost $33.4billion by June 30, defence officials confirm",
         "source": "Dailymail.com",
@@ -83,23 +97,16 @@
         "url": "https://www.hoover.org/research/finding-targets-pacific-war",
         "published": "2026-09-14T00:00:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Taiwan’s Six-Year Hunt for China’s Undercover Chip Labs",
-        "source": "Restofworld.org",
-        "url": "https://restofworld.org/2026/taiwan-china-chip-investigations/",
-        "published": "2026-09-13T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "FO Exclusive: Lightning Roundup of August 2026 Writeup",
-        "source": "Fair Observer",
-        "url": "https://www.fairobserver.com/world-news/fo-exclusive-lightning-roundup-of-august-2026-writeup/",
-        "published": "2026-09-11T14:20:46Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
+      {
+        "title": "The New Geopolitcal Landscape: How to Do Business in a World Adrift",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/politics/the-new-geopolitcal-landscape-how-to-do-business-in-a-world-adrift/",
+        "published": "2026-09-15T14:03:17Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Asian coast guards call for closer co-op on fighting crime in South China Sea; drug trafficking, piracy, robbery among main concerns",
         "source": "Globalsecurity.org",
