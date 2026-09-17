@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-17T17:03:25.844Z",
+    "generated_at": "2026-09-17T20:21:05.691Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Saudi calls attempted Mecca attack a 'red line', Houthis deny any role",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/saudi-calls-attempted-mecca-attack-a-red-line-houthis-deny-any-role-126091600601_1.html",
-        "published": "2026-09-16T16:54:04Z",
+        "title": "Muslim nations condemn ‘heinous attacks’ after Houthi drone downed near Mecca",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/16/world-news/muslim-nations-condemn-heinous-attacks-after-houthi-drone-downed-near-mecca/",
+        "published": "2026-09-16T19:48:30Z",
         "sentiment": "danger"
       },
       {
-        "title": "Saudis Pivot to Send More Oil Via Hormuz After Pipeline Shut",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/saudis-pivot-to-send-more-oil-via-hormuz-after-pipeline-shut/",
-        "published": "2026-09-16T16:48:55Z",
+        "title": "LIVE REPLAY: Fed Chair Kevin Warsh Holds a Press Conference - 09/16/26",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-bloggers/4395769/posts",
+        "published": "2026-09-16T19:38:35Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Harry's Black Lip Balm for Men for $7 via Sub & Save + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Harrys-Black-Lip-Balm-for-Men-for-7-via-Sub-Save-free-shipping/22188984.html",
+        "published": "2026-09-16T19:32:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "CENTCOM Says Hormuz 'Remains Open' As Houthi-Saudi Fighting Threatens Another Key Waterway",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/centcom-hormuz-houthi-saudi-fighting-iran-us/33857667.html",
-        "published": "2026-09-16T16:42:17Z",
-        "sentiment": "danger"
+        "title": "Australian gas giant signs deal for LNG from $30 billion Ksi Lisims BC megaproject",
+        "source": "National Observer",
+        "url": "https://www.nationalobserver.com/2026/09/16/news/australian-gas-giant-lng-bc-megaproject",
+        "published": "2026-09-16T19:31:40Z",
+        "sentiment": "watch"
       },
       {
-        "title": "‘People Are Very Unhappy’: Podcaster Presses JD Vance on Trump Launching Iran War and Not Getting Inflation ‘Under Control’",
-        "source": "Mediaite",
-        "url": "https://www.mediaite.com/media/news/people-are-very-unhappy-podcaster-presses-jd-vance-on-trump-launching-iran-war-and-not-getting-inflation-under-control/",
-        "published": "2026-09-16T16:29:42Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Saudi Arabia faces oil supply disruptions amid escalating Middle East conflict",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/saudi-arabia-oil-supply-disruptions-conflict/",
-        "published": "2026-09-16T16:26:18Z",
-        "sentiment": "danger"
+        "title": "Oil Falls as Saudi Supply Outlook Improves",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_falls_as_saudi_supply_outlook_improves-16-sep-2026-184635-article/",
+        "published": "2026-09-16T19:24:48Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
