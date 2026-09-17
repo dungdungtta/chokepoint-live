@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-17T12:09:26.549Z",
+    "generated_at": "2026-09-17T17:03:25.844Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Saudi says Houthis target Mecca, warns of ‘red line’",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/09/saudi-says-houthis-target-mecca-warns-of-red-line/",
-        "published": "2026-09-16T12:08:39Z",
+        "title": "Saudi calls attempted Mecca attack a 'red line', Houthis deny any role",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/saudi-calls-attempted-mecca-attack-a-red-line-houthis-deny-any-role-126091600601_1.html",
+        "published": "2026-09-16T16:54:04Z",
         "sentiment": "danger"
       },
       {
-        "title": "US strikes Iranian boats in Strait of Hormuz amid rising tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-strikes-iranian-boats-in-strait-of-hormuz-amid-rising-tensions/",
-        "published": "2026-09-16T12:07:30Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Shipping Data Shows Hormuz Traffic Falls To Just 4 Vessels",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260916-rferl01.htm",
-        "published": "2026-09-16T12:00:00Z",
+        "title": "Saudis Pivot to Send More Oil Via Hormuz After Pipeline Shut",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/saudis-pivot-to-send-more-oil-via-hormuz-after-pipeline-shut/",
+        "published": "2026-09-16T16:48:55Z",
         "sentiment": "watch"
       },
       {
         "title": "CENTCOM Says Hormuz 'Remains Open' As Houthi-Saudi Fighting Threatens Another Key Waterway",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260916-rferl04.htm",
-        "published": "2026-09-16T12:00:00Z",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/centcom-hormuz-houthi-saudi-fighting-iran-us/33857667.html",
+        "published": "2026-09-16T16:42:17Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "‘People Are Very Unhappy’: Podcaster Presses JD Vance on Trump Launching Iran War and Not Getting Inflation ‘Under Control’",
+        "source": "Mediaite",
+        "url": "https://www.mediaite.com/media/news/people-are-very-unhappy-podcaster-presses-jd-vance-on-trump-launching-iran-war-and-not-getting-inflation-under-control/",
+        "published": "2026-09-16T16:29:42Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Saudi Arabia faces oil supply disruptions amid escalating Middle East conflict",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/saudi-arabia-oil-supply-disruptions-conflict/",
+        "published": "2026-09-16T16:26:18Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Underwater Autonomy in the China-US Naval Race",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/underwater-autonomy-in-the-china-us-naval-race/",
+        "published": "2026-09-16T15:07:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "G'day, USA: Why is the U.S. accelerating military ties with Australia?",
         "source": "CBC News",
@@ -82,13 +96,6 @@
         "source": "BusinessLine",
         "url": "https://www.thehindubusinessline.com/news/world/iran-war-cost-hits-38-billion-forecast-to-rise-3-billion-a-month/article71470892.ece",
         "published": "2026-09-16T02:52:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/iran-war-cost-hits-38-billion-forecast-to-rise-3-billion-a-month-cbo-says/articleshow/134275772.cms",
-        "published": "2026-09-16T00:46:34Z",
         "sentiment": "danger"
       }
     ],
@@ -118,11 +125,11 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "red",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "amber"
+    "korea": "yellow"
   },
   "thresholds": {
     "brent_alert": 110,
