@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-17T01:18:30.900Z",
+    "generated_at": "2026-09-17T06:34:52.685Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Saudi Arabia intercepts Houthi drone near Mecca, warns of ‘red line’ over holy sites",
+        "title": "Oil slips on US stock build, Middle East disruptions limit losses",
+        "source": "The Daily Star",
+        "url": "https://www.thedailystar.net/business/news/oil-slips-us-stock-build-middle-east-disruptions-limit-losses-4274296",
+        "published": "2026-09-16T06:34:20Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Global Market: Japan bond yields rise as inflation concerns build ahead of Fed decision",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/saudi-led-coalition-says-it-destroys-houthi-drone-south-of-mecca/articleshow/134275846.cms",
-        "published": "2026-09-16T01:01:14Z",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japan-bond-yields-rise-as-inflation-concerns-build-ahead-of-fed-decision/articleshow/134280079.cms",
+        "published": "2026-09-16T06:32:15Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Houthis seize strategic Red Sea islands as analysts warn of impending oil crunch",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/09/16/houthis-seize-strategic-red-sea-islands-as-analysts-warn-of-impending-oil-crunch/",
+        "published": "2026-09-16T06:31:44Z",
         "sentiment": "danger"
       },
       {
-        "title": "Vance: ‘First Phase’ of U.S.-Iran Conflict Is Over — ‘Much Different Phase’ Coming Within Months",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/09/15/vance-first-phase-u-s-iran-conflict-over-different-phase-coming-months/",
-        "published": "2026-09-16T00:43:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Former Maduro ally pleads guilty to money laundering and fraud",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/16/former-maduro-ally-pleads-guilty-to-money-laundering-and-fraud",
-        "published": "2026-09-16T00:36:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Can Africa finance itself?",
-        "source": "The Punch",
-        "url": "https://punchng.com/can-africa-finance-itself/",
-        "published": "2026-09-16T00:28:53Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Houthi attacks expose Iran’s desperation — here’s how Trump must respond",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/15/opinion/houthi-attacks-expose-irans-desperation-trump-must-respond/",
-        "published": "2026-09-16T00:04:40Z",
+        "title": "Houthis Seize Red Sea Islands as Analysts Warn of Oil Supply Risks",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-09-16-houthis-seize-red-sea-islands-oil-supply-risks.html",
+        "published": "2026-09-16T06:00:00Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Markets on edge as US Fed meets to tackle high inflation",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/markets-on-edge-as-us-fed-meets-to-tackle-high-inflation-226923",
+        "published": "2026-09-16T05:29:56Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Iran War Cost Hits $38 Billion, Forecast to Rise $3 Billion a month, CBO Says",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/09/16/885239.htm",
+        "published": "2026-09-16T05:05:34Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran war cost hits $38 billion, forecast to rise $3 billion a month",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/iran-war-cost-hits-38-billion-forecast-to-rise-3-billion-a-month/article71470892.ece",
+        "published": "2026-09-16T02:52:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says",
         "source": "The Times of India",
@@ -83,20 +97,6 @@
         "url": "https://thediplomat.com/2026/09/the-perils-of-mind-reading-in-the-taiwan-strait/",
         "published": "2026-09-15T14:39:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "The New Geopolitcal Landscape: How to Do Business in a World Adrift",
-        "source": "Fair Observer",
-        "url": "https://www.fairobserver.com/politics/the-new-geopolitcal-landscape-how-to-do-business-in-a-world-adrift/",
-        "published": "2026-09-15T14:03:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US war with Iran has caused a 'munitions shortfall' despite Trump's claims and cost $33.4billion by June 30, defence officials confirm",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16132597/US-war-Iran-munitions-shortfall-Trumps-defence-officials.html",
-        "published": "2026-09-15T11:01:03Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
