@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-17T20:21:05.691Z",
+    "generated_at": "2026-09-17T23:01:26.824Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Muslim nations condemn ‘heinous attacks’ after Houthi drone downed near Mecca",
+        "title": "Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Tanker-Rates-Smash-1-Million-a-Day-as-Oil-Shipping-Crisis-Deepens.html",
+        "published": "2026-09-16T23:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Yemen’s Houthis promise US not to expand Iran war to Red Sea at secret Oman summit",
         "source": "New York Post",
-        "url": "https://nypost.com/2026/09/16/world-news/muslim-nations-condemn-heinous-attacks-after-houthi-drone-downed-near-mecca/",
-        "published": "2026-09-16T19:48:30Z",
+        "url": "https://nypost.com/2026/09/16/world-news/yemens-houthis-promise-us-not-to-expand-iran-war-to-red-sea-at-secret-oman-summit/",
+        "published": "2026-09-16T22:57:23Z",
         "sentiment": "danger"
       },
       {
-        "title": "LIVE REPLAY: Fed Chair Kevin Warsh Holds a Press Conference - 09/16/26",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-bloggers/4395769/posts",
-        "published": "2026-09-16T19:38:35Z",
+        "title": "Gucci Guilty Women’s Eau De Parfum 3oz. Spray For $47.50-$50 Shipped From Amazon",
+        "source": "Dansdeals.com",
+        "url": "https://www.dansdeals.com/shopping-deals/amazon/gucci-guilty-womens-eau-de-parfum-3oz-spray-for-47-50-50-shipped-from-amazon/",
+        "published": "2026-09-16T22:27:52Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "1975 Yamaha RD125 at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1975-yamaha-rd125-8/",
+        "published": "2026-09-16T22:10:14Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US-backed Israel-Morocco deal deepens Abraham Accords amid growing regional threats",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/us-backed-agreement-deepens-ties-officials-address-saudi-arabia-growing-houthi-threat-global-shipping",
+        "published": "2026-09-16T21:39:41Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Harry's Black Lip Balm for Men for $7 via Sub & Save + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Harrys-Black-Lip-Balm-for-Men-for-7-via-Sub-Save-free-shipping/22188984.html",
-        "published": "2026-09-16T19:32:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Australian gas giant signs deal for LNG from $30 billion Ksi Lisims BC megaproject",
-        "source": "National Observer",
-        "url": "https://www.nationalobserver.com/2026/09/16/news/australian-gas-giant-lng-bc-megaproject",
-        "published": "2026-09-16T19:31:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Falls as Saudi Supply Outlook Improves",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_falls_as_saudi_supply_outlook_improves-16-sep-2026-184635-article/",
-        "published": "2026-09-16T19:24:48Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
