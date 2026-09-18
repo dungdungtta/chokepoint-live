@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-18T19:07:51.428Z",
+    "generated_at": "2026-09-18T21:42:57.869Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "JDM 1988 Yamaha FZR400 at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1988-yamaha-fzr400/",
-        "published": "2026-09-17T19:05:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Diesel 'crack spread' filling refiners' coffers as conflict cuts margins",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-09-18/diesel-crack-spread-filling-oil-refiners-coffers/107159068",
-        "published": "2026-09-17T18:58:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran war pushes diesel – the economy’s lifeblood – to record high prices, with no relief on the horizon",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/iran-war-pushes-diesel-the-economys-lifeblood-to-record-high-prices-with-no-relief-on-the-horizon-292049",
-        "published": "2026-09-17T18:45:40Z",
+        "title": "Gas Industry Says Heating Costs Will Fall 14% This Winter As Another Forecast Warns Of An Increase",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/09/17/gas-industry-heating-costs-winter-neada-aga-jason-hayes",
+        "published": "2026-09-17T21:26:46Z",
         "sentiment": "danger"
       },
       {
-        "title": "US approves visas for top Iranian leaders to attend UN high-level meeting even with sides at war",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-approves-visas-for-top-iranian-leaders-to-attend-un-high-level-meeting-even-with-sides-at-war/articleshow/134320095.cms",
-        "published": "2026-09-17T18:42:35Z",
+        "title": "Iran trade plummets under US blockade, bureaucratic errors",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/17/world-news/iran-trade-plummeting-under-us-blockade-bureaucratic-errors/",
+        "published": "2026-09-17T20:56:06Z",
         "sentiment": "danger"
       },
       {
-        "title": "Why the Federal Reserve is lifting rates now, and what it means",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/federal-reserve-lifting-rates-now-means-136537359",
-        "published": "2026-09-17T18:36:26Z",
+        "title": "By Nearly Every Metric, the U.S. Is Losing the Iran War",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/17/trump-united-states-losing-iran-war/",
+        "published": "2026-09-17T20:27:11Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil Falls as Mideast Flows Improve",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_falls_as_mideast_flows_improve-17-sep-2026-184646-article/",
+        "published": "2026-09-17T20:01:09Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Geopolitics/Middle-East/US-and-Houthis-Open-Talks-as-Saudi-Oil-Crisis-Deepens.html",
+        "published": "2026-09-17T20:00:00Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "China’s Supposed Trump-Xi Summit Threat Gets Shot Down By Senior US Official",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/09/17/senior-us-official-shoots-down-trump-xi-summit-threat",
+        "published": "2026-09-17T21:10:37Z",
+        "sentiment": "danger"
+      },
       {
         "title": "China Builds Legal Machinery To Flip Civilian Economy Into War Mode",
         "source": "The Daily Caller",
@@ -89,13 +96,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/09/the-potential-mismatch-between-japan-and-the-us-on-china/",
         "published": "2026-09-17T13:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Professor Michael Hudson interview with Lena Petrova on BRICS and the Global Economy",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/09/professor-michael-hudson-interview-with-lena-petrova-on-brics-and-the-global-economy.html",
-        "published": "2026-09-17T08:54:12Z",
         "sentiment": "watch"
       }
     ],
@@ -125,11 +125,11 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "amber",
+    "taiwan": "red",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "yellow"
+    "korea": "amber"
   },
   "thresholds": {
     "brent_alert": 110,
