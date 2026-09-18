@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-18T21:42:57.869Z",
+    "generated_at": "2026-09-18T23:37:35.650Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "RD350-Powered 1973 Yamaha RD250 at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1973-yamaha-rd250-3/",
+        "published": "2026-09-17T22:40:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "JOSEPH DINNAGE: He'll hate me saying this. But, as Britain's economy nears the eye of the storm, Burnham is displaying Liz Truss levels of denial",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16140549/JOSEPH-DINNAGE-Hell-hate-saying-Britains-economy-nears-eye-storm-Burnham-displaying-Liz-Truss-levels-denial.html",
+        "published": "2026-09-17T22:34:45Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US allows Iran delegation to attend UN assembly: official",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/us-iran-delegation-un-assembly-6393261",
+        "published": "2026-09-17T21:47:29Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Gas Industry Says Heating Costs Will Fall 14% This Winter As Another Forecast Warns Of An Increase",
         "source": "The Daily Caller",
         "url": "https://dailycaller.com/2026/09/17/gas-industry-heating-costs-winter-neada-aga-jason-hayes",
@@ -39,27 +60,6 @@
         "url": "https://nypost.com/2026/09/17/world-news/iran-trade-plummeting-under-us-blockade-bureaucratic-errors/",
         "published": "2026-09-17T20:56:06Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "By Nearly Every Metric, the U.S. Is Losing the Iran War",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/17/trump-united-states-losing-iran-war/",
-        "published": "2026-09-17T20:27:11Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Falls as Mideast Flows Improve",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_falls_as_mideast_flows_improve-17-sep-2026-184646-article/",
-        "published": "2026-09-17T20:01:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Geopolitics/Middle-East/US-and-Houthis-Open-Talks-as-Saudi-Oil-Crisis-Deepens.html",
-        "published": "2026-09-17T20:00:00Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
