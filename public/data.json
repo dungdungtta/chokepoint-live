@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-18T06:30:28.881Z",
+    "generated_at": "2026-09-18T11:52:28.009Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump Threatens Further Strikes on Iran as U.S. Generals Warn of Overstretched Forces",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-09-17-trump-threatens-further-strikes-iran-overstretched-forces.html",
-        "published": "2026-09-17T06:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Costco Limits Kirkland Signature Motor Oil Purchases Amid Supply and Demand Pressures",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-09-17-costco-limits-kirkland-signature-motor-oil-purchases.html",
-        "published": "2026-09-17T06:00:00Z",
+        "title": "Food prices risk to test global bonds after recent sell-off",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/food-prices-present-fresh-risk-for-global-bonds-after-sell-off",
+        "published": "2026-09-17T11:20:53Z",
         "sentiment": "watch"
       },
       {
-        "title": "Number of ships transiting Strait of Hormuz falls to three on Wednesday, data shows",
+        "title": "Iran War: Saudi Transits Out of Strait of Hormuz Up Markedly But Diesel Crunch Acute as US Weighs Export Ban",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/09/iran-war-saudi-transits-out-of-strait-of-hormuz-up-markedly-but-diesel-crunch-acute-as-us-weighs-export-ban.html",
+        "published": "2026-09-17T10:54:34Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Sensex today | Stock Market Highlights: Nifty, Sensex close flat as high crude price concerns offset value buying",
         "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/number-of-ships-transiting-strait-of-hormuz-falls-to-three-on-wednesday-data-shows/article71475434.ece",
-        "published": "2026-09-17T05:33:35Z",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-17th-september-2026/article71472777.ece",
+        "published": "2026-09-17T10:43:25Z",
         "sentiment": "watch"
       },
       {
-        "title": "US Tracking Cyber Threats Against Nearly 20 Ships Worldwide",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/national/2026/09/17/885384.htm",
-        "published": "2026-09-17T05:00:48Z",
-        "sentiment": "danger"
+        "title": "Trump claims direct talks with Iran: Is diplomacy picking up again?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/9/17/trump-claims-direct-talks-with-iran-is-diplomacy-picking-up-again",
+        "published": "2026-09-17T10:32:46Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "When will Ireland finally achieve full fossil fuel phase-out?",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/environment/climate-crisis/2026/09/17/when-will-ireland-finally-achieve-full-fossil-fuel-phase-out/",
-        "published": "2026-09-17T05:00:00Z",
+        "title": "Island’s oil tanker operators racking up huge profits",
+        "source": "Royal Gazette",
+        "url": "https://www.royalgazette.com/international-business/business/article/20260917/islands-oil-tanker-operators-racking-up-huge-profits/",
+        "published": "2026-09-17T10:08:14Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Professor Michael Hudson interview with Lena Petrova on BRICS and the Global Economy",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/09/professor-michael-hudson-interview-with-lena-petrova-on-brics-and-the-global-economy.html",
+        "published": "2026-09-17T08:54:12Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Misunderstood Trump Foreign Policy",
         "source": "Hoover.org",
@@ -90,13 +97,6 @@
         "url": "https://warontherocks.com/strategic-stability-and-the-rebuilding-of-xis-military/",
         "published": "2026-09-16T07:30:51Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran War Cost Hits $38 Billion, Forecast to Rise $3 Billion a month, CBO Says",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/09/16/885239.htm",
-        "published": "2026-09-16T05:05:34Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -125,7 +125,7 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "amber",
+    "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
