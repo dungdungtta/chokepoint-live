@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-18T16:16:03.166Z",
+    "generated_at": "2026-09-18T19:07:51.428Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Foreign Tanker Voyages Went Unreported Under Jones Act Waiver, Bloomberg Finds",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/foreign-tanker-voyages-went-unreported-under-jones-act-waiver-bloomberg-finds/",
-        "published": "2026-09-17T16:09:50Z",
+        "title": "JDM 1988 Yamaha FZR400 at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1988-yamaha-fzr400/",
+        "published": "2026-09-17T19:05:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "How record diesel prices will rip through the U.S. economy. Trucks and rails are only the start",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
-        "published": "2026-09-17T15:57:53Z",
+        "title": "Diesel 'crack spread' filling refiners' coffers as conflict cuts margins",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-09-18/diesel-crack-spread-filling-oil-refiners-coffers/107159068",
+        "published": "2026-09-17T18:58:03Z",
         "sentiment": "watch"
       },
       {
-        "title": "A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore",
-        "source": "Amazon.com",
-        "url": "https://aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore/",
-        "published": "2026-09-17T15:41:03Z",
-        "sentiment": "watch"
+        "title": "Iran war pushes diesel – the economy’s lifeblood – to record high prices, with no relief on the horizon",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/iran-war-pushes-diesel-the-economys-lifeblood-to-record-high-prices-with-no-relief-on-the-horizon-292049",
+        "published": "2026-09-17T18:45:40Z",
+        "sentiment": "danger"
       },
       {
-        "title": "FreAire Bedroom Air Purifier for $18 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/products/Fre-Aire/Fre-Aire-KN6391-RGB-Air-Purifier/536110.html",
-        "published": "2026-09-17T15:14:09Z",
-        "sentiment": "watch"
+        "title": "US approves visas for top Iranian leaders to attend UN high-level meeting even with sides at war",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-approves-visas-for-top-iranian-leaders-to-attend-un-high-level-meeting-even-with-sides-at-war/articleshow/134320095.cms",
+        "published": "2026-09-17T18:42:35Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Dubai International Film Festival To Return In December 2027, As 2026 Edition Of Saudi Arabia’s Red Sea Film Festival Looks Uncertain",
-        "source": "Deadline",
-        "url": "http://deadline.com/2026/09/dubai-film-festival-return-saudi-red-sea-film-uncertain-1237106423/",
-        "published": "2026-09-17T15:14:05Z",
+        "title": "Why the Federal Reserve is lifting rates now, and what it means",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/federal-reserve-lifting-rates-now-means-136537359",
+        "published": "2026-09-17T18:36:26Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China Builds Legal Machinery To Flip Civilian Economy Into War Mode",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/09/17/china-laws-civilian-economy-war-mode",
+        "published": "2026-09-17T17:14:50Z",
+        "sentiment": "danger"
+      },
       {
         "title": "China, Not Iran, Is Trump’s Real Foreign-Policy Debacle",
         "source": "Foreign Policy",
@@ -89,13 +96,6 @@
         "source": "Nakedcapitalism.com",
         "url": "https://www.nakedcapitalism.com/2026/09/professor-michael-hudson-interview-with-lena-petrova-on-brics-and-the-global-economy.html",
         "published": "2026-09-17T08:54:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Misunderstood Trump Foreign Policy",
-        "source": "Hoover.org",
-        "url": "https://www.hoover.org/research/misunderstood-trump-foreign-policy",
-        "published": "2026-09-17T00:00:00Z",
         "sentiment": "watch"
       }
     ],
