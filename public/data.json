@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-17T23:01:26.824Z",
+    "generated_at": "2026-09-18T01:18:01.888Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens",
+        "title": "US-Iran crisis: NLC demands action as petrol sells N1,500/litre",
+        "source": "The Punch",
+        "url": "https://punchng.com/us-iran-crisis-nlc-demands-action-as-petrol-sells-n1500-litre/",
+        "published": "2026-09-17T00:07:19Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Tanker-Rates-Smash-1-Million-a-Day-as-Oil-Shipping-Crisis-Deepens.html",
-        "published": "2026-09-16T23:00:00Z",
+        "url": "https://oilprice.com/Energy/Crude-Oil/StanChart-Sees-Higher-Oil-Floor-as-Hormuz-Crisis-Spreads-to-Saudi-Export-Routes.html",
+        "published": "2026-09-17T00:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Yemen’s Houthis promise US not to expand Iran war to Red Sea at secret Oman summit",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/16/world-news/yemens-houthis-promise-us-not-to-expand-iran-war-to-red-sea-at-secret-oman-summit/",
-        "published": "2026-09-16T22:57:23Z",
+        "title": "The Gulf Is Not Ready for Helsinki: Why Deterrence-Backed Diplomacy Must Underpin a Regional Security Order",
+        "source": "Hoover.org",
+        "url": "https://www.hoover.org/research/gulf-not-ready-helsinki-why-deterrence-backed-diplomacy-must-underpin-regional-security",
+        "published": "2026-09-17T00:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Have We Lost the Iran War?",
+        "source": "Hoover.org",
+        "url": "https://www.hoover.org/research/have-we-lost-iran-war",
+        "published": "2026-09-17T00:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Gucci Guilty Women’s Eau De Parfum 3oz. Spray For $47.50-$50 Shipped From Amazon",
-        "source": "Dansdeals.com",
-        "url": "https://www.dansdeals.com/shopping-deals/amazon/gucci-guilty-womens-eau-de-parfum-3oz-spray-for-47-50-50-shipped-from-amazon/",
-        "published": "2026-09-16T22:27:52Z",
+        "title": "APM Terminals targets rail, 24-hour barge operations",
+        "source": "The Punch",
+        "url": "https://punchng.com/apm-terminals-targets-rail-24-hour-barge-operations/",
+        "published": "2026-09-16T23:50:16Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "1975 Yamaha RD125 at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1975-yamaha-rd125-8/",
-        "published": "2026-09-16T22:10:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US-backed Israel-Morocco deal deepens Abraham Accords amid growing regional threats",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/us-backed-agreement-deepens-ties-officials-address-saudi-arabia-growing-houthi-threat-global-shipping",
-        "published": "2026-09-16T21:39:41Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Misunderstood Trump Foreign Policy",
+        "source": "Hoover.org",
+        "url": "https://www.hoover.org/research/misunderstood-trump-foreign-policy",
+        "published": "2026-09-17T00:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Underwater Autonomy in the China-US Naval Race",
         "source": "The Diplomat",
@@ -89,13 +96,6 @@
         "source": "Insurance Journal",
         "url": "https://www.insurancejournal.com/news/international/2026/09/16/885239.htm",
         "published": "2026-09-16T05:05:34Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran war cost hits $38 billion, forecast to rise $3 billion a month",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/iran-war-cost-hits-38-billion-forecast-to-rise-3-billion-a-month/article71470892.ece",
-        "published": "2026-09-16T02:52:00Z",
         "sentiment": "danger"
       }
     ],
