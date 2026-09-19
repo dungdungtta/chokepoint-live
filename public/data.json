@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-19T20:28:21.314Z",
+    "generated_at": "2026-09-19T22:27:08.770Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Falls as Supply Fears Ease",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_falls_as_supply_fears_ease-18-sep-2026-184657-article/",
-        "published": "2026-09-18T20:23:56Z",
+        "title": "Wall Street drifts lower as bond yields rise and oil prices swing",
+        "source": "Boston 25 News",
+        "url": "https://www.boston25news.com/news/business/asian-shares-mostly/ESN55GTH7Q2URFSOW3YA2KFXBA/",
+        "published": "2026-09-18T21:50:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "Italy Scrambles Warships Toward Red Sea As Houthis Close In On Global Shipping Chokepoint",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/09/18/italy-warships-red-sea-houthis",
-        "published": "2026-09-18T20:16:23Z",
-        "sentiment": "danger"
+        "title": "Report: China Pushes Iran to Rein In Houthis, Reopen Strait of Hormuz",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/09/18/report-china-pushes-iran-to-rein-in-houthis-reopen-strait-of-hormuz/",
+        "published": "2026-09-18T21:47:43Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "US stocks today: US stocks slip as higher Treasury yields weigh on sentiment",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-mixed-as-oil-takes-a-pause/articleshow/134343677.cms",
-        "published": "2026-09-18T20:15:38Z",
+        "title": "Israel’s UN envoy calls out European countries for failing to help US secure Strait of Hormuz",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/18/us-news/israels-un-envoy-calls-out-european-countries-for-letting-iran-meddle-in-hormuz/",
+        "published": "2026-09-18T21:19:53Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran's 'new Hezbollah:' How powerful are the Houthis now?",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/irans-new-hezbollah-how-powerful-are-the-houthis-now/a-79331945",
-        "published": "2026-09-18T19:22:00Z",
+        "title": "Global Shipping Costs Explode as Hormuz Disruptions Hit Key Trade Routes",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Global-Shipping-Costs-Explode-as-Hormuz-Disruptions-Hit-Key-Trade-Routes.html",
+        "published": "2026-09-18T21:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "     '      \"\".     .     .",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4396062/posts",
-        "published": "2026-09-18T19:09:27Z",
+        "title": "Macron Calls for Another Emergency Oil Release as Europe Loses Supply",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Macron-Calls-for-Another-Emergency-Oil-Release-as-Europe-Loses-Supply.html",
+        "published": "2026-09-18T21:00:00Z",
         "sentiment": "watch"
       }
     ],
