@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-19T14:49:46.803Z",
+    "generated_at": "2026-09-19T17:54:37.507Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "The Houthi Advance Is About More Than Just Iran",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/18/houthi-yemen-saudi-arabia-uae-iran-oil-israel-united-states/",
-        "published": "2026-09-18T14:36:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "4 Fault Lines that Could Shape the Trump-Xi Summit",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/09/4-fault-lines-that-could-shape-the-trump-xi-summit/",
-        "published": "2026-09-18T14:32:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Tanker attacks in the Strait of Hormuz are spilling oil into the Persian Gulf",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/iran-war-oil-slicks-environmental-catastrophe-tankers-hit-by-missiles-protected-ecosystems/a-79327092",
-        "published": "2026-09-18T14:05:00Z",
+        "title": "Another Tanker Suffers Failure as Crew Suspect Cyber Attack",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/another-tanker-suffers-failure-as-crew-suspect-cyber-attack/",
+        "published": "2026-09-18T17:33:06Z",
         "sentiment": "danger"
       },
       {
-        "title": "The Oil Market’s Backup Plan Is Breaking Down",
+        "title": "Saudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/The-Oil-Markets-Backup-Plan-Is-Breaking-Down.html",
-        "published": "2026-09-18T14:00:00Z",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Cuts-Europe-Off-From-October-Crude-as-Gulf-Exports-Surge.html",
+        "published": "2026-09-18T17:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "China Asks Iran to Rein in Houthis After Saudi Plea — Red Sea Shipping and Oil Routes Hang in The Balance:…",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/5b34ba7e33df8357",
-        "published": "2026-09-18T13:33:15Z",
+        "title": "2-year Treasury yield reaches multi-year high after Fed rate hike",
+        "source": "Quartz India",
+        "url": "https://qz.com/2-year-treasury-yield-multi-year-high-fed-rate-hike-091826",
+        "published": "2026-09-18T17:29:42Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "At least 112,000 people displaced in Yemen as Houthi fighting intensifies",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/18/world-news/at-least-112000-people-displaced-in-yemen-as-houthi-fighting-intensifies/",
+        "published": "2026-09-18T17:17:48Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "London’s Marine Insurers Widen Black Sea High Risk Zone as Shipping Attacks Surge",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/londons-marine-insurers-widen-black-sea-high-risk-zone-as-shipping-attacks-surge/",
+        "published": "2026-09-18T17:00:02Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
