@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-19T06:40:57.177Z",
+    "generated_at": "2026-09-19T11:36:21.576Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Petrol hits $3.25 a litre as AA warns prices are likely to stay high until mid-November",
-        "source": "New Zealand Herald",
-        "url": "https://www.nzherald.co.nz/business/petrol-hits-325-a-litre-as-aa-warns-prices-are-likely-to-stay-high-until-mid-november/JHDY5MXTCNGGNKZT7TRKPZJXOE/",
-        "published": "2026-09-18T06:34:16Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump administration approves $24bn sale of F-35 jets to Saudi Arabia despite intelligence concerns",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/us/2026/09/18/trump-administration-approves-24bn-sale-of-f-35-jets-to-saudi-arabia-despite-intelligence-concerns/",
-        "published": "2026-09-18T06:23:29Z",
+        "title": "How has the Houthis’ rapid advance across Yemen left Saudi Arabia exposed and isolated?",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/how-has-the-houthis-rapid-advance-across-yemen-left-saudi-arabia-exposed-and/",
+        "published": "2026-09-18T11:18:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "Two vessels with Indian crew onboard attacked near Strait of Hormuz",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/india-news/two-vessels-with-indian-crew-onboard-attacked-near-strait-of-hormuz-126091800358_1.html",
-        "published": "2026-09-18T06:08:45Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oman oil escape route: How ship-to-ship transfers work — despite big risks",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/18/oman-oil-escape-route-how-ship-to-ship-transfers-work-despite-big",
-        "published": "2026-09-18T06:02:08Z",
+        "title": "Signalgate haunts Trump as old nemesis scores major strategic win: analysis",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/donald-trump-houthis/",
+        "published": "2026-09-18T11:13:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudi Arabia Reports Discovery of 110 Million Tonnes of Uranium-Bearing Ore in Medina Region",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-09-18-saudi-arabia-reports-discovery-uranium-bearing-ore.html",
-        "published": "2026-09-18T06:00:00Z",
+        "title": "Italy Won't Wait for Slow E.U., Sending Navy to Protect Merchant Ships from Houthis",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/europe/2026/09/18/italy-wont-wait-for-slow-eu-will-send-navy-to-protect-merchant-ships-from-houthis/",
+        "published": "2026-09-18T10:46:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Nice Timing: US Removes Venezuela from List of Countries Failing to Combat Drug Trafficking Two Weeks After Historic Oil “Deal”",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/09/quelle-surprise-us-removes-venezuela-from-list-of-countries-failing-to-combat-drug-trafficking-days-after-historic-oil-heist.html",
+        "published": "2026-09-18T10:45:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "TORM plc capital increase in connection with exercise of Restricted Share Units as part of TORM's incentive program",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/torm-plc-capital-increase-in-connection-with-exercise-of-restricted-share-units-as-part-of-torms-incentive-program-302883138.html",
+        "published": "2026-09-18T09:53:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Peril of Trump’s Final Act: Would He Use a Tactical Nuclear Weapon in Iran?",
+        "source": "Thenation.com",
+        "url": "https://www.thenation.com/?post_type=article&p=609861",
+        "published": "2026-09-18T09:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Why Eurasia, Not the Indo-Pacific, Matters Most in Next Phase of Taiwan Deterrence",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/why-eurasia-not-the-indo-pacific-matters-most-in-next-phase-of-taiwan-deterrence/",
+        "published": "2026-09-18T07:30:22Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China’s Supposed Trump-Xi Summit Threat Gets Shot Down By Senior US Official",
         "source": "The Daily Caller",
@@ -82,20 +96,6 @@
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/09/17/china-iran-trump-debacle-foreign-policy-war-trade-sanctions/",
         "published": "2026-09-17T15:50:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China Officially Stands for World Peace Yet Cooperates with U.S. War-Making and Promotes Alienation",
-        "source": "Covertactionmagazine.com",
-        "url": "https://covertactionmagazine.com/2026/09/15/china-officially-stands-for-world-peace-yet-cooperates-with-u-s-war-making-and-promotes-alienation-2/",
-        "published": "2026-09-17T15:16:05Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The Potential Mismatch Between Japan and the US on China",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/09/the-potential-mismatch-between-japan-and-the-us-on-china/",
-        "published": "2026-09-17T13:30:00Z",
         "sentiment": "watch"
       }
     ],
@@ -125,11 +125,11 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "red",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "amber"
+    "korea": "yellow"
   },
   "thresholds": {
     "brent_alert": 110,
