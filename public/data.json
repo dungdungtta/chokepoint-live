@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-18T23:37:35.650Z",
+    "generated_at": "2026-09-19T01:39:12.262Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "RD350-Powered 1973 Yamaha RD250 at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1973-yamaha-rd250-3/",
-        "published": "2026-09-17T22:40:13Z",
+        "title": "US approves visas for Iran’s president and foreign minister for UN General Assembly",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/433346",
+        "published": "2026-09-18T01:38:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "JOSEPH DINNAGE: He'll hate me saying this. But, as Britain's economy nears the eye of the storm, Burnham is displaying Liz Truss levels of denial",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16140549/JOSEPH-DINNAGE-Hell-hate-saying-Britains-economy-nears-eye-storm-Burnham-displaying-Liz-Truss-levels-denial.html",
-        "published": "2026-09-17T22:34:45Z",
+        "title": "Global Market Today: Asian stocks, bonds gain as oil extends decline",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-bonds-gain-as-oil-extends-decline/articleshow/134323537.cms",
+        "published": "2026-09-18T00:54:16Z",
         "sentiment": "watch"
       },
       {
-        "title": "US allows Iran delegation to attend UN assembly: official",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/us-iran-delegation-un-assembly-6393261",
-        "published": "2026-09-17T21:47:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Gas Industry Says Heating Costs Will Fall 14% This Winter As Another Forecast Warns Of An Increase",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/09/17/gas-industry-heating-costs-winter-neada-aga-jason-hayes",
-        "published": "2026-09-17T21:26:46Z",
+        "title": "Trump Weighs Return to Major Iran Strikes: ‘I Have a Big Decision Coming Up’",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/09/17/trump-weighs-return-major-iran-strikes-big-decision-comingup/",
+        "published": "2026-09-18T00:52:41Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran trade plummets under US blockade, bureaucratic errors",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/17/world-news/iran-trade-plummeting-under-us-blockade-bureaucratic-errors/",
-        "published": "2026-09-17T20:56:06Z",
-        "sentiment": "danger"
+        "title": "Trump Attempts To Bribe Voters",
+        "source": "Peoplesreview.com.np",
+        "url": "https://peoplesreview.com.np/2026/09/18/trump-attempts-to-bribe-voters/",
+        "published": "2026-09-18T00:51:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Crude falls to $103 as Middle East risks ease",
+        "source": "The Punch",
+        "url": "https://punchng.com/crude-falls-to-103-as-middle-east-risks-ease/",
+        "published": "2026-09-18T00:07:33Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
