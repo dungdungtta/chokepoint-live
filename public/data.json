@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-19T01:39:12.262Z",
+    "generated_at": "2026-09-19T06:40:57.177Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US approves visas for Iran’s president and foreign minister for UN General Assembly",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/433346",
-        "published": "2026-09-18T01:38:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Global Market Today: Asian stocks, bonds gain as oil extends decline",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-bonds-gain-as-oil-extends-decline/articleshow/134323537.cms",
-        "published": "2026-09-18T00:54:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Weighs Return to Major Iran Strikes: ‘I Have a Big Decision Coming Up’",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/09/17/trump-weighs-return-major-iran-strikes-big-decision-comingup/",
-        "published": "2026-09-18T00:52:41Z",
+        "title": "Petrol hits $3.25 a litre as AA warns prices are likely to stay high until mid-November",
+        "source": "New Zealand Herald",
+        "url": "https://www.nzherald.co.nz/business/petrol-hits-325-a-litre-as-aa-warns-prices-are-likely-to-stay-high-until-mid-november/JHDY5MXTCNGGNKZT7TRKPZJXOE/",
+        "published": "2026-09-18T06:34:16Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump Attempts To Bribe Voters",
-        "source": "Peoplesreview.com.np",
-        "url": "https://peoplesreview.com.np/2026/09/18/trump-attempts-to-bribe-voters/",
-        "published": "2026-09-18T00:51:00Z",
+        "title": "Trump administration approves $24bn sale of F-35 jets to Saudi Arabia despite intelligence concerns",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/us/2026/09/18/trump-administration-approves-24bn-sale-of-f-35-jets-to-saudi-arabia-despite-intelligence-concerns/",
+        "published": "2026-09-18T06:23:29Z",
         "sentiment": "watch"
       },
       {
-        "title": "Crude falls to $103 as Middle East risks ease",
-        "source": "The Punch",
-        "url": "https://punchng.com/crude-falls-to-103-as-middle-east-risks-ease/",
-        "published": "2026-09-18T00:07:33Z",
+        "title": "Two vessels with Indian crew onboard attacked near Strait of Hormuz",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/india-news/two-vessels-with-indian-crew-onboard-attacked-near-strait-of-hormuz-126091800358_1.html",
+        "published": "2026-09-18T06:08:45Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oman oil escape route: How ship-to-ship transfers work — despite big risks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/9/18/oman-oil-escape-route-how-ship-to-ship-transfers-work-despite-big",
+        "published": "2026-09-18T06:02:08Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Saudi Arabia Reports Discovery of 110 Million Tonnes of Uranium-Bearing Ore in Medina Region",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-09-18-saudi-arabia-reports-discovery-uranium-bearing-ore.html",
+        "published": "2026-09-18T06:00:00Z",
         "sentiment": "watch"
       }
     ],
