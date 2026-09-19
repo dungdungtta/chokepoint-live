@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-19T17:54:37.507Z",
+    "generated_at": "2026-09-19T20:28:21.314Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Another Tanker Suffers Failure as Crew Suspect Cyber Attack",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/another-tanker-suffers-failure-as-crew-suspect-cyber-attack/",
-        "published": "2026-09-18T17:33:06Z",
+        "title": "Oil Falls as Supply Fears Ease",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_falls_as_supply_fears_ease-18-sep-2026-184657-article/",
+        "published": "2026-09-18T20:23:56Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Italy Scrambles Warships Toward Red Sea As Houthis Close In On Global Shipping Chokepoint",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/09/18/italy-warships-red-sea-houthis",
+        "published": "2026-09-18T20:16:23Z",
         "sentiment": "danger"
       },
       {
-        "title": "Saudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Cuts-Europe-Off-From-October-Crude-as-Gulf-Exports-Surge.html",
-        "published": "2026-09-18T17:30:00Z",
+        "title": "US stocks today: US stocks slip as higher Treasury yields weigh on sentiment",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-mixed-as-oil-takes-a-pause/articleshow/134343677.cms",
+        "published": "2026-09-18T20:15:38Z",
         "sentiment": "watch"
       },
       {
-        "title": "2-year Treasury yield reaches multi-year high after Fed rate hike",
-        "source": "Quartz India",
-        "url": "https://qz.com/2-year-treasury-yield-multi-year-high-fed-rate-hike-091826",
-        "published": "2026-09-18T17:29:42Z",
+        "title": "Iran's 'new Hezbollah:' How powerful are the Houthis now?",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/irans-new-hezbollah-how-powerful-are-the-houthis-now/a-79331945",
+        "published": "2026-09-18T19:22:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "At least 112,000 people displaced in Yemen as Houthi fighting intensifies",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/18/world-news/at-least-112000-people-displaced-in-yemen-as-houthi-fighting-intensifies/",
-        "published": "2026-09-18T17:17:48Z",
+        "title": "     '      \"\".     .     .",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4396062/posts",
+        "published": "2026-09-18T19:09:27Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "London’s Marine Insurers Widen Black Sea High Risk Zone as Shipping Attacks Surge",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/londons-marine-insurers-widen-black-sea-high-risk-zone-as-shipping-attacks-surge/",
-        "published": "2026-09-18T17:00:02Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
