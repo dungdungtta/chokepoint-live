@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-19T11:36:21.576Z",
+    "generated_at": "2026-09-19T14:49:46.803Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "How has the Houthis’ rapid advance across Yemen left Saudi Arabia exposed and isolated?",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/how-has-the-houthis-rapid-advance-across-yemen-left-saudi-arabia-exposed-and/",
-        "published": "2026-09-18T11:18:30Z",
+        "title": "The Houthi Advance Is About More Than Just Iran",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/18/houthi-yemen-saudi-arabia-uae-iran-oil-israel-united-states/",
+        "published": "2026-09-18T14:36:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "Signalgate haunts Trump as old nemesis scores major strategic win: analysis",
-        "source": "Raw Story",
-        "url": "https://www.rawstory.com/donald-trump-houthis/",
-        "published": "2026-09-18T11:13:39Z",
+        "title": "4 Fault Lines that Could Shape the Trump-Xi Summit",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/4-fault-lines-that-could-shape-the-trump-xi-summit/",
+        "published": "2026-09-18T14:32:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Italy Won't Wait for Slow E.U., Sending Navy to Protect Merchant Ships from Houthis",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/europe/2026/09/18/italy-wont-wait-for-slow-eu-will-send-navy-to-protect-merchant-ships-from-houthis/",
-        "published": "2026-09-18T10:46:29Z",
+        "title": "Tanker attacks in the Strait of Hormuz are spilling oil into the Persian Gulf",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/iran-war-oil-slicks-environmental-catastrophe-tankers-hit-by-missiles-protected-ecosystems/a-79327092",
+        "published": "2026-09-18T14:05:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The Oil Market’s Backup Plan Is Breaking Down",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/The-Oil-Markets-Backup-Plan-Is-Breaking-Down.html",
+        "published": "2026-09-18T14:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Nice Timing: US Removes Venezuela from List of Countries Failing to Combat Drug Trafficking Two Weeks After Historic Oil “Deal”",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/09/quelle-surprise-us-removes-venezuela-from-list-of-countries-failing-to-combat-drug-trafficking-days-after-historic-oil-heist.html",
-        "published": "2026-09-18T10:45:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "TORM plc capital increase in connection with exercise of Restricted Share Units as part of TORM's incentive program",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/torm-plc-capital-increase-in-connection-with-exercise-of-restricted-share-units-as-part-of-torms-incentive-program-302883138.html",
-        "published": "2026-09-18T09:53:00Z",
+        "title": "China Asks Iran to Rein in Houthis After Saudi Plea — Red Sea Shipping and Oil Routes Hang in The Balance:…",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/5b34ba7e33df8357",
+        "published": "2026-09-18T13:33:15Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China Is Moving Toward a New Form of Coercion at Sea",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/china-is-moving-toward-a-new-form-of-coercion-at-sea/",
+        "published": "2026-09-18T13:16:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "The Peril of Trump’s Final Act: Would He Use a Tactical Nuclear Weapon in Iran?",
         "source": "Thenation.com",
@@ -90,13 +97,6 @@
         "url": "https://dailycaller.com/2026/09/17/china-laws-civilian-economy-war-mode",
         "published": "2026-09-17T17:14:50Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "China, Not Iran, Is Trump’s Real Foreign-Policy Debacle",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/17/china-iran-trump-debacle-foreign-policy-war-trade-sanctions/",
-        "published": "2026-09-17T15:50:31Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -125,11 +125,11 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "amber",
+    "taiwan": "red",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "yellow"
+    "korea": "amber"
   },
   "thresholds": {
     "brent_alert": 110,
