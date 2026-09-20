@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-20T17:31:29.373Z",
+    "generated_at": "2026-09-20T19:47:50.888Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Central Command says U.S. military has aided the transit of 1 billion barrels of oil through Hormuz in past two months while Iran has ‘exported zero’",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/09/19/central-command-us-military-transit-1-billion-barrels-oil-hormuz-iran-exports-naval-blockade/",
-        "published": "2026-09-19T15:30:07Z",
+        "title": "Crude oil shipping costs surge 258% in two months to $23.59 per barrel",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/crude-oil-shipping-costs-surge-258-percent/",
+        "published": "2026-09-19T19:35:33Z",
         "sentiment": "watch"
       },
       {
-        "title": "World Running Short Of Supertankers Threatens Long-Haul Oil Flow",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/world-running-short-of-supertankers-threatens-long-haul-oil-flow/",
-        "published": "2026-09-19T15:28:46Z",
+        "title": "Explosions rock Saudi capital – media",
+        "source": "RT",
+        "url": "https://www.rt.com/news/645990-explosions-rock-saudi-capital/",
+        "published": "2026-09-19T18:56:55Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Britain Rewrites Its War Book and Tells Families to Stockpile Food as Global War Risks Grow",
+        "source": "Offgridsurvival.com",
+        "url": "https://offgridsurvival.com/britain-rewrites-its-war-book-and-tells-families-to-stockpile-food-as-global-war-risks-grow/",
+        "published": "2026-09-19T18:31:34Z",
         "sentiment": "danger"
       },
       {
-        "title": "‘We’ve been free-riding off Beijing in a weird way’ — Oil prices are high but could be much worse. Trump has China’s Xi to thank for that",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/09/19/trump-xi-jinping-summit-oil-prices-iran-war-crude-reserves/",
-        "published": "2026-09-19T15:00:29Z",
+        "title": "Hormuz oil shipments hit 6-month high",
+        "source": "Boston Herald",
+        "url": "https://www.bostonherald.com/2026/09/19/hormuz-oil-shipments-hit-6-month-high/",
+        "published": "2026-09-19T18:22:53Z",
         "sentiment": "watch"
       },
       {
-        "title": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
-        "published": "2026-09-19T13:48:04Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Smoke seen near Riyadh airport after air raid alerts in Saudi capital",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o",
-        "published": "2026-09-19T13:36:33Z",
-        "sentiment": "watch"
+        "title": "Iran-backed proxies strike Saudi Arabia’s oil pipeline and military bases",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-proxies-strike-saudi-oil-pipeline/",
+        "published": "2026-09-19T18:04:46Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
