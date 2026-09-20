@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-20T19:47:50.888Z",
+    "generated_at": "2026-09-20T22:20:33.265Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Crude oil shipping costs surge 258% in two months to $23.59 per barrel",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/crude-oil-shipping-costs-surge-258-percent/",
-        "published": "2026-09-19T19:35:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Explosions rock Saudi capital – media",
-        "source": "RT",
-        "url": "https://www.rt.com/news/645990-explosions-rock-saudi-capital/",
-        "published": "2026-09-19T18:56:55Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Britain Rewrites Its War Book and Tells Families to Stockpile Food as Global War Risks Grow",
-        "source": "Offgridsurvival.com",
-        "url": "https://offgridsurvival.com/britain-rewrites-its-war-book-and-tells-families-to-stockpile-food-as-global-war-risks-grow/",
-        "published": "2026-09-19T18:31:34Z",
+        "title": "Saudi Arabia confirms Yemen's Houthi rebels tried to attack its capital with a ballistic missile",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/houthi-rebels-saudi-arabia-conflict-riyadh-missile-attack-9.7351092",
+        "published": "2026-09-19T21:34:24Z",
         "sentiment": "danger"
       },
       {
-        "title": "Hormuz oil shipments hit 6-month high",
-        "source": "Boston Herald",
-        "url": "https://www.bostonherald.com/2026/09/19/hormuz-oil-shipments-hit-6-month-high/",
-        "published": "2026-09-19T18:22:53Z",
+        "title": "Saudi Arabia Confirms Yemen's Houthi Rebels Tried To Attack Its Capital With A Ballistic Missile",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/yemen-saudi-arabia_n_6aaef951e4b03a8a58d6d51b",
+        "published": "2026-09-19T21:13:09Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "KEMI BADENOCH: Of course the captains of industry and wealth creators are quitting Britain when Labour treats them as cows to be milked",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/debate/article-16144931/KEMI-BADENOCH-wealth-quitting-Britain-Labour.html",
+        "published": "2026-09-19T21:03:38Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran-backed proxies strike Saudi Arabia’s oil pipeline and military bases",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-proxies-strike-saudi-oil-pipeline/",
-        "published": "2026-09-19T18:04:46Z",
-        "sentiment": "danger"
+        "title": "Fossil fuel emissions set to fall in after oil shock",
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/economy/hormuz-oil-shock-emissions-2026",
+        "published": "2026-09-19T21:03:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Saudis Intercept Ballistic Missile Launched by Houthis at Capital",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/396732/saudis-intercept-ballistic-missile-launched-by-houthis-at-capital.html",
+        "published": "2026-09-19T20:50:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
