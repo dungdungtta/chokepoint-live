@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-20T00:19:09.656Z",
+    "generated_at": "2026-09-20T05:17:44.341Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,75 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "Perfume makers feel ethanol squeeze, weigh price hikes",
-        "source": "Livemint",
-        "url": "https://www.livemint.com/industry/perfume-prices-festive-season-ethanol-glass-bottle-costs-rise-11789539945506.html",
-        "published": "2026-09-19T00:10:11Z",
+        "title": "Oil Prices Are High But Could Be Much Worse. Trump Has China's Xi To Thank For That",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/ap-us-trump-xi-iran-oil-iran-war_n_6aae114ae4b07bc48dde47aa",
+        "published": "2026-09-19T04:44:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "ANDREW NEIL: We face a winter of global discontent - yet the West is being run by failures of truly historic proportions, for whom reality is another country",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/debate/article-16142883/ANDREW-NEIL-winter-global-discontent-West-failures.html",
-        "published": "2026-09-19T00:07:06Z",
+        "title": "‘Sacrifice your lives’: Hundreds of thousands take to Tehran’s streets for citizen ‘mobilisation’",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/09/19/sacrifice-your-lives-hundreds-of-thousands-take-to-tehrans-streets-for-citizen-mobilisation/",
+        "published": "2026-09-19T04:31:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Finance ministry, CBN sign pact to coordinate inflation policies",
-        "source": "The Punch",
-        "url": "https://punchng.com/finance-ministry-cbn-sign-pact-to-coordinate-inflation-policies/",
-        "published": "2026-09-18T23:55:37Z",
+        "title": "Oil prices are high but could be much worse. Trump has China's Xi to thank for that",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/oil-prices-high-worse-trump-chinas-xi-136580397",
+        "published": "2026-09-19T04:26:57Z",
         "sentiment": "watch"
       },
       {
-        "title": "Wall Street drifts lower as bond yields rise and oil prices swing",
-        "source": "Boston 25 News",
-        "url": "https://www.boston25news.com/news/business/asian-shares-mostly/ESN55GTH7Q2URFSOW3YA2KFXBA/",
-        "published": "2026-09-18T21:50:12Z",
-        "sentiment": "watch"
+        "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo",
+        "published": "2026-09-19T04:20:47Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Report: China Pushes Iran to Rein In Houthis, Reopen Strait of Hormuz",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/09/18/report-china-pushes-iran-to-rein-in-houthis-reopen-strait-of-hormuz/",
-        "published": "2026-09-18T21:47:43Z",
-        "sentiment": "neutral"
+        "title": "Oil prices are high but could be much worse. Trump has China's Xi to thank for that",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-prices-are-high-but-could-be-much-worse-trump-has-chinas-xi-to-thank-for-that/articleshow/134347640.cms",
+        "published": "2026-09-19T04:18:39Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Oil Prices Are High But Could Be Much Worse. Trump Has China's Xi To Thank For That",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/ap-us-trump-xi-iran-oil-iran-war_n_6aae114ae4b07bc48dde47aa",
+        "published": "2026-09-19T04:44:18Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil prices are high but could be much worse. Trump has China's Xi to thank for that",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/oil-prices-high-worse-trump-chinas-xi-136580397",
+        "published": "2026-09-19T04:26:57Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil prices are high but could be much worse. Trump has China's Xi to thank for that",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-prices-are-high-but-could-be-much-worse-trump-has-chinas-xi-to-thank-for-that/articleshow/134347640.cms",
+        "published": "2026-09-19T04:18:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil prices are high but could be much worse. Trump has China's Xi to thank for that.",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/politics/articles/oil-prices-high-could-much-040833336.html",
+        "published": "2026-09-19T04:08:33Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China Is Moving Toward a New Form of Coercion at Sea",
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/09/china-is-moving-toward-a-new-form-of-coercion-at-sea/",
         "published": "2026-09-18T13:16:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The Peril of Trump’s Final Act: Would He Use a Tactical Nuclear Weapon in Iran?",
-        "source": "Thenation.com",
-        "url": "https://www.thenation.com/?post_type=article&p=609861",
-        "published": "2026-09-18T09:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why Eurasia, Not the Indo-Pacific, Matters Most in Next Phase of Taiwan Deterrence",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/why-eurasia-not-the-indo-pacific-matters-most-in-next-phase-of-taiwan-deterrence/",
-        "published": "2026-09-18T07:30:22Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China’s Supposed Trump-Xi Summit Threat Gets Shot Down By Senior US Official",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/09/17/senior-us-official-shoots-down-trump-xi-summit-threat",
-        "published": "2026-09-17T21:10:37Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "China Builds Legal Machinery To Flip Civilian Economy Into War Mode",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/09/17/china-laws-civilian-economy-war-mode",
-        "published": "2026-09-17T17:14:50Z",
         "sentiment": "danger"
       }
     ],
@@ -125,11 +125,11 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "red",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "amber"
+    "korea": "yellow"
   },
   "thresholds": {
     "brent_alert": 110,
