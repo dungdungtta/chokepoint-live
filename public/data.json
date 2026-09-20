@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-19T22:27:08.770Z",
+    "generated_at": "2026-09-20T00:19:09.656Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Perfume makers feel ethanol squeeze, weigh price hikes",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/industry/perfume-prices-festive-season-ethanol-glass-bottle-costs-rise-11789539945506.html",
+        "published": "2026-09-19T00:10:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "ANDREW NEIL: We face a winter of global discontent - yet the West is being run by failures of truly historic proportions, for whom reality is another country",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/debate/article-16142883/ANDREW-NEIL-winter-global-discontent-West-failures.html",
+        "published": "2026-09-19T00:07:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Finance ministry, CBN sign pact to coordinate inflation policies",
+        "source": "The Punch",
+        "url": "https://punchng.com/finance-ministry-cbn-sign-pact-to-coordinate-inflation-policies/",
+        "published": "2026-09-18T23:55:37Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Wall Street drifts lower as bond yields rise and oil prices swing",
         "source": "Boston 25 News",
         "url": "https://www.boston25news.com/news/business/asian-shares-mostly/ESN55GTH7Q2URFSOW3YA2KFXBA/",
@@ -39,27 +60,6 @@
         "url": "https://www.breitbart.com/middle-east/2026/09/18/report-china-pushes-iran-to-rein-in-houthis-reopen-strait-of-hormuz/",
         "published": "2026-09-18T21:47:43Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Israel’s UN envoy calls out European countries for failing to help US secure Strait of Hormuz",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/18/us-news/israels-un-envoy-calls-out-european-countries-for-letting-iran-meddle-in-hormuz/",
-        "published": "2026-09-18T21:19:53Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Global Shipping Costs Explode as Hormuz Disruptions Hit Key Trade Routes",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Global-Shipping-Costs-Explode-as-Hormuz-Disruptions-Hit-Key-Trade-Routes.html",
-        "published": "2026-09-18T21:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Macron Calls for Another Emergency Oil Release as Europe Loses Supply",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Macron-Calls-for-Another-Emergency-Oil-Release-as-Europe-Loses-Supply.html",
-        "published": "2026-09-18T21:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
