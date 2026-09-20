@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-20T05:17:44.341Z",
+    "generated_at": "2026-09-20T10:01:46.665Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
+        "title": "Why the Houthis Are Saudi Arabia’s Problem",
+        "source": "The New Yorker",
+        "url": "https://www.newyorker.com/news/the-lede/why-the-houthis-are-saudi-arabias-problem",
+        "published": "2026-09-19T10:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "India needs multi-route energy strategy as West Asia tensions threaten supplies: Experts",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indias-urgent-need-for-a-multi-route-energy-strategy-amid-rising-west-asia-tensions/articleshow/134350216.cms",
+        "published": "2026-09-19T08:01:34Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "EIL in talks with Saudi Arabia, UAE for oil infra projects to bypass Strait of Hormuz",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/companies/eil-in-talks-with-saudi-arabia-uae-for-oil-infra-projects-to-bypass-strait-of-hormuz/article71483935.ece",
+        "published": "2026-09-19T07:23:49Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Why oil prices have avoided worst-case surge as Iran war enters sixth month",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/why-oil-prices-have-avoided-worst-case-surge-as-iran-war-enters-sixth-month-126091900164_1.html",
+        "published": "2026-09-19T06:24:30Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Oil Prices Are High But Could Be Much Worse. Trump Has China's Xi To Thank For That",
         "source": "HuffPost",
         "url": "https://www.huffpost.com/entry/ap-us-trump-xi-iran-oil-iran-war_n_6aae114ae4b07bc48dde47aa",
         "published": "2026-09-19T04:44:18Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "‘Sacrifice your lives’: Hundreds of thousands take to Tehran’s streets for citizen ‘mobilisation’",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/09/19/sacrifice-your-lives-hundreds-of-thousands-take-to-tehrans-streets-for-citizen-mobilisation/",
-        "published": "2026-09-19T04:31:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil prices are high but could be much worse. Trump has China's Xi to thank for that",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/oil-prices-high-worse-trump-chinas-xi-136580397",
-        "published": "2026-09-19T04:26:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo",
-        "published": "2026-09-19T04:20:47Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices are high but could be much worse. Trump has China's Xi to thank for that",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-prices-are-high-but-could-be-much-worse-trump-has-chinas-xi-to-thank-for-that/articleshow/134347640.cms",
-        "published": "2026-09-19T04:18:39Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Why oil prices have avoided worst-case surge as Iran war enters sixth month",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/why-oil-prices-have-avoided-worst-case-surge-as-iran-war-enters-sixth-month-126091900164_1.html",
+        "published": "2026-09-19T06:24:30Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Oil Prices Are High But Could Be Much Worse. Trump Has China's Xi To Thank For That",
         "source": "HuffPost",
@@ -90,13 +97,6 @@
         "url": "https://www.yahoo.com/news/politics/articles/oil-prices-high-could-much-040833336.html",
         "published": "2026-09-19T04:08:33Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "China Is Moving Toward a New Form of Coercion at Sea",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/09/china-is-moving-toward-a-new-form-of-coercion-at-sea/",
-        "published": "2026-09-18T13:16:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
