@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-20T14:15:04.971Z",
+    "generated_at": "2026-09-20T17:31:29.373Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Central Command says U.S. military has aided the transit of 1 billion barrels of oil through Hormuz in past two months while Iran has ‘exported zero’",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/09/19/central-command-us-military-transit-1-billion-barrels-oil-hormuz-iran-exports-naval-blockade/",
+        "published": "2026-09-19T15:30:07Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "World Running Short Of Supertankers Threatens Long-Haul Oil Flow",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/world-running-short-of-supertankers-threatens-long-haul-oil-flow/",
+        "published": "2026-09-19T15:28:46Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "‘We’ve been free-riding off Beijing in a weird way’ — Oil prices are high but could be much worse. Trump has China’s Xi to thank for that",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/09/19/trump-xi-jinping-summit-oil-prices-iran-war-crude-reserves/",
+        "published": "2026-09-19T15:00:29Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
@@ -39,30 +60,16 @@
         "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o",
         "published": "2026-09-19T13:36:33Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Swaptopus inches towards reality as CATL reveals new semi truck battery",
-        "source": "Electrek",
-        "url": "http://electrek.co/2026/09/19/swaptopus-inches-towards-reality-as-catl-reveals-new-semi-truck-battery/",
-        "published": "2026-09-19T13:08:21Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US Central Command confirms mine-free corridors in Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-central-command-confirms-mine-free-corridors-in-strait-of-hormuz/",
-        "published": "2026-09-19T13:03:04Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran conflict drives global fuel prices higher amid supply disruptions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-conflict-drives-global-fuel-prices-higher-amid-supply-disruptions/",
-        "published": "2026-09-19T13:02:53Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "‘We’ve been free-riding off Beijing in a weird way’ — Oil prices are high but could be much worse. Trump has China’s Xi to thank for that",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/09/19/trump-xi-jinping-summit-oil-prices-iran-war-crude-reserves/",
+        "published": "2026-09-19T15:00:29Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Allies call for Taiwan's inclusion in joint letter to United Nations",
         "source": "Globalsecurity.org",
@@ -89,13 +96,6 @@
         "source": "Abcnews.com",
         "url": "https://abcnews.com/US/wireStory/oil-prices-high-worse-trump-chinas-xi-136580397",
         "published": "2026-09-19T04:26:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil prices are high but could be much worse. Trump has China's Xi to thank for that",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-prices-are-high-but-could-be-much-worse-trump-has-chinas-xi-to-thank-for-that/articleshow/134347640.cms",
-        "published": "2026-09-19T04:18:39Z",
         "sentiment": "watch"
       }
     ],
