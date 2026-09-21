@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-21T17:05:16.006Z",
+    "generated_at": "2026-09-21T21:06:07.997Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Chevron CEO sends a strong message on oil price and the economy",
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/economy/chevron-ceo-sends-a-strong-message-on-oil-price-and-the-economy",
-        "published": "2026-09-20T16:47:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran warns US against any new attacks — amid State Department security alert",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/20/world-news/iran-warns-us-against-any-new-attacks-amid-security-alert/",
-        "published": "2026-09-20T16:46:29Z",
+        "title": "Iran’s economy faces another blockade: Red tape and gridlock are clogging up land routes that bypass the U.S. Navy’s Hormuz stranglehold",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/09/20/iran-economy-blockade-gridlock-land-routes-trucking-us-navy-hormuz/",
+        "published": "2026-09-20T20:13:29Z",
         "sentiment": "danger"
       },
       {
-        "title": "Qatar’s energy minister tells Scott Bessent he’s wrong about the Strait of Hormuz",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/qatar-rebuts-bessent-strait-of-hormuz/",
-        "published": "2026-09-20T16:34:22Z",
+        "title": "Why Europe Losing Saudi Oil Could Become America’s Problem",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/09/20/saudi-arabia-oil-europe-us-ellen-wald-andrew-lipow-caleb-jasso-stuart-turley-jason-hayes-david-blackmon",
+        "published": "2026-09-20T20:11:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "Ice Station Zebra: an abbreviated version of my substack",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-bloggers/4396246/posts",
-        "published": "2026-09-20T15:57:48Z",
-        "sentiment": "watch"
+        "title": "Polymarket shows 22% chance of Bab el-Mandeb Strait closure by December 31",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/polymarket-bab-el-mandeb-strait-closure-odds/",
+        "published": "2026-09-20T20:06:12Z",
+        "sentiment": "danger"
       },
       {
-        "title": "QatarEnergy plans to restore gas operations post-Strait reopening",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/qatarenergy-lng-recovery-strait-hormuz-reopening/",
-        "published": "2026-09-20T15:38:58Z",
-        "sentiment": "neutral"
+        "title": "The Irish Times view on Houthi attacks: upping the ante in the Gulf",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/opinion/editorials/2026/09/20/the-irish-times-view-on-houthi-attacks-upping-the-ante-in-the-gulf/",
+        "published": "2026-09-20T19:03:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Hormuz Crisis to Push Global Coal Demand to Record High",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/hormuz-crisis-push-global-coal-190000905.html",
+        "published": "2026-09-20T19:00:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
