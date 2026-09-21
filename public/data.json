@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-20T22:20:33.265Z",
+    "generated_at": "2026-09-21T00:26:01.740Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Energy Giants Are Betting Billions on a World of Longer Oil Routes",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Energy-Giants-Are-Betting-Billions-on-a-World-of-Longer-Oil-Routes.html",
+        "published": "2026-09-19T23:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Houthi forces claim strikes on sensitive sites in Riyadh as Gulf tensions escalate",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/houthi-strikes-riyadh-saudi-aramco/",
+        "published": "2026-09-19T22:33:39Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Polish prime minister warns Russia is planning drone or rocket strikes on European countries supporting Ukraine as ‘Carpathian Eight’ meet",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/09/19/polish-prime-minister-russia-hybrid-war-drone-rocket-strikes-european-countries-ukraine/",
+        "published": "2026-09-19T22:28:42Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "GOP midterm prospects take dire turn after new ‘disaster’ unfolds in Trump’s war: analysts",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/iran-war-2677895179/",
+        "published": "2026-09-19T22:27:26Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Saudi Arabia confirms Yemen's Houthi rebels tried to attack its capital with a ballistic missile",
         "source": "CBC News",
         "url": "https://www.cbc.ca/news/world/houthi-rebels-saudi-arabia-conflict-riyadh-missile-attack-9.7351092",
         "published": "2026-09-19T21:34:24Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Saudi Arabia Confirms Yemen's Houthi Rebels Tried To Attack Its Capital With A Ballistic Missile",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/yemen-saudi-arabia_n_6aaef951e4b03a8a58d6d51b",
-        "published": "2026-09-19T21:13:09Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "KEMI BADENOCH: Of course the captains of industry and wealth creators are quitting Britain when Labour treats them as cows to be milked",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/debate/article-16144931/KEMI-BADENOCH-wealth-quitting-Britain-Labour.html",
-        "published": "2026-09-19T21:03:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Fossil fuel emissions set to fall in after oil shock",
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/economy/hormuz-oil-shock-emissions-2026",
-        "published": "2026-09-19T21:03:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudis Intercept Ballistic Missile Launched by Houthis at Capital",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/396732/saudis-intercept-ballistic-missile-launched-by-houthis-at-capital.html",
-        "published": "2026-09-19T20:50:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
