@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-21T00:26:01.740Z",
+    "generated_at": "2026-09-21T05:21:06.711Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Energy Giants Are Betting Billions on a World of Longer Oil Routes",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Energy-Giants-Are-Betting-Billions-on-a-World-of-Longer-Oil-Routes.html",
-        "published": "2026-09-19T23:00:00Z",
+        "title": "Trump cuts visit to Camp David short as he arrives back at White House amid tensions with Iran-backed militia",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16145623/Trump-Camp-David-Houthis-Saudi-Arabia-attack.html",
+        "published": "2026-09-20T05:19:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthi forces claim strikes on sensitive sites in Riyadh as Gulf tensions escalate",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/houthi-strikes-riyadh-saudi-aramco/",
-        "published": "2026-09-19T22:33:39Z",
+        "title": "The Arab States and the US-Israeli War on Iran",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/09/arab-states-israeli.html",
+        "published": "2026-09-20T04:15:44Z",
         "sentiment": "danger"
       },
       {
-        "title": "Polish prime minister warns Russia is planning drone or rocket strikes on European countries supporting Ukraine as ‘Carpathian Eight’ meet",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/09/19/polish-prime-minister-russia-hybrid-war-drone-rocket-strikes-european-countries-ukraine/",
-        "published": "2026-09-19T22:28:42Z",
+        "title": "Saudi Arabia says Houthis tried to attack its capital",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+        "published": "2026-09-20T03:57:23Z",
         "sentiment": "danger"
       },
       {
-        "title": "GOP midterm prospects take dire turn after new ‘disaster’ unfolds in Trump’s war: analysts",
-        "source": "Raw Story",
-        "url": "https://www.rawstory.com/iran-war-2677895179/",
-        "published": "2026-09-19T22:27:26Z",
-        "sentiment": "danger"
+        "title": "Will Nifty extend gains to 4th session on Monday? US sanctions on Russia among factors to decide D-Street action",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-extend-gains-to-4th-session-on-monday-us-sanctions-on-russia-among-factors-to-decide-d-street-action/articleshow/134363267.cms",
+        "published": "2026-09-20T03:53:13Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Saudi Arabia confirms Yemen's Houthi rebels tried to attack its capital with a ballistic missile",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/houthi-rebels-saudi-arabia-conflict-riyadh-missile-attack-9.7351092",
-        "published": "2026-09-19T21:34:24Z",
+        "title": "Saudi Arabia confirms Yemen's Houthi rebels tried to attack its capital with ballistic missile",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/saudi-arabia-confirms-yemens-houthi-rebels-tried-to-attack-its-capital-with-ballistic-missile/article71486988.ece",
+        "published": "2026-09-20T03:53:07Z",
         "sentiment": "danger"
       }
     ],
