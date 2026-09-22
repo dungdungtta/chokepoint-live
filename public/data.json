@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T18:46:34.624Z",
+    "generated_at": "2026-09-22T21:57:36.831Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "US denies visas to members of Iranian president’s UN delegation",
-        "source": "The Punch",
-        "url": "https://punchng.com/us-denies-visas-to-members-of-iranian-presidents-un-delegation/",
-        "published": "2026-09-21T18:08:18Z",
+        "title": "Saudi Arabia boosts oil exports, stabilizing prices near $100",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/saudi-arabia-boosts-oil-exports-stabilizing-prices-near-100/",
+        "published": "2026-09-21T21:53:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran Makes Chilling Threat After Trump Mulls “Wiping” Them Out",
-        "source": "The New Republic",
-        "url": "https://newrepublic.com/post/215669/iran-chilling-threat-donald-trump-wiping-out",
-        "published": "2026-09-21T17:58:58Z",
+        "title": "UK to offer Saudi Arabia aerial refueling to counter Houthi attacks",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/uk-offer-saudi-arabia-aerial-refueling-counter-houthi-136631909",
+        "published": "2026-09-21T21:41:59Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trafigura Launches Volare Shipping With $500 Million Oslo Listing Plan",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/trafigura-launches-volare-shipping-with-500-million-oslo-listing-plan/",
-        "published": "2026-09-21T17:58:53Z",
+        "title": "Britain to give limited military support to Saudi Arabia to defend against Houthi rebels",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/britain-support-saudi-arabia-houthi-rebels-9.7352771",
+        "published": "2026-09-21T21:40:13Z",
         "sentiment": "watch"
       },
       {
-        "title": "EU Ship Recycling Fight Escalates Over Indian Beaching Yards",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/eu-ship-recycling-fight-escalates-over-indian-beaching-yards/",
-        "published": "2026-09-21T17:55:47Z",
+        "title": "Trump Reportedly Called Off Houthi Strikes As Bombs Were Being Loaded Onto US Planes",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/09/21/trump-reportedly-called-off-houthi-strikes",
+        "published": "2026-09-21T21:06:30Z",
         "sentiment": "danger"
       },
       {
-        "title": "The 20 richest women in the world, ranked",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/richest-women-in-the-world-ranked-2026-9#article",
-        "published": "2026-09-21T17:54:55Z",
-        "sentiment": "watch"
+        "title": "Trump to address UN General Assembly as Iran war looms large",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Politics/trump-address-general-assembly-iran-war-looms-large/story?id=136621201",
+        "published": "2026-09-21T20:52:05Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Chinese Ships Keep Appearing In America’s Arctic Backyard",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/09/21/chinese-resarch-ships-spotted-arctic-us-coast-guard",
+        "published": "2026-09-21T20:32:24Z",
+        "sentiment": "watch"
+      },
       {
         "title": "ANKASAM: The Rise of “Rimland” Geopolitics: Is Spykman Returning?",
         "source": "Blogspot.com",
@@ -89,13 +96,6 @@
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/taiwan-launches-global-disaster-response-group-amid-china-tensions/",
         "published": "2026-09-21T03:53:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hoover Institution Equips Diplomats and National Security Officials with Insights to Confront Shared Challenges at International Seminar",
-        "source": "Hoover.org",
-        "url": "https://www.hoover.org/news/hoover-institution-equips-diplomats-and-national-security-officials-insights-confront-shared-0",
-        "published": "2026-09-21T00:00:00Z",
         "sentiment": "watch"
       }
     ],
