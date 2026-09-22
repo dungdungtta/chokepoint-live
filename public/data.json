@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T00:09:20.343Z",
+    "generated_at": "2026-09-22T05:02:52.469Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Europe faces Q4 jet fuel supply deficit even as South Korea becomes latest big supplier",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/europe-faces-q4-jet-fuel-supply-deficit-even-south-korea-becomes-latest-big-supplier-6398316",
-        "published": "2026-09-21T00:04:12Z",
+        "title": "Nifty trade above 23,350 in early trade; breadth positive",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/capital-market-news/nifty-trade-above-23-350-in-early-trade-breadth-positive-126092100142_1.html",
+        "published": "2026-09-21T04:20:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "How the Arctic became the new front line in a VERY cold war: As Trump signs Greenland deal and Russia fortifies its Siberian bases, Oxford historian PETER FRANKOPAN warns melting ice could lead to a global conflict in the High North",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16146443/Arctic-cold-war-Trump-signs-Greenland-deal-PETER-FRANKOPAN.html",
-        "published": "2026-09-21T00:01:05Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Ukraine war disrupts grain shipments, fueling inflation risks as wheat prices surge 24%",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/ukraine-war-grain-shipments-inflation/",
-        "published": "2026-09-20T23:08:49Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Qatar Energy Chief Says Bessent ‘Wrong’ About Hormuz Future",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/qatar-energy-chief-says-bessent-wrong-about-hormuz-future/",
-        "published": "2026-09-20T22:39:11Z",
+        "title": "Bangladesh raises fuel prices by up to 17.4% amid global oil price surge",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/bangladesh-raises-fuel-prices-by-up-to-17-4-amid-global-oil-price-surge-126092100126_1.html",
+        "published": "2026-09-21T04:10:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "Stock market today: Live updates",
+        "title": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html",
-        "published": "2026-09-20T22:01:52Z",
+        "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
+        "published": "2026-09-21T04:04:18Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "GIFT Nifty signals positive start as Trump-XI summit, crude prices in focus",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/capital-market-news/gift-nifty-signals-positive-start-as-trump-xi-summit-crude-prices-in-focus-126092100098_1.html",
+        "published": "2026-09-21T03:34:01Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Bangladesh raises fuel prices by up to 17% amid global oil price surge",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/bangladesh-raises-fuel-prices-by-up-to-17-amid-global-oil-price-surge/articleshow/134378455.cms",
+        "published": "2026-09-21T02:48:34Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan launches global disaster response group amid China tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/taiwan-launches-global-disaster-response-group-amid-china-tensions/",
+        "published": "2026-09-21T03:53:09Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Hoover Institution Equips Diplomats and National Security Officials with Insights to Confront Shared Challenges at International Seminar",
         "source": "Hoover.org",
@@ -90,13 +97,6 @@
         "url": "https://www.business-standard.com/world-news/why-oil-prices-have-avoided-worst-case-surge-as-iran-war-enters-sixth-month-126091900164_1.html",
         "published": "2026-09-19T06:24:30Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Oil Prices Are High But Could Be Much Worse. Trump Has China's Xi To Thank For That",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/ap-us-trump-xi-iran-oil-iran-war_n_6aae114ae4b07bc48dde47aa",
-        "published": "2026-09-19T04:44:18Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
