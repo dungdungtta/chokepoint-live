@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T05:02:52.469Z",
+    "generated_at": "2026-09-22T10:01:26.871Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Nifty trade above 23,350 in early trade; breadth positive",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/capital-market-news/nifty-trade-above-23-350-in-early-trade-breadth-positive-126092100142_1.html",
-        "published": "2026-09-21T04:20:01Z",
+        "title": "Don’t Ask How This War Ends",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/ideas/2026/09/dont-ask-how-the-iran-war-ends/688724/",
+        "published": "2026-09-21T10:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Never Underestimate the Houthis",
+        "source": "Rand.org",
+        "url": "https://www.rand.org/pubs/commentary/2026/09/never-underestimate-the-houthis.html",
+        "published": "2026-09-21T10:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Bangladesh raises fuel prices by up to 17.4% amid global oil price surge",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/bangladesh-raises-fuel-prices-by-up-to-17-4-amid-global-oil-price-surge-126092100126_1.html",
-        "published": "2026-09-21T04:10:43Z",
+        "title": "Government braces for tough pre-election winter as rising prices and Turkey tensions loom",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/09/21/greek-government-braces-for-difficult-pre-election-winter-as-rising-prices-and-turkey-tensions-loom/",
+        "published": "2026-09-21T09:08:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
-        "published": "2026-09-21T04:04:18Z",
+        "title": "Auto Tools, Parts & Accessories Deals at Woot: Up to 82% off + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Auto-Tools-Parts-Accessories-Deals-at-Woot-Up-to-82-off-free-shipping-w-Prime/22203324.html",
+        "published": "2026-09-21T09:02:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "GIFT Nifty signals positive start as Trump-XI summit, crude prices in focus",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/capital-market-news/gift-nifty-signals-positive-start-as-trump-xi-summit-crude-prices-in-focus-126092100098_1.html",
-        "published": "2026-09-21T03:34:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Bangladesh raises fuel prices by up to 17% amid global oil price surge",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/bangladesh-raises-fuel-prices-by-up-to-17-amid-global-oil-price-surge/articleshow/134378455.cms",
-        "published": "2026-09-21T02:48:34Z",
+        "title": "A $750 million hedge fund manager shares the 4 things he’s watching as energy markets teeter",
+        "source": "Business Insider",
+        "url": "https://markets.businessinsider.com/news/commodities/commodities-fund-manager-oil-prices-iran-war-strategic-reserves-energy-2026-9#article",
+        "published": "2026-09-21T09:00:01Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China ‘wiretapped Red Sea’ with spy hub 6 miles from US base: ex Pentagon official warns",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/china-wiretapped-red-sea-spy-hub-6-miles-us-base-ex-pentagon-official-warns",
+        "published": "2026-09-21T10:00:50Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Taiwan launches global disaster response group amid China tensions",
         "source": "Crypto Briefing",
@@ -90,13 +97,6 @@
         "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260919-cna03.htm",
         "published": "2026-09-19T12:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Why oil prices have avoided worst-case surge as Iran war enters sixth month",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/why-oil-prices-have-avoided-worst-case-surge-as-iran-war-enters-sixth-month-126091900164_1.html",
-        "published": "2026-09-19T06:24:30Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
