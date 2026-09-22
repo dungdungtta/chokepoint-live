@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T10:01:26.871Z",
+    "generated_at": "2026-09-22T14:58:20.569Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Don’t Ask How This War Ends",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/ideas/2026/09/dont-ask-how-the-iran-war-ends/688724/",
-        "published": "2026-09-21T10:00:00Z",
+        "title": "UK Maritime Trade Operations reports two vessel attacks in Strait of Hormuz within 24 hours",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/uk-maritime-hormuz-vessel-attacks/",
+        "published": "2026-09-21T14:54:12Z",
         "sentiment": "danger"
       },
       {
-        "title": "Never Underestimate the Houthis",
-        "source": "Rand.org",
-        "url": "https://www.rand.org/pubs/commentary/2026/09/never-underestimate-the-houthis.html",
-        "published": "2026-09-21T10:00:00Z",
+        "title": "Saudi Arabia Facing Pressure at The Red Sea Bab al-Mandab Strait. Renewed Confrontation with the Houthis",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/saudi-arabia-pressure-bab-al-mandab/5941187",
+        "published": "2026-09-21T14:38:48Z",
         "sentiment": "watch"
       },
       {
-        "title": "Government braces for tough pre-election winter as rising prices and Turkey tensions loom",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/09/21/greek-government-braces-for-difficult-pre-election-winter-as-rising-prices-and-turkey-tensions-loom/",
-        "published": "2026-09-21T09:08:39Z",
+        "title": "Current price of oil as of Sept. 21, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-09-21-2026/",
+        "published": "2026-09-21T13:55:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "Auto Tools, Parts & Accessories Deals at Woot: Up to 82% off + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Auto-Tools-Parts-Accessories-Deals-at-Woot-Up-to-82-off-free-shipping-w-Prime/22203324.html",
-        "published": "2026-09-21T09:02:34Z",
+        "title": "Trafigura Launches Volare Shipping to Cash In on Record Tanker Rates",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/fdf6311f9b369da1",
+        "published": "2026-09-21T13:44:25Z",
         "sentiment": "watch"
       },
       {
-        "title": "A $750 million hedge fund manager shares the 4 things he’s watching as energy markets teeter",
-        "source": "Business Insider",
-        "url": "https://markets.businessinsider.com/news/commodities/commodities-fund-manager-oil-prices-iran-war-strategic-reserves-energy-2026-9#article",
-        "published": "2026-09-21T09:00:01Z",
-        "sentiment": "watch"
+        "title": "The 1951 Defense of Greenland Agreement as Written Again By Trump",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/1951-defense-greenland-agreement-trump/5941201",
+        "published": "2026-09-21T13:21:39Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan’s Status Is Ambiguous. U.S. Policy Shouldn’t Be.",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/21/taiwan-ambiguity-china/",
+        "published": "2026-09-21T11:51:31Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China ‘wiretapped Red Sea’ with spy hub 6 miles from US base: ex Pentagon official warns",
         "source": "Fox News",
@@ -89,13 +96,6 @@
         "source": "Fortune",
         "url": "https://fortune.com/2026/09/19/trump-xi-jinping-summit-oil-prices-iran-war-crude-reserves/",
         "published": "2026-09-19T15:00:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Allies call for Taiwan's inclusion in joint letter to United Nations",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260919-cna03.htm",
-        "published": "2026-09-19T12:00:00Z",
         "sentiment": "watch"
       }
     ],
