@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T14:58:20.569Z",
+    "generated_at": "2026-09-22T18:46:34.624Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "UK Maritime Trade Operations reports two vessel attacks in Strait of Hormuz within 24 hours",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/uk-maritime-hormuz-vessel-attacks/",
-        "published": "2026-09-21T14:54:12Z",
+        "title": "US denies visas to members of Iranian president’s UN delegation",
+        "source": "The Punch",
+        "url": "https://punchng.com/us-denies-visas-to-members-of-iranian-presidents-un-delegation/",
+        "published": "2026-09-21T18:08:18Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran Makes Chilling Threat After Trump Mulls “Wiping” Them Out",
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/post/215669/iran-chilling-threat-donald-trump-wiping-out",
+        "published": "2026-09-21T17:58:58Z",
         "sentiment": "danger"
       },
       {
-        "title": "Saudi Arabia Facing Pressure at The Red Sea Bab al-Mandab Strait. Renewed Confrontation with the Houthis",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/saudi-arabia-pressure-bab-al-mandab/5941187",
-        "published": "2026-09-21T14:38:48Z",
+        "title": "Trafigura Launches Volare Shipping With $500 Million Oslo Listing Plan",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/trafigura-launches-volare-shipping-with-500-million-oslo-listing-plan/",
+        "published": "2026-09-21T17:58:53Z",
         "sentiment": "watch"
       },
       {
-        "title": "Current price of oil as of Sept. 21, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-09-21-2026/",
-        "published": "2026-09-21T13:55:58Z",
-        "sentiment": "watch"
+        "title": "EU Ship Recycling Fight Escalates Over Indian Beaching Yards",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/eu-ship-recycling-fight-escalates-over-indian-beaching-yards/",
+        "published": "2026-09-21T17:55:47Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Trafigura Launches Volare Shipping to Cash In on Record Tanker Rates",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/fdf6311f9b369da1",
-        "published": "2026-09-21T13:44:25Z",
+        "title": "The 20 richest women in the world, ranked",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/richest-women-in-the-world-ranked-2026-9#article",
+        "published": "2026-09-21T17:54:55Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "The 1951 Defense of Greenland Agreement as Written Again By Trump",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/1951-defense-greenland-agreement-trump/5941201",
-        "published": "2026-09-21T13:21:39Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "ANKASAM: The Rise of “Rimland” Geopolitics: Is Spykman Returning?",
+        "source": "Blogspot.com",
+        "url": "https://i-epikaira.blogspot.com/2026/09/the-rise-of-rimland-geopolitics-is.html",
+        "published": "2026-09-21T15:23:32Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan’s Status Is Ambiguous. U.S. Policy Shouldn’t Be.",
         "source": "Foreign Policy",
@@ -89,13 +96,6 @@
         "source": "Hoover.org",
         "url": "https://www.hoover.org/news/hoover-institution-equips-diplomats-and-national-security-officials-insights-confront-shared-0",
         "published": "2026-09-21T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "‘We’ve been free-riding off Beijing in a weird way’ — Oil prices are high but could be much worse. Trump has China’s Xi to thank for that",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/09/19/trump-xi-jinping-summit-oil-prices-iran-war-crude-reserves/",
-        "published": "2026-09-19T15:00:29Z",
         "sentiment": "watch"
       }
     ],
