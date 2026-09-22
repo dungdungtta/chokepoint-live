@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-21T21:06:07.997Z",
+    "generated_at": "2026-09-22T00:09:20.343Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran’s economy faces another blockade: Red tape and gridlock are clogging up land routes that bypass the U.S. Navy’s Hormuz stranglehold",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/09/20/iran-economy-blockade-gridlock-land-routes-trucking-us-navy-hormuz/",
-        "published": "2026-09-20T20:13:29Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Why Europe Losing Saudi Oil Could Become America’s Problem",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/09/20/saudi-arabia-oil-europe-us-ellen-wald-andrew-lipow-caleb-jasso-stuart-turley-jason-hayes-david-blackmon",
-        "published": "2026-09-20T20:11:01Z",
+        "title": "Europe faces Q4 jet fuel supply deficit even as South Korea becomes latest big supplier",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/europe-faces-q4-jet-fuel-supply-deficit-even-south-korea-becomes-latest-big-supplier-6398316",
+        "published": "2026-09-21T00:04:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "Polymarket shows 22% chance of Bab el-Mandeb Strait closure by December 31",
+        "title": "How the Arctic became the new front line in a VERY cold war: As Trump signs Greenland deal and Russia fortifies its Siberian bases, Oxford historian PETER FRANKOPAN warns melting ice could lead to a global conflict in the High North",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16146443/Arctic-cold-war-Trump-signs-Greenland-deal-PETER-FRANKOPAN.html",
+        "published": "2026-09-21T00:01:05Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Ukraine war disrupts grain shipments, fueling inflation risks as wheat prices surge 24%",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/polymarket-bab-el-mandeb-strait-closure-odds/",
-        "published": "2026-09-20T20:06:12Z",
+        "url": "https://cryptobriefing.com/ukraine-war-grain-shipments-inflation/",
+        "published": "2026-09-20T23:08:49Z",
         "sentiment": "danger"
       },
       {
-        "title": "The Irish Times view on Houthi attacks: upping the ante in the Gulf",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/opinion/editorials/2026/09/20/the-irish-times-view-on-houthi-attacks-upping-the-ante-in-the-gulf/",
-        "published": "2026-09-20T19:03:00Z",
-        "sentiment": "danger"
+        "title": "Qatar Energy Chief Says Bessent ‘Wrong’ About Hormuz Future",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/qatar-energy-chief-says-bessent-wrong-about-hormuz-future/",
+        "published": "2026-09-20T22:39:11Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Hormuz Crisis to Push Global Coal Demand to Record High",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/hormuz-crisis-push-global-coal-190000905.html",
-        "published": "2026-09-20T19:00:00Z",
+        "title": "Stock market today: Live updates",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html",
+        "published": "2026-09-20T22:01:52Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Hoover Institution Equips Diplomats and National Security Officials with Insights to Confront Shared Challenges at International Seminar",
+        "source": "Hoover.org",
+        "url": "https://www.hoover.org/news/hoover-institution-equips-diplomats-and-national-security-officials-insights-confront-shared-0",
+        "published": "2026-09-21T00:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "‘We’ve been free-riding off Beijing in a weird way’ — Oil prices are high but could be much worse. Trump has China’s Xi to thank for that",
         "source": "Fortune",
@@ -89,13 +96,6 @@
         "source": "HuffPost",
         "url": "https://www.huffpost.com/entry/ap-us-trump-xi-iran-oil-iran-war_n_6aae114ae4b07bc48dde47aa",
         "published": "2026-09-19T04:44:18Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil prices are high but could be much worse. Trump has China's Xi to thank for that",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/oil-prices-high-worse-trump-chinas-xi-136580397",
-        "published": "2026-09-19T04:26:57Z",
         "sentiment": "watch"
       }
     ],
