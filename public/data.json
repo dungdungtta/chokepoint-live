@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-23T10:02:03.044Z",
+    "generated_at": "2026-09-23T15:03:22.299Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,75 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump’s ‘Economic D-Day’ Against Iran Risks U.S. Ties With China",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/22/operation-economic-outcast-trump-united-states-iran-china-sanctions-oil-markets-bessent/",
-        "published": "2026-09-22T10:00:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi defence fund speeds up maritime sector push following Houthi advance",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/saudi-defence-fund-speeds-up-maritime-sector-push-following-houthi-advance/articleshow/134408932.cms",
-        "published": "2026-09-22T09:59:37Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "As diesel nears £2 per litre, could petrol be next?",
-        "source": "Autocar",
-        "url": "https://www.autocar.co.uk/car-news/advice/diesel-nears-%C2%A32-litre-could-petrol-be-next",
-        "published": "2026-09-22T09:50:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "E.U.’s Top Diplomat Says Red Sea Mission Needs More Warships amid Rising Houthi Attacks",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/europe/2026/09/22/eus-top-diplomat-says-red-sea-mission-need-more-warships-amid-rising-houthi-attacks/",
-        "published": "2026-09-22T09:50:02Z",
+        "title": "‘Do I Annihilate the Islamic Republic?’ Trump Issues Shocking Threat to Iran in UN Speech",
+        "source": "Mediaite",
+        "url": "https://www.mediaite.com/media/news/do-i-annihilate-the-islamic-republic-trump-issues-shocking-threat-to-iran-in-un-speech/",
+        "published": "2026-09-22T15:02:38Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil Prices Rebound as Traders Monitor US-Iran Diplomacy and Saudi Supply Flows",
-        "source": "Advfn.com",
-        "url": "https://investorshub.advfn.com/market-news/article/36670/oil-prices-rebound-as-traders-monitor-us-iran-diplomacy-and-saudi-supply-flows",
-        "published": "2026-09-22T09:40:21Z",
+        "title": "Oil prices drop as Iran offers to reopen Strait of Hormuz if US lifts blockade",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oil-prices-drop-iran-strait-hormuz/",
+        "published": "2026-09-22T15:01:20Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Liu Wei’s Reassembled Sculptures Have Taken Over the Met’s Facade",
+        "source": "Robb Report",
+        "url": "http://robbreport.com/shelter/art-collectibles/liu-wei-sculptures-met-museum-1238665655/",
+        "published": "2026-09-22T15:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Houthis say Saudi Arabia conducts deadly strike on key port city",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/houthis-saudi-arabia-strike-yemen-key-port-city-6402761",
+        "published": "2026-09-22T14:48:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Why are the Houthis fighting for Yemen’s Kahboub Mountains?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains",
+        "published": "2026-09-22T14:47:25Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "US backs Taiwan just days before Trump hosts Xi at White House",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/22/us-news/us-backs-taiwan-before-trump-hosts-xi-at-white-house/",
-        "published": "2026-09-22T07:32:46Z",
+        "title": "SCO, BRICS, Trump-Xi: What Does the Spate of Summits Mean for India?",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/sco-brics-trump-xi-what-does-the-spate-of-summits-mean-for-india/",
+        "published": "2026-09-22T13:55:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump set to address UN amid Iran conflict, global economic turmoil",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/trump-set-to-address-un-amid-iran-conflict-global-economic-turmoil-126092200197_1.html",
-        "published": "2026-09-22T05:08:23Z",
+        "title": "From 1453 to 2026: As the West’s 500-Year World System Comes to an End",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/west-500-year-world-system-comes-end/5941350",
+        "published": "2026-09-22T13:51:22Z",
         "sentiment": "watch"
       },
       {
-        "title": "Two New Zealand naval ships transit Taiwan Strait",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/two-new-zealand-naval-ships-transit-taiwan-strait/articleshow/134401873.cms",
-        "published": "2026-09-22T04:11:17Z",
+        "title": "Trump Returns to UN at a Moment of Anxiety About Iran, AI and the Future of the World Body Itself",
+        "source": "Military.com",
+        "url": "https://military.com/trump-returns-to-un-at-a-moment-of-anxiety-about-iran-ai-and-the-future-of-the-world-body-itself",
+        "published": "2026-09-22T13:30:07Z",
         "sentiment": "watch"
       },
       {
-        "title": "CNBC Daily Open: All that glitters is another U.S.-China détente",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/22/us-china-trump-xi-summit-trade-tariffs-ai-openai-nissan-pharma.html",
-        "published": "2026-09-22T01:47:27Z",
+        "title": "The Battle for Taiwan’s East: Taipei’s Western Pacific Strategy",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/the-battle-for-taiwans-east-taipeis-western-pacific-strategy/",
+        "published": "2026-09-22T12:29:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US stresses backing for Japan, Korea and Taiwan ahead of Trump-Xi summit",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/east-asia/us-china-japan-south-korea-taiwan-xi-trump-meeting-6401016",
-        "published": "2026-09-22T01:27:18Z",
+        "title": "Trump returns to UN at a moment of anxiety about Iran, AI and the future of world body itself",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/trump-returns-moment-anxiety-iran-ai-future-world-136640108",
+        "published": "2026-09-22T11:05:24Z",
         "sentiment": "watch"
       }
     ],
