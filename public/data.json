@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-23T15:03:22.299Z",
+    "generated_at": "2026-09-23T19:05:20.313Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 130.8,
-      "change_pct": 7.9,
-      "date": "2026-09-15",
+      "price": 114.89,
+      "change_pct": -1.1,
+      "date": "2026-09-22",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "‘Do I Annihilate the Islamic Republic?’ Trump Issues Shocking Threat to Iran in UN Speech",
-        "source": "Mediaite",
-        "url": "https://www.mediaite.com/media/news/do-i-annihilate-the-islamic-republic-trump-issues-shocking-threat-to-iran-in-un-speech/",
-        "published": "2026-09-22T15:02:38Z",
+        "title": "‘I have a big decision to make’: Trump had a ‘good meeting’ with Iranian officials warning he may ‘annihilate the Islamic Republic’",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/09/22/trump-meets-iranian-officials-annihilate-big-decision/",
+        "published": "2026-09-22T18:59:12Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil prices drop as Iran offers to reopen Strait of Hormuz if US lifts blockade",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-prices-drop-iran-strait-hormuz/",
-        "published": "2026-09-22T15:01:20Z",
-        "sentiment": "danger"
+        "title": "Diesel prices just hit a new record. Would a U.S. export ban bring relief?",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/diesel-export-ban-record-price-impact/",
+        "published": "2026-09-22T18:19:24Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Liu Wei’s Reassembled Sculptures Have Taken Over the Met’s Facade",
-        "source": "Robb Report",
-        "url": "http://robbreport.com/shelter/art-collectibles/liu-wei-sculptures-met-museum-1238665655/",
-        "published": "2026-09-22T15:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Houthis say Saudi Arabia conducts deadly strike on key port city",
+        "title": "Iran 'toughened' conditions for ending war after US deal collapse: Guards spokesman",
         "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/houthis-saudi-arabia-strike-yemen-key-port-city-6402761",
-        "published": "2026-09-22T14:48:00Z",
+        "url": "https://www.channelnewsasia.com/world/us-iran-war-toughened-conditions-6403086",
+        "published": "2026-09-22T18:13:26Z",
         "sentiment": "danger"
       },
       {
-        "title": "Why are the Houthis fighting for Yemen’s Kahboub Mountains?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains",
-        "published": "2026-09-22T14:47:25Z",
-        "sentiment": "watch"
+        "title": "Trump says Iran deal could come after midterm election, warns of ‘annihilation’",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/trump-says-iran-deal-could-come-after-midterm-election-warns-of-annihilation/article71497068.ece",
+        "published": "2026-09-22T18:00:43Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Mearsheimer: A Left Critique",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/mearsheimer-left-critique/5941445",
+        "published": "2026-09-22T15:56:06Z",
+        "sentiment": "watch"
+      },
       {
         "title": "SCO, BRICS, Trump-Xi: What Does the Spate of Summits Mean for India?",
         "source": "The Diplomat",
@@ -89,13 +89,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/09/the-battle-for-taiwans-east-taipeis-western-pacific-strategy/",
         "published": "2026-09-22T12:29:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump returns to UN at a moment of anxiety about Iran, AI and the future of world body itself",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/trump-returns-moment-anxiety-iran-ai-future-world-136640108",
-        "published": "2026-09-22T11:05:24Z",
         "sentiment": "watch"
       }
     ],
