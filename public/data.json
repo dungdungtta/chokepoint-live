@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-23T05:03:35.498Z",
+    "generated_at": "2026-09-23T10:02:03.044Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "MAS warns of fresh global shocks and AI pullback, but says Singapore firms and households well-buffered",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/singapore/mas-financial-stability-review-ai-pullback-6401101",
-        "published": "2026-09-22T05:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Strangling Iran: Will Trump’s endgame win out?",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/433472",
-        "published": "2026-09-22T05:00:00Z",
+        "title": "Trump’s ‘Economic D-Day’ Against Iran Risks U.S. Ties With China",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/22/operation-economic-outcast-trump-united-states-iran-china-sanctions-oil-markets-bessent/",
+        "published": "2026-09-22T10:00:15Z",
         "sentiment": "watch"
       },
       {
-        "title": "UK to refuel Saudi jets amid conflict with Yemen's Houthis",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/uk-to-refuel-saudi-jets-amid-conflict-with-yemens-houthis/a-79364964",
-        "published": "2026-09-22T04:58:00Z",
+        "title": "Saudi defence fund speeds up maritime sector push following Houthi advance",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/saudi-defence-fund-speeds-up-maritime-sector-push-following-houthi-advance/articleshow/134408932.cms",
+        "published": "2026-09-22T09:59:37Z",
         "sentiment": "watch"
       },
       {
-        "title": "G7 demands Houthis 'immediately' cease Saudi strikes",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/g7-demands-houthis-immediately-cease-saudi-strikes/a-79364964",
-        "published": "2026-09-22T04:58:00Z",
+        "title": "As diesel nears £2 per litre, could petrol be next?",
+        "source": "Autocar",
+        "url": "https://www.autocar.co.uk/car-news/advice/diesel-nears-%C2%A32-litre-could-petrol-be-next",
+        "published": "2026-09-22T09:50:26Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "E.U.’s Top Diplomat Says Red Sea Mission Needs More Warships amid Rising Houthi Attacks",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/europe/2026/09/22/eus-top-diplomat-says-red-sea-mission-need-more-warships-amid-rising-houthi-attacks/",
+        "published": "2026-09-22T09:50:02Z",
         "sentiment": "danger"
       },
       {
-        "title": "UK to refuel Saudi jets amid conflict with Yemen's Houthis",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/uk-to-refuel-saudi-jets-amid-conflict-with-yemens-houthis/a-79364964",
-        "published": "2026-09-22T04:58:00Z",
+        "title": "Oil Prices Rebound as Traders Monitor US-Iran Diplomacy and Saudi Supply Flows",
+        "source": "Advfn.com",
+        "url": "https://investorshub.advfn.com/market-news/article/36670/oil-prices-rebound-as-traders-monitor-us-iran-diplomacy-and-saudi-supply-flows",
+        "published": "2026-09-22T09:40:21Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "US backs Taiwan just days before Trump hosts Xi at White House",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/22/us-news/us-backs-taiwan-before-trump-hosts-xi-at-white-house/",
+        "published": "2026-09-22T07:32:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump set to address UN amid Iran conflict, global economic turmoil",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/trump-set-to-address-un-amid-iran-conflict-global-economic-turmoil-126092200197_1.html",
+        "published": "2026-09-22T05:08:23Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Two New Zealand naval ships transit Taiwan Strait",
         "source": "The Times of India",
@@ -82,20 +96,6 @@
         "source": "CNA",
         "url": "https://www.channelnewsasia.com/east-asia/us-china-japan-south-korea-taiwan-xi-trump-meeting-6401016",
         "published": "2026-09-22T01:27:18Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Chinese Ships Keep Appearing In America’s Arctic Backyard",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/09/21/chinese-resarch-ships-spotted-arctic-us-coast-guard",
-        "published": "2026-09-21T20:32:24Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "ANKASAM: The Rise of “Rimland” Geopolitics: Is Spykman Returning?",
-        "source": "Blogspot.com",
-        "url": "https://i-epikaira.blogspot.com/2026/09/the-rise-of-rimland-geopolitics-is.html",
-        "published": "2026-09-21T15:23:32Z",
         "sentiment": "watch"
       }
     ],
