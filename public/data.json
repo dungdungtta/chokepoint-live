@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-23T00:19:40.058Z",
+    "generated_at": "2026-09-23T05:03:35.498Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,63 @@
   "news": {
     "hormuz": [
       {
-        "title": "Qatar’s LNG Loss Revives Projects From Argentina to Timor-Leste",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Natural-Gas/Qatars-LNG-Loss-Revives-Projects-From-Argentina-to-Timor-Leste.html",
-        "published": "2026-09-22T00:00:00Z",
+        "title": "MAS warns of fresh global shocks and AI pullback, but says Singapore firms and households well-buffered",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/singapore/mas-financial-stability-review-ai-pullback-6401101",
+        "published": "2026-09-22T05:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Strangling Iran: Will Trump’s endgame win out?",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/433472",
+        "published": "2026-09-22T05:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US diesel prices hit record high",
-        "source": "RT",
-        "url": "https://www.rt.com/business/646060-us-diesel-record-price/",
-        "published": "2026-09-21T23:47:58Z",
+        "title": "UK to refuel Saudi jets amid conflict with Yemen's Houthis",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/uk-to-refuel-saudi-jets-amid-conflict-with-yemens-houthis/a-79364964",
+        "published": "2026-09-22T04:58:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "U.S. military leaders divided over action against the Houthis",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/national-security/us-military-leaders-divided-action-houthis-rcna599049",
-        "published": "2026-09-21T22:35:47Z",
-        "sentiment": "watch"
+        "title": "G7 demands Houthis 'immediately' cease Saudi strikes",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/g7-demands-houthis-immediately-cease-saudi-strikes/a-79364964",
+        "published": "2026-09-22T04:58:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "With US Hesitant, UK Will Aid Saudis",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/396802/with-us-hesitant-uk-will-aid-saudis.html",
-        "published": "2026-09-21T22:07:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Arabia boosts oil exports, stabilizing prices near $100",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/saudi-arabia-boosts-oil-exports-stabilizing-prices-near-100/",
-        "published": "2026-09-21T21:53:08Z",
+        "title": "UK to refuel Saudi jets amid conflict with Yemen's Houthis",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/uk-to-refuel-saudi-jets-amid-conflict-with-yemens-houthis/a-79364964",
+        "published": "2026-09-22T04:58:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Two New Zealand naval ships transit Taiwan Strait",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/two-new-zealand-naval-ships-transit-taiwan-strait/articleshow/134401873.cms",
+        "published": "2026-09-22T04:11:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "CNBC Daily Open: All that glitters is another U.S.-China détente",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/22/us-china-trump-xi-summit-trade-tariffs-ai-openai-nissan-pharma.html",
+        "published": "2026-09-22T01:47:27Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US stresses backing for Japan, Korea and Taiwan ahead of Trump-Xi summit",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/east-asia/us-china-japan-south-korea-taiwan-xi-trump-meeting-6401016",
+        "published": "2026-09-22T01:27:18Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Chinese Ships Keep Appearing In America’s Arctic Backyard",
         "source": "The Daily Caller",
@@ -75,27 +96,6 @@
         "source": "Blogspot.com",
         "url": "https://i-epikaira.blogspot.com/2026/09/the-rise-of-rimland-geopolitics-is.html",
         "published": "2026-09-21T15:23:32Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan’s Status Is Ambiguous. U.S. Policy Shouldn’t Be.",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/21/taiwan-ambiguity-china/",
-        "published": "2026-09-21T11:51:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China ‘wiretapped Red Sea’ with spy hub 6 miles from US base: ex Pentagon official warns",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/china-wiretapped-red-sea-spy-hub-6-miles-us-base-ex-pentagon-official-warns",
-        "published": "2026-09-21T10:00:50Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Taiwan launches global disaster response group amid China tensions",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/taiwan-launches-global-disaster-response-group-amid-china-tensions/",
-        "published": "2026-09-21T03:53:09Z",
         "sentiment": "watch"
       }
     ],
@@ -125,7 +125,7 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "amber",
+    "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
