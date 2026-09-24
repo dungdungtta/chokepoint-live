@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-23T22:19:39.659Z",
+    "generated_at": "2026-09-24T00:48:14.582Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
+        "title": "IMO Uncertainty Puts Shipping’s 2030 Fuel Target at Risk",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/imo-uncertainty-puts-shippings-2030-fuel-target-at-risk/",
+        "published": "2026-09-23T00:44:34Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump says Witkoff, Kushner met Iranian officials, shortly after warning he may 'annihilate' Iran",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-witkoff-kushner-met-iranian-officials-shortly-after-warning-he-may-annihilate-iran/articleshow/134423498.cms",
+        "published": "2026-09-23T00:44:18Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Navy vows to sustain four-year zero piracy record",
+        "source": "The Punch",
+        "url": "https://punchng.com/navy-vows-to-sustain-four-year-zero-piracy-record/",
+        "published": "2026-09-22T23:20:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump Turns Up Pressure on Iran as Hormuz Shipping Remains in Limbo",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/donald-trump-iran-war-strait-of-hormuz-un-talks-shipping-ultimatum-1239254216/",
+        "published": "2026-09-22T23:01:06Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "WATCH: Tehran dangles peace deal hours before Trump threatens to ‘annihilate’ Iran",
         "source": "Wnd.com",
         "url": "https://www.wnd.com/2026/09/watch-tehran-dangles-peace-deal-hours-before-trump/",
         "published": "2026-09-22T21:39:40Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Trump Threatens to ‘Annihilate’ Iran in U.N. Speech",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/22/trump-unga-speech-annihilate-iran-icc-rogue-war-crimes/",
-        "published": "2026-09-22T21:20:26Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Tehran Dangles Peace Deal Hours Before Trump Threatens To ‘Annihilate’ Iran",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/09/22/iran-peace-offer-hormuz-donald-trump-un-annihilate",
-        "published": "2026-09-22T21:03:38Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump is backing a diesel export ban. How much would that do?",
-        "source": "Grist",
-        "url": "https://grist.org/transportation/trump-is-backing-a-diesel-export-ban-how-much-would-that-do/",
-        "published": "2026-09-22T21:00:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis",
-        "published": "2026-09-22T20:27:45Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Takaichi, Trump Confirm Alliance Unity",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150834.php",
+        "published": "2026-09-23T00:38:25Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Premier Li on advanced manufacturing; Xi’s US visit; AI; “Enemy state” clauses",
         "source": "Sinocism.com",
@@ -89,13 +96,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/09/sco-brics-trump-xi-what-does-the-spate-of-summits-mean-for-india/",
         "published": "2026-09-22T13:55:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "From 1453 to 2026: As the West’s 500-Year World System Comes to an End",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/west-500-year-world-system-comes-end/5941350",
-        "published": "2026-09-22T13:51:22Z",
         "sentiment": "watch"
       }
     ],
