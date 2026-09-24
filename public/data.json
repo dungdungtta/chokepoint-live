@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-24T00:48:14.582Z",
+    "generated_at": "2026-09-24T06:01:32.588Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "IMO Uncertainty Puts Shipping’s 2030 Fuel Target at Risk",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/imo-uncertainty-puts-shippings-2030-fuel-target-at-risk/",
-        "published": "2026-09-23T00:44:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump says Witkoff, Kushner met Iranian officials, shortly after warning he may 'annihilate' Iran",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-witkoff-kushner-met-iranian-officials-shortly-after-warning-he-may-annihilate-iran/articleshow/134423498.cms",
-        "published": "2026-09-23T00:44:18Z",
+        "title": "UK sends refuelling plane to Saudi Arabia as Houthi advance threatens global oil routes",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-09-23-uk-refuelling-plane-saudi-arabia-houthi.html",
+        "published": "2026-09-23T06:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Navy vows to sustain four-year zero piracy record",
-        "source": "The Punch",
-        "url": "https://punchng.com/navy-vows-to-sustain-four-year-zero-piracy-record/",
-        "published": "2026-09-22T23:20:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Turns Up Pressure on Iran as Hormuz Shipping Remains in Limbo",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/donald-trump-iran-war-strait-of-hormuz-un-talks-shipping-ultimatum-1239254216/",
-        "published": "2026-09-22T23:01:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "WATCH: Tehran dangles peace deal hours before Trump threatens to ‘annihilate’ Iran",
-        "source": "Wnd.com",
-        "url": "https://www.wnd.com/2026/09/watch-tehran-dangles-peace-deal-hours-before-trump/",
-        "published": "2026-09-22T21:39:40Z",
+        "title": "Oil tanker costs hit record $1.2mn a day as Iran war disrupts shipping",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/388ce138cfd1563b",
+        "published": "2026-09-23T05:48:03Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
+        "published": "2026-09-23T05:37:48Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The Urgency of Recognizing the Ansar Allah Government in Yemen",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/09/the-urgency-of-recognizing-the-ansar-allah-government-in-yemen.html",
+        "published": "2026-09-23T05:12:24Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
