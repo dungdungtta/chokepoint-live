@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-24T06:01:32.588Z",
+    "generated_at": "2026-09-24T11:51:50.235Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "UK sends refuelling plane to Saudi Arabia as Houthi advance threatens global oil routes",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-09-23-uk-refuelling-plane-saudi-arabia-houthi.html",
-        "published": "2026-09-23T06:00:00Z",
-        "sentiment": "danger"
+        "title": "USA-Iran Conflict Changes Definition of Available Barrel",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/usairan_conflict_changes_definition_of_available_barrel-23-sep-2026-184682-article/",
+        "published": "2026-09-23T11:28:33Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Oil tanker costs hit record $1.2mn a day as Iran war disrupts shipping",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/388ce138cfd1563b",
-        "published": "2026-09-23T05:48:03Z",
-        "sentiment": "danger"
+        "title": "K.M. in New York (Who He Will Meet, What He Will Do), Alexis’ Thinking on Windfall Taxes (What Did You Just Say?), Tzitzikostas’ Bougatsa Summit",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/09/23/k-m-in-new-york-who-he-will-meet-what-he-will-do-alexis-thinking-on-windfall-taxes-what-did-you-just-say-tzitzikostas-bougatsa-summit/",
+        "published": "2026-09-23T11:09:37Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
-        "published": "2026-09-23T05:37:48Z",
-        "sentiment": "neutral"
+        "title": "Oil executives declared a fuel crisis, and diesel agrees",
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/economy/fuel-crisis-diesel-prices",
+        "published": "2026-09-23T11:03:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "The Urgency of Recognizing the Ansar Allah Government in Yemen",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/09/the-urgency-of-recognizing-the-ansar-allah-government-in-yemen.html",
-        "published": "2026-09-23T05:12:24Z",
+        "title": "Sensex today | Stock Market Highlights: Nifty closes at 23,446, gains 118 points, Sensex ends at 74,828 on stronger domestic growth momentum",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-september-2026/article71495500.ece",
+        "published": "2026-09-23T10:49:05Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/09/23/nx-s1-5977753/mike-waltz-iran-venezuela-trump-united-nations",
+        "published": "2026-09-23T10:48:47Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump-Xi meeting comes amid tensions on Iran, Taiwan and trade: What to know",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Politics/trump-xi-meeting-amid-tensions-iran-taiwan-trade/story?id=136650648",
+        "published": "2026-09-23T09:04:52Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Takaichi, Trump Confirm Alliance Unity",
         "source": "Newsonjapan.com",
@@ -82,13 +96,6 @@
         "source": "Globalresearch.ca",
         "url": "https://www.globalresearch.ca/mearsheimer-left-critique/5941445",
         "published": "2026-09-22T15:56:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "SCO, BRICS, Trump-Xi: What Does the Spate of Summits Mean for India?",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/09/sco-brics-trump-xi-what-does-the-spate-of-summits-mean-for-india/",
-        "published": "2026-09-22T13:55:00Z",
         "sentiment": "watch"
       }
     ],
