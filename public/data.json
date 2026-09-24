@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-24T20:24:00.130Z",
+    "generated_at": "2026-09-24T23:21:41.850Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Traders Push for Discounts for Venezuelan Oil as Shipping Costs Soar",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/traders-push-for-discounts-for-venezuelan-oil-as-shipping-costs-soar/",
+        "published": "2026-09-23T20:25:54Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Users noticed a shocking benefit of a $9 lotion: ‘Takes the pain away within two minutes’",
         "source": "New York Post",
@@ -53,16 +60,16 @@
         "url": "https://www.rigzone.com/news/wire/oil_rises_as_diesel_export_talk_swirls-23-sep-2026-184689-article/",
         "published": "2026-09-23T19:58:50Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Won't surrender, Iran's Pezeshkian tells UNGA; indirect talks bring hope",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/wont-surrender-irans-pezeshkian-tells-unga-indirect-talks-bring-hope/articleshow/134445185.cms",
-        "published": "2026-09-23T19:12:55Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "Don’t Be Fooled by China’s Recent Months of Low Military Activity",
+        "source": "Daily Signal",
+        "url": "https://www.dailysignal.com/2026/09/23/dont-be-fooled-by-chinas-recent-months-of-low-military-activity-china/",
+        "published": "2026-09-23T21:20:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Iran War Might Be Somaliland’s Chance for Recognition",
         "source": "Foreign Policy",
@@ -90,13 +97,6 @@
         "url": "https://thediplomat.com/2026/09/the-trump-xi-summit-stakes-for-australia/",
         "published": "2026-09-23T13:47:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "The China-Russia Factor in the Iran War",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/09/the-china-russia-factor-in-the-iran-war/",
-        "published": "2026-09-23T13:14:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
