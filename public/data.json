@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-24T11:51:50.235Z",
+    "generated_at": "2026-09-24T16:59:29.750Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,75 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "USA-Iran Conflict Changes Definition of Available Barrel",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/usairan_conflict_changes_definition_of_available_barrel-23-sep-2026-184682-article/",
-        "published": "2026-09-23T11:28:33Z",
+        "title": "Commercial Meal Review: Foundation Outdoors",
+        "source": "Trailcooking.com",
+        "url": "https://trailcooking.com/2026/09/23/commercial-meal-review-foundation-outdoors/",
+        "published": "2026-09-23T16:54:10Z",
         "sentiment": "watch"
       },
       {
-        "title": "K.M. in New York (Who He Will Meet, What He Will Do), Alexis’ Thinking on Windfall Taxes (What Did You Just Say?), Tzitzikostas’ Bougatsa Summit",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/09/23/k-m-in-new-york-who-he-will-meet-what-he-will-do-alexis-thinking-on-windfall-taxes-what-did-you-just-say-tzitzikostas-bougatsa-summit/",
-        "published": "2026-09-23T11:09:37Z",
+        "title": "Iran “Offered” to Reopen the Strait of Hormuz. These Stocks Could Be the Biggest Winners",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/23/iran-offered-to-reopen-the-strait-of-hormuz-these-stocks-could-be-the-biggest-winners/",
+        "published": "2026-09-23T16:07:57Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Iran's president tells Trump it will never 'bend the knee'",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo",
+        "published": "2026-09-23T15:58:13Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil executives declared a fuel crisis, and diesel agrees",
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/economy/fuel-crisis-diesel-prices",
-        "published": "2026-09-23T11:03:00Z",
+        "title": "Trump Takes Aim at IMO Shipping Carbon Plan at UN",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/trump-takes-aim-at-imo-shipping-carbon-plan-at-un/",
+        "published": "2026-09-23T15:29:26Z",
         "sentiment": "watch"
       },
       {
-        "title": "Sensex today | Stock Market Highlights: Nifty closes at 23,446, gains 118 points, Sensex ends at 74,828 on stronger domestic growth momentum",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-september-2026/article71495500.ece",
-        "published": "2026-09-23T10:49:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/09/23/nx-s1-5977753/mike-waltz-iran-venezuela-trump-united-nations",
-        "published": "2026-09-23T10:48:47Z",
+        "title": "A Diesel Export Ban Won’t Solve Our Fuel Crisis",
+        "source": "Daily Signal",
+        "url": "https://www.dailysignal.com/2026/09/23/a-diesel-export-ban-wont-solve-our-fuel-crisis-diesel/",
+        "published": "2026-09-23T15:25:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "Trump-Xi meeting comes amid tensions on Iran, Taiwan and trade: What to know",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Politics/trump-xi-meeting-amid-tensions-iran-taiwan-trade/story?id=136650648",
-        "published": "2026-09-23T09:04:52Z",
+        "title": "Trump-Xi summit should make sure American strength delivers American results",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/opinion/trump-xi-summit-should-make-sure-american-strength-delivers-american-results",
+        "published": "2026-09-23T16:19:19Z",
         "sentiment": "watch"
       },
       {
-        "title": "Takaichi, Trump Confirm Alliance Unity",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/150834.php",
-        "published": "2026-09-23T00:38:25Z",
+        "title": "On Taiwan, US ‘Strategic Ambiguity’ Is Not Dead Yet",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/on-taiwan-us-strategic-ambiguity-is-not-dead-yet/",
+        "published": "2026-09-23T14:08:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Premier Li on advanced manufacturing; Xi’s US visit; AI; “Enemy state” clauses",
-        "source": "Sinocism.com",
-        "url": "https://sinocism.com/p/premier-li-on-advanced-manufacturing",
-        "published": "2026-09-22T22:05:31Z",
+        "title": "The Trump-Xi Summit: Stakes for Australia",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/the-trump-xi-summit-stakes-for-australia/",
+        "published": "2026-09-23T13:47:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "China watchers split on what a Trump-Xi summit will deliver",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-09-23/donald-trump-xi-jinping-meeting-washington-trade-ai/107179684",
-        "published": "2026-09-22T19:18:41Z",
-        "sentiment": "watch"
+        "title": "The China-Russia Factor in the Iran War",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/the-china-russia-factor-in-the-iran-war/",
+        "published": "2026-09-23T13:14:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Mearsheimer: A Left Critique",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/mearsheimer-left-critique/5941445",
-        "published": "2026-09-22T15:56:06Z",
+        "title": "Meeks: President Must Stand Up for Allies and Human Rights at Trump-Xi Summit",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/09/china-260923-housecfa-democrats01.htm",
+        "published": "2026-09-23T12:00:00Z",
         "sentiment": "watch"
       }
     ],
@@ -125,7 +125,7 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "yellow",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
