@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-24T16:59:29.750Z",
+    "generated_at": "2026-09-24T20:24:00.130Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Commercial Meal Review: Foundation Outdoors",
-        "source": "Trailcooking.com",
-        "url": "https://trailcooking.com/2026/09/23/commercial-meal-review-foundation-outdoors/",
-        "published": "2026-09-23T16:54:10Z",
+        "title": "Users noticed a shocking benefit of a $9 lotion: ‘Takes the pain away within two minutes’",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/23/shopping/users-noticed-a-shock-benefit-of-a-9-magnesium-lotion-on-amazon/",
+        "published": "2026-09-23T20:12:37Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran “Offered” to Reopen the Strait of Hormuz. These Stocks Could Be the Biggest Winners",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/23/iran-offered-to-reopen-the-strait-of-hormuz-these-stocks-could-be-the-biggest-winners/",
-        "published": "2026-09-23T16:07:57Z",
+        "title": "Trump's diesel idea could unleash a problem Americans never saw coming",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/trumps-diesel-idea-could-unleash-problem-americans-never-saw-coming",
+        "published": "2026-09-23T20:11:35Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Hormuz Workarounds Keep Gulf Oil Flowing—at a Steep Cost",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Workarounds-Keep-Gulf-Oil-Flowingat-a-Steep-Cost.html",
+        "published": "2026-09-23T20:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Rises as Diesel Export Talk Swirls",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_rises_as_diesel_export_talk_swirls-23-sep-2026-184689-article/",
+        "published": "2026-09-23T19:58:50Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Won't surrender, Iran's Pezeshkian tells UNGA; indirect talks bring hope",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/wont-surrender-irans-pezeshkian-tells-unga-indirect-talks-bring-hope/articleshow/134445185.cms",
+        "published": "2026-09-23T19:12:55Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Iran's president tells Trump it will never 'bend the knee'",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo",
-        "published": "2026-09-23T15:58:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Takes Aim at IMO Shipping Carbon Plan at UN",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/trump-takes-aim-at-imo-shipping-carbon-plan-at-un/",
-        "published": "2026-09-23T15:29:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "A Diesel Export Ban Won’t Solve Our Fuel Crisis",
-        "source": "Daily Signal",
-        "url": "https://www.dailysignal.com/2026/09/23/a-diesel-export-ban-wont-solve-our-fuel-crisis-diesel/",
-        "published": "2026-09-23T15:25:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Iran War Might Be Somaliland’s Chance for Recognition",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/23/somaliland-israel-state-recognition-somalia-iran-war-irro-united-states-trump/",
+        "published": "2026-09-23T17:06:48Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Trump-Xi summit should make sure American strength delivers American results",
         "source": "Fox News",
@@ -90,13 +97,6 @@
         "url": "https://thediplomat.com/2026/09/the-china-russia-factor-in-the-iran-war/",
         "published": "2026-09-23T13:14:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Meeks: President Must Stand Up for Allies and Human Rights at Trump-Xi Summit",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/09/china-260923-housecfa-democrats01.htm",
-        "published": "2026-09-23T12:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
