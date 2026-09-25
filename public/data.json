@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-25T07:34:59.006Z",
+    "generated_at": "2026-09-25T13:00:54.784Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -18,84 +18,82 @@
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
-      "price_index": 17.93,
-      "change_pct": 18.8,
-      "date": "2026-07-01",
-      "unit": "USD/MMBtu (EU nat-gas proxy)"
+      "price_index": null,
+      "unit": "proxy"
     }
   },
   "news": {
     "hormuz": [
       {
-        "title": "Rising sulphur prices put fertiliser sector under pressure, threaten higher subsidy burden",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/agriculture/rising-sulphur-prices-put-fertiliser-sector-under-pressure-threaten-higher-subsidy-burden/articleshow/134455032.cms",
-        "published": "2026-09-24T07:28:56Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Nikkei Rises as AI and Chip Shares Lead Tokyo After Silver Week",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/150849.php",
-        "published": "2026-09-24T07:01:33Z",
+        "title": "Saudi Arabia Sells 100 Million Barrels of Crude to Asia via Hormuz",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Sells-100-Million-Barrels-of-Crude-to-Asia-via-Hormuz.html",
+        "published": "2026-09-24T13:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Gulf nations have found ways to keep oil flowing through the Iran war, but the costs are mounting",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/gulf-nations-have-found-ways-to-keep-oil-flowing-through-the-iran-war-but-the-costs-are-mounting/article71502877.ece",
-        "published": "2026-09-24T06:03:23Z",
+        "title": "Saudi Arabia’s crude shipments surge to highest level since Iran war began",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/saudi-crude-shipments-surge-iran-war/",
+        "published": "2026-09-24T12:16:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "China, Hong Kong stocks decline as Trump-Xi talks face investor scepticism",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/china-hong-kong-stocks-decline-as-trump-xi-talks-face-investor-scepticism/articleshow/134452880.cms",
-        "published": "2026-09-24T05:48:46Z",
-        "sentiment": "neutral"
+        "title": "US, Iran Discussing Phased End to War With Hormuz Reopening and Blockade Lifting - Reports",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260924-sputnik01.htm",
+        "published": "2026-09-24T12:00:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Shipowners urge Dangote to support local fleet",
-        "source": "The Punch",
-        "url": "https://punchng.com/shipowners-urge-dangote-to-support-local-fleet/",
-        "published": "2026-09-24T05:24:15Z",
+        "title": "Supertanker Rally Lures Investors as War Squeezes Vessel Supply",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/supertanker-rally-lures-investors-as-war-squeezes-vessel-supply/",
+        "published": "2026-09-24T11:57:35Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Climate Visions Clash at UN Summit, as Trump Goes in Whole Hog for Fossil Fuels",
+        "source": "Mother Jones",
+        "url": "https://www.motherjones.com/politics/2026/09/climate-change-crisis-un-united-nations-general-assembly-speech-brazil-lula-trump-fossil-fuels-carbon/",
+        "published": "2026-09-24T11:30:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "Don’t be fooled — Trump’s red-carpet rollout for Xi is a strategic coup",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/23/opinion/dont-be-fooled-trumps-red-carpet-rollout-for-xi-is-a-strategic-coup/",
-        "published": "2026-09-23T23:24:12Z",
+        "title": "Trump rolls out red carpet for Xi as high-stakes summit begins",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/09/24/g-s1-144806/trump-rolls-out-red-carpet-for-xi-as-high-stakes-summit-begins",
+        "published": "2026-09-24T12:43:15Z",
         "sentiment": "watch"
       },
       {
-        "title": "Don’t Be Fooled by China’s Recent Months of Low Military Activity",
-        "source": "Daily Signal",
-        "url": "https://www.dailysignal.com/2026/09/23/dont-be-fooled-by-chinas-recent-months-of-low-military-activity-china/",
-        "published": "2026-09-23T21:20:00Z",
+        "title": "Senate Democrats' Statement on President Trump and President Xi's Summit in Washington",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/09/china-260924-sfrc01.htm",
+        "published": "2026-09-24T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Iran War Might Be Somaliland’s Chance for Recognition",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/23/somaliland-israel-state-recognition-somalia-iran-war-irro-united-states-trump/",
-        "published": "2026-09-23T17:06:48Z",
+        "title": "Chinese mainland welcomes more discussion from Taiwan on reunification",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260924-pdo01.htm",
+        "published": "2026-09-24T12:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China warns US on Taiwan arms sales ahead of Trump-Xi summit",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/china-warns-us-on-taiwan-arms-sales-ahead-of-trump-xi-summit/",
+        "published": "2026-09-24T11:47:16Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump-Xi summit should make sure American strength delivers American results",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/trump-xi-summit-should-make-sure-american-strength-delivers-american-results",
-        "published": "2026-09-23T16:19:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "On Taiwan, US ‘Strategic Ambiguity’ Is Not Dead Yet",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/09/on-taiwan-us-strategic-ambiguity-is-not-dead-yet/",
-        "published": "2026-09-23T14:08:00Z",
+        "title": "The Deferential President",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/politics/2026/09/trump-xi-china-summit/688762/?utm_source=feed",
+        "published": "2026-09-24T09:00:00Z",
         "sentiment": "watch"
       }
     ],
