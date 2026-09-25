@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-25T13:00:54.784Z",
+    "generated_at": "2026-09-25T17:58:16.090Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -18,49 +18,65 @@
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
-      "price_index": null,
-      "unit": "proxy"
+      "price_index": 17.93,
+      "change_pct": 18.8,
+      "date": "2026-07-01",
+      "unit": "USD/MMBtu (EU nat-gas proxy)"
     }
   },
   "news": {
     "hormuz": [
       {
-        "title": "Saudi Arabia Sells 100 Million Barrels of Crude to Asia via Hormuz",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Sells-100-Million-Barrels-of-Crude-to-Asia-via-Hormuz.html",
-        "published": "2026-09-24T13:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Arabia’s crude shipments surge to highest level since Iran war began",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/saudi-crude-shipments-surge-iran-war/",
-        "published": "2026-09-24T12:16:00Z",
-        "sentiment": "danger"
-      },
-      {
         "title": "US, Iran Discussing Phased End to War With Hormuz Reopening and Blockade Lifting - Reports",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260924-sputnik01.htm",
-        "published": "2026-09-24T12:00:00Z",
+        "source": "Sputnikglobe.com",
+        "url": "https://sputnikglobe.com/20260924/us-iran-discussing-phased-end-to-war-with-hormuz-reopening-and-blockade-lifting---reports-1124783596.html",
+        "published": "2026-09-24T17:38:07Z",
         "sentiment": "danger"
       },
       {
-        "title": "Supertanker Rally Lures Investors as War Squeezes Vessel Supply",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/supertanker-rally-lures-investors-as-war-squeezes-vessel-supply/",
-        "published": "2026-09-24T11:57:35Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Climate Visions Clash at UN Summit, as Trump Goes in Whole Hog for Fossil Fuels",
-        "source": "Mother Jones",
-        "url": "https://www.motherjones.com/politics/2026/09/climate-change-crisis-un-united-nations-general-assembly-speech-brazil-lula-trump-fossil-fuels-carbon/",
-        "published": "2026-09-24T11:30:00Z",
+        "title": "Saudi Arabia Bribed the Wrong People",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/24/iran-trump-saudi-war-mbs-bad-bet/",
+        "published": "2026-09-24T17:36:41Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Vitol Scoops Up 25 Million Barrels of Discounted Iraqi Crude",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Vitol-Scoops-Up-25-Million-Barrels-of-Discounted-Iraqi-Crude.html",
+        "published": "2026-09-24T17:30:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Saudi Arabia intercepts Houthi missiles targeting Yanbu and Taif",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/saudi-intercepts-houthi-missiles-yanbu-taif/",
+        "published": "2026-09-24T16:21:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US and Iran discuss phased deal to reopen Hormuz and end US blockade",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-and-iran-discuss-phased-deal-to-reopen-hormuz-and-end-us-blockade/",
+        "published": "2026-09-24T16:20:17Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "China’s Human Rights Crisis Hasn’t Disappeared",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/24/trump-xi-dissidents-uyghurs-christians/",
+        "published": "2026-09-24T16:41:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump hails ‘great friendship’ with Xi as Chinese leader visits White House",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-09-25/trump-welcomes-xi-to-white-house/107193702",
+        "published": "2026-09-24T16:08:47Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump rolls out red carpet for Xi as high-stakes summit begins",
         "source": "NPR",
@@ -80,20 +96,6 @@
         "source": "Globalsecurity.org",
         "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260924-pdo01.htm",
         "published": "2026-09-24T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China warns US on Taiwan arms sales ahead of Trump-Xi summit",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/china-warns-us-on-taiwan-arms-sales-ahead-of-trump-xi-summit/",
-        "published": "2026-09-24T11:47:16Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The Deferential President",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/politics/2026/09/trump-xi-china-summit/688762/?utm_source=feed",
-        "published": "2026-09-24T09:00:00Z",
         "sentiment": "watch"
       }
     ],
@@ -123,7 +125,7 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "amber",
+    "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
