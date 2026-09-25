@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-25T17:58:16.090Z",
+    "generated_at": "2026-09-25T21:28:14.320Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "US, Iran Discussing Phased End to War With Hormuz Reopening and Blockade Lifting - Reports",
-        "source": "Sputnikglobe.com",
-        "url": "https://sputnikglobe.com/20260924/us-iran-discussing-phased-end-to-war-with-hormuz-reopening-and-blockade-lifting---reports-1124783596.html",
-        "published": "2026-09-24T17:38:07Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Saudi Arabia Bribed the Wrong People",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/24/iran-trump-saudi-war-mbs-bad-bet/",
-        "published": "2026-09-24T17:36:41Z",
+        "title": "Pompeian 68-oz. Smooth Extra Virgin Olive Oil for $15 via Sub & Save + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Pompeian-68-oz-Smooth-Extra-Virgin-Olive-Oil-for-15-via-Sub-Save-free-shipping-w-Prime/22212787.html",
+        "published": "2026-09-24T21:12:57Z",
         "sentiment": "watch"
       },
       {
-        "title": "Vitol Scoops Up 25 Million Barrels of Discounted Iraqi Crude",
+        "title": "Saudi foreign minister warns Houthi threat goes global as Trump holds fire",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/saudi-foreign-minister-warns-houthi-threat-goes-global-trump-holds-fire",
+        "published": "2026-09-24T20:51:53Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "[SnS] $15.19 | 68-Oz Pompeian Smooth Extra Virgin Olive Oil at Amazon",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20058771-sns-15-19-68-oz-pompeian-smooth-extra-virgin-olive-oil-at-amazon",
+        "published": "2026-09-24T20:01:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Global Biofuels Output Could Surge 70% Amid Energy Crisis",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Vitol-Scoops-Up-25-Million-Barrels-of-Discounted-Iraqi-Crude.html",
-        "published": "2026-09-24T17:30:00Z",
+        "url": "https://oilprice.com/Alternative-Energy/Biofuels/Global-Biofuels-Output-Could-Surge-70-Amid-Energy-Crisis.html",
+        "published": "2026-09-24T20:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudi Arabia intercepts Houthi missiles targeting Yanbu and Taif",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/saudi-intercepts-houthi-missiles-yanbu-taif/",
-        "published": "2026-09-24T16:21:29Z",
+        "title": "US Opens a New Front Against Iran’s Crypto Economy",
+        "source": "Activistpost.com",
+        "url": "https://activistpost.com/us-opens-a-new-front-against-irans-crypto-economy/",
+        "published": "2026-09-24T19:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "US and Iran discuss phased deal to reopen Hormuz and end US blockade",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-and-iran-discuss-phased-deal-to-reopen-hormuz-and-end-us-blockade/",
-        "published": "2026-09-24T16:20:17Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
