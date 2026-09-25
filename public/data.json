@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-24T23:21:41.850Z",
+    "generated_at": "2026-09-25T01:48:42.024Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Traders Push for Discounts for Venezuelan Oil as Shipping Costs Soar",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/traders-push-for-discounts-for-venezuelan-oil-as-shipping-costs-soar/",
-        "published": "2026-09-23T20:25:54Z",
+        "title": "Global Energy Disruptions Expose Critical Vulnerabilities in Australia's National Fuel Security Framework",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/australia-imported-fuel-supply-chain-vulnerability-1875816",
+        "published": "2026-09-24T01:18:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "Users noticed a shocking benefit of a $9 lotion: ‘Takes the pain away within two minutes’",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/23/shopping/users-noticed-a-shock-benefit-of-a-9-magnesium-lotion-on-amazon/",
-        "published": "2026-09-23T20:12:37Z",
+        "title": "How 'Chinese vultures' have slowly but surely stripped Britain's assets... from nuclear power, property and black cabs, to football clubs and now schools. So why ARE our politicians meekly watching on as shadowy Communist controlled firms pillage Britain?",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16155591/Chinese-vultures-stripped-Britains-assets-nuclear-football-schools.html",
+        "published": "2026-09-24T00:00:59Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump's diesel idea could unleash a problem Americans never saw coming",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/trumps-diesel-idea-could-unleash-problem-americans-never-saw-coming",
-        "published": "2026-09-23T20:11:35Z",
+        "title": "Iranian War Update: Trumpety’s Running On Empty",
+        "source": "Antiwar.com",
+        "url": "https://original.antiwar.com/david_stockman/2026/09/23/iranian-war-update-trumpetys-running-on-empty/",
+        "published": "2026-09-24T00:00:33Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The Urgency of Recognizing the Ansar Allah Government in Yemen",
+        "source": "Antiwar.com",
+        "url": "https://original.antiwar.com/mbenjamin/2026/09/23/the-urgency-of-recognizing-the-ansar-allah-government-in-yemen/",
+        "published": "2026-09-24T00:00:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "Hormuz Workarounds Keep Gulf Oil Flowing—at a Steep Cost",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Workarounds-Keep-Gulf-Oil-Flowingat-a-Steep-Cost.html",
-        "published": "2026-09-23T20:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Rises as Diesel Export Talk Swirls",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_rises_as_diesel_export_talk_swirls-23-sep-2026-184689-article/",
-        "published": "2026-09-23T19:58:50Z",
+        "title": "1982 Yamaha XT550 at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1982-yamaha-xt550-3/",
+        "published": "2026-09-23T23:25:23Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Don’t be fooled — Trump’s red-carpet rollout for Xi is a strategic coup",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/23/opinion/dont-be-fooled-trumps-red-carpet-rollout-for-xi-is-a-strategic-coup/",
+        "published": "2026-09-23T23:24:12Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Don’t Be Fooled by China’s Recent Months of Low Military Activity",
         "source": "Daily Signal",
@@ -89,13 +96,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/09/on-taiwan-us-strategic-ambiguity-is-not-dead-yet/",
         "published": "2026-09-23T14:08:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Trump-Xi Summit: Stakes for Australia",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/09/the-trump-xi-summit-stakes-for-australia/",
-        "published": "2026-09-23T13:47:00Z",
         "sentiment": "watch"
       }
     ],
