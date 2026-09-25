@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-25T01:48:42.024Z",
+    "generated_at": "2026-09-25T07:34:59.006Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Global Energy Disruptions Expose Critical Vulnerabilities in Australia's National Fuel Security Framework",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/australia-imported-fuel-supply-chain-vulnerability-1875816",
-        "published": "2026-09-24T01:18:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How 'Chinese vultures' have slowly but surely stripped Britain's assets... from nuclear power, property and black cabs, to football clubs and now schools. So why ARE our politicians meekly watching on as shadowy Communist controlled firms pillage Britain?",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16155591/Chinese-vultures-stripped-Britains-assets-nuclear-football-schools.html",
-        "published": "2026-09-24T00:00:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iranian War Update: Trumpety’s Running On Empty",
-        "source": "Antiwar.com",
-        "url": "https://original.antiwar.com/david_stockman/2026/09/23/iranian-war-update-trumpetys-running-on-empty/",
-        "published": "2026-09-24T00:00:33Z",
+        "title": "Rising sulphur prices put fertiliser sector under pressure, threaten higher subsidy burden",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/economy/agriculture/rising-sulphur-prices-put-fertiliser-sector-under-pressure-threaten-higher-subsidy-burden/articleshow/134455032.cms",
+        "published": "2026-09-24T07:28:56Z",
         "sentiment": "danger"
       },
       {
-        "title": "The Urgency of Recognizing the Ansar Allah Government in Yemen",
-        "source": "Antiwar.com",
-        "url": "https://original.antiwar.com/mbenjamin/2026/09/23/the-urgency-of-recognizing-the-ansar-allah-government-in-yemen/",
-        "published": "2026-09-24T00:00:17Z",
+        "title": "Nikkei Rises as AI and Chip Shares Lead Tokyo After Silver Week",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150849.php",
+        "published": "2026-09-24T07:01:33Z",
         "sentiment": "watch"
       },
       {
-        "title": "1982 Yamaha XT550 at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1982-yamaha-xt550-3/",
-        "published": "2026-09-23T23:25:23Z",
+        "title": "Gulf nations have found ways to keep oil flowing through the Iran war, but the costs are mounting",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/gulf-nations-have-found-ways-to-keep-oil-flowing-through-the-iran-war-but-the-costs-are-mounting/article71502877.ece",
+        "published": "2026-09-24T06:03:23Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "China, Hong Kong stocks decline as Trump-Xi talks face investor scepticism",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/china-hong-kong-stocks-decline-as-trump-xi-talks-face-investor-scepticism/articleshow/134452880.cms",
+        "published": "2026-09-24T05:48:46Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Shipowners urge Dangote to support local fleet",
+        "source": "The Punch",
+        "url": "https://punchng.com/shipowners-urge-dangote-to-support-local-fleet/",
+        "published": "2026-09-24T05:24:15Z",
         "sentiment": "watch"
       }
     ],
