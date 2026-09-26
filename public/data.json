@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-26T00:06:46.133Z",
+    "generated_at": "2026-09-26T05:04:11.631Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "JPMorgan sees ongoing US-Israeli conflict with Iran impacting oil markets",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/jpmorgan-sees-ongoing-us-israeli-conflict-with-iran-impacting-oil-markets/",
-        "published": "2026-09-25T00:03:00Z",
+        "title": "Saudi Oil Export Strategy Hits New Hurdle as Red Sea Insurance Costs Soar",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/09/25/886769.htm",
+        "published": "2026-09-25T05:02:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "Macron to send French troops to Saudi Arabia",
-        "source": "RT",
-        "url": "https://www.rt.com/news/646220-france-troops-saudi-arabia/",
-        "published": "2026-09-24T23:12:50Z",
+        "title": "How 3 Colonial Empires Won and Lost Hormuz and Bab el-Mandeb",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/09/colonial-empires-hormuz.html",
+        "published": "2026-09-25T04:06:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "Soaring Freight Costs Make Japan’s Crude Imports the World’s Most Expensive",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Soaring-Freight-Costs-Make-Japans-Crude-Imports-the-Worlds-Most-Expensive.html",
-        "published": "2026-09-24T23:00:00Z",
+        "title": "Winning and more wins",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/blog/2026/09/winning-and-more-wins/",
+        "published": "2026-09-25T04:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "If Trump bans U.S. diesel exports, global prices will go even higher, experts say",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/business/us-diesel-export-ban-9.7357460",
-        "published": "2026-09-24T22:55:53Z",
-        "sentiment": "watch"
+        "title": "Oil prices fall as markets weigh Iran truce, oil facility attack risks",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-markets-weigh-iran-truce-oil-facility-attack-risks-126092500081_1.html",
+        "published": "2026-09-25T03:39:57Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Pompeian 68-oz. Smooth Extra Virgin Olive Oil for $15 via Sub & Save + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Pompeian-68-oz-Smooth-Extra-Virgin-Olive-Oil-for-15-via-Sub-Save-free-shipping-w-Prime/22212787.html",
-        "published": "2026-09-24T21:12:57Z",
+        "title": "Stocks to watch: PB Fintech, MCX, NSE, Inox Green, Waaree Energies, Dr Lal",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/stocks-to-watch-pb-fintech-mcx-nse-inox-green-waaree-energies-dr-lal-126092500100_1.html",
+        "published": "2026-09-25T02:36:31Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump lays out the pomp for Xi but says little about the significant tensions in US-China relations",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-lays-out-the-pomp-for-xi-but-says-little-about-the-significant-tensions-in-us-china-relations/articleshow/134473725.cms",
+        "published": "2026-09-25T02:57:17Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
         "source": "Al Jazeera English",
@@ -89,13 +96,6 @@
         "source": "NPR",
         "url": "https://www.npr.org/2026/09/24/g-s1-144806/trump-rolls-out-red-carpet-for-xi-as-high-stakes-summit-begins",
         "published": "2026-09-24T12:43:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Senate Democrats' Statement on President Trump and President Xi's Summit in Washington",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/09/china-260924-sfrc01.htm",
-        "published": "2026-09-24T12:00:00Z",
         "sentiment": "watch"
       }
     ],
