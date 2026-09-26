@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-25T21:28:14.320Z",
+    "generated_at": "2026-09-26T00:06:46.133Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
+        "title": "JPMorgan sees ongoing US-Israeli conflict with Iran impacting oil markets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/jpmorgan-sees-ongoing-us-israeli-conflict-with-iran-impacting-oil-markets/",
+        "published": "2026-09-25T00:03:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Macron to send French troops to Saudi Arabia",
+        "source": "RT",
+        "url": "https://www.rt.com/news/646220-france-troops-saudi-arabia/",
+        "published": "2026-09-24T23:12:50Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Soaring Freight Costs Make Japan’s Crude Imports the World’s Most Expensive",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Soaring-Freight-Costs-Make-Japans-Crude-Imports-the-Worlds-Most-Expensive.html",
+        "published": "2026-09-24T23:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "If Trump bans U.S. diesel exports, global prices will go even higher, experts say",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/business/us-diesel-export-ban-9.7357460",
+        "published": "2026-09-24T22:55:53Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Pompeian 68-oz. Smooth Extra Virgin Olive Oil for $15 via Sub & Save + free shipping w/ Prime",
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/Pompeian-68-oz-Smooth-Extra-Virgin-Olive-Oil-for-15-via-Sub-Save-free-shipping-w-Prime/22212787.html",
         "published": "2026-09-24T21:12:57Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Saudi foreign minister warns Houthi threat goes global as Trump holds fire",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/saudi-foreign-minister-warns-houthi-threat-goes-global-trump-holds-fire",
-        "published": "2026-09-24T20:51:53Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "[SnS] $15.19 | 68-Oz Pompeian Smooth Extra Virgin Olive Oil at Amazon",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20058771-sns-15-19-68-oz-pompeian-smooth-extra-virgin-olive-oil-at-amazon",
-        "published": "2026-09-24T20:01:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Global Biofuels Output Could Surge 70% Amid Energy Crisis",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Alternative-Energy/Biofuels/Global-Biofuels-Output-Could-Surge-70-Amid-Energy-Crisis.html",
-        "published": "2026-09-24T20:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Opens a New Front Against Iran’s Crypto Economy",
-        "source": "Activistpost.com",
-        "url": "https://activistpost.com/us-opens-a-new-front-against-irans-crypto-economy/",
-        "published": "2026-09-24T19:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting",
+        "published": "2026-09-24T23:51:56Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China’s Human Rights Crisis Hasn’t Disappeared",
         "source": "Foreign Policy",
@@ -88,13 +95,6 @@
         "title": "Senate Democrats' Statement on President Trump and President Xi's Summit in Washington",
         "source": "Globalsecurity.org",
         "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/09/china-260924-sfrc01.htm",
-        "published": "2026-09-24T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Chinese mainland welcomes more discussion from Taiwan on reunification",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260924-pdo01.htm",
         "published": "2026-09-24T12:00:00Z",
         "sentiment": "watch"
       }
