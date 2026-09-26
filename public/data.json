@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-26T17:56:10.598Z",
+    "generated_at": "2026-09-26T21:00:40.948Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/25/saudi-arabia-oil-iran-war-pipeline-strait-hormuz-red-sea-houthis.html",
-        "published": "2026-09-25T17:43:21Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran offers deal to reopen Strait of Hormuz in seven days if US meets conditions",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/iran-reopen-strait-of-hormuz-7173992-Sep2026/",
-        "published": "2026-09-25T17:39:25Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Iran peace deal speculation boosts shares",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/2026/09/25/iran-peace-deal-speculation-boosts-shares/",
-        "published": "2026-09-25T17:25:39Z",
+        "title": "Oil Falls on Signs of Iran Progress",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_falls_on_signs_of_iran_progress-25-sep-2026-184710-article/",
+        "published": "2026-09-25T20:03:16Z",
         "sentiment": "watch"
       },
       {
-        "title": "Infra projects see cost overrun of ₹2.88 trillion in August: Mospi",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/industry/news/infra-projects-see-cost-overrun-of-2-88-trillion-in-august-mospi-126092501055_1.html",
-        "published": "2026-09-25T17:04:37Z",
+        "title": "At UNGA, India launches maritime safety group to protect ships and seafarers",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/india/at-unga-india-launches-maritime-safety-group-to-protect-ships-and-seafarers/articleshow/134492061.cms",
+        "published": "2026-09-25T19:53:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Seized Iranian Oil Tankers Head Toward U.S. With $600 Million Cargo",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/seized-iranian-oil-tankers-head-toward-u-s-with-600-million-cargo/",
-        "published": "2026-09-25T16:45:36Z",
+        "title": "Iran offers to reopen Strait of Hormuz in 7 days if US lifts blockade, waives sanctions",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/iran-offers-to-reopen-strait-of-hormuz-in-7-days-if-us-lifts-blockade-waives-sanctions/article71510297.ece",
+        "published": "2026-09-25T18:42:18Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Tesla Semi enters volume production after years of delays",
+        "source": "TechSpot",
+        "url": "https://www.techspot.com/news/113991-tesla-semi-enters-volume-production-after-years-delays.html",
+        "published": "2026-09-25T18:22:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "What happened when Xi Jinping met Donald Trump?",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-09-26/what-happened-when-xi-jinping-and-donald-trump-met/107185512",
+        "published": "2026-09-25T19:43:12Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump-Xi Summit: Heavy of Vibes, Light on Substance",
         "source": "The Diplomat",
@@ -89,13 +89,6 @@
         "source": "Dailymail.com",
         "url": "https://www.dailymail.com/news/article-16159585/Xi-Jinping-Trump-Joe-Biden-autopen-China-US.html",
         "published": "2026-09-25T08:04:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan denounces Xi's comments to Trump in Washington",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/world/2026/0925/1592914-taiwan-xi-comments/",
-        "published": "2026-09-25T07:28:09Z",
         "sentiment": "watch"
       }
     ],
