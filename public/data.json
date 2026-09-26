@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-26T09:55:02.161Z",
+    "generated_at": "2026-09-26T14:18:28.207Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran pitches seven-day roadmap to end conflict with US",
+        "title": "Mumbai Port handles 3 heavy over dimensional cargo packages",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/mumbai-port-handles-3-heavy-over-dimensional-cargo-packages/articleshow/134487551.cms",
+        "published": "2026-09-25T14:12:05Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Trump-Xi summit exposes a US disadvantage in the Global South",
         "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us",
-        "published": "2026-09-25T09:54:40Z",
+        "url": "https://www.aljazeera.com/opinions/2026/9/25/the-trump-xi-summit-exposes-a-us-disadvantage-in-the-global-south",
+        "published": "2026-09-25T14:00:26Z",
         "sentiment": "watch"
       },
       {
-        "title": "Nearly a Decade Later, the Electric Tesla Semi Is Here",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/tesla-semi/",
-        "published": "2026-09-25T09:15:00Z",
+        "title": "Beijing's Iran Oil Trade Draws Fresh Criticism From Capitol Hill",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Geopolitics/International/Beijings-Iran-Oil-Trade-Draws-Fresh-Criticism-From-Capitol-Hill.html",
+        "published": "2026-09-25T14:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Nikkei Climbs 850 Points as Chip Shares and Dividend Buying Lift Tokyo",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/150860.php",
-        "published": "2026-09-25T09:03:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Arabia allies line up support as Houthi attacks mount",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount",
-        "published": "2026-09-25T08:32:48Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Commodity cost uncertainty bigger worry than increase itself: TMPV MD",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/industry/auto/tata-motors-passenger-vehicles-commodity-costs-ev-demand-aeris-launch-126092500580_1.html",
-        "published": "2026-09-25T08:29:57Z",
+        "title": "Mitsotakis to Bloomberg: “Difficult winter ahead” as Europe urged to provide fiscal flexibility to support households",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/09/25/mitsotakis-to-bloomberg-difficult-winter-ahead-as-europe-urged-to-provide-fiscal-flexibility-to-support-households/",
+        "published": "2026-09-25T13:35:27Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump-Xi Summit: Heavy of Vibes, Light on Substance",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/trump-xi-summit-heavy-of-vibes-light-on-substance/",
+        "published": "2026-09-25T13:22:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Links 9/25/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/09/links-9-25-2026.html",
+        "published": "2026-09-25T10:55:37Z",
+        "sentiment": "watch"
+      },
       {
         "title": "From ‘cheats’ to ‘great friendship’: How Trump’s rhetoric on China changed",
         "source": "Al Jazeera English",
@@ -82,20 +89,6 @@
         "source": "RTE",
         "url": "https://www.rte.ie/news/world/2026/0925/1592914-taiwan-xi-comments/",
         "published": "2026-09-25T07:28:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Inside Trump's glitzy state dinner with China's Xi attended by tech titans and DC's elite as details emerge about talks between two world leaders",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16159331/Inside-Donald-Trump-state-dinner-Xi-China.html",
-        "published": "2026-09-25T05:42:25Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Trump lays out the pomp for Xi but says little about the significant tensions in US-China relations",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-lays-out-the-pomp-for-xi-but-says-little-about-the-significant-tensions-in-us-china-relations/articleshow/134473725.cms",
-        "published": "2026-09-25T02:57:17Z",
         "sentiment": "watch"
       }
     ],
