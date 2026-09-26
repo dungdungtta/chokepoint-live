@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-26T14:18:28.207Z",
+    "generated_at": "2026-09-26T17:56:10.598Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Mumbai Port handles 3 heavy over dimensional cargo packages",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/mumbai-port-handles-3-heavy-over-dimensional-cargo-packages/articleshow/134487551.cms",
-        "published": "2026-09-25T14:12:05Z",
+        "title": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/25/saudi-arabia-oil-iran-war-pipeline-strait-hormuz-red-sea-houthis.html",
+        "published": "2026-09-25T17:43:21Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran offers deal to reopen Strait of Hormuz in seven days if US meets conditions",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/iran-reopen-strait-of-hormuz-7173992-Sep2026/",
+        "published": "2026-09-25T17:39:25Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Iran peace deal speculation boosts shares",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/2026/09/25/iran-peace-deal-speculation-boosts-shares/",
+        "published": "2026-09-25T17:25:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Trump-Xi summit exposes a US disadvantage in the Global South",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/opinions/2026/9/25/the-trump-xi-summit-exposes-a-us-disadvantage-in-the-global-south",
-        "published": "2026-09-25T14:00:26Z",
+        "title": "Infra projects see cost overrun of ₹2.88 trillion in August: Mospi",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/industry/news/infra-projects-see-cost-overrun-of-2-88-trillion-in-august-mospi-126092501055_1.html",
+        "published": "2026-09-25T17:04:37Z",
         "sentiment": "watch"
       },
       {
-        "title": "Beijing's Iran Oil Trade Draws Fresh Criticism From Capitol Hill",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Geopolitics/International/Beijings-Iran-Oil-Trade-Draws-Fresh-Criticism-From-Capitol-Hill.html",
-        "published": "2026-09-25T14:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Mitsotakis to Bloomberg: “Difficult winter ahead” as Europe urged to provide fiscal flexibility to support households",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/09/25/mitsotakis-to-bloomberg-difficult-winter-ahead-as-europe-urged-to-provide-fiscal-flexibility-to-support-households/",
-        "published": "2026-09-25T13:35:27Z",
-        "sentiment": "watch"
+        "title": "Seized Iranian Oil Tankers Head Toward U.S. With $600 Million Cargo",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/seized-iranian-oil-tankers-head-toward-u-s-with-600-million-cargo/",
+        "published": "2026-09-25T16:45:36Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
