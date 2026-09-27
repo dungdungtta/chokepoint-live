@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-27T07:58:07.411Z",
+    "generated_at": "2026-09-27T13:51:17.571Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "EAM Jaishankar meets Iranian, Russian foreign ministers on UNGA margins",
+        "title": "U.S. Stock Market personal finance tips: Wall Street investors may think over these key 5 points during weekend before Monday trading",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-personal-finance-tips-wall-street-investors-may-think-over-these-key-5-points-during-weekend-before-monday-trading/articleshow/134505204.cms",
+        "published": "2026-09-26T13:16:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Bessent Suggests Economic Warfare Against Iran Could ‘Blow Up the Global Financial System’",
+        "source": "Activistpost.com",
+        "url": "https://activistpost.com/bessent-suggests-economic-warfare-against-iran-could-blow-up-the-global-financial-system/",
+        "published": "2026-09-26T13:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Why has the Yemen government called for a general mobilisation?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/9/26/why-has-the-yemen-government-called-for-a-general-mobilisation",
+        "published": "2026-09-26T12:46:18Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Where things stand after Iran's new pitch for deal to open Strait of Hormuz",
         "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/eam-jaishankar-meets-iranian-russian-foreign-ministers-on-unga-margins/article71511860.ece",
-        "published": "2026-09-26T07:10:00Z",
+        "url": "https://www.thehindubusinessline.com/news/world/where-things-stand-after-irans-new-pitch-for-deal-to-open-strait-of-hormuz/article71512430.ece",
+        "published": "2026-09-26T12:26:29Z",
         "sentiment": "watch"
       },
       {
-        "title": "Ukraine’s Zelensky says he urged Trump to enlist China’s help in ending Russia’s invasion",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/26/world-news/ukraines-zelensky-says-he-urged-trump-to-enlist-chinas-help-in-ending-russias-invasion/",
-        "published": "2026-09-26T07:03:34Z",
+        "title": "Saudis Call On Global Community To Help Ensure Free Sea Traffic In Region",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/saudi/2026/saudi-260926-rferl01.htm",
+        "published": "2026-09-26T12:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran awaits US reply to seven-day Hormuz plan",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/iran-awaits-us-reply-to-seven-day-hormuz-plan-227377",
-        "published": "2026-09-26T06:55:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "“We’re ready to go” but IMEC is being held up in the Middle East: Senior US State Department official",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/were-ready-to-go-but-imec-is-being-held-up-in-the-middle-east-senior-us-state-department-official/article71511584.ece",
-        "published": "2026-09-26T06:23:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump ‘rejects’ Iran proposal to reopen Strait of Hormuz within seven days",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/us/2026/09/26/iran-us-war-latest-news/",
-        "published": "2026-09-26T06:21:59Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "Marshall Islands, Tuvalu voice support for Taiwan at U.N. assembly",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260926-cna03.htm",
+        "published": "2026-09-26T12:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Xi Summit ends, long on pomp, short on progress...",
         "source": "Yahoo Entertainment",
@@ -89,13 +96,6 @@
         "source": "ABC News (AU)",
         "url": "https://www.abc.net.au/news/2026-09-26/what-happened-when-xi-jinping-and-donald-trump-met/107185512",
         "published": "2026-09-25T19:43:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump-Xi Summit: Heavy of Vibes, Light on Substance",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/09/trump-xi-summit-heavy-of-vibes-light-on-substance/",
-        "published": "2026-09-25T13:22:00Z",
         "sentiment": "watch"
       }
     ],
