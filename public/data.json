@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-26T23:38:55.533Z",
+    "generated_at": "2026-09-27T01:51:38.432Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Original-Owner 1996 Ducati 916",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1996-ducati-916-7/",
-        "published": "2026-09-25T23:21:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Louis Navellier finds two stocks benefiting from tight global supply",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/e7fa4c3e41051b2e",
-        "published": "2026-09-25T22:07:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko",
-        "published": "2026-09-25T21:57:23Z",
+        "title": "Iran offers US deal to reopen Strait of Hormuz within seven days",
+        "source": "Khabarhub.com",
+        "url": "https://english.khabarhub.com/2026/26/569294/",
+        "published": "2026-09-26T01:45:08Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Wars in Europe and the Middle East. An economy in intensive care. Masked mobs inciting violence and AI threatening our very survival. And what does Andy Burnham offer us? Fluff, hype and beers!: MICHAEL GOVE",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/debate/article-16161019/wars-masked-mobs-AI-does-Burnham-offer-fluff-hype-beers.html",
-        "published": "2026-09-25T21:30:46Z",
+        "title": "Trump rejects Iran’s 7-day ceasefire proposal, expects bombing to resume after US midterms: Report",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/trump-rejects-irans-7-day-ceasefire-proposal-expects-bombing-to-resume-after-midterms-report/articleshow/134495522.cms",
+        "published": "2026-09-26T01:26:20Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Trump rejects Iranian peace proposal, WSJ reports",
+        "source": "Haaretz",
+        "url": "https://www.haaretz.com/middle-east-news/iran/2026-09-26/ty-article/.premium/trump-rejects-iranian-peace-proposal-wsj-reports/000001a0-db32-dfbb-afa4-fb72fbb70000",
+        "published": "2026-09-26T01:22:59Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Report: Trump rejects Iranian truce proposal, expects U.S. strikes to resume after midterms",
+        "source": "Haaretz",
+        "url": "https://www.haaretz.com/middle-east-news/iran/2026-09-26/ty-article/trump-rejects-iranian-peace-proposal-wsj-reports/000001a0-db32-dfbb-afa4-fb72fbb70000",
+        "published": "2026-09-26T01:22:59Z",
         "sentiment": "danger"
       },
       {
-        "title": "Yemeni leader calls for general mobilization against Houthis",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/yemeni-leader-calls-for-general-mobilization-against-houthis/a-79439604",
-        "published": "2026-09-25T21:18:00Z",
+        "title": "Transcript: Iranian President Masoud Pezeshkian on \"Face the Nation with Margaret Brennan\"",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/transcript-iranian-president-masoud-pezeshkian-face-the-nation-transcript-09-27-2026/",
+        "published": "2026-09-26T01:10:33Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Xi Summit ends, long on pomp, short on progress...",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-xi-inspect-founding-documents-165446832.html",
+        "published": "2026-09-26T01:49:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S. Amb. to China: 'Don't Know' When Taiwan Military Sale Will Happen, 'Trump Has a Schedule of His Own'",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/clips/2026/09/25/u-s-amb-to-china-dont-know-when-taiwan-military-sale-will-happen-trump-has-a-schedule-of-his-own/",
+        "published": "2026-09-25T23:52:08Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Key takeaways from Trump-Xi summit in US",
         "source": "Daily Sabah",
@@ -82,20 +96,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/09/trump-xi-summit-heavy-of-vibes-light-on-substance/",
         "published": "2026-09-25T13:22:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Links 9/25/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/09/links-9-25-2026.html",
-        "published": "2026-09-25T10:55:37Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "From ‘cheats’ to ‘great friendship’: How Trump’s rhetoric on China changed",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/25/from-cheats-to-great-friendship-how-trumps-rhetoric-on-china-changed",
-        "published": "2026-09-25T09:46:18Z",
         "sentiment": "watch"
       }
     ],
