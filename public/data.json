@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-27T18:14:25.083Z",
+    "generated_at": "2026-09-27T21:26:47.033Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump Rejects Iranian Proposal To Open Hormuz And End Fighting",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/trump-iran-hormuz_n_6ab83002e4b07c8d2e68bf40",
+        "published": "2026-09-26T20:56:01Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump stonewalls Iran as U.S. helps double oil volume exiting the Persian Gulf, with the military now guiding ships through Hormuz in broad daylight",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/09/26/trump-iran-war-ceasefire-offer-oil-volume-persian-gulf-us-military-hormuz-daytime/",
+        "published": "2026-09-26T19:40:53Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Stage Is Set, The Fuse Is Lit, And 3 Global Conflicts Are On The Brink Of Detonation",
+        "source": "Activistpost.com",
+        "url": "https://activistpost.com/the-stage-is-set-the-fuse-is-lit-and-3-global-conflicts-are-on-the-brink-of-detonation/",
+        "published": "2026-09-26T19:06:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump says no to Iran’s Hormuz deal",
         "source": "Salon",
         "url": "https://www.salon.com/2026/09/26/trump-says-no-to-irans-hormuz-deal/",
@@ -39,30 +60,16 @@
         "url": "https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks",
         "published": "2026-09-26T16:16:49Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Trump rejects Iranian proposal to open Strait of Hormuz and end fighting",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/trump-rejects-iran-proposal-open-strait-of-hormuz-9.7359743",
-        "published": "2026-09-26T16:00:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump rejects Iranian proposal to open Hormuz and end fighting",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/trump-rejects-iran-proposal-strait-hormuz-6412896",
-        "published": "2026-09-26T15:40:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The way your belly button smells could be an early warning sign of Parkinson’s",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/26/health/the-way-your-belly-button-smells-could-be-an-early-warning-sign-of-parkinsons/",
-        "published": "2026-09-26T15:05:32Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Stage Is Set, The Fuse Is Lit, And 3 Global Conflicts Are On The Brink Of Detonation",
+        "source": "Activistpost.com",
+        "url": "https://activistpost.com/the-stage-is-set-the-fuse-is-lit-and-3-global-conflicts-are-on-the-brink-of-detonation/",
+        "published": "2026-09-26T19:06:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Marshall Islands, Tuvalu voice support for Taiwan at U.N. assembly",
         "source": "Globalsecurity.org",
@@ -89,13 +96,6 @@
         "source": "Daily Sabah",
         "url": "https://www.dailysabah.com/business/economy/key-takeaways-from-trump-xi-summit-in-us",
         "published": "2026-09-25T21:00:55Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What happened when Xi Jinping met Donald Trump?",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-09-26/what-happened-when-xi-jinping-and-donald-trump-met/107185512",
-        "published": "2026-09-25T19:43:12Z",
         "sentiment": "watch"
       }
     ],
