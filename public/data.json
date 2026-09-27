@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-27T01:51:38.432Z",
+    "generated_at": "2026-09-27T07:58:07.411Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran offers US deal to reopen Strait of Hormuz within seven days",
-        "source": "Khabarhub.com",
-        "url": "https://english.khabarhub.com/2026/26/569294/",
-        "published": "2026-09-26T01:45:08Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Trump rejects Iran’s 7-day ceasefire proposal, expects bombing to resume after US midterms: Report",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/trump-rejects-irans-7-day-ceasefire-proposal-expects-bombing-to-resume-after-midterms-report/articleshow/134495522.cms",
-        "published": "2026-09-26T01:26:20Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Trump rejects Iranian peace proposal, WSJ reports",
-        "source": "Haaretz",
-        "url": "https://www.haaretz.com/middle-east-news/iran/2026-09-26/ty-article/.premium/trump-rejects-iranian-peace-proposal-wsj-reports/000001a0-db32-dfbb-afa4-fb72fbb70000",
-        "published": "2026-09-26T01:22:59Z",
+        "title": "EAM Jaishankar meets Iranian, Russian foreign ministers on UNGA margins",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/eam-jaishankar-meets-iranian-russian-foreign-ministers-on-unga-margins/article71511860.ece",
+        "published": "2026-09-26T07:10:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Report: Trump rejects Iranian truce proposal, expects U.S. strikes to resume after midterms",
-        "source": "Haaretz",
-        "url": "https://www.haaretz.com/middle-east-news/iran/2026-09-26/ty-article/trump-rejects-iranian-peace-proposal-wsj-reports/000001a0-db32-dfbb-afa4-fb72fbb70000",
-        "published": "2026-09-26T01:22:59Z",
-        "sentiment": "danger"
+        "title": "Ukraine’s Zelensky says he urged Trump to enlist China’s help in ending Russia’s invasion",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/26/world-news/ukraines-zelensky-says-he-urged-trump-to-enlist-chinas-help-in-ending-russias-invasion/",
+        "published": "2026-09-26T07:03:34Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Transcript: Iranian President Masoud Pezeshkian on \"Face the Nation with Margaret Brennan\"",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/transcript-iranian-president-masoud-pezeshkian-face-the-nation-transcript-09-27-2026/",
-        "published": "2026-09-26T01:10:33Z",
+        "title": "Iran awaits US reply to seven-day Hormuz plan",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/iran-awaits-us-reply-to-seven-day-hormuz-plan-227377",
+        "published": "2026-09-26T06:55:08Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "“We’re ready to go” but IMEC is being held up in the Middle East: Senior US State Department official",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/were-ready-to-go-but-imec-is-being-held-up-in-the-middle-east-senior-us-state-department-official/article71511584.ece",
+        "published": "2026-09-26T06:23:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump ‘rejects’ Iran proposal to reopen Strait of Hormuz within seven days",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/us/2026/09/26/iran-us-war-latest-news/",
+        "published": "2026-09-26T06:21:59Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
