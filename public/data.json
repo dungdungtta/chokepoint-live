@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-27T21:26:47.033Z",
+    "generated_at": "2026-09-27T23:54:59.567Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump taunts 'dying' Iran for 'outsmarting themselves' after rejecting ceasefire deal...as he boasts US has built a 'wall of steel' around Hormuz",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16163069/trump-iran-war-ceasefire-strait-hormuz-outsmarted.html",
+        "published": "2026-09-26T23:18:29Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Iran insists on diplomatic solution as Trump rejects plan",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/0927/1593085-iran-us-world/",
+        "published": "2026-09-26T23:01:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump Rejects Iranian Proposal To Open Hormuz And End Fighting",
         "source": "HuffPost",
         "url": "https://www.huffpost.com/entry/trump-iran-hormuz_n_6ab83002e4b07c8d2e68bf40",
@@ -46,20 +60,6 @@
         "url": "https://activistpost.com/the-stage-is-set-the-fuse-is-lit-and-3-global-conflicts-are-on-the-brink-of-detonation/",
         "published": "2026-09-26T19:06:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Trump says no to Iran’s Hormuz deal",
-        "source": "Salon",
-        "url": "https://www.salon.com/2026/09/26/trump-says-no-to-irans-hormuz-deal/",
-        "published": "2026-09-26T17:00:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "At least 10 people killed in Russian and Ukrainian attacks",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks",
-        "published": "2026-09-26T16:16:49Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
