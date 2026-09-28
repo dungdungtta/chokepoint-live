@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-28T18:45:31.084Z",
+    "generated_at": "2026-09-28T23:47:11.036Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "The Race Car Is Just The Start Of Richard Freeman’s NHRA Plan",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/gregengle/2026/09/27/the-race-car-is-just-the-start-of-richard-freemans-nhra-plan/",
-        "published": "2026-09-27T16:50:06Z",
+        "title": "The beauty trend Hailey Bieber convinced me to try overnight. Plus, the new way to clean dirty hair and a DIY tool shaking up salon facials: POLISHED with Elise Wilson",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/lifestyle/beauty/article-16149779/hailey-bieber-espresso-hair-trend-beauty.html",
+        "published": "2026-09-27T21:58:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/articles/iran-insists-diplomatic-solution-trump-223552721.html",
-        "published": "2026-09-27T15:45:53Z",
+        "title": "Inside Yemen's front-line city as Houthis battle for control",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no",
+        "published": "2026-09-27T21:16:31Z",
         "sentiment": "watch"
       },
       {
-        "title": "The South Must Be a Strategic Partner in Confronting the Houthi Threat",
-        "source": "Fair Observer",
-        "url": "https://www.fairobserver.com/region/middle_east_north_africa/the-south-must-be-a-strategic-partner-in-confronting-the-houthi-threat/",
-        "published": "2026-09-27T15:35:28Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal",
-        "published": "2026-09-27T14:36:44Z",
+        "title": "Floating power plants could offer coastal communities a reliable energy source. Here’s how",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/floating-power-plants-could-offer-coastal-communities-a-reliable-energy-source-heres-how-289134",
+        "published": "2026-09-27T19:21:06Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran ‘fully prepared’ for war to resume but diplomacy not over yet, Foreign Minister Abbas Araghchi says",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/iran-fully-prepared-war-resume-foreign-minister-rcna600059",
-        "published": "2026-09-27T14:08:37Z",
+        "title": "Bessent says Iran will have 'nothing left to trade' within two weeks as oil lifeline dries up",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/media/bessent-says-iran-nothing-left-trade-two-weeks-oil-lifeline-dries-up",
+        "published": "2026-09-27T19:12:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "War is a warning: Energy security requires investment",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/09/war-is-warning-energy-security-requires-investment/",
+        "published": "2026-09-27T18:59:34Z",
         "sentiment": "danger"
       }
     ],
