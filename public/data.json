@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-28T11:44:09.634Z",
+    "generated_at": "2026-09-28T18:45:31.084Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,69 +27,76 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump Rejects Iran Hormuz Deal: ‘They’re Losing So Badly’ -- ‘Greatest Blockade Ever in Military History’",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/09/27/trump-rejects-iran-hormuz-deal-theyre-losing-so-badly-greatest-blockade-ever-in-military-history/",
-        "published": "2026-09-27T10:37:48Z",
-        "sentiment": "danger"
+        "title": "The Race Car Is Just The Start Of Richard Freeman’s NHRA Plan",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/gregengle/2026/09/27/the-race-car-is-just-the-start-of-richard-freemans-nhra-plan/",
+        "published": "2026-09-27T16:50:06Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Narrow strait called the 'Gate of Tears' is a new flashpoint in the Iran war",
+        "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
         "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/world/articles/flash-point-iran-war-narrow-100000880.html",
-        "published": "2026-09-27T10:00:00Z",
+        "url": "https://www.yahoo.com/news/articles/iran-insists-diplomatic-solution-trump-223552721.html",
+        "published": "2026-09-27T15:45:53Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The South Must Be a Strategic Partner in Confronting the Houthi Threat",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/region/middle_east_north_africa/the-south-must-be-a-strategic-partner-in-confronting-the-houthi-threat/",
+        "published": "2026-09-27T15:35:28Z",
         "sentiment": "danger"
       },
       {
-        "title": "Yemen government forces widen attacks against Houthis: What we know",
+        "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
         "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know",
-        "published": "2026-09-27T09:59:21Z",
-        "sentiment": "danger"
+        "url": "https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal",
+        "published": "2026-09-27T14:36:44Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Can Iran shift trade north to Caspian Sea as war impairs Strait of Hormuz?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz",
-        "published": "2026-09-27T08:49:32Z",
+        "title": "Iran ‘fully prepared’ for war to resume but diplomacy not over yet, Foreign Minister Abbas Araghchi says",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/iran-fully-prepared-war-resume-foreign-minister-rcna600059",
+        "published": "2026-09-27T14:08:37Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
       {
-        "title": "No public mentions of Taiwan at official Xi and Trump meeting",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/no-public-mentions-of-taiwan-at-official-xi-and-trump-meeting/a-79445378",
-        "published": "2026-09-27T08:05:00Z",
+        "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-09-27-2026/",
+        "published": "2026-09-27T18:06:57Z",
         "sentiment": "watch"
       },
       {
-        "title": "Taiwan says U.S. 'very much' understands its defense needs after Trump-Xi talks",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/articles/us-very-much-understands-taiwans-024356196.html",
-        "published": "2026-09-27T02:43:56Z",
+        "title": "Has prelude to World War III arrived? ‘Key players greatly underestimate the potential for disaster’",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/09/has-prelude-world-war-iii-arrived-key-players/",
+        "published": "2026-09-27T17:12:21Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Britain and Russia have been to war before. Ask the British fleet how that went",
+        "source": "RT",
+        "url": "https://www.rt.com/russia/646312-britain-and-russia-crimean-war/",
+        "published": "2026-09-27T14:03:38Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Takaichi Faces Autumn Test After Trump Talks And BOJ Rate Hike",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150881.php",
+        "published": "2026-09-27T13:35:30Z",
         "sentiment": "neutral"
       },
       {
-        "title": "Taiwan says U.S. 'very much' understands its defense needs after Trump-Xi talks",
-        "source": "Yahoo Entertainment",
-        "url": "https://uk.news.yahoo.com/us-very-much-understands-taiwans-024356196.html",
-        "published": "2026-09-27T02:43:56Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "The Stage Is Set, The Fuse Is Lit, And 3 Global Conflicts Are On The Brink Of Detonation",
+        "title": "China Leads Robot Arms Race, US Attacks Larak Island, Trump Falsely Claims Venezuelan Oil Can Refill the SPR",
         "source": "Activistpost.com",
-        "url": "https://activistpost.com/the-stage-is-set-the-fuse-is-lit-and-3-global-conflicts-are-on-the-brink-of-detonation/",
-        "published": "2026-09-26T19:06:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Marshall Islands, Tuvalu voice support for Taiwan at U.N. assembly",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260926-cna03.htm",
-        "published": "2026-09-26T12:00:00Z",
-        "sentiment": "watch"
+        "url": "https://activistpost.com/china-leads-robot-arms-race-us-attacks-larak-island-trump-falsely-claims-venezuelan-oil-can-refill-the-spr/",
+        "published": "2026-09-27T13:00:00Z",
+        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -118,11 +125,11 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "yellow",
+    "taiwan": "red",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "yellow"
+    "korea": "amber"
   },
   "thresholds": {
     "brent_alert": 110,
