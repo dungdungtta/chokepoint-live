@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-27T23:54:59.567Z",
+    "generated_at": "2026-09-28T05:05:03.266Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump taunts 'dying' Iran for 'outsmarting themselves' after rejecting ceasefire deal...as he boasts US has built a 'wall of steel' around Hormuz",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16163069/trump-iran-war-ceasefire-strait-hormuz-outsmarted.html",
-        "published": "2026-09-26T23:18:29Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Iran insists on diplomatic solution as Trump rejects plan",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/0927/1593085-iran-us-world/",
-        "published": "2026-09-26T23:01:00Z",
+        "title": "Iran stands firm on Hormuz plan after Trump rejection",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/iran-stands-firm-on-hormuz-plan-after-trump-rejection-227388",
+        "published": "2026-09-27T05:04:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump Rejects Iranian Proposal To Open Hormuz And End Fighting",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/trump-iran-hormuz_n_6ab83002e4b07c8d2e68bf40",
-        "published": "2026-09-26T20:56:01Z",
+        "title": "India's first port-based e-methanol production facility to produce and supply green fuel to ships",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indias-first-port-based-e-methanol-production-facility-to-produce-and-supply-green-fuel-to-ships/articleshow/134514799.cms",
+        "published": "2026-09-27T04:57:42Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump stonewalls Iran as U.S. helps double oil volume exiting the Persian Gulf, with the military now guiding ships through Hormuz in broad daylight",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/09/26/trump-iran-war-ceasefire-offer-oil-volume-persian-gulf-us-military-hormuz-daytime/",
-        "published": "2026-09-26T19:40:53Z",
+        "title": "Select Accounts: 51-Oz Amazon Grocery Extra Virgin Olive Oil $8.65 w/ S&S",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20065227-select-accounts-51-oz-amazon-grocery-extra-virgin-olive-oil-8-65-w-s-s",
+        "published": "2026-09-27T04:09:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Stage Is Set, The Fuse Is Lit, And 3 Global Conflicts Are On The Brink Of Detonation",
-        "source": "Activistpost.com",
-        "url": "https://activistpost.com/the-stage-is-set-the-fuse-is-lit-and-3-global-conflicts-are-on-the-brink-of-detonation/",
-        "published": "2026-09-26T19:06:00Z",
+        "title": "The Iran War comes Home before the Midterms",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/09/comes-before-midterms.html",
+        "published": "2026-09-27T04:06:13Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran insists on diplomatic solution even after Trump rejects peace plan",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/iran-insists-on-diplomatic-solution-even-after-trump-rejects-peace-plan-126092700068_1.html",
+        "published": "2026-09-27T02:34:15Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan says U.S. 'very much' understands its defense needs after Trump-Xi talks",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/articles/us-very-much-understands-taiwans-024356196.html",
+        "published": "2026-09-27T02:43:56Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Taiwan says U.S. 'very much' understands its defense needs after Trump-Xi talks",
+        "source": "Yahoo Entertainment",
+        "url": "https://uk.news.yahoo.com/us-very-much-understands-taiwans-024356196.html",
+        "published": "2026-09-27T02:43:56Z",
+        "sentiment": "neutral"
+      },
       {
         "title": "The Stage Is Set, The Fuse Is Lit, And 3 Global Conflicts Are On The Brink Of Detonation",
         "source": "Activistpost.com",
@@ -82,20 +96,6 @@
         "source": "Yahoo Entertainment",
         "url": "https://www.yahoo.com/news/politics/articles/trump-xi-inspect-founding-documents-165446832.html",
         "published": "2026-09-26T01:49:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. Amb. to China: 'Don't Know' When Taiwan Military Sale Will Happen, 'Trump Has a Schedule of His Own'",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/clips/2026/09/25/u-s-amb-to-china-dont-know-when-taiwan-military-sale-will-happen-trump-has-a-schedule-of-his-own/",
-        "published": "2026-09-25T23:52:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Key takeaways from Trump-Xi summit in US",
-        "source": "Daily Sabah",
-        "url": "https://www.dailysabah.com/business/economy/key-takeaways-from-trump-xi-summit-in-us",
-        "published": "2026-09-25T21:00:55Z",
         "sentiment": "watch"
       }
     ],
