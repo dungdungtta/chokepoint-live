@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-28T05:05:03.266Z",
+    "generated_at": "2026-09-28T11:44:09.634Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran stands firm on Hormuz plan after Trump rejection",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/iran-stands-firm-on-hormuz-plan-after-trump-rejection-227388",
-        "published": "2026-09-27T05:04:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "India's first port-based e-methanol production facility to produce and supply green fuel to ships",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indias-first-port-based-e-methanol-production-facility-to-produce-and-supply-green-fuel-to-ships/articleshow/134514799.cms",
-        "published": "2026-09-27T04:57:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Select Accounts: 51-Oz Amazon Grocery Extra Virgin Olive Oil $8.65 w/ S&S",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20065227-select-accounts-51-oz-amazon-grocery-extra-virgin-olive-oil-8-65-w-s-s",
-        "published": "2026-09-27T04:09:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Iran War comes Home before the Midterms",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/09/comes-before-midterms.html",
-        "published": "2026-09-27T04:06:13Z",
+        "title": "Trump Rejects Iran Hormuz Deal: ‘They’re Losing So Badly’ -- ‘Greatest Blockade Ever in Military History’",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/09/27/trump-rejects-iran-hormuz-deal-theyre-losing-so-badly-greatest-blockade-ever-in-military-history/",
+        "published": "2026-09-27T10:37:48Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran insists on diplomatic solution even after Trump rejects peace plan",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/iran-insists-on-diplomatic-solution-even-after-trump-rejects-peace-plan-126092700068_1.html",
-        "published": "2026-09-27T02:34:15Z",
-        "sentiment": "watch"
+        "title": "Narrow strait called the 'Gate of Tears' is a new flashpoint in the Iran war",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/world/articles/flash-point-iran-war-narrow-100000880.html",
+        "published": "2026-09-27T10:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Yemen government forces widen attacks against Houthis: What we know",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know",
+        "published": "2026-09-27T09:59:21Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Can Iran shift trade north to Caspian Sea as war impairs Strait of Hormuz?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz",
+        "published": "2026-09-27T08:49:32Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "No public mentions of Taiwan at official Xi and Trump meeting",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/no-public-mentions-of-taiwan-at-official-xi-and-trump-meeting/a-79445378",
+        "published": "2026-09-27T08:05:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan says U.S. 'very much' understands its defense needs after Trump-Xi talks",
         "source": "Yahoo Entertainment",
@@ -89,13 +89,6 @@
         "source": "Globalsecurity.org",
         "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260926-cna03.htm",
         "published": "2026-09-26T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Xi Summit ends, long on pomp, short on progress...",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-xi-inspect-founding-documents-165446832.html",
-        "published": "2026-09-26T01:49:36Z",
         "sentiment": "watch"
       }
     ],
