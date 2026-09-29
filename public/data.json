@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-29T17:02:29.647Z",
+    "generated_at": "2026-09-29T21:25:14.902Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Can Fracking Reverse Colombia’s Oil and Gas Decline?",
+        "title": "Saudi Arabia Restarts Key East-West Pipeline",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/397204/saudi-arabia-restarts-key-east-west-pipeline.html",
+        "published": "2026-09-28T20:15:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Edges Higher as Supply Tightens",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_edges_higher_as_supply_tightens-28-sep-2026-184721-article/",
+        "published": "2026-09-28T20:12:57Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Saudi Airstrike on Civilian Home in Yemen Kills Four: Yemeni Health Ministry",
+        "source": "Antiwar.com",
+        "url": "https://news.antiwar.com/2026/09/28/saudi-airstrike-on-civilian-home-in-yemen-kills-four-yemeni-health-ministry/",
+        "published": "2026-09-28T20:12:26Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The World Is Entering a New Era of Energy Security",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Can-Fracking-Reverse-Colombias-Oil-and-Gas-Decline.html",
-        "published": "2026-09-28T17:00:00Z",
+        "url": "https://oilprice.com/Energy/Energy-General/The-World-Is-Entering-a-New-Era-of-Energy-Security.html",
+        "published": "2026-09-28T20:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Europe Draws More LNG as Hormuz Crisis Tightens Global Market",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/europe-draws-more-lng-as-hormuz-crisis-tightens-global-market/",
-        "published": "2026-09-28T16:58:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Arabia’s desperate situation",
-        "source": "Mondoweiss",
-        "url": "https://mondoweiss.net/2026/09/saudi-arabias-desperate-situation/",
-        "published": "2026-09-28T16:52:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Mediators working to broker US-Iran deal even after Trump rejected latest Tehran proposal",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/mediators-working-to-broker-us-iran-deal-even-after-trump-rejected-latest-tehran-proposal/articleshow/134547104.cms",
-        "published": "2026-09-28T16:36:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran's Supreme Leader says US will be forced to leave the Middle East after suffering 'painful blows' in new statement",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16167005/Irans-Supreme-Leader-says-US-forced-leave-Middle-East-suffering-painful-blows-new-statement.html",
-        "published": "2026-09-28T15:53:28Z",
+        "title": "Europe’s Gas Forecasts Are Not an Energy Strategy",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Natural-Gas/Europes-Gas-Forecasts-Are-Not-an-Energy-Strategy.html",
+        "published": "2026-09-28T19:00:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump Doesn’t Need to Be a Prop in Xi’s Political Show",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/trump-doesnt-need-to-be-a-prop-in-xis-political-show/",
+        "published": "2026-09-28T17:15:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump Team Scrambles After Embarrassing Slip About Arms Sale to China",
         "source": "The New Republic",
@@ -89,13 +96,6 @@
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/philippines-accuses-chinese-vessel-of-spoofing-location-in-northern-waters/",
         "published": "2026-09-28T13:25:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump asked Xi to buy US weapons – ambassador",
-        "source": "RT",
-        "url": "https://www.rt.com/news/646340-trump-xi-us-weapons/",
-        "published": "2026-09-28T00:40:34Z",
         "sentiment": "watch"
       }
     ],
