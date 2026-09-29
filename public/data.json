@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-28T23:47:11.036Z",
+    "generated_at": "2026-09-29T05:29:17.330Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "The beauty trend Hailey Bieber convinced me to try overnight. Plus, the new way to clean dirty hair and a DIY tool shaking up salon facials: POLISHED with Elise Wilson",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/lifestyle/beauty/article-16149779/hailey-bieber-espresso-hair-trend-beauty.html",
-        "published": "2026-09-27T21:58:58Z",
+        "title": "The Greek Prime Minister’s return, the small, bigger and toughest tasks awaiting Maximos Mansion, the IASO deal is sealed and Grimaldi steers clear of Attica Group ///",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/09/28/prime-minister-returns-to-a-crowded-in-tray-as-piraeus-bank-seals-iaso-deal/",
+        "published": "2026-09-28T05:18:32Z",
         "sentiment": "watch"
       },
       {
-        "title": "Inside Yemen's front-line city as Houthis battle for control",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no",
-        "published": "2026-09-27T21:16:31Z",
+        "title": "Saudi Arabia’s Secret Jewish Mistress",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4397111/posts",
+        "published": "2026-09-28T04:48:04Z",
         "sentiment": "watch"
       },
       {
-        "title": "Floating power plants could offer coastal communities a reliable energy source. Here’s how",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/floating-power-plants-could-offer-coastal-communities-a-reliable-energy-source-heres-how-289134",
-        "published": "2026-09-27T19:21:06Z",
+        "title": "Purolator TL14610 PurolatorTECH Spin-On Oil Filter (Select Honda, Nissan, Acura) $4",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20063235-purolator-tl14610-purolatortech-spin-on-oil-filter-select-honda-nissan-acura-3-99-w-s-s-free-shipping-w-prime-or-on-35",
+        "published": "2026-09-28T04:34:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "Bessent says Iran will have 'nothing left to trade' within two weeks as oil lifeline dries up",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/media/bessent-says-iran-nothing-left-trade-two-weeks-oil-lifeline-dries-up",
-        "published": "2026-09-27T19:12:17Z",
+        "title": "John D. Rockefeller Is a Cautionary Tale for Today’s Business Titans",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/28/john-rockefeller-business-titans/",
+        "published": "2026-09-28T04:01:04Z",
         "sentiment": "watch"
       },
       {
-        "title": "War is a warning: Energy security requires investment",
-        "source": "Wnd.com",
-        "url": "https://www.wnd.com/2026/09/war-is-warning-energy-security-requires-investment/",
-        "published": "2026-09-27T18:59:34Z",
-        "sentiment": "danger"
+        "title": "Oil Price Today (September 28): Crude oil gains to $106 as Trump rejects Iran deal. Where are prices headed?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-28-crude-oil-gains-to-106-as-trump-rejects-iran-deal-where-are-prices-headed/articleshow/134529904.cms",
+        "published": "2026-09-28T02:12:24Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump asked Xi to buy US weapons – ambassador",
+        "source": "RT",
+        "url": "https://www.rt.com/news/646340-trump-xi-us-weapons/",
+        "published": "2026-09-28T00:40:34Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026",
         "source": "CBS News",
@@ -90,13 +97,6 @@
         "url": "https://newsonjapan.com/article/150881.php",
         "published": "2026-09-27T13:35:30Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "China Leads Robot Arms Race, US Attacks Larak Island, Trump Falsely Claims Venezuelan Oil Can Refill the SPR",
-        "source": "Activistpost.com",
-        "url": "https://activistpost.com/china-leads-robot-arms-race-us-attacks-larak-island-trump-falsely-claims-venezuelan-oil-can-refill-the-spr/",
-        "published": "2026-09-27T13:00:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -125,11 +125,11 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "red",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
-    "korea": "amber"
+    "korea": "yellow"
   },
   "thresholds": {
     "brent_alert": 110,
