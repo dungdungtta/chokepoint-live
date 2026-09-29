@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-29T11:31:57.147Z",
+    "generated_at": "2026-09-29T17:02:29.647Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,76 +27,76 @@
   "news": {
     "hormuz": [
       {
-        "title": "European Gas Prices Rally on U.S.-Iran Stalemate",
+        "title": "Can Fracking Reverse Colombia’s Oil and Gas Decline?",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/European-Gas-Prices-Rally-on-US-Iran-Stalemate.html",
-        "published": "2026-09-28T11:30:00Z",
+        "url": "https://oilprice.com/Energy/Energy-General/Can-Fracking-Reverse-Colombias-Oil-and-Gas-Decline.html",
+        "published": "2026-09-28T17:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Japan's Nikkei slips as oil prices and rate concerns weigh",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/capital-market-news/japan-s-nikkei-slips-as-oil-prices-and-rate-concerns-weigh-126092800796_1.html",
-        "published": "2026-09-28T11:01:17Z",
+        "title": "Europe Draws More LNG as Hormuz Crisis Tightens Global Market",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/europe-draws-more-lng-as-hormuz-crisis-tightens-global-market/",
+        "published": "2026-09-28T16:58:47Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz",
-        "published": "2026-09-28T09:17:29Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Weekly Climate and Energy News Roundup #708",
-        "source": "Wattsupwiththat.com",
-        "url": "https://wattsupwiththat.com/2026/09/28/weekly-climate-and-energy-news-roundup-708/",
-        "published": "2026-09-28T09:00:00Z",
+        "title": "Saudi Arabia’s desperate situation",
+        "source": "Mondoweiss",
+        "url": "https://mondoweiss.net/2026/09/saudi-arabias-desperate-situation/",
+        "published": "2026-09-28T16:52:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "Report on transactions in TORM plc securities by directors and executive officers and their closely associated persons",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/report-on-transactions-in-torm-plc-securities-by-directors-and-executive-officers-and-their-closely-associated-persons-302891306.html",
-        "published": "2026-09-28T08:49:00Z",
+        "title": "Mediators working to broker US-Iran deal even after Trump rejected latest Tehran proposal",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/mediators-working-to-broker-us-iran-deal-even-after-trump-rejected-latest-tehran-proposal/articleshow/134547104.cms",
+        "published": "2026-09-28T16:36:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran's Supreme Leader says US will be forced to leave the Middle East after suffering 'painful blows' in new statement",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16167005/Irans-Supreme-Leader-says-US-forced-leave-Middle-East-suffering-painful-blows-new-statement.html",
+        "published": "2026-09-28T15:53:28Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump Team Scrambles After Embarrassing Slip About Arms Sale to China",
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/post/215907/donald-trump-team-scrambles-arms-sale-china",
+        "published": "2026-09-28T14:28:51Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Brazil Has No Answers for Its China Problem",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/28/brazil-election-president-lula-bolsonaro-china-america/",
+        "published": "2026-09-28T14:25:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China, Iran and the Trump-Xi Equation: The Geopolitical Battle Behind the Middle East War",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/china-iran-trump-xi-equation-geopolitical-battle-middle-east-war/5941940",
+        "published": "2026-09-28T13:28:24Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Philippines Accuses Chinese Vessel of Spoofing Location in Northern Waters",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/philippines-accuses-chinese-vessel-of-spoofing-location-in-northern-waters/",
+        "published": "2026-09-28T13:25:33Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump asked Xi to buy US weapons – ambassador",
         "source": "RT",
         "url": "https://www.rt.com/news/646340-trump-xi-us-weapons/",
         "published": "2026-09-28T00:40:34Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-09-27-2026/",
-        "published": "2026-09-27T18:06:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Has prelude to World War III arrived? ‘Key players greatly underestimate the potential for disaster’",
-        "source": "Wnd.com",
-        "url": "https://www.wnd.com/2026/09/has-prelude-world-war-iii-arrived-key-players/",
-        "published": "2026-09-27T17:12:21Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Britain and Russia have been to war before. Ask the British fleet how that went",
-        "source": "RT",
-        "url": "https://www.rt.com/russia/646312-britain-and-russia-crimean-war/",
-        "published": "2026-09-27T14:03:38Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Takaichi Faces Autumn Test After Trump Talks And BOJ Rate Hike",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/150881.php",
-        "published": "2026-09-27T13:35:30Z",
-        "sentiment": "neutral"
       }
     ],
     "malacca": [
