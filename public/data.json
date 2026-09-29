@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-29T05:29:17.330Z",
+    "generated_at": "2026-09-29T11:31:57.147Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "The Greek Prime Minister’s return, the small, bigger and toughest tasks awaiting Maximos Mansion, the IASO deal is sealed and Grimaldi steers clear of Attica Group ///",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/09/28/prime-minister-returns-to-a-crowded-in-tray-as-piraeus-bank-seals-iaso-deal/",
-        "published": "2026-09-28T05:18:32Z",
+        "title": "European Gas Prices Rally on U.S.-Iran Stalemate",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/European-Gas-Prices-Rally-on-US-Iran-Stalemate.html",
+        "published": "2026-09-28T11:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudi Arabia’s Secret Jewish Mistress",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4397111/posts",
-        "published": "2026-09-28T04:48:04Z",
+        "title": "Japan's Nikkei slips as oil prices and rate concerns weigh",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/capital-market-news/japan-s-nikkei-slips-as-oil-prices-and-rate-concerns-weigh-126092800796_1.html",
+        "published": "2026-09-28T11:01:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "Purolator TL14610 PurolatorTECH Spin-On Oil Filter (Select Honda, Nissan, Acura) $4",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20063235-purolator-tl14610-purolatortech-spin-on-oil-filter-select-honda-nissan-acura-3-99-w-s-s-free-shipping-w-prime-or-on-35",
-        "published": "2026-09-28T04:34:45Z",
+        "title": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz",
+        "published": "2026-09-28T09:17:29Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Weekly Climate and Energy News Roundup #708",
+        "source": "Wattsupwiththat.com",
+        "url": "https://wattsupwiththat.com/2026/09/28/weekly-climate-and-energy-news-roundup-708/",
+        "published": "2026-09-28T09:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "John D. Rockefeller Is a Cautionary Tale for Today’s Business Titans",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/28/john-rockefeller-business-titans/",
-        "published": "2026-09-28T04:01:04Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Price Today (September 28): Crude oil gains to $106 as Trump rejects Iran deal. Where are prices headed?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-28-crude-oil-gains-to-106-as-trump-rejects-iran-deal-where-are-prices-headed/articleshow/134529904.cms",
-        "published": "2026-09-28T02:12:24Z",
+        "title": "Report on transactions in TORM plc securities by directors and executive officers and their closely associated persons",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/report-on-transactions-in-torm-plc-securities-by-directors-and-executive-officers-and-their-closely-associated-persons-302891306.html",
+        "published": "2026-09-28T08:49:00Z",
         "sentiment": "watch"
       }
     ],
