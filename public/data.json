@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-30T06:01:50.000Z",
+    "generated_at": "2026-09-30T12:40:20.387Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran Foreign Minister Says Tehran “Fully Prepared” to Resume War, Cites Lack of Trust in Trump",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-09-29-iran-says-tehran-fully-prepared-to-resume-war.html",
-        "published": "2026-09-29T06:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Poll: One in Four Americans Say Iran War Was Worth the Costs",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-09-29-one-in-four-iran-war-worth-costs.html",
-        "published": "2026-09-29T06:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "AI boom meets energy squeeze as Ireland’s economy pulled in two directions",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/esri-quarterly-report-ai-energy-costs-inflation-7176224-Sep2026/",
-        "published": "2026-09-29T05:45:40Z",
+        "title": "Nuh-uh, cellulite: M3’s bestselling firming lotion (and more good skincare) is on sale",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/29/shopping/early-prime-day-deal-m3-skincare-bestsellers-are-on-sale/",
+        "published": "2026-09-29T12:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Bengal CM assures Indian Oil of facilitating land for expansion in Haldia",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/india-news/bengal-cm-assures-indian-oil-of-facilitating-land-for-expansion-in-haldia-126092900291_1.html",
-        "published": "2026-09-29T05:40:38Z",
+        "title": "1968 Plymouth Barracuda Formula S Coupe 383",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1968-plymouth-barracuda-53/",
+        "published": "2026-09-29T12:25:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "Rubio, Saudi Arabia’s foreign minister hold talks on Yemen, Hormuz Strait",
+        "title": "Texas Governor Declares Disaster Over Diesel Prices",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/southcentral/2026/09/29/887165.htm",
+        "published": "2026-09-29T12:08:20Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Hormuz and Yemen: Iran offers de-escalation at a price others will pay",
         "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/29/rubio-saudi-arabias-foreign-minister-hold-talks-on-yemen-hormuz-strait",
-        "published": "2026-09-29T04:46:38Z",
-        "sentiment": "neutral"
+        "url": "https://www.aljazeera.com/opinions/2026/9/29/hormuz-and-yemen-iran-offers-de-escalation-at-a-price-others-will-pay",
+        "published": "2026-09-29T12:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US strategic oil reserve plunges to 44-year low",
+        "source": "RT",
+        "url": "https://www.rt.com/business/646410-us-oil-reserve-plunges/",
+        "published": "2026-09-29T11:56:50Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Real winner of Xi summit revealed as Trump looks to usher in new era with China",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/real-winner-xi-summit-revealed-trump-looks-usher-new-era-china",
+        "published": "2026-09-29T11:00:47Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Ambassador Reveals Trump Pitched U.S. Weapons to China’s Xi Jinping",
         "source": "Naturalnews.com",
@@ -90,13 +97,6 @@
         "url": "http://foreignpolicy.com/2026/09/28/brazil-election-president-lula-bolsonaro-china-america/",
         "published": "2026-09-28T14:25:17Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "China, Iran and the Trump-Xi Equation: The Geopolitical Battle Behind the Middle East War",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/china-iran-trump-xi-equation-geopolitical-battle-middle-east-war/5941940",
-        "published": "2026-09-28T13:28:24Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -125,7 +125,7 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "amber",
+    "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
