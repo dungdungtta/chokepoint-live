@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-30T00:42:41.531Z",
+    "generated_at": "2026-09-30T06:01:50.000Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil prices rise for second session on continued Middle East supply concern",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-prices-rise-second-session-continued-middle-east-supply-concern-6417066",
-        "published": "2026-09-29T00:33:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "GOP strategist says Trump should hide until midterms are over",
-        "source": "Dailykos.com",
-        "url": "http://www.dailykos.com/stories/2026/9/28/800104762/elections/gop-strategist-trump-hide-until-midterms-over/",
-        "published": "2026-09-29T00:01:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hormuz Rerouting Doubles Cape Traffic Without Delivering a Windfall",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Hormuz-Rerouting-Doubles-Cape-Traffic-Without-Delivering-a-Windfall.html",
-        "published": "2026-09-29T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump’s Iran strategy is working — the ayatollah suffers as oil flows again",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/28/opinion/trumps-iran-strategy-is-working-the-ayatollah-suffers-as-oil-flows-again/",
-        "published": "2026-09-28T23:36:32Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump: U.S. Will Win Iran War ‘Very Soon’ as Mediated Talks Continue — ‘One Way or the Other’",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/09/28/trump-u-s-will-win-iran-war-very-soon-as-mediated-talks-continue-one-way-or-the-other/",
-        "published": "2026-09-28T22:50:42Z",
+        "title": "Iran Foreign Minister Says Tehran “Fully Prepared” to Resume War, Cites Lack of Trust in Trump",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-09-29-iran-says-tehran-fully-prepared-to-resume-war.html",
+        "published": "2026-09-29T06:00:00Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Poll: One in Four Americans Say Iran War Was Worth the Costs",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-09-29-one-in-four-iran-war-worth-costs.html",
+        "published": "2026-09-29T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "AI boom meets energy squeeze as Ireland’s economy pulled in two directions",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/esri-quarterly-report-ai-energy-costs-inflation-7176224-Sep2026/",
+        "published": "2026-09-29T05:45:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Bengal CM assures Indian Oil of facilitating land for expansion in Haldia",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/india-news/bengal-cm-assures-indian-oil-of-facilitating-land-for-expansion-in-haldia-126092900291_1.html",
+        "published": "2026-09-29T05:40:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Rubio, Saudi Arabia’s foreign minister hold talks on Yemen, Hormuz Strait",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/9/29/rubio-saudi-arabias-foreign-minister-hold-talks-on-yemen-hormuz-strait",
+        "published": "2026-09-29T04:46:38Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
+      {
+        "title": "Ambassador Reveals Trump Pitched U.S. Weapons to China’s Xi Jinping",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-09-29-trump-pitched-us-weapons-to-xi-jinping.html",
+        "published": "2026-09-29T06:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump Doesn’t Need to Be a Prop in Xi’s Political Show",
         "source": "The Diplomat",
@@ -90,13 +97,6 @@
         "url": "https://www.globalresearch.ca/china-iran-trump-xi-equation-geopolitical-battle-middle-east-war/5941940",
         "published": "2026-09-28T13:28:24Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Philippines Accuses Chinese Vessel of Spoofing Location in Northern Waters",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/philippines-accuses-chinese-vessel-of-spoofing-location-in-northern-waters/",
-        "published": "2026-09-28T13:25:33Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
