@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-30T12:40:20.387Z",
+    "generated_at": "2026-09-30T18:08:47.970Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 114.89,
-      "change_pct": -1.1,
-      "date": "2026-09-22",
+      "price": 113.96,
+      "change_pct": -5,
+      "date": "2026-09-29",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Nuh-uh, cellulite: M3’s bestselling firming lotion (and more good skincare) is on sale",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/29/shopping/early-prime-day-deal-m3-skincare-bestsellers-are-on-sale/",
-        "published": "2026-09-29T12:30:00Z",
+        "title": "Old Hulls, New Money: Why the VLCC Market Has Stopped Counting Years",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/old-hulls-new-money-why-the-vlcc-market-has-stopped-counting-years/",
+        "published": "2026-09-29T16:40:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "1968 Plymouth Barracuda Formula S Coupe 383",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1968-plymouth-barracuda-53/",
-        "published": "2026-09-29T12:25:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Texas Governor Declares Disaster Over Diesel Prices",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/southcentral/2026/09/29/887165.htm",
-        "published": "2026-09-29T12:08:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hormuz and Yemen: Iran offers de-escalation at a price others will pay",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/opinions/2026/9/29/hormuz-and-yemen-iran-offers-de-escalation-at-a-price-others-will-pay",
-        "published": "2026-09-29T12:00:00Z",
+        "title": "Fog of War Deepens in Hormuz as Ship Attacks Go Unreported for Days",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/fog-of-war-deepens-in-hormuz-as-ship-attacks-go-unreported-for-days/",
+        "published": "2026-09-29T15:53:56Z",
         "sentiment": "danger"
       },
       {
-        "title": "US strategic oil reserve plunges to 44-year low",
-        "source": "RT",
-        "url": "https://www.rt.com/business/646410-us-oil-reserve-plunges/",
-        "published": "2026-09-29T11:56:50Z",
+        "title": "Andy Burnham pledges a big shakeup for Britain in a high-risk political speech",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/andy-burnham-pledges-big-shakeup-britain-high-risk-136857640",
+        "published": "2026-09-29T15:53:50Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "US-Iran talks in New York: What’s the latest?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest",
+        "published": "2026-09-29T15:09:53Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
@@ -112,13 +105,6 @@
         "source": "Globalsecurity.org",
         "url": "https://www.globalsecurity.org/security/library/news/2026/09/sec-260913-globaltimes01.htm",
         "published": "2026-09-13T12:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Global Trade and the United States Navy",
-        "source": "Acoup.blog",
-        "url": "https://acoup.blog/2026/08/28/collections-global-trade-and-united-states-navy/",
-        "published": "2026-08-29T13:55:35Z",
         "sentiment": "watch"
       }
     ]
