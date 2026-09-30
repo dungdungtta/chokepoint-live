@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-29T21:25:14.902Z",
+    "generated_at": "2026-09-30T00:42:41.531Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Saudi Arabia Restarts Key East-West Pipeline",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/397204/saudi-arabia-restarts-key-east-west-pipeline.html",
-        "published": "2026-09-28T20:15:00Z",
+        "title": "Oil prices rise for second session on continued Middle East supply concern",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-prices-rise-second-session-continued-middle-east-supply-concern-6417066",
+        "published": "2026-09-29T00:33:13Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Edges Higher as Supply Tightens",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_edges_higher_as_supply_tightens-28-sep-2026-184721-article/",
-        "published": "2026-09-28T20:12:57Z",
+        "title": "GOP strategist says Trump should hide until midterms are over",
+        "source": "Dailykos.com",
+        "url": "http://www.dailykos.com/stories/2026/9/28/800104762/elections/gop-strategist-trump-hide-until-midterms-over/",
+        "published": "2026-09-29T00:01:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudi Airstrike on Civilian Home in Yemen Kills Four: Yemeni Health Ministry",
-        "source": "Antiwar.com",
-        "url": "https://news.antiwar.com/2026/09/28/saudi-airstrike-on-civilian-home-in-yemen-kills-four-yemeni-health-ministry/",
-        "published": "2026-09-28T20:12:26Z",
+        "title": "Hormuz Rerouting Doubles Cape Traffic Without Delivering a Windfall",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Hormuz-Rerouting-Doubles-Cape-Traffic-Without-Delivering-a-Windfall.html",
+        "published": "2026-09-29T00:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump’s Iran strategy is working — the ayatollah suffers as oil flows again",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/28/opinion/trumps-iran-strategy-is-working-the-ayatollah-suffers-as-oil-flows-again/",
+        "published": "2026-09-28T23:36:32Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump: U.S. Will Win Iran War ‘Very Soon’ as Mediated Talks Continue — ‘One Way or the Other’",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/09/28/trump-u-s-will-win-iran-war-very-soon-as-mediated-talks-continue-one-way-or-the-other/",
+        "published": "2026-09-28T22:50:42Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "The World Is Entering a New Era of Energy Security",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/The-World-Is-Entering-a-New-Era-of-Energy-Security.html",
-        "published": "2026-09-28T20:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Europe’s Gas Forecasts Are Not an Energy Strategy",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Natural-Gas/Europes-Gas-Forecasts-Are-Not-an-Energy-Strategy.html",
-        "published": "2026-09-28T19:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
