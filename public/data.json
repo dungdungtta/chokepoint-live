@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-30T18:08:47.970Z",
+    "generated_at": "2026-09-30T22:19:31.243Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Old Hulls, New Money: Why the VLCC Market Has Stopped Counting Years",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/old-hulls-new-money-why-the-vlcc-market-has-stopped-counting-years/",
-        "published": "2026-09-29T16:40:08Z",
+        "title": "Trump is proving that Iran CAN’T control the global oil supply — a win for the world",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/29/opinion/trump-is-proving-that-iran-cant-control-the-global-oil-supply/",
+        "published": "2026-09-29T22:14:36Z",
         "sentiment": "watch"
       },
       {
-        "title": "Fog of War Deepens in Hormuz as Ship Attacks Go Unreported for Days",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/fog-of-war-deepens-in-hormuz-as-ship-attacks-go-unreported-for-days/",
-        "published": "2026-09-29T15:53:56Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Andy Burnham pledges a big shakeup for Britain in a high-risk political speech",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/andy-burnham-pledges-big-shakeup-britain-high-risk-136857640",
-        "published": "2026-09-29T15:53:50Z",
+        "title": "Flamingo Face & Body Wax Kit 2-Pack for $11 via Sub & Save + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Flamingo-Face-Body-Wax-Kit-2-Pack-for-11-via-Sub-Save-free-shipping/22226950.html",
+        "published": "2026-09-29T20:29:35Z",
         "sentiment": "watch"
       },
       {
-        "title": "US-Iran talks in New York: What’s the latest?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest",
-        "published": "2026-09-29T15:09:53Z",
+        "title": "Flamingo 10-oz. Women's Body Lotion 2-Pack for $17 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Flamingo-10-oz-Womens-Body-Lotion-2-Pack-for-17-free-shipping-w-Prime/22226949.html",
+        "published": "2026-09-29T20:26:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "\"Olive Oil Shot\" Pioneer Dr. Steven Gundry Celebrates National Extra Virgin Olive Oil Day with a Shot of Gundry MD Polyphenol-Rich Olive Oil",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/olive-oil-shot-pioneer-dr-steven-gundry-celebrates-national-extra-virgin-olive-oil-day-with-a-shot-of-gundry-md-polyphenol-rich-olive-oil-302893441.html",
+        "published": "2026-09-29T20:25:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Slides on Saudi Supply Relief",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_slides_on_saudi_supply_relief-29-sep-2026-184732-article/",
+        "published": "2026-09-29T20:05:51Z",
         "sentiment": "neutral"
       }
     ],
