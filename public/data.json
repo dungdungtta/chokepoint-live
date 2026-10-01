@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-30T22:19:31.243Z",
+    "generated_at": "2026-10-01T01:27:03.927Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump is proving that Iran CAN’T control the global oil supply — a win for the world",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/29/opinion/trump-is-proving-that-iran-cant-control-the-global-oil-supply/",
-        "published": "2026-09-29T22:14:36Z",
+        "title": "Carney announces $1.2B in funding to protect oceans as major projects loom",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/canada/british-columbia/carney-announces-ocean-protection-9.7363548",
+        "published": "2026-09-30T01:19:51Z",
         "sentiment": "watch"
       },
       {
-        "title": "Flamingo Face & Body Wax Kit 2-Pack for $11 via Sub & Save + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Flamingo-Face-Body-Wax-Kit-2-Pack-for-11-via-Sub-Save-free-shipping/22226950.html",
-        "published": "2026-09-29T20:29:35Z",
+        "title": "Carney announces $1.2 billion for oceans ahead of expected pipeline decision",
+        "source": "National Observer",
+        "url": "https://www.nationalobserver.com/2026/09/29/news/carney-announces-12-billion-oceans-ahead-expected-pipeline-decision",
+        "published": "2026-09-30T00:35:03Z",
         "sentiment": "watch"
       },
       {
-        "title": "Flamingo 10-oz. Women's Body Lotion 2-Pack for $17 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Flamingo-10-oz-Womens-Body-Lotion-2-Pack-for-17-free-shipping-w-Prime/22226949.html",
-        "published": "2026-09-29T20:26:02Z",
+        "title": "MbS Should Have Learned From Grandfather Abdulaziz That Intrigue Is Not A Game For Amateurs",
+        "source": "ThePrint",
+        "url": "https://theprint.in/opinion/security-code/mbs-grandfather-abdulaziz-saudi-arabia-yemen/3057644/",
+        "published": "2026-09-30T00:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "\"Olive Oil Shot\" Pioneer Dr. Steven Gundry Celebrates National Extra Virgin Olive Oil Day with a Shot of Gundry MD Polyphenol-Rich Olive Oil",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/olive-oil-shot-pioneer-dr-steven-gundry-celebrates-national-extra-virgin-olive-oil-day-with-a-shot-of-gundry-md-polyphenol-rich-olive-oil-302893441.html",
-        "published": "2026-09-29T20:25:00Z",
+        "title": "Europe’s Gas Crisis Deepens as Hormuz LNG Crunch Drives Prices Higher",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Europes-Gas-Crisis-Deepens-as-Hormuz-LNG-Crunch-Drives-Prices-Higher.html",
+        "published": "2026-09-29T23:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Slides on Saudi Supply Relief",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_slides_on_saudi_supply_relief-29-sep-2026-184732-article/",
-        "published": "2026-09-29T20:05:51Z",
-        "sentiment": "neutral"
+        "title": "Trump is proving that Iran CAN’T control the global oil supply - a win for the world",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4397344/posts",
+        "published": "2026-09-29T22:45:09Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
