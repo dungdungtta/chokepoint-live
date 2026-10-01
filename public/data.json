@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-01T07:41:42.246Z",
+    "generated_at": "2026-10-01T14:47:56.884Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Britain is heading for second energy crisis, industry boss warns with household bills set to soar by £276 in January",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16171623/Britain-second-energy-crisis-EDF-household-bills-electricity-gas.html",
-        "published": "2026-09-30T07:38:24Z",
-        "sentiment": "danger"
+        "title": "Abu Dhabi’s crown prince is spending billions to bypass Iran’s grip on Hormuz",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/commodities/energy/abu-dhabis-crown-prince-spending-billions-bypass-irans-grip-hormuz",
+        "published": "2026-09-30T14:19:28Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Ugly Stik Carbon Ice 28\" Spinning Rod & Reel Combo for $16 + free shipping w/ Prime",
+        "title": "Joico Color Balance Purple Shampoo for $31 w/ Sub & Save + free shipping",
         "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Ugly-Stik-Carbon-Ice-28-Spinning-Rod-Reel-Combo-for-16-free-shipping-w-Prime/22229438.html",
-        "published": "2026-09-30T07:31:56Z",
+        "url": "https://www.dealnews.com/Joico-Color-Balance-Purple-Shampoo-for-31-w-Sub-Save-free-shipping/22229584.html",
+        "published": "2026-09-30T13:51:27Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump weighs diesel export ban as US fuel crisis deepens",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/europe/2026/09/30/trump-weighs-diesel-export-ban-as-us-fuel-crisis-deepens/",
-        "published": "2026-09-30T06:28:57Z",
+        "title": "Current price of oil as of Sept. 30, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-09-30-2026/",
+        "published": "2026-09-30T13:45:29Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iranians face soaring prices for medicine as the US blockade and sanctions hit hard",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/iranians-face-soaring-prices-medicine-us-blockade-sanctions-136878849",
-        "published": "2026-09-30T05:44:05Z",
-        "sentiment": "danger"
+        "title": "Checklists for Your PCS Move",
+        "source": "Military.com",
+        "url": "https://military.com/pcs/pcs-checklists.html",
+        "published": "2026-09-30T13:41:55Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Iranians face soaring medicine prices as US blockade, sanctions hit hard",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/iranians-face-soaring-medicine-prices-as-us-blockade-sanctions-hit-hard-126093000220_1.html",
-        "published": "2026-09-30T05:03:24Z",
-        "sentiment": "danger"
+        "title": "OPEC+ Expected to Keep Oil Production Quotas Unchanged",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Expected-to-Keep-Oil-Production-Quotas-Unchanged.html",
+        "published": "2026-09-30T13:30:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Nancy Pelosi Championed a Hong Kong Dissident. She May Have Doomed Him.",
+        "source": "Reason",
+        "url": "https://reason.com/2026/09/30/nancy-pelosi-championed-a-hong-kong-dissident-she-may-have-doomed-him/",
+        "published": "2026-09-30T10:00:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China-nexus UAT-11587 targets government and policy organizations across Asia with Antino backdoor",
+        "source": "Talosintelligence.com",
+        "url": "https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/",
+        "published": "2026-09-30T10:00:01Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Real winner of Xi summit revealed as Trump looks to usher in new era with China",
         "source": "Fox News",
@@ -82,20 +96,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/09/trump-doesnt-need-to-be-a-prop-in-xis-political-show/",
         "published": "2026-09-28T17:15:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Team Scrambles After Embarrassing Slip About Arms Sale to China",
-        "source": "The New Republic",
-        "url": "https://newrepublic.com/post/215907/donald-trump-team-scrambles-arms-sale-china",
-        "published": "2026-09-28T14:28:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Brazil Has No Answers for Its China Problem",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/28/brazil-election-president-lula-bolsonaro-china-america/",
-        "published": "2026-09-28T14:25:17Z",
         "sentiment": "watch"
       }
     ],
