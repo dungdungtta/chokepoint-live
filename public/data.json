@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-01T01:27:03.927Z",
+    "generated_at": "2026-10-01T07:41:42.246Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Carney announces $1.2B in funding to protect oceans as major projects loom",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/canada/british-columbia/carney-announces-ocean-protection-9.7363548",
-        "published": "2026-09-30T01:19:51Z",
+        "title": "Britain is heading for second energy crisis, industry boss warns with household bills set to soar by £276 in January",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16171623/Britain-second-energy-crisis-EDF-household-bills-electricity-gas.html",
+        "published": "2026-09-30T07:38:24Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Ugly Stik Carbon Ice 28\" Spinning Rod & Reel Combo for $16 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Ugly-Stik-Carbon-Ice-28-Spinning-Rod-Reel-Combo-for-16-free-shipping-w-Prime/22229438.html",
+        "published": "2026-09-30T07:31:56Z",
         "sentiment": "watch"
       },
       {
-        "title": "Carney announces $1.2 billion for oceans ahead of expected pipeline decision",
-        "source": "National Observer",
-        "url": "https://www.nationalobserver.com/2026/09/29/news/carney-announces-12-billion-oceans-ahead-expected-pipeline-decision",
-        "published": "2026-09-30T00:35:03Z",
+        "title": "Trump weighs diesel export ban as US fuel crisis deepens",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/europe/2026/09/30/trump-weighs-diesel-export-ban-as-us-fuel-crisis-deepens/",
+        "published": "2026-09-30T06:28:57Z",
         "sentiment": "watch"
       },
       {
-        "title": "MbS Should Have Learned From Grandfather Abdulaziz That Intrigue Is Not A Game For Amateurs",
-        "source": "ThePrint",
-        "url": "https://theprint.in/opinion/security-code/mbs-grandfather-abdulaziz-saudi-arabia-yemen/3057644/",
-        "published": "2026-09-30T00:00:00Z",
-        "sentiment": "watch"
+        "title": "Iranians face soaring prices for medicine as the US blockade and sanctions hit hard",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/iranians-face-soaring-prices-medicine-us-blockade-sanctions-136878849",
+        "published": "2026-09-30T05:44:05Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Europe’s Gas Crisis Deepens as Hormuz LNG Crunch Drives Prices Higher",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Europes-Gas-Crisis-Deepens-as-Hormuz-LNG-Crunch-Drives-Prices-Higher.html",
-        "published": "2026-09-29T23:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump is proving that Iran CAN’T control the global oil supply - a win for the world",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4397344/posts",
-        "published": "2026-09-29T22:45:09Z",
-        "sentiment": "watch"
+        "title": "Iranians face soaring medicine prices as US blockade, sanctions hit hard",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/iranians-face-soaring-medicine-prices-as-us-blockade-sanctions-hit-hard-126093000220_1.html",
+        "published": "2026-09-30T05:03:24Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
