@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-01T14:47:56.884Z",
+    "generated_at": "2026-10-01T20:17:15.832Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Abu Dhabi’s crown prince is spending billions to bypass Iran’s grip on Hormuz",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/commodities/energy/abu-dhabis-crown-prince-spending-billions-bypass-irans-grip-hormuz",
-        "published": "2026-09-30T14:19:28Z",
+        "title": "Why diesel prices are an economic time bomb",
+        "source": "Vox",
+        "url": "https://www.vox.com/podcasts/504562/diesel-prices-iran-war-crude-oil-farmers-groceries",
+        "published": "2026-09-30T19:55:47Z",
         "sentiment": "watch"
       },
       {
-        "title": "Joico Color Balance Purple Shampoo for $31 w/ Sub & Save + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Joico-Color-Balance-Purple-Shampoo-for-31-w-Sub-Save-free-shipping/22229584.html",
-        "published": "2026-09-30T13:51:27Z",
+        "title": "Medication prices skyrocket in Iran as US blockade, sanctions hit hard",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/30/world-news/medication-prices-skyrocket-in-iran-as-us-blockade-sanctions-hit-hard/",
+        "published": "2026-09-30T19:15:39Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The Case for Trump’s Global Strategy",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/30/mike-waltz-trump-global-strategy-iran-sudan-venezuela-china-policy-international-law-united-nations/",
+        "published": "2026-09-30T18:47:10Z",
         "sentiment": "watch"
       },
       {
-        "title": "Current price of oil as of Sept. 30, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-09-30-2026/",
-        "published": "2026-09-30T13:45:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Checklists for Your PCS Move",
-        "source": "Military.com",
-        "url": "https://military.com/pcs/pcs-checklists.html",
-        "published": "2026-09-30T13:41:55Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "OPEC+ Expected to Keep Oil Production Quotas Unchanged",
+        "title": "The World’s Diesel Problem Runs Deeper Than the Iran War",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Expected-to-Keep-Oil-Production-Quotas-Unchanged.html",
-        "published": "2026-09-30T13:30:00Z",
+        "url": "https://oilprice.com/Energy/Energy-General/The-Worlds-Diesel-Problem-Runs-Deeper-Than-the-Iran-War.html",
+        "published": "2026-09-30T18:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "U.S. Oil and Gas Production Climbs Despite Extreme Oil Price Volatility",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-and-Gas-Production-Climbs-Despite-Extreme-Oil-Price-Volatility.html",
+        "published": "2026-09-30T17:31:07Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Case for Trump’s Global Strategy",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/09/30/mike-waltz-trump-global-strategy-iran-sudan-venezuela-china-policy-international-law-united-nations/",
+        "published": "2026-09-30T18:47:10Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Nancy Pelosi Championed a Hong Kong Dissident. She May Have Doomed Him.",
         "source": "Reason",
@@ -89,13 +96,6 @@
         "source": "Naturalnews.com",
         "url": "https://www.naturalnews.com/2026-09-29-trump-pitched-us-weapons-to-xi-jinping.html",
         "published": "2026-09-29T06:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Doesn’t Need to Be a Prop in Xi’s Political Show",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/09/trump-doesnt-need-to-be-a-prop-in-xis-political-show/",
-        "published": "2026-09-28T17:15:00Z",
         "sentiment": "watch"
       }
     ],
