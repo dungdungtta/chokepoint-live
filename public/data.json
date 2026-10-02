@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-01T20:17:15.832Z",
+    "generated_at": "2026-10-02T00:05:36.682Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Why diesel prices are an economic time bomb",
-        "source": "Vox",
-        "url": "https://www.vox.com/podcasts/504562/diesel-prices-iran-war-crude-oil-farmers-groceries",
-        "published": "2026-09-30T19:55:47Z",
+        "title": "933-Mile 1994 Honda RVF750R RC45",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1994-honda-rvf750r-rc45/",
+        "published": "2026-09-30T23:40:15Z",
         "sentiment": "watch"
       },
       {
-        "title": "Medication prices skyrocket in Iran as US blockade, sanctions hit hard",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/30/world-news/medication-prices-skyrocket-in-iran-as-us-blockade-sanctions-hit-hard/",
-        "published": "2026-09-30T19:15:39Z",
+        "title": "Oil prices slip below $100 as Iran talks advance",
+        "source": "The Punch",
+        "url": "https://punchng.com/oil-prices-slip-below-100-as-iran-talks-advance/",
+        "published": "2026-09-30T23:24:36Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "MAG: Beware of billionaires touting the apocalypse...",
+        "source": "Substack.com",
+        "url": "https://thespectator.substack.com/p/beware-of-billionaires-touting-the",
+        "published": "2026-09-30T22:00:13Z",
         "sentiment": "danger"
       },
       {
-        "title": "The Case for Trump’s Global Strategy",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/30/mike-waltz-trump-global-strategy-iran-sudan-venezuela-china-policy-international-law-united-nations/",
-        "published": "2026-09-30T18:47:10Z",
+        "title": "The West tried to rein in Russian oil. What went wrong?",
+        "source": "RT",
+        "url": "https://www.rt.com/business/646486-western-sanctions-russian-oil/",
+        "published": "2026-09-30T21:33:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "The World’s Diesel Problem Runs Deeper Than the Iran War",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/The-Worlds-Diesel-Problem-Runs-Deeper-Than-the-Iran-War.html",
-        "published": "2026-09-30T18:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S. Oil and Gas Production Climbs Despite Extreme Oil Price Volatility",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-and-Gas-Production-Climbs-Despite-Extreme-Oil-Price-Volatility.html",
-        "published": "2026-09-30T17:31:07Z",
+        "title": "From CAD Model to Steel Frame: How Engineers Are Designing Modular Process Skids in 3D",
+        "source": "Solidsmack.com",
+        "url": "https://www.solidsmack.com/3d-cad-technology/from-cad-model-to-steel-frame-how-engineers-are-designing-modular-process-skids-in-3d/",
+        "published": "2026-09-30T21:01:31Z",
         "sentiment": "watch"
       }
     ],
