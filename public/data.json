@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-02T16:47:08.621Z",
+    "generated_at": "2026-10-02T21:15:14.341Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Crude oil exports from strait of Hormuz largely return to pre-war levels",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/84030fad6419212a",
-        "published": "2026-10-01T16:34:48Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "FEDS Note: Pricing Sentiment: Measuring Input Cost Pressure from ISM Survey Responses",
-        "source": "Federalreserve.gov",
-        "url": "https://www.federalreserve.gov/econres/notes/feds-notes/pricing-sentiment-measuring-input-cost-pressure-from-ism-survey-responses-20261001.html",
-        "published": "2026-10-01T16:15:00Z",
+        "title": "Venezuela’s Oil Exports Drop 9% as Freight Costs Bite",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Exports-Drop-9-as-Freight-Costs-Bite.html",
+        "published": "2026-10-01T21:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Boluda Shipping Selects Pulse Mobile from TMEIC to Drive New Generation of Connected Port Operations",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/boluda-shipping-selects-pulse-mobile-from-tmeic-to-drive-new-generation-of-connected-port-operations-302896264.html",
-        "published": "2026-10-01T16:12:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Crude oil exports from strait of Hormuz largely return to pre-war levels",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/6f5792d4fe15dd03",
-        "published": "2026-10-01T16:02:46Z",
+        "title": "‘They’ll be hit very hard’: Trump sends roughly 9,000 troops and a third aircraft carrier to the Middle East after warning strikes on Iran",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/10/01/trump-9000-troops-third-aircraft-carrier-middle-east-iran-strike/",
+        "published": "2026-10-01T20:53:55Z",
         "sentiment": "danger"
       },
       {
-        "title": "China just gave the energy market another reason to stress",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/china-oil-prices-gas-diesel-jet-fuel-global-energy-markets-2026-10#article",
-        "published": "2026-10-01T16:02:16Z",
+        "title": "Europe’s winter energy crunch may already be underway. Two U.S. stocks that may benefit",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/01/europes-winter-energy-crunch-may-already-be-underway-two-us-stocks-that-may-benefit.html",
+        "published": "2026-10-01T20:41:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "India Oil Refiners Shift Tactics",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/india_oil_refiners_shift_tactics-01-oct-2026-184750-article/",
+        "published": "2026-10-01T20:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Middle East Oil Exports Stage a Remarkable Comeback",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Middle-East-Oil-Exports-Stage-a-Remarkable-Comeback.html",
+        "published": "2026-10-01T19:00:00Z",
         "sentiment": "watch"
       }
     ],
