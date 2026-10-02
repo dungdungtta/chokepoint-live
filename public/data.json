@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-02T05:44:27.222Z",
+    "generated_at": "2026-10-02T11:23:12.833Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,63 @@
   "news": {
     "hormuz": [
       {
-        "title": "Saudi crown prince says Mecca pact aims to strengthen security",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/saudi-crown-prince-says-mecca-pact-aims-to-strengthen-security-227571",
-        "published": "2026-10-01T05:39:31Z",
+        "title": "Albertans could save cash at the pumps as gas tax holiday begins today",
+        "source": "National Observer",
+        "url": "https://www.nationalobserver.com/2026/10/01/news/albertans-could-save-cash-pumps-gas-tax-holiday-begins-today",
+        "published": "2026-10-01T10:56:10Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran indicates it has received official response to latest ceasefire offer",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/iran-indicates-it-has-received-official-response-to-latest-ceasefire-offer/article71531238.ece",
-        "published": "2026-10-01T05:32:34Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Mitsotakis’s measures, courtesy of Pierrakakis; arrogant ministers and “open secrets” at each other’s throats; Alexis on Mount Athos (bless us!); Rubio in Athens",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/10/01/mitsotakiss-measures-courtesy-of-pierrakakis-arrogant-ministers-and-open-secrets-at-each-others-throats-alexis-on-mount-athos-bless-us-rubio-in-athens/",
-        "published": "2026-10-01T05:23:11Z",
+        "title": "UK Sanctions Five LNG Carriers in New Russia Package",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/uk-sanctions-five-lng-carriers-in-new-russia-package/",
+        "published": "2026-10-01T10:30:25Z",
         "sentiment": "watch"
       },
       {
-        "title": "India oil refiners change tactics and hire ships to cross Hormuz",
+        "title": "Tanker Congestion Shunts Vital Oil Transfers Farther From Hormuz",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/tanker-congestion-shunts-vital-oil-transfers-farther-from-hormuz/",
+        "published": "2026-10-01T10:27:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "AI ‘godfather’ Yann LeCun: Anthropic CEO Dario Amodei is ‘deluded,’ ‘crazy,’ and doesn’t understand cybersecurity",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/10/01/yann-lecun-anthropic-ceo-dario-amodei-deluded-crazy-cybersecurity/",
+        "published": "2026-10-01T10:06:43Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "No global oil shortage, supply route disruptions driving crude prices, oil minister says",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-oil-refiners-change-tactics-and-hire-ships-to-cross-hormuz/articleshow/134609020.cms",
-        "published": "2026-10-01T05:20:24Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Brent Tumbles to $96 as Gulf Oil Flows Bounce Back",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Tumbles-to-96-as-Gulf-Oil-Flows-Bounce-Back.html",
-        "published": "2026-10-01T05:17:00Z",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/no-global-oil-shortage-supply-route-disruptions-driving-crude-prices-oil-minister-says/articleshow/134613231.cms",
+        "published": "2026-10-01T08:45:07Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Next Front",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/magazine/2026/11/baltic-defense-russia/688692/?utm_source=feed",
+        "published": "2026-10-01T11:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/10/01/world-news/us-sees-chinese-invasion-of-taiwan-unlikely-next-year-despite-2027-timeline/",
+        "published": "2026-10-01T08:10:54Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-sees-chinese-invasion-of-taiwan-unlikely-next-year-despite-2027-timeline-sources-say/articleshow/134608822.cms",
+        "published": "2026-10-01T05:46:59Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Case for Trump’s Global Strategy",
         "source": "Foreign Policy",
@@ -75,27 +96,6 @@
         "source": "Reason",
         "url": "https://reason.com/2026/09/30/nancy-pelosi-championed-a-hong-kong-dissident-she-may-have-doomed-him/",
         "published": "2026-09-30T10:00:44Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China-nexus UAT-11587 targets government and policy organizations across Asia with Antino backdoor",
-        "source": "Talosintelligence.com",
-        "url": "https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/",
-        "published": "2026-09-30T10:00:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Real winner of Xi summit revealed as Trump looks to usher in new era with China",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/real-winner-xi-summit-revealed-trump-looks-usher-new-era-china",
-        "published": "2026-09-29T11:00:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ambassador Reveals Trump Pitched U.S. Weapons to China’s Xi Jinping",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-09-29-trump-pitched-us-weapons-to-xi-jinping.html",
-        "published": "2026-09-29T06:00:00Z",
         "sentiment": "watch"
       }
     ],
