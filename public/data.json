@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-02T00:05:36.682Z",
+    "generated_at": "2026-10-02T05:44:27.222Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "933-Mile 1994 Honda RVF750R RC45",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1994-honda-rvf750r-rc45/",
-        "published": "2026-09-30T23:40:15Z",
+        "title": "Saudi crown prince says Mecca pact aims to strengthen security",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/saudi-crown-prince-says-mecca-pact-aims-to-strengthen-security-227571",
+        "published": "2026-10-01T05:39:31Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil prices slip below $100 as Iran talks advance",
-        "source": "The Punch",
-        "url": "https://punchng.com/oil-prices-slip-below-100-as-iran-talks-advance/",
-        "published": "2026-09-30T23:24:36Z",
+        "title": "Iran indicates it has received official response to latest ceasefire offer",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/iran-indicates-it-has-received-official-response-to-latest-ceasefire-offer/article71531238.ece",
+        "published": "2026-10-01T05:32:34Z",
         "sentiment": "neutral"
       },
       {
-        "title": "MAG: Beware of billionaires touting the apocalypse...",
-        "source": "Substack.com",
-        "url": "https://thespectator.substack.com/p/beware-of-billionaires-touting-the",
-        "published": "2026-09-30T22:00:13Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The West tried to rein in Russian oil. What went wrong?",
-        "source": "RT",
-        "url": "https://www.rt.com/business/646486-western-sanctions-russian-oil/",
-        "published": "2026-09-30T21:33:18Z",
+        "title": "Mitsotakis’s measures, courtesy of Pierrakakis; arrogant ministers and “open secrets” at each other’s throats; Alexis on Mount Athos (bless us!); Rubio in Athens",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/10/01/mitsotakiss-measures-courtesy-of-pierrakakis-arrogant-ministers-and-open-secrets-at-each-others-throats-alexis-on-mount-athos-bless-us-rubio-in-athens/",
+        "published": "2026-10-01T05:23:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "From CAD Model to Steel Frame: How Engineers Are Designing Modular Process Skids in 3D",
-        "source": "Solidsmack.com",
-        "url": "https://www.solidsmack.com/3d-cad-technology/from-cad-model-to-steel-frame-how-engineers-are-designing-modular-process-skids-in-3d/",
-        "published": "2026-09-30T21:01:31Z",
+        "title": "India oil refiners change tactics and hire ships to cross Hormuz",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-oil-refiners-change-tactics-and-hire-ships-to-cross-hormuz/articleshow/134609020.cms",
+        "published": "2026-10-01T05:20:24Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Brent Tumbles to $96 as Gulf Oil Flows Bounce Back",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Tumbles-to-96-as-Gulf-Oil-Flows-Bounce-Back.html",
+        "published": "2026-10-01T05:17:00Z",
         "sentiment": "watch"
       }
     ],
