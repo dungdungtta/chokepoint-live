@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-02T11:23:12.833Z",
+    "generated_at": "2026-10-02T16:47:08.621Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Albertans could save cash at the pumps as gas tax holiday begins today",
-        "source": "National Observer",
-        "url": "https://www.nationalobserver.com/2026/10/01/news/albertans-could-save-cash-pumps-gas-tax-holiday-begins-today",
-        "published": "2026-10-01T10:56:10Z",
+        "title": "Crude oil exports from strait of Hormuz largely return to pre-war levels",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/84030fad6419212a",
+        "published": "2026-10-01T16:34:48Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "FEDS Note: Pricing Sentiment: Measuring Input Cost Pressure from ISM Survey Responses",
+        "source": "Federalreserve.gov",
+        "url": "https://www.federalreserve.gov/econres/notes/feds-notes/pricing-sentiment-measuring-input-cost-pressure-from-ism-survey-responses-20261001.html",
+        "published": "2026-10-01T16:15:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "UK Sanctions Five LNG Carriers in New Russia Package",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/uk-sanctions-five-lng-carriers-in-new-russia-package/",
-        "published": "2026-10-01T10:30:25Z",
+        "title": "Boluda Shipping Selects Pulse Mobile from TMEIC to Drive New Generation of Connected Port Operations",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/boluda-shipping-selects-pulse-mobile-from-tmeic-to-drive-new-generation-of-connected-port-operations-302896264.html",
+        "published": "2026-10-01T16:12:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Tanker Congestion Shunts Vital Oil Transfers Farther From Hormuz",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/tanker-congestion-shunts-vital-oil-transfers-farther-from-hormuz/",
-        "published": "2026-10-01T10:27:39Z",
-        "sentiment": "watch"
+        "title": "Crude oil exports from strait of Hormuz largely return to pre-war levels",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/6f5792d4fe15dd03",
+        "published": "2026-10-01T16:02:46Z",
+        "sentiment": "danger"
       },
       {
-        "title": "AI ‘godfather’ Yann LeCun: Anthropic CEO Dario Amodei is ‘deluded,’ ‘crazy,’ and doesn’t understand cybersecurity",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/10/01/yann-lecun-anthropic-ceo-dario-amodei-deluded-crazy-cybersecurity/",
-        "published": "2026-10-01T10:06:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "No global oil shortage, supply route disruptions driving crude prices, oil minister says",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/no-global-oil-shortage-supply-route-disruptions-driving-crude-prices-oil-minister-says/articleshow/134613231.cms",
-        "published": "2026-10-01T08:45:07Z",
+        "title": "China just gave the energy market another reason to stress",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/china-oil-prices-gas-diesel-jet-fuel-global-energy-markets-2026-10#article",
+        "published": "2026-10-01T16:02:16Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Xi calls for firm confidence, solid steps for China’s national rejuvenation",
+        "source": "Peoplesreview.com.np",
+        "url": "https://peoplesreview.com.np/2026/10/01/xi-calls-for-firm-confidence-solid-steps-for-chinas-national-rejuvenation/",
+        "published": "2026-10-01T13:11:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran War Highlights 2 Challenges for Japan in a Taiwan Contingency",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/10/iran-war-highlights-2-challenges-for-japan-in-a-taiwan-contingency/",
+        "published": "2026-10-01T12:54:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "The Next Front",
         "source": "The Atlantic",
@@ -82,20 +96,6 @@
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/defence/us-sees-chinese-invasion-of-taiwan-unlikely-next-year-despite-2027-timeline-sources-say/articleshow/134608822.cms",
         "published": "2026-10-01T05:46:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Case for Trump’s Global Strategy",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/09/30/mike-waltz-trump-global-strategy-iran-sudan-venezuela-china-policy-international-law-united-nations/",
-        "published": "2026-09-30T18:47:10Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Nancy Pelosi Championed a Hong Kong Dissident. She May Have Doomed Him.",
-        "source": "Reason",
-        "url": "https://reason.com/2026/09/30/nancy-pelosi-championed-a-hong-kong-dissident-she-may-have-doomed-him/",
-        "published": "2026-09-30T10:00:44Z",
         "sentiment": "watch"
       }
     ],
@@ -118,7 +118,7 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "yellow",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
