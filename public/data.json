@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-03T15:14:49.708Z",
+    "generated_at": "2026-10-03T18:43:33.890Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "LNG Shipments Through Hormuz Hit Highest Level Since Iran War Began",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/LNG-Shipments-Through-Hormuz-Hit-Highest-Level-Since-Iran-War-Began.html",
-        "published": "2026-10-02T15:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Europe to release huge share of its diesel reserves, says Trump, as G7 puts 100 million barrels on the market",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/10/02/europe-to-release-huge-share-of-its-diesel-reserves-says-trump-as-g7-puts-100-million-barrels-on-the-market/",
-        "published": "2026-10-02T14:53:29Z",
+        "title": "Gunvor becomes Centalion",
+        "source": "Smartbusinesnews.com",
+        "url": "https://smartbusinesnews.com/business/gunvor-becomes-centalion/",
+        "published": "2026-10-02T18:38:37Z",
         "sentiment": "watch"
       },
       {
-        "title": "WTI Whipsaws as Gulf Supply Improves and Middle East Risk Returns",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/WTI-Whipsaws-as-Gulf-Supply-Improves-and-Middle-East-Risk-Returns.html",
-        "published": "2026-10-02T14:45:00Z",
+        "title": "[Prime, SnS, AC] $16.91* | 2-Pack 32.1-Oz Head & Shoulders Shampoo (Dry Scalp Care w/ Almond Oil) at Amazon ($8.46 each)",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20089599-prime-sns-ac-16-91-2-pack-32-1-oz-head-shoulders-shampoo-dry-scalp-care-w-almond-oil-at-amazon-8-46-each",
+        "published": "2026-10-02T17:47:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "U.S. Exit Leaves Iraq With a Militia Problem",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/US-Exit-Leaves-Iraq-With-a-Militia-Problem.html",
-        "published": "2026-10-02T14:45:00Z",
+        "title": "Saudis Plan Assault on Houthis to Break Red Sea Chokehold",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/saudis-plan-assault-on-houthis-to-break-red-sea-chokehold/",
+        "published": "2026-10-02T17:07:10Z",
         "sentiment": "watch"
       },
       {
-        "title": "GM Performance Parts Chevrolet ZZ632/1000 Crate Engine",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/engine-366/",
-        "published": "2026-10-02T14:40:12Z",
+        "title": "President Trump Was Right, and the Media Are Doing an About-Face on the Strait of Hormuz",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4397700/posts",
+        "published": "2026-10-02T16:46:23Z",
         "sentiment": "watch"
       }
     ],
