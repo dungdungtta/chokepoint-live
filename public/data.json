@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-03T11:30:30.633Z",
+    "generated_at": "2026-10-03T15:14:49.708Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "3rd aircraft carrier heads to Mideast as US weighs new Iran strikes",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/3rd-aircraft-carrier-heads-to-mideast-as-us-weighs-new-iran-strikes-227635",
-        "published": "2026-10-02T11:28:32Z",
+        "title": "LNG Shipments Through Hormuz Hit Highest Level Since Iran War Began",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/LNG-Shipments-Through-Hormuz-Hit-Highest-Level-Since-Iran-War-Began.html",
+        "published": "2026-10-02T15:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "$13.49* | 13.52-Oz La Roche-Posay Lipikar AP+ Gentle Foaming Cleansing Oil Refill Pack at Amazon",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20087763-13-49-13-52-oz-la-roche-posay-lipikar-ap-gentle-foaming-cleansing-oil-refill-pack-at-amazon",
-        "published": "2026-10-02T11:07:03Z",
+        "title": "Europe to release huge share of its diesel reserves, says Trump, as G7 puts 100 million barrels on the market",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/10/02/europe-to-release-huge-share-of-its-diesel-reserves-says-trump-as-g7-puts-100-million-barrels-on-the-market/",
+        "published": "2026-10-02T14:53:29Z",
         "sentiment": "watch"
       },
       {
-        "title": "Russian aerial strikes snarl traffic on 3 Kyiv bridges in a new disruption tactic",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/russian-aerial-strikes-snarl-traffic-3-kyiv-bridges-136944164",
-        "published": "2026-10-02T11:06:01Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "UK diesel price hits £2 a litre for first time, RAC says",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo",
-        "published": "2026-10-02T10:11:14Z",
+        "title": "WTI Whipsaws as Gulf Supply Improves and Middle East Risk Returns",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/WTI-Whipsaws-as-Gulf-Supply-Improves-and-Middle-East-Risk-Returns.html",
+        "published": "2026-10-02T14:45:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran War: Narratives Continue to Diverge Under ‘President of Peace’ Trump",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/10/iran-war-narratives-president-of-peace-trump-netanyahu-missiles.html",
-        "published": "2026-10-02T10:01:45Z",
-        "sentiment": "danger"
+        "title": "U.S. Exit Leaves Iraq With a Militia Problem",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/US-Exit-Leaves-Iraq-With-a-Militia-Problem.html",
+        "published": "2026-10-02T14:45:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "GM Performance Parts Chevrolet ZZ632/1000 Crate Engine",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/engine-366/",
+        "published": "2026-10-02T14:40:12Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan’s New F-16s: Why They Still Matter",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/10/taiwans-new-f-16s-why-they-still-matter/",
+        "published": "2026-10-02T13:10:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Chances of Chinese Attack on Taiwan in the Near Term Seem to Be Diminishing",
         "source": "Freerepublic.com",
@@ -90,13 +97,6 @@
         "url": "https://thediplomat.com/2026/10/iran-war-highlights-2-challenges-for-japan-in-a-taiwan-contingency/",
         "published": "2026-10-01T12:54:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "The Next Front",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/magazine/2026/11/baltic-defense-russia/688692/?utm_source=feed",
-        "published": "2026-10-01T11:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
