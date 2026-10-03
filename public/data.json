@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-03T05:48:11.607Z",
+    "generated_at": "2026-10-03T11:30:30.633Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "India needs integrated energy storage policy to build resilience against geopolitical shocks: S&P Global",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/power/india-needs-integrated-energy-storage-policy-to-build-resilience-against-geopolitical-shocks-sp-global/articleshow/134631883.cms",
-        "published": "2026-10-02T04:35:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Annual Fundraiser for Informed Comment under Shadow of Iran War",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/10/fundraiser-informed-comment.html",
-        "published": "2026-10-02T04:13:44Z",
+        "title": "3rd aircraft carrier heads to Mideast as US weighs new Iran strikes",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/3rd-aircraft-carrier-heads-to-mideast-as-us-weighs-new-iran-strikes-227635",
+        "published": "2026-10-02T11:28:32Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump weighs fresh Iran strikes as US sends 9,000 more troops to Middle East",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-troop-buildup-in-middle-east-trump-considers-strikes-on-iran-amid-heightened-tensions/articleshow/134631488.cms",
-        "published": "2026-10-02T04:05:39Z",
+        "title": "$13.49* | 13.52-Oz La Roche-Posay Lipikar AP+ Gentle Foaming Cleansing Oil Refill Pack at Amazon",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20087763-13-49-13-52-oz-la-roche-posay-lipikar-ap-gentle-foaming-cleansing-oil-refill-pack-at-amazon",
+        "published": "2026-10-02T11:07:03Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Russian aerial strikes snarl traffic on 3 Kyiv bridges in a new disruption tactic",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/russian-aerial-strikes-snarl-traffic-3-kyiv-bridges-136944164",
+        "published": "2026-10-02T11:06:01Z",
         "sentiment": "danger"
       },
       {
-        "title": "Artificial Lack of Intelligence in Washington, D.C.",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/10/artificial-intelligence-washington.html",
-        "published": "2026-10-02T04:04:01Z",
+        "title": "UK diesel price hits £2 a litre for first time, RAC says",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo",
+        "published": "2026-10-02T10:11:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "Putin sees ‘very big potential’ in India ties, backs joint use of global trade corridors",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/india/putin-sees-very-big-potential-in-india-ties-backs-joint-use-of-global-trade-corridors/articleshow/134631286.cms",
-        "published": "2026-10-02T03:44:30Z",
-        "sentiment": "watch"
+        "title": "Iran War: Narratives Continue to Diverge Under ‘President of Peace’ Trump",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/10/iran-war-narratives-president-of-peace-trump-netanyahu-missiles.html",
+        "published": "2026-10-02T10:01:45Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
