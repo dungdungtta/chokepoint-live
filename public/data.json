@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-03T00:33:20.166Z",
+    "generated_at": "2026-10-03T05:48:11.607Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "West Africa: A new frontier for crystal meth production",
-        "source": "The Punch",
-        "url": "https://punchng.com/west-africa-a-new-frontier-for-crystal-meth-production/",
-        "published": "2026-10-02T00:23:34Z",
+        "title": "India needs integrated energy storage policy to build resilience against geopolitical shocks: S&P Global",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/power/india-needs-integrated-energy-storage-policy-to-build-resilience-against-geopolitical-shocks-sp-global/articleshow/134631883.cms",
+        "published": "2026-10-02T04:35:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "Why the War in Iran Is Likely to Heat Up Again",
-        "source": "The New Yorker",
-        "url": "https://www.newyorker.com/news/q-and-a/why-the-war-in-iran-is-likely-to-heat-up-again",
-        "published": "2026-10-02T00:16:05Z",
+        "title": "Annual Fundraiser for Informed Comment under Shadow of Iran War",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/10/fundraiser-informed-comment.html",
+        "published": "2026-10-02T04:13:44Z",
         "sentiment": "danger"
       },
       {
-        "title": "5 Energy ETFs That Have Soared in 2026",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/5-Energy-ETFs-That-Have-Soared-in-2026.html",
-        "published": "2026-10-02T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Report: Rubio Kicks Iran Diplomats Out After They 'Overstayed Their Welcome' in NYC",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/10/01/report-rubio-kicks-iran-diplomats-out-after-they-overstayed-their-welcome-in-nyc/",
-        "published": "2026-10-01T23:30:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Third Aircraft Carrier, Thousands Of Troops Head To Mideast As Trump Weighs New Iran Strikes",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/ap-us-iran-us_n_6abee0ade4b02a789b34e50f",
-        "published": "2026-10-01T22:44:48Z",
+        "title": "Trump weighs fresh Iran strikes as US sends 9,000 more troops to Middle East",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-troop-buildup-in-middle-east-trump-considers-strikes-on-iran-amid-heightened-tensions/articleshow/134631488.cms",
+        "published": "2026-10-02T04:05:39Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Artificial Lack of Intelligence in Washington, D.C.",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/10/artificial-intelligence-washington.html",
+        "published": "2026-10-02T04:04:01Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Putin sees ‘very big potential’ in India ties, backs joint use of global trade corridors",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/india/putin-sees-very-big-potential-in-india-ties-backs-joint-use-of-global-trade-corridors/articleshow/134631286.cms",
+        "published": "2026-10-02T03:44:30Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Chances of Chinese Attack on Taiwan in the Near Term Seem to Be Diminishing",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4397632/posts",
+        "published": "2026-10-02T04:19:01Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Russia’s Navy Shows Its Reach Around Japan’s Southwestern Islands",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/10/russias-navy-shows-its-reach-around-japans-southwestern-islands/",
+        "published": "2026-10-02T00:54:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Xi calls for firm confidence, solid steps for China’s national rejuvenation",
         "source": "Peoplesreview.com.np",
@@ -82,20 +96,6 @@
         "source": "The Atlantic",
         "url": "https://www.theatlantic.com/magazine/2026/11/baltic-defense-russia/688692/?utm_source=feed",
         "published": "2026-10-01T11:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/10/01/world-news/us-sees-chinese-invasion-of-taiwan-unlikely-next-year-despite-2027-timeline/",
-        "published": "2026-10-01T08:10:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/us-sees-chinese-invasion-of-taiwan-unlikely-next-year-despite-2027-timeline-sources-say/articleshow/134608822.cms",
-        "published": "2026-10-01T05:46:59Z",
         "sentiment": "watch"
       }
     ],
