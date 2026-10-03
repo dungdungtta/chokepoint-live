@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-02T21:15:14.341Z",
+    "generated_at": "2026-10-03T00:33:20.166Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Venezuela’s Oil Exports Drop 9% as Freight Costs Bite",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Exports-Drop-9-as-Freight-Costs-Bite.html",
-        "published": "2026-10-01T21:00:00Z",
+        "title": "West Africa: A new frontier for crystal meth production",
+        "source": "The Punch",
+        "url": "https://punchng.com/west-africa-a-new-frontier-for-crystal-meth-production/",
+        "published": "2026-10-02T00:23:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "‘They’ll be hit very hard’: Trump sends roughly 9,000 troops and a third aircraft carrier to the Middle East after warning strikes on Iran",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/10/01/trump-9000-troops-third-aircraft-carrier-middle-east-iran-strike/",
-        "published": "2026-10-01T20:53:55Z",
+        "title": "Why the War in Iran Is Likely to Heat Up Again",
+        "source": "The New Yorker",
+        "url": "https://www.newyorker.com/news/q-and-a/why-the-war-in-iran-is-likely-to-heat-up-again",
+        "published": "2026-10-02T00:16:05Z",
         "sentiment": "danger"
       },
       {
-        "title": "Europe’s winter energy crunch may already be underway. Two U.S. stocks that may benefit",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/01/europes-winter-energy-crunch-may-already-be-underway-two-us-stocks-that-may-benefit.html",
-        "published": "2026-10-01T20:41:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "India Oil Refiners Shift Tactics",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/india_oil_refiners_shift_tactics-01-oct-2026-184750-article/",
-        "published": "2026-10-01T20:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Middle East Oil Exports Stage a Remarkable Comeback",
+        "title": "5 Energy ETFs That Have Soared in 2026",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Middle-East-Oil-Exports-Stage-a-Remarkable-Comeback.html",
-        "published": "2026-10-01T19:00:00Z",
+        "url": "https://oilprice.com/Energy/Energy-General/5-Energy-ETFs-That-Have-Soared-in-2026.html",
+        "published": "2026-10-02T00:00:00Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Report: Rubio Kicks Iran Diplomats Out After They 'Overstayed Their Welcome' in NYC",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/10/01/report-rubio-kicks-iran-diplomats-out-after-they-overstayed-their-welcome-in-nyc/",
+        "published": "2026-10-01T23:30:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Third Aircraft Carrier, Thousands Of Troops Head To Mideast As Trump Weighs New Iran Strikes",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/ap-us-iran-us_n_6abee0ade4b02a789b34e50f",
+        "published": "2026-10-01T22:44:48Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
