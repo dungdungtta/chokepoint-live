@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-04T00:27:36.186Z",
+    "generated_at": "2026-10-04T06:15:33.062Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "1969 Chevrolet Camaro Z/28 RS 4-Speed at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1969-chevrolet-camaro-z-28-293-2/",
-        "published": "2026-10-02T23:05:03Z",
+        "title": "[Prime, SnS] $4.02 | 16-Oz 365 by Whole Foods Market Organic Canola Cooking Oil at Amazon",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20091570-prime-sns-4-02-16-oz-365-by-whole-foods-market-organic-canola-cooking-oil-at-amazon",
+        "published": "2026-10-03T06:11:54Z",
         "sentiment": "watch"
       },
       {
-        "title": "Hackers breached propulsion system of U.S.-bound oil tanker",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/cybersecurity/hackers-breached-oil-tanker-propulsion-system",
-        "published": "2026-10-02T20:40:27Z",
+        "title": "How is the EU dealing with energy price shocks?",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/analysis-and-comment/2026/1003/1593854-europe-energy-diesel/",
+        "published": "2026-10-03T06:00:02Z",
         "sentiment": "watch"
       },
       {
-        "title": "2006 Ducati Multistrada 1000S DS at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2006-ducati-multistrada-1000s-ds-7/",
-        "published": "2026-10-02T20:31:12Z",
+        "title": "Trump Calls on Americans to Endure High Fuel Prices as War on Iran Drags on",
+        "source": "Sputnikglobe.com",
+        "url": "https://sputnikglobe.com/20261003/trump-calls-on-americans-to-endure-high-fuel-prices-as-war-on-iran-drags-on-1124827742.html",
+        "published": "2026-10-03T04:42:22Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "wazn-experimental added to PyPI",
+        "source": "Pypi.org",
+        "url": "https://pypi.org/project/wazn-experimental/",
+        "published": "2026-10-03T04:27:38Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Falls as G7 Taps Emergency Supplies",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_falls_as_g7_taps_emergency_supplies-02-oct-2026-184766-article/",
-        "published": "2026-10-02T20:10:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Canada PM Invokes New Powers to Fast-Track Oil Pipeline",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/canada_pm_invokes_new_powers_to_fasttrack_oil_pipeline-02-oct-2026-184763-article/",
-        "published": "2026-10-02T20:00:01Z",
+        "title": "Europe's Diesel Problem",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/articles/2026/10/europe-s-diesel-problem/",
+        "published": "2026-10-03T04:00:00Z",
         "sentiment": "watch"
       }
     ],
