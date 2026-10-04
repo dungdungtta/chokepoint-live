@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-04T20:22:19.590Z",
+    "generated_at": "2026-10-04T23:30:30.654Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "1965 Chevrolet Corvette Convertible L79 327/350 4-Speed at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1965-chevrolet-corvette-convertible-293/",
+        "published": "2026-10-03T23:09:07Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Houthis target Saudi oil facility as hostilities escalate in Yemen",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-10-04/houthi-saudi-yemen-iraq-middle-east-hostilities/107226524",
+        "published": "2026-10-03T22:40:11Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Zelenskyy Says Ukraine Will Respond As Putin Vows To Escalate Air Strikes, Warns Foreigners",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/putin-zelenskyy-kyiv-russia-ukraine-war-infrastructure/33869793.html",
+        "published": "2026-10-03T22:02:24Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "$3.99* | Purolator TL14610 PurolatorTECH Spin-On Oil Filter (Select Honda, Nissan, Acura) at Amazon",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20093643-3-99-purolator-tl14610-purolatortech-spin-on-oil-filter-select-honda-nissan-acura-at-amazon",
+        "published": "2026-10-03T21:52:08Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iran Is Losing Some of Its Leverage Over the Strait of Hormuz",
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Energy/Energy-General/Iran-Is-Losing-Some-of-Its-Leverage-Over-the-Strait-of-Hormuz.html",
         "published": "2026-10-03T19:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ex–Neil Peart 1965 Maserati Mistral 3500 Spyder",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1965-maserati-mistral-5/",
-        "published": "2026-10-03T18:45:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Electrification offers an off-ramp from fossil fuels, but there is a hook",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-10-04/iran-war-electrification-climate-goals/107213828",
-        "published": "2026-10-03T18:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Pura d'or Advanced Therapy Anti-Hair Thinning Shampoo & Conditioner Set $29.99 Free Shipping m outdo.com",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20093157-pura-d-or-advanced-therapy-anti-hair-thinning-shampoo-conditioner-set-29-99-free-shipping-m-outdo-com",
-        "published": "2026-10-03T18:02:37Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "India needs competitive capabilities, import diversification: PK Mishra",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/india/india-needs-competitive-capabilities-import-diversification-pk-mishra/articleshow/134664195.cms",
-        "published": "2026-10-03T17:56:59Z",
         "sentiment": "watch"
       }
     ],
