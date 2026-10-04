@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-04T12:47:18.100Z",
+    "generated_at": "2026-10-04T17:25:12.127Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
+        "title": "This 26% off cleansing oil is a ‘miracle worker’ at removing blackheads",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/10/03/shopping/this-bestselling-k-beauty-cleansing-oil-is-26-off-on-amazon/",
+        "published": "2026-10-03T15:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "India's answer to a risk-priced world is openness, not fragility: PK Mishra",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/economy/news/india-s-answer-to-a-risk-priced-world-is-openness-not-fragility-pk-mishra-126100300818_1.html",
+        "published": "2026-10-03T14:28:34Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Burning Oil… Burning Man… The Mad Max Matrix Plot Accelerates As World’s Energy Supply Go Up In Flames",
+        "source": "Activistpost.com",
+        "url": "https://activistpost.com/burning-oil-burning-man-the-mad-max-matrix-plot-accelerates-as-worlds-energy-supply-go-up-in-flames/",
+        "published": "2026-10-03T13:04:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Whales can’t hear each other in the noisy ocean. This inventor has a solution 200 years in the making.",
         "source": "Popular Science",
         "url": "https://www.popsci.com/environment/boat-propeller-whales-noise-pollution/",
         "published": "2026-10-03T12:01:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Getting Oil Through Hormuz Is a Risky Job",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/getting_oil_through_hormuz_is_a_risky_job-03-oct-2026-184762-article/",
-        "published": "2026-10-03T12:00:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Retail online chief says prices will have to go up if diesel continues to soar after breaking £2-a-litre barrier",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16180285/Retail-online-chief-prices-diesel-continues-soar.html",
-        "published": "2026-10-03T11:23:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Sanctions, tariffs turn into policy instruments, sometimes weaponised: P K Mishra",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/sanctions-tariffs-turn-into-policy-instruments-sometimes-weaponised-p-k-mishra/article71540085.ece",
-        "published": "2026-10-03T09:58:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Sanctions, tariffs turn into policy instruments, sometimes weaponised: P K Mishra",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/policy/sanctions-tariffs-turn-into-policy-instruments-sometimes-weaponised-p-k-mishra/articleshow/134654818.cms",
-        "published": "2026-10-03T08:00:19Z",
         "sentiment": "watch"
       }
     ],
