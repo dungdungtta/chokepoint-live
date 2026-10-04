@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-03T21:52:20.860Z",
+    "generated_at": "2026-10-04T00:27:36.186Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "1969 Chevrolet Camaro Z/28 RS 4-Speed at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1969-chevrolet-camaro-z-28-293-2/",
+        "published": "2026-10-02T23:05:03Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Hackers breached propulsion system of U.S.-bound oil tanker",
         "source": "Financial Post",
         "url": "https://financialpost.com/cybersecurity/hackers-breached-oil-tanker-propulsion-system",
@@ -52,13 +59,6 @@
         "source": "Rigzone",
         "url": "https://www.rigzone.com/news/wire/canada_pm_invokes_new_powers_to_fasttrack_oil_pipeline-02-oct-2026-184763-article/",
         "published": "2026-10-02T20:00:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Greece approves €6.6bn of private investment set to create 21,000 jobs",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/10/02/greece-approves-e6-6bn-of-private-investment-set-to-create-21000-jobs/",
-        "published": "2026-10-02T19:07:29Z",
         "sentiment": "watch"
       }
     ],
