@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-05T02:25:14.766Z",
+    "generated_at": "2026-10-05T09:32:40.552Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "23-Years-Owned 1957 Chrysler 300C Convertible",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1957-chrysler-300c-6/",
-        "published": "2026-10-03T23:50:05Z",
+        "title": "Iran vows to keep Strait of Hormuz closed until the US meets its demands as G7 approves emergency release of diesel and crude oil reserves amid global crisis",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16181721/Iran-vows-Strait-Hormuz-closed-US-meets-demands.html",
+        "published": "2026-10-04T08:32:06Z",
         "sentiment": "watch"
       },
       {
-        "title": "1965 Chevrolet Corvette Convertible L79 327/350 4-Speed at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1965-chevrolet-corvette-convertible-293/",
-        "published": "2026-10-03T23:09:07Z",
+        "title": "Iraq Says It Transported 2 Million Barrels of Crude Through Strait of Hormuz",
+        "source": "Aawsat.com",
+        "url": "https://english.aawsat.com/business/5325598-iraq-says-it-transported-2-million-barrels-crude-through-strait-hormuz",
+        "published": "2026-10-04T07:30:23Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthis target Saudi oil facility as hostilities escalate in Yemen",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-10-04/houthi-saudi-yemen-iraq-middle-east-hostilities/107226524",
-        "published": "2026-10-03T22:40:11Z",
+        "title": "Houthis claim strike on Saudi Aramco in Riyadh",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/houthis-claim-strike-on-saudi-aramco-in-riyadh-227668",
+        "published": "2026-10-04T05:37:47Z",
         "sentiment": "danger"
       },
       {
-        "title": "Zelenskyy Says Ukraine Will Respond As Putin Vows To Escalate Air Strikes, Warns Foreigners",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/putin-zelenskyy-kyiv-russia-ukraine-war-infrastructure/33869793.html",
-        "published": "2026-10-03T22:02:24Z",
+        "title": "The Iran War can only End if Israel and the US Stop trying to Strangle Iran",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/10/israel-trying-strangle.html",
+        "published": "2026-10-04T04:06:12Z",
         "sentiment": "danger"
       },
       {
-        "title": "$3.99* | Purolator TL14610 PurolatorTECH Spin-On Oil Filter (Select Honda, Nissan, Acura) at Amazon",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20093643-3-99-purolator-tl14610-purolatortech-spin-on-oil-filter-select-honda-nissan-acura-at-amazon",
-        "published": "2026-10-03T21:52:08Z",
+        "title": "Will Nifty, Sensex plunge for 9th straight week? TCS Q2, 4 factors to drive Dalal Street from Monday",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-plunge-for-9th-straight-week-tcs-q2-4-factors-to-drive-dalal-street-from-monday/articleshow/134669285.cms",
+        "published": "2026-10-04T03:44:26Z",
         "sentiment": "watch"
       }
     ],
