@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-04T23:30:30.654Z",
+    "generated_at": "2026-10-05T02:25:14.766Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "23-Years-Owned 1957 Chrysler 300C Convertible",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1957-chrysler-300c-6/",
+        "published": "2026-10-03T23:50:05Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "1965 Chevrolet Corvette Convertible L79 327/350 4-Speed at No Reserve",
         "source": "Bringatrailer.com",
         "url": "https://bringatrailer.com/listing/1965-chevrolet-corvette-convertible-293/",
@@ -52,13 +59,6 @@
         "source": "Slickdeals.net",
         "url": "https://slickdeals.net/f/20093643-3-99-purolator-tl14610-purolatortech-spin-on-oil-filter-select-honda-nissan-acura-at-amazon",
         "published": "2026-10-03T21:52:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran Is Losing Some of Its Leverage Over the Strait of Hormuz",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Iran-Is-Losing-Some-of-Its-Leverage-Over-the-Strait-of-Hormuz.html",
-        "published": "2026-10-03T19:00:00Z",
         "sentiment": "watch"
       }
     ],
