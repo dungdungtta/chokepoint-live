@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-05T09:32:40.552Z",
+    "generated_at": "2026-10-05T18:51:28.448Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran vows to keep Strait of Hormuz closed until the US meets its demands as G7 approves emergency release of diesel and crude oil reserves amid global crisis",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16181721/Iran-vows-Strait-Hormuz-closed-US-meets-demands.html",
-        "published": "2026-10-04T08:32:06Z",
+        "title": "Ethiopian Airlines’ new Boeing orders",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/logistics/ethiopian-airlines-new-boeing-orders/article71544819.ece",
+        "published": "2026-10-04T18:34:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iraq Says It Transported 2 Million Barrels of Crude Through Strait of Hormuz",
-        "source": "Aawsat.com",
-        "url": "https://english.aawsat.com/business/5325598-iraq-says-it-transported-2-million-barrels-crude-through-strait-hormuz",
-        "published": "2026-10-04T07:30:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Houthis claim strike on Saudi Aramco in Riyadh",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/houthis-claim-strike-on-saudi-aramco-in-riyadh-227668",
-        "published": "2026-10-04T05:37:47Z",
+        "title": "Oil Was Pouring Through the Strait of Hormuz Again. Then Attacks on Shipping Resurged",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/16f7ba0533ba7a6d",
+        "published": "2026-10-04T17:12:33Z",
         "sentiment": "danger"
       },
       {
-        "title": "The Iran War can only End if Israel and the US Stop trying to Strangle Iran",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/10/israel-trying-strangle.html",
-        "published": "2026-10-04T04:06:12Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Will Nifty, Sensex plunge for 9th straight week? TCS Q2, 4 factors to drive Dalal Street from Monday",
+        "title": "'Iran signed NPT, India did not...situation is very different': Jaishankar highlights distinctions, deepening global energy crises amid West Asia turmoil",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-plunge-for-9th-straight-week-tcs-q2-4-factors-to-drive-dalal-street-from-monday/articleshow/134669285.cms",
-        "published": "2026-10-04T03:44:26Z",
+        "url": "https://economictimes.indiatimes.com/news/india/iran-signed-npt-india-did-not-situation-is-very-different-jaishankar-highlights-distinctions-deepening-global-energy-crises-amid-west-asia-turmoil/articleshow/134678289.cms",
+        "published": "2026-10-04T17:04:08Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iraq Shifts Oil Strategy By Arranging Tanker To Move Past Hormuz",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/iraq-shifts-oil-strategy-by-arranging-tanker-to-move-past-hormuz/",
+        "published": "2026-10-04T16:47:33Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran reviewing US response to diplomatic proposal presented at UN: Kazem Gharibabadi",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/iran-reviewing-us-response-to-diplomatic-proposal-presented-at-un-kazem-gharibabadi/articleshow/134677905.cms",
+        "published": "2026-10-04T16:17:49Z",
         "sentiment": "watch"
       }
     ],
