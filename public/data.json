@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-06T00:43:35.814Z",
+    "generated_at": "2026-10-06T06:54:31.959Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "NNPC commits N473.8bn to major gas infrastructure",
-        "source": "The Punch",
-        "url": "https://punchng.com/nnpc-commits-n473-8bn-to-major-gas-infrastructure/",
-        "published": "2026-10-04T23:38:31Z",
+        "title": "Today in Germany: A roundup of the latest news on Monday",
+        "source": "The Local Germany",
+        "url": "https://www.thelocal.de/20261005/today-in-germany-a-roundup-of-the-latest-news-on-monday-141",
+        "published": "2026-10-05T06:36:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "Fewer babies, smaller market: How Singapore baby-care brands are adapting",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/singapore/baby-care-brand-hegen-tollyjoy-6409976",
-        "published": "2026-10-04T22:00:00Z",
+        "title": "India poised to fill fuel export gap as China suspends October shipments",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/india-poised-to-fill-fuel-export-gap-as-china-suspends-october-shipments/article71546098.ece",
+        "published": "2026-10-05T06:22:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "Editor Calls Out Beyoncé’s “Heavily Edited” Photos And Reveals The Detail That Gives Them Away",
-        "source": "Boredpanda.com",
-        "url": "https://www.boredpanda.com/editor-calls-out-beyonce-heavily-edited-photos/",
-        "published": "2026-10-04T21:03:14Z",
+        "title": "Elections from the beach, John Lennon’s spirit at the Maximos Mansion and “greenery” for everyone, Samaras’s anxiety over Kasidiaris and Karystianou",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/10/05/elections-from-the-beach-john-lennons-spirit-at-the-maximos-mansion-and-greenery-for-everyone-samarass-anxiety-over-kasidiaris-and-karystianou/",
+        "published": "2026-10-05T06:16:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "IEA says 325 million barrels of emergency oil has been released",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/c2bd0a388b4a26b6",
-        "published": "2026-10-04T20:57:51Z",
+        "title": "U.S. Deploys Patriots to Shield Saudi Oil and Qatari Gas Facilities",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-10-05-us-deploys-patriots-shield-saudi-oil-qatari-gas.html",
+        "published": "2026-10-05T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Persian Gulf oil flows return to prewar levels, but Iran could resort to a ‘scorched earth campaign’ as U.S. deploys more ships and Marines to Mideast",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/10/04/persian-gulf-oil-flows-prewar-levels-iran-scorched-earth-campaign-us-aircraft-carrier-marines/",
-        "published": "2026-10-04T20:03:10Z",
+        "title": "Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/middle-east-oil-exports-recover-to-pre-iran-war-levels-despite-hormuz-attacks/a-79542680",
+        "published": "2026-10-05T05:35:00Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan Isn’t the Flashpoint for War that Analysts Say It Is",
+        "source": "The American Conservative",
+        "url": "https://www.theamericanconservative.com/taiwan-isnt-the-flashpoint-for-war-that-analysts-say-it-is/",
+        "published": "2026-10-05T04:05:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Taiwan’s New F-16s: Why They Still Matter",
         "source": "The Diplomat",
@@ -83,20 +90,6 @@
         "url": "https://thediplomat.com/2026/10/russias-navy-shows-its-reach-around-japans-southwestern-islands/",
         "published": "2026-10-02T00:54:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Xi calls for firm confidence, solid steps for China’s national rejuvenation",
-        "source": "Peoplesreview.com.np",
-        "url": "https://peoplesreview.com.np/2026/10/01/xi-calls-for-firm-confidence-solid-steps-for-chinas-national-rejuvenation/",
-        "published": "2026-10-01T13:11:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran War Highlights 2 Challenges for Japan in a Taiwan Contingency",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/10/iran-war-highlights-2-challenges-for-japan-in-a-taiwan-contingency/",
-        "published": "2026-10-01T12:54:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
