@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-06T14:06:03.307Z",
+    "generated_at": "2026-10-06T19:34:44.889Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Services PMI® at 54.9%; September 2026 ISM® Services PMI® Report",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-9-september-2026-ism-services-pmi-report-302898421.html",
-        "published": "2026-10-05T14:00:00Z",
+        "title": "Indianapolis Colts’ Latest Trade Pitch Saves Colts From Forgotten Quarterback",
+        "source": "Heavy.com",
+        "url": "https://heavy.com/sports/nfl/indianapolis-colts/trade-pitch-saves-from-forgotten-quarterback/",
+        "published": "2026-10-05T19:34:04Z",
         "sentiment": "watch"
       },
       {
-        "title": "Lodge Pre-Seasoned Cast Iron 12\" Skillet for $29 w/ Prime + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Lodge-Pre-Seasoned-Cast-Iron-12-Skillet-for-29-w-Prime-free-shipping-w-Prime/22246434.html",
-        "published": "2026-10-05T13:46:25Z",
+        "title": "OpenSSH Ships on Every Mac, Linux Server and Windows. Its Creator Trusts No One",
+        "source": "Zbruceli.org",
+        "url": "https://zbruceli.org/blog/the-man-who-trusts-no-one/",
+        "published": "2026-10-05T19:25:20Z",
         "sentiment": "watch"
       },
       {
-        "title": "Strikes on 40 refineries in Russia, Ukraine and the Middle East send fuel prices soaring",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/10/05/strikes-on-40-refineries-in-russia-ukraine-and-the-middle-east-send-fuel-prices-soaring/",
-        "published": "2026-10-05T13:21:37Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Pacific Link pipeline to test Canada’s building ambitions, says Tim Hodgson",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/commodities/energy/oil-gas/pipeline-test-canadas-building-ambitions",
-        "published": "2026-10-05T13:21:34Z",
+        "title": "The Fossil Fuel Turning Point",
+        "source": "Time",
+        "url": "https://time.com/article/2026/10/05/the-fossil-fuel-turning-point/",
+        "published": "2026-10-05T18:45:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "Replenishing crude stocks could take two years - Aramco",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/1005/1594071-replenishing-crude-stocks-could-take-two-years-aramco/",
-        "published": "2026-10-05T13:20:33Z",
+        "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
+        "published": "2026-10-05T18:12:28Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Hackers Breached Propulsion System of US-Bound Oil Tanker",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/hackers-breached-propulsion-system-of-us-bound-oil-tanker/",
+        "published": "2026-10-05T18:02:48Z",
         "sentiment": "watch"
       }
     ],
