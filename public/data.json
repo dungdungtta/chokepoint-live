@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-06T19:34:44.889Z",
+    "generated_at": "2026-10-06T23:19:27.317Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Indianapolis Colts’ Latest Trade Pitch Saves Colts From Forgotten Quarterback",
-        "source": "Heavy.com",
-        "url": "https://heavy.com/sports/nfl/indianapolis-colts/trade-pitch-saves-from-forgotten-quarterback/",
-        "published": "2026-10-05T19:34:04Z",
+        "title": "Blackstone Culinary 6-Piece Stainless Steel Griddle Tool Set for $45 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/products/Blackstone/Blackstone-Culinary-6-Piece-Stainless-Steel-Griddle-Tool-Set/540667.html",
+        "published": "2026-10-05T22:36:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "OpenSSH Ships on Every Mac, Linux Server and Windows. Its Creator Trusts No One",
-        "source": "Zbruceli.org",
-        "url": "https://zbruceli.org/blog/the-man-who-trusts-no-one/",
-        "published": "2026-10-05T19:25:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Fossil Fuel Turning Point",
-        "source": "Time",
-        "url": "https://time.com/article/2026/10/05/the-fossil-fuel-turning-point/",
-        "published": "2026-10-05T18:45:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
-        "source": "Decrypt",
-        "url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
-        "published": "2026-10-05T18:12:28Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hackers Breached Propulsion System of US-Bound Oil Tanker",
+        "title": "Five Hormuz Incidents Reported Monday as Tanker Attacks Mount",
         "source": "gcaptain.com",
-        "url": "https://gcaptain.com/hackers-breached-propulsion-system-of-us-bound-oil-tanker/",
-        "published": "2026-10-05T18:02:48Z",
+        "url": "https://gcaptain.com/five-hormuz-incidents-reported-monday-as-tanker-attacks-mount/",
+        "published": "2026-10-05T22:28:14Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "TORM plc announces secondary public offering of its class A common shares by a selling shareholder",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/torm-plc-announces-secondary-public-offering-of-its-class-a-common-shares-by-a-selling-shareholder-302898999.html",
+        "published": "2026-10-05T22:27:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "G7 Oil Stocks Release Is A Band-Aid Fix in Broken Fuel Market",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/G7-Oil-Stocks-Release-Is-A-Band-Aid-Fix-in-Broken-Fuel-Market.html",
+        "published": "2026-10-05T22:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Only Fashion & Beauty Brands You Should Be Shopping During Amazon’s October Prime Day",
+        "source": "WWD",
+        "url": "http://wwd.com/shop/shop-fashion/amazon-prime-big-deal-days-fashion-beauty-sales-oct-2026-1239312389/",
+        "published": "2026-10-05T21:45:56Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Interdependence and Its Limits | Sinification: September 2026",
+        "source": "Sinocism.com",
+        "url": "https://sinocism.com/p/interdependence-and-its-limits-sinification",
+        "published": "2026-10-05T21:06:50Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Is the US still hegemonic?",
         "source": "Lse.ac.uk",
@@ -83,13 +90,6 @@
         "url": "https://www.theamericanconservative.com/taiwan-isnt-the-flashpoint-for-war-that-analysts-say-it-is/",
         "published": "2026-10-05T04:05:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Taiwan’s New F-16s: Why They Still Matter",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/10/taiwans-new-f-16s-why-they-still-matter/",
-        "published": "2026-10-02T13:10:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
