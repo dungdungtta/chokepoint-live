@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-05T18:51:28.448Z",
+    "generated_at": "2026-10-06T00:43:35.814Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Ethiopian Airlines’ new Boeing orders",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/logistics/ethiopian-airlines-new-boeing-orders/article71544819.ece",
-        "published": "2026-10-04T18:34:45Z",
+        "title": "NNPC commits N473.8bn to major gas infrastructure",
+        "source": "The Punch",
+        "url": "https://punchng.com/nnpc-commits-n473-8bn-to-major-gas-infrastructure/",
+        "published": "2026-10-04T23:38:31Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Was Pouring Through the Strait of Hormuz Again. Then Attacks on Shipping Resurged",
+        "title": "Fewer babies, smaller market: How Singapore baby-care brands are adapting",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/singapore/baby-care-brand-hegen-tollyjoy-6409976",
+        "published": "2026-10-04T22:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Editor Calls Out Beyoncé’s “Heavily Edited” Photos And Reveals The Detail That Gives Them Away",
+        "source": "Boredpanda.com",
+        "url": "https://www.boredpanda.com/editor-calls-out-beyonce-heavily-edited-photos/",
+        "published": "2026-10-04T21:03:14Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "IEA says 325 million barrels of emergency oil has been released",
         "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/16f7ba0533ba7a6d",
-        "published": "2026-10-04T17:12:33Z",
+        "url": "https://biztoc.com/x/c2bd0a388b4a26b6",
+        "published": "2026-10-04T20:57:51Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Persian Gulf oil flows return to prewar levels, but Iran could resort to a ‘scorched earth campaign’ as U.S. deploys more ships and Marines to Mideast",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/10/04/persian-gulf-oil-flows-prewar-levels-iran-scorched-earth-campaign-us-aircraft-carrier-marines/",
+        "published": "2026-10-04T20:03:10Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "'Iran signed NPT, India did not...situation is very different': Jaishankar highlights distinctions, deepening global energy crises amid West Asia turmoil",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/india/iran-signed-npt-india-did-not-situation-is-very-different-jaishankar-highlights-distinctions-deepening-global-energy-crises-amid-west-asia-turmoil/articleshow/134678289.cms",
-        "published": "2026-10-04T17:04:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iraq Shifts Oil Strategy By Arranging Tanker To Move Past Hormuz",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/iraq-shifts-oil-strategy-by-arranging-tanker-to-move-past-hormuz/",
-        "published": "2026-10-04T16:47:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran reviewing US response to diplomatic proposal presented at UN: Kazem Gharibabadi",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/iran-reviewing-us-response-to-diplomatic-proposal-presented-at-un-kazem-gharibabadi/articleshow/134677905.cms",
-        "published": "2026-10-04T16:17:49Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
