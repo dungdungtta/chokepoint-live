@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-06T06:54:31.959Z",
+    "generated_at": "2026-10-06T14:06:03.307Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Today in Germany: A roundup of the latest news on Monday",
-        "source": "The Local Germany",
-        "url": "https://www.thelocal.de/20261005/today-in-germany-a-roundup-of-the-latest-news-on-monday-141",
-        "published": "2026-10-05T06:36:14Z",
+        "title": "Services PMI® at 54.9%; September 2026 ISM® Services PMI® Report",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-9-september-2026-ism-services-pmi-report-302898421.html",
+        "published": "2026-10-05T14:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "India poised to fill fuel export gap as China suspends October shipments",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/india-poised-to-fill-fuel-export-gap-as-china-suspends-october-shipments/article71546098.ece",
-        "published": "2026-10-05T06:22:34Z",
+        "title": "Lodge Pre-Seasoned Cast Iron 12\" Skillet for $29 w/ Prime + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Lodge-Pre-Seasoned-Cast-Iron-12-Skillet-for-29-w-Prime-free-shipping-w-Prime/22246434.html",
+        "published": "2026-10-05T13:46:25Z",
         "sentiment": "watch"
       },
       {
-        "title": "Elections from the beach, John Lennon’s spirit at the Maximos Mansion and “greenery” for everyone, Samaras’s anxiety over Kasidiaris and Karystianou",
+        "title": "Strikes on 40 refineries in Russia, Ukraine and the Middle East send fuel prices soaring",
         "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/10/05/elections-from-the-beach-john-lennons-spirit-at-the-maximos-mansion-and-greenery-for-everyone-samarass-anxiety-over-kasidiaris-and-karystianou/",
-        "published": "2026-10-05T06:16:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. Deploys Patriots to Shield Saudi Oil and Qatari Gas Facilities",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-10-05-us-deploys-patriots-shield-saudi-oil-qatari-gas.html",
-        "published": "2026-10-05T06:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/middle-east-oil-exports-recover-to-pre-iran-war-levels-despite-hormuz-attacks/a-79542680",
-        "published": "2026-10-05T05:35:00Z",
+        "url": "https://en.protothema.gr/2026/10/05/strikes-on-40-refineries-in-russia-ukraine-and-the-middle-east-send-fuel-prices-soaring/",
+        "published": "2026-10-05T13:21:37Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Pacific Link pipeline to test Canada’s building ambitions, says Tim Hodgson",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/commodities/energy/oil-gas/pipeline-test-canadas-building-ambitions",
+        "published": "2026-10-05T13:21:34Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Replenishing crude stocks could take two years - Aramco",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/1005/1594071-replenishing-crude-stocks-could-take-two-years-aramco/",
+        "published": "2026-10-05T13:20:33Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Is the US still hegemonic?",
+        "source": "Lse.ac.uk",
+        "url": "https://blogs.lse.ac.uk/europpblog/2026/10/05/is-the-us-still-hegemonic/",
+        "published": "2026-10-05T08:41:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "How to Fix Our Global Malaise",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/10/05/global-malaise-international-order-economics-civic-life-hope-citizenship-community/",
+        "published": "2026-10-05T08:00:16Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan Isn’t the Flashpoint for War that Analysts Say It Is",
         "source": "The American Conservative",
@@ -75,20 +89,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/10/taiwans-new-f-16s-why-they-still-matter/",
         "published": "2026-10-02T13:10:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Chances of Chinese Attack on Taiwan in the Near Term Seem to Be Diminishing",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4397632/posts",
-        "published": "2026-10-02T04:19:01Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Russia’s Navy Shows Its Reach Around Japan’s Southwestern Islands",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/10/russias-navy-shows-its-reach-around-japans-southwestern-islands/",
-        "published": "2026-10-02T00:54:00Z",
         "sentiment": "watch"
       }
     ],
