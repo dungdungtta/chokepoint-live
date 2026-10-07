@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-07T09:21:02.449Z",
+    "generated_at": "2026-10-07T16:50:47.510Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Brent Once Again Toiling Around $100 Mark",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/brent_once_again_toiling_around_100_mark-06-oct-2026-184779-article/",
-        "published": "2026-10-06T09:09:27Z",
+        "title": "What would it take for the Yemen offensive to succeed?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/10/6/what-would-it-take-for-the-yemen-offensive-to-succeed",
+        "published": "2026-10-06T16:46:06Z",
         "sentiment": "watch"
       },
       {
-        "title": "Nouriel Roubini: The world is in turmoil but the global economy has been chugging along—how come?",
-        "source": "Livemint",
-        "url": "https://www.livemint.com/opinion/online-views/nouriel-roubini-world-is-in-turmoil-but-the-global-economy-has-been-chugging-along-how-come-11791196008961.html",
-        "published": "2026-10-06T09:00:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "At Least 50 Iranian Tankers Are Stuck in the Gulf as U.S. Blockade Holds",
+        "title": "Saudi East-West Pipeline Moves 5.8 Million Barrels as Red Sea Route Recovers",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/At-Least-50-Iranian-Tankers-Are-Stuck-in-the-Gulf-as-US-Blockade-Holds.html",
-        "published": "2026-10-06T09:00:00Z",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-East-West-Pipeline-Moves-58-Million-Barrels-as-Red-Sea-Route-Recovers.html",
+        "published": "2026-10-06T16:30:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "War in Ukraine Escalates With Drone Strikes on Cargo Ships",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/war-in-ukraine-escalates-with-drone-strikes-on-cargo-ships/",
+        "published": "2026-10-06T16:20:43Z",
         "sentiment": "danger"
       },
       {
-        "title": "Global Market: Gulf oil flows rebound to 81% of pre-war levels in September",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-gulf-oil-flows-rebound-to-81-of-pre-war-levels-in-september/articleshow/134730619.cms",
-        "published": "2026-10-06T08:52:14Z",
-        "sentiment": "danger"
+        "title": "Trump’s Red-Dye Diesel Plan Has a Major Flaw",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/10/06/red-dye-diesel-trump-hormuz-prices-iran-war/",
+        "published": "2026-10-06T16:11:52Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Save 30% on Bubble & nobody’s nobody skincare at Target!",
+        "source": "Moneysavingmom.com",
+        "url": "https://moneysavingmom.com/save-30-on-bubble-nobodys-nobody-skincare-at-target/",
+        "published": "2026-10-06T15:59:31Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "What to know after U.S. Marine arrested for murder in Japan",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/us-marine-arrested-murder-woman-japan-what-to-know/",
+        "published": "2026-10-06T10:34:08Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Interdependence and Its Limits | Sinification: September 2026",
         "source": "Sinocism.com",
