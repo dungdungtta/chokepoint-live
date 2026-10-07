@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-10-07T16:50:47.510Z",
+    "generated_at": "2026-10-07T21:54:04.607Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 113.96,
-      "change_pct": -5,
-      "date": "2026-09-29",
+      "price": 125.44,
+      "change_pct": -0.1,
+      "date": "2026-10-06",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "What would it take for the Yemen offensive to succeed?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/opinions/2026/10/6/what-would-it-take-for-the-yemen-offensive-to-succeed",
-        "published": "2026-10-06T16:46:06Z",
+        "title": "[Prime] IT Cosmetics CC+ Cream Illumination Radiant SPF 50+ Full Coverage Foundation (Various) $19.89 w/ S&S + Free Shipping",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20117052-prime-it-cosmetics-cc-cream-illumination-radiant-spf-50-full-coverage-foundation-various-19-89-w-s-s-free-shipping",
+        "published": "2026-10-06T20:56:48Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudi East-West Pipeline Moves 5.8 Million Barrels as Red Sea Route Recovers",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-East-West-Pipeline-Moves-58-Million-Barrels-as-Red-Sea-Route-Recovers.html",
-        "published": "2026-10-06T16:30:00Z",
+        "title": "Tarte Tartelette XL Tubing Mascara for $7 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Tarte-Tartelette-XL-Tubing-Mascara-for-7-free-shipping-w-Prime/22250013.html",
+        "published": "2026-10-06T20:25:38Z",
         "sentiment": "watch"
       },
       {
-        "title": "War in Ukraine Escalates With Drone Strikes on Cargo Ships",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/war-in-ukraine-escalates-with-drone-strikes-on-cargo-ships/",
-        "published": "2026-10-06T16:20:43Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump’s Red-Dye Diesel Plan Has a Major Flaw",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/10/06/red-dye-diesel-trump-hormuz-prices-iran-war/",
-        "published": "2026-10-06T16:11:52Z",
+        "title": "Oil Steady as Middle East Exports Rise",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_steady_as_middle_east_exports_rise-06-oct-2026-184788-article/",
+        "published": "2026-10-06T20:06:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "Save 30% on Bubble & nobody’s nobody skincare at Target!",
-        "source": "Moneysavingmom.com",
-        "url": "https://moneysavingmom.com/save-30-on-bubble-nobodys-nobody-skincare-at-target/",
-        "published": "2026-10-06T15:59:31Z",
+        "title": "Red Light Therapy Devices Are Trending — Get Yours for Over 50% Off During October Prime Day",
+        "source": "WWD",
+        "url": "http://wwd.com/shop/shop-beauty/amazon-prime-big-deal-days-red-light-deals-sales-oct-2026-1239315598/",
+        "published": "2026-10-06T19:59:42Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Harry's 5.1 fl. oz. Exfoliating Face Wash for Men 3-Pack for $18 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Harrys-5-1-fl-oz-Exfoliating-Face-Wash-for-Men-3-Pack-for-18-free-shipping-w-Prime/22249979.html",
+        "published": "2026-10-06T19:41:39Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China Doesn’t Need to Invade Taiwan to Control It",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/10/06/china-taiwan-political-peaceful-reunification/",
+        "published": "2026-10-06T19:19:55Z",
+        "sentiment": "watch"
+      },
       {
         "title": "What to know after U.S. Marine arrested for murder in Japan",
         "source": "CBS News",
@@ -90,13 +97,6 @@
         "url": "http://foreignpolicy.com/2026/10/05/global-malaise-international-order-economics-civic-life-hope-citizenship-community/",
         "published": "2026-10-05T08:00:16Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan Isn’t the Flashpoint for War that Analysts Say It Is",
-        "source": "The American Conservative",
-        "url": "https://www.theamericanconservative.com/taiwan-isnt-the-flashpoint-for-war-that-analysts-say-it-is/",
-        "published": "2026-10-05T04:05:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -118,7 +118,7 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "amber",
+    "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
