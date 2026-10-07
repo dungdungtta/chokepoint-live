@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-07T02:39:21.649Z",
+    "generated_at": "2026-10-07T09:21:02.449Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Price Today (October 6): Crude oil below $101 as supply concerns ease but Houthi attack keeps traders on edge",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-6-crude-oil-below-101-as-supply-concerns-ease-but-houthi-attack-keeps-traders-on-edge/articleshow/134721048.cms",
-        "published": "2026-10-06T02:17:56Z",
+        "title": "Brent Once Again Toiling Around $100 Mark",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/brent_once_again_toiling_around_100_mark-06-oct-2026-184779-article/",
+        "published": "2026-10-06T09:09:27Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Nouriel Roubini: The world is in turmoil but the global economy has been chugging along—how come?",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/opinion/online-views/nouriel-roubini-world-is-in-turmoil-but-the-global-economy-has-been-chugging-along-how-come-11791196008961.html",
+        "published": "2026-10-06T09:00:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "At Least 50 Iranian Tankers Are Stuck in the Gulf as U.S. Blockade Holds",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/At-Least-50-Iranian-Tankers-Are-Stuck-in-the-Gulf-as-US-Blockade-Holds.html",
+        "published": "2026-10-06T09:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil prices slip as traders weigh strong Mideast exports against Gulf tensions",
+        "title": "Global Market: Gulf oil flows rebound to 81% of pre-war levels in September",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-slip-as-traders-weigh-strong-mideast-exports-against-gulf-tensions/articleshow/134720871.cms",
-        "published": "2026-10-06T02:02:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Middle East war sharpens focus on ASEAN energy security plans",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/asia/asean-energy-security-plans-focus-middle-east-war-oil-prices-6434631",
-        "published": "2026-10-06T01:27:06Z",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-gulf-oil-flows-rebound-to-81-of-pre-war-levels-in-september/articleshow/134730619.cms",
+        "published": "2026-10-06T08:52:14Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "DeWalt 135,000-BTU Forced Air Outdoor Torpedo Space Heater for $339 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/products/De-Walt/De-Walt-135-000-BTU-Forced-Air-Outdoor-Torpedo-Space-Heater/540733.html",
-        "published": "2026-10-06T01:02:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Ghost Army That Lost Bab al-Mandeb",
-        "source": "Activistpost.com",
-        "url": "https://activistpost.com/the-ghost-army-that-lost-bab-al-mandeb/",
-        "published": "2026-10-06T01:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
