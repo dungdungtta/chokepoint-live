@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-07T21:54:04.607Z",
+    "generated_at": "2026-10-08T01:44:50.421Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "[Prime] IT Cosmetics CC+ Cream Illumination Radiant SPF 50+ Full Coverage Foundation (Various) $19.89 w/ S&S + Free Shipping",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20117052-prime-it-cosmetics-cc-cream-illumination-radiant-spf-50-full-coverage-foundation-various-19-89-w-s-s-free-shipping",
-        "published": "2026-10-06T20:56:48Z",
+        "title": "Market outlook: Oil, rates, naira to drive Q3",
+        "source": "The Punch",
+        "url": "https://punchng.com/market-outlook-oil-rates-naira-to-drive-q3/",
+        "published": "2026-10-07T01:37:44Z",
         "sentiment": "watch"
       },
       {
-        "title": "Tarte Tartelette XL Tubing Mascara for $7 + free shipping w/ Prime",
+        "title": "Ukraine drone attacks oil tanker off Russia’s Sochi with 23 Indians aboard, all rescued",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/ukraine-drone-attacks-oil-tanker-off-russias-sochi-with-23-indians-aboard-all-rescued/articleshow/134753236.cms",
+        "published": "2026-10-07T00:58:46Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "24-Piece Paint Brush Set w/ Canvas Case for $9.49 w/ Prime + free shipping",
         "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Tarte-Tartelette-XL-Tubing-Mascara-for-7-free-shipping-w-Prime/22250013.html",
-        "published": "2026-10-06T20:25:38Z",
+        "url": "https://www.dealnews.com/24-Piece-Paint-Brush-Set-w-Canvas-Case-for-9-49-w-Prime-free-shipping/22250244.html",
+        "published": "2026-10-07T00:11:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Steady as Middle East Exports Rise",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_steady_as_middle_east_exports_rise-06-oct-2026-184788-article/",
-        "published": "2026-10-06T20:06:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Red Light Therapy Devices Are Trending — Get Yours for Over 50% Off During October Prime Day",
-        "source": "WWD",
-        "url": "http://wwd.com/shop/shop-beauty/amazon-prime-big-deal-days-red-light-deals-sales-oct-2026-1239315598/",
-        "published": "2026-10-06T19:59:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Harry's 5.1 fl. oz. Exfoliating Face Wash for Men 3-Pack for $18 + free shipping w/ Prime",
+        "title": "24-Piece Paint Brush Set w/ Canvas Case for $9.49 w/ Prime + free shipping",
         "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Harrys-5-1-fl-oz-Exfoliating-Face-Wash-for-Men-3-Pack-for-18-free-shipping-w-Prime/22249979.html",
-        "published": "2026-10-06T19:41:39Z",
+        "url": "https://www.dealnews.com/24-Piece-Paint-Brush-Set-w-Canvas-Case-for-9-49-w-Prime-free-shipping/22250244.html",
+        "published": "2026-10-07T00:11:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "1963 Chevrolet Corvette Split-Window Coupe 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1963-chevrolet-corvette-coupe-272/",
+        "published": "2026-10-07T00:00:22Z",
         "sentiment": "watch"
       }
     ],
