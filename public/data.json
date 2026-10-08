@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-08T15:40:21.966Z",
+    "generated_at": "2026-10-08T20:51:18.329Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trafigura Buys Seven Oil Tankers From SFL as Shipping Costs Rise",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/trafigura-buys-seven-oil-tankers-from-sfl-as-shipping-costs-rise/",
-        "published": "2026-10-07T15:26:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ulta Beauty Wellness & Rest Sale: Up to 30% off + shipping varies",
+        "title": "Glade Air Freshener Prime Big Deal Days Deals at Amazon: Up to 41% off + free shipping w/ Prime",
         "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Ulta-Beauty-Wellness-Rest-Sale-Up-to-30-off-shipping-varies/22256832.html",
-        "published": "2026-10-07T15:23:08Z",
+        "url": "https://www.dealnews.com/Glade-Air-Freshener-Prime-Big-Deal-Days-Deals-at-Amazon-Up-to-41-off-free-shipping-w-Prime/22257219.html",
+        "published": "2026-10-07T19:40:27Z",
         "sentiment": "watch"
       },
       {
-        "title": "Attacks on Tankers in Hormuz Hit Highest of Any Week Since Start of Iran War, Sources Say",
+        "title": "Carney must hit Iran's Ayatollah with sanctions and legal action, human rights advocates say",
+        "source": "National Post",
+        "url": "https://nationalpost.com/news/politics/carney-must-hit-irans-ayatollah-with-sanctions-and-legal-action-human-rights-advocates-say",
+        "published": "2026-10-07T19:24:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Sanctioned 22-Year-Old Tanker Makes Rare Late-Season Arctic Voyage",
         "source": "gcaptain.com",
-        "url": "https://gcaptain.com/attacks-on-tankers-in-hormuz-hit-highest-of-any-week-since-start-of-iran-war-sources-say/",
-        "published": "2026-10-07T15:05:52Z",
+        "url": "https://gcaptain.com/sanctioned-22-year-old-non-ice-class-tanker-makes-rare-late-season-arctic-voyage/",
+        "published": "2026-10-07T18:35:33Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/07/supertanker-from-us-to-china-chartered-for-76-million-source.html",
+        "published": "2026-10-07T18:32:55Z",
         "sentiment": "danger"
       },
       {
-        "title": "L'Oreal Paris Magic Root Gray Hair Cover Up Spray 2-Pack for $18 w/ Prime + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/LOreal-Paris-Magic-Root-Gray-Hair-Cover-Up-Spray-2-Pack-for-18-w-Prime-free-shipping/22256782.html",
-        "published": "2026-10-07T14:57:24Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "A global job spinner for Indians is now turning into a death trap",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/india-seafarers-workforce-maritime-safety-conflict-risks-black-sea-oman-shipping-global-job-spinner-for-indians-now-turning-into-death-trap/articleshow/134768754.cms",
-        "published": "2026-10-07T14:52:05Z",
+        "title": "Bessent says energy prices, mortgages and yields will ease once the Iran conflict ends",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/bessent-energy-markets-iran-conflict-outlook/",
+        "published": "2026-10-07T17:55:04Z",
         "sentiment": "watch"
       }
     ],
