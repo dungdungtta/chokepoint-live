@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-08T01:44:50.421Z",
+    "generated_at": "2026-10-08T08:02:24.244Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Market outlook: Oil, rates, naira to drive Q3",
-        "source": "The Punch",
-        "url": "https://punchng.com/market-outlook-oil-rates-naira-to-drive-q3/",
-        "published": "2026-10-07T01:37:44Z",
+        "title": "'No doubt': Hockey adamant corruption is flourishing in Washington",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-10-07/hockey-calls-out-us-corruption-during-trump-second-presidency/107237782",
+        "published": "2026-10-07T07:52:57Z",
         "sentiment": "watch"
       },
       {
-        "title": "Ukraine drone attacks oil tanker off Russia’s Sochi with 23 Indians aboard, all rescued",
+        "title": "EIA raises oil price forecasts as Iran war tightens global markets",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/ukraine-drone-attacks-oil-tanker-off-russias-sochi-with-23-indians-aboard-all-rescued/articleshow/134753236.cms",
-        "published": "2026-10-07T00:58:46Z",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/eia-raises-oil-price-forecasts-as-iran-war-tightens-global-markets/articleshow/134758136.cms",
+        "published": "2026-10-07T06:28:41Z",
         "sentiment": "danger"
       },
       {
-        "title": "24-Piece Paint Brush Set w/ Canvas Case for $9.49 w/ Prime + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/24-Piece-Paint-Brush-Set-w-Canvas-Case-for-9-49-w-Prime-free-shipping/22250244.html",
-        "published": "2026-10-07T00:11:11Z",
+        "title": "23 Indians rescued after oil tanker attacked off Russia's Black Sea coast",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/23-indians-rescued-after-oil-tanker-attacked-off-russia-s-black-sea-coast-126100700322_1.html",
+        "published": "2026-10-07T06:17:16Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump eyes federal gas tax holiday as diesel tops $6 and midterms near",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-10-07-trump-federal-gas-tax-holiday-midterms.html",
+        "published": "2026-10-07T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "24-Piece Paint Brush Set w/ Canvas Case for $9.49 w/ Prime + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/24-Piece-Paint-Brush-Set-w-Canvas-Case-for-9-49-w-Prime-free-shipping/22250244.html",
-        "published": "2026-10-07T00:11:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "1963 Chevrolet Corvette Split-Window Coupe 4-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1963-chevrolet-corvette-coupe-272/",
-        "published": "2026-10-07T00:00:22Z",
+        "title": "Three years since October 7: The day that changed Israel, the Middle East and the world",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/10/07/three-years-since-october-7-the-day-that-changed-israel-the-middle-east-and-the-world/",
+        "published": "2026-10-07T05:52:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "North Korea warns US over Taiwan while Kim pledges support for Russia",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/north-korea-warns-us-over-taiwan-while-kim-pledges-support-for-russia/articleshow/134754373.cms",
+        "published": "2026-10-07T02:47:33Z",
+        "sentiment": "danger"
+      },
       {
         "title": "China Doesn’t Need to Invade Taiwan to Control It",
         "source": "Foreign Policy",
@@ -90,13 +97,6 @@
         "url": "https://blogs.lse.ac.uk/europpblog/2026/10/05/is-the-us-still-hegemonic/",
         "published": "2026-10-05T08:41:17Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "How to Fix Our Global Malaise",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/10/05/global-malaise-international-order-economics-civic-life-hope-citizenship-community/",
-        "published": "2026-10-05T08:00:16Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -118,7 +118,7 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "yellow",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
