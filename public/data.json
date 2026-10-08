@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-08T08:02:24.244Z",
+    "generated_at": "2026-10-08T15:40:21.966Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "'No doubt': Hockey adamant corruption is flourishing in Washington",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-10-07/hockey-calls-out-us-corruption-during-trump-second-presidency/107237782",
-        "published": "2026-10-07T07:52:57Z",
+        "title": "Trafigura Buys Seven Oil Tankers From SFL as Shipping Costs Rise",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/trafigura-buys-seven-oil-tankers-from-sfl-as-shipping-costs-rise/",
+        "published": "2026-10-07T15:26:13Z",
         "sentiment": "watch"
       },
       {
-        "title": "EIA raises oil price forecasts as Iran war tightens global markets",
+        "title": "Ulta Beauty Wellness & Rest Sale: Up to 30% off + shipping varies",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Ulta-Beauty-Wellness-Rest-Sale-Up-to-30-off-shipping-varies/22256832.html",
+        "published": "2026-10-07T15:23:08Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Attacks on Tankers in Hormuz Hit Highest of Any Week Since Start of Iran War, Sources Say",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/attacks-on-tankers-in-hormuz-hit-highest-of-any-week-since-start-of-iran-war-sources-say/",
+        "published": "2026-10-07T15:05:52Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "L'Oreal Paris Magic Root Gray Hair Cover Up Spray 2-Pack for $18 w/ Prime + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/LOreal-Paris-Magic-Root-Gray-Hair-Cover-Up-Spray-2-Pack-for-18-w-Prime-free-shipping/22256782.html",
+        "published": "2026-10-07T14:57:24Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "A global job spinner for Indians is now turning into a death trap",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/eia-raises-oil-price-forecasts-as-iran-war-tightens-global-markets/articleshow/134758136.cms",
-        "published": "2026-10-07T06:28:41Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "23 Indians rescued after oil tanker attacked off Russia's Black Sea coast",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/23-indians-rescued-after-oil-tanker-attacked-off-russia-s-black-sea-coast-126100700322_1.html",
-        "published": "2026-10-07T06:17:16Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump eyes federal gas tax holiday as diesel tops $6 and midterms near",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-10-07-trump-federal-gas-tax-holiday-midterms.html",
-        "published": "2026-10-07T06:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Three years since October 7: The day that changed Israel, the Middle East and the world",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/10/07/three-years-since-october-7-the-day-that-changed-israel-the-middle-east-and-the-world/",
-        "published": "2026-10-07T05:52:00Z",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/india-seafarers-workforce-maritime-safety-conflict-risks-black-sea-oman-shipping-global-job-spinner-for-indians-now-turning-into-death-trap/articleshow/134768754.cms",
+        "published": "2026-10-07T14:52:05Z",
         "sentiment": "watch"
       }
     ],
