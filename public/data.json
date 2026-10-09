@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-09T01:08:18.482Z",
+    "generated_at": "2026-10-09T07:26:47.818Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump weighs huge strike on Iran to show voters bold display of US power before crucial midterm elections, report says",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16191579/Trump-weighs-huge-strike-Iran-midterms.html",
-        "published": "2026-10-08T00:59:20Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Asia shares slip, bonds submerged in tide of AI debt",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/asia-shares-slip-bonds-submerged-in-tide-ai-debt-6441181",
-        "published": "2026-10-08T00:58:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Tanker attacks in Hormuz hit highest of any week since start of US-Iran war",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/tankers-attacks-in-hormuz-hit-highest-of-any-week-since-start-of-us-iran-war/articleshow/134777269.cms",
-        "published": "2026-10-08T00:51:27Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "3 Insurance Stocks Linked To Oil And Shipping Risk Investors Should Watch",
+        "title": "Oil prices climb amid supply fears and shipping attacks; prospect of rate rise weighs on UK housing market – business live",
         "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/3993c948a83e25cd",
-        "published": "2026-10-08T00:47:07Z",
+        "url": "https://biztoc.com/x/4548eb1eefdf4c64",
+        "published": "2026-10-08T07:13:09Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "D-St meltdown explained: Sensex tanks 780 pts intraday, Nifty below 22,350",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/market-crash-explained-sensex-tanks-780-pts-intraday-nifty-below-22-350-126100800440_1.html",
+        "published": "2026-10-08T06:32:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears",
-        "published": "2026-10-08T00:33:03Z",
+        "title": "Building the route to India: Russian oil and mineral water producers expand overseas",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/food/building-the-route-to-india-russian-oil-and-mineral-water-producers-expand-overseas/articleshow/134780765.cms",
+        "published": "2026-10-08T06:01:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil rises as supply concerns persist amid shipping attacks",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/markets/2026/10/08/oil-rises-as-supply-concerns-persist-amid-shipping-attacks/",
+        "published": "2026-10-08T05:31:26Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "The behind-the-scenes details of the Mitsotakis, Rubio, Ministers and business leaders dinner at Tudor Hall’s five round tables",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/10/08/the-behind-the-scenes-details-of-the-mitsotakis-rubio-ministers-and-business-leaders-dinner-at-tudor-halls-five-round-tables/",
+        "published": "2026-10-08T05:19:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Chinaâs âgray zoneâ assault on Taiwan: How Beijing weaponizes confusion to erode democracy without firing a shot",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-10-08-how-beijing-weaponizes-confusion-to-erode-democracy-without-firing-a-shot.html",
+        "published": "2026-10-08T06:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "North Korea warns US over Taiwan while Kim pledges support for Russia",
         "source": "The Times of India",
@@ -89,13 +96,6 @@
         "source": "Sinocism.com",
         "url": "https://sinocism.com/p/interdependence-and-its-limits-sinification",
         "published": "2026-10-05T21:06:50Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Is the US still hegemonic?",
-        "source": "Lse.ac.uk",
-        "url": "https://blogs.lse.ac.uk/europpblog/2026/10/05/is-the-us-still-hegemonic/",
-        "published": "2026-10-05T08:41:17Z",
         "sentiment": "watch"
       }
     ],
