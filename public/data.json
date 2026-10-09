@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-09T07:26:47.818Z",
+    "generated_at": "2026-10-09T14:35:23.134Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil prices climb amid supply fears and shipping attacks; prospect of rate rise weighs on UK housing market – business live",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/4548eb1eefdf4c64",
-        "published": "2026-10-08T07:13:09Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "D-St meltdown explained: Sensex tanks 780 pts intraday, Nifty below 22,350",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/market-crash-explained-sensex-tanks-780-pts-intraday-nifty-below-22-350-126100800440_1.html",
-        "published": "2026-10-08T06:32:09Z",
+        "title": "EIA Boosts Oil Price Forecast by $5 in 2026, $10 in 2027",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/eia_boosts_oil_price_forecast_by_5_in_2026_10_in_2027-08-oct-2026-184805-article/",
+        "published": "2026-10-08T14:32:46Z",
         "sentiment": "watch"
       },
       {
-        "title": "Building the route to India: Russian oil and mineral water producers expand overseas",
+        "title": "Attack risks rise for tankers as Iran vows to block more Hormuz routes",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/cons-products/food/building-the-route-to-india-russian-oil-and-mineral-water-producers-expand-overseas/articleshow/134780765.cms",
-        "published": "2026-10-08T06:01:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil rises as supply concerns persist amid shipping attacks",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/markets/2026/10/08/oil-rises-as-supply-concerns-persist-amid-shipping-attacks/",
-        "published": "2026-10-08T05:31:26Z",
+        "url": "https://economictimes.indiatimes.com/news/defence/attack-risks-rise-for-tankers-as-iran-vows-to-block-more-hormuz-routes/articleshow/134792095.cms",
+        "published": "2026-10-08T14:32:24Z",
         "sentiment": "danger"
       },
       {
-        "title": "The behind-the-scenes details of the Mitsotakis, Rubio, Ministers and business leaders dinner at Tudor Hall’s five round tables",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/10/08/the-behind-the-scenes-details-of-the-mitsotakis-rubio-ministers-and-business-leaders-dinner-at-tudor-halls-five-round-tables/",
-        "published": "2026-10-08T05:19:00Z",
+        "title": "Tanker Attack Off Qatar Signals Wider Threat Beyond Hormuz",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/tanker-attack-off-qatar-signals-wider-threat-beyond-hormuz/",
+        "published": "2026-10-08T14:25:15Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Brazil’s racket society",
+        "source": "Africasacountry.com",
+        "url": "https://africasacountry.com/2026/10/brazils-racket-society",
+        "published": "2026-10-08T14:16:47Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "UK Sanctions 12 More ‘Shadow-Fleet’ Tankers as Russia’s Arctic Traffic Grows",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/uk-sanctions-12-more-shadow-fleet-tankers-as-russias-arctic-traffic-grows/",
+        "published": "2026-10-08T14:10:23Z",
         "sentiment": "watch"
       }
     ],
