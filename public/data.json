@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-09T19:50:25.366Z",
+    "generated_at": "2026-10-09T23:57:03.375Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "F-35 parts were sent from Australia to Hong Kong: How a shipping error put sensitive US stealth technology near China",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/f-35-parts-were-sent-from-australia-to-hong-kong-how-a-shipping-error-put-sensitive-us-stealth-technology-near-china/articleshow/134795793.cms",
-        "published": "2026-10-08T19:16:08Z",
+        "title": "Terex, ESAB, Allison Transmission, Rocket Lab, and Bloom Energy Stocks Trade Down, What You Need To Know",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/a030cf3e8da22e25",
+        "published": "2026-10-08T23:51:48Z",
         "sentiment": "watch"
       },
       {
-        "title": "Black Sea attacks hit yellow peas, sunflower oil supplies to India",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/black-sea-attacks-hit-yellow-peas-sunflower-oil-supplies-to-india/articleshow/134798978.cms",
-        "published": "2026-10-08T18:39:03Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S. Sanctions 22 More Tankers in Crackdown on Iran’s Shadow Fleet",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/u-s-sanctions-22-more-tankers-in-crackdown-on-irans-shadow-fleet/",
-        "published": "2026-10-08T18:25:43Z",
+        "title": "Lucid, JELD-WEN, Kennametal, LGI Homes, and EVgo Shares Are Falling, What You Need To Know",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/37ff9d23bd26a4f9",
+        "published": "2026-10-08T22:37:32Z",
         "sentiment": "watch"
       },
       {
-        "title": "US will not resume strikes on Iran before midterms — Trump",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/us-will-not-resume-strikes-on-iran-before-midterms-trump/a-79603731",
-        "published": "2026-10-08T18:18:00Z",
-        "sentiment": "danger"
+        "title": "Enphase and Autoliv Shares Plummet, What You Need To Know",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f7a540849ec944c9",
+        "published": "2026-10-08T22:37:30Z",
+        "sentiment": "watch"
       },
       {
-        "title": "30 Killed in Russian Air Strike on Civilian Bus Stop",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/europe/2026/10/08/30-killed-in-russian-air-strike-on-civilian-bus-stop/",
-        "published": "2026-10-08T18:16:40Z",
+        "title": "Iran taking concrete steps to resolve conflict with US – Putin",
+        "source": "RT",
+        "url": "https://www.rt.com/news/646957-iran-us-concrete-steps-putin/",
+        "published": "2026-10-08T22:14:26Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Report: US prepares major Iran strike plans",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/434326",
+        "published": "2026-10-08T22:05:16Z",
         "sentiment": "danger"
       }
     ],
