@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-09T14:35:23.134Z",
+    "generated_at": "2026-10-09T19:50:25.366Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "EIA Boosts Oil Price Forecast by $5 in 2026, $10 in 2027",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/eia_boosts_oil_price_forecast_by_5_in_2026_10_in_2027-08-oct-2026-184805-article/",
-        "published": "2026-10-08T14:32:46Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Attack risks rise for tankers as Iran vows to block more Hormuz routes",
+        "title": "F-35 parts were sent from Australia to Hong Kong: How a shipping error put sensitive US stealth technology near China",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/attack-risks-rise-for-tankers-as-iran-vows-to-block-more-hormuz-routes/articleshow/134792095.cms",
-        "published": "2026-10-08T14:32:24Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Tanker Attack Off Qatar Signals Wider Threat Beyond Hormuz",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/tanker-attack-off-qatar-signals-wider-threat-beyond-hormuz/",
-        "published": "2026-10-08T14:25:15Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Brazil’s racket society",
-        "source": "Africasacountry.com",
-        "url": "https://africasacountry.com/2026/10/brazils-racket-society",
-        "published": "2026-10-08T14:16:47Z",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/f-35-parts-were-sent-from-australia-to-hong-kong-how-a-shipping-error-put-sensitive-us-stealth-technology-near-china/articleshow/134795793.cms",
+        "published": "2026-10-08T19:16:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "UK Sanctions 12 More ‘Shadow-Fleet’ Tankers as Russia’s Arctic Traffic Grows",
+        "title": "Black Sea attacks hit yellow peas, sunflower oil supplies to India",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/black-sea-attacks-hit-yellow-peas-sunflower-oil-supplies-to-india/articleshow/134798978.cms",
+        "published": "2026-10-08T18:39:03Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "U.S. Sanctions 22 More Tankers in Crackdown on Iran’s Shadow Fleet",
         "source": "gcaptain.com",
-        "url": "https://gcaptain.com/uk-sanctions-12-more-shadow-fleet-tankers-as-russias-arctic-traffic-grows/",
-        "published": "2026-10-08T14:10:23Z",
+        "url": "https://gcaptain.com/u-s-sanctions-22-more-tankers-in-crackdown-on-irans-shadow-fleet/",
+        "published": "2026-10-08T18:25:43Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "US will not resume strikes on Iran before midterms — Trump",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/us-will-not-resume-strikes-on-iran-before-midterms-trump/a-79603731",
+        "published": "2026-10-08T18:18:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "30 Killed in Russian Air Strike on Civilian Bus Stop",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/europe/2026/10/08/30-killed-in-russian-air-strike-on-civilian-bus-stop/",
+        "published": "2026-10-08T18:16:40Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "F-35 parts were sent from Australia to Hong Kong: How a shipping error put sensitive US stealth technology near China",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/f-35-parts-were-sent-from-australia-to-hong-kong-how-a-shipping-error-put-sensitive-us-stealth-technology-near-china/articleshow/134795793.cms",
+        "published": "2026-10-08T19:16:08Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Chinaâs âgray zoneâ assault on Taiwan: How Beijing weaponizes confusion to erode democracy without firing a shot",
         "source": "Naturalnews.com",
@@ -89,13 +96,6 @@
         "source": "CBS News",
         "url": "https://www.cbsnews.com/news/us-marine-arrested-murder-woman-japan-what-to-know/",
         "published": "2026-10-06T10:34:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Interdependence and Its Limits | Sinification: September 2026",
-        "source": "Sinocism.com",
-        "url": "https://sinocism.com/p/interdependence-and-its-limits-sinification",
-        "published": "2026-10-05T21:06:50Z",
         "sentiment": "watch"
       }
     ],
