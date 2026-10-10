@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-10T20:16:43.850Z",
+    "generated_at": "2026-10-10T23:46:38.008Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "Why Record Crude Output Can’t Solve America’s Diesel Crisis",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Why-Record-Crude-Output-Cant-Solve-Americas-Diesel-Crisis.html",
+        "published": "2026-10-09T22:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The two elections that revolve around Iran",
+        "source": "RT",
+        "url": "https://www.rt.com/news/647010-iran-us-elections-iran/",
+        "published": "2026-10-09T20:56:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "60-Count Sports Research 12mg Triple Strength Astaxanthin Softgels w/ Coconut Oil $14.55 w/ S&S & More + Free Shipping w/ Prime or on $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20135814-60-count-sports-research-12mg-triple-strength-astaxanthin-softgels-w-coconut-oil-14-55-w-s-s-more-free-shipping-w-prime-or-on-35",
+        "published": "2026-10-09T20:36:55Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump Strikes Diesel Deal With Putin to Lower Fuel Prices Ahead of Midterms",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/trump-strikes-diesel-deal-with-putin-to-lower-fuel-prices-ahead-of-midterms/",
+        "published": "2026-10-09T20:34:32Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Treasury Hits Remaining 'Shadow Fleet' Shipping Iranian Oil To Asia With New Sanctions",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/9252f604b02b90d0",
         "published": "2026-10-09T19:42:05Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Picnic Table Cover w/ Bench Covers 72\" Camping Tablecloth for $10 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Picnic-Table-Cover-w-Bench-Covers-72-Camping-Tablecloth-for-10-free-shipping-w-Prime/22267476.html",
-        "published": "2026-10-09T18:53:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The United States Is Not Ready for the Arctic Age",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/10/09/arctic-russia-china-canada-energy-icebreakers/",
-        "published": "2026-10-09T18:40:37Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Record $80,000,000 Shipping Bills Are Pricing American Oil Out Of Asia",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/10/09/us-crude-exports-asia-tanker-rates-vlcc-freight-cosmo-oil-trafigura-max-pyziur",
-        "published": "2026-10-09T18:16:56Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html",
-        "published": "2026-10-09T18:02:01Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
