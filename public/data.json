@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-09T23:57:03.375Z",
+    "generated_at": "2026-10-10T05:38:28.314Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Terex, ESAB, Allison Transmission, Rocket Lab, and Bloom Energy Stocks Trade Down, What You Need To Know",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/a030cf3e8da22e25",
-        "published": "2026-10-08T23:51:48Z",
+        "title": "Asim Munir drags Pakistan into the Saudi- Houthi war under the Mecca pact without consulting the country's political leadership",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/asim-munir-drags-pakistan-into-the-saudi-houthi-war-under-the-mecca-pact-without-consulting-the-countrys-political-leadership/articleshow/134808661.cms",
+        "published": "2026-10-09T05:29:27Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The new Middle East (Anna–Karvelas) is heading to court, Rubio on K.M., Theodora moves toward PASOK and Efi toward Alexis, pollsters on Kasidiaris",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/10/09/the-new-middle-east-anna-karvelas-is-heading-to-court-rubio-on-k-m-theodora-moves-toward-pasok-and-efi-toward-alexis-pollsters-on-kasidiaris/",
+        "published": "2026-10-09T04:59:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "South Indian D2C food brands turn to Mumbai tastings as online customer acquisition costs rise",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/companies/south-indian-d2c-food-brands-turn-to-mumbai-tastings-as-online-customer-acquisition-costs-rise/article71561459.ece",
+        "published": "2026-10-09T03:55:55Z",
         "sentiment": "watch"
       },
       {
-        "title": "Lucid, JELD-WEN, Kennametal, LGI Homes, and EVgo Shares Are Falling, What You Need To Know",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/37ff9d23bd26a4f9",
-        "published": "2026-10-08T22:37:32Z",
-        "sentiment": "watch"
+        "title": "Oil prices fall as Trump comments on Iran talks ease supply concerns",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-trump-comments-on-iran-talks-ease-supply-concerns-126100900127_1.html",
+        "published": "2026-10-09T03:29:46Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Enphase and Autoliv Shares Plummet, What You Need To Know",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/f7a540849ec944c9",
-        "published": "2026-10-08T22:37:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran taking concrete steps to resolve conflict with US – Putin",
-        "source": "RT",
-        "url": "https://www.rt.com/news/646957-iran-us-concrete-steps-putin/",
-        "published": "2026-10-08T22:14:26Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Report: US prepares major Iran strike plans",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/434326",
-        "published": "2026-10-08T22:05:16Z",
+        "title": "Oil Price Today (October 9): Crude oil dips 1% to $103 as Trump rules out Iran attack before midterm elections. What are analysts saying?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-9-crude-oil-dips-1-to-103-as-trump-rules-out-iran-attack-before-midterm-elections-what-are-analysts-saying/articleshow/134804292.cms",
+        "published": "2026-10-09T02:21:36Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "U.S. East Asian envoy says investors are overpricing Taiwan risk, calls Xi a 'very rational actor'",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html",
+        "published": "2026-10-09T01:10:47Z",
+        "sentiment": "watch"
+      },
       {
         "title": "F-35 parts were sent from Australia to Hong Kong: How a shipping error put sensitive US stealth technology near China",
         "source": "The Times of India",
@@ -89,13 +96,6 @@
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/10/06/china-taiwan-political-peaceful-reunification/",
         "published": "2026-10-06T19:19:55Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What to know after U.S. Marine arrested for murder in Japan",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/us-marine-arrested-murder-woman-japan-what-to-know/",
-        "published": "2026-10-06T10:34:08Z",
         "sentiment": "watch"
       }
     ],
