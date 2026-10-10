@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-10T16:21:06.367Z",
+    "generated_at": "2026-10-10T20:16:43.850Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Global Oil Tanker Shortage is Getting Worse By the Day",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/global-oil-tanker-shortage-is-getting-worse-by-the-day/",
-        "published": "2026-10-09T16:08:41Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Senator Chris Murphy Says Pete Hegseth-Led Pentagon Barred Inspection of Iran War-Damaged Gulf Base to Hide True Costs From Congress and Public",
-        "source": "Radaronline.com",
-        "url": "https://radaronline.com/p/pentagon-pete-hegseth-barred-inspection-iran-damaged-gulf-base-hide-costs/",
-        "published": "2026-10-09T16:02:21Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Saudi Arabia says three killed at airport as Yemen war expands",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/saudi-arabia-says-three-killed-airport-yemen-war-expands-6446871",
-        "published": "2026-10-09T15:28:25Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US Gas Prices Top $4 Again As Iran Conflict Drives Oil Costs Higher",
+        "title": "Treasury Hits Remaining 'Shadow Fleet' Shipping Iranian Oil To Asia With New Sanctions",
         "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/4a4f28916a7ce7a5",
-        "published": "2026-10-09T15:26:01Z",
+        "url": "https://biztoc.com/x/9252f604b02b90d0",
+        "published": "2026-10-09T19:42:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "Global refining shock lifts India’s diesel exports to a 12-month high in September",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/global-refining-shock-lifts-indias-diesel-exports-to-a-12-month-high-in-september/article71564866.ece",
-        "published": "2026-10-09T15:07:42Z",
+        "title": "Picnic Table Cover w/ Bench Covers 72\" Camping Tablecloth for $10 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Picnic-Table-Cover-w-Bench-Covers-72-Camping-Tablecloth-for-10-free-shipping-w-Prime/22267476.html",
+        "published": "2026-10-09T18:53:54Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "The United States Is Not Ready for the Arctic Age",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/10/09/arctic-russia-china-canada-energy-icebreakers/",
+        "published": "2026-10-09T18:40:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Record $80,000,000 Shipping Bills Are Pricing American Oil Out Of Asia",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/10/09/us-crude-exports-asia-tanker-rates-vlcc-freight-cosmo-oil-trafigura-max-pyziur",
+        "published": "2026-10-09T18:16:56Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html",
+        "published": "2026-10-09T18:02:01Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "What in the World?",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/10/09/news-quiz-pakistan-protest-spain-election-sanchez-ebola-nobel-prize/",
+        "published": "2026-10-09T17:15:31Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Is China seeking to restrict Taiwan's cultural presence?",
         "source": "DW (English)",
@@ -90,13 +97,6 @@
         "url": "https://www.naturalnews.com/2026-10-08-how-beijing-weaponizes-confusion-to-erode-democracy-without-firing-a-shot.html",
         "published": "2026-10-08T06:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "North Korea warns US over Taiwan while Kim pledges support for Russia",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/north-korea-warns-us-over-taiwan-while-kim-pledges-support-for-russia/articleshow/134754373.cms",
-        "published": "2026-10-07T02:47:33Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -118,7 +118,7 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "amber",
+    "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
