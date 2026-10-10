@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-10T05:38:28.314Z",
+    "generated_at": "2026-10-10T11:24:03.659Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Asim Munir drags Pakistan into the Saudi- Houthi war under the Mecca pact without consulting the country's political leadership",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/asim-munir-drags-pakistan-into-the-saudi-houthi-war-under-the-mecca-pact-without-consulting-the-countrys-political-leadership/articleshow/134808661.cms",
-        "published": "2026-10-09T05:29:27Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The new Middle East (Anna–Karvelas) is heading to court, Rubio on K.M., Theodora moves toward PASOK and Efi toward Alexis, pollsters on Kasidiaris",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/10/09/the-new-middle-east-anna-karvelas-is-heading-to-court-rubio-on-k-m-theodora-moves-toward-pasok-and-efi-toward-alexis-pollsters-on-kasidiaris/",
-        "published": "2026-10-09T04:59:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "South Indian D2C food brands turn to Mumbai tastings as online customer acquisition costs rise",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/companies/south-indian-d2c-food-brands-turn-to-mumbai-tastings-as-online-customer-acquisition-costs-rise/article71561459.ece",
-        "published": "2026-10-09T03:55:55Z",
+        "title": "Current price of oil as of October 9, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-10-09-2026/",
+        "published": "2026-10-09T11:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil prices fall as Trump comments on Iran talks ease supply concerns",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-trump-comments-on-iran-talks-ease-supply-concerns-126100900127_1.html",
-        "published": "2026-10-09T03:29:46Z",
-        "sentiment": "neutral"
+        "title": "Attack Kills 3, Including Pilot, at Saudi Airport",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/397850/attack-kills-3-including-pilot-at-saudi-airport.html",
+        "published": "2026-10-09T11:00:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Oil Price Today (October 9): Crude oil dips 1% to $103 as Trump rules out Iran attack before midterm elections. What are analysts saying?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-9-crude-oil-dips-1-to-103-as-trump-rules-out-iran-attack-before-midterm-elections-what-are-analysts-saying/articleshow/134804292.cms",
-        "published": "2026-10-09T02:21:36Z",
+        "title": "The Houthis aren't somebody else's problem. America can't afford to look away",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/opinion/houthis-arent-somebody-elses-problem-america-cant-afford-look-away",
+        "published": "2026-10-09T10:55:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Three Saudi nationals killed in attacks on Riyadh airport",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/1009/1594715-middle-east/",
+        "published": "2026-10-09T10:36:33Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "It Ain’t Over",
+        "source": "Lawyersgunsmoneyblog.com",
+        "url": "https://www.lawyersgunsmoneyblog.com/2026/10/it-aint-over",
+        "published": "2026-10-09T10:16:01Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
