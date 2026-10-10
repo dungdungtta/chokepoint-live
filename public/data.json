@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-10T11:24:03.659Z",
+    "generated_at": "2026-10-10T16:21:06.367Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Current price of oil as of October 9, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-10-09-2026/",
-        "published": "2026-10-09T11:00:00Z",
+        "title": "Global Oil Tanker Shortage is Getting Worse By the Day",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/global-oil-tanker-shortage-is-getting-worse-by-the-day/",
+        "published": "2026-10-09T16:08:41Z",
         "sentiment": "watch"
       },
       {
-        "title": "Attack Kills 3, Including Pilot, at Saudi Airport",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/397850/attack-kills-3-including-pilot-at-saudi-airport.html",
-        "published": "2026-10-09T11:00:00Z",
+        "title": "Senator Chris Murphy Says Pete Hegseth-Led Pentagon Barred Inspection of Iran War-Damaged Gulf Base to Hide True Costs From Congress and Public",
+        "source": "Radaronline.com",
+        "url": "https://radaronline.com/p/pentagon-pete-hegseth-barred-inspection-iran-damaged-gulf-base-hide-costs/",
+        "published": "2026-10-09T16:02:21Z",
         "sentiment": "danger"
       },
       {
-        "title": "The Houthis aren't somebody else's problem. America can't afford to look away",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/houthis-arent-somebody-elses-problem-america-cant-afford-look-away",
-        "published": "2026-10-09T10:55:37Z",
+        "title": "Saudi Arabia says three killed at airport as Yemen war expands",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/saudi-arabia-says-three-killed-airport-yemen-war-expands-6446871",
+        "published": "2026-10-09T15:28:25Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US Gas Prices Top $4 Again As Iran Conflict Drives Oil Costs Higher",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/4a4f28916a7ce7a5",
+        "published": "2026-10-09T15:26:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "Three Saudi nationals killed in attacks on Riyadh airport",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/1009/1594715-middle-east/",
-        "published": "2026-10-09T10:36:33Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "It Ain’t Over",
-        "source": "Lawyersgunsmoneyblog.com",
-        "url": "https://www.lawyersgunsmoneyblog.com/2026/10/it-aint-over",
-        "published": "2026-10-09T10:16:01Z",
+        "title": "Global refining shock lifts India’s diesel exports to a 12-month high in September",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/global-refining-shock-lifts-indias-diesel-exports-to-a-12-month-high-in-september/article71564866.ece",
+        "published": "2026-10-09T15:07:42Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Is China seeking to restrict Taiwan's cultural presence?",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/is-china-seeking-to-restrict-taiwans-cultural-presence/a-79610947",
+        "published": "2026-10-09T13:04:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "U.S. East Asian envoy says investors are overpricing Taiwan risk, calls Xi a 'very rational actor'",
         "source": "CNBC",
@@ -90,13 +97,6 @@
         "url": "https://economictimes.indiatimes.com/news/defence/north-korea-warns-us-over-taiwan-while-kim-pledges-support-for-russia/articleshow/134754373.cms",
         "published": "2026-10-07T02:47:33Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "China Doesn’t Need to Invade Taiwan to Control It",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/10/06/china-taiwan-political-peaceful-reunification/",
-        "published": "2026-10-06T19:19:55Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
