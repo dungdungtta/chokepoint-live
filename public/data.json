@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-11T05:28:51.577Z",
+    "generated_at": "2026-10-11T11:33:59.059Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Lots of Ministers floated budget ideas that failed to materialise, Simon Harris says",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/politics/2026/10/10/lots-of-ministers-floated-budget-ideas-that-failed-to-materialise-harris-says/",
-        "published": "2026-10-10T05:00:01Z",
+        "title": "Benchmark oil prices defy easing US-Iran tensions ahead of EPRA fuel review | The Eastleigh Voice",
+        "source": "Eastleighvoice.co.ke",
+        "url": "https://eastleighvoice.co.ke/business/410615/benchmark-oil-prices-defy-easing-us-iran-tensions-ahead-of-epra-fuel-review",
+        "published": "2026-10-10T11:03:23Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump and Iran agree on one thing. The US election calendar isn't driving their decisions on the war",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/trump-iran-agree-thing-us-election-calendar-driving-137152402",
-        "published": "2026-10-10T04:22:05Z",
+        "title": "Iran War: IRGC and Ansar Allah Fire Away At Tankers, Oil Facilities, Airports",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/10/iran-war-irgc-ansar-allah-tankers-oil-facilities-airports-taiz-bab-al-mendab.html",
+        "published": "2026-10-10T10:05:15Z",
         "sentiment": "danger"
       },
       {
-        "title": "The Strait of Hormuz in World History & the Present Crisis",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/10/strait-history-present.html",
-        "published": "2026-10-10T04:15:36Z",
+        "title": "\"High-level crisis team under PM needed\": Seafarers’ Union petitions Govt after Sharjah tanker attack",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/high-level-crisis-team-under-pm-needed-seafarers-union-petitions-govt-after-sharjah-tanker-attack/article71567645.ece",
+        "published": "2026-10-10T09:56:02Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Online Auctions Put a Price on Strange",
+        "source": "pymnts.com",
+        "url": "https://www.pymnts.com/pymnts-features/the-weekender/2026/online-auctions-put-a-price-on-strange/",
+        "published": "2026-10-10T08:00:47Z",
         "sentiment": "watch"
       },
       {
-        "title": "buy dexies 420 in BENDIGO (signal id : KANE.52) / whatzap : 0427818870",
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/forums/t/819237/buy-dexies-420-in-bendigo-signal-id-kane52-whatzap-0427818870/",
-        "published": "2026-10-10T02:37:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "buy dexies 420 in BRISBANE (signal id : KANE.52) / whatzap : 0427818870",
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/forums/t/819221/buy-dexies-420-in-brisbane-signal-id-kane52-whatzap-0427818870/",
-        "published": "2026-10-10T02:24:45Z",
+        "title": "How do you treat fungal infection in API fish?",
+        "source": "Lifesciencesworld.com",
+        "url": "https://www.lifesciencesworld.com/how-do-you-treat-fungal-infection-in-api-fish/",
+        "published": "2026-10-10T07:41:19Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan to boost military spending to 'deter war' with China",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346",
+        "published": "2026-10-10T09:38:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Taiwan's Lai calls on Indo-Pacific democracies to help maintain peace in National Day speech",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/taiwans-lai-calls-indo-pacific-democracies-maintain-peace-137152984",
+        "published": "2026-10-10T06:22:27Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan president says defence spending boost aims to ‘deter war’",
         "source": "Al Jazeera English",
@@ -82,20 +96,6 @@
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/10/09/news-quiz-pakistan-protest-spain-election-sanchez-ebola-nobel-prize/",
         "published": "2026-10-09T17:15:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Is China seeking to restrict Taiwan's cultural presence?",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/is-china-seeking-to-restrict-taiwans-cultural-presence/a-79610947",
-        "published": "2026-10-09T13:04:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "U.S. East Asian envoy says investors are overpricing Taiwan risk, calls Xi a 'very rational actor'",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html",
-        "published": "2026-10-09T01:10:47Z",
         "sentiment": "watch"
       }
     ],
