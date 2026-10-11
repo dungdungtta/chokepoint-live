@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-10T23:46:38.008Z",
+    "generated_at": "2026-10-11T05:28:51.577Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Why Record Crude Output Can’t Solve America’s Diesel Crisis",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Why-Record-Crude-Output-Cant-Solve-Americas-Diesel-Crisis.html",
-        "published": "2026-10-09T22:00:00Z",
+        "title": "Lots of Ministers floated budget ideas that failed to materialise, Simon Harris says",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/politics/2026/10/10/lots-of-ministers-floated-budget-ideas-that-failed-to-materialise-harris-says/",
+        "published": "2026-10-10T05:00:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "The two elections that revolve around Iran",
-        "source": "RT",
-        "url": "https://www.rt.com/news/647010-iran-us-elections-iran/",
-        "published": "2026-10-09T20:56:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "60-Count Sports Research 12mg Triple Strength Astaxanthin Softgels w/ Coconut Oil $14.55 w/ S&S & More + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20135814-60-count-sports-research-12mg-triple-strength-astaxanthin-softgels-w-coconut-oil-14-55-w-s-s-more-free-shipping-w-prime-or-on-35",
-        "published": "2026-10-09T20:36:55Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Strikes Diesel Deal With Putin to Lower Fuel Prices Ahead of Midterms",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/trump-strikes-diesel-deal-with-putin-to-lower-fuel-prices-ahead-of-midterms/",
-        "published": "2026-10-09T20:34:32Z",
+        "title": "Trump and Iran agree on one thing. The US election calendar isn't driving their decisions on the war",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/trump-iran-agree-thing-us-election-calendar-driving-137152402",
+        "published": "2026-10-10T04:22:05Z",
         "sentiment": "danger"
       },
       {
-        "title": "Treasury Hits Remaining 'Shadow Fleet' Shipping Iranian Oil To Asia With New Sanctions",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/9252f604b02b90d0",
-        "published": "2026-10-09T19:42:05Z",
+        "title": "The Strait of Hormuz in World History & the Present Crisis",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/10/strait-history-present.html",
+        "published": "2026-10-10T04:15:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "buy dexies 420 in BENDIGO (signal id : KANE.52) / whatzap : 0427818870",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/819237/buy-dexies-420-in-bendigo-signal-id-kane52-whatzap-0427818870/",
+        "published": "2026-10-10T02:37:54Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "buy dexies 420 in BRISBANE (signal id : KANE.52) / whatzap : 0427818870",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/819221/buy-dexies-420-in-brisbane-signal-id-kane52-whatzap-0427818870/",
+        "published": "2026-10-10T02:24:45Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan president says defence spending boost aims to ‘deter war’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war",
+        "published": "2026-10-10T05:08:49Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Markets too ready for conflict over Taiwan – US diplomat",
+        "source": "RT",
+        "url": "https://www.rt.com/business/647000-china-us-taiwan-conflict/",
+        "published": "2026-10-10T04:58:42Z",
+        "sentiment": "watch"
+      },
       {
         "title": "What in the World?",
         "source": "Foreign Policy",
@@ -82,20 +96,6 @@
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html",
         "published": "2026-10-09T01:10:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "F-35 parts were sent from Australia to Hong Kong: How a shipping error put sensitive US stealth technology near China",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/f-35-parts-were-sent-from-australia-to-hong-kong-how-a-shipping-error-put-sensitive-us-stealth-technology-near-china/articleshow/134795793.cms",
-        "published": "2026-10-08T19:16:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Chinaâs âgray zoneâ assault on Taiwan: How Beijing weaponizes confusion to erode democracy without firing a shot",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-10-08-how-beijing-weaponizes-confusion-to-erode-democracy-without-firing-a-shot.html",
-        "published": "2026-10-08T06:00:00Z",
         "sentiment": "watch"
       }
     ],
@@ -118,7 +118,7 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "yellow",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
