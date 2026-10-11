@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-11T11:33:59.059Z",
+    "generated_at": "2026-10-11T16:47:24.969Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Benchmark oil prices defy easing US-Iran tensions ahead of EPRA fuel review | The Eastleigh Voice",
-        "source": "Eastleighvoice.co.ke",
-        "url": "https://eastleighvoice.co.ke/business/410615/benchmark-oil-prices-defy-easing-us-iran-tensions-ahead-of-epra-fuel-review",
-        "published": "2026-10-10T11:03:23Z",
+        "title": "Trump’s diesel deal with Putin may be lots of barrels but little bang",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-diesel-deal-with-putin-may-be-lots-of-barrels-but-little-bang/articleshow/134857757.cms",
+        "published": "2026-10-10T16:31:19Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran War: IRGC and Ansar Allah Fire Away At Tankers, Oil Facilities, Airports",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/10/iran-war-irgc-ansar-allah-tankers-oil-facilities-airports-taiz-bab-al-mendab.html",
-        "published": "2026-10-10T10:05:15Z",
+        "title": "Missile Strikes Passenger Terminal at Riyadh Airport and Many are Wounded, Official Says",
+        "source": "Military.com",
+        "url": "https://military.com/missile-strikes-passenger-terminal-riyadh-airport-many-are-wounded-official-says",
+        "published": "2026-10-10T16:11:35Z",
         "sentiment": "danger"
       },
       {
-        "title": "\"High-level crisis team under PM needed\": Seafarers’ Union petitions Govt after Sharjah tanker attack",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/high-level-crisis-team-under-pm-needed-seafarers-union-petitions-govt-after-sharjah-tanker-attack/article71567645.ece",
-        "published": "2026-10-10T09:56:02Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Online Auctions Put a Price on Strange",
-        "source": "pymnts.com",
-        "url": "https://www.pymnts.com/pymnts-features/the-weekender/2026/online-auctions-put-a-price-on-strange/",
-        "published": "2026-10-10T08:00:47Z",
+        "title": "'Many wounded' as missile hits Riyadh airport terminal",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/2026/1010/1594858-multiple-people-wounded-following-blast-at-riyadh-airport/",
+        "published": "2026-10-10T15:56:29Z",
         "sentiment": "watch"
       },
       {
-        "title": "How do you treat fungal infection in API fish?",
-        "source": "Lifesciencesworld.com",
-        "url": "https://www.lifesciencesworld.com/how-do-you-treat-fungal-infection-in-api-fish/",
-        "published": "2026-10-10T07:41:19Z",
+        "title": "Shipping an oil tanker now costs more than launching a SpaceX rocket",
+        "source": "Haaretz",
+        "url": "https://www.haaretz.com/israel-news/business/economy-finance/2026-10-10/ty-article/shipping-an-oil-tanker-now-costs-more-than-launching-a-spacex-rocket/000001a1-24e3-daa9-a9f5-75e750b20000",
+        "published": "2026-10-10T15:10:57Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Saudi capital airport hit again, sparking evacuations, reports say",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no",
+        "published": "2026-10-10T15:05:55Z",
         "sentiment": "watch"
       }
     ],
