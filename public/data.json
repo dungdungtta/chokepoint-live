@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-12T06:23:55.701Z",
+    "generated_at": "2026-10-12T15:58:02.230Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "CENTCOM Admits Striking Cargo Vessel in Gulf of Oman",
-        "source": "Sputnikglobe.com",
-        "url": "https://sputnikglobe.com/20261011/centcom-admits-striking-cargo-vessel-in-gulf-of-oman-1124863102.html",
-        "published": "2026-10-11T03:52:00Z",
+        "title": "Looming midterms paralyze Trump's ability to help US ally after deadly attack: analyst",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/iran-war-2678071215/",
+        "published": "2026-10-11T15:40:11Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran-US war: Is key Donald Trump ally Saudi Arabia losing battle against Iran-backed Houthis in Yemen?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/iran-us-war-is-key-donald-trump-ally-saudi-arabia-losing-battle-against-iran-backed-houthis-in-yemen/articleshow/134872291.cms",
+        "published": "2026-10-11T14:50:33Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Saudi Arabia goes on alert, ex-aide testifies in Netanyahu trial, and other Mideast developments",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/saudi-arabia-alert-aide-testifies-netanyahu-trial-mideast-137175749",
+        "published": "2026-10-11T14:46:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "US Says It Disabled Cargo Vessel Trying To Run Iran Blockade",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/us-says-it-disabled-cargo-vessel-trying-to-run-iran-blockade/",
-        "published": "2026-10-11T03:02:36Z",
-        "sentiment": "danger"
+        "title": "Crude oil outlook: US-Iran talks, supply risks likely to keep prices volatile",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/crude-oil-outlook-us-iran-talks-supply-risks-likely-to-keep-prices-volatile/articleshow/134871719.cms",
+        "published": "2026-10-11T13:58:53Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Pentagon quietly admits true death toll of Iran war as 21 Americans are killed and hundreds are injured... after Hegseth claimed missing casualties were 'a complete lie'",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16199207/Pentagon-admission-death-toll-Iran-war-21-Americans-Hegseth.html",
-        "published": "2026-10-11T01:57:04Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Saudi Arabia extends airport closure and moves Riyadh schools online after deadly strike",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/saudi-arabia-extends-airport-closure-after-attack-9.7377486",
-        "published": "2026-10-11T01:56:14Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "12 killed, over 300 injured in latest attack on Saudi's Riyadh airport",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/12-killed-over-300-injured-in-latest-attack-on-saudi-s-riyadh-airport-126101100047_1.html",
-        "published": "2026-10-11T01:40:11Z",
+        "title": "Saudi Arabia Extends Airport Closure And Moves Riyadh Schools Online As Attack Threats Continue",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/ap-ml-saudi-arabia-airport-attack_n_6acb7ee3e4b0a568b68e242d",
+        "published": "2026-10-11T12:22:25Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan fears for US support as Trump and Xi prepare for fresh talks",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/asia-pacific/2026/10/11/taiwan-fears-for-us-support-as-trump-and-xi-prepare-for-fresh-talks/",
+        "published": "2026-10-11T08:20:25Z",
+        "sentiment": "neutral"
+      },
       {
         "title": "Taiwan to boost military spending to 'deter war' with China",
         "source": "DW (English)",
@@ -86,16 +93,9 @@
       },
       {
         "title": "Markets too ready for conflict over Taiwan – US diplomat",
-        "source": "RT",
-        "url": "https://www.rt.com/business/647000-china-us-taiwan-conflict/",
+        "source": "Rt-english.com",
+        "url": "https://rt-english.com/business/647000-china-us-taiwan-conflict/",
         "published": "2026-10-10T04:58:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What in the World?",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/10/09/news-quiz-pakistan-protest-spain-election-sanchez-ebola-nobel-prize/",
-        "published": "2026-10-09T17:15:31Z",
         "sentiment": "watch"
       }
     ],
