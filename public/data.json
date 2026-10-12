@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-12T15:58:02.230Z",
+    "generated_at": "2026-10-12T22:52:56.700Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Looming midterms paralyze Trump's ability to help US ally after deadly attack: analyst",
-        "source": "Raw Story",
-        "url": "https://www.rawstory.com/iran-war-2678071215/",
-        "published": "2026-10-11T15:40:11Z",
+        "title": "Saudi Arabia vows retaliation against Houthis after airport strike kills at least 12",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/world/articles/saudi-arabia-vows-retaliation-against-224323273.html",
+        "published": "2026-10-11T22:43:23Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran-US war: Is key Donald Trump ally Saudi Arabia losing battle against Iran-backed Houthis in Yemen?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/iran-us-war-is-key-donald-trump-ally-saudi-arabia-losing-battle-against-iran-backed-houthis-in-yemen/articleshow/134872291.cms",
-        "published": "2026-10-11T14:50:33Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Saudi Arabia goes on alert, ex-aide testifies in Netanyahu trial, and other Mideast developments",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/saudi-arabia-alert-aide-testifies-netanyahu-trial-mideast-137175749",
-        "published": "2026-10-11T14:46:12Z",
+        "title": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/b53bccaa2544b61a",
+        "published": "2026-10-11T20:55:33Z",
         "sentiment": "watch"
       },
       {
-        "title": "Crude oil outlook: US-Iran talks, supply risks likely to keep prices volatile",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/crude-oil-outlook-us-iran-talks-supply-risks-likely-to-keep-prices-volatile/articleshow/134871719.cms",
-        "published": "2026-10-11T13:58:53Z",
-        "sentiment": "neutral"
+        "title": "Trump's quest to bring down gas prices ahead of the midterms is not going great",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/oil-gas-diesel-prices-midterms-iran-russia-ukraine-saudi-arabia-2026-10#article",
+        "published": "2026-10-11T20:01:17Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Saudi Arabia Extends Airport Closure And Moves Riyadh Schools Online As Attack Threats Continue",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/ap-ml-saudi-arabia-airport-attack_n_6acb7ee3e4b0a568b68e242d",
-        "published": "2026-10-11T12:22:25Z",
-        "sentiment": "danger"
+        "title": "Swan Defence and Heavy Industries Ltd set to win Rs 1,897 crore tanker order",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/swan-defence-and-heavy-industries-ltd-set-to-win-rs-1897-crore-tanker-order/articleshow/134876985.cms",
+        "published": "2026-10-11T19:38:42Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Russia hits Ukraine power plants despite Trump energy ceasefire claim",
+        "source": "The Punch",
+        "url": "https://punchng.com/russia-hits-ukraine-power-plants-despite-trump-energy-ceasefire-claim/",
+        "published": "2026-10-11T19:35:46Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
