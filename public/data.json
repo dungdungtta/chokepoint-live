@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-11T20:52:38.111Z",
+    "generated_at": "2026-10-12T00:24:24.919Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump Weighs Joining The Fight Against Houthis After Saudi Capital's Airport Is Struck Again",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/saudi-arabia-airport-attack-trump_n_6acaa0efe4b0942a61417afe",
-        "published": "2026-10-10T20:39:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ship captains and crews transiting the Strait of Hormuz make so much danger pay that they’re ‘almost being viewed as mercenaries’",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/10/10/ship-captains-crews-strait-of-hormuz-danger-mercenaries-tankers-freight-rates/",
-        "published": "2026-10-10T19:41:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "International Airport Evacuated After Missile Strikes Passenger Terminals and Leave Untold Number Hurt: Reports",
-        "source": "Mediaite",
-        "url": "https://www.mediaite.com/media/news/international-airport-evacuated-after-missile-strikes-passenger-terminals-and-leaving-untold-number-hurt-reports/",
-        "published": "2026-10-10T19:26:31Z",
+        "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+        "published": "2026-10-10T23:44:15Z",
         "sentiment": "danger"
       },
       {
-        "title": "Shipping companies offering sailors 'crazy money' to transit Strait of Hormuz",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-10-11/sailors-offered-bonuses-to-cross-strait-of-hormuz-in-iran-war/107248044",
-        "published": "2026-10-10T18:48:28Z",
-        "sentiment": "watch"
+        "title": "12 Dead, 300 Injured in Attack on Saudi Airport",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/397927/12-dead-300-injured-in-attack-on-saudi-airport.html",
+        "published": "2026-10-10T23:15:32Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Trump Is an Easy Mark for Putin",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/ideas/2026/10/trumps-diesel-deal-sells-out-ukraine/688964/?utm_source=feed",
-        "published": "2026-10-10T18:14:00Z",
-        "sentiment": "watch"
+        "title": "Attack on Saudi airport kills 12 people and wounds more than 300—the deadliest strike in any Gulf Arab country since the start of the Iran war",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/10/10/attack-riyadh-airport-saudi-arabia-iran-war-yemen-houthis/",
+        "published": "2026-10-10T23:13:43Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Twelve killed and 300 injured in Riyadh airport attack",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/1011/1594880-middle-east-saudi/",
+        "published": "2026-10-10T23:03:30Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "At least 12 killed in Riyadh airport attack - officials",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/1011/1594880-middle-east/",
+        "published": "2026-10-10T23:03:30Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
