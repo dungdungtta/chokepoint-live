@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-12T00:24:24.919Z",
+    "generated_at": "2026-10-12T06:23:55.701Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-        "published": "2026-10-10T23:44:15Z",
+        "title": "CENTCOM Admits Striking Cargo Vessel in Gulf of Oman",
+        "source": "Sputnikglobe.com",
+        "url": "https://sputnikglobe.com/20261011/centcom-admits-striking-cargo-vessel-in-gulf-of-oman-1124863102.html",
+        "published": "2026-10-11T03:52:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US Says It Disabled Cargo Vessel Trying To Run Iran Blockade",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/us-says-it-disabled-cargo-vessel-trying-to-run-iran-blockade/",
+        "published": "2026-10-11T03:02:36Z",
         "sentiment": "danger"
       },
       {
-        "title": "12 Dead, 300 Injured in Attack on Saudi Airport",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/397927/12-dead-300-injured-in-attack-on-saudi-airport.html",
-        "published": "2026-10-10T23:15:32Z",
+        "title": "Pentagon quietly admits true death toll of Iran war as 21 Americans are killed and hundreds are injured... after Hegseth claimed missing casualties were 'a complete lie'",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16199207/Pentagon-admission-death-toll-Iran-war-21-Americans-Hegseth.html",
+        "published": "2026-10-11T01:57:04Z",
         "sentiment": "danger"
       },
       {
-        "title": "Attack on Saudi airport kills 12 people and wounds more than 300—the deadliest strike in any Gulf Arab country since the start of the Iran war",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/10/10/attack-riyadh-airport-saudi-arabia-iran-war-yemen-houthis/",
-        "published": "2026-10-10T23:13:43Z",
+        "title": "Saudi Arabia extends airport closure and moves Riyadh schools online after deadly strike",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/saudi-arabia-extends-airport-closure-after-attack-9.7377486",
+        "published": "2026-10-11T01:56:14Z",
         "sentiment": "danger"
       },
       {
-        "title": "Twelve killed and 300 injured in Riyadh airport attack",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/1011/1594880-middle-east-saudi/",
-        "published": "2026-10-10T23:03:30Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "At least 12 killed in Riyadh airport attack - officials",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/1011/1594880-middle-east/",
-        "published": "2026-10-10T23:03:30Z",
+        "title": "12 killed, over 300 injured in latest attack on Saudi's Riyadh airport",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/12-killed-over-300-injured-in-latest-attack-on-saudi-s-riyadh-airport-126101100047_1.html",
+        "published": "2026-10-11T01:40:11Z",
         "sentiment": "danger"
       }
     ],
