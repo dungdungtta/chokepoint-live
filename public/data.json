@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-13T11:00:30.153Z",
+    "generated_at": "2026-10-13T18:20:46.888Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Sensex today | Stock Market Highlights: Stock markets tumble on oil price spike, foreign fund outflows; Sensex drops 548 points",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-12-october-2026/article71571162.ece",
-        "published": "2026-10-12T10:45:20Z",
+        "title": "Anthropic admits Houthis used Claude AI instead of weapons engineers to make rockets and ballistic missiles that correct themselves after missing targets",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16202851/Anthropic-admits-Houthis-used-Claude-AI-instead-weapons-engineers-make-rockets-ballistic-missiles-correct-missing-targets.html",
+        "published": "2026-10-12T18:06:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "Brent crude forecast raised to $90 by December 2026 amid West Asia supply risks",
-        "source": "Nationpress.com",
-        "url": "https://www.nationpress.com/business/goldman-sees-brent-at-dollar90-by-december-2026",
-        "published": "2026-10-12T10:35:29Z",
+        "title": "After oil increasingly left the Gulf, Iran is trying to regain its stranglehold on shipping - CNN",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186271988",
+        "published": "2026-10-12T17:33:28Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o",
-        "published": "2026-10-12T10:28:47Z",
-        "sentiment": "danger"
+        "title": "IRGC Navy says it hit third supertanker in Strait of Hormuz",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/irgc-navy-strikes-third-supertanker-in-strait-of-hormuz-amid-rising-tensions/articleshow/134898952.cms",
+        "published": "2026-10-12T17:31:01Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Saudi Eyes 10 Million Barrels a Day of Oil Pipe Capacity",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/saudi-eyes-10-million-barrels-a-day-of-oil-pipe-capacity/",
-        "published": "2026-10-12T10:04:04Z",
+        "title": "Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Black-Sea-Oil-Shipping-Insurance-Costs-Surge-to-25-Million.html",
+        "published": "2026-10-12T17:30:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Bitcoin Spooked? Crypto Fear and Greed Index Drops to Pre-Rally August Lows",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops",
+        "published": "2026-10-12T16:41:34Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Why the China is cancelling this Taiwanese TV star",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-10-13/taiwan-local-election-kevin-tsai-censorship/107255364",
+        "published": "2026-10-12T18:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "How China and America Can Move from Competition to Stability",
         "source": "War on the Rocks",
@@ -83,16 +97,16 @@
         "url": "https://abcnews.com/International/wireStory/taiwans-lai-calls-indo-pacific-democracies-maintain-peace-137152984",
         "published": "2026-10-10T06:22:27Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan president says defence spending boost aims to ‘deter war’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war",
-        "published": "2026-10-10T05:08:49Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
+      {
+        "title": "F1 Highlights The Realities Of Global Sport’s Chokepoint Problems",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/simonchadwick/2026/10/12/f1-highlights-the-realities-of-global-sports-chokepoint-problems/",
+        "published": "2026-10-12T12:48:40Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The New Geopolitcal Landscape: How to Do Business in a World Adrift",
         "source": "Fair Observer",
