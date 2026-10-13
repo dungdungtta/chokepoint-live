@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-13T18:20:46.888Z",
+    "generated_at": "2026-10-13T23:02:39.584Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Anthropic admits Houthis used Claude AI instead of weapons engineers to make rockets and ballistic missiles that correct themselves after missing targets",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16202851/Anthropic-admits-Houthis-used-Claude-AI-instead-weapons-engineers-make-rockets-ballistic-missiles-correct-missing-targets.html",
-        "published": "2026-10-12T18:06:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "After oil increasingly left the Gulf, Iran is trying to regain its stranglehold on shipping - CNN",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186271988",
-        "published": "2026-10-12T17:33:28Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "IRGC Navy says it hit third supertanker in Strait of Hormuz",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/irgc-navy-strikes-third-supertanker-in-strait-of-hormuz-amid-rising-tensions/articleshow/134898952.cms",
-        "published": "2026-10-12T17:31:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million",
+        "title": "Trump Curbs Farmers’ Access to Funding for Energy Projects",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Black-Sea-Oil-Shipping-Insurance-Costs-Surge-to-25-Million.html",
-        "published": "2026-10-12T17:30:00Z",
+        "url": "https://oilprice.com/Energy/Energy-General/Trump-Curbs-Farmers-Access-to-Funding-for-Energy-Projects.html",
+        "published": "2026-10-12T23:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Bitcoin Spooked? Crypto Fear and Greed Index Drops to Pre-Rally August Lows",
-        "source": "Decrypt",
-        "url": "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops",
-        "published": "2026-10-12T16:41:34Z",
+        "title": "MARK ALMOND: Trump boasted he would make America great again. What irony that he's now presiding over its slow demise as a superpower",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/debate/article-16203691/MARK-ALMOND-Trump-America-superpower.html",
+        "published": "2026-10-12T22:03:43Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Global Coal Demand Rises as LNG Shortage Deepens",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Natural-Gas/Global-Coal-Demand-Rises-as-LNG-Shortage-Deepens.html",
+        "published": "2026-10-12T22:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "'Beware': Expert flags 'hallmark' sign of huge energy shock in key midterm states",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/patrick-de-haan/",
+        "published": "2026-10-12T21:45:09Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Tanker Data Shows Millions Fewer Barrels A Day Crossing Hormuz Than Energy Secretary Says",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/10/12/chris-wright-strait-of-hormuz-oil-flows-kpler-tanker-data-kevin-book-matthew-mcmanus",
+        "published": "2026-10-12T21:38:14Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Chinese Military Reaping Benefits From Ukraine War Without Having To Fire A Single Shot",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/10/12/china-ukraine-war",
+        "published": "2026-10-12T20:37:32Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Why the China is cancelling this Taiwanese TV star",
         "source": "ABC News (AU)",
@@ -90,13 +97,6 @@
         "url": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346",
         "published": "2026-10-10T09:38:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Taiwan's Lai calls on Indo-Pacific democracies to help maintain peace in National Day speech",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/taiwans-lai-calls-indo-pacific-democracies-maintain-peace-137152984",
-        "published": "2026-10-10T06:22:27Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
