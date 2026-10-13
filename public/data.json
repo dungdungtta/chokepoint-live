@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-13T03:28:06.326Z",
+    "generated_at": "2026-10-13T11:00:30.153Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Deadly attacks on Saudi Arabia risk wider war that draws in US",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/deadly-attacks-on-saudi-arabia-risk-wider-war-that-draws-in-us/articleshow/134881391.cms",
-        "published": "2026-10-12T03:23:55Z",
+        "title": "Sensex today | Stock Market Highlights: Stock markets tumble on oil price spike, foreign fund outflows; Sensex drops 548 points",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-12-october-2026/article71571162.ece",
+        "published": "2026-10-12T10:45:20Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Brent crude forecast raised to $90 by December 2026 amid West Asia supply risks",
+        "source": "Nationpress.com",
+        "url": "https://www.nationpress.com/business/goldman-sees-brent-at-dollar90-by-december-2026",
+        "published": "2026-10-12T10:35:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o",
+        "published": "2026-10-12T10:28:47Z",
         "sentiment": "danger"
       },
       {
-        "title": "Saudi Arabia has few options as Houthis aim at heart of its ambitions",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/saudi-arabia-has-few-options-as-houthis-aim-at-heart-of-its-ambitions-126101200078_1.html",
-        "published": "2026-10-12T03:13:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/commodities/oil-falls-on-hopes-russia-ukraine-energy-ceasefire-will-boost-supplies-126101200047_1.html",
-        "published": "2026-10-12T03:01:58Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Asian shares cautious as earnings loom, oil prices slip on easing fears",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/asian-shares-cautious-as-earnings-loom-oil-prices-slip-on-easing-fears-126101200044_1.html",
-        "published": "2026-10-12T03:01:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US-China supertanker freight cost eases from record, data shows",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-china-supertanker-freight-cost-eases-from-record-data-shows/articleshow/134880963.cms",
-        "published": "2026-10-12T02:30:59Z",
+        "title": "Saudi Eyes 10 Million Barrels a Day of Oil Pipe Capacity",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/saudi-eyes-10-million-barrels-a-day-of-oil-pipe-capacity/",
+        "published": "2026-10-12T10:04:04Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "How China and America Can Move from Competition to Stability",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/how-china-and-america-can-move-from-competition-to-stability/",
+        "published": "2026-10-12T07:30:20Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan fears for US support as Trump and Xi prepare for fresh talks",
         "source": "The Irish Times",
@@ -90,13 +90,6 @@
         "url": "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war",
         "published": "2026-10-10T05:08:49Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Markets too ready for conflict over Taiwan – US diplomat",
-        "source": "Rt-english.com",
-        "url": "https://rt-english.com/business/647000-china-us-taiwan-conflict/",
-        "published": "2026-10-10T04:58:42Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
