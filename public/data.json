@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-12T22:52:56.700Z",
+    "generated_at": "2026-10-13T03:28:06.326Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Saudi Arabia vows retaliation against Houthis after airport strike kills at least 12",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/world/articles/saudi-arabia-vows-retaliation-against-224323273.html",
-        "published": "2026-10-11T22:43:23Z",
+        "title": "Deadly attacks on Saudi Arabia risk wider war that draws in US",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/deadly-attacks-on-saudi-arabia-risk-wider-war-that-draws-in-us/articleshow/134881391.cms",
+        "published": "2026-10-12T03:23:55Z",
         "sentiment": "danger"
       },
       {
-        "title": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/b53bccaa2544b61a",
-        "published": "2026-10-11T20:55:33Z",
+        "title": "Saudi Arabia has few options as Houthis aim at heart of its ambitions",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/saudi-arabia-has-few-options-as-houthis-aim-at-heart-of-its-ambitions-126101200078_1.html",
+        "published": "2026-10-12T03:13:40Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump's quest to bring down gas prices ahead of the midterms is not going great",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/oil-gas-diesel-prices-midterms-iran-russia-ukraine-saudi-arabia-2026-10#article",
-        "published": "2026-10-11T20:01:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Swan Defence and Heavy Industries Ltd set to win Rs 1,897 crore tanker order",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/swan-defence-and-heavy-industries-ltd-set-to-win-rs-1897-crore-tanker-order/articleshow/134876985.cms",
-        "published": "2026-10-11T19:38:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Russia hits Ukraine power plants despite Trump energy ceasefire claim",
-        "source": "The Punch",
-        "url": "https://punchng.com/russia-hits-ukraine-power-plants-despite-trump-energy-ceasefire-claim/",
-        "published": "2026-10-11T19:35:46Z",
+        "title": "Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/commodities/oil-falls-on-hopes-russia-ukraine-energy-ceasefire-will-boost-supplies-126101200047_1.html",
+        "published": "2026-10-12T03:01:58Z",
         "sentiment": "neutral"
+      },
+      {
+        "title": "Asian shares cautious as earnings loom, oil prices slip on easing fears",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/asian-shares-cautious-as-earnings-loom-oil-prices-slip-on-easing-fears-126101200044_1.html",
+        "published": "2026-10-12T03:01:43Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US-China supertanker freight cost eases from record, data shows",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-china-supertanker-freight-cost-eases-from-record-data-shows/articleshow/134880963.cms",
+        "published": "2026-10-12T02:30:59Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
