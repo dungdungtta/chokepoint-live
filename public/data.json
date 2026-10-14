@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-13T23:02:39.584Z",
+    "generated_at": "2026-10-14T01:55:53.584Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump Curbs Farmers’ Access to Funding for Energy Projects",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Trump-Curbs-Farmers-Access-to-Funding-for-Energy-Projects.html",
-        "published": "2026-10-12T23:00:00Z",
+        "title": "Global Oil Shipments Under Pressure as Supertanker Supplies Tighten",
+        "source": "Activistpost.com",
+        "url": "https://activistpost.com/global-oil-shipments-under-pressure-as-supertanker-supplies-tighten/",
+        "published": "2026-10-13T01:51:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "MARK ALMOND: Trump boasted he would make America great again. What irony that he's now presiding over its slow demise as a superpower",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/debate/article-16203691/MARK-ALMOND-Trump-America-superpower.html",
-        "published": "2026-10-12T22:03:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Global Coal Demand Rises as LNG Shortage Deepens",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Natural-Gas/Global-Coal-Demand-Rises-as-LNG-Shortage-Deepens.html",
-        "published": "2026-10-12T22:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "'Beware': Expert flags 'hallmark' sign of huge energy shock in key midterm states",
-        "source": "Raw Story",
-        "url": "https://www.rawstory.com/patrick-de-haan/",
-        "published": "2026-10-12T21:45:09Z",
+        "title": "Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand",
+        "published": "2026-10-13T01:46:25Z",
         "sentiment": "danger"
       },
       {
-        "title": "Tanker Data Shows Millions Fewer Barrels A Day Crossing Hormuz Than Energy Secretary Says",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/10/12/chris-wright-strait-of-hormuz-oil-flows-kpler-tanker-data-kevin-book-matthew-mcmanus",
-        "published": "2026-10-12T21:38:14Z",
+        "title": "Venezuelan crude comeback puts Reliance’s refining edge back in focus",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/companies/news/venezuelan-crude-comeback-puts-reliance-s-refining-edge-back-in-focus-11791800830505.html",
+        "published": "2026-10-13T00:30:57Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil ticks lower as Russia diesel supply prospects counter Gulf supply risks",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-ticks-lower-russia-diesel-supply-prospects-counter-gulf-supply-risks-6454521",
+        "published": "2026-10-13T00:25:13Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil falls as Russia diesel supply prospects counter Gulf supply risks",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-falls-russia-diesel-supply-prospects-counter-gulf-supply-risks-6454521",
+        "published": "2026-10-13T00:25:13Z",
         "sentiment": "watch"
       }
     ],
