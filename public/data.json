@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-14T01:55:53.584Z",
+    "generated_at": "2026-10-14T07:26:45.527Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Global Oil Shipments Under Pressure as Supertanker Supplies Tighten",
-        "source": "Activistpost.com",
-        "url": "https://activistpost.com/global-oil-shipments-under-pressure-as-supertanker-supplies-tighten/",
-        "published": "2026-10-13T01:51:00Z",
+        "title": "Crude oil crisis in Hormuz: Much more than just price and quantity",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/crude-oil-crisis-in-hormuz-much-more-than-just-price-and-quantity/articleshow/134907079.cms",
+        "published": "2026-10-13T06:47:37Z",
         "sentiment": "watch"
       },
       {
-        "title": "Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand",
-        "published": "2026-10-13T01:46:25Z",
+        "title": "Zelensky Criticizes Trump Over Russian Diesel Agreement as Allies Push Back",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-10-13-zelensky-criticizes-trump-over-russian-diesel-agreement.html",
+        "published": "2026-10-13T06:00:00Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Five High-Alert Action Items to Accomplish Before the End of 2026",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-10-13-five-high-alert-action-items-to-accomplish.html",
+        "published": "2026-10-13T06:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Rezaei: Iran Will Obliterate U.S. Tech Assets If Attacked",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-10-13-iran-obliterate-us-tech-assets-if-attacked.html",
+        "published": "2026-10-13T06:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Venezuelan crude comeback puts Reliance’s refining edge back in focus",
-        "source": "Livemint",
-        "url": "https://www.livemint.com/companies/news/venezuelan-crude-comeback-puts-reliance-s-refining-edge-back-in-focus-11791800830505.html",
-        "published": "2026-10-13T00:30:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil ticks lower as Russia diesel supply prospects counter Gulf supply risks",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-ticks-lower-russia-diesel-supply-prospects-counter-gulf-supply-risks-6454521",
-        "published": "2026-10-13T00:25:13Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil falls as Russia diesel supply prospects counter Gulf supply risks",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-falls-russia-diesel-supply-prospects-counter-gulf-supply-risks-6454521",
-        "published": "2026-10-13T00:25:13Z",
-        "sentiment": "watch"
+        "title": "Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says",
+        "published": "2026-10-13T05:59:48Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
