@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-14T07:26:45.527Z",
+    "generated_at": "2026-10-14T13:01:29.164Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Crude oil crisis in Hormuz: Much more than just price and quantity",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/crude-oil-crisis-in-hormuz-much-more-than-just-price-and-quantity/articleshow/134907079.cms",
-        "published": "2026-10-13T06:47:37Z",
+        "title": "France Seizes Another ‘Shadow Fleet’ Tanker; Russia Decries ‘Piracy’",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/france-seizes-another-shadow-fleet-tanker-russia-decries-piracy/",
+        "published": "2026-10-13T12:56:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "Zelensky Criticizes Trump Over Russian Diesel Agreement as Allies Push Back",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-10-13-zelensky-criticizes-trump-over-russian-diesel-agreement.html",
-        "published": "2026-10-13T06:00:00Z",
-        "sentiment": "neutral"
+        "title": "Tanker Strikes Rise As Iran Seeks To Regain Control Over Gulf Shipping",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/8ff321b7b9711f65",
+        "published": "2026-10-13T12:53:53Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Five High-Alert Action Items to Accomplish Before the End of 2026",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-10-13-five-high-alert-action-items-to-accomplish.html",
-        "published": "2026-10-13T06:00:00Z",
+        "title": "Current price of oil as of October 13, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-10-13-2026/",
+        "published": "2026-10-13T12:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Rezaei: Iran Will Obliterate U.S. Tech Assets If Attacked",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-10-13-iran-obliterate-us-tech-assets-if-attacked.html",
-        "published": "2026-10-13T06:00:00Z",
-        "sentiment": "danger"
+        "title": "BP Expects Up To $4.5B Impairments for Q3",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/bp_expects_up_to_45b_impairments_for_q3-13-oct-2026-184833-article/",
+        "published": "2026-10-13T11:34:21Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says",
-        "published": "2026-10-13T05:59:48Z",
-        "sentiment": "danger"
+        "title": "Japan to Compensate Oil Importers for High Shipping Costs",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Japan-to-Compensate-Oil-Importers-for-High-Shipping-Costs.html",
+        "published": "2026-10-13T11:30:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Links 10/13/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/?p=318040",
+        "published": "2026-10-13T10:55:34Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "How Taiwan Activates Beijing’s Chosen Fear",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/how-taiwan-activates-beijings-chosen-fear/",
+        "published": "2026-10-13T07:30:25Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Chinese Military Reaping Benefits From Ukraine War Without Having To Fire A Single Shot",
         "source": "The Daily Caller",
@@ -83,45 +97,9 @@
         "url": "https://warontherocks.com/how-china-and-america-can-move-from-competition-to-stability/",
         "published": "2026-10-12T07:30:20Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan fears for US support as Trump and Xi prepare for fresh talks",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/asia-pacific/2026/10/11/taiwan-fears-for-us-support-as-trump-and-xi-prepare-for-fresh-talks/",
-        "published": "2026-10-11T08:20:25Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Taiwan to boost military spending to 'deter war' with China",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346",
-        "published": "2026-10-10T09:38:00Z",
-        "sentiment": "danger"
       }
     ],
-    "malacca": [
-      {
-        "title": "F1 Highlights The Realities Of Global Sport’s Chokepoint Problems",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/simonchadwick/2026/10/12/f1-highlights-the-realities-of-global-sports-chokepoint-problems/",
-        "published": "2026-10-12T12:48:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The New Geopolitcal Landscape: How to Do Business in a World Adrift",
-        "source": "Fair Observer",
-        "url": "https://www.fairobserver.com/politics/the-new-geopolitcal-landscape-how-to-do-business-in-a-world-adrift/",
-        "published": "2026-09-15T14:03:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Asian coast guards call for closer co-op on fighting crime in South China Sea; drug trafficking, piracy, robbery among main concerns",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/security/library/news/2026/09/sec-260913-globaltimes01.htm",
-        "published": "2026-09-13T12:00:00Z",
-        "sentiment": "watch"
-      }
-    ]
+    "malacca": []
   },
   "zones": {
     "hormuz": "red",
