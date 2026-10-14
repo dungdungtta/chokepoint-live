@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-14T13:01:29.164Z",
+    "generated_at": "2026-10-14T18:02:11.555Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "France Seizes Another ‘Shadow Fleet’ Tanker; Russia Decries ‘Piracy’",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/france-seizes-another-shadow-fleet-tanker-russia-decries-piracy/",
-        "published": "2026-10-13T12:56:21Z",
+        "title": "From Healthcare and Fuel Costs to Tariffs, Trump GOP's Policies 'Crushing' Small Businesses",
+        "source": "Common Dreams",
+        "url": "https://www.commondreams.org/news/trump-tariff-impact-small-business",
+        "published": "2026-10-13T17:53:03Z",
         "sentiment": "watch"
       },
       {
-        "title": "Tanker Strikes Rise As Iran Seeks To Regain Control Over Gulf Shipping",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/8ff321b7b9711f65",
-        "published": "2026-10-13T12:53:53Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Current price of oil as of October 13, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-10-13-2026/",
-        "published": "2026-10-13T12:00:00Z",
+        "title": "West increasingly vulnerable to energy shocks – IMF",
+        "source": "Rt-english.com",
+        "url": "https://rt-english.com/business/647147-west-energy-economic-shock/",
+        "published": "2026-10-13T17:35:55Z",
         "sentiment": "watch"
       },
       {
-        "title": "BP Expects Up To $4.5B Impairments for Q3",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/bp_expects_up_to_45b_impairments_for_q3-13-oct-2026-184833-article/",
-        "published": "2026-10-13T11:34:21Z",
+        "title": "[SnS, AC] $1.82* | 2.1-Oz Palmer's Coconut Oil Hand Cream at Amazon",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20153457-sns-ac-1-82-2-1-oz-palmer-s-coconut-oil-hand-cream-at-amazon",
+        "published": "2026-10-13T17:04:07Z",
         "sentiment": "watch"
       },
       {
-        "title": "Japan to Compensate Oil Importers for High Shipping Costs",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Japan-to-Compensate-Oil-Importers-for-High-Shipping-Costs.html",
-        "published": "2026-10-13T11:30:00Z",
+        "title": "Türkiye posts $4.1B surplus in August as transport receipts surge - Türkiye Today",
+        "source": "Turkiyetoday.com",
+        "url": "https://www.turkiyetoday.com/business/turkiye-posts-41b-surplus-in-august-as-transport-receipts-surge-3230208",
+        "published": "2026-10-13T16:50:56Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump's diesel deal with Vladimir Putin sparks panic among Republicans ahead of midterm elections",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16205643/trump-diesel-deal-vladimir-putin-panic-republicans.html",
+        "published": "2026-10-13T16:45:28Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "A History of Taiwan and Beijing’s Influence There",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/history-taiwan-beijing-influence/5943679",
+        "published": "2026-10-13T13:47:27Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Links 10/13/2026",
         "source": "Nakedcapitalism.com",
@@ -90,16 +97,31 @@
         "url": "https://www.abc.net.au/news/2026-10-13/taiwan-local-election-kevin-tsai-censorship/107255364",
         "published": "2026-10-12T18:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "How China and America Can Move from Competition to Stability",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/how-china-and-america-can-move-from-competition-to-stability/",
-        "published": "2026-10-12T07:30:20Z",
-        "sentiment": "watch"
       }
     ],
-    "malacca": []
+    "malacca": [
+      {
+        "title": "F1 Highlights The Realities Of Global Sport’s Chokepoint Problems",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/simonchadwick/2026/10/12/f1-highlights-the-realities-of-global-sports-chokepoint-problems/",
+        "published": "2026-10-12T12:48:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The New Geopolitcal Landscape: How to Do Business in a World Adrift",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/politics/the-new-geopolitcal-landscape-how-to-do-business-in-a-world-adrift/",
+        "published": "2026-09-15T14:03:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Asian coast guards call for closer co-op on fighting crime in South China Sea; drug trafficking, piracy, robbery among main concerns",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/security/library/news/2026/09/sec-260913-globaltimes01.htm",
+        "published": "2026-09-13T12:00:00Z",
+        "sentiment": "watch"
+      }
+    ]
   },
   "zones": {
     "hormuz": "red",
