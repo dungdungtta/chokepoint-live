@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T04:46:17.541Z",
+    "generated_at": "2026-10-15T09:44:15.313Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran shifting tactics to step up attacks on shipping before US vote, officials say - Reuters",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186306806",
-        "published": "2026-10-14T04:12:50Z",
-        "sentiment": "danger"
+        "title": "Asian Oil Importers Bear Heaviest Costs as Iran Conflict Disrupts Strait of Hormuz Flows",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/hormuz-disruption-energy-costs-major-importers-1876682",
+        "published": "2026-10-14T09:00:16Z",
+        "sentiment": "watch"
       },
       {
-        "title": "War Against Yemen Endangers Saudi Crown Prince’s Position",
-        "source": "Lewrockwell.com",
-        "url": "https://www.lewrockwell.com/2026/10/no_author/war-against-yemen-endangers-saudi-crown-princes-position/",
-        "published": "2026-10-14T04:01:00Z",
-        "sentiment": "danger"
+        "title": "Kim, the behind-the-scenes manoeuvring and the replacement at the Embassy, the polls and 17 bleak years, Alexis’s doorstep, Mandarin at Ellinikon",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/10/14/kim-the-behind-the-scenes-manoeuvring-and-the-replacement-at-the-embassy-the-polls-and-17-bleak-years-alexiss-doorstep-mandarin-at-ellinikon/",
+        "published": "2026-10-14T08:41:09Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Saudi-led coalition strikes Yemen's Sanaa as Houthi conflict escalates",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/saudi-led-coalition-strikes-yemen-s-sanaa-as-houthi-conflict-escalates-126101400049_1.html",
-        "published": "2026-10-14T03:14:38Z",
-        "sentiment": "danger"
+        "title": "Nikkei Slips as Chip Rebound Fades Before U.S. CPI",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/151050.php",
+        "published": "2026-10-14T08:08:52Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Saudi Ministry Of Energy Reports Limited Fire In Building At Aramco Compound Targeted In Attack",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/saudi-arabia-yemen_n_6acee88ce4b064943479761a",
-        "published": "2026-10-14T02:43:57Z",
-        "sentiment": "danger"
+        "title": "The Mecca Pact and Pakistan’s Bid to Become Indispensable",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/the-mecca-pact-and-pakistans-bid-to-become-indispensable/",
+        "published": "2026-10-14T07:30:47Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Iran shifts tactics, steps up Gulf shipping attacks to pressure Trump before US midterms",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-shifts-tactics-steps-up-gulf-shipping-attacks-to-pressure-trump-before-us-midterms/articleshow/134930367.cms",
-        "published": "2026-10-14T02:32:00Z",
-        "sentiment": "danger"
+        "title": "Iran aims to humiliate Trump and ensure mid-term elections defeat with new Strait of Hormuz tactics",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16207667/Iran-aims-humiliate-Trump-ensure-mid-term-elections-defeat-new-Straits-Hormuz-tactics.html",
+        "published": "2026-10-14T07:30:11Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
