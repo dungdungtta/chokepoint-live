@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T09:44:15.313Z",
+    "generated_at": "2026-10-15T14:27:42.136Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -12,9 +12,9 @@
       "unit": "USD/bbl"
     },
     "freight": {
-      "freight_index": 185.9,
-      "change_pct": 1.4,
-      "date": "2026-08-01",
+      "freight_index": 189.7,
+      "change_pct": 2.2,
+      "date": "2026-09-01",
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Asian Oil Importers Bear Heaviest Costs as Iran Conflict Disrupts Strait of Hormuz Flows",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/hormuz-disruption-energy-costs-major-importers-1876682",
-        "published": "2026-10-14T09:00:16Z",
+        "title": "Record oil tanker rates put pressure on Asian refiners, IEA says",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/record-oil-tanker-rates-put-pressure-on-asian-refiners-iea-says/articleshow/134944948.cms",
+        "published": "2026-10-14T14:22:36Z",
         "sentiment": "watch"
       },
       {
-        "title": "Kim, the behind-the-scenes manoeuvring and the replacement at the Embassy, the polls and 17 bleak years, Alexis’s doorstep, Mandarin at Ellinikon",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/10/14/kim-the-behind-the-scenes-manoeuvring-and-the-replacement-at-the-embassy-the-polls-and-17-bleak-years-alexiss-doorstep-mandarin-at-ellinikon/",
-        "published": "2026-10-14T08:41:09Z",
+        "title": "Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/trumps-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601",
+        "published": "2026-10-14T14:15:00Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Shipping, Insurance Costs for Energy Flows Surge, OPEC, non-OPEC Ministers Say",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/10/14/888894.htm",
+        "published": "2026-10-14T14:13:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "Nikkei Slips as Chip Rebound Fades Before U.S. CPI",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/151050.php",
-        "published": "2026-10-14T08:08:52Z",
+        "title": "Mortgage Rates Today, Wednesday, October 14: A Little Lower, But it Won’t Last",
+        "source": "NerdWallet",
+        "url": "https://www.nerdwallet.com/mortgages/news/mortgage-rates-today-wednesday-october-14-2026",
+        "published": "2026-10-14T14:08:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Mecca Pact and Pakistan’s Bid to Become Indispensable",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/the-mecca-pact-and-pakistans-bid-to-become-indispensable/",
-        "published": "2026-10-14T07:30:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran aims to humiliate Trump and ensure mid-term elections defeat with new Strait of Hormuz tactics",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16207667/Iran-aims-humiliate-Trump-ensure-mid-term-elections-defeat-new-Straits-Hormuz-tactics.html",
-        "published": "2026-10-14T07:30:11Z",
+        "title": "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/10/record-tanker-rates-leave-heavy-crude-stranded-in-the-americas.html",
+        "published": "2026-10-14T13:48:20Z",
         "sentiment": "watch"
       }
     ],
