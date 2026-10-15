@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T18:34:49.403Z",
+    "generated_at": "2026-10-15T21:49:05.526Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 125.44,
-      "change_pct": -0.1,
-      "date": "2026-10-06",
+      "price": 126.55,
+      "change_pct": 0.6,
+      "date": "2026-10-14",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Essential Oils Set, 12 Pack only $5.99!",
-        "source": "Moneysavingmom.com",
-        "url": "https://moneysavingmom.com/essential-oils-set-great-deal/",
-        "published": "2026-10-14T18:15:52Z",
+        "title": "Get the 41+ best Advent calendars of the year before they sell out",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/select/shopping/best-advent-calendars-2026-rcna603495",
+        "published": "2026-10-14T21:25:04Z",
         "sentiment": "watch"
       },
       {
-        "title": "Yemen’s Houthis are bringing their war to Saudi Arabia – and reframing the narrative of being an Iranian proxy",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/yemens-houthis-are-bringing-their-war-to-saudi-arabia-and-reframing-the-narrative-of-being-an-iranian-proxy-294208",
-        "published": "2026-10-14T17:57:45Z",
-        "sentiment": "danger"
+        "title": "Surprise Starlink Cuts Blindside Kyiv",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/10/14/starlink-cuts-ukraine-defense-russia-elon-musk-trump-zelensky/",
+        "published": "2026-10-14T21:20:53Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Houthis Vow More Attacks After Strike on Aramco Headquarters",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Vow-More-Attacks-After-Strike-on-Aramco-Headquarters.html",
-        "published": "2026-10-14T17:30:00Z",
-        "sentiment": "danger"
+        "title": "Watch: US forces destroy Iranian surveillance vessel targeting navy ships",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/434631",
+        "published": "2026-10-14T21:10:25Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Bulk Carrier Sinks Weeks After Deadly Strait of Hormuz Strike",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/bulk-carrier-sinks-weeks-after-deadly-strait-of-hormuz-strike/",
-        "published": "2026-10-14T17:22:39Z",
-        "sentiment": "danger"
+        "title": "Pulsar 5250W Dual Fuel Inverter Generator for $499 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/products/Pulsar/Pulsar-5250-W-Dual-Fuel-Inverter-Generator/545050.html",
+        "published": "2026-10-14T21:06:03Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Qatar Rewrites Its Gas Playbook With Old Tankers and New Tactics",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/qatar-rewrites-its-gas-playbook-with-old-tankers-and-new-tactics/",
-        "published": "2026-10-14T17:15:02Z",
+        "title": "Global Diesel Shortages Could Last Into 2027. Bain Has a Playbook for Shippers",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/diesel-fuel-costs-prices-shortages-2027-surcharges-trucking-intermodal-bain-1239347871/",
+        "published": "2026-10-14T20:52:15Z",
         "sentiment": "watch"
       }
     ],
