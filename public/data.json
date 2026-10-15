@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T14:27:42.136Z",
+    "generated_at": "2026-10-15T18:34:49.403Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Record oil tanker rates put pressure on Asian refiners, IEA says",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/record-oil-tanker-rates-put-pressure-on-asian-refiners-iea-says/articleshow/134944948.cms",
-        "published": "2026-10-14T14:22:36Z",
+        "title": "Essential Oils Set, 12 Pack only $5.99!",
+        "source": "Moneysavingmom.com",
+        "url": "https://moneysavingmom.com/essential-oils-set-great-deal/",
+        "published": "2026-10-14T18:15:52Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/trumps-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601",
-        "published": "2026-10-14T14:15:00Z",
-        "sentiment": "neutral"
+        "title": "Yemen’s Houthis are bringing their war to Saudi Arabia – and reframing the narrative of being an Iranian proxy",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/yemens-houthis-are-bringing-their-war-to-saudi-arabia-and-reframing-the-narrative-of-being-an-iranian-proxy-294208",
+        "published": "2026-10-14T17:57:45Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Shipping, Insurance Costs for Energy Flows Surge, OPEC, non-OPEC Ministers Say",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/10/14/888894.htm",
-        "published": "2026-10-14T14:13:24Z",
-        "sentiment": "watch"
+        "title": "Houthis Vow More Attacks After Strike on Aramco Headquarters",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Vow-More-Attacks-After-Strike-on-Aramco-Headquarters.html",
+        "published": "2026-10-14T17:30:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Mortgage Rates Today, Wednesday, October 14: A Little Lower, But it Won’t Last",
-        "source": "NerdWallet",
-        "url": "https://www.nerdwallet.com/mortgages/news/mortgage-rates-today-wednesday-october-14-2026",
-        "published": "2026-10-14T14:08:18Z",
-        "sentiment": "watch"
+        "title": "Bulk Carrier Sinks Weeks After Deadly Strait of Hormuz Strike",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/bulk-carrier-sinks-weeks-after-deadly-strait-of-hormuz-strike/",
+        "published": "2026-10-14T17:22:39Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/10/record-tanker-rates-leave-heavy-crude-stranded-in-the-americas.html",
-        "published": "2026-10-14T13:48:20Z",
+        "title": "Qatar Rewrites Its Gas Playbook With Old Tankers and New Tactics",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/qatar-rewrites-its-gas-playbook-with-old-tankers-and-new-tactics/",
+        "published": "2026-10-14T17:15:02Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Today's news and jokes",
+        "source": "Superpunch.net",
+        "url": "https://www.superpunch.net/2026/10/todays-news-and-jokes_01720123625.html",
+        "published": "2026-10-14T16:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Submarine Cable Resilience",
+        "source": "Apnic.net",
+        "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+        "published": "2026-10-14T15:31:15Z",
+        "sentiment": "watch"
+      },
       {
         "title": "A History of Taiwan and Beijing’s Influence There",
         "source": "Globalresearch.ca",
@@ -82,20 +96,6 @@
         "source": "War on the Rocks",
         "url": "https://warontherocks.com/how-taiwan-activates-beijings-chosen-fear/",
         "published": "2026-10-13T07:30:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Chinese Military Reaping Benefits From Ukraine War Without Having To Fire A Single Shot",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/10/12/china-ukraine-war",
-        "published": "2026-10-12T20:37:32Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Why the China is cancelling this Taiwanese TV star",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-10-13/taiwan-local-election-kevin-tsai-censorship/107255364",
-        "published": "2026-10-12T18:00:00Z",
         "sentiment": "watch"
       }
     ],
@@ -118,7 +118,7 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "amber",
+    "taiwan": "yellow",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
