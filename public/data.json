@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-16T18:05:53.670Z",
+    "generated_at": "2026-10-16T21:15:32.118Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "How the Houthis are Helping Iran Turn Saudi Arabia Into a Pressure Point",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/how-the-houthis-are-helping-iran-turn-saudi-arabia-into-a-pressure-point/",
-        "published": "2026-10-15T18:00:12Z",
+        "title": "Container Shipping Would See Little Relief if US Eased Sanctions on ‘Shadow Fleet’ Vessels",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/freight-rates-container-shipping-us-sanctions-shadow-fleet-vessels-oil-prices-1239351791/",
+        "published": "2026-10-15T21:00:11Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Oil Prices Diverge as Supply Risks Mount",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_prices_diverge_as_supply_risks_mount-15-oct-2026-184860-article/",
+        "published": "2026-10-15T20:22:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "Living Well with Jesse Golden: On Holistic Health, Skin Longevity and the Rituals She Swears By",
-        "source": "thechalkboardmag.com",
-        "url": "https://thechalkboardmag.com/jesse-golden-beauty-wellness/",
-        "published": "2026-10-15T17:57:20Z",
-        "sentiment": "watch"
+        "title": "Snag Martha Stewart-approved beauty bestsellers for 60% off with this secret checkout code",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/10/15/shopping/save-up-to-60-on-laura-geller-makeup-bestsellers-sitewide/",
+        "published": "2026-10-15T20:16:11Z",
+        "sentiment": "danger"
       },
       {
-        "title": "US consumers are muscling through higher prices, but for how long?",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/us-consumers-muscling-higher-prices-long-137295721",
-        "published": "2026-10-15T17:53:43Z",
-        "sentiment": "watch"
+        "title": "Yemen's Houthis attack presidential palace in Aden, key Saudi infrastructure",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/yemen-houthis-attack-presidential-palace-9.7382188",
+        "published": "2026-10-15T18:59:30Z",
+        "sentiment": "danger"
       },
       {
-        "title": "US consumers are muscling through higher prices, but for how long?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-consumers-are-muscling-through-higher-prices-but-for-how-long-gas-prices-fuel-rates/articleshow/134973357.cms",
-        "published": "2026-10-15T17:29:07Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Shipping Costs Spike, Lifting Prices from Pump to Grocery",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/oil-shipping-costs-spike-lifting-prices-from-pump-to-grocery/",
-        "published": "2026-10-15T17:27:59Z",
+        "title": "US Treasury disrupts Iran’s financial networks under Operation Economic Outcast",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/treasury-operation-economic-outcast-iran-sanctions-2/",
+        "published": "2026-10-15T18:53:22Z",
         "sentiment": "watch"
       }
     ],
