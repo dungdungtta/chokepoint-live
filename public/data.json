@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-16T21:15:32.118Z",
+    "generated_at": "2026-10-16T23:42:26.274Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Container Shipping Would See Little Relief if US Eased Sanctions on ‘Shadow Fleet’ Vessels",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/freight-rates-container-shipping-us-sanctions-shadow-fleet-vessels-oil-prices-1239351791/",
-        "published": "2026-10-15T21:00:11Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Oil Prices Diverge as Supply Risks Mount",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_prices_diverge_as_supply_risks_mount-15-oct-2026-184860-article/",
-        "published": "2026-10-15T20:22:24Z",
+        "title": "The Diesel Crunch Will Persist Well into 2027",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/The-Diesel-Crunch-Will-Persist-Well-into-2027.html",
+        "published": "2026-10-15T23:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Snag Martha Stewart-approved beauty bestsellers for 60% off with this secret checkout code",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/10/15/shopping/save-up-to-60-on-laura-geller-makeup-bestsellers-sitewide/",
-        "published": "2026-10-15T20:16:11Z",
+        "title": "Two Ships Sink Near Strait of Hormuz After ‘Projectile’ Attacks",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/10/15/two-ships-sink-near-strait-of-hormuz-after-projectile-attacks/",
+        "published": "2026-10-15T22:29:34Z",
         "sentiment": "danger"
       },
       {
-        "title": "Yemen's Houthis attack presidential palace in Aden, key Saudi infrastructure",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/yemen-houthis-attack-presidential-palace-9.7382188",
-        "published": "2026-10-15T18:59:30Z",
+        "title": "Houthis emerge as global threat beyond Iran control amid Saudi strikes, former envoy warns",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/houthis-emerge-global-threat-iran-control-saudi-attacks-says-former-envoy",
+        "published": "2026-10-15T22:25:57Z",
         "sentiment": "danger"
       },
       {
-        "title": "US Treasury disrupts Iran’s financial networks under Operation Economic Outcast",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/treasury-operation-economic-outcast-iran-sanctions-2/",
-        "published": "2026-10-15T18:53:22Z",
-        "sentiment": "watch"
+        "title": "Five killed in Houthi strike on presidential palace in Aden",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-10-16/houthis-attack-aden-killing-five-and-wounding-16/107268204",
+        "published": "2026-10-15T21:24:37Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
