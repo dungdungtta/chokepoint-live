@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T21:49:05.526Z",
+    "generated_at": "2026-10-16T00:13:14.811Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Get the 41+ best Advent calendars of the year before they sell out",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/select/shopping/best-advent-calendars-2026-rcna603495",
-        "published": "2026-10-14T21:25:04Z",
-        "sentiment": "watch"
+        "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz",
+        "published": "2026-10-15T00:00:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Surprise Starlink Cuts Blindside Kyiv",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/10/14/starlink-cuts-ukraine-defense-russia-elon-musk-trump-zelensky/",
-        "published": "2026-10-14T21:20:53Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Watch: US forces destroy Iranian surveillance vessel targeting navy ships",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/434631",
-        "published": "2026-10-14T21:10:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Pulsar 5250W Dual Fuel Inverter Generator for $499 + free shipping",
+        "title": "Handcraft Blends 4-oz. Peppermint Essential Oil for $8.54 w/ Subscribe & Save + free shipping w/ Prime",
         "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/products/Pulsar/Pulsar-5250-W-Dual-Fuel-Inverter-Generator/545050.html",
-        "published": "2026-10-14T21:06:03Z",
+        "url": "https://www.dealnews.com/Handcraft-Blends-4-oz-Peppermint-Essential-Oil-for-8-54-w-Subscribe-Save-free-shipping-w-Prime/22284683.html",
+        "published": "2026-10-14T23:57:13Z",
         "sentiment": "watch"
       },
       {
-        "title": "Global Diesel Shortages Could Last Into 2027. Bain Has a Playbook for Shippers",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/diesel-fuel-costs-prices-shortages-2027-surcharges-trucking-intermodal-bain-1239347871/",
-        "published": "2026-10-14T20:52:15Z",
+        "title": "US expects Russian diesel to start flowing before midterms",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/10/14/us-news/us-expects-russian-diesel-to-start-flowing-before-midterms/",
+        "published": "2026-10-14T22:35:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Energyflation? More like everything-flation",
+        "source": "Marketplace.org",
+        "url": "https://www.marketplace.org/episode/2026/10/14/energyflation-more-like-everythingflation",
+        "published": "2026-10-14T22:25:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "LIST: Top Industrial Boomtown -- Bakersfield? California Farm Country Becoming Major Logistics Hub...",
+        "source": "Studyfinds.com",
+        "url": "https://studyfinds.com/bakersfield-usa-top-industrial-boomtowns/",
+        "published": "2026-10-14T22:00:12Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Strait of Hormuz Could Become America’s Suez Moment",
+        "source": "Activistpost.com",
+        "url": "https://activistpost.com/the-strait-of-hormuz-could-become-americas-suez-moment/",
+        "published": "2026-10-14T22:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Today's news and jokes",
         "source": "Superpunch.net",
@@ -89,13 +96,6 @@
         "source": "Nakedcapitalism.com",
         "url": "https://www.nakedcapitalism.com/?p=318040",
         "published": "2026-10-13T10:55:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How Taiwan Activates Beijing’s Chosen Fear",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/how-taiwan-activates-beijings-chosen-fear/",
-        "published": "2026-10-13T07:30:25Z",
         "sentiment": "watch"
       }
     ],
