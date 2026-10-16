@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-16T09:19:25.004Z",
+    "generated_at": "2026-10-16T14:09:07.778Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "The oil market is facing a transportation crisis that suggests energy costs aren't falling soon",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/oil-market-tanker-rates-crisis-energy-costs-inflation-2026-10#article",
-        "published": "2026-10-15T09:15:02Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Attacks on Tankers in Mideast Surge, but Oil Exports Remain Steady",
+        "title": "Iran-Linked Attacks Disrupt Shipping And Cut Oil Flows Through Hormuz",
         "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/05018f35501bd8b3",
-        "published": "2026-10-15T09:14:15Z",
+        "url": "https://biztoc.com/x/f598703fd862900f",
+        "published": "2026-10-15T14:01:30Z",
         "sentiment": "danger"
       },
       {
-        "title": "IDBI Bank stake sale to push divestment to 8-year high, exceed FY27 target",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/idbi-bank-stake-sale-to-push-divestment-to-8-year-high-exceed-fy27-target-126101500652_1.html",
-        "published": "2026-10-15T09:13:37Z",
+        "title": "Iranian Ship Attacks Threaten Middle East Oil Exports as Tanker Traffic Slows",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Iranian-Ship-Attacks-Threaten-Middle-East-Oil-Exports-as-Tanker-Traffic-Slows.html",
+        "published": "2026-10-15T14:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "History of World War II: Early Skirmishes Between Britain and Nazi Germany",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/early-skirmishes-between-britain-nazi-germany/5943853",
+        "published": "2026-10-15T13:58:06Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Ship Fuel Market Fragments as Middle East Conflict Hits Trade",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/ship-fuel-market-fragments-as-middle-east-conflict-hits-trade/",
+        "published": "2026-10-15T13:35:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "Global Market: Eurozone bond yields fall as tech sell-off fuels safe-haven demand",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-fall-as-tech-sell-off-fuels-safe-haven-demand/articleshow/134962602.cms",
-        "published": "2026-10-15T08:54:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What really happened at the fateful embassy dinner, SYRIZA’s break-ups and bitter disputes, and forest land put up for sale in Argolida",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/10/15/what-really-happened-at-the-fateful-embassy-dinner-syrizas-break-ups-and-bitter-disputes-and-forest-land-put-up-for-sale-in-argolida/",
-        "published": "2026-10-15T08:36:53Z",
+        "title": "Businesses were hit even harder by inflation last month than consumers",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/business/economy/ppi-business-inflation-trump-consumers-rcna603666",
+        "published": "2026-10-15T13:35:04Z",
         "sentiment": "watch"
       }
     ],
