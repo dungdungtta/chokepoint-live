@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-16T14:09:07.778Z",
+    "generated_at": "2026-10-16T18:05:53.670Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran-Linked Attacks Disrupt Shipping And Cut Oil Flows Through Hormuz",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/f598703fd862900f",
-        "published": "2026-10-15T14:01:30Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iranian Ship Attacks Threaten Middle East Oil Exports as Tanker Traffic Slows",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Iranian-Ship-Attacks-Threaten-Middle-East-Oil-Exports-as-Tanker-Traffic-Slows.html",
-        "published": "2026-10-15T14:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "History of World War II: Early Skirmishes Between Britain and Nazi Germany",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/early-skirmishes-between-britain-nazi-germany/5943853",
-        "published": "2026-10-15T13:58:06Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Ship Fuel Market Fragments as Middle East Conflict Hits Trade",
+        "title": "How the Houthis are Helping Iran Turn Saudi Arabia Into a Pressure Point",
         "source": "gcaptain.com",
-        "url": "https://gcaptain.com/ship-fuel-market-fragments-as-middle-east-conflict-hits-trade/",
-        "published": "2026-10-15T13:35:58Z",
+        "url": "https://gcaptain.com/how-the-houthis-are-helping-iran-turn-saudi-arabia-into-a-pressure-point/",
+        "published": "2026-10-15T18:00:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "Businesses were hit even harder by inflation last month than consumers",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/business/economy/ppi-business-inflation-trump-consumers-rcna603666",
-        "published": "2026-10-15T13:35:04Z",
+        "title": "Living Well with Jesse Golden: On Holistic Health, Skin Longevity and the Rituals She Swears By",
+        "source": "thechalkboardmag.com",
+        "url": "https://thechalkboardmag.com/jesse-golden-beauty-wellness/",
+        "published": "2026-10-15T17:57:20Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US consumers are muscling through higher prices, but for how long?",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/us-consumers-muscling-higher-prices-long-137295721",
+        "published": "2026-10-15T17:53:43Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US consumers are muscling through higher prices, but for how long?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-consumers-are-muscling-through-higher-prices-but-for-how-long-gas-prices-fuel-rates/articleshow/134973357.cms",
+        "published": "2026-10-15T17:29:07Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Shipping Costs Spike, Lifting Prices from Pump to Grocery",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/oil-shipping-costs-spike-lifting-prices-from-pump-to-grocery/",
+        "published": "2026-10-15T17:27:59Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "What history tells us about the closure of vital waterways",
+        "source": "RTE",
+        "url": "https://www.rte.ie/brainstorm/2026/1015/1595435-suez-canal-1956-strait-of-hormuz-2026-closures-superpowers-economics-geopolitical-influence/",
+        "published": "2026-10-15T14:57:13Z",
+        "sentiment": "danger"
+      },
       {
         "title": "China opens joint airfield in Laos with eyes on its military role",
         "source": "Abcnews.com",
@@ -90,13 +97,6 @@
         "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
         "published": "2026-10-14T15:31:15Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "A History of Taiwan and Beijing’s Influence There",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/history-taiwan-beijing-influence/5943679",
-        "published": "2026-10-13T13:47:27Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -118,7 +118,7 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "yellow",
+    "taiwan": "amber",
     "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
