@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-16T04:41:47.753Z",
+    "generated_at": "2026-10-16T09:19:25.004Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Prolonged war, renewed disruptions pose biggest risk to Middle East region, IMF says",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/prolonged-war-renewed-disruptions-pose-biggest-risk-middle-east-region-imf-says-6461356",
-        "published": "2026-10-15T04:38:06Z",
+        "title": "The oil market is facing a transportation crisis that suggests energy costs aren't falling soon",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/oil-market-tanker-rates-crisis-energy-costs-inflation-2026-10#article",
+        "published": "2026-10-15T09:15:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Attacks on Tankers in Mideast Surge, but Oil Exports Remain Steady",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/05018f35501bd8b3",
+        "published": "2026-10-15T09:14:15Z",
         "sentiment": "danger"
       },
       {
-        "title": "Why is market rising today? Sensex rallies over 800 pts, Nifty above 22,850. 4 major factors behind the surge",
+        "title": "IDBI Bank stake sale to push divestment to 8-year high, exceed FY27 target",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/idbi-bank-stake-sale-to-push-divestment-to-8-year-high-exceed-fy27-target-126101500652_1.html",
+        "published": "2026-10-15T09:13:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Global Market: Eurozone bond yields fall as tech sell-off fuels safe-haven demand",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-gains-over-700-pts-nifty-above-22800-4-major-factors-behind-the-surge/articleshow/134957331.cms",
-        "published": "2026-10-15T04:29:30Z",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-fall-as-tech-sell-off-fuels-safe-haven-demand/articleshow/134962602.cms",
+        "published": "2026-10-15T08:54:52Z",
         "sentiment": "watch"
       },
       {
-        "title": "Amid Hormuz Oil Crisis, EVs saved world $20 bn. on Fuel Costs, but not Trump’s America",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/10/hormuz-crisis-america.html",
-        "published": "2026-10-15T04:15:11Z",
+        "title": "What really happened at the fateful embassy dinner, SYRIZA’s break-ups and bitter disputes, and forest land put up for sale in Argolida",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/10/15/what-really-happened-at-the-fateful-embassy-dinner-syrizas-break-ups-and-bitter-disputes-and-forest-land-put-up-for-sale-in-argolida/",
+        "published": "2026-10-15T08:36:53Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Short Iran War + Ansar Allah v. Saudis Update",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/10/short-iran-war-ansar-allah-v-saudis-update.html",
-        "published": "2026-10-15T04:10:04Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "More War Is Coming After the Midterms",
-        "source": "Lewrockwell.com",
-        "url": "https://www.lewrockwell.com/2026/10/michael-snyder/more-war-is-coming-after-the-midterms/",
-        "published": "2026-10-15T04:01:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "China opens joint airfield in Laos with eyes on its military role",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/china-opens-joint-airfield-laos-construction-ongoing-eyes-137275971",
+        "published": "2026-10-15T06:55:43Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Strait of Hormuz Could Become America’s Suez Moment",
         "source": "Activistpost.com",
@@ -89,13 +96,6 @@
         "source": "Globalresearch.ca",
         "url": "https://www.globalresearch.ca/history-taiwan-beijing-influence/5943679",
         "published": "2026-10-13T13:47:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Links 10/13/2026",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/?p=318040",
-        "published": "2026-10-13T10:55:34Z",
         "sentiment": "watch"
       }
     ],
