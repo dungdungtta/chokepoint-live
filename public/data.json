@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-17T14:09:28.578Z",
+    "generated_at": "2026-10-17T17:15:06.519Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "FO Exclusive: Global Lightning Roundup of September 2026",
-        "source": "Fair Observer",
-        "url": "https://www.fairobserver.com/world-news/fo-exclusive-global-lightning-roundup-of-september-2026/",
-        "published": "2026-10-16T14:00:28Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Houthis strike Yemen’s Presidential Palace with missiles and drones: Five dead, Prime Minister & cabinet ministers safe",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/10/16/houthis-strike-yemens-presidential-palace-with-missiles-and-drones-five-dead-prime-minister-cabinet-ministers-safe/",
-        "published": "2026-10-16T13:39:23Z",
+        "title": "Houthi Attacks on Saudi Arabia Defy Difference in Military Power",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/houthi-attacks-on-saudi-arabia-defy-difference-in-military-power/",
+        "published": "2026-10-16T17:01:24Z",
         "sentiment": "danger"
       },
       {
-        "title": "Vevor Commercial Electric Griddle 22\" Countertop Flat Top Griddle for $100 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Vevor-Commercial-Electric-Griddle-22-Countertop-Flat-Top-Griddle-for-100-free-shipping/22288714.html",
-        "published": "2026-10-16T13:18:50Z",
+        "title": "NYC’s bridges can last 'forever,' if we take care of them",
+        "source": "Gothamist",
+        "url": "https://gothamist.com/news/nycs-bridges-can-last-forever-if-we-take-care-of-them",
+        "published": "2026-10-16T16:44:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "Niimbot D110 Portable Thermal Label Maker for $8 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Niimbot-D110-Portable-Thermal-Label-Maker-for-8-free-shipping-w-Prime/22288694.html",
-        "published": "2026-10-16T13:11:52Z",
+        "title": "Supertanker Rates Fall from Record Highs",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/supertanker-rates-fall-from-record-highs/",
+        "published": "2026-10-16T16:36:16Z",
         "sentiment": "watch"
       },
       {
-        "title": "arteries added to PyPI",
-        "source": "Pypi.org",
-        "url": "https://pypi.org/project/arteries/",
-        "published": "2026-10-16T13:08:44Z",
+        "title": "Oil Prices Are Stuck at $105 as Geopolitical Risks Mount",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Are-Stuck-at-105-as-Geopolitical-Risks-Mount.html",
+        "published": "2026-10-16T16:13:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Europe Can Flag Ships to Keep the Black Sea Open",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/10/16/europe-russia-ukraine-odesa-shipping-black-sea/",
+        "published": "2026-10-16T16:08:30Z",
         "sentiment": "watch"
       }
     ],
