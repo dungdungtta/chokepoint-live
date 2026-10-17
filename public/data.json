@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-17T10:57:40.143Z",
+    "generated_at": "2026-10-17T14:09:28.578Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Sensex today | Stock Market Highlights: Sensex gains 413 pts, Nifty ends at 23,146 led by strong buying in IT firms",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-16-october-2026/article71587755.ece",
-        "published": "2026-10-16T10:41:15Z",
+        "title": "FO Exclusive: Global Lightning Roundup of September 2026",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/world-news/fo-exclusive-global-lightning-roundup-of-september-2026/",
+        "published": "2026-10-16T14:00:28Z",
         "sentiment": "watch"
       },
       {
-        "title": "Small Scale LNG Market worth $34.25 billion by 2031 - Exclusive Report by MarketsandMarkets™",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/small-scale-lng-market-worth-34-25-billion-by-2031---exclusive-report-by-marketsandmarkets-302911088.html",
-        "published": "2026-10-16T10:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "14-Qt Gourmia All-in-One Air Fryer, Oven, Rotisserie & Dehydrator $55 + Free S/H",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20164515-14-qt-gourmia-rotisserie-air-fryer-oven-w-12-presets-fryforce-360-55-at-walmart",
-        "published": "2026-10-16T10:23:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "OPEC+ Meets on Sidelines of Saudi Conference",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/opec_meets_on_sidelines_of_saudi_conference-16-oct-2026-184863-article/",
-        "published": "2026-10-16T10:23:22Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "West Asian War: Ansar Allah Hits Enemy HQ in Aden",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/10/west-asian-war-ansar-allah-hit-al-maashiq-saudi-arabia-centcom-hormuz.html",
-        "published": "2026-10-16T10:05:05Z",
+        "title": "Houthis strike Yemen’s Presidential Palace with missiles and drones: Five dead, Prime Minister & cabinet ministers safe",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/10/16/houthis-strike-yemens-presidential-palace-with-missiles-and-drones-five-dead-prime-minister-cabinet-ministers-safe/",
+        "published": "2026-10-16T13:39:23Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Vevor Commercial Electric Griddle 22\" Countertop Flat Top Griddle for $100 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Vevor-Commercial-Electric-Griddle-22-Countertop-Flat-Top-Griddle-for-100-free-shipping/22288714.html",
+        "published": "2026-10-16T13:18:50Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Niimbot D110 Portable Thermal Label Maker for $8 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Niimbot-D110-Portable-Thermal-Label-Maker-for-8-free-shipping-w-Prime/22288694.html",
+        "published": "2026-10-16T13:11:52Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "arteries added to PyPI",
+        "source": "Pypi.org",
+        "url": "https://pypi.org/project/arteries/",
+        "published": "2026-10-16T13:08:44Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
