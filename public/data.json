@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-17T17:15:06.519Z",
+    "generated_at": "2026-10-17T19:30:46.574Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Houthi Attacks on Saudi Arabia Defy Difference in Military Power",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/houthi-attacks-on-saudi-arabia-defy-difference-in-military-power/",
-        "published": "2026-10-16T17:01:24Z",
+        "title": "Iran ships some LPG, jet fuel despite US blockade, data shows",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-ships-some-lpg-jet-fuel-despite-us-blockade-data-shows/articleshow/135002642.cms",
+        "published": "2026-10-16T18:57:50Z",
         "sentiment": "danger"
       },
       {
-        "title": "NYC’s bridges can last 'forever,' if we take care of them",
-        "source": "Gothamist",
-        "url": "https://gothamist.com/news/nycs-bridges-can-last-forever-if-we-take-care-of-them",
-        "published": "2026-10-16T16:44:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Supertanker Rates Fall from Record Highs",
+        "title": "Fog of War Deepens in Hormuz as UKMTO Says Most Ship Attacks Go Unreported",
         "source": "gcaptain.com",
-        "url": "https://gcaptain.com/supertanker-rates-fall-from-record-highs/",
-        "published": "2026-10-16T16:36:16Z",
+        "url": "https://gcaptain.com/fog-of-war-deepens-in-hormuz-as-ukmto-says-most-ship-attacks-go-unreported/",
+        "published": "2026-10-16T18:53:29Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Rising Oil Prices, Freight Costs Could Drive Shoe Prices Up Again",
+        "source": "WWD",
+        "url": "http://wwd.com/footwear-news/shoe-industry-news/rising-oil-prices-freight-costs-shoe-prices-1239364527/",
+        "published": "2026-10-16T18:50:04Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Prices Are Stuck at $105 as Geopolitical Risks Mount",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Are-Stuck-at-105-as-Geopolitical-Risks-Mount.html",
-        "published": "2026-10-16T16:13:00Z",
-        "sentiment": "watch"
+        "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections",
+        "published": "2026-10-16T18:21:43Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Europe Can Flag Ships to Keep the Black Sea Open",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/10/16/europe-russia-ukraine-odesa-shipping-black-sea/",
-        "published": "2026-10-16T16:08:30Z",
+        "title": "Saudi-led coalition says intercepts missiles, drones over Riyadh, other areas",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/saudi-arabia-houthi-attacks-riyadh-missiles-6467001",
+        "published": "2026-10-16T18:14:31Z",
         "sentiment": "watch"
       }
     ],
