@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-17T01:35:25.542Z",
+    "generated_at": "2026-10-17T06:15:20.993Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Pax Silica—The Dollar’s Next Foundation",
-        "source": "Activistpost.com",
-        "url": "https://activistpost.com/pax-silica-the-dollars-next-foundation/",
-        "published": "2026-10-16T01:26:00Z",
+        "title": "Iran Conflict Raises Costs Across Banana Supply Chain, Threatening U.S. Prices",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-10-16-iran-conflict-raises-costs-banana-supply-chain.html",
+        "published": "2026-10-16T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Israel tests Turkeyâs airspace ban, with success",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-10-16-israel-tests-turkeys-airspace-ban-with-success.html",
+        "published": "2026-10-16T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Standard Chartered: Trump's Russian Diesel Won't Add New Supply",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Standard-Chartered-Trumps-Russian-Diesel-Wont-Add-New-Supply.html",
-        "published": "2026-10-16T00:00:00Z",
+        "title": "Why are markets rising today? Sensex soars 700 pts from day’s low, Nifty nears 23,150. 4 factors fuelling the surge",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-are-markets-rising-today-sensex-soars-700-pts-from-days-low-nifty-nears-23150-4-factors-fuelling-the-surge/articleshow/134983166.cms",
+        "published": "2026-10-16T05:18:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "Sanctions On Russian Oil: Lessons Learned",
-        "source": "Thefreedomfrequency.org",
-        "url": "https://www.thefreedomfrequency.org/p/sanctions-on-russian-oil-lessons",
-        "published": "2026-10-16T00:00:00Z",
+        "title": "Fuel price tops $4 at the pump",
+        "source": "New Zealand Herald",
+        "url": "https://www.nzherald.co.nz/nz/fuel-price-tops-4-at-the-pump/555AD52OXVAX7J374Z3EYNBYDM/",
+        "published": "2026-10-16T04:41:19Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Diesel Crunch Will Persist Well into 2027",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/The-Diesel-Crunch-Will-Persist-Well-into-2027.html",
-        "published": "2026-10-15T23:00:00Z",
+        "title": "Ukraine Hits Russian Refinery; Zelenskiy Says ‘We’re Done’ with Trump’s Energy Truce",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/10/16/889153.htm",
+        "published": "2026-10-16T04:30:46Z",
         "sentiment": "watch"
       }
     ],
