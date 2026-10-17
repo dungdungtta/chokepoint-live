@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-17T06:15:20.993Z",
+    "generated_at": "2026-10-17T10:57:40.143Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran Conflict Raises Costs Across Banana Supply Chain, Threatening U.S. Prices",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-10-16-iran-conflict-raises-costs-banana-supply-chain.html",
-        "published": "2026-10-16T06:00:00Z",
+        "title": "Sensex today | Stock Market Highlights: Sensex gains 413 pts, Nifty ends at 23,146 led by strong buying in IT firms",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-16-october-2026/article71587755.ece",
+        "published": "2026-10-16T10:41:15Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Small Scale LNG Market worth $34.25 billion by 2031 - Exclusive Report by MarketsandMarkets™",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/small-scale-lng-market-worth-34-25-billion-by-2031---exclusive-report-by-marketsandmarkets-302911088.html",
+        "published": "2026-10-16T10:30:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "14-Qt Gourmia All-in-One Air Fryer, Oven, Rotisserie & Dehydrator $55 + Free S/H",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20164515-14-qt-gourmia-rotisserie-air-fryer-oven-w-12-presets-fryforce-360-55-at-walmart",
+        "published": "2026-10-16T10:23:52Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "OPEC+ Meets on Sidelines of Saudi Conference",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/opec_meets_on_sidelines_of_saudi_conference-16-oct-2026-184863-article/",
+        "published": "2026-10-16T10:23:22Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "West Asian War: Ansar Allah Hits Enemy HQ in Aden",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/10/west-asian-war-ansar-allah-hit-al-maashiq-saudi-arabia-centcom-hormuz.html",
+        "published": "2026-10-16T10:05:05Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Israel tests Turkeyâs airspace ban, with success",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-10-16-israel-tests-turkeys-airspace-ban-with-success.html",
-        "published": "2026-10-16T06:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why are markets rising today? Sensex soars 700 pts from day’s low, Nifty nears 23,150. 4 factors fuelling the surge",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-are-markets-rising-today-sensex-soars-700-pts-from-days-low-nifty-nears-23150-4-factors-fuelling-the-surge/articleshow/134983166.cms",
-        "published": "2026-10-16T05:18:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Fuel price tops $4 at the pump",
-        "source": "New Zealand Herald",
-        "url": "https://www.nzherald.co.nz/nz/fuel-price-tops-4-at-the-pump/555AD52OXVAX7J374Z3EYNBYDM/",
-        "published": "2026-10-16T04:41:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ukraine Hits Russian Refinery; Zelenskiy Says ‘We’re Done’ with Trump’s Energy Truce",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/10/16/889153.htm",
-        "published": "2026-10-16T04:30:46Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "NATO Intends to Impose Its Will in Asia, Constructive Response Needed - Lavrov",
+        "source": "Sputnikglobe.com",
+        "url": "https://sputnikglobe.com/20261016/nato-intends-to-impose-its-will-in-asia-constructive-response-needed---lavrov-1124887967.html",
+        "published": "2026-10-16T07:46:58Z",
+        "sentiment": "watch"
+      },
       {
         "title": "What history tells us about the closure of vital waterways",
         "source": "RTE",
@@ -90,13 +97,6 @@
         "url": "https://www.superpunch.net/2026/10/todays-news-and-jokes_01720123625.html",
         "published": "2026-10-14T16:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Submarine Cable Resilience",
-        "source": "Apnic.net",
-        "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
-        "published": "2026-10-14T15:31:15Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -105,13 +105,6 @@
         "source": "Forbes",
         "url": "https://www.forbes.com/sites/simonchadwick/2026/10/12/f1-highlights-the-realities-of-global-sports-chokepoint-problems/",
         "published": "2026-10-12T12:48:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The New Geopolitcal Landscape: How to Do Business in a World Adrift",
-        "source": "Fair Observer",
-        "url": "https://www.fairobserver.com/politics/the-new-geopolitcal-landscape-how-to-do-business-in-a-world-adrift/",
-        "published": "2026-09-15T14:03:17Z",
         "sentiment": "watch"
       }
     ]
