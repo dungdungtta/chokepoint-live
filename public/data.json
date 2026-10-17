@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-17T19:30:46.574Z",
+    "generated_at": "2026-10-17T21:46:03.415Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran ships some LPG, jet fuel despite US blockade, data shows",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-ships-some-lpg-jet-fuel-despite-us-blockade-data-shows/articleshow/135002642.cms",
-        "published": "2026-10-16T18:57:50Z",
-        "sentiment": "danger"
+        "title": "Dan Quintana Glow-In-The-Dark DC Comics Covers Cancelled",
+        "source": "Bleeding Cool News",
+        "url": "https://bleedingcool.com/comics/dan-quintana-glow-in-the-dark-dc-comics-covers-cancelled/",
+        "published": "2026-10-16T20:58:09Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Fog of War Deepens in Hormuz as UKMTO Says Most Ship Attacks Go Unreported",
+        "title": "Iran’s Oil Exports Have Collapsed to ZERO",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4399448/posts",
+        "published": "2026-10-16T20:55:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Wind-Assisted Shipping Gains Ground as Airbus RoRo Adds Rotor Sails",
         "source": "gcaptain.com",
-        "url": "https://gcaptain.com/fog-of-war-deepens-in-hormuz-as-ukmto-says-most-ship-attacks-go-unreported/",
-        "published": "2026-10-16T18:53:29Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Rising Oil Prices, Freight Costs Could Drive Shoe Prices Up Again",
-        "source": "WWD",
-        "url": "http://wwd.com/footwear-news/shoe-industry-news/rising-oil-prices-freight-costs-shoe-prices-1239364527/",
-        "published": "2026-10-16T18:50:04Z",
+        "url": "https://gcaptain.com/wind-assisted-shipping-gains-ground-as-airbus-roro-adds-rotor-sails/",
+        "published": "2026-10-16T20:52:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections",
-        "published": "2026-10-16T18:21:43Z",
-        "sentiment": "danger"
+        "title": "Kindle, Away, Ninja and Hoka just dropped new products — here’s what we’re already loving",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/select/shopping/best-new-products-october-2026-rcna603915",
+        "published": "2026-10-16T20:45:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Saudi-led coalition says intercepts missiles, drones over Riyadh, other areas",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/saudi-arabia-houthi-attacks-riyadh-missiles-6467001",
-        "published": "2026-10-16T18:14:31Z",
-        "sentiment": "watch"
+        "title": "An Underwater Shadow War Is Raging",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/10/16/undersea-war-book-review-cables-ocean-gray-zone-tactics/",
+        "published": "2026-10-16T20:20:35Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
