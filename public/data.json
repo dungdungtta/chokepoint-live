@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-18T18:59:09.294Z",
+    "generated_at": "2026-10-18T21:25:33.695Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "All hell set to break loose by the end of September",
+        "source": "Activistpost.com",
+        "url": "https://activistpost.com/all-hell-set-to-break-loose-by-the-end-of-september/",
+        "published": "2026-10-17T19:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Ship attacks in Strait of Hormuz hit record high since Iran war began",
         "source": "New York Post",
@@ -53,13 +60,6 @@
         "url": "https://gcaptain.com/irans-guards-say-two-tankers-hit-mines-in-strait-of-hormuz/",
         "published": "2026-10-17T14:44:46Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "The Iran war has cost the average U.S. household the equivalent of almost $2,000, and the energy portion goes up $50 a week, top economist says",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/10/17/iran-war-cost-us-household-2000-energy-prices-interest-rates-military-spending/",
-        "published": "2026-10-17T14:22:26Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
