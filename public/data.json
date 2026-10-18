@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-18T16:34:10.377Z",
+    "generated_at": "2026-10-18T18:59:09.294Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Ship attacks in Strait of Hormuz hit record high since Iran war began",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/10/17/world-news/ship-attacks-in-strait-of-hormuz-hit-record-high-since-iran-war-began/",
+        "published": "2026-10-17T18:42:43Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Europe Braces for a Winter Energy Crisis as Gas Reserves Run Low",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Europe-Braces-for-a-Winter-Energy-Crisis-as-Gas-Reserves-Run-Low.html",
+        "published": "2026-10-17T17:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "'Vast majority' of Iran's attempted attacks on Strait of Hormuz are unsuccessful, CENTCOM spokesman says",
         "source": "Fox News",
         "url": "https://www.foxnews.com/world/vast-majority-irans-attempted-attacks-strait-hormuz-unsuccessful-centcom-spokesman-says",
@@ -46,20 +60,6 @@
         "url": "https://fortune.com/2026/10/17/iran-war-cost-us-household-2000-energy-prices-interest-rates-military-spending/",
         "published": "2026-10-17T14:22:26Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Baltic Block Of Russian Grain May Open Black Sea, Latvia Says",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/baltic-block-of-russian-grain-may-open-black-sea-latvia-says/",
-        "published": "2026-10-17T14:21:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Drone-hit tanker reaches Romania port, all 9 Indian seafarers safe",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/drone-hit-tanker-reaches-romania-port-all-9-indian-seafarers-safe-126101700781_1.html",
-        "published": "2026-10-17T14:13:24Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
