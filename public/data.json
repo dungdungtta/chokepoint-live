@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-18T08:54:26.846Z",
+    "generated_at": "2026-10-18T13:08:49.349Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,24 @@
   "news": {
     "hormuz": [
       {
+        "title": "FO Exclusive: Can Crown Prince MBS Survive Saudi Arabia’s Emerging Geopolitical Crisis?",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/region/middle_east_north_africa/fo-exclusive-can-crown-prince-mbs-survive-saudi-arabias-emerging-geopolitical-crisis/",
+        "published": "2026-10-17T12:45:32Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels",
+        "published": "2026-10-17T12:10:56Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "500cc Fluid Extractor Pump Kit for $10 + free shipping w/ Prime",
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/500-cc-Fluid-Extractor-Pump-Kit-for-10-free-shipping-w-Prime/22290921.html",
         "published": "2026-10-17T08:40:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran denies Saudi accusation of involvement in Houthi attacks",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/iran-denies-saudi-accusation-of-involvement-in-houthi-attacks-228240",
-        "published": "2026-10-17T07:54:14Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran denies Saudi accusation of involvement in Houthi attacks",
-        "source": "The Punch",
-        "url": "https://punchng.com/iran-denies-saudi-accusation-of-involvement-in-houthi-attacks/",
-        "published": "2026-10-17T07:20:13Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/houthi-strikes-saudi-arabia-show-yemeni-rebels-growing-137341692",
-        "published": "2026-10-17T06:38:21Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The Black Sea Game Nato Is Playing for Bulgaria Against Russia",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/10/the-black-sea-game-nato-is-playing-for-bulgaria-against-russia.html",
-        "published": "2026-10-17T06:28:58Z",
         "sentiment": "watch"
       }
     ],
