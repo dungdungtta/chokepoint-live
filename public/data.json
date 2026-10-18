@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-18T21:25:33.695Z",
+    "generated_at": "2026-10-18T23:34:25.821Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Two supertankers hit mines in Strait of Hormuz – IRGC (VIDEO)",
+        "source": "Rt-english.com",
+        "url": "https://rt-english.com/news/647340-two-tankers-hormuz-mines-irgc/",
+        "published": "2026-10-17T22:55:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Christmas cheer, but caution remains: Exporters welcome US tariff relief, keep diversification plans",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/christmas-cheer-but-caution-remains-exporters-welcome-us-tariff-relief-keep-diversification-plans/articleshow/135019234.cms",
+        "published": "2026-10-17T22:30:00Z",
+        "sentiment": "neutral"
+      },
+      {
         "title": "All hell set to break loose by the end of September",
         "source": "Activistpost.com",
         "url": "https://activistpost.com/all-hell-set-to-break-loose-by-the-end-of-september/",
@@ -45,20 +59,6 @@
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Energy/Energy-General/Europe-Braces-for-a-Winter-Energy-Crisis-as-Gas-Reserves-Run-Low.html",
         "published": "2026-10-17T17:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "'Vast majority' of Iran's attempted attacks on Strait of Hormuz are unsuccessful, CENTCOM spokesman says",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/vast-majority-irans-attempted-attacks-strait-hormuz-unsuccessful-centcom-spokesman-says",
-        "published": "2026-10-17T15:46:37Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran’s Guards Say Two Tankers Hit Mines In Strait Of Hormuz",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/irans-guards-say-two-tankers-hit-mines-in-strait-of-hormuz/",
-        "published": "2026-10-17T14:44:46Z",
         "sentiment": "watch"
       }
     ],
