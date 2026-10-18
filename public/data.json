@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-18T04:12:42.632Z",
+    "generated_at": "2026-10-18T08:54:26.846Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "CENTCOM Commander: U.S. Blockade Imposed ‘Devastating Costs’ on Iran — IRGC Unable to Pay Troops",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/10/16/centcom-u-s-blockade-imposed-devastating-costs-iran-irgc-unable-pay-troops/",
-        "published": "2026-10-17T02:39:35Z",
+        "title": "500cc Fluid Extractor Pump Kit for $10 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/500-cc-Fluid-Extractor-Pump-Kit-for-10-free-shipping-w-Prime/22290921.html",
+        "published": "2026-10-17T08:40:47Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran denies Saudi accusation of involvement in Houthi attacks",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/iran-denies-saudi-accusation-of-involvement-in-houthi-attacks-228240",
+        "published": "2026-10-17T07:54:14Z",
         "sentiment": "danger"
       },
       {
-        "title": "2 missiles strike the airport in Yemen's port city of Aden, officials say",
+        "title": "Iran denies Saudi accusation of involvement in Houthi attacks",
+        "source": "The Punch",
+        "url": "https://punchng.com/iran-denies-saudi-accusation-of-involvement-in-houthi-attacks/",
+        "published": "2026-10-17T07:20:13Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
         "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/2-missiles-strike-airport-yemens-port-city-aden-137331824",
-        "published": "2026-10-17T02:21:08Z",
+        "url": "https://abcnews.com/International/wireStory/houthi-strikes-saudi-arabia-show-yemeni-rebels-growing-137341692",
+        "published": "2026-10-17T06:38:21Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran denies accusation of involvement in Houthi attacks",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/1017/1595732-middle-east-iran/",
-        "published": "2026-10-17T01:08:54Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Ukraine’s strikes on Russian oil refineries is not impacting US gas prices: report",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/10/16/world-news/ukraines-strikes-on-russian-oil-refineries-is-not-impacting-us-gas-prices-report/",
-        "published": "2026-10-17T00:48:52Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Brent crude hits $110 a barrel for first time since May as supply concerns mount",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-16/oil-tops-110-for-first-time-since-may-as-supply-risk-grows",
-        "published": "2026-10-16T23:41:15Z",
+        "title": "The Black Sea Game Nato Is Playing for Bulgaria Against Russia",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/10/the-black-sea-game-nato-is-playing-for-bulgaria-against-russia.html",
+        "published": "2026-10-17T06:28:58Z",
         "sentiment": "watch"
       }
     ],
