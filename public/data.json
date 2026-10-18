@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-17T23:55:11.210Z",
+    "generated_at": "2026-10-18T04:12:42.632Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "CENTCOM Commander: U.S. Blockade Imposed ‘Devastating Costs’ on Iran — IRGC Unable to Pay Troops",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/10/16/centcom-u-s-blockade-imposed-devastating-costs-iran-irgc-unable-pay-troops/",
+        "published": "2026-10-17T02:39:35Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "2 missiles strike the airport in Yemen's port city of Aden, officials say",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/2-missiles-strike-airport-yemens-port-city-aden-137331824",
+        "published": "2026-10-17T02:21:08Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran denies accusation of involvement in Houthi attacks",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/1017/1595732-middle-east-iran/",
+        "published": "2026-10-17T01:08:54Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Ukraine’s strikes on Russian oil refineries is not impacting US gas prices: report",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/10/16/world-news/ukraines-strikes-on-russian-oil-refineries-is-not-impacting-us-gas-prices-report/",
+        "published": "2026-10-17T00:48:52Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Brent crude hits $110 a barrel for first time since May as supply concerns mount",
         "source": "Bloomberg",
         "url": "https://www.bloomberg.com/news/articles/2026-10-16/oil-tops-110-for-first-time-since-may-as-supply-risk-grows",
         "published": "2026-10-16T23:41:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Brazil Logs Record Oil Sales to China After Strait of Hormuz Crisis",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/latin-america/2026/10/16/brazil-logs-record-oil-sales-to-china-after-strait-of-hormuz-crisis/",
-        "published": "2026-10-16T22:04:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Global Energy Import Dependence Set to Peak by 2034, Rystad Says",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Global-Energy-Import-Dependence-Set-to-Peak-by-2034-Rystad-Says.html",
-        "published": "2026-10-16T22:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Dan Quintana Glow-In-The-Dark DC Comics Covers Cancelled",
-        "source": "Bleeding Cool News",
-        "url": "https://bleedingcool.com/comics/dan-quintana-glow-in-the-dark-dc-comics-covers-cancelled/",
-        "published": "2026-10-16T20:58:09Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran’s Oil Exports Have Collapsed to ZERO",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4399448/posts",
-        "published": "2026-10-16T20:55:06Z",
         "sentiment": "watch"
       }
     ],
