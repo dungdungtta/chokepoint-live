@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-18T13:08:49.349Z",
+    "generated_at": "2026-10-18T16:34:10.377Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,24 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "FO Exclusive: Can Crown Prince MBS Survive Saudi Arabia’s Emerging Geopolitical Crisis?",
-        "source": "Fair Observer",
-        "url": "https://www.fairobserver.com/region/middle_east_north_africa/fo-exclusive-can-crown-prince-mbs-survive-saudi-arabias-emerging-geopolitical-crisis/",
-        "published": "2026-10-17T12:45:32Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels",
-        "published": "2026-10-17T12:10:56Z",
+        "title": "'Vast majority' of Iran's attempted attacks on Strait of Hormuz are unsuccessful, CENTCOM spokesman says",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/vast-majority-irans-attempted-attacks-strait-hormuz-unsuccessful-centcom-spokesman-says",
+        "published": "2026-10-17T15:46:37Z",
         "sentiment": "danger"
       },
       {
-        "title": "500cc Fluid Extractor Pump Kit for $10 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/500-cc-Fluid-Extractor-Pump-Kit-for-10-free-shipping-w-Prime/22290921.html",
-        "published": "2026-10-17T08:40:47Z",
+        "title": "Iran’s Guards Say Two Tankers Hit Mines In Strait Of Hormuz",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/irans-guards-say-two-tankers-hit-mines-in-strait-of-hormuz/",
+        "published": "2026-10-17T14:44:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Iran war has cost the average U.S. household the equivalent of almost $2,000, and the energy portion goes up $50 a week, top economist says",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/10/17/iran-war-cost-us-household-2000-energy-prices-interest-rates-military-spending/",
+        "published": "2026-10-17T14:22:26Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Baltic Block Of Russian Grain May Open Black Sea, Latvia Says",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/baltic-block-of-russian-grain-may-open-black-sea-latvia-says/",
+        "published": "2026-10-17T14:21:57Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Drone-hit tanker reaches Romania port, all 9 Indian seafarers safe",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/drone-hit-tanker-reaches-romania-port-all-9-indian-seafarers-safe-126101700781_1.html",
+        "published": "2026-10-17T14:13:24Z",
         "sentiment": "watch"
       }
     ],
