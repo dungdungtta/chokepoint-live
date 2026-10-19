@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-18T23:34:25.821Z",
+    "generated_at": "2026-10-19T01:47:05.558Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Two supertankers hit mines in Strait of Hormuz – IRGC (VIDEO)",
-        "source": "Rt-english.com",
-        "url": "https://rt-english.com/news/647340-two-tankers-hormuz-mines-irgc/",
-        "published": "2026-10-17T22:55:44Z",
+        "title": "Vance dodges Trump voter's fury over devastating gas prices by blaming Biden and Iranian 'terrorists'",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16217871/vance-trump-voter-gas-prices-biden-iran.html",
+        "published": "2026-10-18T01:15:36Z",
         "sentiment": "watch"
       },
       {
-        "title": "Christmas cheer, but caution remains: Exporters welcome US tariff relief, keep diversification plans",
+        "title": "US military says Hormuz remains open, 97% of ships cross safely despite Iran attacks",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/christmas-cheer-but-caution-remains-exporters-welcome-us-tariff-relief-keep-diversification-plans/articleshow/135019234.cms",
-        "published": "2026-10-17T22:30:00Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "All hell set to break loose by the end of September",
-        "source": "Activistpost.com",
-        "url": "https://activistpost.com/all-hell-set-to-break-loose-by-the-end-of-september/",
-        "published": "2026-10-17T19:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ship attacks in Strait of Hormuz hit record high since Iran war began",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/10/17/world-news/ship-attacks-in-strait-of-hormuz-hit-record-high-since-iran-war-began/",
-        "published": "2026-10-17T18:42:43Z",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-military-says-hormuz-remains-open-97-of-ships-cross-safely-despite-iran-attacks/articleshow/135022637.cms",
+        "published": "2026-10-18T01:06:48Z",
         "sentiment": "danger"
       },
       {
-        "title": "Europe Braces for a Winter Energy Crisis as Gas Reserves Run Low",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Europe-Braces-for-a-Winter-Energy-Crisis-as-Gas-Reserves-Run-Low.html",
-        "published": "2026-10-17T17:00:00Z",
+        "title": "7 highlights from JD Vance's CBS News town hall",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/jd-vance-cbs-town-hall-highlights-michigan/",
+        "published": "2026-10-18T01:01:09Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Putin doesn't have to declare war to wage war on us. If we don't start preparing soon for the battle ahead, I fear it will be too late: PHILIP INGRAM",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/debate/article-16217335/Putin-declare-war-preparing-battle-late-Philip-Ingram.html",
+        "published": "2026-10-18T00:10:15Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran offers US deal to reopen Hormuz within a week",
+        "source": "Rt-english.com",
+        "url": "https://rt-english.com/news/647342-iran-double-down-hormuz-deal/",
+        "published": "2026-10-17T23:36:54Z",
+        "sentiment": "neutral"
       }
     ],
     "taiwan": [
