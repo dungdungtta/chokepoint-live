@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-19T15:00:24.179Z",
+    "generated_at": "2026-10-19T20:36:26.971Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "Houthis are testing the limits of collective defense",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/10/houthis-are-testing-limits-collective-defense/",
+        "published": "2026-10-18T19:39:20Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Egypt's top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/egypts-top-security-body-agrees-saudi-arabia-defend-137364690",
+        "published": "2026-10-18T19:08:09Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump's decision to import Russian diesel is an 'incentive to end the war,' energy secretary says",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/trump-russia-sanctions-diesel-imports-ukraine-war-2026-10#article",
+        "published": "2026-10-18T18:37:58Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Iran Says Strait of Hormuz Reopening Offer Still Stands as Mine Strikes and Tanker Fires Choke Oil Flows",
         "source": "Ibtimes.com.au",
         "url": "https://www.ibtimes.com.au/iran-strait-hormuz-reopening-us-conditions-1876960",
@@ -39,27 +60,6 @@
         "url": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
         "published": "2026-10-18T13:52:24Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Inside the gilded life of Saudi Crown Prince MBS from £400m superyacht to 'world's most expensive home and painting' as Houthi bombs force him into hiding",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16208693/Inside-gilded-life-Saudi-Crown-Prince-MBS-400m-superyacht-worlds-expensive-home-painting-Houthi-bombs-force-hiding.html",
-        "published": "2026-10-18T12:48:08Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump tries different approach with Russia to bring Americans relief amid ongoing war with Ukraine",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/trump-tries-different-approach-russia-bring-americans-relief-amid-ongoing-war-ukraine",
-        "published": "2026-10-18T12:00:13Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Israel’s neighborhood Is getting rougher",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/434782",
-        "published": "2026-10-18T11:18:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
