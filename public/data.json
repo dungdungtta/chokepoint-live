@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-19T07:37:32.830Z",
+    "generated_at": "2026-10-19T15:00:24.179Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Hegseth warns Iran to reach deal or face military action",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/hegseth-warns-iran-to-reach-deal-or-face-military-action-228250",
-        "published": "2026-10-18T06:36:01Z",
+        "title": "Iran Says Strait of Hormuz Reopening Offer Still Stands as Mine Strikes and Tanker Fires Choke Oil Flows",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/iran-strait-hormuz-reopening-us-conditions-1876960",
+        "published": "2026-10-18T14:27:28Z",
         "sentiment": "danger"
       },
       {
-        "title": "Gulf States Suppressed Information About Infrastructure Damage from Iranian Attacks",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-10-18-gulf-states-suppressed-information-about-infrastructure-damage.html",
-        "published": "2026-10-18T06:00:00Z",
+        "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
+        "published": "2026-10-18T13:52:24Z",
         "sentiment": "danger"
       },
       {
-        "title": "JD Vance faces tough questions on Iran war, immigration and gas prices in town hall",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/politics/articles/7-highlights-jd-vances-cbs-010109516.html",
-        "published": "2026-10-18T04:01:21Z",
-        "sentiment": "danger"
+        "title": "Inside the gilded life of Saudi Crown Prince MBS from £400m superyacht to 'world's most expensive home and painting' as Houthi bombs force him into hiding",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16208693/Inside-gilded-life-Saudi-Crown-Prince-MBS-400m-superyacht-worlds-expensive-home-painting-Houthi-bombs-force-hiding.html",
+        "published": "2026-10-18T12:48:08Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Top takeaways from JD Vance town hall: Costly gas, DC corruption, immigration hot takes and the war",
+        "title": "Trump tries different approach with Russia to bring Americans relief amid ongoing war with Ukraine",
         "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/top-takeaways-from-jd-vance-town-hall-costly-gas-dc-corruption-immigration-hot-takes-war",
-        "published": "2026-10-18T02:32:15Z",
+        "url": "https://www.foxnews.com/politics/trump-tries-different-approach-russia-bring-americans-relief-amid-ongoing-war-ukraine",
+        "published": "2026-10-18T12:00:13Z",
         "sentiment": "danger"
       },
       {
-        "title": "US says 97% of ships transit Strait of Hormuz safely despite Iranian attacks",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/us-says-97-of-ships-transit-strait-of-hormuz-safely-despite-iranian-attacks/article71598994.ece",
-        "published": "2026-10-18T02:11:51Z",
-        "sentiment": "danger"
+        "title": "Israel’s neighborhood Is getting rougher",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/434782",
+        "published": "2026-10-18T11:18:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
