@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-19T20:36:26.971Z",
+    "generated_at": "2026-10-19T23:57:37.545Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Houthis are testing the limits of collective defense",
-        "source": "Wnd.com",
-        "url": "https://www.wnd.com/2026/10/houthis-are-testing-limits-collective-defense/",
-        "published": "2026-10-18T19:39:20Z",
+        "title": "Record Shipping Costs Force Oil Producers to Slash Prices",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Record-Shipping-Costs-Force-Oil-Producers-to-Slash-Prices.html",
+        "published": "2026-10-18T23:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Egypt's top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/egypts-top-security-body-agrees-saudi-arabia-defend-137364690",
-        "published": "2026-10-18T19:08:09Z",
+        "title": "Ukraine’s Black Sea Escalation Threatens Global Trade, With Risks of Spiralling",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/ukraine-black-sea-escalation-threatens-global-trade/5943998",
+        "published": "2026-10-18T22:15:15Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump's decision to import Russian diesel is an 'incentive to end the war,' energy secretary says",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/trump-russia-sanctions-diesel-imports-ukraine-war-2026-10#article",
-        "published": "2026-10-18T18:37:58Z",
+        "title": "Hormuz Is Turning Shipping’s Fuel Bill Into a Supply Crisis",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Geopolitics/Middle-East/Hormuz-Is-Turning-Shippings-Fuel-Bill-Into-a-Supply-Crisis.html",
+        "published": "2026-10-18T21:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran is running out of money and can’t even pay its troops as U.S. blockade chokes the economy, Central Command says, while domestic unrest grows",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/10/18/iran-economy-us-naval-blockade-irgc-troops-pay-pensions-salaries-domestic-unrest-insurgency/",
+        "published": "2026-10-18T20:46:26Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran Says Strait of Hormuz Reopening Offer Still Stands as Mine Strikes and Tanker Fires Choke Oil Flows",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/iran-strait-hormuz-reopening-us-conditions-1876960",
-        "published": "2026-10-18T14:27:28Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
-        "published": "2026-10-18T13:52:24Z",
-        "sentiment": "danger"
+        "title": "Pura d'or Advanced Therapy Anti-Hair Thinning Shampoo & Conditioner Set $29.99 Free shipping Costco.com (1 replies)",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20175528-pura-d-or-advanced-therapy-anti-hair-thinning-shampoo-conditioner-set-29-99-free-shipping-costco-com",
+        "published": "2026-10-18T20:38:32Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
