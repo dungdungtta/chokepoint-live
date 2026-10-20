@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-20T04:37:24.145Z",
+    "generated_at": "2026-10-20T09:40:35.956Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Crude fears clip wings; Axis Bank dives 3.84% as Sensex, Nifty open flat",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/crude-fears-clip-wings-axis-bank-dives-384-as-sensex-nifty-open-flat/article71602050.ece",
-        "published": "2026-10-19T04:07:02Z",
+        "title": "Scientists discover a giant fungus in China that grows up to 50 cm tall, weighs 2.2 kg, and traces its origins to 65 million years ago",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/science/nature/scientists-discover-a-giant-fungus-in-china-that-grows-up-to-50-cm-tall-weighs-2-2-kg-and-traces-its-origins-to-65-million-years-ago/articleshow/135044485.cms",
+        "published": "2026-10-19T09:29:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "Show HN: Stream Reducer – Audio AI Summarization at Scale",
-        "source": "Xgoose.org",
-        "url": "https://reducer.xgoose.org/",
-        "published": "2026-10-19T03:13:48Z",
+        "title": "What Will Happen to the Oil Price Over the Next Few Quarters?",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/what_will_happen_to_the_oil_price_over_the_next_few_quarters-19-oct-2026-184871-article/?rss=true",
+        "published": "2026-10-19T09:10:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "Hormuz Is Turning Shipping's Fuel Bill Into a Supply Crisis",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/32447794d77b64bc",
-        "published": "2026-10-19T03:04:40Z",
+        "title": "India's Crude Oil Import Bill Soars 46% as Middle East Crisis Drives Up Prices",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Oil-Import-Bill-Soars-46-as-Middle-East-Crisis-Drives-Up-Prices.html",
+        "published": "2026-10-19T08:35:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Ukraine Talks with Turkey, India, Egypt Over Grain Corridor",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/ukraine-talks-with-turkey-india-egypt-over-grain-corridor/",
-        "published": "2026-10-19T02:24:26Z",
-        "sentiment": "neutral"
+        "title": "Oil slips after Trump's Russia sanctions waiver",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/1019/1595925-world-oil/",
+        "published": "2026-10-19T07:27:34Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
+        "title": "Sensex crashes 765 pts intraday: Bank stocks, FPI selling among key factors",
         "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/commodities/oil-slips-as-trump-s-sanction-waiver-may-lead-to-more-russian-fuel-supplies-126101900025_1.html",
-        "published": "2026-10-19T02:21:12Z",
+        "url": "https://www.business-standard.com/markets/news/sensex-crashes-765-pts-intraday-bank-stocks-fpi-selling-among-key-factors-126101900390_1.html",
+        "published": "2026-10-19T07:15:44Z",
         "sentiment": "watch"
       }
     ],
