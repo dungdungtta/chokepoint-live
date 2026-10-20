@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-20T09:40:35.956Z",
+    "generated_at": "2026-10-20T14:30:38.981Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Scientists discover a giant fungus in China that grows up to 50 cm tall, weighs 2.2 kg, and traces its origins to 65 million years ago",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/science/nature/scientists-discover-a-giant-fungus-in-china-that-grows-up-to-50-cm-tall-weighs-2-2-kg-and-traces-its-origins-to-65-million-years-ago/articleshow/135044485.cms",
-        "published": "2026-10-19T09:29:34Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What Will Happen to the Oil Price Over the Next Few Quarters?",
+        "title": "Iran's Main Oil Terminals Remain Empty",
         "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/what_will_happen_to_the_oil_price_over_the_next_few_quarters-19-oct-2026-184871-article/?rss=true",
-        "published": "2026-10-19T09:10:05Z",
+        "url": "https://www.rigzone.com/news/wire/irans_main_oil_terminals_remain_empty-19-oct-2026-184877-article/",
+        "published": "2026-10-19T14:28:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "India's Crude Oil Import Bill Soars 46% as Middle East Crisis Drives Up Prices",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Oil-Import-Bill-Soars-46-as-Middle-East-Crisis-Drives-Up-Prices.html",
-        "published": "2026-10-19T08:35:00Z",
+        "title": "Select Accts: 3-Ct 28-Oz TRESemme Rich Moisture Hydrating Shampoo $6.35 w/ S&S",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20177085-sns-ac-6-36-3-ct-28-oz-tresemme-rich-moisture-hydrating-shampoo-at-amazon",
+        "published": "2026-10-19T14:14:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil slips after Trump's Russia sanctions waiver",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/1019/1595925-world-oil/",
-        "published": "2026-10-19T07:27:34Z",
-        "sentiment": "watch"
+        "title": "Houthi attack on Yemeni government forces kills 53: officials",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/houthi-attack-yemen-government-forces-camp-9.7386538",
+        "published": "2026-10-19T14:13:36Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Sensex crashes 765 pts intraday: Bank stocks, FPI selling among key factors",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/sensex-crashes-765-pts-intraday-bank-stocks-fpi-selling-among-key-factors-126101900390_1.html",
-        "published": "2026-10-19T07:15:44Z",
-        "sentiment": "watch"
+        "title": "Russia’s Lavrov to discuss US war and regional security during Tehran visit",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit",
+        "published": "2026-10-19T13:22:58Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Lavrov in Iran as Moscow looks to mediate in war",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/lavrov-in-iran-as-moscow-looks-to-mediate-in-war-228328",
+        "published": "2026-10-19T13:12:47Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
