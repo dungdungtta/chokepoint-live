@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-20T14:30:38.981Z",
+    "generated_at": "2026-10-20T18:45:59.039Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran's Main Oil Terminals Remain Empty",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/irans_main_oil_terminals_remain_empty-19-oct-2026-184877-article/",
-        "published": "2026-10-19T14:28:30Z",
+        "title": "1999 Husaberg FE 400 at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1999-husaberg-fe-400/",
+        "published": "2026-10-19T18:35:19Z",
         "sentiment": "watch"
       },
       {
-        "title": "Select Accts: 3-Ct 28-Oz TRESemme Rich Moisture Hydrating Shampoo $6.35 w/ S&S",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20177085-sns-ac-6-36-3-ct-28-oz-tresemme-rich-moisture-hydrating-shampoo-at-amazon",
-        "published": "2026-10-19T14:14:24Z",
+        "title": "We Are Facing A Global Energy Crisis, A Global Food Crisis, A European Financial Crisis, The End Of The AI Bubble And A Super El Niño All At Once",
+        "source": "Theeconomiccollapseblog.com",
+        "url": "http://theeconomiccollapseblog.com/we-are-facing-a-global-energy-crisis-a-global-food-crisis-a-european-financial-crisis-the-end-of-the-ai-bubble-and-a-super-el-nino-all-at-once/",
+        "published": "2026-10-19T17:45:25Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthi attack on Yemeni government forces kills 53: officials",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/houthi-attack-yemen-government-forces-camp-9.7386538",
-        "published": "2026-10-19T14:13:36Z",
-        "sentiment": "danger"
+        "title": "Tread carefully on trade: India must hold its ground as Trump’s tariff stick loses its bite",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/tread-carefully-on-trade-india-must-hold-its-ground-as-trumps-tariff-stick-loses-its-bite/articleshow/135053908.cms",
+        "published": "2026-10-19T17:41:44Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Russia’s Lavrov to discuss US war and regional security during Tehran visit",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit",
-        "published": "2026-10-19T13:22:58Z",
-        "sentiment": "danger"
+        "title": "Strategy buys another $22 million of Bitcoin, increases planned share buybacks",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/10/19/strategy-22-million-bitcoin-planned-share-buybacks/",
+        "published": "2026-10-19T17:41:06Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Lavrov in Iran as Moscow looks to mediate in war",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/lavrov-in-iran-as-moscow-looks-to-mediate-in-war-228328",
-        "published": "2026-10-19T13:12:47Z",
-        "sentiment": "danger"
+        "title": "Bitcoin holds $82K as analyst sees limited selling pressure despite macro risks",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/bitcoin-market-resilience-amid-macro-risks/",
+        "published": "2026-10-19T17:04:46Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
