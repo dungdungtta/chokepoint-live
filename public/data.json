@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-20T18:45:59.039Z",
+    "generated_at": "2026-10-20T22:11:58.710Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "1999 Husaberg FE 400 at No Reserve",
+        "title": "2,100-Mile 2005 BMW F650GS Dakar",
         "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1999-husaberg-fe-400/",
-        "published": "2026-10-19T18:35:19Z",
+        "url": "https://bringatrailer.com/listing/2005-bmw-f650gs-7/",
+        "published": "2026-10-19T21:40:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "We Are Facing A Global Energy Crisis, A Global Food Crisis, A European Financial Crisis, The End Of The AI Bubble And A Super El Niño All At Once",
-        "source": "Theeconomiccollapseblog.com",
-        "url": "http://theeconomiccollapseblog.com/we-are-facing-a-global-energy-crisis-a-global-food-crisis-a-european-financial-crisis-the-end-of-the-ai-bubble-and-a-super-el-nino-all-at-once/",
-        "published": "2026-10-19T17:45:25Z",
+        "title": "How the Iran war is ruining Saudi Arabia’s plans",
+        "source": "Vox",
+        "url": "https://www.vox.com/podcasts/506853/saudi-arabia-airport-houthis-yemen-iran-war",
+        "published": "2026-10-19T21:05:39Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "US allows dark-fleet oil tankers to shed sanctions, Wright says",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f8eea40303e08def",
+        "published": "2026-10-19T21:03:40Z",
         "sentiment": "watch"
       },
       {
-        "title": "Tread carefully on trade: India must hold its ground as Trump’s tariff stick loses its bite",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/tread-carefully-on-trade-india-must-hold-its-ground-as-trumps-tariff-stick-loses-its-bite/articleshow/135053908.cms",
-        "published": "2026-10-19T17:41:44Z",
+        "title": "Why Invading Iran Could Become America's Biggest Military Mistake",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Why-Invading-Iran-Could-Become-Americas-Biggest-Military-Mistake.html",
+        "published": "2026-10-19T21:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Strategy buys another $22 million of Bitcoin, increases planned share buybacks",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/10/19/strategy-22-million-bitcoin-planned-share-buybacks/",
-        "published": "2026-10-19T17:41:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Bitcoin holds $82K as analyst sees limited selling pressure despite macro risks",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/bitcoin-market-resilience-amid-macro-risks/",
-        "published": "2026-10-19T17:04:46Z",
+        "title": "Lancome Lip Idole Squalane-12 Butterglow Hydrating Lip Balm for $24 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Lancome-Lip-Idole-Squalane-12-Butterglow-Hydrating-Lip-Balm-for-24-free-shipping-w-Prime/22297088.html",
+        "published": "2026-10-19T20:55:05Z",
         "sentiment": "watch"
       }
     ],
