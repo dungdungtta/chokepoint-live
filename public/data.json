@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-19T23:57:37.545Z",
+    "generated_at": "2026-10-20T04:37:24.145Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Record Shipping Costs Force Oil Producers to Slash Prices",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Record-Shipping-Costs-Force-Oil-Producers-to-Slash-Prices.html",
-        "published": "2026-10-18T23:00:00Z",
+        "title": "Crude fears clip wings; Axis Bank dives 3.84% as Sensex, Nifty open flat",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/crude-fears-clip-wings-axis-bank-dives-384-as-sensex-nifty-open-flat/article71602050.ece",
+        "published": "2026-10-19T04:07:02Z",
         "sentiment": "watch"
       },
       {
-        "title": "Ukraine’s Black Sea Escalation Threatens Global Trade, With Risks of Spiralling",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/ukraine-black-sea-escalation-threatens-global-trade/5943998",
-        "published": "2026-10-18T22:15:15Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Hormuz Is Turning Shipping’s Fuel Bill Into a Supply Crisis",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Geopolitics/Middle-East/Hormuz-Is-Turning-Shippings-Fuel-Bill-Into-a-Supply-Crisis.html",
-        "published": "2026-10-18T21:00:00Z",
+        "title": "Show HN: Stream Reducer – Audio AI Summarization at Scale",
+        "source": "Xgoose.org",
+        "url": "https://reducer.xgoose.org/",
+        "published": "2026-10-19T03:13:48Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran is running out of money and can’t even pay its troops as U.S. blockade chokes the economy, Central Command says, while domestic unrest grows",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/10/18/iran-economy-us-naval-blockade-irgc-troops-pay-pensions-salaries-domestic-unrest-insurgency/",
-        "published": "2026-10-18T20:46:26Z",
-        "sentiment": "danger"
+        "title": "Hormuz Is Turning Shipping's Fuel Bill Into a Supply Crisis",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/32447794d77b64bc",
+        "published": "2026-10-19T03:04:40Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Pura d'or Advanced Therapy Anti-Hair Thinning Shampoo & Conditioner Set $29.99 Free shipping Costco.com (1 replies)",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20175528-pura-d-or-advanced-therapy-anti-hair-thinning-shampoo-conditioner-set-29-99-free-shipping-costco-com",
-        "published": "2026-10-18T20:38:32Z",
+        "title": "Ukraine Talks with Turkey, India, Egypt Over Grain Corridor",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/ukraine-talks-with-turkey-india-egypt-over-grain-corridor/",
+        "published": "2026-10-19T02:24:26Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/commodities/oil-slips-as-trump-s-sanction-waiver-may-lead-to-more-russian-fuel-supplies-126101900025_1.html",
+        "published": "2026-10-19T02:21:12Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan detects 5 PLA aircraft, 6 PLAN vessels operating around island",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/taiwan-detects-5-pla-aircraft-6-plan-vessels-operating-around-island/articleshow/135037776.cms",
+        "published": "2026-10-19T02:03:10Z",
+        "sentiment": "watch"
+      },
       {
         "title": "NATO Intends to Impose Its Will in Asia, Constructive Response Needed - Lavrov",
         "source": "Sputnikglobe.com",
@@ -89,13 +96,6 @@
         "source": "Activistpost.com",
         "url": "https://activistpost.com/the-strait-of-hormuz-could-become-americas-suez-moment/",
         "published": "2026-10-14T22:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Today's news and jokes",
-        "source": "Superpunch.net",
-        "url": "https://www.superpunch.net/2026/10/todays-news-and-jokes_01720123625.html",
-        "published": "2026-10-14T16:00:00Z",
         "sentiment": "watch"
       }
     ],
