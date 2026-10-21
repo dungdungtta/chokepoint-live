@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-20T22:11:58.710Z",
+    "generated_at": "2026-10-21T00:40:00.941Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "1966 Plymouth Satellite Hardtop 426 Hemi",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1966-plymouth-satellite-25/",
+        "published": "2026-10-19T23:37:15Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S. to Allow Dark-Fleet Tankers to Shed Sanctions, Wright Says",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/u-s-to-allow-dark-fleet-tankers-to-shed-sanctions-wright-says/",
+        "published": "2026-10-19T23:33:26Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "2,100-Mile 2005 BMW F650GS Dakar",
         "source": "Bringatrailer.com",
         "url": "https://bringatrailer.com/listing/2005-bmw-f650gs-7/",
@@ -45,20 +59,6 @@
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/f8eea40303e08def",
         "published": "2026-10-19T21:03:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why Invading Iran Could Become America's Biggest Military Mistake",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Why-Invading-Iran-Could-Become-Americas-Biggest-Military-Mistake.html",
-        "published": "2026-10-19T21:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Lancome Lip Idole Squalane-12 Butterglow Hydrating Lip Balm for $24 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Lancome-Lip-Idole-Squalane-12-Butterglow-Hydrating-Lip-Balm-for-24-free-shipping-w-Prime/22297088.html",
-        "published": "2026-10-19T20:55:05Z",
         "sentiment": "watch"
       }
     ],
