@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-21T05:21:27.952Z",
+    "generated_at": "2026-10-21T10:30:00.644Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Alexis back in the café, Samaras tearing up the bailout playbook – and forget the US elections, Greece has its own Champions League battle: PerCapita, Alafouzos, Giannakopoulos and Netflix?",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/10/20/alexis-back-in-the-cafe-samaras-tearing-up-the-bailout-playbook-and-forget-the-us-elections-greece-has-its-own-champions-league-battle-percapita-alafouzos-giannakopoulos-and-netflix/",
-        "published": "2026-10-20T04:58:22Z",
+        "title": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111",
+        "published": "2026-10-20T09:32:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "Democrats: Shut up, put up, man up",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/blog/2026/10/democrats-shut-up-put-up-man-up/",
-        "published": "2026-10-20T04:00:00Z",
+        "title": "Attorney General's speech at the London Conference on International Law 2026",
+        "source": "Www.gov.uk",
+        "url": "https://www.gov.uk/government/news/attorney-generals-speech-at-the-london-conference-on-international-law-2026",
+        "published": "2026-10-20T09:00:15Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Price Today (October 20): Crude oil nears $110 again as fresh attacks outweigh easing Russian sanctions. What are experts saying?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-20-crude-oil-nears-110-again-as-fresh-attacks-outweigh-easing-russian-sanctions-what-are-experts-saying/articleshow/135059918.cms",
-        "published": "2026-10-20T02:20:53Z",
-        "sentiment": "danger"
+        "title": "XTOOL AD20 Pro OBD2 Full System Car Diagnostic Scan Tool for $41 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/XTOOL-AD20-Pro-OBD2-Full-System-Car-Diagnostic-Scan-Tool-for-41-free-shipping/22298930.html",
+        "published": "2026-10-20T08:16:50Z",
+        "sentiment": "watch"
       },
       {
-        "title": "At least 53 killed after Houthi rebels strike Yemen's government forces",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/at-least-53-killed-after-houthi-rebels-strike-yemen-s-government-forces-126102000012_1.html",
-        "published": "2026-10-20T02:07:45Z",
-        "sentiment": "danger"
+        "title": "EU plans stronger Arctic presence amid rising tensions",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/eu-plans-stronger-arctic-presence-amid-rising-tensions-228351",
+        "published": "2026-10-20T06:53:26Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump says US keeps up pressure on Iran",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/trump-says-us-keeps-up-pressure-on-iran-228342",
+        "published": "2026-10-20T06:03:51Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
