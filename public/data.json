@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-21T00:40:00.941Z",
+    "generated_at": "2026-10-21T05:21:27.952Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "1966 Plymouth Satellite Hardtop 426 Hemi",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1966-plymouth-satellite-25/",
-        "published": "2026-10-19T23:37:15Z",
+        "title": "Alexis back in the café, Samaras tearing up the bailout playbook – and forget the US elections, Greece has its own Champions League battle: PerCapita, Alafouzos, Giannakopoulos and Netflix?",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/10/20/alexis-back-in-the-cafe-samaras-tearing-up-the-bailout-playbook-and-forget-the-us-elections-greece-has-its-own-champions-league-battle-percapita-alafouzos-giannakopoulos-and-netflix/",
+        "published": "2026-10-20T04:58:22Z",
         "sentiment": "watch"
       },
       {
-        "title": "U.S. to Allow Dark-Fleet Tankers to Shed Sanctions, Wright Says",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/u-s-to-allow-dark-fleet-tankers-to-shed-sanctions-wright-says/",
-        "published": "2026-10-19T23:33:26Z",
+        "title": "Democrats: Shut up, put up, man up",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/blog/2026/10/democrats-shut-up-put-up-man-up/",
+        "published": "2026-10-20T04:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "2,100-Mile 2005 BMW F650GS Dakar",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2005-bmw-f650gs-7/",
-        "published": "2026-10-19T21:40:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How the Iran war is ruining Saudi Arabia’s plans",
-        "source": "Vox",
-        "url": "https://www.vox.com/podcasts/506853/saudi-arabia-airport-houthis-yemen-iran-war",
-        "published": "2026-10-19T21:05:39Z",
+        "title": "Oil Price Today (October 20): Crude oil nears $110 again as fresh attacks outweigh easing Russian sanctions. What are experts saying?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-20-crude-oil-nears-110-again-as-fresh-attacks-outweigh-easing-russian-sanctions-what-are-experts-saying/articleshow/135059918.cms",
+        "published": "2026-10-20T02:20:53Z",
         "sentiment": "danger"
       },
       {
-        "title": "US allows dark-fleet oil tankers to shed sanctions, Wright says",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/f8eea40303e08def",
-        "published": "2026-10-19T21:03:40Z",
-        "sentiment": "watch"
+        "title": "At least 53 killed after Houthi rebels strike Yemen's government forces",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/at-least-53-killed-after-houthi-rebels-strike-yemen-s-government-forces-126102000012_1.html",
+        "published": "2026-10-20T02:07:45Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
