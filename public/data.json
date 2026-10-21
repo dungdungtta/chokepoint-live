@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-21T19:40:11.096Z",
+    "generated_at": "2026-10-21T22:47:55.944Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -23,42 +23,56 @@
   "news": {
     "hormuz": [
       {
+        "title": "$5 Cash Back On Any 5-Quart Bottle or Five 1-Quart Bottles of Valvoline™ Motor Oil",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20185059-5-cash-back-on-any-5-quart-bottle-or-five-1-quart-bottles-of-valvoline-motor-oil",
+        "published": "2026-10-20T22:04:14Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Third US aircraft carrier, 10k troops head to Middle East",
+        "source": "Iranintl.com",
+        "url": "https://www.iranintl.com/en/202610207766",
+        "published": "2026-10-20T21:18:07Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "EU revises Arctic strategy as pressure from Russia, US grows",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows",
+        "published": "2026-10-20T20:05:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Middle East's Next Energy Boom Has Nothing to Do With Oil",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/The-Middle-Easts-Next-Energy-Boom-Has-Nothing-to-Do-With-Oil.html",
+        "published": "2026-10-20T20:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Gorilla Grip Padded Ironing Board Cover for $19 + free shipping w/ Prime",
         "source": "Dealnews.com",
         "url": "https://www.dealnews.com/Gorilla-Grip-Padded-Ironing-Board-Cover-for-19-free-shipping-w-Prime/22299718.html",
         "published": "2026-10-20T19:02:48Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "1974 BMW R90/6 at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1974-bmw-r90-6-30/",
-        "published": "2026-10-20T19:00:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Planned deadlock: 'Iran is dragging talks to influence US midterms'",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/planned-deadlock-iran-is-dragging-talks-to-influence-us-midterms/articleshow/135075892.cms",
-        "published": "2026-10-20T18:59:09Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Saudi Arabia postpones ‘Davos in the Desert’ due to Houthi strikes",
-        "source": "Rt-english.com",
-        "url": "https://rt-english.com/news/647456-saudi-arabia-cancels-forum-houthis/",
-        "published": "2026-10-20T18:50:01Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Sea mine crisis re-emerges in Strait of Hormuz as Tehran urges Washington to accept deal",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/sea-mine-crisis-re-emerges-strait-hormuz-tehran-urges-washington-accept-deal",
-        "published": "2026-10-20T18:26:18Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "‘Immediately cease’: China sends its navy after U.S. warship as separate maritime standoff erupts near Taiwan",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/10/immediately-cease-china-sends-its-navy-after-u/",
+        "published": "2026-10-20T22:19:18Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "China Sends Navy After US Warship As Separate Maritime Standoff Erupts Near Taiwan",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/10/20/china-sends-navy-after-us-warship-taiwan-maritime-standoff",
+        "published": "2026-10-20T20:51:20Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Taiwan detects 5 PLA aircraft, 6 PLAN vessels operating around island",
         "source": "The Times of India",
@@ -79,20 +93,6 @@
         "url": "https://www.rte.ie/brainstorm/2026/1015/1595435-suez-canal-1956-strait-of-hormuz-2026-closures-superpowers-economics-geopolitical-influence/",
         "published": "2026-10-15T14:57:13Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "China opens joint airfield in Laos with eyes on its military role",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/china-opens-joint-airfield-laos-construction-ongoing-eyes-137275971",
-        "published": "2026-10-15T06:55:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Strait of Hormuz Could Become America’s Suez Moment",
-        "source": "Activistpost.com",
-        "url": "https://activistpost.com/the-strait-of-hormuz-could-become-americas-suez-moment/",
-        "published": "2026-10-14T22:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -107,11 +107,11 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "amber",
+    "taiwan": "red",
     "malacca": "yellow",
     "suez": "yellow",
     "panama": "yellow",
-    "korea": "yellow"
+    "korea": "amber"
   },
   "thresholds": {
     "brent_alert": 110,
