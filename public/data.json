@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-10-21T15:33:57.909Z",
+    "generated_at": "2026-10-21T19:40:11.096Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 126.55,
-      "change_pct": 0.6,
-      "date": "2026-10-14",
+      "price": 115.22,
+      "change_pct": -3,
+      "date": "2026-10-20",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -23,31 +23,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Generac 24kW Whole Home Generator for $6,875 + free shipping",
+        "title": "Gorilla Grip Padded Ironing Board Cover for $19 + free shipping w/ Prime",
         "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/products/Generac/Generac-24-k-W-Whole-Home-Generator/526149.html",
-        "published": "2026-10-20T15:19:33Z",
+        "url": "https://www.dealnews.com/Gorilla-Grip-Padded-Ironing-Board-Cover-for-19-free-shipping-w-Prime/22299718.html",
+        "published": "2026-10-20T19:02:48Z",
         "sentiment": "watch"
       },
       {
-        "title": "Glade PlugIns Scented Oil Plus Air Freshener Warmer & Refill for $10 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Glade-Plug-Ins-Scented-Oil-Plus-Air-Freshener-Warmer-Refill-for-10-free-shipping-w-Prime/22299500.html",
-        "published": "2026-10-20T15:16:46Z",
+        "title": "1974 BMW R90/6 at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1974-bmw-r90-6-30/",
+        "published": "2026-10-20T19:00:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Planned deadlock: 'Iran is dragging talks to influence US midterms'",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/planned-deadlock-iran-is-dragging-talks-to-influence-us-midterms/articleshow/135075892.cms",
+        "published": "2026-10-20T18:59:09Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Saudi Arabia postpones ‘Davos in the Desert’ due to Houthi strikes",
+        "source": "Rt-english.com",
+        "url": "https://rt-english.com/news/647456-saudi-arabia-cancels-forum-houthis/",
+        "published": "2026-10-20T18:50:01Z",
         "sentiment": "danger"
       },
       {
-        "title": "Glade PlugIns CustomScent 5-Pack for $9.50 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Glade-Plug-Ins-Custom-Scent-5-Pack-for-9-50-free-shipping-w-Prime/22299486.html",
-        "published": "2026-10-20T15:15:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Shipping Crisis Forces Asian Crude Buyers to Use Smaller Tankers",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Shipping-Crisis-Forces-Asian-Crude-Buyers-to-Use-Smaller-Tankers.html",
-        "published": "2026-10-20T14:30:00Z",
+        "title": "Sea mine crisis re-emerges in Strait of Hormuz as Tehran urges Washington to accept deal",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/sea-mine-crisis-re-emerges-strait-hormuz-tehran-urges-washington-accept-deal",
+        "published": "2026-10-20T18:26:18Z",
         "sentiment": "watch"
       }
     ],
