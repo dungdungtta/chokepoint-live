@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-21T10:30:00.644Z",
+    "generated_at": "2026-10-21T15:33:57.909Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -12,53 +12,42 @@
       "unit": "USD/bbl"
     },
     "freight": {
-      "freight_index": 189.7,
-      "change_pct": 2.2,
-      "date": "2026-09-01",
-      "unit": "index (WPU30 proxy)"
+      "freight_index": null,
+      "unit": "index"
     },
     "helium": {
-      "price_index": 17.93,
-      "change_pct": 18.8,
-      "date": "2026-07-01",
-      "unit": "USD/MMBtu (EU nat-gas proxy)"
+      "price_index": null,
+      "unit": "proxy"
     }
   },
   "news": {
     "hormuz": [
       {
-        "title": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111",
-        "published": "2026-10-20T09:32:24Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Attorney General's speech at the London Conference on International Law 2026",
-        "source": "Www.gov.uk",
-        "url": "https://www.gov.uk/government/news/attorney-generals-speech-at-the-london-conference-on-international-law-2026",
-        "published": "2026-10-20T09:00:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "XTOOL AD20 Pro OBD2 Full System Car Diagnostic Scan Tool for $41 + free shipping",
+        "title": "Generac 24kW Whole Home Generator for $6,875 + free shipping",
         "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/XTOOL-AD20-Pro-OBD2-Full-System-Car-Diagnostic-Scan-Tool-for-41-free-shipping/22298930.html",
-        "published": "2026-10-20T08:16:50Z",
+        "url": "https://www.dealnews.com/products/Generac/Generac-24-k-W-Whole-Home-Generator/526149.html",
+        "published": "2026-10-20T15:19:33Z",
         "sentiment": "watch"
       },
       {
-        "title": "EU plans stronger Arctic presence amid rising tensions",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/eu-plans-stronger-arctic-presence-amid-rising-tensions-228351",
-        "published": "2026-10-20T06:53:26Z",
+        "title": "Glade PlugIns Scented Oil Plus Air Freshener Warmer & Refill for $10 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Glade-Plug-Ins-Scented-Oil-Plus-Air-Freshener-Warmer-Refill-for-10-free-shipping-w-Prime/22299500.html",
+        "published": "2026-10-20T15:16:46Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Glade PlugIns CustomScent 5-Pack for $9.50 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Glade-Plug-Ins-Custom-Scent-5-Pack-for-9-50-free-shipping-w-Prime/22299486.html",
+        "published": "2026-10-20T15:15:40Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump says US keeps up pressure on Iran",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/trump-says-us-keeps-up-pressure-on-iran-228342",
-        "published": "2026-10-20T06:03:51Z",
+        "title": "Shipping Crisis Forces Asian Crude Buyers to Use Smaller Tankers",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Shipping-Crisis-Forces-Asian-Crude-Buyers-to-Use-Smaller-Tankers.html",
+        "published": "2026-10-20T14:30:00Z",
         "sentiment": "watch"
       }
     ],
@@ -113,7 +102,7 @@
     "hormuz": "red",
     "taiwan": "amber",
     "malacca": "yellow",
-    "suez": "amber",
+    "suez": "yellow",
     "panama": "yellow",
     "korea": "yellow"
   },
