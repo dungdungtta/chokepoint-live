@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-22T06:31:19.397Z",
+    "generated_at": "2026-10-22T12:30:02.043Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil rebounds as Middle East supply fears persist",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/oil-rebounds-as-middle-east-supply-fears-persist-228407",
-        "published": "2026-10-21T06:26:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Japan records trade deficit as oil imports soar",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/japan-records-trade-deficit-as-oil-imports-soar-228398",
-        "published": "2026-10-21T06:08:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil prices climb as traders assess Middle East developments",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
-        "published": "2026-10-21T05:27:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "24 million barrels a day: Gulf oil flows surge past prewar levels despite US-Iran war",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/business/international-business/24-million-barrels-a-day-gulf-oil-flows-surge-past-prewar-levels-despite-us-iran-war/articleshow/135082416.cms",
-        "published": "2026-10-21T05:01:16Z",
+        "title": "Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels",
+        "source": "The Maritime Executive",
+        "url": "https://maritime-executive.com/article/report-despite-iran-s-attacks-gulf-oil-exports-exceed-prewar-levels",
+        "published": "2026-10-21T12:23:41Z",
         "sentiment": "danger"
       },
       {
-        "title": "New polls, Mitsotakis’ election strategy, a UAE royal visit, Viva’s clash with Bank of Cyprus and soaring ferry costs",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/10/21/new-polls-mitsotakis-election-strategy-a-uae-royal-visit-vivas-clash-with-bank-of-cyprus-and-soaring-ferry-costs/",
-        "published": "2026-10-21T04:57:21Z",
+        "title": "Current price of oil as of October 21, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-10-21-2026/",
+        "published": "2026-10-21T12:00:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Persian Gulf Oil Exports Top Prewar Levels",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/398530/persian-gulf-oil-exports-top-prewar-levels.html",
+        "published": "2026-10-21T11:50:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Why I Still Love Oliveda: My Oliveda Favorites + Skincare Routine",
+        "source": "Katheats.com",
+        "url": "https://www.katheats.com/my-oliveda-favorites",
+        "published": "2026-10-21T11:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Brent oil prices near 5-month high on supply fears",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/1021/1596270-world-oil-prices/",
+        "published": "2026-10-21T10:53:46Z",
         "sentiment": "watch"
       }
     ],
