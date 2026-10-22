@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-22T17:35:06.812Z",
+    "generated_at": "2026-10-22T20:50:32.063Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -18,47 +18,47 @@
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
-      "price_index": 17.93,
-      "change_pct": 18.8,
-      "date": "2026-07-01",
+      "price_index": 25.49,
+      "change_pct": 21.9,
+      "date": "2026-09-01",
       "unit": "USD/MMBtu (EU nat-gas proxy)"
     }
   },
   "news": {
     "hormuz": [
       {
-        "title": "A ‘pipe dream of EU hawks’: What’s in Brussels’ new Arctic Strategy?",
-        "source": "Rt-english.com",
-        "url": "https://rt-english.com/news/647492-eu-arctic-strategy-russia/",
-        "published": "2026-10-21T17:17:45Z",
+        "title": "These 39+ best Advent calendars on Amazon will ship fast",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/select/shopping/best-amazon-advent-calendars-rcna604847",
+        "published": "2026-10-21T20:48:10Z",
         "sentiment": "watch"
       },
       {
-        "title": "Middle East Oil Flows Near Prewar Levels Defy Hormuz Attacks",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/middle-east-oil-flows-near-prewar-levels-defy-hormuz-attacks/",
-        "published": "2026-10-21T17:01:59Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "IEA: Gulf Oil Shipping Costs Top $37 Per Barrel, Five Times Pre-War Levels",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/iea-gulf-oil-shipping-costs-top-37-per-barrel-five-times-pre-war-levels/",
-        "published": "2026-10-21T16:29:04Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "100 Creature Feature Writing Prompts",
-        "source": "Nofilmschool.com",
-        "url": "https://nofilmschool.com/creature-feature-writing-prompts",
-        "published": "2026-10-21T16:14:15Z",
+        "title": "One-Family-Owned 1965 Chrysler New Yorker Sedan at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1965-chrysler-new-yorker-2/",
+        "published": "2026-10-21T20:00:28Z",
         "sentiment": "watch"
       },
       {
-        "title": "What I learned from six months of being stupid on purpose",
-        "source": "Wvez.org",
-        "url": "https://wvez.org/blog/learning-to-be-stupid/",
-        "published": "2026-10-21T16:06:56Z",
+        "title": "WorkPro 64mm 14-Flute Aluminum Oil Filter Wrench for $21 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Work-Pro-64-mm-14-Flute-Aluminum-Oil-Filter-Wrench-for-21-free-shipping-w-Prime/22302655.html",
+        "published": "2026-10-21T19:25:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Two arrested, minor detained for Rs 2L hit on shipping firm owner",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/pune/two-arrested-minor-detained-for-rs-2l-hit-on-shipping-firm-owner/articleshow/135099800.cms",
+        "published": "2026-10-21T19:08:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Russia’s Northern Sea Route Workaround Supplying Asian Buyers",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Russias-Northern-Sea-Route-Workaround-Supplying-Asian-Buyers.html",
+        "published": "2026-10-21T19:00:00Z",
         "sentiment": "watch"
       }
     ],
