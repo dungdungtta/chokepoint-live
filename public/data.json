@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-22T20:50:32.063Z",
+    "generated_at": "2026-10-22T23:56:33.362Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "These 39+ best Advent calendars on Amazon will ship fast",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/select/shopping/best-amazon-advent-calendars-rcna604847",
-        "published": "2026-10-21T20:48:10Z",
+        "title": "1 killed in Saudi Arabia airport attack as Houthis target drone strikes across nation’s airports",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/10/21/world-news/1-killed-in-saudi-arabia-airport-attack-as-houthis-target-drone-strikes-across-nations-airports/",
+        "published": "2026-10-21T23:38:33Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Glaring military 'gaps' in 'hostile' High North are leaving UK vulnerable to Russian subs and sabotage, report",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16226903/Glaring-military-gaps-hostile-High-North-leaving-UK-vulnerable-Russian-subs-sabotage-report.html",
+        "published": "2026-10-21T23:02:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "One-Family-Owned 1965 Chrysler New Yorker Sedan at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1965-chrysler-new-yorker-2/",
-        "published": "2026-10-21T20:00:28Z",
+        "title": "Oil Flows Return to Pre-War Levels Despite Iran’s Resurgent Hormuz Terrorism",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/economy/2026/10/21/oil-flows-return-to-pre-war-levels-despite-irans-resurgent-hormuz-terrorism/",
+        "published": "2026-10-21T22:22:39Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "2-Oz WEEMOTD Unrefined Batana Hair Oil (Bright Coffee Scent) $4.99 + Free Shipping w/ Prime or on $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20189550-2-oz-weemotd-unrefined-batana-hair-oil-bright-coffee-scent-4-99-free-shipping-w-prime-or-on-35",
+        "published": "2026-10-21T21:51:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "WorkPro 64mm 14-Flute Aluminum Oil Filter Wrench for $21 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Work-Pro-64-mm-14-Flute-Aluminum-Oil-Filter-Wrench-for-21-free-shipping-w-Prime/22302655.html",
-        "published": "2026-10-21T19:25:44Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Two arrested, minor detained for Rs 2L hit on shipping firm owner",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/city/pune/two-arrested-minor-detained-for-rs-2l-hit-on-shipping-firm-owner/articleshow/135099800.cms",
-        "published": "2026-10-21T19:08:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Russia’s Northern Sea Route Workaround Supplying Asian Buyers",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Russias-Northern-Sea-Route-Workaround-Supplying-Asian-Buyers.html",
-        "published": "2026-10-21T19:00:00Z",
+        "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble—And Compares GPUs to Airline Seats",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
+        "published": "2026-10-21T21:31:02Z",
         "sentiment": "watch"
       }
     ],
