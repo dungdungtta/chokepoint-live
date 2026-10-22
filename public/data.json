@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-21T22:47:55.944Z",
+    "generated_at": "2026-10-22T01:24:28.800Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -23,38 +23,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "$5 Cash Back On Any 5-Quart Bottle or Five 1-Quart Bottles of Valvoline™ Motor Oil",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20185059-5-cash-back-on-any-5-quart-bottle-or-five-1-quart-bottles-of-valvoline-motor-oil",
-        "published": "2026-10-20T22:04:14Z",
+        "title": "Rubio Accuses Iran of ‘Nazi U-Boat Tactics’ — Warns It’s ‘Tough to Make a Deal’ with ‘Radical Shia Clerics’",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/10/20/rubio-accuses-iran-of-nazi-u-boat-tactics-warns-its-tough-to-make-a-deal-with-radical-shia-clerics/",
+        "published": "2026-10-21T00:52:55Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Enjoying Software Engineering in the Age of AI",
+        "source": "Kirahowe.com",
+        "url": "https://kirahowe.com/2026/oct/20/enjoying-software-engineering-in-the-age-of-ai",
+        "published": "2026-10-21T00:19:55Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Mr. President, Don’t Strike Yemen",
+        "source": "Antiwar.com",
+        "url": "https://original.antiwar.com/nolan_denaro/2026/10/20/mr-president-dont-strike-yemen/",
+        "published": "2026-10-21T00:00:01Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Fashion Can’t Keep Reacting to the Next Crisis",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/sustainability/fashion-geopolitical-climate-risk-vf-corp-olam-agri-1239377855/",
+        "published": "2026-10-20T23:43:42Z",
         "sentiment": "watch"
       },
       {
-        "title": "Third US aircraft carrier, 10k troops head to Middle East",
-        "source": "Iranintl.com",
-        "url": "https://www.iranintl.com/en/202610207766",
-        "published": "2026-10-20T21:18:07Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "EU revises Arctic strategy as pressure from Russia, US grows",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows",
-        "published": "2026-10-20T20:05:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Middle East's Next Energy Boom Has Nothing to Do With Oil",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/The-Middle-Easts-Next-Energy-Boom-Has-Nothing-to-Do-With-Oil.html",
-        "published": "2026-10-20T20:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Gorilla Grip Padded Ironing Board Cover for $19 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Gorilla-Grip-Padded-Ironing-Board-Cover-for-19-free-shipping-w-Prime/22299718.html",
-        "published": "2026-10-20T19:02:48Z",
+        "title": "5k-Mile 2005 BMW R1100S BoxerCup Replika at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/2005-bmw-r1100s-8/",
+        "published": "2026-10-20T23:40:04Z",
         "sentiment": "watch"
       }
     ],
