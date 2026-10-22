@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-22T12:30:02.043Z",
+    "generated_at": "2026-10-22T17:35:06.812Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels",
-        "source": "The Maritime Executive",
-        "url": "https://maritime-executive.com/article/report-despite-iran-s-attacks-gulf-oil-exports-exceed-prewar-levels",
-        "published": "2026-10-21T12:23:41Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Current price of oil as of October 21, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-10-21-2026/",
-        "published": "2026-10-21T12:00:10Z",
+        "title": "A ‘pipe dream of EU hawks’: What’s in Brussels’ new Arctic Strategy?",
+        "source": "Rt-english.com",
+        "url": "https://rt-english.com/news/647492-eu-arctic-strategy-russia/",
+        "published": "2026-10-21T17:17:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "Persian Gulf Oil Exports Top Prewar Levels",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/398530/persian-gulf-oil-exports-top-prewar-levels.html",
-        "published": "2026-10-21T11:50:00Z",
+        "title": "Middle East Oil Flows Near Prewar Levels Defy Hormuz Attacks",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/middle-east-oil-flows-near-prewar-levels-defy-hormuz-attacks/",
+        "published": "2026-10-21T17:01:59Z",
         "sentiment": "danger"
       },
       {
-        "title": "Why I Still Love Oliveda: My Oliveda Favorites + Skincare Routine",
-        "source": "Katheats.com",
-        "url": "https://www.katheats.com/my-oliveda-favorites",
-        "published": "2026-10-21T11:00:00Z",
+        "title": "IEA: Gulf Oil Shipping Costs Top $37 Per Barrel, Five Times Pre-War Levels",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/iea-gulf-oil-shipping-costs-top-37-per-barrel-five-times-pre-war-levels/",
+        "published": "2026-10-21T16:29:04Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "100 Creature Feature Writing Prompts",
+        "source": "Nofilmschool.com",
+        "url": "https://nofilmschool.com/creature-feature-writing-prompts",
+        "published": "2026-10-21T16:14:15Z",
         "sentiment": "watch"
       },
       {
-        "title": "Brent oil prices near 5-month high on supply fears",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/1021/1596270-world-oil-prices/",
-        "published": "2026-10-21T10:53:46Z",
+        "title": "What I learned from six months of being stupid on purpose",
+        "source": "Wvez.org",
+        "url": "https://wvez.org/blog/learning-to-be-stupid/",
+        "published": "2026-10-21T16:06:56Z",
         "sentiment": "watch"
       }
     ],
