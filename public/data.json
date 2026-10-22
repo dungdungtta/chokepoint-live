@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-22T01:24:28.800Z",
+    "generated_at": "2026-10-22T06:31:19.397Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -12,53 +12,71 @@
       "unit": "USD/bbl"
     },
     "freight": {
-      "freight_index": null,
-      "unit": "index"
+      "freight_index": 189.7,
+      "change_pct": 2.2,
+      "date": "2026-09-01",
+      "unit": "index (WPU30 proxy)"
     },
     "helium": {
-      "price_index": null,
-      "unit": "proxy"
+      "price_index": 17.93,
+      "change_pct": 18.8,
+      "date": "2026-07-01",
+      "unit": "USD/MMBtu (EU nat-gas proxy)"
     }
   },
   "news": {
     "hormuz": [
       {
-        "title": "Rubio Accuses Iran of ‘Nazi U-Boat Tactics’ — Warns It’s ‘Tough to Make a Deal’ with ‘Radical Shia Clerics’",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/10/20/rubio-accuses-iran-of-nazi-u-boat-tactics-warns-its-tough-to-make-a-deal-with-radical-shia-clerics/",
-        "published": "2026-10-21T00:52:55Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Enjoying Software Engineering in the Age of AI",
-        "source": "Kirahowe.com",
-        "url": "https://kirahowe.com/2026/oct/20/enjoying-software-engineering-in-the-age-of-ai",
-        "published": "2026-10-21T00:19:55Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Mr. President, Don’t Strike Yemen",
-        "source": "Antiwar.com",
-        "url": "https://original.antiwar.com/nolan_denaro/2026/10/20/mr-president-dont-strike-yemen/",
-        "published": "2026-10-21T00:00:01Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Fashion Can’t Keep Reacting to the Next Crisis",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/sustainability/fashion-geopolitical-climate-risk-vf-corp-olam-agri-1239377855/",
-        "published": "2026-10-20T23:43:42Z",
+        "title": "Oil rebounds as Middle East supply fears persist",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/oil-rebounds-as-middle-east-supply-fears-persist-228407",
+        "published": "2026-10-21T06:26:36Z",
         "sentiment": "watch"
       },
       {
-        "title": "5k-Mile 2005 BMW R1100S BoxerCup Replika at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2005-bmw-r1100s-8/",
-        "published": "2026-10-20T23:40:04Z",
+        "title": "Japan records trade deficit as oil imports soar",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/japan-records-trade-deficit-as-oil-imports-soar-228398",
+        "published": "2026-10-21T06:08:27Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil prices climb as traders assess Middle East developments",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
+        "published": "2026-10-21T05:27:19Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "24 million barrels a day: Gulf oil flows surge past prewar levels despite US-Iran war",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/business/international-business/24-million-barrels-a-day-gulf-oil-flows-surge-past-prewar-levels-despite-us-iran-war/articleshow/135082416.cms",
+        "published": "2026-10-21T05:01:16Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "New polls, Mitsotakis’ election strategy, a UAE royal visit, Viva’s clash with Bank of Cyprus and soaring ferry costs",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/10/21/new-polls-mitsotakis-election-strategy-a-uae-royal-visit-vivas-clash-with-bank-of-cyprus-and-soaring-ferry-costs/",
+        "published": "2026-10-21T04:57:21Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "US Grapples With China-Linked Critical Minerals Shortfall Left Unresolved By Trump-Xi Summit",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/us-china-critical-minerals-shortfall-trump-xi-summit/33879296.html",
+        "published": "2026-10-21T05:27:33Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China says it is 'safeguarding order' around Taiwan-controlled South China Sea atoll",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/china-says-it-is-safeguarding-order-around-taiwan-controlled-south-china-sea-atoll/articleshow/135082090.cms",
+        "published": "2026-10-21T04:28:54Z",
+        "sentiment": "watch"
+      },
       {
         "title": "‘Immediately cease’: China sends its navy after U.S. warship as separate maritime standoff erupts near Taiwan",
         "source": "Wnd.com",
@@ -79,20 +97,6 @@
         "url": "https://economictimes.indiatimes.com/news/defence/taiwan-detects-5-pla-aircraft-6-plan-vessels-operating-around-island/articleshow/135037776.cms",
         "published": "2026-10-19T02:03:10Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "NATO Intends to Impose Its Will in Asia, Constructive Response Needed - Lavrov",
-        "source": "Sputnikglobe.com",
-        "url": "https://sputnikglobe.com/20261016/nato-intends-to-impose-its-will-in-asia-constructive-response-needed---lavrov-1124887967.html",
-        "published": "2026-10-16T07:46:58Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What history tells us about the closure of vital waterways",
-        "source": "RTE",
-        "url": "https://www.rte.ie/brainstorm/2026/1015/1595435-suez-canal-1956-strait-of-hormuz-2026-closures-superpowers-economics-geopolitical-influence/",
-        "published": "2026-10-15T14:57:13Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -107,11 +111,11 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "red",
+    "taiwan": "amber",
     "malacca": "yellow",
-    "suez": "yellow",
+    "suez": "amber",
     "panama": "yellow",
-    "korea": "amber"
+    "korea": "yellow"
   },
   "thresholds": {
     "brent_alert": 110,
