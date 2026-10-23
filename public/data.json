@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-23T14:28:03.555Z",
+    "generated_at": "2026-10-23T18:39:58.892Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Is Iran ready for another major US attack after midterm elections?",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082",
-        "published": "2026-10-22T14:16:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Black Sea Maritime Security and Türkiye’s Inescapable Responsibility",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/black-sea-maritime-security-turkiye-inescapable-responsibility/5944242",
-        "published": "2026-10-22T14:10:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What Jackdaw’s Approval Means for the Future of North Sea Drilling",
+        "title": "EU’s Proposed Shipping Subsidies Could Make BioLNG Cheaper Than Fuel Oil",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/What-Jackdaws-Approval-Means-for-the-Future-of-North-Sea-Drilling.html",
-        "published": "2026-10-22T14:00:00Z",
+        "url": "https://oilprice.com/Energy/Energy-General/EUs-Proposed-Shipping-Subsidies-Could-Make-BioLNG-Cheaper-Than-Fuel-Oil.html",
+        "published": "2026-10-22T18:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Glade PlugIns Golden Pumpkin & Spice Scented Oil Refills 5-Pack for $12 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Glade-Plug-Ins-Golden-Pumpkin-Spice-Scented-Oil-Refills-5-Pack-for-12-free-shipping-w-Prime/22304726.html",
-        "published": "2026-10-22T13:54:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4400149/posts",
-        "published": "2026-10-22T13:40:10Z",
+        "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response",
+        "published": "2026-10-22T17:58:04Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Putin’s War On Ukraine Puts Oil Giant Rosneft Under Mounting Pressure",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/putins-war-on-ukraine-puts-oil-giant-rosneft-under-mounting-pressure/",
+        "published": "2026-10-22T17:38:33Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Fuel Retailers Encourage Federal Energy Commission to Abandon Plan That Would Force Consumers to Pay More for Gasoline and Diesel",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/fuel-retailers-encourage-federal-energy-commission-to-abandon-plan-that-would-force-consumers-to-pay-more-for-gasoline-and-diesel-302917292.html",
+        "published": "2026-10-22T17:32:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Citi’s $60 Oil Call Meets $112 Brent",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Citis-60-Oil-Call-Meets-112-Brent.html",
+        "published": "2026-10-22T17:30:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
