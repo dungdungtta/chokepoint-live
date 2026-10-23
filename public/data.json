@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-22T23:56:33.362Z",
+    "generated_at": "2026-10-23T04:32:52.835Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "1 killed in Saudi Arabia airport attack as Houthis target drone strikes across nation’s airports",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/10/21/world-news/1-killed-in-saudi-arabia-airport-attack-as-houthis-target-drone-strikes-across-nations-airports/",
-        "published": "2026-10-21T23:38:33Z",
+        "title": "Why Syntagma didn’t become the Champs-Élysées, the Liolios mix-up, who the Sheikh will meet and what he will sign in Athens, and what the Lord said about the metro",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/10/22/why-syntagma-didnt-become-the-champs-elysees-the-liolios-mix-up-who-the-sheikh-will-meet-and-what-he-will-sign-in-athens-and-what-the-lord-said-about-the-metro/",
+        "published": "2026-10-22T04:28:22Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Do people eat buffalo or bison?",
+        "source": "Lifesciencesworld.com",
+        "url": "https://www.lifesciencesworld.com/do-people-eat-buffalo-or-bison/",
+        "published": "2026-10-22T02:46:03Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "One killed, 8 injured in attack on Saudi Arabia's King Fahd airport",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/one-killed-8-injured-in-attack-on-saudi-arabia-s-king-fahd-airport-126102200050_1.html",
+        "published": "2026-10-22T02:39:02Z",
         "sentiment": "danger"
       },
       {
-        "title": "Glaring military 'gaps' in 'hostile' High North are leaving UK vulnerable to Russian subs and sabotage, report",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16226903/Glaring-military-gaps-hostile-High-North-leaving-UK-vulnerable-Russian-subs-sabotage-report.html",
-        "published": "2026-10-21T23:02:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Flows Return to Pre-War Levels Despite Iran’s Resurgent Hormuz Terrorism",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/economy/2026/10/21/oil-flows-return-to-pre-war-levels-despite-irans-resurgent-hormuz-terrorism/",
-        "published": "2026-10-21T22:22:39Z",
+        "title": "Oil prices rise as Houthi attacks in Saudi Arabia fuel supply concerns",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/commodities/oil-prices-rise-as-houthi-attacks-in-saudi-arabia-fuel-supply-concerns-126102200066_1.html",
+        "published": "2026-10-22T02:24:43Z",
         "sentiment": "danger"
       },
       {
-        "title": "2-Oz WEEMOTD Unrefined Batana Hair Oil (Bright Coffee Scent) $4.99 + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20189550-2-oz-weemotd-unrefined-batana-hair-oil-bright-coffee-scent-4-99-free-shipping-w-prime-or-on-35",
-        "published": "2026-10-21T21:51:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble—And Compares GPUs to Airline Seats",
-        "source": "Decrypt",
-        "url": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
-        "published": "2026-10-21T21:31:02Z",
-        "sentiment": "watch"
+        "title": "US evacuating Middle East bases as Trump weighs new Iran strikes – NBC",
+        "source": "Rt-english.com",
+        "url": "https://rt-english.com/news/647505-us-relocating-troops-diplomats/",
+        "published": "2026-10-22T02:18:13Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
