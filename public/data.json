@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-23T04:32:52.835Z",
+    "generated_at": "2026-10-23T09:37:09.741Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Why Syntagma didn’t become the Champs-Élysées, the Liolios mix-up, who the Sheikh will meet and what he will sign in Athens, and what the Lord said about the metro",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/10/22/why-syntagma-didnt-become-the-champs-elysees-the-liolios-mix-up-who-the-sheikh-will-meet-and-what-he-will-sign-in-athens-and-what-the-lord-said-about-the-metro/",
-        "published": "2026-10-22T04:28:22Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Do people eat buffalo or bison?",
-        "source": "Lifesciencesworld.com",
-        "url": "https://www.lifesciencesworld.com/do-people-eat-buffalo-or-bison/",
-        "published": "2026-10-22T02:46:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "One killed, 8 injured in attack on Saudi Arabia's King Fahd airport",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/one-killed-8-injured-in-attack-on-saudi-arabia-s-king-fahd-airport-126102200050_1.html",
-        "published": "2026-10-22T02:39:02Z",
+        "title": "Hormuz war risk pushes crude shipping costs sevenfold, squeezes refiners' margins: Goldman Sachs",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/hormuz-war-risk-pushes-crude-shipping-costs-sevenfold-squeezes-refiners-margins-goldman-sachs/articleshow/135113319.cms",
+        "published": "2026-10-22T09:20:53Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil prices rise as Houthi attacks in Saudi Arabia fuel supply concerns",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/commodities/oil-prices-rise-as-houthi-attacks-in-saudi-arabia-fuel-supply-concerns-126102200066_1.html",
-        "published": "2026-10-22T02:24:43Z",
+        "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro",
+        "published": "2026-10-22T09:14:48Z",
         "sentiment": "danger"
       },
       {
-        "title": "US evacuating Middle East bases as Trump weighs new Iran strikes – NBC",
+        "title": "Tanker with 21 Indian sailors struck in Strait of Hormuz",
         "source": "Rt-english.com",
-        "url": "https://rt-english.com/news/647505-us-relocating-troops-diplomats/",
-        "published": "2026-10-22T02:18:13Z",
+        "url": "https://rt-english.com/india/647509-india-hormuz-tanker-attack/",
+        "published": "2026-10-22T08:54:59Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/articles/iran-says-7-oil-tankers-085203145.html",
+        "published": "2026-10-22T08:52:03Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Soaring oil prices underscore the need to help poor countries adopt renewables",
+        "source": "Grist",
+        "url": "https://grist.org/international/oil-prices-developing-countries-energy-transition-iran-war/",
+        "published": "2026-10-22T08:30:00Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Can Russia broker a new US-Iran deal?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal",
+        "published": "2026-10-22T08:00:48Z",
+        "sentiment": "watch"
+      },
       {
         "title": "US Grapples With China-Linked Critical Minerals Shortfall Left Unresolved By Trump-Xi Summit",
         "source": "Radio Free Europe/ Radio Liberty",
@@ -90,13 +97,6 @@
         "url": "https://dailycaller.com/2026/10/20/china-sends-navy-after-us-warship-taiwan-maritime-standoff",
         "published": "2026-10-20T20:51:20Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Taiwan detects 5 PLA aircraft, 6 PLAN vessels operating around island",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/taiwan-detects-5-pla-aircraft-6-plan-vessels-operating-around-island/articleshow/135037776.cms",
-        "published": "2026-10-19T02:03:10Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
