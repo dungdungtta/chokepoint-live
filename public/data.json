@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-23T09:37:09.741Z",
+    "generated_at": "2026-10-23T14:28:03.555Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Hormuz war risk pushes crude shipping costs sevenfold, squeezes refiners' margins: Goldman Sachs",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/hormuz-war-risk-pushes-crude-shipping-costs-sevenfold-squeezes-refiners-margins-goldman-sachs/articleshow/135113319.cms",
-        "published": "2026-10-22T09:20:53Z",
+        "title": "Is Iran ready for another major US attack after midterm elections?",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082",
+        "published": "2026-10-22T14:16:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro",
-        "published": "2026-10-22T09:14:48Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Tanker with 21 Indian sailors struck in Strait of Hormuz",
-        "source": "Rt-english.com",
-        "url": "https://rt-english.com/india/647509-india-hormuz-tanker-attack/",
-        "published": "2026-10-22T08:54:59Z",
+        "title": "Black Sea Maritime Security and Türkiye’s Inescapable Responsibility",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/black-sea-maritime-security-turkiye-inescapable-responsibility/5944242",
+        "published": "2026-10-22T14:10:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/articles/iran-says-7-oil-tankers-085203145.html",
-        "published": "2026-10-22T08:52:03Z",
-        "sentiment": "danger"
+        "title": "What Jackdaw’s Approval Means for the Future of North Sea Drilling",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/What-Jackdaws-Approval-Means-for-the-Future-of-North-Sea-Drilling.html",
+        "published": "2026-10-22T14:00:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Soaring oil prices underscore the need to help poor countries adopt renewables",
-        "source": "Grist",
-        "url": "https://grist.org/international/oil-prices-developing-countries-energy-transition-iran-war/",
-        "published": "2026-10-22T08:30:00Z",
+        "title": "Glade PlugIns Golden Pumpkin & Spice Scented Oil Refills 5-Pack for $12 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Glade-Plug-Ins-Golden-Pumpkin-Spice-Scented-Oil-Refills-5-Pack-for-12-free-shipping-w-Prime/22304726.html",
+        "published": "2026-10-22T13:54:17Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4400149/posts",
+        "published": "2026-10-22T13:40:10Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
