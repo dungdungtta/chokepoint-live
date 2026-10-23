@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-23T18:39:58.892Z",
+    "generated_at": "2026-10-23T21:42:41.280Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "EU’s Proposed Shipping Subsidies Could Make BioLNG Cheaper Than Fuel Oil",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/EUs-Proposed-Shipping-Subsidies-Could-Make-BioLNG-Cheaper-Than-Fuel-Oil.html",
-        "published": "2026-10-22T18:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response",
-        "published": "2026-10-22T17:58:04Z",
+        "title": "Trump’s Gamble to End the Iran War",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121/?utm_source=feed",
+        "published": "2026-10-22T21:41:50Z",
         "sentiment": "danger"
       },
       {
-        "title": "Putin’s War On Ukraine Puts Oil Giant Rosneft Under Mounting Pressure",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/putins-war-on-ukraine-puts-oil-giant-rosneft-under-mounting-pressure/",
-        "published": "2026-10-22T17:38:33Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Fuel Retailers Encourage Federal Energy Commission to Abandon Plan That Would Force Consumers to Pay More for Gasoline and Diesel",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/fuel-retailers-encourage-federal-energy-commission-to-abandon-plan-that-would-force-consumers-to-pay-more-for-gasoline-and-diesel-302917292.html",
-        "published": "2026-10-22T17:32:00Z",
+        "title": "Long March 90th anniversary ceremony; Li Qiang meets Putin; A-share investors suffering",
+        "source": "Sinocism.com",
+        "url": "https://sinocism.com/p/long-march-90th-anniversary-ceremony",
+        "published": "2026-10-22T21:11:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "Citi’s $60 Oil Call Meets $112 Brent",
+        "title": "Hormuz war risk pushes crude shipping costs sevenfold, squeezes refiners’ margins: Goldman Sachs - The Tribune",
+        "source": "The Tribune India",
+        "url": "https://www.tribuneindia.com/news/business/hormuz-war-risk-pushes-crude-shipping-costs-sevenfold-squeezes-refiners-margins-goldman-sachs/",
+        "published": "2026-10-22T21:03:23Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran Claims It Hit Multiple Ships In Persian Gulf, Warns US Military Of Major Escalation",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/10/22/iran-claims-seven-vessels-attacked-in-persian-gulf",
+        "published": "2026-10-22T20:20:27Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Why Fossil Fuel Demand Can Rise Even as Clean Energy Wins Terrain",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Citis-60-Oil-Call-Meets-112-Brent.html",
-        "published": "2026-10-22T17:30:00Z",
+        "url": "https://oilprice.com/Energy/Energy-General/Why-Fossil-Fuel-Demand-Can-Rise-Even-as-Clean-Energy-Wins-Terrain.html",
+        "published": "2026-10-22T20:00:00Z",
         "sentiment": "watch"
       }
     ],
