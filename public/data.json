@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-24T19:22:47.007Z",
+    "generated_at": "2026-10-24T21:48:44.564Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Beaches shut after oil tanker is 'hit in missile strike' near Strait of Hormuz leading to huge oil spill close to UAE tourist resort",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16234177/Beaches-shut-oil-tanker-missile-strike-Strait-Hormuz.html",
-        "published": "2026-10-23T19:19:33Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "First Tanker Of Putin’s Diesel Heads For New York As Prices Top $6 A Gallon",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/10/23/russian-diesel-tanker-new-york-donald-trump-vladimir-putin-agioi-fanendes-tom-kloza",
-        "published": "2026-10-23T19:15:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Exclusive: Trump EPA Amasses $1.6 Trillion in Savings Through Deregulatory Agenda",
+        "title": "China Uses Djibouti Outpost to Assert Itself on Houthi Attacks",
         "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/10/23/exclusive-trump-epa-amasses-1-6-trillion-savings-through-deregulatory-agenda/",
-        "published": "2026-10-23T19:00:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Record Tanker Rates Threaten to Push U.S. Oil Exports to Asia to Seven-Year Low",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/record-tanker-rates-threaten-to-push-u-s-oil-exports-to-asia-to-seven-year-low/",
-        "published": "2026-10-23T18:22:34Z",
+        "url": "https://www.breitbart.com/africa/2026/10/23/china-uses-djibouti-outpost-to-assert-itself-on-houthi-attacks/",
+        "published": "2026-10-23T21:39:48Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump’s Russia Play | China’s Fear",
-        "source": "Dailyreckoning.com",
-        "url": "https://dailyreckoning.com/post/trumps-russia-play-or-chinas-fear",
-        "published": "2026-10-23T18:00:00Z",
+        "title": "Trump Wants More Gas And Diesel Made At Home, And He’s Paying $150 Million To Make It Happen",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/10/23/defense-production-act-refineries-energy-department-chris-wright-matt-mcmanus-afpm",
+        "published": "2026-10-23T21:12:28Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Peace talks, Zelensky, the EU, ‘political schizophrenia’ and a new Cold War: RT stories that shaped the week",
+        "source": "Rt-english.com",
+        "url": "https://rt-english.com/news/647589-rt-top-stories-putin-zelensky-witkoff/",
+        "published": "2026-10-23T21:04:09Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "1966 Plymouth Barracuda V8 at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1966-plymouth-barracuda-38/",
+        "published": "2026-10-23T20:45:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Yale Assure Lock Touchscreen Standalone Keyed Deadbolt for $108 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/products/Yale/Yale-Assure-Lock-Touchscreen-Standalone-Keyed-Deadbolt/548874.html",
+        "published": "2026-10-23T20:11:41Z",
         "sentiment": "watch"
       }
     ],
