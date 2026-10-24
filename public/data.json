@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-24T04:42:06.749Z",
+    "generated_at": "2026-10-24T09:09:39.836Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US crude stays costly for India despite Rubio push; Venezuela offers value",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/economy/news/india-us-venezuela-crude-oil-imports-rubio-refiners-freight-126102300221_1.html",
-        "published": "2026-10-23T04:23:11Z",
+        "title": "Trump can’t let Iran turn a military defeat turn into a diplomatic victory",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/opinion/trump-cant-let-iran-turn-military-defeat-into-diplomatic-victory",
+        "published": "2026-10-23T09:00:25Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran Implies Trump caught in the Matrix, needs to be Red-Pilled, as it strikes 7 Oil Tankers",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/10/caught-strikes-tankers.html",
-        "published": "2026-10-23T04:15:23Z",
+        "title": "Indonesia plans to raise quota of subsidized Pertalite fuel",
+        "source": "Antaranews.com",
+        "url": "https://en.antaranews.com/news/437439/indonesia-plans-to-raise-quota-of-subsidized-pertalite-fuel",
+        "published": "2026-10-23T07:47:47Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war",
+        "published": "2026-10-23T07:37:12Z",
         "sentiment": "danger"
       },
       {
-        "title": "How to defeat the Houthis",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/blog/2026/10/how-to-defeat-the-houthis/",
-        "published": "2026-10-23T04:00:00Z",
-        "sentiment": "watch"
+        "title": "Oil Prices Climb as Brent Tops $114 and WTI Holds Above $100 After Houthi Attacks Force Aramco to Evacuate HQ",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/oil-prices-rise-saudi-attacks-iran-tensions-1877275",
+        "published": "2026-10-23T07:29:12Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Oil little changed as supply concern lingers amid Houthi attacks on Saudi",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/commodities/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-126102300065_1.html",
-        "published": "2026-10-23T02:30:30Z",
+        "title": "Murban Crude Surges Nearly 4% to Match Brent as Gulf Attacks and Iran Ship Claims Stoke Supply Fears",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/murban-crude-price-jumps-gulf-supply-fears-1877273",
+        "published": "2026-10-23T07:28:32Z",
         "sentiment": "danger"
       }
     ],
