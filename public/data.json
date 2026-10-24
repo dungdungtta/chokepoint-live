@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-24T16:51:57.584Z",
+    "generated_at": "2026-10-24T19:22:47.007Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Energy markets are adapting to the Iran war as a ‘forever conflict’ while oil producers keep supplies flowing and avoid ‘mutually assured destruction’",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/10/23/oil-prices-energy-markets-iran-war-forever-conflict-hormuz-persian-gulf-mutually-assured-destruction/",
-        "published": "2026-10-23T16:41:31Z",
+        "title": "Beaches shut after oil tanker is 'hit in missile strike' near Strait of Hormuz leading to huge oil spill close to UAE tourist resort",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16234177/Beaches-shut-oil-tanker-missile-strike-Strait-Hormuz.html",
+        "published": "2026-10-23T19:19:33Z",
         "sentiment": "danger"
       },
       {
-        "title": "First Russian Diesel From Putin-Trump Deal Heading for US",
+        "title": "First Tanker Of Putin’s Diesel Heads For New York As Prices Top $6 A Gallon",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/10/23/russian-diesel-tanker-new-york-donald-trump-vladimir-putin-agioi-fanendes-tom-kloza",
+        "published": "2026-10-23T19:15:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Exclusive: Trump EPA Amasses $1.6 Trillion in Savings Through Deregulatory Agenda",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/10/23/exclusive-trump-epa-amasses-1-6-trillion-savings-through-deregulatory-agenda/",
+        "published": "2026-10-23T19:00:19Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Record Tanker Rates Threaten to Push U.S. Oil Exports to Asia to Seven-Year Low",
         "source": "gcaptain.com",
-        "url": "https://gcaptain.com/first-russian-diesel-from-putin-trump-deal-heading-for-us/",
-        "published": "2026-10-23T16:34:11Z",
-        "sentiment": "watch"
+        "url": "https://gcaptain.com/record-tanker-rates-threaten-to-push-u-s-oil-exports-to-asia-to-seven-year-low/",
+        "published": "2026-10-23T18:22:34Z",
+        "sentiment": "danger"
       },
       {
-        "title": "$120 Oil Is Almost Here, and Trump Has Few Good Options",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/120-Oil-Is-Almost-Here-and-Trump-Has-Few-Good-Options.html",
-        "published": "2026-10-23T16:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Brent crude tops $116 as oil spike drags crypto into risk-off mood",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/brent-crude-116-crypto-risk-off/",
-        "published": "2026-10-23T15:58:41Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Middle East Physical Crude Slides While Brent Hits Five-Month High",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Physical-Crude-Slides-While-Brent-Hits-Five-Month-High.html",
-        "published": "2026-10-23T15:30:00Z",
+        "title": "Trump’s Russia Play | China’s Fear",
+        "source": "Dailyreckoning.com",
+        "url": "https://dailyreckoning.com/post/trumps-russia-play-or-chinas-fear",
+        "published": "2026-10-23T18:00:00Z",
         "sentiment": "watch"
       }
     ],
