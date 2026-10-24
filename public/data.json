@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-24T00:04:22.401Z",
+    "generated_at": "2026-10-24T04:42:06.749Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "LNG Canada Doubles Capacity as Asia Looks Beyond the Gulf",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Natural-Gas/LNG-Canada-Doubles-Capacity-as-Asia-Looks-Beyond-the-Gulf.html",
-        "published": "2026-10-23T00:00:00Z",
+        "title": "US crude stays costly for India despite Rubio push; Venezuela offers value",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/economy/news/india-us-venezuela-crude-oil-imports-rubio-refiners-freight-126102300221_1.html",
+        "published": "2026-10-23T04:23:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran pushes hard on its nuclear rebuild — daring Trump to strike again",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/10/22/opinion/iran-pushes-its-nuclear-rebuild-daring-trump-to-strike-again/",
-        "published": "2026-10-22T23:51:49Z",
+        "title": "Iran Implies Trump caught in the Matrix, needs to be Red-Pilled, as it strikes 7 Oil Tankers",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/10/caught-strikes-tankers.html",
+        "published": "2026-10-23T04:15:23Z",
         "sentiment": "danger"
       },
       {
-        "title": "Middle East offers oil discounts as Nigeria rejects price capping",
-        "source": "The Punch",
-        "url": "https://punchng.com/middle-east-offers-oil-discounts-as-nigeria-rejects-price-capping/",
-        "published": "2026-10-22T23:09:59Z",
+        "title": "How to defeat the Houthis",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/blog/2026/10/how-to-defeat-the-houthis/",
+        "published": "2026-10-23T04:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "'I've painted more Lowrys than Lowry' says the world's greatest art forger whose 'Old Masters' sell for £25,000",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16231617/Worlds-greatest-art-forger-Old-Masters-sell-25-000.html",
-        "published": "2026-10-22T22:51:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump’s Gamble to End the Iran War",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121/?utm_source=feed",
-        "published": "2026-10-22T21:41:50Z",
+        "title": "Oil little changed as supply concern lingers amid Houthi attacks on Saudi",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/commodities/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-126102300065_1.html",
+        "published": "2026-10-23T02:30:30Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Taiwan Strait is not on the verge of war: The ‘2027 invasion’ countdown is a mirage",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/10/22/taiwan-strait-2027-invasion-countdown-mirage/",
+        "published": "2026-10-23T03:00:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Can Russia broker a new US-Iran deal?",
         "source": "Al Jazeera English",
@@ -89,13 +89,6 @@
         "source": "Wnd.com",
         "url": "https://www.wnd.com/2026/10/immediately-cease-china-sends-its-navy-after-u/",
         "published": "2026-10-20T22:19:18Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "China Sends Navy After US Warship As Separate Maritime Standoff Erupts Near Taiwan",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/10/20/china-sends-navy-after-us-warship-taiwan-maritime-standoff",
-        "published": "2026-10-20T20:51:20Z",
         "sentiment": "danger"
       }
     ],
