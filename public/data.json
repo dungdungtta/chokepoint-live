@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-24T09:09:39.836Z",
+    "generated_at": "2026-10-24T13:22:06.057Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump can’t let Iran turn a military defeat turn into a diplomatic victory",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/trump-cant-let-iran-turn-military-defeat-into-diplomatic-victory",
-        "published": "2026-10-23T09:00:25Z",
+        "title": "Global Crude Freight Rate Surges",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/global_crude_freight_rate_surges-23-oct-2026-184916-article/?rss=true",
+        "published": "2026-10-23T12:39:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "Indonesia plans to raise quota of subsidized Pertalite fuel",
-        "source": "Antaranews.com",
-        "url": "https://en.antaranews.com/news/437439/indonesia-plans-to-raise-quota-of-subsidized-pertalite-fuel",
-        "published": "2026-10-23T07:47:47Z",
+        "title": "Gulf faces economic contraction nearly as acute as COVID shock",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/a8a88981095f0ca4",
+        "published": "2026-10-23T12:38:56Z",
         "sentiment": "watch"
       },
       {
-        "title": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war",
-        "published": "2026-10-23T07:37:12Z",
-        "sentiment": "danger"
+        "title": "An Arctic Traffic Jam Highlights Doubts Over Russia's Northern Sea Route To China",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/arctic-traffic-jam-russia-northern-sea-route-china/33882814.html",
+        "published": "2026-10-23T12:34:21Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Oil Prices Climb as Brent Tops $114 and WTI Holds Above $100 After Houthi Attacks Force Aramco to Evacuate HQ",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/oil-prices-rise-saudi-attacks-iran-tensions-1877275",
-        "published": "2026-10-23T07:29:12Z",
-        "sentiment": "danger"
+        "title": "Russian diesel tanker heads to the U.S., the first since Trump’s deal with Putin",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/business/energy/russian-diesel-tanker-heads-us-trump-deal-putin-ukraine-war-rcna605187",
+        "published": "2026-10-23T12:22:15Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Murban Crude Surges Nearly 4% to Match Brent as Gulf Attacks and Iran Ship Claims Stoke Supply Fears",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/murban-crude-price-jumps-gulf-supply-fears-1877273",
-        "published": "2026-10-23T07:28:32Z",
-        "sentiment": "danger"
+        "title": "Romania Blames Russia for Drone That Sinks Cargo Ship; 1 Killed, 3 Missing",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/10/23/890126.htm",
+        "published": "2026-10-23T11:53:58Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
