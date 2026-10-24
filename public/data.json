@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-24T13:22:06.057Z",
+    "generated_at": "2026-10-24T16:51:57.584Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Global Crude Freight Rate Surges",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/global_crude_freight_rate_surges-23-oct-2026-184916-article/?rss=true",
-        "published": "2026-10-23T12:39:09Z",
+        "title": "Energy markets are adapting to the Iran war as a ‘forever conflict’ while oil producers keep supplies flowing and avoid ‘mutually assured destruction’",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/10/23/oil-prices-energy-markets-iran-war-forever-conflict-hormuz-persian-gulf-mutually-assured-destruction/",
+        "published": "2026-10-23T16:41:31Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "First Russian Diesel From Putin-Trump Deal Heading for US",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/first-russian-diesel-from-putin-trump-deal-heading-for-us/",
+        "published": "2026-10-23T16:34:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "Gulf faces economic contraction nearly as acute as COVID shock",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/a8a88981095f0ca4",
-        "published": "2026-10-23T12:38:56Z",
+        "title": "$120 Oil Is Almost Here, and Trump Has Few Good Options",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/120-Oil-Is-Almost-Here-and-Trump-Has-Few-Good-Options.html",
+        "published": "2026-10-23T16:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "An Arctic Traffic Jam Highlights Doubts Over Russia's Northern Sea Route To China",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/arctic-traffic-jam-russia-northern-sea-route-china/33882814.html",
-        "published": "2026-10-23T12:34:21Z",
+        "title": "Brent crude tops $116 as oil spike drags crypto into risk-off mood",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/brent-crude-116-crypto-risk-off/",
+        "published": "2026-10-23T15:58:41Z",
         "sentiment": "watch"
       },
       {
-        "title": "Russian diesel tanker heads to the U.S., the first since Trump’s deal with Putin",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/business/energy/russian-diesel-tanker-heads-us-trump-deal-putin-ukraine-war-rcna605187",
-        "published": "2026-10-23T12:22:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Romania Blames Russia for Drone That Sinks Cargo Ship; 1 Killed, 3 Missing",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/10/23/890126.htm",
-        "published": "2026-10-23T11:53:58Z",
+        "title": "Middle East Physical Crude Slides While Brent Hits Five-Month High",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Physical-Crude-Slides-While-Brent-Hits-Five-Month-High.html",
+        "published": "2026-10-23T15:30:00Z",
         "sentiment": "watch"
       }
     ],
