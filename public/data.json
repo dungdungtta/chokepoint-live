@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-23T21:42:41.280Z",
+    "generated_at": "2026-10-24T00:04:22.401Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
+        "title": "LNG Canada Doubles Capacity as Asia Looks Beyond the Gulf",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Natural-Gas/LNG-Canada-Doubles-Capacity-as-Asia-Looks-Beyond-the-Gulf.html",
+        "published": "2026-10-23T00:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran pushes hard on its nuclear rebuild — daring Trump to strike again",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/10/22/opinion/iran-pushes-its-nuclear-rebuild-daring-trump-to-strike-again/",
+        "published": "2026-10-22T23:51:49Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Middle East offers oil discounts as Nigeria rejects price capping",
+        "source": "The Punch",
+        "url": "https://punchng.com/middle-east-offers-oil-discounts-as-nigeria-rejects-price-capping/",
+        "published": "2026-10-22T23:09:59Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "'I've painted more Lowrys than Lowry' says the world's greatest art forger whose 'Old Masters' sell for £25,000",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16231617/Worlds-greatest-art-forger-Old-Masters-sell-25-000.html",
+        "published": "2026-10-22T22:51:03Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump’s Gamble to End the Iran War",
         "source": "The Atlantic",
         "url": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121/?utm_source=feed",
         "published": "2026-10-22T21:41:50Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Long March 90th anniversary ceremony; Li Qiang meets Putin; A-share investors suffering",
-        "source": "Sinocism.com",
-        "url": "https://sinocism.com/p/long-march-90th-anniversary-ceremony",
-        "published": "2026-10-22T21:11:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hormuz war risk pushes crude shipping costs sevenfold, squeezes refiners’ margins: Goldman Sachs - The Tribune",
-        "source": "The Tribune India",
-        "url": "https://www.tribuneindia.com/news/business/hormuz-war-risk-pushes-crude-shipping-costs-sevenfold-squeezes-refiners-margins-goldman-sachs/",
-        "published": "2026-10-22T21:03:23Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran Claims It Hit Multiple Ships In Persian Gulf, Warns US Military Of Major Escalation",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/10/22/iran-claims-seven-vessels-attacked-in-persian-gulf",
-        "published": "2026-10-22T20:20:27Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Why Fossil Fuel Demand Can Rise Even as Clean Energy Wins Terrain",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Why-Fossil-Fuel-Demand-Can-Rise-Even-as-Clean-Energy-Wins-Terrain.html",
-        "published": "2026-10-22T20:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
