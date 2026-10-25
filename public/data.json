@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-25T04:48:08.673Z",
+    "generated_at": "2026-10-25T09:42:19.811Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Why is US Stock Market Down Today? Dow Jones Slips 500 Points, S&P 500 Falls 0.24%, Nasdaq Climbs 0.13% as SpaceX Rally, AI Demand & Fed Rate Hike Ahead of Big Tech Earnings — Check Latest Updates",
-        "source": "The Sunday Guardian",
-        "url": "https://sundayguardianlive.com/business/why-is-us-stock-market-down-today-dow-jones-slips-500-points-sp-500-falls-024-nasdaq-climbs-013-as-spacex-rally-ai-demand-fed-rate-hike-ahead-of-big-tech-earnings-check-latest-updates-310872/",
-        "published": "2026-10-24T04:02:15Z",
+        "title": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/inflation-earnings-reports-mood-consumers-federal-reserve-fill-137533185",
+        "published": "2026-10-24T09:39:23Z",
         "sentiment": "watch"
       },
       {
-        "title": "Another October Surprise?",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/articles/2026/10/another-october-surprise/",
-        "published": "2026-10-24T04:00:00Z",
+        "title": "Iran claims Strait of Hormuz control, warns US warships against entering Persian Gulf amid fresh strike threat",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-claims-strait-of-hormuz-control-warns-us-warships-against-entering-persian-gulf-amid-fresh-strike-threat/articleshow/135166686.cms",
+        "published": "2026-10-24T09:29:49Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Why a new round in the U.S.-Iran conflict could be the most devastating yet",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/united-states-iran-conflict-next-round-9.7392215",
+        "published": "2026-10-24T08:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "America's Deadliest Day of WWII [17:32]",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4400394/posts",
-        "published": "2026-10-24T02:46:00Z",
-        "sentiment": "watch"
+        "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o",
+        "published": "2026-10-24T07:36:02Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Trinidad and Tobago in talks with ONGC Videsh, Oil India to refine Venezuelan crude",
-        "source": "Livemint",
-        "url": "https://www.livemint.com/companies/news/trinidad-and-tobago-in-talks-with-ongc-videsh-oil-india-to-refine-venezuelan-crude-11792749605379.html",
-        "published": "2026-10-24T00:05:09Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "[SnS, AC] $2.72 | 15-Oz Dove Body Scrub for Exfoliated Hydrated Skin (Palo Santo & Sage Oil) at Amazon",
+        "title": "DEWALT 20-volt max Grease Gun Battery Included (DCGG581GD1) $199 + Free S&H at Lowe's",
         "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20199552-sns-ac-2-72-15-oz-dove-body-scrub-for-exfoliated-hydrated-skin-palo-santo-sage-oil-at-amazon",
-        "published": "2026-10-23T23:38:43Z",
+        "url": "https://slickdeals.net/f/20200638-dewalt-20-volt-max-grease-gun-battery-included-dcgg581gd1-199-free-s-h-at-lowe-s",
+        "published": "2026-10-24T07:00:23Z",
         "sentiment": "watch"
       }
     ],
