@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-25T09:42:19.811Z",
+    "generated_at": "2026-10-25T13:57:14.512Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks",
+        "published": "2026-10-24T13:06:03Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iranian plots to kill U.S. officials in Middle East have reached ‘advanced stages,’ intel memo warns",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/middle-east/iranian-plots-kill-us-officials-middle-east-reached-advanced-stages-in-rcna605360",
+        "published": "2026-10-24T11:49:18Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "To End the Iran War, the US Must Understand Tehran's Perspective",
+        "source": "Internationalpolicy.org",
+        "url": "https://internationalpolicy.org/publications/war-has-changed-tehran-washington-should-take-notice/",
+        "published": "2026-10-24T11:18:03Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "As Brits are warned to stockpile food and water, the terrifying range of options Putin has to attack UK: 'PM has his head in the sand'",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16229289/britain-russia-warning-attack-war-vladimir-putin.html",
+        "published": "2026-10-24T10:53:07Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
         "source": "Abcnews.com",
         "url": "https://abcnews.com/Business/wireStory/inflation-earnings-reports-mood-consumers-federal-reserve-fill-137533185",
         "published": "2026-10-24T09:39:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran claims Strait of Hormuz control, warns US warships against entering Persian Gulf amid fresh strike threat",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-claims-strait-of-hormuz-control-warns-us-warships-against-entering-persian-gulf-amid-fresh-strike-threat/articleshow/135166686.cms",
-        "published": "2026-10-24T09:29:49Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Why a new round in the U.S.-Iran conflict could be the most devastating yet",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/united-states-iran-conflict-next-round-9.7392215",
-        "published": "2026-10-24T08:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o",
-        "published": "2026-10-24T07:36:02Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "DEWALT 20-volt max Grease Gun Battery Included (DCGG581GD1) $199 + Free S&H at Lowe's",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20200638-dewalt-20-volt-max-grease-gun-battery-included-dcgg581gd1-199-free-s-h-at-lowe-s",
-        "published": "2026-10-24T07:00:23Z",
         "sentiment": "watch"
       }
     ],
