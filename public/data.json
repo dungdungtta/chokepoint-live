@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-25T19:59:41.892Z",
+    "generated_at": "2026-10-25T22:29:32.938Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "The Arctic giant: How Russia dominates the frozen frontier",
+        "source": "Rt-english.com",
+        "url": "https://rt-english.com/russia/647527-arctic-giant-how-russia-dominates-frozen-frontier/",
+        "published": "2026-10-24T21:08:49Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Fuel Oil Becomes Asia’s Next Cost Shock",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Fuel-Oil-Becomes-Asias-Next-Cost-Shock.html",
+        "published": "2026-10-24T21:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "3 Tanker Stocks In Focus As Oil Shipping Risk Returns",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/ed7f9ef70fb33eb6",
+        "published": "2026-10-24T20:51:11Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "UAE Shuts All Beaches As Neighbors Grapple With Oil Spill",
         "source": "gcaptain.com",
         "url": "https://gcaptain.com/uae-shuts-all-beaches-as-neighbors-grapple-with-oil-spill/",
@@ -39,27 +60,6 @@
         "url": "https://biztoc.com/x/5dab89a70358fb80",
         "published": "2026-10-24T17:00:29Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Can Undersea Volcanoes Power Cities? A Seattle Startup Just Took the First Step",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Can-Undersea-Volcanoes-Power-Cities-A-Seattle-Startup-Just-Took-the-First-Step.html",
-        "published": "2026-10-24T17:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "HomeHacks 75L Collapsible Laundry Basket 2-Pack for $13 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Home-Hacks-75-L-Collapsible-Laundry-Basket-2-Pack-for-13-free-shipping-w-Prime/22310681.html",
-        "published": "2026-10-24T16:07:28Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump wants more gas, diesel made at home, and he’s paying $150 million to make it happen",
-        "source": "Wnd.com",
-        "url": "https://www.wnd.com/2026/10/trump-wants-more-gas-diesel-made-home-hes/",
-        "published": "2026-10-24T16:05:38Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
