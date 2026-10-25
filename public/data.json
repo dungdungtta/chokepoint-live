@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-25T17:34:58.272Z",
+    "generated_at": "2026-10-25T19:59:41.892Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "UAE Shuts All Beaches As Neighbors Grapple With Oil Spill",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/uae-shuts-all-beaches-as-neighbors-grapple-with-oil-spill/",
+        "published": "2026-10-24T19:07:31Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Goldman Sachs warns on the Hormuz crisis and rising fuel costs",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/5dab89a70358fb80",
@@ -52,13 +59,6 @@
         "source": "Wnd.com",
         "url": "https://www.wnd.com/2026/10/trump-wants-more-gas-diesel-made-home-hes/",
         "published": "2026-10-24T16:05:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Britain Deploys Royal Air Force to Support Saudi Monarchy Against Yemeni Resistance",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/britain-deploys-royal-air-force-support-saudi-yemeni-resistance/5944265",
-        "published": "2026-10-24T15:39:15Z",
         "sentiment": "watch"
       }
     ],
