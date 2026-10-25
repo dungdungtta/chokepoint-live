@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-24T21:48:44.564Z",
+    "generated_at": "2026-10-25T00:10:16.372Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "China Uses Djibouti Outpost to Assert Itself on Houthi Attacks",
+        "title": "Trinidad and Tobago in talks with ONGC Videsh, Oil India to refine Venezuelan crude",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/companies/news/trinidad-and-tobago-in-talks-with-ongc-videsh-oil-india-to-refine-venezuelan-crude-11792749605379.html",
+        "published": "2026-10-24T00:05:09Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "[SnS, AC] $2.72 | 15-Oz Dove Body Scrub for Exfoliated Hydrated Skin (Palo Santo & Sage Oil) at Amazon",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20199552-sns-ac-2-72-15-oz-dove-body-scrub-for-exfoliated-hydrated-skin-palo-santo-sage-oil-at-amazon",
+        "published": "2026-10-23T23:38:43Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Again, petrol price hike looms after crude hits $115",
+        "source": "The Punch",
+        "url": "https://punchng.com/again-petrol-price-hike-looms-after-crude-hits-115/",
+        "published": "2026-10-23T23:35:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Noah & Paw Oil-Wax Leather Dog Collars (Various Sizes & Colors) $22.89 + Free Shipping w/ Prime or on $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20199486-noah-paw-oil-wax-leather-dog-collars-various-sizes-colors-22-89-free-shipping-w-prime-or-on-35",
+        "published": "2026-10-23T23:23:40Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Breitbart Business Digest: The Bond Vigilantes Surrender",
         "source": "Breitbart News",
-        "url": "https://www.breitbart.com/africa/2026/10/23/china-uses-djibouti-outpost-to-assert-itself-on-houthi-attacks/",
-        "published": "2026-10-23T21:39:48Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump Wants More Gas And Diesel Made At Home, And He’s Paying $150 Million To Make It Happen",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/10/23/defense-production-act-refineries-energy-department-chris-wright-matt-mcmanus-afpm",
-        "published": "2026-10-23T21:12:28Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Peace talks, Zelensky, the EU, ‘political schizophrenia’ and a new Cold War: RT stories that shaped the week",
-        "source": "Rt-english.com",
-        "url": "https://rt-english.com/news/647589-rt-top-stories-putin-zelensky-witkoff/",
-        "published": "2026-10-23T21:04:09Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "1966 Plymouth Barracuda V8 at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1966-plymouth-barracuda-38/",
-        "published": "2026-10-23T20:45:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Yale Assure Lock Touchscreen Standalone Keyed Deadbolt for $108 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/products/Yale/Yale-Assure-Lock-Touchscreen-Standalone-Keyed-Deadbolt/548874.html",
-        "published": "2026-10-23T20:11:41Z",
+        "url": "https://www.breitbart.com/economy/2026/10/23/breitbart-business-digest-the-bond-vigilantes-surrender/",
+        "published": "2026-10-23T23:12:17Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
+        "published": "2026-10-23T23:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Taiwan Strait is not on the verge of war: The ‘2027 invasion’ countdown is a mirage",
         "source": "Fortune",
@@ -90,13 +97,6 @@
         "url": "https://economictimes.indiatimes.com/news/international/world-news/china-says-it-is-safeguarding-order-around-taiwan-controlled-south-china-sea-atoll/articleshow/135082090.cms",
         "published": "2026-10-21T04:28:54Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "‘Immediately cease’: China sends its navy after U.S. warship as separate maritime standoff erupts near Taiwan",
-        "source": "Wnd.com",
-        "url": "https://www.wnd.com/2026/10/immediately-cease-china-sends-its-navy-after-u/",
-        "published": "2026-10-20T22:19:18Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
