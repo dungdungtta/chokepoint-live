@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-26T11:27:19.517Z",
+    "generated_at": "2026-10-26T17:35:52.015Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran says resumption of war with US would not change its mind",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-10-25/iran-says-resumption-of-war-with-us-would-not-change-its-stances/107307004",
-        "published": "2026-10-25T10:25:04Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The Price Tags of War",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/10/the-price-tags-of-war.html",
-        "published": "2026-10-25T10:15:53Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Qatar official calls for peace and security to boost trade, investment",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment",
-        "published": "2026-10-25T09:57:40Z",
+        "title": "Sri Lanka provides medical help and repatriates 40 Iranian sailors stranded in the Indian Ocean",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/sri-lanka-medical-repatriates-40-iranian-sailors-stranded-137553790",
+        "published": "2026-10-25T16:41:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
+        "title": "Sri Lanka Helps, Returns Stranded Iranian Sailors",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/398780/sri-lanka-helps-returns-stranded-iranian-sailors.html",
+        "published": "2026-10-25T16:40:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "9 things people who grew up in working-class homes still feel guilty spending money on, even when they can easily afford them",
+        "source": "Stylegirlfriend.com",
+        "url": "https://stylegirlfriend.com/9-things-people-who-grew-up-in-working-class-homes-still-feel-guilty-spending-money-on-even-when-they-can-easily-afford-them/",
+        "published": "2026-10-25T16:32:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Saudi Arabia Partly Reopens Riyadh Airport Despite Renewed Houthi Threats",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/saudi-arabia-reopens-airport-houthi-attacks_n_6ade1d89e4b0320e45d2c1e7",
+        "published": "2026-10-25T15:25:28Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
         "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms",
-        "published": "2026-10-25T08:44:17Z",
+        "url": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe",
+        "published": "2026-10-25T14:47:55Z",
         "sentiment": "danger"
       }
     ],
