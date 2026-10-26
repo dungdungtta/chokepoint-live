@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-26T00:40:56.602Z",
+    "generated_at": "2026-10-26T05:24:51.081Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,27 @@
   "news": {
     "hormuz": [
       {
+        "title": "America’s Miscalculation: Why even Increased Oil Flows through Hormuz won’t Solve the Energy Challenge",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/10/miscalculation-increased-challenge.html",
+        "published": "2026-10-25T04:15:54Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "DHT Holdings Stock And 2 Tanker Shares Riding Higher VLCC Rates",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/7bf74c622f51571d",
+        "published": "2026-10-25T03:29:23Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Romania Blames Russia For Drone That Sinks Cargo Ship; 1 Killed, 3 Missing",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing/",
+        "published": "2026-10-25T01:52:30Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Cripple-US-Crude-Oil-Flows-to-Asia.html",
@@ -38,27 +59,6 @@
         "source": "Rt-english.com",
         "url": "https://rt-english.com/russia/647527-arctic-giant-how-russia-dominates-frozen-frontier/",
         "published": "2026-10-24T21:08:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Fuel Oil Becomes Asia’s Next Cost Shock",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Fuel-Oil-Becomes-Asias-Next-Cost-Shock.html",
-        "published": "2026-10-24T21:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "3 Tanker Stocks In Focus As Oil Shipping Risk Returns",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/ed7f9ef70fb33eb6",
-        "published": "2026-10-24T20:51:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "UAE Shuts All Beaches As Neighbors Grapple With Oil Spill",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/uae-shuts-all-beaches-as-neighbors-grapple-with-oil-spill/",
-        "published": "2026-10-24T19:07:31Z",
         "sentiment": "watch"
       }
     ],
