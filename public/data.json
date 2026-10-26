@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-26T05:24:51.081Z",
+    "generated_at": "2026-10-26T11:27:19.517Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "America’s Miscalculation: Why even Increased Oil Flows through Hormuz won’t Solve the Energy Challenge",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/10/miscalculation-increased-challenge.html",
-        "published": "2026-10-25T04:15:54Z",
+        "title": "Iran says resumption of war with US would not change its mind",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-10-25/iran-says-resumption-of-war-with-us-would-not-change-its-stances/107307004",
+        "published": "2026-10-25T10:25:04Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The Price Tags of War",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/10/the-price-tags-of-war.html",
+        "published": "2026-10-25T10:15:53Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Qatar official calls for peace and security to boost trade, investment",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment",
+        "published": "2026-10-25T09:57:40Z",
         "sentiment": "watch"
       },
       {
-        "title": "DHT Holdings Stock And 2 Tanker Shares Riding Higher VLCC Rates",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/7bf74c622f51571d",
-        "published": "2026-10-25T03:29:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Romania Blames Russia For Drone That Sinks Cargo Ship; 1 Killed, 3 Missing",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing/",
-        "published": "2026-10-25T01:52:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Cripple-US-Crude-Oil-Flows-to-Asia.html",
-        "published": "2026-10-24T23:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Arctic giant: How Russia dominates the frozen frontier",
-        "source": "Rt-english.com",
-        "url": "https://rt-english.com/russia/647527-arctic-giant-how-russia-dominates-frozen-frontier/",
-        "published": "2026-10-24T21:08:49Z",
-        "sentiment": "watch"
+        "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms",
+        "published": "2026-10-25T08:44:17Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
