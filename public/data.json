@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-25T22:29:32.938Z",
+    "generated_at": "2026-10-26T00:40:56.602Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Cripple-US-Crude-Oil-Flows-to-Asia.html",
+        "published": "2026-10-24T23:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Arctic giant: How Russia dominates the frozen frontier",
         "source": "Rt-english.com",
@@ -53,16 +60,16 @@
         "url": "https://gcaptain.com/uae-shuts-all-beaches-as-neighbors-grapple-with-oil-spill/",
         "published": "2026-10-24T19:07:31Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Goldman Sachs warns on the Hormuz crisis and rising fuel costs",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/5dab89a70358fb80",
-        "published": "2026-10-24T17:00:29Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "In seeking peace with Beijing, Taipei is an asset, not a burden",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/10/seeking-peace-beijing-taipei-is-asset-not-burden/",
+        "published": "2026-10-24T23:22:27Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
         "source": "OilPrice.com",
@@ -89,13 +96,6 @@
         "source": "Radio Free Europe/ Radio Liberty",
         "url": "https://www.rferl.org/a/us-china-critical-minerals-shortfall-trump-xi-summit/33879296.html",
         "published": "2026-10-21T05:27:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China says it is 'safeguarding order' around Taiwan-controlled South China Sea atoll",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/china-says-it-is-safeguarding-order-around-taiwan-controlled-south-china-sea-atoll/articleshow/135082090.cms",
-        "published": "2026-10-21T04:28:54Z",
         "sentiment": "watch"
       }
     ],
