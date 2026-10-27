@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-26T21:54:45.860Z",
+    "generated_at": "2026-10-27T01:21:54.266Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump on Iran: ‘Do I Make a Deal or Finish Them Off?’ — Military Readies New Strike Options",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/10/25/trump-on-iran-do-i-make-a-deal-or-finish-them-off-military-readies-new-strike-options/",
-        "published": "2026-10-25T21:38:41Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "SILVER CRASHES FROM $121 TO $54: an absolute massacre!",
-        "source": "Shtfplan.com",
-        "url": "https://www.shtfplan.com/headline-news/silver-crashes-from-121-to-54-an-absolute-massacre",
-        "published": "2026-10-25T19:27:00Z",
+        "title": "BFSI Summit 2026: Top experts from the finance world to share insights",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/specials/bs-events/bfsi-summit-2026-top-experts-from-the-finance-world-to-share-insights-126102500730_1.html",
+        "published": "2026-10-26T00:55:46Z",
         "sentiment": "watch"
       },
       {
-        "title": "Riyadh airport reopens despite renewed Houthi threats",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/1025/1596819-riyadh-airport-reopens/",
-        "published": "2026-10-25T18:54:12Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Trump on high gas prices: 'We're making a freaking fortune'",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/high-gas-prices-donald-trump-oil-companies-midterm-election-2026-10#article",
-        "published": "2026-10-25T18:04:55Z",
+        "title": "Stocks in news: Infosys, Kotak Mahindra Bank, YES Bank, Raymond, BPCL, Coforge and Senco Gold",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-kotak-mahindra-bank-yes-bank-raymond-bpcl-coforge-and-senco-gold/articleshow/135195002.cms",
+        "published": "2026-10-26T00:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Sri Lanka Rescues 40 Iranian Sailors",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/sri-lanka-rescues-40-iranian-sailors/",
-        "published": "2026-10-25T17:56:45Z",
+        "title": "Last two bodies recovered as Rivers boat death toll hits seven",
+        "source": "The Punch",
+        "url": "https://punchng.com/last-two-bodies-recovered-as-rivers-boat-death-toll-hits-seven/",
+        "published": "2026-10-26T00:05:03Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Prices Rise Despite Middle East Export Recovery",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Rise-Despite-Middle-East-Export-Recovery.html",
+        "published": "2026-10-25T23:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Election 2026 – energy policies: What parties propose for power prices and renewables",
+        "source": "New Zealand Herald",
+        "url": "https://www.nzherald.co.nz/business/companies/energy/election-energy-policies-what-parties-propose-for-power-prices-and-renewables/premium/U3PJVGIVERHVPEYYYGS2X6MSWA/",
+        "published": "2026-10-25T23:00:00Z",
         "sentiment": "watch"
       }
     ],
@@ -101,6 +101,13 @@
     ],
     "malacca": [
       {
+        "title": "Not every maritime threat needs a warship: Why Singapore is turning to offshore patrol vessels",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/singapore/singapore-navy-warship-offshore-patrol-vessel-maritime-security-6478186",
+        "published": "2026-10-25T22:00:00Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "F1 Highlights The Realities Of Global Sport’s Chokepoint Problems",
         "source": "Forbes",
         "url": "https://www.forbes.com/sites/simonchadwick/2026/10/12/f1-highlights-the-realities-of-global-sports-chokepoint-problems/",
@@ -112,7 +119,7 @@
   "zones": {
     "hormuz": "red",
     "taiwan": "amber",
-    "malacca": "yellow",
+    "malacca": "amber",
     "suez": "amber",
     "panama": "yellow",
     "korea": "yellow"
