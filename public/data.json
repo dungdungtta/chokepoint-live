@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-27T01:21:54.266Z",
+    "generated_at": "2026-10-27T06:44:59.948Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "BFSI Summit 2026: Top experts from the finance world to share insights",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/specials/bs-events/bfsi-summit-2026-top-experts-from-the-finance-world-to-share-insights-126102500730_1.html",
-        "published": "2026-10-26T00:55:46Z",
+        "title": "Fears of Renewed War Grow as U.S. and Israel Reportedly Eye Iran Strikes",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-10-26-fears-renewed-war-grow-us-israel-strikes.html",
+        "published": "2026-10-26T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Aramco CEO Reports Three Billion Barrel Oil Loss Amid Regional Instability",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-10-26-aramco-ceo-reports-oil-loss-amid-instability.html",
+        "published": "2026-10-26T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Stocks in news: Infosys, Kotak Mahindra Bank, YES Bank, Raymond, BPCL, Coforge and Senco Gold",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-kotak-mahindra-bank-yes-bank-raymond-bpcl-coforge-and-senco-gold/articleshow/135195002.cms",
-        "published": "2026-10-26T00:30:00Z",
+        "title": "CENTCOM chief declares: Strait of Hormuz is free from Iranian mines",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/435159",
+        "published": "2026-10-26T04:55:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "Last two bodies recovered as Rivers boat death toll hits seven",
-        "source": "The Punch",
-        "url": "https://punchng.com/last-two-bodies-recovered-as-rivers-boat-death-toll-hits-seven/",
-        "published": "2026-10-26T00:05:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Prices Rise Despite Middle East Export Recovery",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Rise-Despite-Middle-East-Export-Recovery.html",
-        "published": "2026-10-25T23:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Election 2026 – energy policies: What parties propose for power prices and renewables",
-        "source": "New Zealand Herald",
-        "url": "https://www.nzherald.co.nz/business/companies/energy/election-energy-policies-what-parties-propose-for-power-prices-and-renewables/premium/U3PJVGIVERHVPEYYYGS2X6MSWA/",
-        "published": "2026-10-25T23:00:00Z",
+        "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil",
+        "published": "2026-10-26T04:05:44Z",
         "sentiment": "watch"
       }
     ],
