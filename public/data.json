@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-27T06:44:59.948Z",
+    "generated_at": "2026-10-27T12:46:03.882Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Fears of Renewed War Grow as U.S. and Israel Reportedly Eye Iran Strikes",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-10-26-fears-renewed-war-grow-us-israel-strikes.html",
-        "published": "2026-10-26T06:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Aramco CEO Reports Three Billion Barrel Oil Loss Amid Regional Instability",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-10-26-aramco-ceo-reports-oil-loss-amid-instability.html",
-        "published": "2026-10-26T06:00:00Z",
+        "title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/0e5aa4dfdaf1f9de",
+        "published": "2026-10-26T12:41:49Z",
         "sentiment": "watch"
       },
       {
-        "title": "CENTCOM chief declares: Strait of Hormuz is free from Iranian mines",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/435159",
-        "published": "2026-10-26T04:55:17Z",
+        "title": "Saudi Oil Output Jumps 12.2% to 8 Million Bpd in September",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Oil-Output-Jumps-122-to-8-Million-Bpd-in-September.html",
+        "published": "2026-10-26T12:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil",
-        "published": "2026-10-26T04:05:44Z",
+        "title": "Current price of oil as of October 26, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-10-26-2026/",
+        "published": "2026-10-26T12:30:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil spill from tanker off the United Arab Emirates spreads, beaches close",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/10/26/oil-spill-from-tanker-off-the-united-arab-emirates-spreads-beaches-close/",
+        "published": "2026-10-26T12:11:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Saudi, Singapore Announce Oil Storage Deal",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/saudi_singapore_announce_oil_storage_deal-26-oct-2026-184928-article/",
+        "published": "2026-10-26T11:32:52Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Bankrolling American Empire in the Philippines",
+        "source": "The Intercept",
+        "url": "https://theintercept.com/2026/10/26/philippines-military-base-cerberus-private-capital/",
+        "published": "2026-10-26T11:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "In seeking peace with Beijing, Taipei is an asset, not a burden",
         "source": "Wnd.com",
@@ -82,13 +96,6 @@
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal",
         "published": "2026-10-22T08:00:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Grapples With China-Linked Critical Minerals Shortfall Left Unresolved By Trump-Xi Summit",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/us-china-critical-minerals-shortfall-trump-xi-summit/33879296.html",
-        "published": "2026-10-21T05:27:33Z",
         "sentiment": "watch"
       }
     ],
