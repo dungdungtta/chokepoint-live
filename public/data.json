@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-27T18:37:44.802Z",
+    "generated_at": "2026-10-27T22:39:01.231Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Hormuz Chaos Sparks Legal Showdown Over Global Tanker Pricing",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/hormuz-chaos-sparks-legal-showdown-over-global-tanker-pricing/",
-        "published": "2026-10-26T18:30:47Z",
+        "title": "I Tried a Thrive Market Membership for One Month — Here’s My Honest Review",
+        "source": "Thekitchn.com",
+        "url": "https://www.thekitchn.com/thrive-market-review-2-2-23750554",
+        "published": "2026-10-26T22:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Singapore Yards Chase Profit From Europe’s Offshore Wind Push",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/singapore-yards-chase-profit-from-europes-offshore-wind-push/",
-        "published": "2026-10-26T18:22:16Z",
+        "title": "Myanmar Using Fake Paperwork to Conceal Shipments of Iranian Jet Fuel, Reports Claim",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/10/myanmar-using-fake-paperwork-to-conceal-shipments-of-iranian-jet-fuel-reports-claim/",
+        "published": "2026-10-26T22:27:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Big Oil Wins Big In BC Election",
-        "source": "CleanTechnica",
-        "url": "https://cleantechnica.com/2026/10/26/big-oil-wins-big-in-bc-election/",
-        "published": "2026-10-26T18:07:28Z",
+        "title": "6.5-Qt Ninja Air Fryer Pro XL 6-in-1 w/ MaxCrisp $100 + Free S&H",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20204469-99-99-ninja-air-fryer-xl-with-maxcrisp-6-5-qt-6-in-1-grey-af181-at-amazon",
+        "published": "2026-10-26T22:00:13Z",
         "sentiment": "watch"
       },
       {
-        "title": "Harry's Exfoliating Face Wash for Men 5.1-fl. oz. 3-Pack for $18 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Harrys-Exfoliating-Face-Wash-for-Men-5-1-fl-oz-3-Pack-for-18-free-shipping-w-Prime/22316101.html",
-        "published": "2026-10-26T17:33:16Z",
+        "title": "Nasdaq Today LIVE: Nasdaq Composite Jumps 1.25% as AI Stocks Rally After Anthropic IPO Filing, Oil Prices Ease; Check Big Tech Earnings & Fed Rate Decision",
+        "source": "The Sunday Guardian",
+        "url": "https://sundayguardianlive.com/business/nasdaq-today-live-nasdaq-composite-jumps-125-as-ai-stocks-rally-after-anthropic-ipo-filing-oil-prices-ease-check-big-tech-earnings-fed-rate-decision-312429/",
+        "published": "2026-10-26T21:23:06Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Pentagon Is Preparing for 90 Days of War. Britain Is Telling Families to Stockpile Food. What Do They Know?",
-        "source": "Offgridsurvival.com",
-        "url": "https://offgridsurvival.com/the-pentagon-is-preparing-for-90-days-of-war-britain-is-telling-families-to-stockpile-food-what-do-they-know/",
-        "published": "2026-10-26T17:25:07Z",
+        "title": "Saudi Arabia, Turkey, Pakistan Hold Emergency Talks in Iran Amid Fears of Renewed War",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/10/26/saudi-arabia-turkey-pakistan-hold-emergency-talks-in-iran-amid-fears-of-renewed-war/",
+        "published": "2026-10-26T21:10:21Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "American And Chinese Aircraft Carriers Could Cross Paths As Tensions Rise Near Taiwan",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/10/26/american-chinese-aircraft-carriers-could-cross-paths",
+        "published": "2026-10-26T19:53:07Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Bankrolling American Empire in the Philippines",
         "source": "The Intercept",
@@ -90,13 +97,6 @@
         "url": "https://fortune.com/2026/10/22/taiwan-strait-2027-invasion-countdown-mirage/",
         "published": "2026-10-23T03:00:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Can Russia broker a new US-Iran deal?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal",
-        "published": "2026-10-22T08:00:48Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
