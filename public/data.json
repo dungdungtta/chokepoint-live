@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-28T08:14:21.883Z",
+    "generated_at": "2026-10-28T15:12:16.073Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Qatar’s path to defence autonomy",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news-analysis/2026/10/27/qatars-path-to-defence-autonomy",
-        "published": "2026-10-27T07:55:01Z",
+        "title": "STATE OF TUESDAY: The GOP Is Trying To Reheat Trump’s 2024 Magic, But The Fries Have Gone Stale",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/10/27/state-of-tuesday-donald-trump-mike-lawler-midterms-iran-war",
+        "published": "2026-10-27T14:20:26Z",
         "sentiment": "watch"
       },
       {
-        "title": "India’s Oil Buyers Squeezed by $123 Crude and Weak Rupee",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Oil-Buyers-Squeezed-by-123-Crude-and-Weak-Rupee.html",
-        "published": "2026-10-27T07:30:00Z",
+        "title": "Iran Says It Will Take Action Against Sinokor Ships in Hormuz",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/iran-says-it-will-take-action-against-sinokor-ships-in-hormuz/",
+        "published": "2026-10-27T14:12:36Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil slips 1% as Iran diplomacy eases supply fears",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/markets/2026/10/27/oil-slips-1-as-iran-diplomacy-eases-supply-fears/",
-        "published": "2026-10-27T06:41:09Z",
+        "title": "Space Junk Is a Problem We Know How to Solve",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/10/27/outer-space-junk-satellites-problem-solutions/",
+        "published": "2026-10-27T14:08:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "US aims to cool oil prices ahead of midterm; dips likely to be short-lived",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/us-aims-to-cool-oil-prices-ahead-of-midterm-dips-likely-to-be-short-lived-126102700505_1.html",
-        "published": "2026-10-27T06:33:53Z",
+        "title": "Yemen’s Houthis Say They Hit Saudi Ras Tanura Oil Refinery With Missile",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-with-missile/",
+        "published": "2026-10-27T14:05:44Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump boasts about U.S. oil giants cashing in on the Iran War – all while Americans suffer higher gas prices",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-10-27-trump-boasts-oil-giants-cashing-in-on-war.html",
-        "published": "2026-10-27T06:00:00Z",
-        "sentiment": "danger"
+        "title": "From Import Dependency to the People’s IPO: The Dangote Refinery Paradigm",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/economics/from-import-dependency-to-the-peoples-ipo-the-dangote-refinery-paradigm/",
+        "published": "2026-10-27T13:32:51Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Hegseth heads to Manila to shore up US ties with Asia-Pacific partners",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners",
+        "published": "2026-10-27T15:08:59Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump’s Blob",
+        "source": "The New York Review of Books",
+        "url": "https://www.nybooks.com/online/2026/10/27/trumps-blob-foreign-policy/",
+        "published": "2026-10-27T11:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Japan’s Disputed Islands May Cause a Headache for Washington",
         "source": "Antiwar.com",
@@ -82,20 +96,6 @@
         "source": "The Intercept",
         "url": "https://theintercept.com/2026/10/26/philippines-military-base-cerberus-private-capital/",
         "published": "2026-10-26T11:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "In seeking peace with Beijing, Taipei is an asset, not a burden",
-        "source": "Wnd.com",
-        "url": "https://www.wnd.com/2026/10/seeking-peace-beijing-taipei-is-asset-not-burden/",
-        "published": "2026-10-24T23:22:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
-        "published": "2026-10-23T23:00:00Z",
         "sentiment": "watch"
       }
     ],
