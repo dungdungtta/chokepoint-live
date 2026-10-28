@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-27T22:39:01.231Z",
+    "generated_at": "2026-10-28T01:47:07.297Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "I Tried a Thrive Market Membership for One Month — Here’s My Honest Review",
-        "source": "Thekitchn.com",
-        "url": "https://www.thekitchn.com/thrive-market-review-2-2-23750554",
-        "published": "2026-10-26T22:30:00Z",
+        "title": "Oil eases on Middle East diplomacy hopes, Saudi attacks keep supply worries alive",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/business/oil-eases-on-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive/articleshow/135222312.cms",
+        "published": "2026-10-27T01:07:10Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Nigeria misses 10-month revenue target by N20.7tn",
+        "source": "The Punch",
+        "url": "https://punchng.com/nigeria-misses-10-month-revenue-target-by-n20-7tn/",
+        "published": "2026-10-27T00:24:46Z",
         "sentiment": "watch"
       },
       {
-        "title": "Myanmar Using Fake Paperwork to Conceal Shipments of Iranian Jet Fuel, Reports Claim",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/10/myanmar-using-fake-paperwork-to-conceal-shipments-of-iranian-jet-fuel-reports-claim/",
-        "published": "2026-10-26T22:27:00Z",
+        "title": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
+        "published": "2026-10-27T00:16:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "6.5-Qt Ninja Air Fryer Pro XL 6-in-1 w/ MaxCrisp $100 + Free S&H",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20204469-99-99-ninja-air-fryer-xl-with-maxcrisp-6-5-qt-6-in-1-grey-af181-at-amazon",
-        "published": "2026-10-26T22:00:13Z",
+        "title": "Hoover’s Military History Working Group Questions Whether US Is Staying on Top of Rapid Advances in Strategy, Tactics, and Science of Armed Conflict",
+        "source": "Hoover.org",
+        "url": "https://www.hoover.org/news/hoovers-military-history-working-group-questions-whether-us-staying-top-rapid-advances",
+        "published": "2026-10-27T00:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Nasdaq Today LIVE: Nasdaq Composite Jumps 1.25% as AI Stocks Rally After Anthropic IPO Filing, Oil Prices Ease; Check Big Tech Earnings & Fed Rate Decision",
-        "source": "The Sunday Guardian",
-        "url": "https://sundayguardianlive.com/business/nasdaq-today-live-nasdaq-composite-jumps-125-as-ai-stocks-rally-after-anthropic-ipo-filing-oil-prices-ease-check-big-tech-earnings-fed-rate-decision-312429/",
-        "published": "2026-10-26T21:23:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Saudi Arabia, Turkey, Pakistan Hold Emergency Talks in Iran Amid Fears of Renewed War",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/10/26/saudi-arabia-turkey-pakistan-hold-emergency-talks-in-iran-amid-fears-of-renewed-war/",
-        "published": "2026-10-26T21:10:21Z",
+        "title": "As Attacks Mount, Shipping Faces an Uncomfortable Question: Are Safety Rules Fit for War?",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/as-attacks-mount-shipping-faces-an-uncomfortable-question-are-safety-rules-fit-for-war/",
+        "published": "2026-10-26T23:43:42Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Japan’s Disputed Islands May Cause a Headache for Washington",
+        "source": "Antiwar.com",
+        "url": "https://original.antiwar.com/ted_galen_carpenter/2026/10/26/japans-disputed-islands-may-cause-a-headache-for-washington/",
+        "published": "2026-10-27T00:00:12Z",
+        "sentiment": "watch"
+      },
       {
         "title": "American And Chinese Aircraft Carriers Could Cross Paths As Tensions Rise Near Taiwan",
         "source": "The Daily Caller",
@@ -90,13 +97,6 @@
         "url": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
         "published": "2026-10-23T23:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "The Taiwan Strait is not on the verge of war: The ‘2027 invasion’ countdown is a mirage",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/10/22/taiwan-strait-2027-invasion-countdown-mirage/",
-        "published": "2026-10-23T03:00:00Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -118,7 +118,7 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "amber",
+    "taiwan": "yellow",
     "malacca": "amber",
     "suez": "amber",
     "panama": "yellow",
