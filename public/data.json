@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-28T01:47:07.297Z",
+    "generated_at": "2026-10-28T08:14:21.883Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil eases on Middle East diplomacy hopes, Saudi attacks keep supply worries alive",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/business/oil-eases-on-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive/articleshow/135222312.cms",
-        "published": "2026-10-27T01:07:10Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Nigeria misses 10-month revenue target by N20.7tn",
-        "source": "The Punch",
-        "url": "https://punchng.com/nigeria-misses-10-month-revenue-target-by-n20-7tn/",
-        "published": "2026-10-27T00:24:46Z",
+        "title": "Qatar’s path to defence autonomy",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news-analysis/2026/10/27/qatars-path-to-defence-autonomy",
+        "published": "2026-10-27T07:55:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
-        "published": "2026-10-27T00:16:21Z",
+        "title": "India’s Oil Buyers Squeezed by $123 Crude and Weak Rupee",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Oil-Buyers-Squeezed-by-123-Crude-and-Weak-Rupee.html",
+        "published": "2026-10-27T07:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Hoover’s Military History Working Group Questions Whether US Is Staying on Top of Rapid Advances in Strategy, Tactics, and Science of Armed Conflict",
-        "source": "Hoover.org",
-        "url": "https://www.hoover.org/news/hoovers-military-history-working-group-questions-whether-us-staying-top-rapid-advances",
-        "published": "2026-10-27T00:00:00Z",
+        "title": "Oil slips 1% as Iran diplomacy eases supply fears",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/markets/2026/10/27/oil-slips-1-as-iran-diplomacy-eases-supply-fears/",
+        "published": "2026-10-27T06:41:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "As Attacks Mount, Shipping Faces an Uncomfortable Question: Are Safety Rules Fit for War?",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/as-attacks-mount-shipping-faces-an-uncomfortable-question-are-safety-rules-fit-for-war/",
-        "published": "2026-10-26T23:43:42Z",
+        "title": "US aims to cool oil prices ahead of midterm; dips likely to be short-lived",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/us-aims-to-cool-oil-prices-ahead-of-midterm-dips-likely-to-be-short-lived-126102700505_1.html",
+        "published": "2026-10-27T06:33:53Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump boasts about U.S. oil giants cashing in on the Iran War – all while Americans suffer higher gas prices",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-10-27-trump-boasts-oil-giants-cashing-in-on-war.html",
+        "published": "2026-10-27T06:00:00Z",
         "sentiment": "danger"
       }
     ],
