@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-29T13:35:15.325Z",
+    "generated_at": "2026-10-29T19:15:46.910Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "WhatsApp messages from one firm drive Gulf tanker rates",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/54ac194cdf34f485",
-        "published": "2026-10-28T13:21:06Z",
+        "title": "Why the Shipping Industry Is Turning Its Attention to Nuclear Power",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Why-the-Shipping-Industry-Is-Turning-Its-Attention-to-Nuclear-Power.html",
+        "published": "2026-10-28T19:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
-        "source": "Ieee.org",
-        "url": "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
-        "published": "2026-10-28T13:00:03Z",
+        "title": "High freight rates narrow Indian refiners’ crude oil choices, squeeze margins",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/high-freight-rates-narrow-indian-refiners-crude-oil-choices-squeeze-margins/articleshow/135276855.cms",
+        "published": "2026-10-28T18:32:48Z",
         "sentiment": "watch"
       },
       {
-        "title": "U.S. Lawmakers Warn Banks Against Trump's Russian Diesel Deal",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/US-Lawmakers-Warn-Banks-Against-Trumps-Russian-Diesel-Deal.html",
-        "published": "2026-10-28T13:00:00Z",
-        "sentiment": "danger"
+        "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
+        "published": "2026-10-28T18:25:18Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Bahri Profit Hits $1.36 Billion as the World Scrambles for Tankers",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Bahri-Profit-Hits-136-Billion-as-the-World-Scrambles-for-Tankers.html",
-        "published": "2026-10-28T12:30:00Z",
+        "title": "Federal Reserve Keeps Rates Unchanged Despite Elevated Inflation",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/federal-reserve-keeps-rates-unchanged-despite-elevated-inflation-gives-little-signal-of-its-next-move_n_6ae239b3e4b09cd24b6b4bd2",
+        "published": "2026-10-28T18:12:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Federal Reserve Leaves Interest Rates Unchanged",
+        "source": "Theepochtimes.com",
+        "url": "https://www.theepochtimes.com/business/federal-reserve-leaves-interest-rates-unchanged-6109830",
+        "published": "2026-10-28T18:10:50Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Evolution of Taiwan’s Military",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/10/the-evolution-of-taiwans-military/",
+        "published": "2026-10-28T15:25:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "How Would China Actually Govern Taiwan?",
         "source": "The Diplomat",
@@ -75,20 +89,6 @@
         "source": "The New York Review of Books",
         "url": "https://www.nybooks.com/online/2026/10/27/trumps-blob-foreign-policy/",
         "published": "2026-10-27T11:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Japan’s Disputed Islands May Cause a Headache for Washington",
-        "source": "Antiwar.com",
-        "url": "https://original.antiwar.com/ted_galen_carpenter/2026/10/26/japans-disputed-islands-may-cause-a-headache-for-washington/",
-        "published": "2026-10-27T00:00:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "American And Chinese Aircraft Carriers Could Cross Paths As Tensions Rise Near Taiwan",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/10/26/american-chinese-aircraft-carriers-could-cross-paths",
-        "published": "2026-10-26T19:53:07Z",
         "sentiment": "watch"
       }
     ],
