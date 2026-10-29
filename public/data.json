@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-28T20:20:39.002Z",
+    "generated_at": "2026-10-29T00:16:42.299Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Russia Says Northern Sea Route Transit Cargo to Nearly Double in 2026",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/russia-says-northern-sea-route-transit-cargo-to-nearly-double-in-2026/",
-        "published": "2026-10-27T20:14:56Z",
+        "title": "The War in Iran Comes Home to ‘Trump Country’",
+        "source": "Antiwar.com",
+        "url": "https://original.antiwar.com/nolan_denaro/2026/10/27/the-war-in-iran-comes-home-to-trump-country/",
+        "published": "2026-10-28T00:00:25Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Russian diesel tankers close in on US ports as Trump, Putin deal triggers legal showdown",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/russian-diesel-tankers-close-us-ports-trump-putin-deal-triggers-legal-showdown",
+        "published": "2026-10-27T23:09:40Z",
         "sentiment": "watch"
       },
       {
-        "title": "1989 Honda GB500 Tourist Trophy at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1989-honda-gb500-tourist-trophy-22/",
-        "published": "2026-10-27T19:40:45Z",
+        "title": "Video: No, War is Not Good For the Economy",
+        "source": "Corbettreport.com",
+        "url": "https://corbettreport.com/no-war-is-not-good-for-the-economy/",
+        "published": "2026-10-27T22:05:29Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Philips Norelco All-in-One 3000 Series 13-in-1 Trimmer for $20 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/products/Norelco/Philips-Norelco-All-in-One-3000-Series-13-in-1-Trimmer/550648.html",
+        "published": "2026-10-27T21:31:04Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Pollution Is Drifting Into Marine Protected Areas, Report Finds",
-        "source": "The Good Men Project",
-        "url": "https://goodmenproject.com/featured-content/oil-pollution-is-drifting-into-marine-protected-areas-report-finds/",
-        "published": "2026-10-27T19:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Growth momentum holds despite shocks: RBI Deputy Governor Poonam Gupta",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/specials/bs-events/growth-momentum-holds-despite-shocks-rbi-deputy-governor-poonam-gupta-126102701521_1.html",
-        "published": "2026-10-27T19:17:18Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Diesel Crisis Is Here To Stay",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/The-Diesel-Crisis-Is-Here-To-Stay.html",
-        "published": "2026-10-27T19:00:00Z",
+        "title": "Oil Slips as Iran Diplomacy Picks Up",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_slips_as_iran_diplomacy_picks_up-27-oct-2026-184947-article/",
+        "published": "2026-10-27T21:07:28Z",
         "sentiment": "watch"
       }
     ],
