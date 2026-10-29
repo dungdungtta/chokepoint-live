@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-29T19:15:46.910Z",
+    "generated_at": "2026-10-29T23:30:53.828Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "Awujale to emerge before May 2027, Abiodun assures",
+        "source": "The Punch",
+        "url": "https://punchng.com/awujale-to-emerge-before-may-2027-abiodun-assures/",
+        "published": "2026-10-28T23:05:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Refineries Become Prime Targets as Global Fuel Shortage Worsens",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Oil-Refineries-Become-Prime-Targets-as-Global-Fuel-Shortage-Worsens.html",
+        "published": "2026-10-28T23:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Fed Pauses Rate Hikes After September Increase in 10-2 Vote",
+        "source": "Bitcoinfoundation.org",
+        "url": "https://bitcoinfoundation.org/news/regulation/fed-pauses-rate-hikes-after-september-increase-in-10-2-vote/",
+        "published": "2026-10-28T22:49:27Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "How Trump’s Russian Diesel Could End Up in Cuba Instead",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/How-Trumps-Russian-Diesel-Could-End-Up-in-Cuba-Instead.html",
+        "published": "2026-10-28T22:28:57Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Why the Shipping Industry Is Turning Its Attention to Nuclear Power",
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Why-the-Shipping-Industry-Is-Turning-Its-Attention-to-Nuclear-Power.html",
         "published": "2026-10-28T19:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "High freight rates narrow Indian refiners’ crude oil choices, squeeze margins",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/high-freight-rates-narrow-indian-refiners-crude-oil-choices-squeeze-margins/articleshow/135276855.cms",
-        "published": "2026-10-28T18:32:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
-        "source": "Decrypt",
-        "url": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
-        "published": "2026-10-28T18:25:18Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Federal Reserve Keeps Rates Unchanged Despite Elevated Inflation",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/federal-reserve-keeps-rates-unchanged-despite-elevated-inflation-gives-little-signal-of-its-next-move_n_6ae239b3e4b09cd24b6b4bd2",
-        "published": "2026-10-28T18:12:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Federal Reserve Leaves Interest Rates Unchanged",
-        "source": "Theepochtimes.com",
-        "url": "https://www.theepochtimes.com/business/federal-reserve-leaves-interest-rates-unchanged-6109830",
-        "published": "2026-10-28T18:10:50Z",
         "sentiment": "watch"
       }
     ],
