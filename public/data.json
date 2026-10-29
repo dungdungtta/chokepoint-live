@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-29T06:19:30.978Z",
+    "generated_at": "2026-10-29T13:35:15.325Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "Q2 results: Adani Enterprises, APSEZ, Hero MotoCorp, 141 more on Oct 28",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/companies/quarterly-results/q2-results-adani-enterprises-apsez-hero-motocorp-141-more-on-oct-28-126102800329_1.html",
-        "published": "2026-10-28T04:57:42Z",
+        "title": "WhatsApp messages from one firm drive Gulf tanker rates",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/54ac194cdf34f485",
+        "published": "2026-10-28T13:21:06Z",
         "sentiment": "watch"
       },
       {
-        "title": "Kirloskar Pneumatic Q2 net profit drops 9% to ₹40 crore",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/companies/kirloskar-pneumatic-q2-net-profit-drops-9-to-40-crore/article71634212.ece",
-        "published": "2026-10-28T04:33:51Z",
+        "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
+        "source": "Ieee.org",
+        "url": "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
+        "published": "2026-10-28T13:00:03Z",
         "sentiment": "watch"
       },
       {
-        "title": "45-Pack 2.5-Oz PLANTERS Salted Peanuts $17.99 + Free Shipping w/ Prime or on $35+ (2 replies)",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20220561-45-pack-2-5-oz-planters-salted-peanuts-17-99-free-shipping-w-prime-or-on-35",
-        "published": "2026-10-28T04:26:36Z",
-        "sentiment": "watch"
+        "title": "U.S. Lawmakers Warn Banks Against Trump's Russian Diesel Deal",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/US-Lawmakers-Warn-Banks-Against-Trumps-Russian-Diesel-Deal.html",
+        "published": "2026-10-28T13:00:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "How Tehran, Washington and London Are Shutting Out Ordinary Iranians",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/10/washington-shutting-ordinary.html",
-        "published": "2026-10-28T04:15:50Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Hegseth likely to face questions on US role in Indo-Pacific at ASEAN summit",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/hegseth-likely-to-face-questions-on-us-role-in-indo-pacific-at-asean-summit/articleshow/135251035.cms",
-        "published": "2026-10-28T03:44:16Z",
+        "title": "Bahri Profit Hits $1.36 Billion as the World Scrambles for Tankers",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Bahri-Profit-Hits-136-Billion-as-the-World-Scrambles-for-Tankers.html",
+        "published": "2026-10-28T12:30:00Z",
         "sentiment": "watch"
       }
     ],
