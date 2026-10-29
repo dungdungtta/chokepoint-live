@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-29T00:16:42.299Z",
+    "generated_at": "2026-10-29T06:19:30.978Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "The War in Iran Comes Home to ‘Trump Country’",
-        "source": "Antiwar.com",
-        "url": "https://original.antiwar.com/nolan_denaro/2026/10/27/the-war-in-iran-comes-home-to-trump-country/",
-        "published": "2026-10-28T00:00:25Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Russian diesel tankers close in on US ports as Trump, Putin deal triggers legal showdown",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/russian-diesel-tankers-close-us-ports-trump-putin-deal-triggers-legal-showdown",
-        "published": "2026-10-27T23:09:40Z",
+        "title": "Q2 results: Adani Enterprises, APSEZ, Hero MotoCorp, 141 more on Oct 28",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/companies/quarterly-results/q2-results-adani-enterprises-apsez-hero-motocorp-141-more-on-oct-28-126102800329_1.html",
+        "published": "2026-10-28T04:57:42Z",
         "sentiment": "watch"
       },
       {
-        "title": "Video: No, War is Not Good For the Economy",
-        "source": "Corbettreport.com",
-        "url": "https://corbettreport.com/no-war-is-not-good-for-the-economy/",
-        "published": "2026-10-27T22:05:29Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Philips Norelco All-in-One 3000 Series 13-in-1 Trimmer for $20 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/products/Norelco/Philips-Norelco-All-in-One-3000-Series-13-in-1-Trimmer/550648.html",
-        "published": "2026-10-27T21:31:04Z",
+        "title": "Kirloskar Pneumatic Q2 net profit drops 9% to ₹40 crore",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/companies/kirloskar-pneumatic-q2-net-profit-drops-9-to-40-crore/article71634212.ece",
+        "published": "2026-10-28T04:33:51Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Slips as Iran Diplomacy Picks Up",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_slips_as_iran_diplomacy_picks_up-27-oct-2026-184947-article/",
-        "published": "2026-10-27T21:07:28Z",
+        "title": "45-Pack 2.5-Oz PLANTERS Salted Peanuts $17.99 + Free Shipping w/ Prime or on $35+ (2 replies)",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20220561-45-pack-2-5-oz-planters-salted-peanuts-17-99-free-shipping-w-prime-or-on-35",
+        "published": "2026-10-28T04:26:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "How Tehran, Washington and London Are Shutting Out Ordinary Iranians",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/10/washington-shutting-ordinary.html",
+        "published": "2026-10-28T04:15:50Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Hegseth likely to face questions on US role in Indo-Pacific at ASEAN summit",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/hegseth-likely-to-face-questions-on-us-role-in-indo-pacific-at-asean-summit/articleshow/135251035.cms",
+        "published": "2026-10-28T03:44:16Z",
         "sentiment": "watch"
       }
     ],
