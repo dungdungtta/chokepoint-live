@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-30T02:59:20.318Z",
+    "generated_at": "2026-10-30T09:53:25.174Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Price Today (October 29): Crude oil dips to $113 as diplomatic talks outweigh infra attacks. Can oil fall further?",
+        "title": "[Outliers] K.C. Irving: How to Build an Empire on Your Own Terms",
+        "source": "Fs.blog",
+        "url": "https://fs.blog/knowledge-project-podcast/outliers-kc-irving/",
+        "published": "2026-10-29T09:50:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Shell Approves $5B Buyback as Refining Boosts Profit",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/shell_approves_5b_buyback_as_refining_boosts_profit-29-oct-2026-184959-article/",
+        "published": "2026-10-29T09:10:46Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Why is Adani betting $3.4 billion on global energy trade chaos?",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-29-crude-oil-dips-to-113-as-diplomatic-talks-outweigh-infra-attacks-can-oil-fall-further/articleshow/135286659.cms",
-        "published": "2026-10-29T02:24:49Z",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/why-is-adani-eyeing-a-3-4-billion-vtti-deal-amid-global-oil-supply-disruptions-and-energy-trade-chaos/articleshow/135297448.cms",
+        "published": "2026-10-29T08:50:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "India signs world's largest green hydrogen offtake commitments: MNRE",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/industry/news/india-signs-world-s-largest-green-hydrogen-offtake-commitments-mnre-126102900693_1.html",
+        "published": "2026-10-29T08:33:42Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The new Cold War comes to Kodiak",
+        "source": "Grist",
+        "url": "https://grist.org/politics/alaska-golden-dome-spaceport-arctic-dominance-military-trump/",
+        "published": "2026-10-29T08:30:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Oleshky Truce Enters Third Day as Humanitarian Hopes Collide With Russia Deportation Fears",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/oleshky-ukraine-russia-melania-trump-ceasefire/33886379.html",
-        "published": "2026-10-29T01:17:39Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran rejects 'unacceptable' terms of new proposed deal",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/435324",
-        "published": "2026-10-29T01:12:18Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "EU energy ministers to discuss soaring fuel prices",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/europe/2026/1029/1597149-energy-ministers-europe/",
-        "published": "2026-10-29T00:54:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "MSMEs feel squeeze as polymer, freight costs rise",
-        "source": "Livemint",
-        "url": "https://www.livemint.com/industry/msmes-feel-squeeze-as-polymer-freight-costs-rise-11793174015480.html",
-        "published": "2026-10-29T00:30:09Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
