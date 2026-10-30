@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-29T23:30:53.828Z",
+    "generated_at": "2026-10-30T02:59:20.318Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Awujale to emerge before May 2027, Abiodun assures",
-        "source": "The Punch",
-        "url": "https://punchng.com/awujale-to-emerge-before-may-2027-abiodun-assures/",
-        "published": "2026-10-28T23:05:46Z",
+        "title": "Oil Price Today (October 29): Crude oil dips to $113 as diplomatic talks outweigh infra attacks. Can oil fall further?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-29-crude-oil-dips-to-113-as-diplomatic-talks-outweigh-infra-attacks-can-oil-fall-further/articleshow/135286659.cms",
+        "published": "2026-10-29T02:24:49Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oleshky Truce Enters Third Day as Humanitarian Hopes Collide With Russia Deportation Fears",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/oleshky-ukraine-russia-melania-trump-ceasefire/33886379.html",
+        "published": "2026-10-29T01:17:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Refineries Become Prime Targets as Global Fuel Shortage Worsens",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Oil-Refineries-Become-Prime-Targets-as-Global-Fuel-Shortage-Worsens.html",
-        "published": "2026-10-28T23:00:00Z",
+        "title": "Iran rejects 'unacceptable' terms of new proposed deal",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/435324",
+        "published": "2026-10-29T01:12:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "Fed Pauses Rate Hikes After September Increase in 10-2 Vote",
-        "source": "Bitcoinfoundation.org",
-        "url": "https://bitcoinfoundation.org/news/regulation/fed-pauses-rate-hikes-after-september-increase-in-10-2-vote/",
-        "published": "2026-10-28T22:49:27Z",
+        "title": "EU energy ministers to discuss soaring fuel prices",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/europe/2026/1029/1597149-energy-ministers-europe/",
+        "published": "2026-10-29T00:54:57Z",
         "sentiment": "watch"
       },
       {
-        "title": "How Trump’s Russian Diesel Could End Up in Cuba Instead",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/How-Trumps-Russian-Diesel-Could-End-Up-in-Cuba-Instead.html",
-        "published": "2026-10-28T22:28:57Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why the Shipping Industry Is Turning Its Attention to Nuclear Power",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Why-the-Shipping-Industry-Is-Turning-Its-Attention-to-Nuclear-Power.html",
-        "published": "2026-10-28T19:00:00Z",
+        "title": "MSMEs feel squeeze as polymer, freight costs rise",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/industry/msmes-feel-squeeze-as-polymer-freight-costs-rise-11793174015480.html",
+        "published": "2026-10-29T00:30:09Z",
         "sentiment": "watch"
       }
     ],
