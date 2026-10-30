@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-30T16:38:20.154Z",
+    "generated_at": "2026-10-30T21:05:50.857Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "‘The inflation outlook has become more concerning’: Incomes declined 0.3% and consumer prices jumped 3.6% in September as midterms loom",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/10/29/incomes-declined-0-3-consumer-prices-3-6-midterms/",
-        "published": "2026-10-29T16:13:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "‘This is a pivot point for the outlook of global energy’: China’s record-high clean energy tech exports projected to avert 24% of global CO2 emissions",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/10/29/china-clean-energy-export-24-global-co2-emissions/",
-        "published": "2026-10-29T15:35:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "World’s largest electric ferry enters service in South America",
-        "source": "New Atlas",
-        "url": "https://newatlas.com/marine/incat-hull096-china-zorrilla-electric-ferry-buquebus/",
-        "published": "2026-10-29T15:27:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Key inflation gauge heats up thanks to high gas prices — day after Fed hits pause on rate hikes",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/10/29/business/feds-preferred-inflation-gauge-heats-up-over-high-gas-prices/",
-        "published": "2026-10-29T15:15:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Investors Are Piling Into Dangote. But Is the Price Right?",
+        "title": "Trump's Russian Diesel Is a Legal Hot Potato With a Five-Year Fuse",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Investors-Are-Piling-Into-Dangote-But-Is-the-Price-Right.html",
-        "published": "2026-10-29T15:00:00Z",
+        "url": "https://oilprice.com/Energy/Energy-General/Trumps-Russian-Diesel-Is-a-Legal-Hot-Potato-With-a-Five-Year-Fuse.html",
+        "published": "2026-10-29T21:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "81+ actually good gifts for women that go beyond jewelry and silk robes",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/select/shopping/gifts-for-women-2026-rcna606321",
+        "published": "2026-10-29T20:35:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "‘The $100 level is ours for awhile’: Oil won’t be getting cheap anytime soon, no matter what happens in the Gulf",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/5c9039e259a5b324",
+        "published": "2026-10-29T20:18:41Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "European energy giants delare record profits",
+        "source": "Rt-english.com",
+        "url": "https://rt-english.com/business/648101-iran-war-oil-profits/",
+        "published": "2026-10-29T20:07:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Crude Oil Prices Fall on VP Vance Outreach to Iran",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4401056/posts",
+        "published": "2026-10-29T19:42:55Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "‘Operation Supercharge’: Japan and U.S. agree to develop Japanese missile facility—a ‘strong, quiet and clear’ message against China’s naval activity",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/10/29/japan-us-missile-facility-china-naval-activity/",
+        "published": "2026-10-29T17:35:59Z",
+        "sentiment": "watch"
+      },
       {
         "title": "US and Japan agree to establish a Japanese facility for joint missile production",
         "source": "NPR",
@@ -82,13 +89,6 @@
         "source": "The Diplomat",
         "url": "https://thediplomat.com/2026/10/the-evolution-of-taiwans-military/",
         "published": "2026-10-28T15:25:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How Would China Actually Govern Taiwan?",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/10/how-would-china-actually-govern-taiwan/",
-        "published": "2026-10-27T17:49:00Z",
         "sentiment": "watch"
       }
     ],
