@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-31T13:31:06.070Z",
+    "generated_at": "2026-10-31T17:56:47.544Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Whistleblowers Claimed Key Oil Tanker Rate Was Manipulated",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/whistleblowers-claimed-key-oil-tanker-rate-was-manipulated/",
-        "published": "2026-10-30T12:38:37Z",
+        "title": "OURCABECUE 17-Oz Dark Glass 2-in-1 Olive Oil Sprayer & Pourer $7.99 + Free Shipping w/ Prime",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20233368-ourcabecue-17-oz-dark-glass-2-in-1-olive-oil-sprayer-pourer-7-99-free-shipping-w-prime",
+        "published": "2026-10-30T17:31:38Z",
         "sentiment": "watch"
       },
       {
-        "title": "Tanker in Strait of Hormuz Hit by Limpet Mines, Security Sources Say",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/tanker-in-strait-of-hormuz-hit-by-limpet-mines-security-sources-say/",
-        "published": "2026-10-30T12:36:04Z",
+        "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
+        "published": "2026-10-30T17:21:47Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Big Oil rakes in over $130B in profits as soaring gas prices squeeze consumers amid Iran war",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/10/30/business/big-oil-makes-130b-in-profits-as-gas-prices-rise-amid-iran-war/",
+        "published": "2026-10-30T17:11:59Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Houston Activists Are Working to Disrupt the Flow of Weapons to Israel",
+        "source": "Truthout",
+        "url": "https://truthout.org/articles/houston-activists-are-working-to-disrupt-the-flow-of-weapons-to-israel/",
+        "published": "2026-10-30T17:10:19Z",
         "sentiment": "watch"
       },
       {
-        "title": "Current price of oil as of October 30, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-10-30-2026/",
-        "published": "2026-10-30T12:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Marriage Of Convenience: Russia And Iran Deepen Trade Ties, But Their Partnership Has Limits",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/russia-iran-deepen-trade-ties-caspian-sea-western-sanctions/33886709.html",
-        "published": "2026-10-30T12:22:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Nasdaq futures sink 2.3% as Amazon, Intel and Alphabet send AI jitters through stocks",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/10/30/stock-futures-fall-nasdaq-amazon-intel-alphabet-bitcoin-binance/",
-        "published": "2026-10-30T12:18:50Z",
+        "title": "RIL diversifies crude sourcing, redirects exports amid Middle East disruptions",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/ril-diversifies-crude-sourcing-redirects-exports-amid-middle-east-disruptions/article71646507.ece",
+        "published": "2026-10-30T16:51:31Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "'It looks like World War III': Historian Sarah Paine gives chilling warning on global conflict; explains why nuclear weapons may not keep the world safe",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/it-looks-like-world-war-iii-historian-sarah-paine-gives-chilling-warning-on-global-conflict-explains-why-nuclear-weapons-may-not-keep-the-world-safe/articleshow/135363675.cms",
+        "published": "2026-10-30T14:20:00Z",
+        "sentiment": "danger"
+      },
       {
         "title": "‘Operation Supercharge’: Japan and U.S. agree to develop Japanese missile facility—a ‘strong, quiet and clear’ message against China’s naval activity",
         "source": "Fortune",
