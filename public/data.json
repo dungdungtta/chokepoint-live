@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-31T17:56:47.544Z",
+    "generated_at": "2026-10-31T21:23:37.527Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "OURCABECUE 17-Oz Dark Glass 2-in-1 Olive Oil Sprayer & Pourer $7.99 + Free Shipping w/ Prime",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20233368-ourcabecue-17-oz-dark-glass-2-in-1-olive-oil-sprayer-pourer-7-99-free-shipping-w-prime",
-        "published": "2026-10-30T17:31:38Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
-        "published": "2026-10-30T17:21:47Z",
+        "title": "Trump Keeps Hinting That the Iran War Is About to Heat Up Again",
+        "source": "Slate Magazine",
+        "url": "https://slate.com/news-and-politics/2026/10/iran-war-midterms-trump-gas-prices-election.html",
+        "published": "2026-10-30T21:20:40Z",
         "sentiment": "danger"
       },
       {
-        "title": "Big Oil rakes in over $130B in profits as soaring gas prices squeeze consumers amid Iran war",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/10/30/business/big-oil-makes-130b-in-profits-as-gas-prices-rise-amid-iran-war/",
-        "published": "2026-10-30T17:11:59Z",
+        "title": "America closes refineries while the rest of the world races to build them",
+        "source": "Wattsupwiththat.com",
+        "url": "https://wattsupwiththat.com/2026/10/30/america-closes-refineries-while-the-rest-of-the-world-races-to-build-them/",
+        "published": "2026-10-30T21:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Sephora Savings Event is officially back — these are the deals I’m shopping as a beauty writer",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/select/shopping/sephora-savings-event-fall-2026-rcna606554",
+        "published": "2026-10-30T20:01:30Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "An air link between oil capitals Calgary and Abu Dhabi underscores Canada’s Gulf pivot",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/commodities/energy/oil-gas/calgary-abu-dhabi-air-link-canadas-gulf-pivot",
+        "published": "2026-10-30T19:36:30Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil jumps 2%, settles at 6-month highs on fears of escalation in Iran",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-jumps-2-settles-6-month-highs-fears-escalation-in-iran-6505721",
+        "published": "2026-10-30T19:26:29Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Houston Activists Are Working to Disrupt the Flow of Weapons to Israel",
-        "source": "Truthout",
-        "url": "https://truthout.org/articles/houston-activists-are-working-to-disrupt-the-flow-of-weapons-to-israel/",
-        "published": "2026-10-30T17:10:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "RIL diversifies crude sourcing, redirects exports amid Middle East disruptions",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/ril-diversifies-crude-sourcing-redirects-exports-amid-middle-east-disruptions/article71646507.ece",
-        "published": "2026-10-30T16:51:31Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Apec 2026: Who will represent New Zealand at the Shenzhen summit? - Fran O’Sullivan",
+        "source": "New Zealand Herald",
+        "url": "https://www.nzherald.co.nz/business/economy/apec-2026-who-will-represent-new-zealand-at-the-shenzhen-summit-fran-osullivan/premium/TIRKEZRXWJBE3PJX75TGX53N7E/",
+        "published": "2026-10-30T20:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "'It looks like World War III': Historian Sarah Paine gives chilling warning on global conflict; explains why nuclear weapons may not keep the world safe",
         "source": "The Times of India",
@@ -90,13 +97,6 @@
         "url": "https://gcaptain.com/taiwan-flags-obvious-threat-from-50-chinese-vessels-in-wide-sweep-of-waters/",
         "published": "2026-10-29T11:19:32Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "The Evolution of Taiwan’s Military",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/10/the-evolution-of-taiwans-military/",
-        "published": "2026-10-28T15:25:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
