@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-30T21:05:50.857Z",
+    "generated_at": "2026-10-31T00:49:41.383Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "1956 Mercedes-Benz 300SL Gullwing for Charity at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1956-mercedes-benz-300sl-gullwing-7/",
+        "published": "2026-10-30T00:00:04Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "The Houthi Threat America Cannot Afford to Ignore",
+        "source": "Hoover.org",
+        "url": "https://www.hoover.org/research/houthi-threat-america-cannot-afford-ignore",
+        "published": "2026-10-30T00:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The Wind Defeated the Caravan. But 500 Years Later, History Is Reversing Course",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/wind-defeated-caravan-500-years-later-history-reversing-course/5944796",
+        "published": "2026-10-29T22:44:05Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Is Lush's Viral Scrubee Worth The Hype? I Tried The Pumpkin Edition",
+        "source": "Elite Daily",
+        "url": "https://www.elitedaily.com/beauty/lush-scrubee-review",
+        "published": "2026-10-29T21:52:05Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump's Russian Diesel Is a Legal Hot Potato With a Five-Year Fuse",
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Energy/Energy-General/Trumps-Russian-Diesel-Is-a-Legal-Hot-Potato-With-a-Five-Year-Fuse.html",
         "published": "2026-10-29T21:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "81+ actually good gifts for women that go beyond jewelry and silk robes",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/select/shopping/gifts-for-women-2026-rcna606321",
-        "published": "2026-10-29T20:35:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "‘The $100 level is ours for awhile’: Oil won’t be getting cheap anytime soon, no matter what happens in the Gulf",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/5c9039e259a5b324",
-        "published": "2026-10-29T20:18:41Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "European energy giants delare record profits",
-        "source": "Rt-english.com",
-        "url": "https://rt-english.com/business/648101-iran-war-oil-profits/",
-        "published": "2026-10-29T20:07:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Crude Oil Prices Fall on VP Vance Outreach to Iran",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4401056/posts",
-        "published": "2026-10-29T19:42:55Z",
         "sentiment": "watch"
       }
     ],
