@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-31T00:49:41.383Z",
+    "generated_at": "2026-10-31T06:52:09.448Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "1956 Mercedes-Benz 300SL Gullwing for Charity at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1956-mercedes-benz-300sl-gullwing-7/",
-        "published": "2026-10-30T00:00:04Z",
+        "title": "Oman’s foreign minister calls for regional security pact excluding U.S. as Gulf tensions mount",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-10-30-omans-foreign-minister-regional-security-pact-excluding-us.html",
+        "published": "2026-10-30T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Houthi Threat America Cannot Afford to Ignore",
-        "source": "Hoover.org",
-        "url": "https://www.hoover.org/research/houthi-threat-america-cannot-afford-ignore",
-        "published": "2026-10-30T00:00:00Z",
+        "title": "Primal Diet Raw Food List",
+        "source": "Aajonus.net",
+        "url": "https://aajonus.net/primal-diet-raw-food-list",
+        "published": "2026-10-30T05:26:54Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Tanker in Strait of Hormuz hit by explosives attached to small boat, UKMTO says",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/tanker-in-strait-of-hormuz-hit-by-explosives-attached-to-small-boat-ukmto-says/articleshow/135343467.cms",
+        "published": "2026-10-30T04:27:22Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Who sent $2 bn military equipment to Iran past US blockade? More than 5,000 agencies",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/who-sent-2-bn-military-equipment-to-iran-past-us-blockade-more-than-5000-agencies/articleshow/135340923.cms",
+        "published": "2026-10-30T03:14:52Z",
         "sentiment": "danger"
       },
       {
-        "title": "The Wind Defeated the Caravan. But 500 Years Later, History Is Reversing Course",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/wind-defeated-caravan-500-years-later-history-reversing-course/5944796",
-        "published": "2026-10-29T22:44:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Is Lush's Viral Scrubee Worth The Hype? I Tried The Pumpkin Edition",
-        "source": "Elite Daily",
-        "url": "https://www.elitedaily.com/beauty/lush-scrubee-review",
-        "published": "2026-10-29T21:52:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump's Russian Diesel Is a Legal Hot Potato With a Five-Year Fuse",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Trumps-Russian-Diesel-Is-a-Legal-Hot-Potato-With-a-Five-Year-Fuse.html",
-        "published": "2026-10-29T21:00:00Z",
+        "title": "Chokepoints can make Carolinians gag",
+        "source": "Ncspin.com",
+        "url": "https://www.ncspin.com/chokepoints-can-make-carolinians-gag",
+        "published": "2026-10-30T02:28:00Z",
         "sentiment": "watch"
       }
     ],
