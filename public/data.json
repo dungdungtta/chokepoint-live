@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-31T06:52:09.448Z",
+    "generated_at": "2026-10-31T13:31:06.070Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oman’s foreign minister calls for regional security pact excluding U.S. as Gulf tensions mount",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-10-30-omans-foreign-minister-regional-security-pact-excluding-us.html",
-        "published": "2026-10-30T06:00:00Z",
+        "title": "Whistleblowers Claimed Key Oil Tanker Rate Was Manipulated",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/whistleblowers-claimed-key-oil-tanker-rate-was-manipulated/",
+        "published": "2026-10-30T12:38:37Z",
         "sentiment": "watch"
       },
       {
-        "title": "Primal Diet Raw Food List",
-        "source": "Aajonus.net",
-        "url": "https://aajonus.net/primal-diet-raw-food-list",
-        "published": "2026-10-30T05:26:54Z",
+        "title": "Tanker in Strait of Hormuz Hit by Limpet Mines, Security Sources Say",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/tanker-in-strait-of-hormuz-hit-by-limpet-mines-security-sources-say/",
+        "published": "2026-10-30T12:36:04Z",
         "sentiment": "watch"
       },
       {
-        "title": "Tanker in Strait of Hormuz hit by explosives attached to small boat, UKMTO says",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/tanker-in-strait-of-hormuz-hit-by-explosives-attached-to-small-boat-ukmto-says/articleshow/135343467.cms",
-        "published": "2026-10-30T04:27:22Z",
+        "title": "Current price of oil as of October 30, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-10-30-2026/",
+        "published": "2026-10-30T12:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Who sent $2 bn military equipment to Iran past US blockade? More than 5,000 agencies",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/who-sent-2-bn-military-equipment-to-iran-past-us-blockade-more-than-5000-agencies/articleshow/135340923.cms",
-        "published": "2026-10-30T03:14:52Z",
-        "sentiment": "danger"
+        "title": "Marriage Of Convenience: Russia And Iran Deepen Trade Ties, But Their Partnership Has Limits",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/russia-iran-deepen-trade-ties-caspian-sea-western-sanctions/33886709.html",
+        "published": "2026-10-30T12:22:25Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Chokepoints can make Carolinians gag",
-        "source": "Ncspin.com",
-        "url": "https://www.ncspin.com/chokepoints-can-make-carolinians-gag",
-        "published": "2026-10-30T02:28:00Z",
+        "title": "Nasdaq futures sink 2.3% as Amazon, Intel and Alphabet send AI jitters through stocks",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/10/30/stock-futures-fall-nasdaq-amazon-intel-alphabet-bitcoin-binance/",
+        "published": "2026-10-30T12:18:50Z",
         "sentiment": "watch"
       }
     ],
