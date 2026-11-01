@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-01T06:42:13.036Z",
+    "generated_at": "2026-11-01T13:50:14.822Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S. Cruise Ship Suspends Around-the-World Voyage in Cambodia, Disembarks 203 Passengers",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-10-31-us-cruise-ship-suspends-voyage-in-cambodia.html",
-        "published": "2026-10-31T06:00:00Z",
+        "title": "Trump promised to slash energy costs — but gasoline, diesel and jet fuel all soared instead",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
+        "published": "2026-10-31T12:49:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "Strait of Hormuz shipping routes cleared of Iranian sea mines, vessels transiting freely: CENTCOM chief",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/logistics/strait-of-hormuz-shipping-routes-cleared-of-iranian-sea-mines-vessels-transiting-freely-centcom-chief/article71648183.ece",
-        "published": "2026-10-31T05:06:15Z",
+        "title": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
+        "published": "2026-10-31T12:11:12Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "‘World-Historic Levels Of Strategic Buffoonery:’ 285 Acts Of Idiocy Trump’s Cronies Hope You’ve Forgotten",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/dumb-things-trump-has-done-so-far-second-term_n_6ab57494e4b0bad9a646389e",
+        "published": "2026-10-31T10:00:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "India news: Oil tanker carrying 27 Indians attacked with limpet mines in Strait of Hormuz",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/india-news-oil-tanker-carrying-27-indians-attacked-with-limpet-mines-in-strait-of-hormuz/live-79814329",
-        "published": "2026-10-31T05:06:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "India news: Amit Shah challenges Rahul Gandhi to debate vote theft in Parliament",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/india-news-amit-shah-challenges-rahul-gandhi-to-debate-vote-theft-in-parliament/live-79814329",
-        "published": "2026-10-31T05:06:00Z",
+        "title": "Government scraps export duty on petrol, raises levies on diesel and ATF",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/government-scraps-export-duty-on-petrol-raises-levies-on-diesel-and-atf/articleshow/135395520.cms",
+        "published": "2026-10-31T09:00:21Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "India news: Tanker carrying 27 Indians attacked in Strait of Hormuz",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/india-news-tanker-carrying-27-indians-attacked-in-strait-of-hormuz/live-79814329",
-        "published": "2026-10-31T05:06:00Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "The history of rope making",
+        "source": "Energyskeptic.com",
+        "url": "https://energyskeptic.com/2026/the-history-of-rope-making/",
+        "published": "2026-10-31T12:56:23Z",
+        "sentiment": "watch"
+      },
       {
         "title": "How Southeast Asia can realize its commercial promise amid geopolitical rivalry",
         "source": "Fortune",
@@ -89,13 +89,6 @@
         "source": "Fortune",
         "url": "https://fortune.com/2026/10/29/japan-us-missile-facility-china-naval-activity/",
         "published": "2026-10-29T17:35:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US and Japan agree to establish a Japanese facility for joint missile production",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
-        "published": "2026-10-29T15:58:27Z",
         "sentiment": "watch"
       }
     ],
