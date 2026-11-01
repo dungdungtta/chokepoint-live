@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-01T18:50:34.656Z",
+    "generated_at": "2026-11-01T22:41:10.040Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -26,6 +26,13 @@
   },
   "news": {
     "hormuz": [
+      {
+        "title": "Iranian Fuel, Russian and Chinese Jets: Who Keeps Burma’s Junta Bombing Civilians?",
+        "source": "Thegatewaypundit.com",
+        "url": "https://www.thegatewaypundit.com/2026/10/iranian-fuel-russian-chinese-jets-who-keeps-burmas/",
+        "published": "2026-10-31T22:40:22Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump Was Right to Take On Iran, and Two Years of Refilling Oil Tanks Is a Bargain",
         "source": "Freerepublic.com",
@@ -53,13 +60,6 @@
         "url": "https://www.thehindubusinessline.com/markets/q2-results-highlights-ntpc-muthoot-finance-shyam-metalics-amp-energy-sarda-energy-and-minerals-zen-technologies-national-securities-depository-rainbowc-childrens-medicare-company-results-31-oc/article71648157.ece",
         "published": "2026-10-31T14:45:06Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks",
-        "published": "2026-10-31T14:31:37Z",
-        "sentiment": "neutral"
       }
     ],
     "taiwan": [
