@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-01T00:21:18.422Z",
+    "generated_at": "2026-11-01T06:42:13.036Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "US oil companies tripled profits during Iran war – NYT",
-        "source": "Rt-english.com",
-        "url": "https://rt-english.com/business/648156-us-oil-profits-iran-war/",
-        "published": "2026-10-30T23:15:45Z",
+        "title": "U.S. Cruise Ship Suspends Around-the-World Voyage in Cambodia, Disembarks 203 Passengers",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-10-31-us-cruise-ship-suspends-voyage-in-cambodia.html",
+        "published": "2026-10-31T06:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Strait of Hormuz shipping routes cleared of Iranian sea mines, vessels transiting freely: CENTCOM chief",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/logistics/strait-of-hormuz-shipping-routes-cleared-of-iranian-sea-mines-vessels-transiting-freely-centcom-chief/article71648183.ece",
+        "published": "2026-10-31T05:06:15Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "India news: Oil tanker carrying 27 Indians attacked with limpet mines in Strait of Hormuz",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/india-news-oil-tanker-carrying-27-indians-attacked-with-limpet-mines-in-strait-of-hormuz/live-79814329",
+        "published": "2026-10-31T05:06:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "1972 Mercedes-Benz 280SEL 4.5 Sedan",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1972-mercedes-benz-280sel-4-5-sedan-25/",
-        "published": "2026-10-30T23:00:22Z",
+        "title": "India news: Amit Shah challenges Rahul Gandhi to debate vote theft in Parliament",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/india-news-amit-shah-challenges-rahul-gandhi-to-debate-vote-theft-in-parliament/live-79814329",
+        "published": "2026-10-31T05:06:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "16.9-Oz Amazon Grocery Italian First Cold Pressed Extra Virgin Olive Oil $4.39 w/ S&S + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20234169-16-9-oz-amazon-grocery-italian-first-cold-pressed-extra-virgin-olive-oil-4-39-w-s-s-free-shipping-w-prime-or-on-35",
-        "published": "2026-10-30T22:10:45Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "1966 Chevrolet Corvette Convertible L72 427/425 4-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1966-chevrolet-corvette-convertible-352/",
-        "published": "2026-10-30T21:30:16Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Keeps Hinting That the Iran War Is About to Heat Up Again",
-        "source": "Slate Magazine",
-        "url": "https://slate.com/news-and-politics/2026/10/iran-war-midterms-trump-gas-prices-election.html",
-        "published": "2026-10-30T21:20:40Z",
+        "title": "India news: Tanker carrying 27 Indians attacked in Strait of Hormuz",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/india-news-tanker-carrying-27-indians-attacked-in-strait-of-hormuz/live-79814329",
+        "published": "2026-10-31T05:06:00Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "How Southeast Asia can realize its commercial promise amid geopolitical rivalry",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/10/31/how-southeast-asia-can-realize-its-commercial-promise-amid-geopolitical-rivalry/",
+        "published": "2026-10-31T05:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Apec 2026: Who will represent New Zealand at the Shenzhen summit? - Fran O’Sullivan",
         "source": "New Zealand Herald",
@@ -90,13 +97,6 @@
         "url": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
         "published": "2026-10-29T15:58:27Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Taiwan Flags ‘Obvious’ Threat From 50 Chinese Vessels in Wide Sweep of Waters",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/taiwan-flags-obvious-threat-from-50-chinese-vessels-in-wide-sweep-of-waters/",
-        "published": "2026-10-29T11:19:32Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
