@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-01T13:50:14.822Z",
+    "generated_at": "2026-11-01T18:50:34.656Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump promised to slash energy costs — but gasoline, diesel and jet fuel all soared instead",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
-        "published": "2026-10-31T12:49:58Z",
+        "title": "Trump Was Right to Take On Iran, and Two Years of Refilling Oil Tanks Is a Bargain",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4401275/posts",
+        "published": "2026-10-31T17:43:46Z",
         "sentiment": "watch"
       },
       {
-        "title": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
-        "published": "2026-10-31T12:11:12Z",
+        "title": "Iran warns US, Israel against new attacks after Trump, Netanyahu threats",
+        "source": "The Punch",
+        "url": "https://punchng.com/iran-warns-us-israel-against-new-attacks-after-trump-netanyahu-threats/",
+        "published": "2026-10-31T17:40:05Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Trump’s Iran War Brings On Record Oil Company Profits",
+        "source": "Mother Jones",
+        "url": "https://www.motherjones.com/politics/2026/10/trumps-iran-war-brings-on-record-oil-company-profits/",
+        "published": "2026-10-31T15:58:58Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Q2 Results Highlights, Oct 31: NTPC, Quess Corp, Best Agrolife, Eveready Industries, CDSL, Muthoot Finance, Aditya Birla Fashion post profit growth; IGL, Tilaknagar Industries, Birla Corp report profit decline",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/q2-results-highlights-ntpc-muthoot-finance-shyam-metalics-amp-energy-sarda-energy-and-minerals-zen-technologies-national-securities-depository-rainbowc-childrens-medicare-company-results-31-oc/article71648157.ece",
+        "published": "2026-10-31T14:45:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks",
+        "published": "2026-10-31T14:31:37Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "‘World-Historic Levels Of Strategic Buffoonery:’ 285 Acts Of Idiocy Trump’s Cronies Hope You’ve Forgotten",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/dumb-things-trump-has-done-so-far-second-term_n_6ab57494e4b0bad9a646389e",
-        "published": "2026-10-31T10:00:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Government scraps export duty on petrol, raises levies on diesel and ATF",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/government-scraps-export-duty-on-petrol-raises-levies-on-diesel-and-atf/articleshow/135395520.cms",
-        "published": "2026-10-31T09:00:21Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
