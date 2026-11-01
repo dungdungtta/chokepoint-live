@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-31T21:23:37.527Z",
+    "generated_at": "2026-11-01T00:21:18.422Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
+        "title": "US oil companies tripled profits during Iran war – NYT",
+        "source": "Rt-english.com",
+        "url": "https://rt-english.com/business/648156-us-oil-profits-iran-war/",
+        "published": "2026-10-30T23:15:45Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "1972 Mercedes-Benz 280SEL 4.5 Sedan",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1972-mercedes-benz-280sel-4-5-sedan-25/",
+        "published": "2026-10-30T23:00:22Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "16.9-Oz Amazon Grocery Italian First Cold Pressed Extra Virgin Olive Oil $4.39 w/ S&S + Free Shipping w/ Prime or on $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20234169-16-9-oz-amazon-grocery-italian-first-cold-pressed-extra-virgin-olive-oil-4-39-w-s-s-free-shipping-w-prime-or-on-35",
+        "published": "2026-10-30T22:10:45Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "1966 Chevrolet Corvette Convertible L72 427/425 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1966-chevrolet-corvette-convertible-352/",
+        "published": "2026-10-30T21:30:16Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump Keeps Hinting That the Iran War Is About to Heat Up Again",
         "source": "Slate Magazine",
         "url": "https://slate.com/news-and-politics/2026/10/iran-war-midterms-trump-gas-prices-election.html",
         "published": "2026-10-30T21:20:40Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "America closes refineries while the rest of the world races to build them",
-        "source": "Wattsupwiththat.com",
-        "url": "https://wattsupwiththat.com/2026/10/30/america-closes-refineries-while-the-rest-of-the-world-races-to-build-them/",
-        "published": "2026-10-30T21:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Sephora Savings Event is officially back — these are the deals I’m shopping as a beauty writer",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/select/shopping/sephora-savings-event-fall-2026-rcna606554",
-        "published": "2026-10-30T20:01:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "An air link between oil capitals Calgary and Abu Dhabi underscores Canada’s Gulf pivot",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/commodities/energy/oil-gas/calgary-abu-dhabi-air-link-canadas-gulf-pivot",
-        "published": "2026-10-30T19:36:30Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil jumps 2%, settles at 6-month highs on fears of escalation in Iran",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-jumps-2-settles-6-month-highs-fears-escalation-in-iran-6505721",
-        "published": "2026-10-30T19:26:29Z",
         "sentiment": "danger"
       }
     ],
