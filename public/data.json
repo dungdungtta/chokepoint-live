@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-02T09:16:32.222Z",
+    "generated_at": "2026-11-02T19:42:37.614Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump says US still has 'one or two' targets remaining in Iran",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/trump-iran-targets-7211416-Nov2026/",
-        "published": "2026-11-01T07:25:04Z",
+        "title": "Saudi-backed Yemeni forces claim to have thwarted advancing Houthis",
+        "source": "Rt-english.com",
+        "url": "https://rt-english.com/news/648207-saudi-backed-yemeni-forces-claim-thwarted-advancing-houthis/",
+        "published": "2026-11-01T18:30:04Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Most of the Russian ships were unregistered and sailed without transponders",
+        "source": "Isegoria.net",
+        "url": "https://www.isegoria.net/2026/11/most-of-the-russian-ships-were-unregistered-and-sailed-without-transponders/",
+        "published": "2026-11-01T17:48:26Z",
         "sentiment": "watch"
       },
       {
-        "title": "Can Nifty, Sensex extend gains after rallying up to 2% last week? 4 factors to watch on Monday",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/can-nifty-sensex-extend-gains-after-rallying-up-to-2-last-week-4-factors-to-watch-on-monday/articleshow/135419919.cms",
-        "published": "2026-11-01T06:37:22Z",
+        "title": "Propane is back in Morbi, but rising prices cloud ceramic makers’ recovery",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/companies/propane-is-back-in-morbi-but-rising-prices-cloud-ceramic-makers-recovery/article71653570.ece",
+        "published": "2026-11-01T15:49:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "Araghchi says Iran, Qatar propose reopening Strait of Hormuz within two days if US meets Tehran's conditions",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/araghchi-says-iran-qatar-propose-reopening-strait-of-hormuz-within-two-days-if-us-meets-tehrans-conditions/articleshow/135419744.cms",
-        "published": "2026-11-01T06:31:02Z",
-        "sentiment": "neutral"
+        "title": "OPEC+ keeps December oil output targets steady as Iran war continues to disrupt flows - Reuters",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186546035",
+        "published": "2026-11-01T14:13:08Z",
+        "sentiment": "danger"
       },
       {
-        "title": "US still has ‘one or two targets’ in Iran — Trump",
-        "source": "The Punch",
-        "url": "https://punchng.com/us-still-has-one-or-two-targets-in-iran-trump/",
-        "published": "2026-11-01T05:36:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Commercial LPG cylinder price hiked by Rs 10 to Rs 2,820 from November 1",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/inflation-alert-commercial-lpg-cylinder-price-hits-2820-marking-third-consecutive-hike-amid-festive-season/articleshow/135417739.cms",
-        "published": "2026-11-01T04:29:51Z",
-        "sentiment": "watch"
+        "title": "Somali pirates seize Iranian fishing vessel, raising fears of attacks on cargo ships",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/somali-pirates-seize-iranian-fishing-vessel-raising-fears-137745870",
+        "published": "2026-11-01T14:01:35Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
