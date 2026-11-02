@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-02T01:53:08.532Z",
+    "generated_at": "2026-11-02T09:16:32.222Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran Holds to Seven Conditions as U.S. Prepares Post-Midterm Strike Options",
-        "source": "Thegatewaypundit.com",
-        "url": "https://www.thegatewaypundit.com/2026/10/iran-holds-seven-conditions-as-u-s-prepares/",
-        "published": "2026-11-01T01:00:16Z",
-        "sentiment": "danger"
+        "title": "Trump says US still has 'one or two' targets remaining in Iran",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/trump-iran-targets-7211416-Nov2026/",
+        "published": "2026-11-01T07:25:04Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Reliance Industries expands fuel exports to Africa, Europe as West Asia conflict disrupts supplies",
+        "title": "Can Nifty, Sensex extend gains after rallying up to 2% last week? 4 factors to watch on Monday",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/reliance-industries-expands-fuel-exports-to-africa-europe-as-west-asia-conflict-disrupts-supplies/articleshow/135409711.cms",
-        "published": "2026-11-01T00:00:00Z",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/can-nifty-sensex-extend-gains-after-rallying-up-to-2-last-week-4-factors-to-watch-on-monday/articleshow/135419919.cms",
+        "published": "2026-11-01T06:37:22Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iranian Fuel, Russian and Chinese Jets: Who Keeps Burma’s Junta Bombing Civilians?",
-        "source": "Thegatewaypundit.com",
-        "url": "https://www.thegatewaypundit.com/2026/10/iranian-fuel-russian-chinese-jets-who-keeps-burmas/",
-        "published": "2026-10-31T22:40:22Z",
-        "sentiment": "watch"
+        "title": "Araghchi says Iran, Qatar propose reopening Strait of Hormuz within two days if US meets Tehran's conditions",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/araghchi-says-iran-qatar-propose-reopening-strait-of-hormuz-within-two-days-if-us-meets-tehrans-conditions/articleshow/135419744.cms",
+        "published": "2026-11-01T06:31:02Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Trump Was Right to Take On Iran, and Two Years of Refilling Oil Tanks Is a Bargain",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4401275/posts",
-        "published": "2026-10-31T17:43:46Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran warns US, Israel against new attacks after Trump, Netanyahu threats",
+        "title": "US still has ‘one or two targets’ in Iran — Trump",
         "source": "The Punch",
-        "url": "https://punchng.com/iran-warns-us-israel-against-new-attacks-after-trump-netanyahu-threats/",
-        "published": "2026-10-31T17:40:05Z",
-        "sentiment": "danger"
+        "url": "https://punchng.com/us-still-has-one-or-two-targets-in-iran-trump/",
+        "published": "2026-11-01T05:36:14Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Commercial LPG cylinder price hiked by Rs 10 to Rs 2,820 from November 1",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/inflation-alert-commercial-lpg-cylinder-price-hits-2820-marking-third-consecutive-hike-amid-festive-season/articleshow/135417739.cms",
+        "published": "2026-11-01T04:29:51Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
