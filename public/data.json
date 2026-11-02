@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-01T22:41:10.040Z",
+    "generated_at": "2026-11-02T01:53:08.532Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Iran Holds to Seven Conditions as U.S. Prepares Post-Midterm Strike Options",
+        "source": "Thegatewaypundit.com",
+        "url": "https://www.thegatewaypundit.com/2026/10/iran-holds-seven-conditions-as-u-s-prepares/",
+        "published": "2026-11-01T01:00:16Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Reliance Industries expands fuel exports to Africa, Europe as West Asia conflict disrupts supplies",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/reliance-industries-expands-fuel-exports-to-africa-europe-as-west-asia-conflict-disrupts-supplies/articleshow/135409711.cms",
+        "published": "2026-11-01T00:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Iranian Fuel, Russian and Chinese Jets: Who Keeps Burma’s Junta Bombing Civilians?",
         "source": "Thegatewaypundit.com",
         "url": "https://www.thegatewaypundit.com/2026/10/iranian-fuel-russian-chinese-jets-who-keeps-burmas/",
@@ -46,20 +60,6 @@
         "url": "https://punchng.com/iran-warns-us-israel-against-new-attacks-after-trump-netanyahu-threats/",
         "published": "2026-10-31T17:40:05Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Trump’s Iran War Brings On Record Oil Company Profits",
-        "source": "Mother Jones",
-        "url": "https://www.motherjones.com/politics/2026/10/trumps-iran-war-brings-on-record-oil-company-profits/",
-        "published": "2026-10-31T15:58:58Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Q2 Results Highlights, Oct 31: NTPC, Quess Corp, Best Agrolife, Eveready Industries, CDSL, Muthoot Finance, Aditya Birla Fashion post profit growth; IGL, Tilaknagar Industries, Birla Corp report profit decline",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/q2-results-highlights-ntpc-muthoot-finance-shyam-metalics-amp-energy-sarda-energy-and-minerals-zen-technologies-national-securities-depository-rainbowc-childrens-medicare-company-results-31-oc/article71648157.ece",
-        "published": "2026-10-31T14:45:06Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
