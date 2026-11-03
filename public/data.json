@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-03T01:50:40.764Z",
+    "generated_at": "2026-11-03T09:21:48.776Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "2-Pack Promitop Bamboo Bed Tray Tables w/ Folding Legs (Bamboo, Black or White) $9.99 + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20241858-2-pack-promitop-bamboo-bed-tray-tables-w-folding-legs-bamboo-black-or-white-9-99-free-shipping-w-prime-or-on-35",
-        "published": "2026-11-02T01:44:54Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "24-Oz BioAdvanced Organics Neem Oil Garden Insect Killer Spray $5 + Free S&H",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20239557-bioadvanced-organics-neem-oil-spray24fl-oz-omri-listed-4-98-at-lowe-s",
-        "published": "2026-11-02T01:38:44Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil prices fall over 1% as Iran-Qatar talks raise hopes of diplomatic progress",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/oil-prices-fall-over-1-as-iran-qatar-talks-raise-hopes-of-diplomatic-progress/article71655114.ece",
-        "published": "2026-11-02T01:27:34Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Oil Prices No Longer Follow Headlines",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-No-Longer-Follow-Headlines.html",
-        "published": "2026-11-02T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iranian ‘ghost fleet’ filmed evading US blockade en route to China, UANI says",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/iranian-ghost-fleet-filmed-evading-us-blockade-en-route-china-uani-says",
-        "published": "2026-11-01T23:28:38Z",
+        "title": "U.S. strikes Iranian targets in the Strait of Hormuz on eve of midterms",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/us/articles/where-things-stand-iran-tense-085523514.html",
+        "published": "2026-11-02T08:55:23Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Oil eases 3% on optimism for talks on ending Iran war",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/1102/1597595-world-oil-prices/",
+        "published": "2026-11-02T08:47:34Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "World's energy supply buffers have been eroded, ADNOC CEO says",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/worlds-energy-supply-buffers-have-been-eroded-adnoc-ceo-says/article71655703.ece",
+        "published": "2026-11-02T07:30:53Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Nikkei Slips Below 63,100 as Kioxia Outlook and Wall Street Tech Rout Rattle Japan's Chip Stocks Again",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/japanese-shares-kioxia-outlook-us-tech-selloff-1877721",
+        "published": "2026-11-02T06:52:03Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Nifty 50 Jumps Over 1% Past 23,300 as Reliance Rockets 7% in Its Best Session Since 2020, Defying Wall Street",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/indian-stocks-rally-reliance-lifts-nifty-50-1877719",
+        "published": "2026-11-02T06:51:12Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "China Coast Guard Conducts Routine Patrols in Waters East of Taiwan",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-11-02-china-coast-guard-conducts-patrols-east-taiwan.html",
+        "published": "2026-11-02T06:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The history of rope making",
         "source": "Energyskeptic.com",
@@ -90,13 +97,6 @@
         "url": "https://economictimes.indiatimes.com/magazines/panache/it-looks-like-world-war-iii-historian-sarah-paine-gives-chilling-warning-on-global-conflict-explains-why-nuclear-weapons-may-not-keep-the-world-safe/articleshow/135363675.cms",
         "published": "2026-10-30T14:20:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "‘Operation Supercharge’: Japan and U.S. agree to develop Japanese missile facility—a ‘strong, quiet and clear’ message against China’s naval activity",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/10/29/japan-us-missile-facility-china-naval-activity/",
-        "published": "2026-10-29T17:35:59Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
