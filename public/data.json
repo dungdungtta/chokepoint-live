@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-02T19:42:37.614Z",
+    "generated_at": "2026-11-03T01:50:40.764Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Saudi-backed Yemeni forces claim to have thwarted advancing Houthis",
-        "source": "Rt-english.com",
-        "url": "https://rt-english.com/news/648207-saudi-backed-yemeni-forces-claim-thwarted-advancing-houthis/",
-        "published": "2026-11-01T18:30:04Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Most of the Russian ships were unregistered and sailed without transponders",
-        "source": "Isegoria.net",
-        "url": "https://www.isegoria.net/2026/11/most-of-the-russian-ships-were-unregistered-and-sailed-without-transponders/",
-        "published": "2026-11-01T17:48:26Z",
+        "title": "2-Pack Promitop Bamboo Bed Tray Tables w/ Folding Legs (Bamboo, Black or White) $9.99 + Free Shipping w/ Prime or on $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20241858-2-pack-promitop-bamboo-bed-tray-tables-w-folding-legs-bamboo-black-or-white-9-99-free-shipping-w-prime-or-on-35",
+        "published": "2026-11-02T01:44:54Z",
         "sentiment": "watch"
       },
       {
-        "title": "Propane is back in Morbi, but rising prices cloud ceramic makers’ recovery",
+        "title": "24-Oz BioAdvanced Organics Neem Oil Garden Insect Killer Spray $5 + Free S&H",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20239557-bioadvanced-organics-neem-oil-spray24fl-oz-omri-listed-4-98-at-lowe-s",
+        "published": "2026-11-02T01:38:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil prices fall over 1% as Iran-Qatar talks raise hopes of diplomatic progress",
         "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/companies/propane-is-back-in-morbi-but-rising-prices-cloud-ceramic-makers-recovery/article71653570.ece",
-        "published": "2026-11-01T15:49:01Z",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/oil-prices-fall-over-1-as-iran-qatar-talks-raise-hopes-of-diplomatic-progress/article71655114.ece",
+        "published": "2026-11-02T01:27:34Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Oil Prices No Longer Follow Headlines",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-No-Longer-Follow-Headlines.html",
+        "published": "2026-11-02T00:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "OPEC+ keeps December oil output targets steady as Iran war continues to disrupt flows - Reuters",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186546035",
-        "published": "2026-11-01T14:13:08Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Somali pirates seize Iranian fishing vessel, raising fears of attacks on cargo ships",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/somali-pirates-seize-iranian-fishing-vessel-raising-fears-137745870",
-        "published": "2026-11-01T14:01:35Z",
+        "title": "Iranian ‘ghost fleet’ filmed evading US blockade en route to China, UANI says",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/iranian-ghost-fleet-filmed-evading-us-blockade-en-route-china-uani-says",
+        "published": "2026-11-01T23:28:38Z",
         "sentiment": "danger"
       }
     ],
