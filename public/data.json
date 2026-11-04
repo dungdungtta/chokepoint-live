@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-11-04T17:54:41.163Z",
+    "generated_at": "2026-11-04T23:30:42.843Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 123.1,
-      "change_pct": -3.9,
-      "date": "2026-10-27",
+      "price": 107.03,
+      "change_pct": -0.3,
+      "date": "2026-11-03",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Hormuz Standoff Leaves Both Sides With Economic Pain",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/hormuz-standoff-leaves-both-sides-with-economic-pain/",
-        "published": "2026-11-03T17:47:08Z",
+        "title": "[SnS, AC] $4.55* | 4.2-Oz Neutrogena Oil-Free Acne Face Wash w/ 2% Salicylic Acid at Amazon",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20251557-sns-ac-4-55-4-2-oz-neutrogena-oil-free-acne-face-wash-w-2-salicylic-acid-at-amazon",
+        "published": "2026-11-03T21:05:50Z",
         "sentiment": "watch"
       },
       {
-        "title": "Hormuz Oil Flows Unlikely to Return to Pre-War Levels, Rystad Says",
+        "title": "Donald Trump may love the Middle East to death",
+        "source": "Www.nrc.nl",
+        "url": "https://www.nrc.nl/nieuws/2026/11/03/donald-trump-may-love-the-middle-east-to-death-a4940150",
+        "published": "2026-11-03T21:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Why Supplying Europe With LNG Has a Best-Before Date",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Oil-Flows-Unlikely-to-Return-to-Pre-War-Levels-Rystad-Says.html",
-        "published": "2026-11-03T17:30:00Z",
+        "url": "https://oilprice.com/Energy/Natural-Gas/Why-Supplying-Europe-With-LNG-Has-a-Best-Before-Date.html",
+        "published": "2026-11-03T21:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump's Midterm Gas Price Pledge Gets a Boost as Crude Falls Below $95 Despite Fresh Iran Strikes",
+        "source": "Radaronline.com",
+        "url": "https://radaronline.com/p/trumps-midterm-gas-price-pledge-boost-crude-falls-below-iran-strikes/",
+        "published": "2026-11-03T19:21:58Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump Bombs Iran, Talks Peace, and Sends Oil Prices Tumbling",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Trump-Bombs-Iran-Talks-Peace-and-Sends-Oil-Prices-Tumbling.html",
-        "published": "2026-11-03T16:43:43Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "From industrial powerhouse to uncertain future: lessons from Britain’s chemical industry",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/from-industrial-powerhouse-to-uncertain-future-lessons-from-britains-chemical-industry-291818",
-        "published": "2026-11-03T16:08:05Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Gas prices could shape the midterms. See the US states where prices have risen the most.",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/gas-prices-midterms-states-rising-most-2026-11#article",
-        "published": "2026-11-03T16:04:23Z",
+        "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis",
+        "published": "2026-11-03T19:09:09Z",
         "sentiment": "watch"
       }
     ],
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
