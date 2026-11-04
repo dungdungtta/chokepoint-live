@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-04T02:39:19.398Z",
+    "generated_at": "2026-11-04T17:54:41.163Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump: Iran Wants Settlement ‘as Soon as Possible’ — Says Deal ‘Could Happen’",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/11/02/trump-iran-wants-settlement-soon-possible-deal-happen/",
-        "published": "2026-11-03T02:21:54Z",
+        "title": "Hormuz Standoff Leaves Both Sides With Economic Pain",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/hormuz-standoff-leaves-both-sides-with-economic-pain/",
+        "published": "2026-11-03T17:47:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "US launches ‘defensive’ strikes after Iran downs American drone (VIDEO)",
-        "source": "Rt-english.com",
-        "url": "https://rt-english.com/news/648262-us-iran-queshm-strikes/",
-        "published": "2026-11-03T02:21:12Z",
+        "title": "Hormuz Oil Flows Unlikely to Return to Pre-War Levels, Rystad Says",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Oil-Flows-Unlikely-to-Return-to-Pre-War-Levels-Rystad-Says.html",
+        "published": "2026-11-03T17:30:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "US Strikes Iranian Island As Trump Downplays Prospect Of New War",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/33889371.html",
-        "published": "2026-11-03T02:15:24Z",
-        "sentiment": "danger"
+        "title": "Trump Bombs Iran, Talks Peace, and Sends Oil Prices Tumbling",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Trump-Bombs-Iran-Talks-Peace-and-Sends-Oil-Prices-Tumbling.html",
+        "published": "2026-11-03T16:43:43Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "US had good conversations with Iran on finding deal to end conflict: Vance",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/us-had-good-conversations-with-iran-on-finding-deal-to-end-conflict-vance-126110300076_1.html",
-        "published": "2026-11-03T02:11:17Z",
+        "title": "From industrial powerhouse to uncertain future: lessons from Britain’s chemical industry",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/from-industrial-powerhouse-to-uncertain-future-lessons-from-britains-chemical-industry-291818",
+        "published": "2026-11-03T16:08:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "U.S. military carries out limited strikes on Iran’s Qeshm Island, U.S. officials say",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/us-conducted-defensive-strikes-iranian-targets-strait-hormuz-us-offici-rcna607161",
-        "published": "2026-11-03T02:06:40Z",
-        "sentiment": "danger"
+        "title": "Gas prices could shape the midterms. See the US states where prices have risen the most.",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/gas-prices-midterms-states-rising-most-2026-11#article",
+        "published": "2026-11-03T16:04:23Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
