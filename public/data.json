@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-03T22:28:34.424Z",
+    "generated_at": "2026-11-04T02:39:19.398Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "17\"x60\" COSY HOMEER Non-Slip Washable Kitchen Rug (Green, Grey or Taupe) $14.99 + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20246601-17-x60-cosy-homeer-non-slip-washable-kitchen-rug-green-grey-or-taupe-14-99-free-shipping-w-prime-or-on-35",
-        "published": "2026-11-02T22:00:18Z",
+        "title": "Trump: Iran Wants Settlement ‘as Soon as Possible’ — Says Deal ‘Could Happen’",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/11/02/trump-iran-wants-settlement-soon-possible-deal-happen/",
+        "published": "2026-11-03T02:21:54Z",
         "sentiment": "watch"
       },
       {
-        "title": "Alternative-Fuel Ship Orders Outpace Port Bunkering Infrastructure, Lloyd’s Register Warns",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/alternative-fuel-ship-orders-outpace-port-bunkering-infrastructure-lloyds-register-warns/",
-        "published": "2026-11-02T21:06:16Z",
+        "title": "US launches ‘defensive’ strikes after Iran downs American drone (VIDEO)",
+        "source": "Rt-english.com",
+        "url": "https://rt-english.com/news/648262-us-iran-queshm-strikes/",
+        "published": "2026-11-03T02:21:12Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil Prices Sink as Iran Signals Talks",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_prices_sink_as_iran_signals_talks-02-nov-2026-184993-article/",
-        "published": "2026-11-02T20:39:48Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Sanctioned Iranian Tanker Slips Past U.S. Blockade, Delivers Cargo to China",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Sanctioned-Iranian-Tanker-Slips-Past-US-Blockade-Delivers-Cargo-to-China.html",
-        "published": "2026-11-02T20:00:00Z",
+        "title": "US Strikes Iranian Island As Trump Downplays Prospect Of New War",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/33889371.html",
+        "published": "2026-11-03T02:15:24Z",
         "sentiment": "danger"
       },
       {
-        "title": "Energy shares fall on Strait of Hormuz signals as European banking proves to be safe bet",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/2026/11/02/energy-shares-fall-on-strait-of-hormuz-signals-as-european-banking-proves-to-be-safe-bet/",
-        "published": "2026-11-02T18:28:34Z",
+        "title": "US had good conversations with Iran on finding deal to end conflict: Vance",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/us-had-good-conversations-with-iran-on-finding-deal-to-end-conflict-vance-126110300076_1.html",
+        "published": "2026-11-03T02:11:17Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "U.S. military carries out limited strikes on Iran’s Qeshm Island, U.S. officials say",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/us-conducted-defensive-strikes-iranian-targets-strait-hormuz-us-offici-rcna607161",
+        "published": "2026-11-03T02:06:40Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific",
+        "published": "2026-11-02T23:41:18Z",
+        "sentiment": "danger"
+      },
       {
         "title": "How Iran Just Broke the U.S. Oil Shield In Saudi Arabia Yet Again",
         "source": "OilPrice.com",
@@ -90,13 +97,6 @@
         "url": "https://fortune.com/2026/10/31/how-southeast-asia-can-realize-its-commercial-promise-amid-geopolitical-rivalry/",
         "published": "2026-10-31T05:00:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Apec 2026: Who will represent New Zealand at the Shenzhen summit? - Fran O’Sullivan",
-        "source": "New Zealand Herald",
-        "url": "https://www.nzherald.co.nz/business/economy/apec-2026-who-will-represent-new-zealand-at-the-shenzhen-summit-fran-osullivan/premium/TIRKEZRXWJBE3PJX75TGX53N7E/",
-        "published": "2026-10-30T20:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -118,7 +118,7 @@
   },
   "zones": {
     "hormuz": "red",
-    "taiwan": "yellow",
+    "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
     "panama": "yellow",
