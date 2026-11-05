@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-04T23:30:42.843Z",
+    "generated_at": "2026-11-05T03:45:04.830Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "[SnS, AC] $4.55* | 4.2-Oz Neutrogena Oil-Free Acne Face Wash w/ 2% Salicylic Acid at Amazon",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20251557-sns-ac-4-55-4-2-oz-neutrogena-oil-free-acne-face-wash-w-2-salicylic-acid-at-amazon",
-        "published": "2026-11-03T21:05:50Z",
+        "title": "Stock Market LIVE: GIFT Nifty signals negative open; Asia markets decline; Brent near $103",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/stock-market-live-november-4-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126110400107_1.html",
+        "published": "2026-11-04T02:29:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "Donald Trump may love the Middle East to death",
-        "source": "Www.nrc.nl",
-        "url": "https://www.nrc.nl/nieuws/2026/11/03/donald-trump-may-love-the-middle-east-to-death-a4940150",
-        "published": "2026-11-03T21:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why Supplying Europe With LNG Has a Best-Before Date",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Natural-Gas/Why-Supplying-Europe-With-LNG-Has-a-Best-Before-Date.html",
-        "published": "2026-11-03T21:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump's Midterm Gas Price Pledge Gets a Boost as Crude Falls Below $95 Despite Fresh Iran Strikes",
-        "source": "Radaronline.com",
-        "url": "https://radaronline.com/p/trumps-midterm-gas-price-pledge-boost-crude-falls-below-iran-strikes/",
-        "published": "2026-11-03T19:21:58Z",
+        "title": "Tucker Carlson says Trump is on the brink of a nuclear strike against Iran. Now, military experts map the horrifying path to WW3",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16259219/tucker-carlson-trump-nuclear-iran.html",
+        "published": "2026-11-04T02:08:23Z",
         "sentiment": "danger"
       },
       {
-        "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis",
-        "published": "2026-11-03T19:09:09Z",
+        "title": "Godiva Masterpiece Dark Chocolate Ganache 4.1-oz. Bag for $6 + free shipping w/ $35",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Godiva-Masterpiece-Dark-Chocolate-Ganache-4-1-oz-Bag-for-6-free-shipping-w-35/22342591.html",
+        "published": "2026-11-04T01:59:44Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Akume, Lokpobiri, others to speak at 10th Africa Energy Summit",
+        "source": "The Punch",
+        "url": "https://punchng.com/akume-lokpobiri-others-to-speak-at-10th-africa-energy-summit/",
+        "published": "2026-11-03T23:36:42Z",
         "sentiment": "watch"
       }
     ],
