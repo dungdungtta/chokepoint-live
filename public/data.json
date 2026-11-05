@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-05T11:38:21.121Z",
+    "generated_at": "2026-11-05T19:02:42.996Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Market Weighs Next Stage in Iran Conflict After Midterms",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/oil_market_weighs_next_stage_in_iran_conflict_after_midterms-04-nov-2026-185004-article/",
-        "published": "2026-11-04T11:07:48Z",
+        "title": "The Beard Club Advanced Beard Growth Kit w/ Derma Roller, Oil, Vitamins, Spray, Shampoo, & Brush for $49 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/The-Beard-Club-Advanced-Beard-Growth-Kit-w-Derma-Roller-Oil-Vitamins-Spray-Shampoo-Brush-for-49-free-shipping/22346823.html",
+        "published": "2026-11-04T18:06:16Z",
         "sentiment": "watch"
       },
       {
-        "title": "Agenda 2030 Is Rolling Out Live: The Real Two-Party System Behind The Curtain",
-        "source": "Activistpost.com",
-        "url": "https://activistpost.com/agenda-2030-is-rolling-out-live-the-real-two-party-system-behind-the-curtain/",
-        "published": "2026-11-04T11:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "MRPL shifts to delivered-basis crude oil purchases to reduce shipping risks",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/mrpl-shifts-to-delivered-basis-crude-oil-purchases-to-reduce-shipping-risks/article71664819.ece",
-        "published": "2026-11-04T09:52:06Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Who determines Iran’s fighting and negotiating position amid US threats?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/4/who-determines-irans-fighting-and-negotiating-position-amid-us-threats",
-        "published": "2026-11-04T09:16:57Z",
+        "title": "Iranian Official Mocks Trump's Election Setback With 'NO TO WAR' Message After Democrats Win Congress",
+        "source": "Radaronline.com",
+        "url": "https://radaronline.com/p/iranian-official-mocks-trumps-election-setback-with-no-to-war-message-after-democrats-win-congress/",
+        "published": "2026-11-04T17:59:10Z",
         "sentiment": "danger"
       },
       {
-        "title": "MRPL boosts delivered oil buying as Iran war raises shipping risks",
+        "title": "$100 Million Tanker Dispute Raises Stakes in Mercuria’s Baltic Exchange Lawsuit",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/100-million-tanker-dispute-raises-stakes-in-mercurias-baltic-exchange-lawsuit/",
+        "published": "2026-11-04T17:55:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US oil prices crash below $90 as JD Vance blames Iran War for GOP election loss: WTI falls to $88.92, Brent drops to $94.82, but will gas prices follow?",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/mrpl-boosts-delivered-oil-buying-as-iran-war-raises-shipping-risks/articleshow/135532794.cms",
-        "published": "2026-11-04T08:57:14Z",
+        "url": "https://economictimes.indiatimes.com/news/international/us/us-oil-prices-crash-below-90-as-jd-vance-blames-iran-war-for-gop-election-loss-wti-falls-to-88-92-brent-drops-to-94-82-but-will-gas-prices-follow/articleshow/135546474.cms",
+        "published": "2026-11-04T17:49:01Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "The Beard Club 8-Piece Beard Grooming Kit w/ Straight Razor for $21 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/The-Beard-Club-8-Piece-Beard-Grooming-Kit-w-Straight-Razor-for-21-free-shipping-w-Prime/22346787.html",
+        "published": "2026-11-04T17:40:27Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "11/4/26 National Security and Korean News and Commentary",
+        "source": "Smallwarsjournal.com",
+        "url": "https://smallwarsjournal.com/2026/11/04/11-4-26-national-security-and-korean-news-and-commentary/",
+        "published": "2026-11-04T18:55:37Z",
+        "sentiment": "watch"
+      },
       {
         "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
         "source": "Al Jazeera English",
@@ -89,13 +96,6 @@
         "source": "Energyskeptic.com",
         "url": "https://energyskeptic.com/2026/the-history-of-rope-making/",
         "published": "2026-10-31T12:56:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How Southeast Asia can realize its commercial promise amid geopolitical rivalry",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/10/31/how-southeast-asia-can-realize-its-commercial-promise-amid-geopolitical-rivalry/",
-        "published": "2026-10-31T05:00:00Z",
         "sentiment": "watch"
       }
     ],
