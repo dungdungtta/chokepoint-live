@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-05T03:45:04.830Z",
+    "generated_at": "2026-11-05T11:38:21.121Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Stock Market LIVE: GIFT Nifty signals negative open; Asia markets decline; Brent near $103",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/stock-market-live-november-4-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126110400107_1.html",
-        "published": "2026-11-04T02:29:43Z",
+        "title": "Oil Market Weighs Next Stage in Iran Conflict After Midterms",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/oil_market_weighs_next_stage_in_iran_conflict_after_midterms-04-nov-2026-185004-article/",
+        "published": "2026-11-04T11:07:48Z",
         "sentiment": "watch"
       },
       {
-        "title": "Tucker Carlson says Trump is on the brink of a nuclear strike against Iran. Now, military experts map the horrifying path to WW3",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16259219/tucker-carlson-trump-nuclear-iran.html",
-        "published": "2026-11-04T02:08:23Z",
+        "title": "Agenda 2030 Is Rolling Out Live: The Real Two-Party System Behind The Curtain",
+        "source": "Activistpost.com",
+        "url": "https://activistpost.com/agenda-2030-is-rolling-out-live-the-real-two-party-system-behind-the-curtain/",
+        "published": "2026-11-04T11:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "MRPL shifts to delivered-basis crude oil purchases to reduce shipping risks",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/mrpl-shifts-to-delivered-basis-crude-oil-purchases-to-reduce-shipping-risks/article71664819.ece",
+        "published": "2026-11-04T09:52:06Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Who determines Iran’s fighting and negotiating position amid US threats?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/11/4/who-determines-irans-fighting-and-negotiating-position-amid-us-threats",
+        "published": "2026-11-04T09:16:57Z",
         "sentiment": "danger"
       },
       {
-        "title": "Godiva Masterpiece Dark Chocolate Ganache 4.1-oz. Bag for $6 + free shipping w/ $35",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Godiva-Masterpiece-Dark-Chocolate-Ganache-4-1-oz-Bag-for-6-free-shipping-w-35/22342591.html",
-        "published": "2026-11-04T01:59:44Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Akume, Lokpobiri, others to speak at 10th Africa Energy Summit",
-        "source": "The Punch",
-        "url": "https://punchng.com/akume-lokpobiri-others-to-speak-at-10th-africa-energy-summit/",
-        "published": "2026-11-03T23:36:42Z",
-        "sentiment": "watch"
+        "title": "MRPL boosts delivered oil buying as Iran war raises shipping risks",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/mrpl-boosts-delivered-oil-buying-as-iran-war-raises-shipping-risks/articleshow/135532794.cms",
+        "published": "2026-11-04T08:57:14Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
