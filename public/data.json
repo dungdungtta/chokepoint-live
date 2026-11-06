@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-06T00:20:10.752Z",
+    "generated_at": "2026-11-06T07:15:24.847Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Butane’s Perfect Storm Sends Prices to Decade Highs",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Natural-Gas/Butanes-Perfect-Storm-Sends-Prices-to-Decade-Highs.html",
-        "published": "2026-11-05T00:00:00Z",
+        "title": "21-Ct 1.05-Oz Biena Edamame Beans High Protein Snacks (Variety Pack) $13.30 w/ S&S",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20257128-biena-edamame-beans-snack-high-protein-snacks-21-ct-edamame-variety-pk-gluten-free-vegan-12g-of-protein-130-low-calorie-crunchy-for-14",
+        "published": "2026-11-05T06:28:02Z",
         "sentiment": "watch"
       },
       {
-        "title": "JetBlue raises baggage fees for a second time as jet fuel prices stay elevated",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/jetblue-raises-baggage-fees-time-jet-fuel-prices-137861595",
-        "published": "2026-11-04T23:56:03Z",
+        "title": "Iran’s Regional Security Framework: A New Era for West Asia Without Foreign Military Presence?",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-11-05-new-era-west-asia-without-foreign-military-presence.html",
+        "published": "2026-11-05T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US-Iran conflict to cut global fuel demand by 2.4mbpd",
-        "source": "The Punch",
-        "url": "https://punchng.com/us-iran-conflict-to-cut-global-fuel-demand-by-2-4mbpd/",
-        "published": "2026-11-04T23:50:40Z",
+        "title": "South Korea to deploy military mission to help keep Hormuz open",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/south-korea-to-deploy-military-mission-to-help-keep-hormuz-open-229033",
+        "published": "2026-11-05T05:51:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "Coast Guard Looks to Commercial Icebreakers to Keep Northeast Ports Open This Winter",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/coast-guard-looks-to-commercial-icebreakers-to-keep-northeast-ports-open-this-winter/",
-        "published": "2026-11-04T22:05:03Z",
+        "title": "Australia's biggest oil and gas company to axe 500 jobs",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-11-05/woodside-energy-to-slash-more-than-500-jobs/107349938",
+        "published": "2026-11-05T03:53:31Z",
         "sentiment": "watch"
       },
       {
-        "title": "Fox’s Laura Ingraham Fumes at GOP ‘Losing Everything’ Over Iran",
-        "source": "Mediaite",
-        "url": "https://www.mediaite.com/media/news/foxs-laura-ingraham-fumes-at-gop-losing-everything-over-iran/",
-        "published": "2026-11-04T21:38:03Z",
+        "title": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans",
+        "published": "2026-11-05T03:46:13Z",
         "sentiment": "watch"
       }
     ],
