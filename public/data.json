@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-06T15:18:11.534Z",
+    "generated_at": "2026-11-06T21:00:06.971Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "DHL expects to hit 2026 targets despite high fuel costs",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/1105/1598145-dhl-expects-to-hit-2026-targets/",
-        "published": "2026-11-05T14:27:27Z",
+        "title": "US escalates economic campaign against Cuba and targets China-based suppliers",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Politics/wireStory/us-escalates-economic-campaign-cuba-targets-china-based-137890475",
+        "published": "2026-11-05T20:30:45Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil Prices Rebound Sharply After Brutal Midweek Rout",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rebound-Sharply-After-Brutal-Midweek-Rout.html",
+        "published": "2026-11-05T19:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "The hidden supply chain costs of the AI boom",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
-        "published": "2026-11-05T14:03:27Z",
+        "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack",
+        "published": "2026-11-05T18:47:10Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Infina Essentials Rosemary & Peppermint Shampoo & Conditioner Set for $24 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Infina-Essentials-Rosemary-Peppermint-Shampoo-Conditioner-Set-for-24-free-shipping-w-Prime/22351392.html",
+        "published": "2026-11-05T18:32:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "Energy Edits Newsletter for November 5, 2026",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/newsletter/bl-energy/energy-edits-newsletter-for-november-5-2026/article71669968.ece",
-        "published": "2026-11-05T12:47:55Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Put the Ocean at the Center of COP31",
-        "source": "Project Syndicate",
-        "url": "https://www.project-syndicate.org/commentary/cop31-must-focus-on-oceans-marine-health-by-peter-thomson-2026-11",
-        "published": "2026-11-05T12:32:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Midterm Elections: Democrats won Congress. Can they bring gas prices below $4? Here’s what can happen next",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/us-midterm-elections-democrats-won-congress-can-they-bring-gas-prices-below-4-heres-what-can-happen-next/articleshow/135572373.cms",
-        "published": "2026-11-05T12:31:26Z",
+        "title": "Guyana’s Oil Boom Could Ease the Global Supply Crunch",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Guyanas-Oil-Boom-Could-Ease-the-Global-Supply-Crunch.html",
+        "published": "2026-11-05T17:00:00Z",
         "sentiment": "watch"
       }
     ],
