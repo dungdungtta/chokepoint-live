@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-07T00:51:28.768Z",
+    "generated_at": "2026-11-07T06:58:55.484Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "States spend N45bn fuelling vehicles, generators in six months",
-        "source": "The Punch",
-        "url": "https://punchng.com/states-spend-n45bn-fuelling-vehicles-generators-in-six-months/",
-        "published": "2026-11-06T00:49:52Z",
+        "title": "Trump administration expands Cuba sanctions, targets military, shipping networks",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-11-06-trump-expands-cuba-sanctions-targets-military-shipping-networks.html",
+        "published": "2026-11-06T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "JD Vance singled out Iran War for midterm rout – he didn’t say what should happen next in conflict",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/jd-vance-singled-out-iran-war-for-midterm-rout-he-didnt-say-what-should-happen-next-in-conflict-295938",
-        "published": "2026-11-06T00:31:57Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S. Shale Giants Hold Back on Drilling Despite Higher Oil Prices",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/US-Shale-Giants-Hold-Back-on-Drilling-Despite-Higher-Oil-Prices.html",
-        "published": "2026-11-06T00:00:00Z",
+        "title": "Markets fret over growth and inflation despite easing oil prices",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/markets-fret-over-growth-and-inflation-despite-easing-oil-prices-6530261",
+        "published": "2026-11-06T05:23:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "1975 Kawasaki KT250 Trial at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1975-kawasaki-kt250-trial/",
-        "published": "2026-11-05T23:35:10Z",
+        "title": "Markets fret over growth and inflation, just as tech rout gains speed",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/markets-fret-over-growth-and-inflation-just-tech-rout-gains-speed-6530261",
+        "published": "2026-11-06T05:23:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "Maersk Raises Guidance Again as Congestion Lifts Rates Despite Falling Volumes",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/logistics/maersk-raises-guidance-again-port-congestion-lifts-freight-rates-q3-1239403347/",
-        "published": "2026-11-05T21:51:13Z",
+        "title": "The Iran distemper",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/blog/2026/11/the-iran-distemper/",
+        "published": "2026-11-06T05:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "3.95\" Trimui Brick Pro Retro Handheld Game Console (No Card) $67.75 + Free S&H",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20260644-trimui-brick-pro-3-95-inch-ips-linux-handheld-5000mah-battery-white-67-7-free-shipping",
+        "published": "2026-11-06T04:55:01Z",
         "sentiment": "watch"
       }
     ],
