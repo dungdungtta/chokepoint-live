@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-06T21:00:06.971Z",
+    "generated_at": "2026-11-07T00:51:28.768Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US escalates economic campaign against Cuba and targets China-based suppliers",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Politics/wireStory/us-escalates-economic-campaign-cuba-targets-china-based-137890475",
-        "published": "2026-11-05T20:30:45Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil Prices Rebound Sharply After Brutal Midweek Rout",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rebound-Sharply-After-Brutal-Midweek-Rout.html",
-        "published": "2026-11-05T19:30:00Z",
+        "title": "States spend N45bn fuelling vehicles, generators in six months",
+        "source": "The Punch",
+        "url": "https://punchng.com/states-spend-n45bn-fuelling-vehicles-generators-in-six-months/",
+        "published": "2026-11-06T00:49:52Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack",
-        "published": "2026-11-05T18:47:10Z",
+        "title": "JD Vance singled out Iran War for midterm rout – he didn’t say what should happen next in conflict",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/jd-vance-singled-out-iran-war-for-midterm-rout-he-didnt-say-what-should-happen-next-in-conflict-295938",
+        "published": "2026-11-06T00:31:57Z",
         "sentiment": "danger"
       },
       {
-        "title": "Infina Essentials Rosemary & Peppermint Shampoo & Conditioner Set for $24 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Infina-Essentials-Rosemary-Peppermint-Shampoo-Conditioner-Set-for-24-free-shipping-w-Prime/22351392.html",
-        "published": "2026-11-05T18:32:39Z",
+        "title": "U.S. Shale Giants Hold Back on Drilling Despite Higher Oil Prices",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/US-Shale-Giants-Hold-Back-on-Drilling-Despite-Higher-Oil-Prices.html",
+        "published": "2026-11-06T00:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Guyana’s Oil Boom Could Ease the Global Supply Crunch",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Guyanas-Oil-Boom-Could-Ease-the-Global-Supply-Crunch.html",
-        "published": "2026-11-05T17:00:00Z",
+        "title": "1975 Kawasaki KT250 Trial at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1975-kawasaki-kt250-trial/",
+        "published": "2026-11-05T23:35:10Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Maersk Raises Guidance Again as Congestion Lifts Rates Despite Falling Volumes",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/maersk-raises-guidance-again-port-congestion-lifts-freight-rates-q3-1239403347/",
+        "published": "2026-11-05T21:51:13Z",
         "sentiment": "watch"
       }
     ],
