@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-07T13:54:56.766Z",
+    "generated_at": "2026-11-07T18:37:29.700Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Market Arrives at 'Remarkable Destination'",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/oil_market_arrives_at_remarkable_destination-06-nov-2026-185028-article/",
-        "published": "2026-11-06T13:19:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Indonesia raises DSI's authorized capital to Rp4 trillion",
-        "source": "Antaranews.com",
-        "url": "https://en.antaranews.com/news/440879/indonesia-raises-dsis-authorized-capital-to-rp4-trillion",
-        "published": "2026-11-06T13:14:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How Will the Blue Tsunami Affect Latin America?",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/11/06/us-midterm-election-latin-america-trump-boat-strikes-venezuela/",
-        "published": "2026-11-06T13:00:32Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
+        "title": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
         "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know",
-        "published": "2026-11-06T12:57:33Z",
+        "url": "https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold",
+        "published": "2026-11-06T18:23:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump holds call with mediator Qatar about Iran de-escalation",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-holds-call-with-mediator-qatar-about-iran-de-escalation/articleshow/135617393.cms",
+        "published": "2026-11-06T18:08:51Z",
         "sentiment": "danger"
       },
       {
-        "title": "Current price of oil as of November 6, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-11-06-2026/",
-        "published": "2026-11-06T12:45:00Z",
+        "title": "Iran war: Gulf tanker attacked, 1 seaferer killed",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270",
+        "published": "2026-11-06T17:47:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Vladimir Putin Welcomes Top Iran Security Official with Message from Missing 'Supreme Leader'",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/11/06/vladimir-putin-welcomes-top-iran-security-official-with-message-from-missing-supreme-leader/",
+        "published": "2026-11-06T17:37:07Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S. Targets Cuba’s Oil Tanker Fleet in New Sanctions Crackdown",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/u-s-targets-cubas-oil-tanker-fleet-in-new-sanctions-crackdown/",
+        "published": "2026-11-06T17:11:47Z",
         "sentiment": "watch"
       }
     ],
