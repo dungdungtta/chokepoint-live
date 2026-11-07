@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-07T18:37:29.700Z",
+    "generated_at": "2026-11-07T22:20:28.820Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold",
-        "published": "2026-11-06T18:23:11Z",
+        "title": "Oil Posts Biggest Weekly Drop Since 2022",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_posts_biggest_weekly_drop_since_2022-06-nov-2026-185035-article/",
+        "published": "2026-11-06T21:05:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump holds call with mediator Qatar about Iran de-escalation",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-holds-call-with-mediator-qatar-about-iran-de-escalation/articleshow/135617393.cms",
-        "published": "2026-11-06T18:08:51Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran war: Gulf tanker attacked, 1 seaferer killed",
+        "title": "Tankers carrying Russian diesel to the US change course",
         "source": "DW (English)",
-        "url": "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270",
-        "published": "2026-11-06T17:47:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Vladimir Putin Welcomes Top Iran Security Official with Message from Missing 'Supreme Leader'",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/11/06/vladimir-putin-welcomes-top-iran-security-official-with-message-from-missing-supreme-leader/",
-        "published": "2026-11-06T17:37:07Z",
+        "url": "https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807",
+        "published": "2026-11-06T20:55:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "U.S. Targets Cuba’s Oil Tanker Fleet in New Sanctions Crackdown",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/u-s-targets-cubas-oil-tanker-fleet-in-new-sanctions-crackdown/",
-        "published": "2026-11-06T17:11:47Z",
+        "title": "Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Traders-Want-US-to-Release-Sanctioned-Tankers-as-Freight-Costs-Soar.html",
+        "published": "2026-11-06T20:30:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "‘Everyone knows why we lost,’ JD Vance points to the Iran war — which has already cost at least $38 billion and 19 American lives",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/11/06/jd-vance-iran-war-midterms-cost/",
+        "published": "2026-11-06T20:18:25Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Energy Reliability Is Becoming More Important Than Energy Politics",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Energy-Reliability-Is-Becoming-More-Important-Than-Energy-Politics.html",
+        "published": "2026-11-06T19:00:00Z",
         "sentiment": "watch"
       }
     ],
