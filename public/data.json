@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-08T08:03:09.807Z",
+    "generated_at": "2026-11-08T15:17:28.090Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Sarbananda Sonowal calls Oil India CMD over Tengakhat fire, urges best medical care for injured",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/national/sarbananda-sonowal-calls-oil-india-cmd-over-tengakhat-fire-urges-best-medical-care-for-injured/article71677560.ece",
-        "published": "2026-11-07T07:33:43Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "AI investment fears drive global stock sell-off",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/ai-investment-fears-drive-global-stock-sell-off-229124",
-        "published": "2026-11-07T06:04:22Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "‘Exponential environmental risks’: Decaying Russian oil tankers threaten Irish west coast",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/ireland/2026/11/07/exponential-environmental-risks-decaying-russian-oil-tankers-threaten-irish-west-coast/",
-        "published": "2026-11-07T06:00:00Z",
+        "title": "Yemen: 22 killed in strike near Sanaa, Houthis say",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177",
+        "published": "2026-11-07T13:50:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "If Trump Resumes attacking Iran, US and Europe will Pay an Extreme Price",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/11/resumes-attacking-extreme.html",
-        "published": "2026-11-07T05:06:16Z",
+        "title": "Yemen: 33 killed in strike near Sanaa, Houthis say",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/yemen-33-killed-in-strike-near-sanaa-houthis-say/a-79885177",
+        "published": "2026-11-07T13:50:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "The intelligence failure behind the midterms",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/blog/2026/11/the-intelligence-failure-behind-the-midterms/",
-        "published": "2026-11-07T05:00:00Z",
+        "title": "Soaring Freight Rates Give US Refiners Edge As Crude Discounts Widen",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/soaring-freight-rates-give-us-refiners-edge-as-crude-discounts-widen/",
+        "published": "2026-11-07T13:36:17Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street - Newsday",
+        "source": "Newsday",
+        "url": "https://www.newsday.com/business/stock-market-winners-losers-defense-ai-musk-h94785",
+        "published": "2026-11-07T13:30:54Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "An airstrike has killed 22 people near Yemen's capital, Houthi official says",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/an-airstrike-has-killed-22-people-near-yemens-capital-houthi-official-says/articleshow/135637173.cms",
+        "published": "2026-11-07T12:50:23Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
