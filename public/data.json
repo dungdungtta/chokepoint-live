@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-08T19:54:14.900Z",
+    "generated_at": "2026-11-08T23:35:10.146Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "4-Pk 6-Oz Stove Top Savory Herbs Stuffing Mix $3.40 w/ S&S",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20267022-stove-top-stuffing-mix-savory-herbs-6-oz-box-versatile-pantry-staple-serve-as-a-side-dish-or-use-as-an-ingredient-6-servings-per-box-great-for-holiday-sides-4-pack-3-22",
+        "published": "2026-11-07T22:57:52Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Airstrikes kill more than 2 dozen people near Yemen's capital, Houthis say",
         "source": "Business Standard",
         "url": "https://www.business-standard.com/world-news/airstrikes-kill-more-than-2-dozen-people-near-yemen-s-capital-houthis-say-126110701261_1.html",
@@ -52,13 +59,6 @@
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Energy/Energy-General/Americas-Hydrogen-Revolution-Stalls-Amid-Funding-Cuts-and-Weak-Demand.html",
         "published": "2026-11-07T16:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Inflation, housing, jobs and corporate earnings will dominate the business calendar this week",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/inflation-housing-jobs-corporate-earnings-dominate-business-calendar-137941014",
-        "published": "2026-11-07T15:59:19Z",
         "sentiment": "watch"
       }
     ],
