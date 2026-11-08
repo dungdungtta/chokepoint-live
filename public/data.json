@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-08T15:17:28.090Z",
+    "generated_at": "2026-11-08T19:54:14.900Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Yemen: 22 killed in strike near Sanaa, Houthis say",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177",
-        "published": "2026-11-07T13:50:00Z",
+        "title": "Airstrikes kill more than 2 dozen people near Yemen's capital, Houthis say",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/airstrikes-kill-more-than-2-dozen-people-near-yemen-s-capital-houthis-say-126110701261_1.html",
+        "published": "2026-11-07T17:09:40Z",
         "sentiment": "danger"
       },
       {
-        "title": "Yemen: 33 killed in strike near Sanaa, Houthis say",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/yemen-33-killed-in-strike-near-sanaa-houthis-say/a-79885177",
-        "published": "2026-11-07T13:50:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Soaring Freight Rates Give US Refiners Edge As Crude Discounts Widen",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/soaring-freight-rates-give-us-refiners-edge-as-crude-discounts-widen/",
-        "published": "2026-11-07T13:36:17Z",
+        "title": "We Are Facing A Global Energy Crisis, A Global Food Crisis, A European Financial Crisis, The End Of The AI Bubble And A Super El Niño All At Once",
+        "source": "Activistpost.com",
+        "url": "https://activistpost.com/we-are-facing-a-global-energy-crisis-a-global-food-crisis-a-european-financial-crisis-the-end-of-the-ai-bubble-and-a-super-el-nino-all-at-once/",
+        "published": "2026-11-07T17:02:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street - Newsday",
-        "source": "Newsday",
-        "url": "https://www.newsday.com/business/stock-market-winners-losers-defense-ai-musk-h94785",
-        "published": "2026-11-07T13:30:54Z",
+        "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/high-flying-ai-stocks-tariff-hit-alcohol-companies-137938660",
+        "published": "2026-11-07T16:00:31Z",
         "sentiment": "watch"
       },
       {
-        "title": "An airstrike has killed 22 people near Yemen's capital, Houthi official says",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/an-airstrike-has-killed-22-people-near-yemens-capital-houthi-official-says/articleshow/135637173.cms",
-        "published": "2026-11-07T12:50:23Z",
-        "sentiment": "danger"
+        "title": "America’s Hydrogen Revolution Stalls Amid Funding Cuts and Weak Demand",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Americas-Hydrogen-Revolution-Stalls-Amid-Funding-Cuts-and-Weak-Demand.html",
+        "published": "2026-11-07T16:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Inflation, housing, jobs and corporate earnings will dominate the business calendar this week",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/inflation-housing-jobs-corporate-earnings-dominate-business-calendar-137941014",
+        "published": "2026-11-07T15:59:19Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Few signs of thaw in Japan-China relations one year after Takaichi’s Taiwan remarks",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4402175/posts",
+        "published": "2026-11-07T16:51:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "US-China-Russia Hypersonic Weapons Race Accelerates",
         "source": "Radio Free Europe/ Radio Liberty",
@@ -90,13 +97,6 @@
         "url": "https://smallwarsjournal.com/2026/11/04/11-4-26-national-security-and-korean-news-and-commentary/",
         "published": "2026-11-04T18:55:37Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific",
-        "published": "2026-11-02T23:41:18Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
