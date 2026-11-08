@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-08T01:44:52.183Z",
+    "generated_at": "2026-11-08T08:03:09.807Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Energizer Ultimate Lithium AA Batteries for Blink Outdoor 4 and Outdoor 2K+ Cameras, 2 Pack – Blink Customers Save 50% at Checkout $2.99",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20269515-energizer-ultimate-lithium-aa-batteries-for-blink-outdoor-4-and-outdoor-2k-cameras-2-pack-blink-customers-save-50-at-checkout-2-99",
-        "published": "2026-11-07T00:03:36Z",
+        "title": "Sarbananda Sonowal calls Oil India CMD over Tengakhat fire, urges best medical care for injured",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/national/sarbananda-sonowal-calls-oil-india-cmd-over-tengakhat-fire-urges-best-medical-care-for-injured/article71677560.ece",
+        "published": "2026-11-07T07:33:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "Wall Street’s “Energy Transition” Funds Are Packed With Natural Gas",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Natural-Gas/Wall-Streets-Energy-Transition-Funds-Are-Packed-With-Natural-Gas.html",
-        "published": "2026-11-06T23:00:00Z",
+        "title": "AI investment fears drive global stock sell-off",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/ai-investment-fears-drive-global-stock-sell-off-229124",
+        "published": "2026-11-07T06:04:22Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Posts Biggest Weekly Drop Since 2022",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/oil_posts_biggest_weekly_drop_since_2022-06-nov-2026-185035-article/",
-        "published": "2026-11-06T21:05:21Z",
-        "sentiment": "watch"
+        "title": "‘Exponential environmental risks’: Decaying Russian oil tankers threaten Irish west coast",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/ireland/2026/11/07/exponential-environmental-risks-decaying-russian-oil-tankers-threaten-irish-west-coast/",
+        "published": "2026-11-07T06:00:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Tankers carrying Russian diesel to the US change course",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807",
-        "published": "2026-11-06T20:55:00Z",
-        "sentiment": "watch"
+        "title": "If Trump Resumes attacking Iran, US and Europe will Pay an Extreme Price",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/11/resumes-attacking-extreme.html",
+        "published": "2026-11-07T05:06:16Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Traders-Want-US-to-Release-Sanctioned-Tankers-as-Freight-Costs-Soar.html",
-        "published": "2026-11-06T20:30:00Z",
+        "title": "The intelligence failure behind the midterms",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/blog/2026/11/the-intelligence-failure-behind-the-midterms/",
+        "published": "2026-11-07T05:00:00Z",
         "sentiment": "watch"
       }
     ],
