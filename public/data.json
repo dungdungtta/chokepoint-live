@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-07T22:20:28.820Z",
+    "generated_at": "2026-11-08T01:44:52.183Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Energizer Ultimate Lithium AA Batteries for Blink Outdoor 4 and Outdoor 2K+ Cameras, 2 Pack – Blink Customers Save 50% at Checkout $2.99",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20269515-energizer-ultimate-lithium-aa-batteries-for-blink-outdoor-4-and-outdoor-2k-cameras-2-pack-blink-customers-save-50-at-checkout-2-99",
+        "published": "2026-11-07T00:03:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Wall Street’s “Energy Transition” Funds Are Packed With Natural Gas",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Natural-Gas/Wall-Streets-Energy-Transition-Funds-Are-Packed-With-Natural-Gas.html",
+        "published": "2026-11-06T23:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Oil Posts Biggest Weekly Drop Since 2022",
         "source": "Rigzone",
         "url": "https://www.rigzone.com/news/wire/oil_posts_biggest_weekly_drop_since_2022-06-nov-2026-185035-article/",
@@ -45,20 +59,6 @@
         "source": "OilPrice.com",
         "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Traders-Want-US-to-Release-Sanctioned-Tankers-as-Freight-Costs-Soar.html",
         "published": "2026-11-06T20:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "‘Everyone knows why we lost,’ JD Vance points to the Iran war — which has already cost at least $38 billion and 19 American lives",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/11/06/jd-vance-iran-war-midterms-cost/",
-        "published": "2026-11-06T20:18:25Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Energy Reliability Is Becoming More Important Than Energy Politics",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Energy-Reliability-Is-Becoming-More-Important-Than-Energy-Politics.html",
-        "published": "2026-11-06T19:00:00Z",
         "sentiment": "watch"
       }
     ],
