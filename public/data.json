@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-09T03:00:50.049Z",
+    "generated_at": "2026-11-09T11:40:15.028Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "US Military Says It Fired on Commercial Vessel in Gulf of Oman After It Attempted to Breach Blockade",
-        "source": "Military.com",
-        "url": "https://military.com/us-military-says-it-fired-on-commercial-vessel-in-gulf-of-oman-after-it-attempted-to-breach-blockade",
-        "published": "2026-11-08T02:20:49Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Michael Goodwin: JD Vance sold Trump out after the midterm shellacking — it’s time to cut him off",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/11/07/opinion/michael-goodwin-jd-vance-sold-trump-out-after-the-midterm-shellacking-its-time-to-cut-him-off/",
-        "published": "2026-11-08T01:45:56Z",
+        "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh damaged, other Mideast news",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/saudi-arabia-intercepts-missiles-as-aramco-building-in-riyadh-damaged-other-mideast-news/article71680852.ece",
+        "published": "2026-11-08T10:45:31Z",
         "sentiment": "watch"
       },
       {
-        "title": "US military says it fired on commercial vessel in Gulf of Oman after it attempted to breach blockade",
+        "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-missiles-aramco-building-riyadh-damaged-137951443",
+        "published": "2026-11-08T10:43:48Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US to target Iran’s land-based supply routes – CENTCOM",
+        "source": "Rt-english.com",
+        "url": "https://rt-english.com/news/648569-us-iran-land-routes/",
+        "published": "2026-11-08T10:05:38Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Indian Oil plans to buy its own oil, LPG ships as freight costs surge 4 times",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/us-military-says-it-fired-on-commercial-vessel-in-gulf-of-oman-after-it-attempted-to-breach-blockade/articleshow/135649379.cms",
-        "published": "2026-11-08T01:18:16Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "The Limits of China’s Self-Sufficiency",
-        "source": "Foreign Affairs",
-        "url": "https://www.foreignaffairs.com/china/limits-chinas-self-sufficiency",
-        "published": "2026-11-08T00:00:00Z",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/indian-oil-plans-to-buy-its-own-oil-lpg-ships-as-freight-costs-surge-4-times/articleshow/135653667.cms",
+        "published": "2026-11-08T07:30:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "4-Pk 6-Oz Stove Top Savory Herbs Stuffing Mix $3.40 w/ S&S",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20267022-stove-top-stuffing-mix-savory-herbs-6-oz-box-versatile-pantry-staple-serve-as-a-side-dish-or-use-as-an-ingredient-6-servings-per-box-great-for-holiday-sides-4-pack-3-22",
-        "published": "2026-11-07T22:57:52Z",
+        "title": "IOC to buy crude, LPG ships as West Asia crisis exposes shipping risks",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/companies/ioc-to-buy-crude-lpg-ships-as-west-asia-crisis-exposes-shipping-risks/article71680597.ece",
+        "published": "2026-11-08T06:02:32Z",
         "sentiment": "watch"
       }
     ],
