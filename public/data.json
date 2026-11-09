@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-08T23:35:10.146Z",
+    "generated_at": "2026-11-09T03:00:50.049Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
+        "title": "US Military Says It Fired on Commercial Vessel in Gulf of Oman After It Attempted to Breach Blockade",
+        "source": "Military.com",
+        "url": "https://military.com/us-military-says-it-fired-on-commercial-vessel-in-gulf-of-oman-after-it-attempted-to-breach-blockade",
+        "published": "2026-11-08T02:20:49Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Michael Goodwin: JD Vance sold Trump out after the midterm shellacking — it’s time to cut him off",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/11/07/opinion/michael-goodwin-jd-vance-sold-trump-out-after-the-midterm-shellacking-its-time-to-cut-him-off/",
+        "published": "2026-11-08T01:45:56Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US military says it fired on commercial vessel in Gulf of Oman after it attempted to breach blockade",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-military-says-it-fired-on-commercial-vessel-in-gulf-of-oman-after-it-attempted-to-breach-blockade/articleshow/135649379.cms",
+        "published": "2026-11-08T01:18:16Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "The Limits of China’s Self-Sufficiency",
+        "source": "Foreign Affairs",
+        "url": "https://www.foreignaffairs.com/china/limits-chinas-self-sufficiency",
+        "published": "2026-11-08T00:00:00Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "4-Pk 6-Oz Stove Top Savory Herbs Stuffing Mix $3.40 w/ S&S",
         "source": "Slickdeals.net",
         "url": "https://slickdeals.net/f/20267022-stove-top-stuffing-mix-savory-herbs-6-oz-box-versatile-pantry-staple-serve-as-a-side-dish-or-use-as-an-ingredient-6-servings-per-box-great-for-holiday-sides-4-pack-3-22",
         "published": "2026-11-07T22:57:52Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Airstrikes kill more than 2 dozen people near Yemen's capital, Houthis say",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/airstrikes-kill-more-than-2-dozen-people-near-yemen-s-capital-houthis-say-126110701261_1.html",
-        "published": "2026-11-07T17:09:40Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "We Are Facing A Global Energy Crisis, A Global Food Crisis, A European Financial Crisis, The End Of The AI Bubble And A Super El Niño All At Once",
-        "source": "Activistpost.com",
-        "url": "https://activistpost.com/we-are-facing-a-global-energy-crisis-a-global-food-crisis-a-european-financial-crisis-the-end-of-the-ai-bubble-and-a-super-el-nino-all-at-once/",
-        "published": "2026-11-07T17:02:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/high-flying-ai-stocks-tariff-hit-alcohol-companies-137938660",
-        "published": "2026-11-07T16:00:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "America’s Hydrogen Revolution Stalls Amid Funding Cuts and Weak Demand",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Americas-Hydrogen-Revolution-Stalls-Amid-Funding-Cuts-and-Weak-Demand.html",
-        "published": "2026-11-07T16:00:00Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Limits of China’s Self-Sufficiency",
+        "source": "Foreign Affairs",
+        "url": "https://www.foreignaffairs.com/china/limits-chinas-self-sufficiency",
+        "published": "2026-11-08T00:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Few signs of thaw in Japan-China relations one year after Takaichi’s Taiwan remarks",
         "source": "Freerepublic.com",
@@ -89,13 +96,6 @@
         "source": "Foreign Policy",
         "url": "http://foreignpolicy.com/2026/11/04/us-midterm-elections-democrats-trump-israel-iran/",
         "published": "2026-11-04T23:23:56Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "11/4/26 National Security and Korean News and Commentary",
-        "source": "Smallwarsjournal.com",
-        "url": "https://smallwarsjournal.com/2026/11/04/11-4-26-national-security-and-korean-news-and-commentary/",
-        "published": "2026-11-04T18:55:37Z",
         "sentiment": "watch"
       }
     ],
