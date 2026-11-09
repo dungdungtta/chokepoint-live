@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-09T11:40:15.028Z",
+    "generated_at": "2026-11-09T21:38:28.074Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh damaged, other Mideast news",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/saudi-arabia-intercepts-missiles-as-aramco-building-in-riyadh-damaged-other-mideast-news/article71680852.ece",
-        "published": "2026-11-08T10:45:31Z",
+        "title": "Japan Stocks Face Volatile Week After Historic Selloff",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/151291.php",
+        "published": "2026-11-08T17:46:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-missiles-aramco-building-riyadh-damaged-137951443",
-        "published": "2026-11-08T10:43:48Z",
+        "title": "Blink Outdoor 4 1080p Battery Camera + Wired Doorbell 2K+ $28",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20274588-blink-outdoor-4-and-wired-doorbell-2k-newest-model-two-year-battery-1080p-camera-and-2k-hardwired-doorbell-sync-module-core-included-1-camera-doorbell-black-27-99",
+        "published": "2026-11-08T17:46:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "US to target Iran’s land-based supply routes – CENTCOM",
-        "source": "Rt-english.com",
-        "url": "https://rt-english.com/news/648569-us-iran-land-routes/",
-        "published": "2026-11-08T10:05:38Z",
-        "sentiment": "watch"
+        "title": "U.S. Strikes Iran’s Air Defenses as Tehran Seeks Russian Weapons",
+        "source": "Thegatewaypundit.com",
+        "url": "https://www.thegatewaypundit.com/2026/11/u-s-strikes-irans-air-defenses-as-tehran/",
+        "published": "2026-11-08T17:40:46Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Indian Oil plans to buy its own oil, LPG ships as freight costs surge 4 times",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/indian-oil-plans-to-buy-its-own-oil-lpg-ships-as-freight-costs-surge-4-times/articleshow/135653667.cms",
-        "published": "2026-11-08T07:30:05Z",
-        "sentiment": "watch"
+        "title": "Houthi missile damages Saudi Aramco Tower in Riyadh in fresh attack",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16276239/Houthi-missile-damages-Saudi-Aramco-Tower-Riyadh-fresh-attack.html",
+        "published": "2026-11-08T17:04:21Z",
+        "sentiment": "danger"
       },
       {
-        "title": "IOC to buy crude, LPG ships as West Asia crisis exposes shipping risks",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/companies/ioc-to-buy-crude-lpg-ships-as-west-asia-crisis-exposes-shipping-risks/article71680597.ece",
-        "published": "2026-11-08T06:02:32Z",
+        "title": "The Best Early Black Friday Deals of 2026 (So Far!)",
+        "source": "Mommypotamus.com",
+        "url": "https://mommypotamus.com/early-black-friday-sales-2026/",
+        "published": "2026-11-08T16:14:50Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "What Beijing Hopes to Gain Following Tuesday’s Shock Elections: Tariff Relief, an End to the Iran War, and a Way Back into Latin America",
+        "source": "Thegatewaypundit.com",
+        "url": "https://www.thegatewaypundit.com/2026/11/what-beijing-hopes-gain-democratic-congress-tariff-relief/",
+        "published": "2026-11-08T13:30:56Z",
+        "sentiment": "danger"
+      },
       {
         "title": "The Limits of China’s Self-Sufficiency",
         "source": "Foreign Affairs",
@@ -90,13 +97,6 @@
         "url": "https://warontherocks.com/who-repairs-the-internet-in-wartime/",
         "published": "2026-11-05T08:30:04Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Americans Care About Foreign Policy. Now Democrats Must Listen to Them.",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/11/04/us-midterm-elections-democrats-trump-israel-iran/",
-        "published": "2026-11-04T23:23:56Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
