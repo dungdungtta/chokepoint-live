@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-10T12:25:54.373Z",
+    "generated_at": "2026-11-10T19:57:14.462Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Falls as Trump Signals Restraint on Iran Despite Fresh Shipping Attacks",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/international/2026/11/09/892091.htm",
-        "published": "2026-11-09T11:30:31Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iraq's Oil Sales to America Fall to Lowest Since the 2003 War",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Sales-to-America-Fall-to-Lowest-Since-the-2003-War.html",
-        "published": "2026-11-09T11:30:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran War: Trump Signals No Big Attack in CBS Interview; Barmy CENTCOM “Iron Gate” Plan Proof of Weakness or Perhaps Cover for Iraq Ground Operation?",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/11/iran-war-trump-signals-no-big-attack-in-cbs-interview-barmy-centcom-iron-gate-plan-proof-of-weakness-or-perhaps-cover-for-iraq-ground-operation.html",
-        "published": "2026-11-09T11:20:23Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Brent crude falls to intraday low below $96/bbl",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/brent-crude-falls-to-intraday-low-below-96bbl/",
-        "published": "2026-11-09T11:19:15Z",
+        "title": "Kobalt 48V MAX 14\" Brushless Chainsaw Kit w/ 2 Batteries & Charger for $199 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/products/Kobalt/Kobalt-48-V-MAX-14-Brushless-Chainsaw-Kit-w-2-Batteries-Charger/556228.html",
+        "published": "2026-11-09T19:50:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Experiences Sharpest Weekly Decline in Months",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/oil_experiences_sharpest_weekly_decline_in_months-09-nov-2026-185037-article/",
-        "published": "2026-11-09T11:07:03Z",
-        "sentiment": "watch"
+        "title": "Hegseth Calls Iran War Necessary and Waves off ‘The Noise’ of Expected Impeachment Push",
+        "source": "Military.com",
+        "url": "https://military.com/hegseth-calls-iran-war-necessary-and-waves-off-the-noise-of-expected-impeachment-push",
+        "published": "2026-11-09T19:03:30Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Russia-US-Ukraine trilateral: what you need to know about the talks that could define Europe’s security architecture",
+        "source": "Rt-english.com",
+        "url": "https://rt-english.com/russia/648600-russia-us-ukraine-trilateral/",
+        "published": "2026-11-09T18:43:45Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Trump meets key Iran war mediator as UAE reveals major oil export surge despite conflict",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/trump-meets-key-iran-war-mediator-uae-reveals-major-oil-export-surge-despite-conflict",
+        "published": "2026-11-09T18:27:23Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil prices slide over 5% as Trump signals no fresh Iran strikes amid talks",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/oil-prices-slide-over-5-as-trump-signals-no-fresh-iran-strikes-amid-talks-126110901602_1.html",
+        "published": "2026-11-09T18:13:27Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Danger of Making Military Pressure the New Normal Around Taiwan",
+        "source": "Khabarhub.com",
+        "url": "https://english.khabarhub.com/2026/09/575070/",
+        "published": "2026-11-09T14:12:47Z",
+        "sentiment": "watch"
+      },
       {
         "title": "What Beijing Hopes to Gain Following Tuesday’s Shock Elections: Tariff Relief, an End to the Iran War, and a Way Back into Latin America",
         "source": "Thegatewaypundit.com",
@@ -90,13 +97,6 @@
         "url": "https://www.rferl.org/a/us-china-russia-hypersonic-weapons-race-accelerates/33892363.html",
         "published": "2026-11-06T13:38:03Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Who Repairs the Internet in Wartime?",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/who-repairs-the-internet-in-wartime/",
-        "published": "2026-11-05T08:30:04Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
