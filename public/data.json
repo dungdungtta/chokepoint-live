@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-10T03:50:18.916Z",
+    "generated_at": "2026-11-10T12:25:54.373Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/saudi-arabia-intercepts-missiles-aramco-building-riyadh-damaged-137951445",
-        "published": "2026-11-09T03:42:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "70-Count medicube Zero Pore Pads or Kojic Acid Turmeric Pads $14.70 at Ulta Beauty w/ Free Store Pickup",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20277219-70-count-medicube-zero-pore-pads-or-kojic-acid-turmeric-pads-14-70-at-ulta-beauty-w-free-store-pickup",
-        "published": "2026-11-09T03:34:24Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil prices fall on open as Trump says fresh Iran attacks 'unlikely'",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/commodities/oil-prices-fall-on-open-as-trump-says-fresh-iran-attacks-unlikely-126110900038_1.html",
-        "published": "2026-11-09T02:08:15Z",
+        "title": "Oil Falls as Trump Signals Restraint on Iran Despite Fresh Shipping Attacks",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/11/09/892091.htm",
+        "published": "2026-11-09T11:30:31Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran war not necessarily popular but needed to stop nuclear threat: Rubio",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/iran-war-not-necessarily-popular-but-needed-to-stop-nuclear-threat-rubio-126110900043_1.html",
-        "published": "2026-11-09T01:58:36Z",
+        "title": "Iraq's Oil Sales to America Fall to Lowest Since the 2003 War",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Sales-to-America-Fall-to-Lowest-Since-the-2003-War.html",
+        "published": "2026-11-09T11:30:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran claims it has lifted self-imposed restriction on ballistic missile ranges",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/iran-claims-it-has-lifted-self-imposed-restriction-on-ballistic-missile-ranges/articleshow/135667987.cms",
-        "published": "2026-11-09T01:56:51Z",
+        "title": "Iran War: Trump Signals No Big Attack in CBS Interview; Barmy CENTCOM “Iron Gate” Plan Proof of Weakness or Perhaps Cover for Iraq Ground Operation?",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/11/iran-war-trump-signals-no-big-attack-in-cbs-interview-barmy-centcom-iron-gate-plan-proof-of-weakness-or-perhaps-cover-for-iraq-ground-operation.html",
+        "published": "2026-11-09T11:20:23Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Brent crude falls to intraday low below $96/bbl",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/brent-crude-falls-to-intraday-low-below-96bbl/",
+        "published": "2026-11-09T11:19:15Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Experiences Sharpest Weekly Decline in Months",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/oil_experiences_sharpest_weekly_decline_in_months-09-nov-2026-185037-article/",
+        "published": "2026-11-09T11:07:03Z",
         "sentiment": "watch"
       }
     ],
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
