@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-09T21:38:28.074Z",
+    "generated_at": "2026-11-10T03:50:18.916Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Japan Stocks Face Volatile Week After Historic Selloff",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/151291.php",
-        "published": "2026-11-08T17:46:39Z",
+        "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/saudi-arabia-intercepts-missiles-aramco-building-riyadh-damaged-137951445",
+        "published": "2026-11-09T03:42:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "Blink Outdoor 4 1080p Battery Camera + Wired Doorbell 2K+ $28",
+        "title": "70-Count medicube Zero Pore Pads or Kojic Acid Turmeric Pads $14.70 at Ulta Beauty w/ Free Store Pickup",
         "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20274588-blink-outdoor-4-and-wired-doorbell-2k-newest-model-two-year-battery-1080p-camera-and-2k-hardwired-doorbell-sync-module-core-included-1-camera-doorbell-black-27-99",
-        "published": "2026-11-08T17:46:09Z",
+        "url": "https://slickdeals.net/f/20277219-70-count-medicube-zero-pore-pads-or-kojic-acid-turmeric-pads-14-70-at-ulta-beauty-w-free-store-pickup",
+        "published": "2026-11-09T03:34:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "U.S. Strikes Iran’s Air Defenses as Tehran Seeks Russian Weapons",
-        "source": "Thegatewaypundit.com",
-        "url": "https://www.thegatewaypundit.com/2026/11/u-s-strikes-irans-air-defenses-as-tehran/",
-        "published": "2026-11-08T17:40:46Z",
+        "title": "Oil prices fall on open as Trump says fresh Iran attacks 'unlikely'",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/commodities/oil-prices-fall-on-open-as-trump-says-fresh-iran-attacks-unlikely-126110900038_1.html",
+        "published": "2026-11-09T02:08:15Z",
         "sentiment": "danger"
       },
       {
-        "title": "Houthi missile damages Saudi Aramco Tower in Riyadh in fresh attack",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16276239/Houthi-missile-damages-Saudi-Aramco-Tower-Riyadh-fresh-attack.html",
-        "published": "2026-11-08T17:04:21Z",
+        "title": "Iran war not necessarily popular but needed to stop nuclear threat: Rubio",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/iran-war-not-necessarily-popular-but-needed-to-stop-nuclear-threat-rubio-126110900043_1.html",
+        "published": "2026-11-09T01:58:36Z",
         "sentiment": "danger"
       },
       {
-        "title": "The Best Early Black Friday Deals of 2026 (So Far!)",
-        "source": "Mommypotamus.com",
-        "url": "https://mommypotamus.com/early-black-friday-sales-2026/",
-        "published": "2026-11-08T16:14:50Z",
+        "title": "Iran claims it has lifted self-imposed restriction on ballistic missile ranges",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/iran-claims-it-has-lifted-self-imposed-restriction-on-ballistic-missile-ranges/articleshow/135667987.cms",
+        "published": "2026-11-09T01:56:51Z",
         "sentiment": "watch"
       }
     ],
