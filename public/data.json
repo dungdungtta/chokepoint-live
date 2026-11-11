@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-11T15:25:28.263Z",
+    "generated_at": "2026-11-11T22:11:25.546Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "China's trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35%",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/business/chinas-trade-surplus-surpasses-1-trillion-for-a-2nd-straight-year-as-exports-surge-35/articleshow/135714677.cms",
-        "published": "2026-11-10T15:18:54Z",
+        "title": "Valvoline Flexfill SAE 75W-90 Full Synthetic Gear Oil 4-Pack for $51.50 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Valvoline-Flexfill-SAE-75-W-90-Full-Synthetic-Gear-Oil-4-Pack-for-51-50-free-shipping-w-Prime/22376364.html",
+        "published": "2026-11-10T21:34:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "Why is India trying to broker a Russia-Ukraine Black Sea food corridor?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/10/why-is-india-trying-to-broker-a-russia-ukraine-black-sea-food-corridor",
-        "published": "2026-11-10T15:04:30Z",
+        "title": "Louis-Philippe Véronneau: A good-looking Corsi-Rosenthal Box",
+        "source": "Veronneau.org",
+        "url": "https://veronneau.org/a-good-looking-corsi-rosenthal-box.html",
+        "published": "2026-11-10T21:00:15Z",
         "sentiment": "watch"
       },
       {
-        "title": "Diversifying away from Russia: Trump admin wants to sell Venezuela oil to India, but how much can it buy?",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/diversifying-away-from-russia-trump-admin-wants-to-sell-venezuela-oil-to-india-but-how-much-can-it-buy/articleshow/135712323.cms",
-        "published": "2026-11-10T13:49:03Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Heat-trapping carbon pollution drops, but scientists cite the Iran war rather than energy progress - Newsday",
-        "source": "Newsday",
-        "url": "https://www.newsday.com/business/climate-fossil-fuels-emissions-pollution-war-energy-q44496",
-        "published": "2026-11-10T13:30:57Z",
+        "title": "Houthis Launch Another Attack on Pumping Stations Along Crucial Saudi East-West",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Houthis-Launch-Another-Attack-on-Pumping-Stations-Along-Crucial-Saudi-East-West.html",
+        "published": "2026-11-10T21:00:00Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "‘Nonsense Rate’: Iran War Exposes Turmoil Behind Key Tanker Benchmark",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/nonsense-rate-iran-war-exposes-turmoil-behind-key-tanker-benchmark/",
+        "published": "2026-11-10T19:55:18Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "There’s Never a New Middle East",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/11/10/middle-east-new-washington-arab-spring-iran-war/",
+        "published": "2026-11-10T19:21:20Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Oil Falls to Lowest Level Since August",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Falls-to-Lowest-Level-Since-August.html",
+        "published": "2026-11-10T16:34:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Danger of Making Military Pressure the New Normal Around Taiwan",
         "source": "Khabarhub.com",
@@ -75,13 +89,6 @@
         "source": "Foreign Affairs",
         "url": "https://www.foreignaffairs.com/china/limits-chinas-self-sufficiency",
         "published": "2026-11-08T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Few signs of thaw in Japan-China relations one year after Takaichi’s Taiwan remarks",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4402175/posts",
-        "published": "2026-11-07T16:51:00Z",
         "sentiment": "watch"
       }
     ],
