@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-10T19:57:14.462Z",
+    "generated_at": "2026-11-11T00:33:30.684Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Kobalt 48V MAX 14\" Brushless Chainsaw Kit w/ 2 Batteries & Charger for $199 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/products/Kobalt/Kobalt-48-V-MAX-14-Brushless-Chainsaw-Kit-w-2-Batteries-Charger/556228.html",
-        "published": "2026-11-09T19:50:17Z",
+        "title": "1986 Chevrolet K20 Silverado 4×4",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1986-chevrolet-k20-pickup-18/",
+        "published": "2026-11-10T00:23:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "Hegseth Calls Iran War Necessary and Waves off ‘The Noise’ of Expected Impeachment Push",
-        "source": "Military.com",
-        "url": "https://military.com/hegseth-calls-iran-war-necessary-and-waves-off-the-noise-of-expected-impeachment-push",
-        "published": "2026-11-09T19:03:30Z",
-        "sentiment": "danger"
+        "title": "Rep Thomas Massie of Kentucky launches bid to impeach Defense Secretary Pete Hegseth",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/rep-thomas-massie-of-kentucky-launches-bid-to-impeach-defense-secretary-pete-hegseth/article71684127.ece",
+        "published": "2026-11-09T23:43:58Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Russia-US-Ukraine trilateral: what you need to know about the talks that could define Europe’s security architecture",
+        "title": "US Dollar crashes today: Why is USD down against other currencies?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/us-dollar-crashes-today-why-is-usd-down-against-other-currencies/articleshow/135695515.cms",
+        "published": "2026-11-09T23:25:07Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran vows to ‘rain down hell’ if US escalates war",
         "source": "Rt-english.com",
-        "url": "https://rt-english.com/russia/648600-russia-us-ukraine-trilateral/",
-        "published": "2026-11-09T18:43:45Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Trump meets key Iran war mediator as UAE reveals major oil export surge despite conflict",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/trump-meets-key-iran-war-mediator-uae-reveals-major-oil-export-surge-despite-conflict",
-        "published": "2026-11-09T18:27:23Z",
+        "url": "https://rt-english.com/news/648615-iran-us-war-threat-hormuz/",
+        "published": "2026-11-09T21:54:02Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil prices slide over 5% as Trump signals no fresh Iran strikes amid talks",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/oil-prices-slide-over-5-as-trump-signals-no-fresh-iran-strikes-amid-talks-126110901602_1.html",
-        "published": "2026-11-09T18:13:27Z",
-        "sentiment": "danger"
+        "title": "Oil Prices Sink on Iran Peace Hopes",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/oil_prices_sink_on_iran_peace_hopes-09-nov-2026-185046-article/",
+        "published": "2026-11-09T21:27:55Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -117,7 +117,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
