@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-11T07:13:11.246Z",
+    "generated_at": "2026-11-11T15:25:28.263Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -28,37 +28,30 @@
     "hormuz": [
       {
         "title": "China's trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35%",
-        "source": "WDIV ClickOnDetroit",
-        "url": "https://www.clickondetroit.com/news/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-for-a-2nd-straight-year-as-exports-surge-35/",
-        "published": "2026-11-10T07:12:26Z",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/business/chinas-trade-surplus-surpasses-1-trillion-for-a-2nd-straight-year-as-exports-surge-35/articleshow/135714677.cms",
+        "published": "2026-11-10T15:18:54Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html",
-        "published": "2026-11-10T07:00:02Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Hegseth set to face media as Republican lawmakers move to impeach him",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/hegseth-set-to-face-media-as-republican-lawmakers-move-to-impeach-him-126111000215_1.html",
-        "published": "2026-11-10T06:31:31Z",
+        "title": "Why is India trying to broker a Russia-Ukraine Black Sea food corridor?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/11/10/why-is-india-trying-to-broker-a-russia-ukraine-black-sea-food-corridor",
+        "published": "2026-11-10T15:04:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "Global fossil fuel emissions set to fall in 2026, but total CO2 keeps rising",
-        "source": "Science Daily",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261109205358.htm",
-        "published": "2026-11-10T06:05:25Z",
+        "title": "Diversifying away from Russia: Trump admin wants to sell Venezuela oil to India, but how much can it buy?",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/diversifying-away-from-russia-trump-admin-wants-to-sell-venezuela-oil-to-india-but-how-much-can-it-buy/articleshow/135712323.cms",
+        "published": "2026-11-10T13:49:03Z",
         "sentiment": "watch"
       },
       {
-        "title": "Marco Rubio Just Admitted the U.S. Lost the War with Iran",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-11-10-marco-rubio-just-admitted-us-lost-war.html",
-        "published": "2026-11-10T06:00:00Z",
+        "title": "Heat-trapping carbon pollution drops, but scientists cite the Iran war rather than energy progress - Newsday",
+        "source": "Newsday",
+        "url": "https://www.newsday.com/business/climate-fossil-fuels-emissions-pollution-war-energy-q44496",
+        "published": "2026-11-10T13:30:57Z",
         "sentiment": "danger"
       }
     ],
@@ -89,13 +82,6 @@
         "source": "Freerepublic.com",
         "url": "https://freerepublic.com/focus/f-chat/4402175/posts",
         "published": "2026-11-07T16:51:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US-China-Russia Hypersonic Weapons Race Accelerates",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/us-china-russia-hypersonic-weapons-race-accelerates/33892363.html",
-        "published": "2026-11-06T13:38:03Z",
         "sentiment": "watch"
       }
     ],
