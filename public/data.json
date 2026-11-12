@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-12T03:06:16.643Z",
+    "generated_at": "2026-11-12T11:22:37.616Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump and Netanyahu in ‘shouting match from hell’ during Iran call – media",
+        "title": "Europe can’t afford another harsh winter as gas prices surge 200%, storage plunges and factories close, Bloomberg reports",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/11/11/europe-cant-afford-another-harsh-winter-as-gas-prices-surge-200-storage-plunges-and-factories-close-bloomberg-reports/",
+        "published": "2026-11-11T10:59:58Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "House Republicans block Hegseth impeachment bid",
         "source": "Rt-english.com",
-        "url": "https://rt-english.com/news/648672-trump-netanyahu-shouting-match/",
-        "published": "2026-11-11T02:16:44Z",
+        "url": "https://rt-english.com/news/648697-us-house-blocks-hegseth-impeachment-bid/",
+        "published": "2026-11-11T10:20:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-rises-two-month-low-hormuz-shipping-attacks-offset-iran-truce-hopes-6541486",
-        "published": "2026-11-11T02:09:58Z",
-        "sentiment": "danger"
+        "title": "Russia and Ukraine Resume Push for Peace Deal",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/russia_and_ukraine_resume_push_for_peace_deal-11-nov-2026-185056-article/",
+        "published": "2026-11-11T10:01:51Z",
+        "sentiment": "neutral"
       },
       {
-        "title": "Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes",
+        "title": "Oil up 1% as Iran says no nuclear material will leave it",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/1111/1598803-world-oil-prices/",
+        "published": "2026-11-11T09:54:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Japan's Idemitsu quadruples FY27 profit forecast to $1.86 billion on stronger oil prices",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-from-two-month-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes/articleshow/135722819.cms",
-        "published": "2026-11-11T02:09:13Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Rubio: ‘No Need for Major Combat Operations Against Iran’ — U.S. ‘Achieving Same Objective by Economic Means’",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/11/10/rubio-no-need-major-combat-operations-against-iran/",
-        "published": "2026-11-11T01:21:52Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Watch: Near-Fatal Accident Caused by Emissions Barge in California Port",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/environment/2026/11/10/watch-near-fatal-accident-caused-by-emissions-barge-in-california-port/",
-        "published": "2026-11-11T01:06:03Z",
+        "url": "https://economictimes.indiatimes.com/news/international/business/japans-idemitsu-quadruples-fy27-profit-forecast-to-1-86-billion-on-stronger-oil-prices/articleshow/135731757.cms",
+        "published": "2026-11-11T09:04:53Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Japan’s Most Dangerous Military Constraint Is Time",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/japans-most-dangerous-military-constraint-is-time/",
+        "published": "2026-11-11T08:30:24Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Indonesia’s Wiretap Scandal Heralds a Political Showdown",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/11/11/indonesia-wiretap-prabowo-police-chief/",
+        "published": "2026-11-11T06:00:42Z",
+        "sentiment": "watch"
+      },
       {
         "title": "A Guide to Solving Global Challenges with Stanford Scholars",
         "source": "Stanford.edu",
@@ -76,20 +90,6 @@
         "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Falls-to-Lowest-Level-Since-August.html",
         "published": "2026-11-10T16:34:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "The Danger of Making Military Pressure the New Normal Around Taiwan",
-        "source": "Khabarhub.com",
-        "url": "https://english.khabarhub.com/2026/09/575070/",
-        "published": "2026-11-09T14:12:47Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What Beijing Hopes to Gain Following Tuesday’s Shock Elections: Tariff Relief, an End to the Iran War, and a Way Back into Latin America",
-        "source": "Thegatewaypundit.com",
-        "url": "https://www.thegatewaypundit.com/2026/11/what-beijing-hopes-gain-democratic-congress-tariff-relief/",
-        "published": "2026-11-08T13:30:56Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -111,7 +111,7 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "amber",
+    "taiwan": "yellow",
     "malacca": "amber",
     "suez": "amber",
     "panama": "yellow",
