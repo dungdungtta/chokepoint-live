@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-12T11:22:37.616Z",
+    "generated_at": "2026-11-12T19:03:36.495Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Europe can’t afford another harsh winter as gas prices surge 200%, storage plunges and factories close, Bloomberg reports",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/11/11/europe-cant-afford-another-harsh-winter-as-gas-prices-surge-200-storage-plunges-and-factories-close-bloomberg-reports/",
-        "published": "2026-11-11T10:59:58Z",
+        "title": "Russian Diesel Faces U.S. Buyer Resistance Despite Trump Sanctions Waiver",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/russian-diesel-faces-u-s-buyer-resistance-despite-trump-sanctions-waiver/",
+        "published": "2026-11-11T18:40:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "House Republicans block Hegseth impeachment bid",
-        "source": "Rt-english.com",
-        "url": "https://rt-english.com/news/648697-us-house-blocks-hegseth-impeachment-bid/",
-        "published": "2026-11-11T10:20:00Z",
+        "title": "Sephora Clearance Sale: Up to 50% off + free shipping available",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Sephora-Clearance-Sale-Up-to-50-off-free-shipping-available/22380378.html",
+        "published": "2026-11-11T17:52:27Z",
         "sentiment": "watch"
       },
       {
-        "title": "Russia and Ukraine Resume Push for Peace Deal",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/russia_and_ukraine_resume_push_for_peace_deal-11-nov-2026-185056-article/",
-        "published": "2026-11-11T10:01:51Z",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Oil up 1% as Iran says no nuclear material will leave it",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/1111/1598803-world-oil-prices/",
-        "published": "2026-11-11T09:54:37Z",
+        "title": "What a Hormuz Endgame Could Actually Look Like",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/11/11/strait-hormuz-endgame-iran-trump-control-oman-war-shipping-oil/",
+        "published": "2026-11-11T17:32:23Z",
         "sentiment": "watch"
       },
       {
-        "title": "Japan's Idemitsu quadruples FY27 profit forecast to $1.86 billion on stronger oil prices",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/business/japans-idemitsu-quadruples-fy27-profit-forecast-to-1-86-billion-on-stronger-oil-prices/articleshow/135731757.cms",
-        "published": "2026-11-11T09:04:53Z",
+        "title": "[SnS, AC] $10.17 or $9.32 | 30-Count Sports Research Triple Strength Omega 3 Fish Oil, 1250mg at Amazon",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20291670-sns-ac-10-17-or-9-32-30-count-sports-research-triple-strength-omega-3-fish-oil-1250mg-at-amazon",
+        "published": "2026-11-11T17:07:59Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "WIRE: Trader's ties to JD Vance helped land prized Venezuela oil contract...",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/news/exclusive-vitol-traders-ties-jd-111121278.html",
+        "published": "2026-11-11T16:55:36Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Joint declaration following the G7 Foreign Ministers' Meeting in Paris",
+        "source": "Www.gov.uk",
+        "url": "https://www.gov.uk/government/news/joint-declaration-following-the-g7-foreign-ministers-meeting-in-paris",
+        "published": "2026-11-11T12:42:15Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Japan’s Most Dangerous Military Constraint Is Time",
         "source": "War on the Rocks",
