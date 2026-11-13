@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-13T07:12:01.258Z",
+    "generated_at": "2026-11-13T15:28:26.142Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -12,9 +12,9 @@
       "unit": "USD/bbl"
     },
     "freight": {
-      "freight_index": 189.7,
-      "change_pct": 2.2,
-      "date": "2026-09-01",
+      "freight_index": 195.6,
+      "change_pct": 2.8,
+      "date": "2026-10-01",
       "unit": "index (WPU30 proxy)"
     },
     "helium": {
@@ -27,76 +27,76 @@
   "news": {
     "hormuz": [
       {
-        "title": "Skeptical Science New Research for Week #46 2026",
-        "source": "Skepticalscience.com",
-        "url": "https://skepticalscience.com/new_research_2026_46.html",
-        "published": "2026-11-12T07:08:09Z",
+        "title": "EIA Raises 2026, 2027 Oil Price Forecasts Yet Again",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/eia_raises_2026_2027_oil_price_forecasts_yet_again-12-nov-2026-185067-article/",
+        "published": "2026-11-12T15:22:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "13.52-Oz La Roche-Posay Lipikar AP+ Gentle Foaming Cleansing Oil Refill Pack $13.48 + Free Shipping w/ Prime or on orders over $35",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20295363-13-52-oz-la-roche-posay-lipikar-ap-gentle-foaming-cleansing-oil-refill-pack-13-48-free-shipping-w-prime-or-on-orders-over-35",
-        "published": "2026-11-12T06:47:24Z",
+        "title": "India’s pays record $6.4 billion to import Russian crude oil in October",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/economy/indias-pays-record-64-billion-to-import-russian-crude-oil-in-october/article71694493.ece",
+        "published": "2026-11-12T15:19:58Z",
         "sentiment": "watch"
       },
       {
-        "title": "IIT Madras develops real-time digital twin platform for autonomous maritime navigation",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/india/iit-madras-develops-real-time-digital-twin-platform-for-autonomous-maritime-navigation/articleshow/135758584.cms",
-        "published": "2026-11-12T06:43:39Z",
+        "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us",
+        "published": "2026-11-12T14:27:54Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Why is gasoline suddenly under $4 a gallon?",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4402763/posts",
+        "published": "2026-11-12T14:26:13Z",
         "sentiment": "watch"
       },
       {
-        "title": "The Drone Contact Force – a Cornerstone for the Future Army",
-        "source": "Smallwarsjournal.com",
-        "url": "https://smallwarsjournal.com/2026/11/12/the-drone-contact-force-a-cornerstone-for-the-future-army/",
-        "published": "2026-11-12T06:00:53Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Basketball phones and the surprises they may reveal, mayors up in arms over building rules, and a decisive day for Tsavdaridis",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/11/12/basketball-phones-and-the-surprises-they-may-reveal-mayors-up-in-arms-over-building-rules-and-a-decisive-day-for-tsavdaridis/",
-        "published": "2026-11-12T06:00:46Z",
+        "title": "The lesson America refuses to learn",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/436093",
+        "published": "2026-11-12T14:07:02Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "G7 foreign ministers say China's actions east of Taiwan threaten stability",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692306.ece",
-        "published": "2026-11-12T05:58:07Z",
-        "sentiment": "danger"
+        "title": "'Reunification is certain': Xi vows to bring Taiwan under China's control",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/reunification-is-certain-xi-vows-to-bring-taiwan-under-china-s-control-126111201503_1.html",
+        "published": "2026-11-12T14:18:12Z",
+        "sentiment": "watch"
       },
       {
-        "title": "'Tide of history cannot be stopped': Xi renews call for Taiwan reunification",
+        "title": "Xi says China's 'complete reunification' will certainly happen, no room for Taiwan independence",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/tide-of-history-cannot-be-stopped-xi-renews-call-for-taiwan-reunification/articleshow/135755299.cms",
-        "published": "2026-11-12T04:33:22Z",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/xi-says-chinas-complete-reunification-will-certainly-happen-no-room-for-taiwan-independence/articleshow/135771729.cms",
+        "published": "2026-11-12T13:36:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "G7 foreign ministers say China's actions east of Taiwan threaten stability",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/g7-warns-chinas-aggressive-actions-near-taiwan-could-destabilize-region/articleshow/135753657.cms",
-        "published": "2026-11-12T03:28:15Z",
+        "title": "China's Xi Jinping renews calls for 'reunification' with Taiwan",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/china-taiwan-xi-jinping-reunification/a-79929738",
+        "published": "2026-11-12T13:26:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China's Xi Jinping renews calls for 'reunification' with Taiwan",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/china-taiwan-xi-jinping-reunification/a-79929738",
+        "published": "2026-11-12T13:26:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Families face new cash crunch if China invades Taiwan, warns top Tory... as  Nvidia honeypot 'lays bare Beijing's lust for tech supremacy'",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16281669/China-Taiwan-Tory-Nvidia-honeypot-Beijing-AI-defence.html",
+        "published": "2026-11-12T12:26:53Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Drew Endy: A Guide To Solving Global Challenges",
-        "source": "Stanford.edu",
-        "url": "https://fsi.stanford.edu/news/guide-solving-global-challenges-stanford-scholars",
-        "published": "2026-11-12T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Joint declaration following the G7 Foreign Ministers' Meeting in Paris",
-        "source": "Www.gov.uk",
-        "url": "https://www.gov.uk/government/news/joint-declaration-following-the-g7-foreign-ministers-meeting-in-paris",
-        "published": "2026-11-11T12:42:15Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
