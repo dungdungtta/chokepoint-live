@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-11-12T19:03:36.495Z",
+    "generated_at": "2026-11-13T00:30:03.814Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 107.03,
-      "change_pct": -0.3,
-      "date": "2026-11-03",
+      "price": 92.14,
+      "change_pct": 2.2,
+      "date": "2026-11-11",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Russian Diesel Faces U.S. Buyer Resistance Despite Trump Sanctions Waiver",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/russian-diesel-faces-u-s-buyer-resistance-despite-trump-sanctions-waiver/",
-        "published": "2026-11-11T18:40:24Z",
+        "title": "Line of Supply Security as Economic Diplomacy: Nepal’s Northern and Southern Corridors",
+        "source": "Khabarhub.com",
+        "url": "https://english.khabarhub.com/2026/12/575079/",
+        "published": "2026-11-12T00:15:13Z",
         "sentiment": "watch"
       },
       {
-        "title": "Sephora Clearance Sale: Up to 50% off + free shipping available",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Sephora-Clearance-Sale-Up-to-50-off-free-shipping-available/22380378.html",
-        "published": "2026-11-11T17:52:27Z",
+        "title": "Maritime experts seek effective policy implementation",
+        "source": "The Punch",
+        "url": "https://punchng.com/maritime-experts-seek-effective-policy-implementation/",
+        "published": "2026-11-12T00:10:44Z",
         "sentiment": "watch"
       },
       {
-        "title": "What a Hormuz Endgame Could Actually Look Like",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/11/11/strait-hormuz-endgame-iran-trump-control-oman-war-shipping-oil/",
-        "published": "2026-11-11T17:32:23Z",
+        "title": "US election results could be positive for Lebanon, Hezbollah chief says",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says",
+        "published": "2026-11-12T00:06:50Z",
         "sentiment": "watch"
       },
       {
-        "title": "[SnS, AC] $10.17 or $9.32 | 30-Count Sports Research Triple Strength Omega 3 Fish Oil, 1250mg at Amazon",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20291670-sns-ac-10-17-or-9-32-30-count-sports-research-triple-strength-omega-3-fish-oil-1250mg-at-amazon",
-        "published": "2026-11-11T17:07:59Z",
+        "title": "NSW rakes in N17bn from importers in eight months",
+        "source": "The Punch",
+        "url": "https://punchng.com/nsw-rakes-in-n17bn-from-importers-in-eight-months/",
+        "published": "2026-11-11T23:56:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "WIRE: Trader's ties to JD Vance helped land prized Venezuela oil contract...",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/news/exclusive-vitol-traders-ties-jd-111121278.html",
-        "published": "2026-11-11T16:55:36Z",
-        "sentiment": "watch"
+        "title": "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops",
+        "published": "2026-11-11T22:48:03Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
