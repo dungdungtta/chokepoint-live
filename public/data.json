@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-13T15:28:26.142Z",
+    "generated_at": "2026-11-13T21:34:16.705Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "EIA Raises 2026, 2027 Oil Price Forecasts Yet Again",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/eia_raises_2026_2027_oil_price_forecasts_yet_again-12-nov-2026-185067-article/",
-        "published": "2026-11-12T15:22:14Z",
+        "title": "Europe Enters Winter With Its Lowest Gas Inventory of the 2020s",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Natural-Gas/Europe-Enters-Winter-With-Its-Lowest-Gas-Inventory-of-the-2020s.html",
+        "published": "2026-11-12T21:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "India’s pays record $6.4 billion to import Russian crude oil in October",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/economy/indias-pays-record-64-billion-to-import-russian-crude-oil-in-october/article71694493.ece",
-        "published": "2026-11-12T15:19:58Z",
+        "title": "US no longer needs Iran deal – Trump",
+        "source": "Rt-english.com",
+        "url": "https://rt-english.com/news/648761-trump-no-iran-deal-needed/",
+        "published": "2026-11-12T20:21:42Z",
         "sentiment": "watch"
       },
       {
-        "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us",
-        "published": "2026-11-12T14:27:54Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Why is gasoline suddenly under $4 a gallon?",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4402763/posts",
-        "published": "2026-11-12T14:26:13Z",
+        "title": "Trump says US does not need Iran deal and directs Vance to focus on domestic corruption",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/11/12/trump-says-us-does-not-need-iran-deal-and-directs-vance-to-focus-on-domestic-corruption/",
+        "published": "2026-11-12T20:15:10Z",
         "sentiment": "watch"
       },
       {
-        "title": "The lesson America refuses to learn",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/436093",
-        "published": "2026-11-12T14:07:02Z",
+        "title": "Stylized Post-Apocalyptic Urban Decay Textures Pack (50 PBR Materials) by AssetSmithy",
+        "source": "Unity.com",
+        "url": "https://assetstore.unity.com/packages/2d/textures-materials/stylized-post-apocalyptic-urban-decay-textures-pack-50-pbr-mater-428266",
+        "published": "2026-11-12T20:03:10Z",
         "sentiment": "watch"
       }
     ],
