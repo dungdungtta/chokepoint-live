@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-13T00:30:03.814Z",
+    "generated_at": "2026-11-13T07:12:01.258Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,75 +27,75 @@
   "news": {
     "hormuz": [
       {
-        "title": "Line of Supply Security as Economic Diplomacy: Nepal’s Northern and Southern Corridors",
-        "source": "Khabarhub.com",
-        "url": "https://english.khabarhub.com/2026/12/575079/",
-        "published": "2026-11-12T00:15:13Z",
+        "title": "Skeptical Science New Research for Week #46 2026",
+        "source": "Skepticalscience.com",
+        "url": "https://skepticalscience.com/new_research_2026_46.html",
+        "published": "2026-11-12T07:08:09Z",
         "sentiment": "watch"
       },
       {
-        "title": "Maritime experts seek effective policy implementation",
-        "source": "The Punch",
-        "url": "https://punchng.com/maritime-experts-seek-effective-policy-implementation/",
-        "published": "2026-11-12T00:10:44Z",
+        "title": "13.52-Oz La Roche-Posay Lipikar AP+ Gentle Foaming Cleansing Oil Refill Pack $13.48 + Free Shipping w/ Prime or on orders over $35",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20295363-13-52-oz-la-roche-posay-lipikar-ap-gentle-foaming-cleansing-oil-refill-pack-13-48-free-shipping-w-prime-or-on-orders-over-35",
+        "published": "2026-11-12T06:47:24Z",
         "sentiment": "watch"
       },
       {
-        "title": "US election results could be positive for Lebanon, Hezbollah chief says",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says",
-        "published": "2026-11-12T00:06:50Z",
+        "title": "IIT Madras develops real-time digital twin platform for autonomous maritime navigation",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/india/iit-madras-develops-real-time-digital-twin-platform-for-autonomous-maritime-navigation/articleshow/135758584.cms",
+        "published": "2026-11-12T06:43:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "NSW rakes in N17bn from importers in eight months",
-        "source": "The Punch",
-        "url": "https://punchng.com/nsw-rakes-in-n17bn-from-importers-in-eight-months/",
-        "published": "2026-11-11T23:56:43Z",
+        "title": "The Drone Contact Force – a Cornerstone for the Future Army",
+        "source": "Smallwarsjournal.com",
+        "url": "https://smallwarsjournal.com/2026/11/12/the-drone-contact-force-a-cornerstone-for-the-future-army/",
+        "published": "2026-11-12T06:00:53Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops",
-        "published": "2026-11-11T22:48:03Z",
-        "sentiment": "danger"
+        "title": "Basketball phones and the surprises they may reveal, mayors up in arms over building rules, and a decisive day for Tsavdaridis",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/11/12/basketball-phones-and-the-surprises-they-may-reveal-mayors-up-in-arms-over-building-rules-and-a-decisive-day-for-tsavdaridis/",
+        "published": "2026-11-12T06:00:46Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "G7 foreign ministers say China's actions east of Taiwan threaten stability",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692306.ece",
+        "published": "2026-11-12T05:58:07Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "'Tide of history cannot be stopped': Xi renews call for Taiwan reunification",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/tide-of-history-cannot-be-stopped-xi-renews-call-for-taiwan-reunification/articleshow/135755299.cms",
+        "published": "2026-11-12T04:33:22Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "G7 foreign ministers say China's actions east of Taiwan threaten stability",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/g7-warns-chinas-aggressive-actions-near-taiwan-could-destabilize-region/articleshow/135753657.cms",
+        "published": "2026-11-12T03:28:15Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Drew Endy: A Guide To Solving Global Challenges",
+        "source": "Stanford.edu",
+        "url": "https://fsi.stanford.edu/news/guide-solving-global-challenges-stanford-scholars",
+        "published": "2026-11-12T00:00:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Joint declaration following the G7 Foreign Ministers' Meeting in Paris",
         "source": "Www.gov.uk",
         "url": "https://www.gov.uk/government/news/joint-declaration-following-the-g7-foreign-ministers-meeting-in-paris",
         "published": "2026-11-11T12:42:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Japan’s Most Dangerous Military Constraint Is Time",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/japans-most-dangerous-military-constraint-is-time/",
-        "published": "2026-11-11T08:30:24Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Indonesia’s Wiretap Scandal Heralds a Political Showdown",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/11/11/indonesia-wiretap-prabowo-police-chief/",
-        "published": "2026-11-11T06:00:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "A Guide to Solving Global Challenges with Stanford Scholars",
-        "source": "Stanford.edu",
-        "url": "https://cddrl.fsi.stanford.edu/news/guide-solving-global-challenges-stanford-scholars",
-        "published": "2026-11-11T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil Falls to Lowest Level Since August",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Falls-to-Lowest-Level-Since-August.html",
-        "published": "2026-11-10T16:34:00Z",
         "sentiment": "watch"
       }
     ],
@@ -118,7 +118,7 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "yellow",
+    "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
     "panama": "yellow",
