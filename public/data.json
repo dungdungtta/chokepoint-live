@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-14T01:52:21.716Z",
+    "generated_at": "2026-11-14T08:51:11.966Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Gold inches higher but heads for weekly loss on Fed hike concerns",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-higher-but-heads-for-weekly-loss-on-fed-hike-concerns/articleshow/135785994.cms",
-        "published": "2026-11-13T01:31:36Z",
+        "title": "5 budget bushcraft knives and the grind decides which one you should carry",
+        "source": "The Gadgeteer",
+        "url": "https://the-gadgeteer.com/2026/11/13/best-bushcraft-knives-under-100/",
+        "published": "2026-11-13T06:04:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Squeezed-Between-Peace-Hopes-and-Iran-Escalation-Risk.html",
-        "published": "2026-11-13T00:00:00Z",
+        "title": "Every cargo ship is a target: Russia strikes again off Odessa as talks go nowhere",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-11-13-cargo-ship-target-russia-strikes-odessa.html",
+        "published": "2026-11-13T06:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions",
-        "published": "2026-11-12T23:52:38Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Saudi Arabia Turns to Syria for Troops as Iran-Backed Houthis Fire Missiles and Drones at Riyadh",
-        "source": "Thegatewaypundit.com",
-        "url": "https://www.thegatewaypundit.com/2026/11/saudi-arabia-turns-syria-troops-as-iran-backed/",
-        "published": "2026-11-12T23:40:42Z",
+        "title": "Trump Says He Is Willing to Use Military Force in Cuba Before Leaving Office",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-11-13-trump-willing-to-use-military-force-cuba.html",
+        "published": "2026-11-13T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Royal Navy is so short of ships we're buying them from Norway... for £90million",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16288785/Royal-Navy-short-ships-buying-Norway-90million.html",
-        "published": "2026-11-12T23:19:31Z",
+        "title": "The War With Iran Isn’t Over, And America Will Never Control the Strait of Hormuz",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-11-13-the-war-with-iran-isnt-over.html",
+        "published": "2026-11-13T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil Prices Fall as Optimism Over Conflict Resolution Builds",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-11-13-oil-cost-falls-optimism-conflict-resolution-builds.html",
+        "published": "2026-11-13T06:00:00Z",
         "sentiment": "watch"
       }
     ],
@@ -106,13 +106,6 @@
         "url": "https://www.channelnewsasia.com/singapore/singapore-navy-warship-offshore-patrol-vessel-maritime-security-6478186",
         "published": "2026-10-25T22:00:00Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "F1 Highlights The Realities Of Global Sport’s Chokepoint Problems",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/simonchadwick/2026/10/12/f1-highlights-the-realities-of-global-sports-chokepoint-problems/",
-        "published": "2026-10-12T12:48:40Z",
-        "sentiment": "watch"
       }
     ]
   },
