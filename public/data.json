@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-14T15:42:17.598Z",
+    "generated_at": "2026-11-14T20:08:35.703Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "2-Pack Yecaye 80L Under Bed Storage Containers w/ Wheels (Light Grey) $19.99 ($9.99 each) + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20303769-2-pack-yecaye-80l-under-bed-storage-containers-w-wheels-light-grey-19-99-9-99-each-free-shipping-w-prime-or-on-35",
-        "published": "2026-11-13T15:12:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US Military Downs 2 Iranian Attack Drones as Iran Claims a Strike on a US Radar in Bahrain",
-        "source": "Military.com",
-        "url": "https://military.com/us-military-downs-2-iranian-attack-drones-as-iran-claims-a-strike-on-a-us-radar-in-bahrain",
-        "published": "2026-11-13T14:58:39Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Netanyahu Pushes for Strikes as Trump Is Weakened and Qatar Mediates in a Global Standoff",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/netanyahu-pushes-strikes-trump-weakened-qatar-mediates-global-standoff/5945763",
-        "published": "2026-11-13T14:38:50Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran Says Tanker Carrying LNG Hit Mine, Suffered Explosion in Hormuz",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz/",
-        "published": "2026-11-13T14:37:27Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "How Global Energy Markets Survived Eight Months of Iran War Disruptions",
+        "title": "Trump Extends Jones Act Waiver For Another 90 Days",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/How-Global-Energy-Markets-Survived-Eight-Months-of-Iran-War-Disruptions.html",
-        "published": "2026-11-13T14:30:00Z",
-        "sentiment": "danger"
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Extends-Jones-Act-Waiver-For-Another-90-Days.html",
+        "published": "2026-11-13T19:30:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "World oil market is returning to surplus as Gulf exports recover, says IEA",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover-says-iea-126111301898_1.html",
+        "published": "2026-11-13T18:11:07Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Gulf Oil Exports Recover as Hormuz Shipping Struggles",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/gulf-oil-exports-recover-as-hormuz-shipping-struggles/",
+        "published": "2026-11-13T17:51:12Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "World Oil Market is Returning to Surplus as Gulf Exports Recover",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover/",
+        "published": "2026-11-13T17:37:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Tinubu flags off Bakassi seaport in Cross River",
+        "source": "The Punch",
+        "url": "https://punchng.com/tinubu-flags-off-bakassi-seaport-in-cross-river/",
+        "published": "2026-11-13T17:21:16Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Australia, Philippines to ink defence deal amid South China Sea tensions",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-11-14/major-defence-deal-astralia-philippines-clashes-china/107381694",
+        "published": "2026-11-13T19:48:45Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Friday: Hili dialogue",
         "source": "Whyevolutionistrue.com",
@@ -90,13 +97,6 @@
         "url": "https://www.dw.com/en/china-taiwan-xi-jinping-reunification/a-79929738",
         "published": "2026-11-12T13:26:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "China's Xi Jinping renews calls for 'reunification' with Taiwan",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/china-taiwan-xi-jinping-reunification/a-79929738",
-        "published": "2026-11-12T13:26:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "yellow",
     "malacca": "amber",
     "suez": "amber",
