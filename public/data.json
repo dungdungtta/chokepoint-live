@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-13T21:34:16.705Z",
+    "generated_at": "2026-11-14T01:52:21.716Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Europe Enters Winter With Its Lowest Gas Inventory of the 2020s",
+        "title": "Gold inches higher but heads for weekly loss on Fed hike concerns",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-higher-but-heads-for-weekly-loss-on-fed-hike-concerns/articleshow/135785994.cms",
+        "published": "2026-11-13T01:31:36Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Natural-Gas/Europe-Enters-Winter-With-Its-Lowest-Gas-Inventory-of-the-2020s.html",
-        "published": "2026-11-12T21:00:00Z",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Squeezed-Between-Peace-Hopes-and-Iran-Escalation-Risk.html",
+        "published": "2026-11-13T00:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions",
+        "published": "2026-11-12T23:52:38Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Saudi Arabia Turns to Syria for Troops as Iran-Backed Houthis Fire Missiles and Drones at Riyadh",
+        "source": "Thegatewaypundit.com",
+        "url": "https://www.thegatewaypundit.com/2026/11/saudi-arabia-turns-syria-troops-as-iran-backed/",
+        "published": "2026-11-12T23:40:42Z",
         "sentiment": "watch"
       },
       {
-        "title": "US no longer needs Iran deal – Trump",
-        "source": "Rt-english.com",
-        "url": "https://rt-english.com/news/648761-trump-no-iran-deal-needed/",
-        "published": "2026-11-12T20:21:42Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump says US does not need Iran deal and directs Vance to focus on domestic corruption",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/11/12/trump-says-us-does-not-need-iran-deal-and-directs-vance-to-focus-on-domestic-corruption/",
-        "published": "2026-11-12T20:15:10Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Stylized Post-Apocalyptic Urban Decay Textures Pack (50 PBR Materials) by AssetSmithy",
-        "source": "Unity.com",
-        "url": "https://assetstore.unity.com/packages/2d/textures-materials/stylized-post-apocalyptic-urban-decay-textures-pack-50-pbr-mater-428266",
-        "published": "2026-11-12T20:03:10Z",
+        "title": "Royal Navy is so short of ships we're buying them from Norway... for £90million",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16288785/Royal-Navy-short-ships-buying-Norway-90million.html",
+        "published": "2026-11-12T23:19:31Z",
         "sentiment": "watch"
       }
     ],
