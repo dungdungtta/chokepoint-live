@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-14T08:51:11.966Z",
+    "generated_at": "2026-11-14T15:42:17.598Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "5 budget bushcraft knives and the grind decides which one you should carry",
-        "source": "The Gadgeteer",
-        "url": "https://the-gadgeteer.com/2026/11/13/best-bushcraft-knives-under-100/",
-        "published": "2026-11-13T06:04:00Z",
+        "title": "2-Pack Yecaye 80L Under Bed Storage Containers w/ Wheels (Light Grey) $19.99 ($9.99 each) + Free Shipping w/ Prime or on $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20303769-2-pack-yecaye-80l-under-bed-storage-containers-w-wheels-light-grey-19-99-9-99-each-free-shipping-w-prime-or-on-35",
+        "published": "2026-11-13T15:12:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "Every cargo ship is a target: Russia strikes again off Odessa as talks go nowhere",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-11-13-cargo-ship-target-russia-strikes-odessa.html",
-        "published": "2026-11-13T06:00:00Z",
+        "title": "US Military Downs 2 Iranian Attack Drones as Iran Claims a Strike on a US Radar in Bahrain",
+        "source": "Military.com",
+        "url": "https://military.com/us-military-downs-2-iranian-attack-drones-as-iran-claims-a-strike-on-a-us-radar-in-bahrain",
+        "published": "2026-11-13T14:58:39Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump Says He Is Willing to Use Military Force in Cuba Before Leaving Office",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-11-13-trump-willing-to-use-military-force-cuba.html",
-        "published": "2026-11-13T06:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The War With Iran Isn’t Over, And America Will Never Control the Strait of Hormuz",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-11-13-the-war-with-iran-isnt-over.html",
-        "published": "2026-11-13T06:00:00Z",
+        "title": "Netanyahu Pushes for Strikes as Trump Is Weakened and Qatar Mediates in a Global Standoff",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/netanyahu-pushes-strikes-trump-weakened-qatar-mediates-global-standoff/5945763",
+        "published": "2026-11-13T14:38:50Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil Prices Fall as Optimism Over Conflict Resolution Builds",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-11-13-oil-cost-falls-optimism-conflict-resolution-builds.html",
-        "published": "2026-11-13T06:00:00Z",
+        "title": "Iran Says Tanker Carrying LNG Hit Mine, Suffered Explosion in Hormuz",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz/",
+        "published": "2026-11-13T14:37:27Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "How Global Energy Markets Survived Eight Months of Iran War Disruptions",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/How-Global-Energy-Markets-Survived-Eight-Months-of-Iran-War-Disruptions.html",
+        "published": "2026-11-13T14:30:00Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Friday: Hili dialogue",
+        "source": "Whyevolutionistrue.com",
+        "url": "https://whyevolutionistrue.com/2026/11/13/friday-hili-dialogue-603/",
+        "published": "2026-11-13T12:45:01Z",
+        "sentiment": "watch"
+      },
       {
         "title": "'Reunification is certain': Xi vows to bring Taiwan under China's control",
         "source": "Business Standard",
@@ -90,13 +97,6 @@
         "url": "https://www.dw.com/en/china-taiwan-xi-jinping-reunification/a-79929738",
         "published": "2026-11-12T13:26:00Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Families face new cash crunch if China invades Taiwan, warns top Tory... as  Nvidia honeypot 'lays bare Beijing's lust for tech supremacy'",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16281669/China-Taiwan-Tory-Nvidia-honeypot-Beijing-AI-defence.html",
-        "published": "2026-11-12T12:26:53Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -110,8 +110,8 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
-    "taiwan": "amber",
+    "hormuz": "red",
+    "taiwan": "yellow",
     "malacca": "amber",
     "suez": "amber",
     "panama": "yellow",
