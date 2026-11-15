@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-14T23:57:44.485Z",
+    "generated_at": "2026-11-15T06:12:05.837Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran Claims Attacks on U.S. Radar Station in Bahrain, LNG Tanker in Strait of Hormuz",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/11/13/iran-claims-attacks-on-u-s-radar-station-in-bahrain-lng-tanker-in-strait-of-hormuz/",
-        "published": "2026-11-13T23:52:12Z",
+        "title": "Two oil tankers engulfed in flames in Strait of Hormuz after hitting mines, Iran’s Revolutionary Guards say",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/11/14/two-oil-tankers-engulfed-in-flames-in-strait-of-hormuz-after-hitting-mines-irans-revolutionary-guards-say/",
+        "published": "2026-11-14T06:01:59Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Strait of Hormuz attacks hit monthly record as oil price floor solidifies amid Iran stalemate",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-11-14-strait-of-hormuz-attacks-hit-monthly-record.html",
+        "published": "2026-11-14T06:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "25.4-Oz OGX Renewing + Argan Oil of Morocco Conditioner $7.92 w/ S&S + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20306349-25-4-oz-ogx-renewing-argan-oil-of-morocco-conditioner-7-92-w-s-s-free-shipping-w-prime-or-on-35",
-        "published": "2026-11-13T22:57:40Z",
+        "title": "Energy scarcity is being engineered: Liquefied natural gas carrier struck by mine in the Strait of Hormuz",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-11-14-lng-carrier-hit-by-mine-strait-of-hormuz.html",
+        "published": "2026-11-14T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump says he wants to ‘get Cuba done’ when asked about use of military force",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4402956/posts",
-        "published": "2026-11-13T20:52:40Z",
-        "sentiment": "watch"
+        "title": "Trump to attend first-ever meeting between leaders of US, China and Russia in just days... but Nvidia 'honeypot' scandal and war in Ukraine will not be discussed",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16291913/Trump-Putin-Xi-meeting-Nvidia-Jensen-Huang.html",
+        "published": "2026-11-14T05:26:09Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Crude Fluctuates as Iran Tensions Persist",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/crude_fluctuates_as_iran_tensions_persist-13-nov-2026-185085-article/",
-        "published": "2026-11-13T20:49:29Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
-        "published": "2026-11-13T20:10:15Z",
-        "sentiment": "watch"
+        "title": "‘F the Iranian Leadership’: Bessent Says Death Threats Prove Economic Campaign Working — Regime a ‘Cornered Animal’",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/11/13/f-the-iranian-leadership-bessent-says-death-threats-prove-economic-campaign-working-regime-a-cornered-animal/",
+        "published": "2026-11-14T05:11:40Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Violent attacks on critics of China in Taiwan raise concern over transnational repression",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/violent-attacks-critics-china-taiwan-raise-concern-transnational-138132369",
+        "published": "2026-11-14T05:32:26Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Australia, Philippines to ink defence deal amid South China Sea tensions",
         "source": "ABC News (AU)",
@@ -90,13 +97,6 @@
         "url": "https://economictimes.indiatimes.com/news/international/world-news/xi-says-chinas-complete-reunification-will-certainly-happen-no-room-for-taiwan-independence/articleshow/135771729.cms",
         "published": "2026-11-12T13:36:43Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "China's Xi Jinping renews calls for 'reunification' with Taiwan",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/china-taiwan-xi-jinping-reunification/a-79929738",
-        "published": "2026-11-12T13:26:00Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -110,8 +110,8 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
-    "taiwan": "yellow",
+    "hormuz": "red",
+    "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
     "panama": "yellow",
