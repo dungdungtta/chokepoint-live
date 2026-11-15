@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-15T06:12:05.837Z",
+    "generated_at": "2026-11-15T14:02:37.748Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Two oil tankers engulfed in flames in Strait of Hormuz after hitting mines, Iran’s Revolutionary Guards say",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/11/14/two-oil-tankers-engulfed-in-flames-in-strait-of-hormuz-after-hitting-mines-irans-revolutionary-guards-say/",
-        "published": "2026-11-14T06:01:59Z",
+        "title": "Marshawn Lynch Is Going Beast Mode on Holiday Gifts This Year With Solo Stove",
+        "source": "BroBible",
+        "url": "https://brobible.com/gear/article/marshawn-lynch-is-going-beast-mode-on-holiday-gifts-this-year-with-solo-stove/",
+        "published": "2026-11-14T14:00:55Z",
         "sentiment": "watch"
       },
       {
-        "title": "Strait of Hormuz attacks hit monthly record as oil price floor solidifies amid Iran stalemate",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-11-14-strait-of-hormuz-attacks-hit-monthly-record.html",
-        "published": "2026-11-14T06:00:00Z",
+        "title": "US Seeks To Disrupt Iran's Supply Networks Beyond Naval Blockade",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/us-iran-war-supply-trade-blockade-russia-caspian/33898178.html",
+        "published": "2026-11-14T12:11:25Z",
         "sentiment": "danger"
       },
       {
-        "title": "Energy scarcity is being engineered: Liquefied natural gas carrier struck by mine in the Strait of Hormuz",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-11-14-lng-carrier-hit-by-mine-strait-of-hormuz.html",
-        "published": "2026-11-14T06:00:00Z",
+        "title": "US-Japan Crude Shipping Surges to 9x Costlier, Home Insurance Exceeds Property Taxes in 2/3 of Counties",
+        "source": "Activistpost.com",
+        "url": "https://activistpost.com/us-japan-crude-shipping-surges-to-9x-costlier-home-insurance-exceeds-property-taxes-in-2-3-of-counties/",
+        "published": "2026-11-14T10:56:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump to attend first-ever meeting between leaders of US, China and Russia in just days... but Nvidia 'honeypot' scandal and war in Ukraine will not be discussed",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16291913/Trump-Putin-Xi-meeting-Nvidia-Jensen-Huang.html",
-        "published": "2026-11-14T05:26:09Z",
+        "title": "Iranian lawmaker says Iran's resistance has pushed us into strategic dead end, warns Washington against further miscalculations",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-warns-us-against-miscalculations-as-tensions-escalate-in-strait-of-hormuz/articleshow/135828413.cms",
+        "published": "2026-11-14T09:23:13Z",
         "sentiment": "danger"
       },
       {
-        "title": "‘F the Iranian Leadership’: Bessent Says Death Threats Prove Economic Campaign Working — Regime a ‘Cornered Animal’",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/11/13/f-the-iranian-leadership-bessent-says-death-threats-prove-economic-campaign-working-regime-a-cornered-animal/",
-        "published": "2026-11-14T05:11:40Z",
+        "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february",
+        "published": "2026-11-14T07:46:36Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "China: Xi calls for carrying forward Sun Yat-sen’s legacy in national rejuvenation drive",
+        "source": "Peoplesreview.com.np",
+        "url": "https://peoplesreview.com.np/2026/11/14/china-xi-calls-for-carrying-forward-sun-yat-sens-legacy-in-national-rejuvenation-drive/",
+        "published": "2026-11-14T12:18:20Z",
+        "sentiment": "danger"
+      },
       {
         "title": "Violent attacks on critics of China in Taiwan raise concern over transnational repression",
         "source": "Abcnews.com",
@@ -89,13 +96,6 @@
         "source": "Business Standard",
         "url": "https://www.business-standard.com/world-news/reunification-is-certain-xi-vows-to-bring-taiwan-under-china-s-control-126111201503_1.html",
         "published": "2026-11-12T14:18:12Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Xi says China's 'complete reunification' will certainly happen, no room for Taiwan independence",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/xi-says-chinas-complete-reunification-will-certainly-happen-no-room-for-taiwan-independence/articleshow/135771729.cms",
-        "published": "2026-11-12T13:36:43Z",
         "sentiment": "watch"
       }
     ],
