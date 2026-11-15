@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-15T14:02:37.748Z",
+    "generated_at": "2026-11-15T19:48:36.541Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Marshawn Lynch Is Going Beast Mode on Holiday Gifts This Year With Solo Stove",
-        "source": "BroBible",
-        "url": "https://brobible.com/gear/article/marshawn-lynch-is-going-beast-mode-on-holiday-gifts-this-year-with-solo-stove/",
-        "published": "2026-11-14T14:00:55Z",
+        "title": "Two tankers strike mines in Strait of Hormuz",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/436187",
+        "published": "2026-11-14T19:24:20Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Singapore Makes a $65 Billion Bet on the Future of Gold",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Metals/Gold/Singapore-Makes-a-65-Billion-Bet-on-the-Future-of-Gold.html",
+        "published": "2026-11-14T18:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "US Seeks To Disrupt Iran's Supply Networks Beyond Naval Blockade",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/us-iran-war-supply-trade-blockade-russia-caspian/33898178.html",
-        "published": "2026-11-14T12:11:25Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "US-Japan Crude Shipping Surges to 9x Costlier, Home Insurance Exceeds Property Taxes in 2/3 of Counties",
-        "source": "Activistpost.com",
-        "url": "https://activistpost.com/us-japan-crude-shipping-surges-to-9x-costlier-home-insurance-exceeds-property-taxes-in-2-3-of-counties/",
-        "published": "2026-11-14T10:56:00Z",
+        "title": "Cargo ships are being sunk here and some say it's all part of Russia's plan",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-11-15/inside-crew-rescuing-sailors-from-black-sea-drone-attacks/107380692",
+        "published": "2026-11-14T18:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iranian lawmaker says Iran's resistance has pushed us into strategic dead end, warns Washington against further miscalculations",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-warns-us-against-miscalculations-as-tensions-escalate-in-strait-of-hormuz/articleshow/135828413.cms",
-        "published": "2026-11-14T09:23:13Z",
-        "sentiment": "danger"
+        "title": "$3.84 and the lattice of coincidence (suddenly dropping gas prices)",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-bloggers/4403032/posts",
+        "published": "2026-11-14T17:37:48Z",
+        "sentiment": "watch"
       },
       {
-        "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february",
-        "published": "2026-11-14T07:46:36Z",
-        "sentiment": "danger"
+        "title": "$3.84 and the lattice of coincidence (suddenly dropping gas prices)",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4403032/posts",
+        "published": "2026-11-14T17:37:48Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
