@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-15T19:48:36.541Z",
+    "generated_at": "2026-11-15T23:53:59.005Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,13 @@
   "news": {
     "hormuz": [
       {
+        "title": "Trump To Extend Shipping Waiver For Oil, Fertilizer For 90 Days",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/trump-to-extend-shipping-waiver-for-oil-fertilizer-for-90-days/",
+        "published": "2026-11-14T22:08:51Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Two tankers strike mines in Strait of Hormuz",
         "source": "Israelnationalnews.com",
         "url": "https://www.israelnationalnews.com/news/436187",
@@ -51,13 +58,6 @@
         "title": "$3.84 and the lattice of coincidence (suddenly dropping gas prices)",
         "source": "Freerepublic.com",
         "url": "https://freerepublic.com/focus/f-bloggers/4403032/posts",
-        "published": "2026-11-14T17:37:48Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "$3.84 and the lattice of coincidence (suddenly dropping gas prices)",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4403032/posts",
         "published": "2026-11-14T17:37:48Z",
         "sentiment": "watch"
       }
