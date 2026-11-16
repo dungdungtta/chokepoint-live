@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-15T23:53:59.005Z",
+    "generated_at": "2026-11-16T06:03:48.165Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump To Extend Shipping Waiver For Oil, Fertilizer For 90 Days",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/trump-to-extend-shipping-waiver-for-oil-fertilizer-for-90-days/",
-        "published": "2026-11-14T22:08:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Two tankers strike mines in Strait of Hormuz",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/436187",
-        "published": "2026-11-14T19:24:20Z",
+        "title": "Reports of Iranian Missile Attack on US Warships Remain Unverified; CENTCOM Not Commenting",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-11-15-reports-iranian-missile-attack-us-warships-remain-unverified.html",
+        "published": "2026-11-15T06:00:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Singapore Makes a $65 Billion Bet on the Future of Gold",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Metals/Gold/Singapore-Makes-a-65-Billion-Bet-on-the-Future-of-Gold.html",
-        "published": "2026-11-14T18:00:00Z",
+        "title": "Trump’s Push for Russian Diesel Runs Into Shipping and Buyer Hurdles",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-11-15-trump-push-russian-diesel-runs-into-hurdles.html",
+        "published": "2026-11-15T06:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Cargo ships are being sunk here and some say it's all part of Russia's plan",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-11-15/inside-crew-rescuing-sailors-from-black-sea-drone-attacks/107380692",
-        "published": "2026-11-14T18:00:00Z",
+        "title": "There’s a high cost to living in a Democrat-run state",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/blog/2026/11/there-s-a-high-cost-to-living-in-a-democrat-run-state/",
+        "published": "2026-11-15T05:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "$3.84 and the lattice of coincidence (suddenly dropping gas prices)",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-bloggers/4403032/posts",
-        "published": "2026-11-14T17:37:48Z",
+        "title": "Islamism is a toxic ideology, not a religion",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/blog/2026/11/islam-is-a-toxic-ideology-not-a-religion/",
+        "published": "2026-11-15T05:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Stock splits & dividends: MRF among 31 firms to turn ex-record date",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-splits-dividends-oil-india-cochin-shipyard-mrf-among-31-companies-turning-ex-record-date-this-week/articleshow/135846835.cms",
+        "published": "2026-11-15T03:55:07Z",
         "sentiment": "watch"
       }
     ],
