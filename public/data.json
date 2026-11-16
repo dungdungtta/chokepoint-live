@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-16T06:03:48.165Z",
+    "generated_at": "2026-11-16T15:54:00.754Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "Reports of Iranian Missile Attack on US Warships Remain Unverified; CENTCOM Not Commenting",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-11-15-reports-iranian-missile-attack-us-warships-remain-unverified.html",
-        "published": "2026-11-15T06:00:00Z",
+        "title": "Iran says supertanker carrying oil sinks in Hormuz Strait",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/1115/1599293-iran-tanker-hormuz/",
+        "published": "2026-11-15T15:07:29Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Three ships struck by drones in Black Sea near Romanian shipping canal, PM says",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/romania-black-sea-drone-strike-ships-6552996",
+        "published": "2026-11-15T14:25:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Yemeni govt forces retreat from strait in major setback",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/middle-east/2026/1115/1599287-yemen-govt-retreat/",
+        "published": "2026-11-15T13:57:54Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran targets US military base in Bahrain with drone attack",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
+        "published": "2026-11-15T13:42:58Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Trump’s Push for Russian Diesel Runs Into Shipping and Buyer Hurdles",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-11-15-trump-push-russian-diesel-runs-into-hurdles.html",
-        "published": "2026-11-15T06:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "There’s a high cost to living in a Democrat-run state",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/blog/2026/11/there-s-a-high-cost-to-living-in-a-democrat-run-state/",
-        "published": "2026-11-15T05:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Islamism is a toxic ideology, not a religion",
-        "source": "Americanthinker.com",
-        "url": "https://www.americanthinker.com/blog/2026/11/islam-is-a-toxic-ideology-not-a-religion/",
-        "published": "2026-11-15T05:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Stock splits & dividends: MRF among 31 firms to turn ex-record date",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-splits-dividends-oil-india-cochin-shipyard-mrf-among-31-companies-turning-ex-record-date-this-week/articleshow/135846835.cms",
-        "published": "2026-11-15T03:55:07Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "ASEAN summit: Who’s attending and what’s at stake?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake",
+        "published": "2026-11-15T07:11:24Z",
+        "sentiment": "watch"
+      },
       {
         "title": "China: Xi calls for carrying forward Sun Yat-sen’s legacy in national rejuvenation drive",
         "source": "Peoplesreview.com.np",
@@ -89,13 +89,6 @@
         "source": "Whyevolutionistrue.com",
         "url": "https://whyevolutionistrue.com/2026/11/13/friday-hili-dialogue-603/",
         "published": "2026-11-13T12:45:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "'Reunification is certain': Xi vows to bring Taiwan under China's control",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/reunification-is-certain-xi-vows-to-bring-taiwan-under-china-s-control-126111201503_1.html",
-        "published": "2026-11-12T14:18:12Z",
         "sentiment": "watch"
       }
     ],
