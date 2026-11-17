@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-17T07:59:24.511Z",
+    "generated_at": "2026-11-17T17:33:22.408Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran raises stakes with new drone attacks as Trump signals a waiting game",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/11/15/middleeast/iran-bahrain-attacks-trump-intl",
-        "published": "2026-11-16T07:39:49Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "China Turns to Iraqi Oil as U.S. Blockade Chokes Iranian Supply",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Turns-to-Iraqi-Oil-as-US-Blockade-Chokes-Iranian-Supply.html",
-        "published": "2026-11-16T07:30:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Brent’s sharp decline fails to bring cheaper fuel to Greece",
-        "source": "Naftemporiki.gr",
-        "url": "https://www.naftemporiki.gr/english/2189506/brents-sharp-decline-fails-to-bring-cheaper-fuel-to-greece/",
-        "published": "2026-11-16T06:20:15Z",
+        "title": "Euro 1969 Mercedes-Benz 280SL 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1969-mercedes-benz-280sl-179/",
+        "published": "2026-11-16T17:20:19Z",
         "sentiment": "watch"
       },
       {
-        "title": "Yemeni forces pull back from key strait as Houthis near Aden",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/yemeni-forces-pull-back-from-key-strait-as-houthis-near-aden-229435",
-        "published": "2026-11-16T05:39:38Z",
+        "title": "The Future of Maritime Safety: Navigating the Polar Frontier’s Uncharted Waters and Hidden Hazards",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/the-future-of-maritime-safety-navigating-the-polar-frontiers-uncharted-waters-and-hidden-hazards/",
+        "published": "2026-11-16T17:05:21Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Venezuela’s Oil Comeback Faces a New Threat From Washington",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Venezuelas-Oil-Comeback-Faces-a-New-Threat-From-Washington.html",
+        "published": "2026-11-16T17:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Performance Tool W4079 11-Quart Automotive Oil Drain Pan with Filter Stand $9.99",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20320713-performance-tool-w4079-11-quart-automotive-oil-drain-pan-with-filter-stand-9-99",
+        "published": "2026-11-16T16:58:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "U.S. crude oil declines to $87 a barrel on recovering Middle East exports",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+        "published": "2026-11-16T16:06:27Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Obituaries",
+        "source": "Stratechery.com",
+        "url": "https://stratechery.com/2026/obituaries/",
+        "published": "2026-11-16T11:02:49Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The military needs strategic thinkers, not just operators",
         "source": "Defense One",
@@ -83,13 +97,6 @@
         "url": "https://abcnews.com/International/wireStory/violent-attacks-critics-china-taiwan-raise-concern-transnational-138132369",
         "published": "2026-11-14T05:32:26Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Australia, Philippines to ink defence deal amid South China Sea tensions",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-11-14/major-defence-deal-astralia-philippines-clashes-china/107381694",
-        "published": "2026-11-13T19:48:45Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
