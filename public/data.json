@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-17T00:07:45.976Z",
+    "generated_at": "2026-11-17T07:59:24.511Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Jensen’s Part Time Lover",
-        "source": "Substack.com",
-        "url": "https://chinaarticles.substack.com/p/jensens-part-time-lover",
-        "published": "2026-11-16T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump’s Hormuz squeeze has Iran strangled — now slam its back door, too",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/11/15/opinion/trumps-hormuz-squeeze-has-iran-strangled-slam-its-back-door-too/",
-        "published": "2026-11-15T21:05:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Pre-Seed Funding: What It Is, Who Writes the Checks, and How It Differs From Seed",
-        "source": "Addicted2success.com",
-        "url": "https://addicted2success.com/startups/pre-seed-funding/",
-        "published": "2026-11-15T20:54:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "ARR vs MRR: Which Number Investors Actually Read (With Worked Examples)",
-        "source": "Addicted2success.com",
-        "url": "https://addicted2success.com/startups/arr-vs-mrr/",
-        "published": "2026-11-15T20:53:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Venture Debt: How It Works, Warrants and Covenants, and When It Beats Another Equity Round",
-        "source": "Addicted2success.com",
-        "url": "https://addicted2success.com/startups/venture-debt/",
-        "published": "2026-11-15T20:27:50Z",
+        "title": "Iran raises stakes with new drone attacks as Trump signals a waiting game",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/11/15/middleeast/iran-bahrain-attacks-trump-intl",
+        "published": "2026-11-16T07:39:49Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "China Turns to Iraqi Oil as U.S. Blockade Chokes Iranian Supply",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Turns-to-Iraqi-Oil-as-US-Blockade-Chokes-Iranian-Supply.html",
+        "published": "2026-11-16T07:30:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Brent’s sharp decline fails to bring cheaper fuel to Greece",
+        "source": "Naftemporiki.gr",
+        "url": "https://www.naftemporiki.gr/english/2189506/brents-sharp-decline-fails-to-bring-cheaper-fuel-to-greece/",
+        "published": "2026-11-16T06:20:15Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Yemeni forces pull back from key strait as Houthis near Aden",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/yemeni-forces-pull-back-from-key-strait-as-houthis-near-aden-229435",
+        "published": "2026-11-16T05:39:38Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
