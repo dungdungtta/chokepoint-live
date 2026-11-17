@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-16T15:54:00.754Z",
+    "generated_at": "2026-11-17T00:07:45.976Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,35 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Iran says supertanker carrying oil sinks in Hormuz Strait",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/1115/1599293-iran-tanker-hormuz/",
-        "published": "2026-11-15T15:07:29Z",
+        "title": "Jensen’s Part Time Lover",
+        "source": "Substack.com",
+        "url": "https://chinaarticles.substack.com/p/jensens-part-time-lover",
+        "published": "2026-11-16T00:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Three ships struck by drones in Black Sea near Romanian shipping canal, PM says",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/romania-black-sea-drone-strike-ships-6552996",
-        "published": "2026-11-15T14:25:00Z",
+        "title": "Trump’s Hormuz squeeze has Iran strangled — now slam its back door, too",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/11/15/opinion/trumps-hormuz-squeeze-has-iran-strangled-slam-its-back-door-too/",
+        "published": "2026-11-15T21:05:40Z",
         "sentiment": "watch"
       },
       {
-        "title": "Yemeni govt forces retreat from strait in major setback",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/middle-east/2026/1115/1599287-yemen-govt-retreat/",
-        "published": "2026-11-15T13:57:54Z",
+        "title": "Pre-Seed Funding: What It Is, Who Writes the Checks, and How It Differs From Seed",
+        "source": "Addicted2success.com",
+        "url": "https://addicted2success.com/startups/pre-seed-funding/",
+        "published": "2026-11-15T20:54:31Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran targets US military base in Bahrain with drone attack",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
-        "published": "2026-11-15T13:42:58Z",
+        "title": "ARR vs MRR: Which Number Investors Actually Read (With Worked Examples)",
+        "source": "Addicted2success.com",
+        "url": "https://addicted2success.com/startups/arr-vs-mrr/",
+        "published": "2026-11-15T20:53:19Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Venture Debt: How It Works, Warrants and Covenants, and When It Beats Another Equity Round",
+        "source": "Addicted2success.com",
+        "url": "https://addicted2success.com/startups/venture-debt/",
+        "published": "2026-11-15T20:27:50Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "The military needs strategic thinkers, not just operators",
+        "source": "Defense One",
+        "url": "https://www.defenseone.com/ideas/2026/11/military-strategic-thinkers-hegseth-education/417238/",
+        "published": "2026-11-15T18:41:11Z",
+        "sentiment": "watch"
+      },
       {
         "title": "ASEAN summit: Who’s attending and what’s at stake?",
         "source": "Al Jazeera English",
@@ -82,13 +96,6 @@
         "source": "ABC News (AU)",
         "url": "https://www.abc.net.au/news/2026-11-14/major-defence-deal-astralia-philippines-clashes-china/107381694",
         "published": "2026-11-13T19:48:45Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Friday: Hili dialogue",
-        "source": "Whyevolutionistrue.com",
-        "url": "https://whyevolutionistrue.com/2026/11/13/friday-hili-dialogue-603/",
-        "published": "2026-11-13T12:45:01Z",
         "sentiment": "watch"
       }
     ],
