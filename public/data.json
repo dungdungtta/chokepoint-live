@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-17T17:33:22.408Z",
+    "generated_at": "2026-11-17T23:58:31.189Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Euro 1969 Mercedes-Benz 280SL 4-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1969-mercedes-benz-280sl-179/",
-        "published": "2026-11-16T17:20:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The Future of Maritime Safety: Navigating the Polar Frontier’s Uncharted Waters and Hidden Hazards",
+        "title": "EU Targets Shadow Fleet Shipowners, Managers and Insurers in New Russia Sanctions",
         "source": "gcaptain.com",
-        "url": "https://gcaptain.com/the-future-of-maritime-safety-navigating-the-polar-frontiers-uncharted-waters-and-hidden-hazards/",
-        "published": "2026-11-16T17:05:21Z",
+        "url": "https://gcaptain.com/eu-targets-shadow-fleet-shipowners-managers-and-insurers-in-new-russia-sanctions/",
+        "published": "2026-11-16T23:20:40Z",
         "sentiment": "watch"
       },
       {
-        "title": "Venezuela’s Oil Comeback Faces a New Threat From Washington",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Venezuelas-Oil-Comeback-Faces-a-New-Threat-From-Washington.html",
-        "published": "2026-11-16T17:00:00Z",
+        "title": "US hits massive Naval firepower milestone in the Middle East as Trump mulls Iran strikes",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/11/16/world-news/uss-roosevelt-arrives-in-middle-east-as-trump-mulls-new-iran-strikes/",
+        "published": "2026-11-16T23:18:48Z",
         "sentiment": "danger"
       },
       {
-        "title": "Performance Tool W4079 11-Quart Automotive Oil Drain Pan with Filter Stand $9.99",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20320713-performance-tool-w4079-11-quart-automotive-oil-drain-pan-with-filter-stand-9-99",
-        "published": "2026-11-16T16:58:17Z",
+        "title": "Craftsman V20 Cordless Multi-Size Ratchet Wrench (Tool Only) for $79 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Craftsman-V20-Cordless-Multi-Size-Ratchet-Wrench-Tool-Only-for-79-free-shipping/22403805.html",
+        "published": "2026-11-16T22:01:08Z",
         "sentiment": "watch"
       },
       {
-        "title": "U.S. crude oil declines to $87 a barrel on recovering Middle East exports",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-        "published": "2026-11-16T16:06:27Z",
+        "title": "Can Underwater Data Centers Escape the Land-Based Backlash?",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Can-Underwater-Data-Centers-Escape-the-Land-Based-Backlash.html",
+        "published": "2026-11-16T22:00:00Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "San Diego-based carrier arrives in the Middle East as Trump keeps options open in the Iran war",
+        "source": "KPBS",
+        "url": "https://www.kpbs.org/news/military/2026/11/16/san-diego-based-carrier-arrives-in-the-middle-east-as-trump-keeps-options-open-in-the-iran-war",
+        "published": "2026-11-16T21:17:43Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
