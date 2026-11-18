@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-11-18T16:29:57.700Z",
+    "generated_at": "2026-11-18T23:04:47.358Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 92.14,
-      "change_pct": 2.2,
-      "date": "2026-11-11",
+      "price": 92.94,
+      "change_pct": 0,
+      "date": "2026-11-17",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "EIA Sees USA Oil Output Averaging 13.99MM Bpd in Q4",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/eia_sees_usa_oil_output_averaging_1399mm_bpd_in_q4-17-nov-2026-185105-article/",
-        "published": "2026-11-17T14:54:49Z",
+        "title": "Moment gas tanker is completely consumed by flames after being 'hit by projectile while sailing through the Strait of Hormuz'",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16300767/gas-tanker-flames-projectile-sailing-Strait-Hormuz.html",
+        "published": "2026-11-17T21:47:39Z",
         "sentiment": "watch"
       },
       {
-        "title": "Amazon - Neutrogena Oil-Free Eye Makeup Remover 8 oz $5.37",
+        "title": "300-Count VEV Organic Oil of Oregano Softgels w/ Black Seed Oil & Moringa $9.49 + Free Shipping w/ Prime or on $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20329479-300-count-vev-organic-oil-of-oregano-softgels-w-black-seed-oil-moringa-9-49-free-shipping-w-prime-or-on-35",
+        "published": "2026-11-17T21:28:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Goldman Sachs sees Brent oil averaging USD 88 in 2027 despite expected oil market surplus",
+        "source": "ANI News",
+        "url": "https://www.aninews.in/news/business/goldman-sachs-sees-brent-oil-averaging-usd-88-in-2027-despite-expected-oil-market-surplus20261117112145",
+        "published": "2026-11-17T20:49:23Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "85 best Black Friday deals we already found",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/guides/deals/best-black-friday-sales-deals-2026-11-17",
+        "published": "2026-11-17T20:47:28Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Amazon - Mobil 1 Extended Performance Oil Filter, M1-110A | 2 Pack $21.60",
         "source": "Dealcatcher.com",
-        "url": "https://www.dealcatcher.com/deals/health-beauty/makeup-skincare/neutrogena-oil-free-eye-makeup-remover-oz-466204",
-        "published": "2026-11-17T14:44:31Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "A 2-Month Lull Ends With Iran’s Third Strike on US Targets in Bahrain",
-        "source": "Military.com",
-        "url": "https://www.military.com/a-2-month-lull-ends-with-irans-third-strike-on-us-targets-in-bahrain",
-        "published": "2026-11-17T14:35:02Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "U.S. Opens New Front in Campaign to Cut Off Iran’s Supply Routes",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Geopolitics/Middle-East/US-Opens-New-Front-in-Campaign-to-Cut-Off-Irans-Supply-Routes.html",
-        "published": "2026-11-17T14:30:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China, Russia’s reality check for Trump: Why US sanctions may not matter any more",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/business/international-business/china-russias-reality-check-for-trump-why-us-sanctions-may-not-matter-any-more/articleshow/135928704.cms",
-        "published": "2026-11-17T14:21:45Z",
+        "url": "https://www.dealcatcher.com/deals/household/automotive/mobil-extended-performance-oil-pack-467071",
+        "published": "2026-11-17T20:46:40Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Xi Makes the Most of Trump’s Asia-Pacific Trip",
+        "source": "Foreign Policy",
+        "url": "https://foreignpolicy.com/2026/11/17/china-xi-trade-canada-tariffs-peru-trump-asean-apec/",
+        "published": "2026-11-17T21:52:41Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Tokyo protests after two suspected Russian aircraft violate Japanese airspace",
         "source": "Abcnews.com",
@@ -82,13 +89,6 @@
         "source": "Defense One",
         "url": "https://www.defenseone.com/ideas/2026/11/military-strategic-thinkers-hegseth-education/417238/",
         "published": "2026-11-15T18:41:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "ASEAN summit: Who’s attending and what’s at stake?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake",
-        "published": "2026-11-15T07:11:24Z",
         "sentiment": "watch"
       }
     ],
