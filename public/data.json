@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-17T23:58:31.189Z",
+    "generated_at": "2026-11-18T07:11:12.605Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,42 @@
   "news": {
     "hormuz": [
       {
-        "title": "EU Targets Shadow Fleet Shipowners, Managers and Insurers in New Russia Sanctions",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/eu-targets-shadow-fleet-shipowners-managers-and-insurers-in-new-russia-sanctions/",
-        "published": "2026-11-16T23:20:40Z",
+        "title": "Midterm Meltdown: How US elections sparked a rethink on energy risks",
+        "source": "Economictimes.com",
+        "url": "https://m.economictimes.com/industry/energy/oil-gas/midterm-meltdown-how-us-elections-sparked-a-rethink-on-energy-risks/articleshow/135913165.cms",
+        "published": "2026-11-17T06:52:42Z",
         "sentiment": "watch"
       },
       {
-        "title": "US hits massive Naval firepower milestone in the Middle East as Trump mulls Iran strikes",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/11/16/world-news/uss-roosevelt-arrives-in-middle-east-as-trump-mulls-new-iran-strikes/",
-        "published": "2026-11-16T23:18:48Z",
+        "title": "Oil Prices Slide as Global Glut Fears Eclipse Hormuz Attacks",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-as-Global-Glut-Fears-Eclipse-Hormuz-Attacks.html",
+        "published": "2026-11-17T06:10:00Z",
         "sentiment": "danger"
       },
       {
-        "title": "Craftsman V20 Cordless Multi-Size Ratchet Wrench (Tool Only) for $79 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Craftsman-V20-Cordless-Multi-Size-Ratchet-Wrench-Tool-Only-for-79-free-shipping/22403805.html",
-        "published": "2026-11-16T22:01:08Z",
-        "sentiment": "watch"
+        "title": "Gulf Oil Output Rises Amid Hormuz Attacks; Crude Prices Fall",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-11-17-gulf-oil-output-rises-amid-hormuz-attacks.html",
+        "published": "2026-11-17T06:00:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Can Underwater Data Centers Escape the Land-Based Backlash?",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Can-Underwater-Data-Centers-Escape-the-Land-Based-Backlash.html",
-        "published": "2026-11-16T22:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "San Diego-based carrier arrives in the Middle East as Trump keeps options open in the Iran war",
-        "source": "KPBS",
-        "url": "https://www.kpbs.org/news/military/2026/11/16/san-diego-based-carrier-arrives-in-the-middle-east-as-trump-keeps-options-open-in-the-iran-war",
-        "published": "2026-11-16T21:17:43Z",
+        "title": "Amid War Strains, Washington and Moscow Experiment With Private Armies",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/11/amid-war-strains-washington-and-moscow-experiment-with-private-armies.html",
+        "published": "2026-11-17T05:36:38Z",
         "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Tokyo protests after two suspected Russian aircraft violate Japanese airspace",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/tokyo-protests-after-suspected-russian-aircraft-violate-japanese-138201049",
+        "published": "2026-11-17T06:57:20Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Obituaries",
         "source": "Stratechery.com",
@@ -90,13 +90,6 @@
         "url": "https://peoplesreview.com.np/2026/11/14/china-xi-calls-for-carrying-forward-sun-yat-sens-legacy-in-national-rejuvenation-drive/",
         "published": "2026-11-14T12:18:20Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Violent attacks on critics of China in Taiwan raise concern over transnational repression",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/violent-attacks-critics-china-taiwan-raise-concern-transnational-138132369",
-        "published": "2026-11-14T05:32:26Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -110,7 +103,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
