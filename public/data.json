@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-18T07:11:12.605Z",
+    "generated_at": "2026-11-18T16:29:57.700Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,32 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Midterm Meltdown: How US elections sparked a rethink on energy risks",
-        "source": "Economictimes.com",
-        "url": "https://m.economictimes.com/industry/energy/oil-gas/midterm-meltdown-how-us-elections-sparked-a-rethink-on-energy-risks/articleshow/135913165.cms",
-        "published": "2026-11-17T06:52:42Z",
+        "title": "EIA Sees USA Oil Output Averaging 13.99MM Bpd in Q4",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/eia_sees_usa_oil_output_averaging_1399mm_bpd_in_q4-17-nov-2026-185105-article/",
+        "published": "2026-11-17T14:54:49Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Prices Slide as Global Glut Fears Eclipse Hormuz Attacks",
+        "title": "Amazon - Neutrogena Oil-Free Eye Makeup Remover 8 oz $5.37",
+        "source": "Dealcatcher.com",
+        "url": "https://www.dealcatcher.com/deals/health-beauty/makeup-skincare/neutrogena-oil-free-eye-makeup-remover-oz-466204",
+        "published": "2026-11-17T14:44:31Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "A 2-Month Lull Ends With Iran’s Third Strike on US Targets in Bahrain",
+        "source": "Military.com",
+        "url": "https://www.military.com/a-2-month-lull-ends-with-irans-third-strike-on-us-targets-in-bahrain",
+        "published": "2026-11-17T14:35:02Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "U.S. Opens New Front in Campaign to Cut Off Iran’s Supply Routes",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-as-Global-Glut-Fears-Eclipse-Hormuz-Attacks.html",
-        "published": "2026-11-17T06:10:00Z",
-        "sentiment": "danger"
+        "url": "https://oilprice.com/Geopolitics/Middle-East/US-Opens-New-Front-in-Campaign-to-Cut-Off-Irans-Supply-Routes.html",
+        "published": "2026-11-17T14:30:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Gulf Oil Output Rises Amid Hormuz Attacks; Crude Prices Fall",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-11-17-gulf-oil-output-rises-amid-hormuz-attacks.html",
-        "published": "2026-11-17T06:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Amid War Strains, Washington and Moscow Experiment With Private Armies",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/11/amid-war-strains-washington-and-moscow-experiment-with-private-armies.html",
-        "published": "2026-11-17T05:36:38Z",
-        "sentiment": "danger"
+        "title": "China, Russia’s reality check for Trump: Why US sanctions may not matter any more",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/business/international-business/china-russias-reality-check-for-trump-why-us-sanctions-may-not-matter-any-more/articleshow/135928704.cms",
+        "published": "2026-11-17T14:21:45Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -83,13 +90,6 @@
         "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake",
         "published": "2026-11-15T07:11:24Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "China: Xi calls for carrying forward Sun Yat-sen’s legacy in national rejuvenation drive",
-        "source": "Peoplesreview.com.np",
-        "url": "https://peoplesreview.com.np/2026/11/14/china-xi-calls-for-carrying-forward-sun-yat-sens-legacy-in-national-rejuvenation-drive/",
-        "published": "2026-11-14T12:18:20Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -103,8 +103,8 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
-    "taiwan": "amber",
+    "hormuz": "amber",
+    "taiwan": "yellow",
     "malacca": "amber",
     "suez": "amber",
     "panama": "yellow",
