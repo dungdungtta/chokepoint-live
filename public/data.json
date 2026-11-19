@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-18T23:04:47.358Z",
+    "generated_at": "2026-11-19T04:13:30.727Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Moment gas tanker is completely consumed by flames after being 'hit by projectile while sailing through the Strait of Hormuz'",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16300767/gas-tanker-flames-projectile-sailing-Strait-Hormuz.html",
-        "published": "2026-11-17T21:47:39Z",
+        "title": "Oil prices fall as US stockpile gains ease supply concerns amid Iran war",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-us-stockpile-gains-ease-supply-concerns-amid-iran-war-126111800139_1.html",
+        "published": "2026-11-18T04:11:08Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil prices today: Crude falls as US inventories rise; Iran tensions limit losses",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-crude-falls-as-us-inventories-rise-iran-tensions-limit-losses/articleshow/135946781.cms",
+        "published": "2026-11-18T03:04:32Z",
         "sentiment": "watch"
       },
       {
-        "title": "300-Count VEV Organic Oil of Oregano Softgels w/ Black Seed Oil & Moringa $9.49 + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20329479-300-count-vev-organic-oil-of-oregano-softgels-w-black-seed-oil-moringa-9-49-free-shipping-w-prime-or-on-35",
-        "published": "2026-11-17T21:28:25Z",
+        "title": "Oil Price Today (November 18): Brent crude drops below $93 as traders weigh supply surplus and fresh attacks. What are experts saying?",
+        "source": "Economictimes.com",
+        "url": "https://m.economictimes.com/markets/commodities/news/oil-price-today-november-18-brent-crude-drops-below-93-as-traders-weigh-supply-surplus-and-fresh-attacks-what-are-experts-saying/articleshow/135945687.cms",
+        "published": "2026-11-18T02:23:52Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Oil prices fall as higher US crude stocks temper supply risks",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-prices-fall-higher-us-crude-stocks-temper-supply-risks-6561041",
+        "published": "2026-11-18T02:16:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "Goldman Sachs sees Brent oil averaging USD 88 in 2027 despite expected oil market surplus",
-        "source": "ANI News",
-        "url": "https://www.aninews.in/news/business/goldman-sachs-sees-brent-oil-averaging-usd-88-in-2027-despite-expected-oil-market-surplus20261117112145",
-        "published": "2026-11-17T20:49:23Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "85 best Black Friday deals we already found",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/guides/deals/best-black-friday-sales-deals-2026-11-17",
-        "published": "2026-11-17T20:47:28Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Amazon - Mobil 1 Extended Performance Oil Filter, M1-110A | 2 Pack $21.60",
-        "source": "Dealcatcher.com",
-        "url": "https://www.dealcatcher.com/deals/household/automotive/mobil-extended-performance-oil-pack-467071",
-        "published": "2026-11-17T20:46:40Z",
+        "title": "In 45 Days Defense Giants Must Prove Their Magnets Are China-Free",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/In-45-Days-Defense-Giants-Must-Prove-Their-Magnets-Are-China-Free.html",
+        "published": "2026-11-18T02:00:00Z",
         "sentiment": "watch"
       }
     ],
