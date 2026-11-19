@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-19T04:13:30.727Z",
+    "generated_at": "2026-11-19T13:28:51.377Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil prices fall as US stockpile gains ease supply concerns amid Iran war",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-us-stockpile-gains-ease-supply-concerns-amid-iran-war-126111800139_1.html",
-        "published": "2026-11-18T04:11:08Z",
+        "title": "Oil Prices Today: Brent Falls Below $92 and WTI Drops 2% as US Stockpiles Swell Despite Hormuz Tanker Attacks",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/oil-prices-fall-us-inventories-strait-hormuz-risks-1878842",
+        "published": "2026-11-18T13:24:23Z",
         "sentiment": "danger"
       },
       {
-        "title": "Oil prices today: Crude falls as US inventories rise; Iran tensions limit losses",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-crude-falls-as-us-inventories-rise-iran-tensions-limit-losses/articleshow/135946781.cms",
-        "published": "2026-11-18T03:04:32Z",
+        "title": "Strait of Hormuz: US Strikes Iran's Qeshm Island as Tehran Claims More Tanker Mine Hits, Says Strait Is Closed",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/us-strikes-iranian-missile-site-hormuz-closure-1878846",
+        "published": "2026-11-18T13:23:04Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o",
+        "published": "2026-11-18T13:04:48Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Iran Conflict Reshapes Global LNG Trade",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/iran_conflict_reshapes_global_lng_trade-18-nov-2026-185112-article/",
+        "published": "2026-11-18T13:00:25Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil Price Today (November 18): Brent crude drops below $93 as traders weigh supply surplus and fresh attacks. What are experts saying?",
-        "source": "Economictimes.com",
-        "url": "https://m.economictimes.com/markets/commodities/news/oil-price-today-november-18-brent-crude-drops-below-93-as-traders-weigh-supply-surplus-and-fresh-attacks-what-are-experts-saying/articleshow/135945687.cms",
-        "published": "2026-11-18T02:23:52Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices fall as higher US crude stocks temper supply risks",
+        "title": "Stocks slip as investors mull Nvidia earnings; Anthropic IPO to test AI boom",
         "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-prices-fall-higher-us-crude-stocks-temper-supply-risks-6561041",
-        "published": "2026-11-18T02:16:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "In 45 Days Defense Giants Must Prove Their Magnets Are China-Free",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/In-45-Days-Defense-Giants-Must-Prove-Their-Magnets-Are-China-Free.html",
-        "published": "2026-11-18T02:00:00Z",
+        "url": "https://www.channelnewsasia.com/business/stocks-slip-investors-mull-nvidia-earnings-anthropic-ipo-test-ai-boom-6560946",
+        "published": "2026-11-18T12:52:33Z",
         "sentiment": "watch"
       }
     ],
@@ -103,7 +103,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "yellow",
     "malacca": "amber",
     "suez": "amber",
