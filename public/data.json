@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-19T13:28:51.377Z",
+    "generated_at": "2026-11-19T21:45:01.501Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Prices Today: Brent Falls Below $92 and WTI Drops 2% as US Stockpiles Swell Despite Hormuz Tanker Attacks",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/oil-prices-fall-us-inventories-strait-hormuz-risks-1878842",
-        "published": "2026-11-18T13:24:23Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Strait of Hormuz: US Strikes Iran's Qeshm Island as Tehran Claims More Tanker Mine Hits, Says Strait Is Closed",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/us-strikes-iranian-missile-site-hormuz-closure-1878846",
-        "published": "2026-11-18T13:23:04Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o",
-        "published": "2026-11-18T13:04:48Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran Conflict Reshapes Global LNG Trade",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/iran_conflict_reshapes_global_lng_trade-18-nov-2026-185112-article/",
-        "published": "2026-11-18T13:00:25Z",
+        "title": "Best Meat Thermometers: Thermapen ONE, TP19H and MEATER Plus Picks",
+        "source": "Gearculture.com",
+        "url": "https://gearculture.com/goods/best-meat-thermometers/",
+        "published": "2026-11-18T21:33:01Z",
         "sentiment": "watch"
       },
       {
-        "title": "Stocks slip as investors mull Nvidia earnings; Anthropic IPO to test AI boom",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/stocks-slip-investors-mull-nvidia-earnings-anthropic-ipo-test-ai-boom-6560946",
-        "published": "2026-11-18T12:52:33Z",
+        "title": "Shipping Industry Presses for Global IMO Climate Deal as Divisions Over Rules Persist",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/shipping-industry-presses-for-global-imo-climate-deal-as-divisions-over-rules-persist/",
+        "published": "2026-11-18T21:32:01Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Tanker Attacks Return to Hormuz, but Container Ships Escape Direct Hits",
+        "source": "WWD",
+        "url": "https://wwd.com/sourcing-journal/logistics/strait-of-hormuz-tanker-attacks-container-shipping-port-congestion-1239425422/",
+        "published": "2026-11-18T19:24:28Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Russian warships being 'worked to death' as they are forced to spend longer at sea to protect Putin's decrepit fleet of sanctioned oil tankers",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16303315/russian-warships-death-protect-vladimir-putin-shadow-fleet.html",
+        "published": "2026-11-18T18:47:53Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "71+ new products our editors are talking about this month: Apple, Nike, Samsung and more",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/select/shopping/best-new-products-november-2026-rcna610052",
+        "published": "2026-11-18T18:40:22Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "What to know about Trump's meeting with Xi in China",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/trump-xi-meet-china-chips-ai/",
+        "published": "2026-11-18T20:23:41Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump, Putin and Xi exchange first handshakes ahead of historic China talks",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/11/18/trump-putin-and-xi-exchange-first-handshakes-ahead-of-historic-china-talks/",
+        "published": "2026-11-18T14:21:52Z",
+        "sentiment": "neutral"
+      },
       {
         "title": "Xi Makes the Most of Trump’s Asia-Pacific Trip",
         "source": "Foreign Policy",
@@ -75,20 +89,6 @@
         "source": "Abcnews.com",
         "url": "https://abcnews.com/International/wireStory/tokyo-protests-after-suspected-russian-aircraft-violate-japanese-138201049",
         "published": "2026-11-17T06:57:20Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Obituaries",
-        "source": "Stratechery.com",
-        "url": "https://stratechery.com/2026/obituaries/",
-        "published": "2026-11-16T11:02:49Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "The military needs strategic thinkers, not just operators",
-        "source": "Defense One",
-        "url": "https://www.defenseone.com/ideas/2026/11/military-strategic-thinkers-hegseth-education/417238/",
-        "published": "2026-11-15T18:41:11Z",
         "sentiment": "watch"
       }
     ],
@@ -103,7 +103,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "yellow",
     "malacca": "amber",
     "suez": "amber",
