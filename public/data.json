@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-20T02:40:59.650Z",
+    "generated_at": "2026-11-20T10:34:33.489Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,76 +27,76 @@
   "news": {
     "hormuz": [
       {
-        "title": "US military returns to 2 aircraft carriers in West Asia",
-        "source": "Economictimes.com",
-        "url": "https://m.economictimes.com/news/defence/us-military-returns-to-2-aircraft-carriers-in-west-asia/articleshow/135975025.cms",
-        "published": "2026-11-19T01:46:09Z",
+        "title": "Oil Prices Are Making Fashion’s Polyester Addiction Even Uglier",
+        "source": "Vogue",
+        "url": "https://www.vogue.com/article/oil-prices-are-making-fashions-polyester-addiction-even-uglier",
+        "published": "2026-11-19T10:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran and US trade tit-for-tat strikes as wild video shows strike on UAE oil tanker",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/11/18/world-news/uae-oil-tanker-struck-in-strait-of-hormuz-amid-us-iran-attacks/",
-        "published": "2026-11-18T23:11:17Z",
+        "title": "India’s Oil Imports Hit Record High as Saudi Shipments Surge",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Oil-Imports-Hit-Record-High-as-Saudi-Shipments-Surge.html",
+        "published": "2026-11-19T10:30:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Neutrality Works: Why Neutral States are Critical in a Multipolar World",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/11/neutrality-works-why-neutral-states-are-critical-in-a-multipolar-world.html",
+        "published": "2026-11-19T10:18:16Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Oil up as shipping attacks counter supply surplus outlook",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/1119/1599805-world-oil-prices/",
+        "published": "2026-11-19T10:09:03Z",
         "sentiment": "danger"
       },
       {
-        "title": "KT McFarland says China Meeting Is Nothing “Except A Bunch Of Photo Ops.”",
-        "source": "Fox News",
-        "url": "https://radio.foxnews.com/2026/11/18/kt-mcfarland-says-china-meeting-is-nothing-except-a-bunch-of-photo-ops/",
-        "published": "2026-11-18T23:00:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "US military returns to 2 aircraft carriers in the Middle East",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/us-military-returns-2-aircraft-carriers-middle-east-138263316",
-        "published": "2026-11-18T22:40:19Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Best Meat Thermometers: Thermapen ONE, TP19H and MEATER Plus Picks",
-        "source": "Gearculture.com",
-        "url": "https://gearculture.com/goods/best-meat-thermometers/",
-        "published": "2026-11-18T21:33:01Z",
+        "title": "How Conservatives Lost Their Minds Over the “Indian Question”",
+        "source": "Thenation.com",
+        "url": "https://www.thenation.com/article/politics/indian-question-politics-racism-conservatives/",
+        "published": "2026-11-19T10:00:00Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
       {
-        "title": "Japan's Troubled Relations With China and Russia Enter a New Diplomatic Phase",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/151448.php",
-        "published": "2026-11-18T23:09:02Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "KT McFarland says China Meeting Is Nothing “Except A Bunch Of Photo Ops.”",
-        "source": "Fox News",
-        "url": "https://radio.foxnews.com/2026/11/18/kt-mcfarland-says-china-meeting-is-nothing-except-a-bunch-of-photo-ops/",
-        "published": "2026-11-18T23:00:11Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Japan scrambles fighter jets after Russian aircraft breach airspace amid rising Pacific tensions",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/japan-scrambles-fighter-jets-russian-aircraft-breach-airspace-rising-pacific-tensions",
-        "published": "2026-11-18T22:52:36Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What to know about Trump's meeting with Xi in China",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/trump-xi-meet-china-chips-ai/",
-        "published": "2026-11-18T20:23:41Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump, Putin and Xi exchange first handshakes ahead of historic China talks",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/11/18/trump-putin-and-xi-exchange-first-handshakes-ahead-of-historic-china-talks/",
-        "published": "2026-11-18T14:21:52Z",
+        "title": "Trump, Xi and Putin hold first ever trilateral talks amid global tensions",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/trump-xi-and-putin-hold-first-ever-trilateral-talks-amid-global-tensions-126111900752_1.html",
+        "published": "2026-11-19T10:28:03Z",
         "sentiment": "neutral"
+      },
+      {
+        "title": "Trump, Xi, Putin begin historic meeting with Ukraine war on agenda",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/trump-xi-putin-historic-meeting-9.7427718",
+        "published": "2026-11-19T09:49:18Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
+        "published": "2026-11-19T06:39:53Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "China Challenges 500 Years of Anglo-Saxon Hegemony over the World’s Oceans",
+        "source": "Substack.com",
+        "url": "https://michelchossudovsky.substack.com/p/china-challenges-500-years-anglo-saxon-hegemony-world-oceans",
+        "published": "2026-11-19T04:49:25Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting",
+        "published": "2026-11-19T02:57:19Z",
+        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -111,7 +111,7 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "yellow",
+    "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
     "panama": "yellow",
