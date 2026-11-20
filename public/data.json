@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-19T21:45:01.501Z",
+    "generated_at": "2026-11-20T02:40:59.650Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,63 @@
   "news": {
     "hormuz": [
       {
+        "title": "US military returns to 2 aircraft carriers in West Asia",
+        "source": "Economictimes.com",
+        "url": "https://m.economictimes.com/news/defence/us-military-returns-to-2-aircraft-carriers-in-west-asia/articleshow/135975025.cms",
+        "published": "2026-11-19T01:46:09Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran and US trade tit-for-tat strikes as wild video shows strike on UAE oil tanker",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/11/18/world-news/uae-oil-tanker-struck-in-strait-of-hormuz-amid-us-iran-attacks/",
+        "published": "2026-11-18T23:11:17Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "KT McFarland says China Meeting Is Nothing “Except A Bunch Of Photo Ops.”",
+        "source": "Fox News",
+        "url": "https://radio.foxnews.com/2026/11/18/kt-mcfarland-says-china-meeting-is-nothing-except-a-bunch-of-photo-ops/",
+        "published": "2026-11-18T23:00:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "US military returns to 2 aircraft carriers in the Middle East",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/us-military-returns-2-aircraft-carriers-middle-east-138263316",
+        "published": "2026-11-18T22:40:19Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Best Meat Thermometers: Thermapen ONE, TP19H and MEATER Plus Picks",
         "source": "Gearculture.com",
         "url": "https://gearculture.com/goods/best-meat-thermometers/",
         "published": "2026-11-18T21:33:01Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Shipping Industry Presses for Global IMO Climate Deal as Divisions Over Rules Persist",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/shipping-industry-presses-for-global-imo-climate-deal-as-divisions-over-rules-persist/",
-        "published": "2026-11-18T21:32:01Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Tanker Attacks Return to Hormuz, but Container Ships Escape Direct Hits",
-        "source": "WWD",
-        "url": "https://wwd.com/sourcing-journal/logistics/strait-of-hormuz-tanker-attacks-container-shipping-port-congestion-1239425422/",
-        "published": "2026-11-18T19:24:28Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Russian warships being 'worked to death' as they are forced to spend longer at sea to protect Putin's decrepit fleet of sanctioned oil tankers",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16303315/russian-warships-death-protect-vladimir-putin-shadow-fleet.html",
-        "published": "2026-11-18T18:47:53Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "71+ new products our editors are talking about this month: Apple, Nike, Samsung and more",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/select/shopping/best-new-products-november-2026-rcna610052",
-        "published": "2026-11-18T18:40:22Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Japan's Troubled Relations With China and Russia Enter a New Diplomatic Phase",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/151448.php",
+        "published": "2026-11-18T23:09:02Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "KT McFarland says China Meeting Is Nothing “Except A Bunch Of Photo Ops.”",
+        "source": "Fox News",
+        "url": "https://radio.foxnews.com/2026/11/18/kt-mcfarland-says-china-meeting-is-nothing-except-a-bunch-of-photo-ops/",
+        "published": "2026-11-18T23:00:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Japan scrambles fighter jets after Russian aircraft breach airspace amid rising Pacific tensions",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/japan-scrambles-fighter-jets-russian-aircraft-breach-airspace-rising-pacific-tensions",
+        "published": "2026-11-18T22:52:36Z",
+        "sentiment": "watch"
+      },
       {
         "title": "What to know about Trump's meeting with Xi in China",
         "source": "CBS News",
@@ -76,20 +97,6 @@
         "url": "https://en.protothema.gr/2026/11/18/trump-putin-and-xi-exchange-first-handshakes-ahead-of-historic-china-talks/",
         "published": "2026-11-18T14:21:52Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Xi Makes the Most of Trump’s Asia-Pacific Trip",
-        "source": "Foreign Policy",
-        "url": "https://foreignpolicy.com/2026/11/17/china-xi-trade-canada-tariffs-peru-trump-asean-apec/",
-        "published": "2026-11-17T21:52:41Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Tokyo protests after two suspected Russian aircraft violate Japanese airspace",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/tokyo-protests-after-suspected-russian-aircraft-violate-japanese-138201049",
-        "published": "2026-11-17T06:57:20Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
