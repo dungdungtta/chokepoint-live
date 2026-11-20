@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-20T10:34:33.489Z",
+    "generated_at": "2026-11-20T18:51:36.024Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Prices Are Making Fashion’s Polyester Addiction Even Uglier",
-        "source": "Vogue",
-        "url": "https://www.vogue.com/article/oil-prices-are-making-fashions-polyester-addiction-even-uglier",
-        "published": "2026-11-19T10:30:00Z",
+        "title": "FTSE hits six-week low as risk aversion weighs on global shares",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/2026/11/19/ftse-hits-six-week-low-as-risk-aversion-weighs-on-global-shares/",
+        "published": "2026-11-19T18:46:11Z",
         "sentiment": "watch"
       },
       {
-        "title": "India’s Oil Imports Hit Record High as Saudi Shipments Surge",
+        "title": "Trafigura Not Rushing to Alternative Marine Fuels",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Oil-Imports-Hit-Record-High-as-Saudi-Shipments-Surge.html",
-        "published": "2026-11-19T10:30:00Z",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Trafigura-Not-Rushing-to-Alternative-Marine-Fuels.html",
+        "published": "2026-11-19T18:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Neutrality Works: Why Neutral States are Critical in a Multipolar World",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/11/neutrality-works-why-neutral-states-are-critical-in-a-multipolar-world.html",
-        "published": "2026-11-19T10:18:16Z",
+        "title": "Shenzhen Trilateral: India cautious amid possible vindication and strategic concerns",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/shenzhen-trilateral-india-cautious-amid-possible-vindication-and-strategic-concerns/articleshow/136001869.cms",
+        "published": "2026-11-19T18:02:07Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil up as shipping attacks counter supply surplus outlook",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/1119/1599805-world-oil-prices/",
-        "published": "2026-11-19T10:09:03Z",
-        "sentiment": "danger"
+        "title": "Iran’s ‘Boiling Frog’ Strategy",
+        "source": "Foreign Policy",
+        "url": "https://foreignpolicy.com/2026/11/19/iran-war-us-strikes-dirty-bomb-trump-congress-democrats-vali-nasr/",
+        "published": "2026-11-19T17:55:24Z",
+        "sentiment": "watch"
       },
       {
-        "title": "How Conservatives Lost Their Minds Over the “Indian Question”",
-        "source": "Thenation.com",
-        "url": "https://www.thenation.com/article/politics/indian-question-politics-racism-conservatives/",
-        "published": "2026-11-19T10:00:00Z",
+        "title": "Iran Rails Against 'Foreign Interference' After China, Russia, U.S. Unite on Oil and Nuclear",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/middle-east/2026/11/19/iran-rails-against-foreign-interference-after-china-russia-u-s-unite-on-oil-and-nuclear/",
+        "published": "2026-11-19T17:52:57Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The Week In Russia: A Blown Bridge, A Big Meeting, And A 'Ludicrous Fantasy'",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/week-in-russia-gutterman-crimea-china-trump/33901569.html",
+        "published": "2026-11-19T11:18:40Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Trump, Xi and Putin hold first ever trilateral talks amid global tensions",
         "source": "Business Standard",
@@ -89,13 +96,6 @@
         "source": "Substack.com",
         "url": "https://michelchossudovsky.substack.com/p/china-challenges-500-years-anglo-saxon-hegemony-world-oceans",
         "published": "2026-11-19T04:49:25Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting",
-        "published": "2026-11-19T02:57:19Z",
         "sentiment": "watch"
       }
     ],
