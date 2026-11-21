@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-20T18:51:36.024Z",
+    "generated_at": "2026-11-21T00:43:09.815Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,63 @@
   "news": {
     "hormuz": [
       {
-        "title": "FTSE hits six-week low as risk aversion weighs on global shares",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/2026/11/19/ftse-hits-six-week-low-as-risk-aversion-weighs-on-global-shares/",
-        "published": "2026-11-19T18:46:11Z",
+        "title": "In Bayelsa, Diri’s roads can obstruct",
+        "source": "The Punch",
+        "url": "https://punchng.com/in-bayelsa-diris-roads-can-obstruct/",
+        "published": "2026-11-20T00:39:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trafigura Not Rushing to Alternative Marine Fuels",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Trafigura-Not-Rushing-to-Alternative-Marine-Fuels.html",
-        "published": "2026-11-19T18:30:00Z",
+        "title": "Trust Signals for Hemp Shops: Modern Review Tools and Plain Basics",
+        "source": "Socialmediaexplorer.com",
+        "url": "https://socialmediaexplorer.com/social-media-marketing/trust-signals-hemp-shops-modern-review-tools-plain-basics/",
+        "published": "2026-11-20T00:34:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "Shenzhen Trilateral: India cautious amid possible vindication and strategic concerns",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/shenzhen-trilateral-india-cautious-amid-possible-vindication-and-strategic-concerns/articleshow/136001869.cms",
-        "published": "2026-11-19T18:02:07Z",
+        "title": "Chevrolet Corvette ZR-1 LT5 Crate Engine",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/engine-384/",
+        "published": "2026-11-20T00:03:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "Iran’s ‘Boiling Frog’ Strategy",
-        "source": "Foreign Policy",
-        "url": "https://foreignpolicy.com/2026/11/19/iran-war-us-strikes-dirty-bomb-trump-congress-democrats-vali-nasr/",
-        "published": "2026-11-19T17:55:24Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran Rails Against 'Foreign Interference' After China, Russia, U.S. Unite on Oil and Nuclear",
+        "title": "Trump Signals No More Major Iran Strikes in 2026 — Economic Pressure Mounts on Tehran",
         "source": "Breitbart News",
-        "url": "https://www.breitbart.com/middle-east/2026/11/19/iran-rails-against-foreign-interference-after-china-russia-u-s-unite-on-oil-and-nuclear/",
-        "published": "2026-11-19T17:52:57Z",
+        "url": "https://www.breitbart.com/politics/2026/11/19/trump-signals-no-more-major-iran-strikes-in-2026-economic-pressure-mounts-on-tehran/",
+        "published": "2026-11-19T23:26:20Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Could the Houthis take Yemen’s last major government stronghold?",
+        "source": "Rt-english.com",
+        "url": "https://rt-english.com/news/649124-houthis-yemen-saudi-coalition/",
+        "published": "2026-11-19T23:11:32Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "The U.S. and Iran Are Back to Trading Strikes",
+        "source": "Foreign Policy",
+        "url": "https://foreignpolicy.com/2026/11/19/us-iran-strikes-bahrain-kuwait-trump/",
+        "published": "2026-11-19T22:39:31Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Taiwan and Japan Intercept Russian Tu-95 Bombers Flying Back from Vietnam",
+        "source": "Theaviationist.com",
+        "url": "https://theaviationist.com/2026/11/19/taiwan-japan-intercept-russian-tu-95/",
+        "published": "2026-11-19T21:54:50Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Xi tells Trump US must do 'the right thing' over Taiwan to avoid 'great turbulence'",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/xi-tells-trump-us-thing-taiwan-avoid-great/story?id=138283818",
+        "published": "2026-11-19T18:51:37Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The Week In Russia: A Blown Bridge, A Big Meeting, And A 'Ludicrous Fantasy'",
         "source": "Radio Free Europe/ Radio Liberty",
@@ -76,27 +97,6 @@
         "url": "https://www.business-standard.com/world-news/trump-xi-and-putin-hold-first-ever-trilateral-talks-amid-global-tensions-126111900752_1.html",
         "published": "2026-11-19T10:28:03Z",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Trump, Xi, Putin begin historic meeting with Ukraine war on agenda",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/trump-xi-putin-historic-meeting-9.7427718",
-        "published": "2026-11-19T09:49:18Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
-        "published": "2026-11-19T06:39:53Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "China Challenges 500 Years of Anglo-Saxon Hegemony over the World’s Oceans",
-        "source": "Substack.com",
-        "url": "https://michelchossudovsky.substack.com/p/china-challenges-500-years-anglo-saxon-hegemony-world-oceans",
-        "published": "2026-11-19T04:49:25Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
