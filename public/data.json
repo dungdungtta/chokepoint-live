@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-21T07:45:25.107Z",
+    "generated_at": "2026-11-21T16:02:48.636Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "The new Yalta and Maximos’s Nea Menemeni, New Democracy and Samaras weigh candidates, Panas quits and Qatar eyes Eurobank",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/11/20/the-new-yalta-and-maximoss-nea-menemeni-new-democracy-and-samaras-weigh-candidates-panas-quits-and-qatar-eyes-eurobank/",
-        "published": "2026-11-20T06:24:56Z",
+        "title": "Amazon - Pompeian Robust Extra Virgin Olive Oil, 68 fl oz (2 L) $17.09",
+        "source": "Dealcatcher.com",
+        "url": "https://www.dealcatcher.com/deals/grocery/pantry-staples/pompeian-robust-extra-virgin-olive-fl-oz-471329",
+        "published": "2026-11-20T15:16:50Z",
         "sentiment": "watch"
       },
       {
-        "title": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums",
-        "published": "2026-11-20T06:03:03Z",
+        "title": "Amazon - Pompeian Robust Organic Extra Virgin Olive Oil, 68 fl oz $18.19",
+        "source": "Dealcatcher.com",
+        "url": "https://www.dealcatcher.com/deals/grocery/pantry-staples/pompeian-robust-organic-extra-virgin-olive-fl-oz-471302",
+        "published": "2026-11-20T15:16:35Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Amazon - Amazon Grocery Extra Virgin Olive Oil, 16.9 Fl Oz $4.71",
+        "source": "Dealcatcher.com",
+        "url": "https://www.dealcatcher.com/deals/grocery/pantry-staples/amazon-grocery-extra-virgin-olive-fl-oz-471354",
+        "published": "2026-11-20T15:12:48Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "USA Sour Crude's War Premium Vanishes",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/usa_sour_crudes_war_premium_vanishes-20-nov-2026-185138-article/",
+        "published": "2026-11-20T14:45:02Z",
         "sentiment": "danger"
       },
       {
-        "title": "Iran Attacks Kuwait, Bahrain After U.S. Strike on Qeshm Island, Officials Say",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-11-20-iran-attacks-kuwait-after-us-strike-qeshm-island.html",
-        "published": "2026-11-20T06:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "China, Russia and U.S. have to work together to restore the 28 billion barrels of oil lost in the Iran War",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-11-20-china-russia-us-work-together-restore-oil-production.html",
-        "published": "2026-11-20T06:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Missiles hit Riyadh and tankers burn, but oilâs bounce barely makes a dent",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-11-20-missiles-riyadh-tankers-oil-dent.html",
-        "published": "2026-11-20T06:00:00Z",
+        "title": "Interactive Databricks Reference Architectures Across 70 Industries",
+        "source": "Databricks.com",
+        "url": "https://www.databricks.com/blog/interactive-databricks-reference-architectures-across-70-industries",
+        "published": "2026-11-20T14:08:29Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Why Taiwanese firms are reluctant to leave China, even as tensions rise",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/why-taiwanese-firms-are-reluctant-to-leave-china-even-as-tensions-rise-297000",
+        "published": "2026-11-20T14:27:14Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran says Trump left China empty-handed, vows to keep Strait of Hormuz Closed",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/436724",
+        "published": "2026-11-20T13:15:57Z",
+        "sentiment": "watch"
+      },
       {
         "title": "The U.S. and Iran Are Back to Trading Strikes",
         "source": "Foreign Policy",
@@ -83,20 +97,6 @@
         "url": "https://abcnews.com/International/xi-tells-trump-us-thing-taiwan-avoid-great/story?id=138283818",
         "published": "2026-11-19T18:51:37Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "The Week In Russia: A Blown Bridge, A Big Meeting, And A 'Ludicrous Fantasy'",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/week-in-russia-gutterman-crimea-china-trump/33901569.html",
-        "published": "2026-11-19T11:18:40Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump, Xi and Putin hold first ever trilateral talks amid global tensions",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/trump-xi-and-putin-hold-first-ever-trilateral-talks-amid-global-tensions-126111900752_1.html",
-        "published": "2026-11-19T10:28:03Z",
-        "sentiment": "neutral"
       }
     ],
     "malacca": [
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
