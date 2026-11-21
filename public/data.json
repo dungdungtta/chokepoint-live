@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-21T00:43:09.815Z",
+    "generated_at": "2026-11-21T07:45:25.107Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "In Bayelsa, Diri’s roads can obstruct",
-        "source": "The Punch",
-        "url": "https://punchng.com/in-bayelsa-diris-roads-can-obstruct/",
-        "published": "2026-11-20T00:39:05Z",
+        "title": "The new Yalta and Maximos’s Nea Menemeni, New Democracy and Samaras weigh candidates, Panas quits and Qatar eyes Eurobank",
+        "source": "Protothema.gr",
+        "url": "https://en.protothema.gr/2026/11/20/the-new-yalta-and-maximoss-nea-menemeni-new-democracy-and-samaras-weigh-candidates-panas-quits-and-qatar-eyes-eurobank/",
+        "published": "2026-11-20T06:24:56Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trust Signals for Hemp Shops: Modern Review Tools and Plain Basics",
-        "source": "Socialmediaexplorer.com",
-        "url": "https://socialmediaexplorer.com/social-media-marketing/trust-signals-hemp-shops-modern-review-tools-plain-basics/",
-        "published": "2026-11-20T00:34:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Chevrolet Corvette ZR-1 LT5 Crate Engine",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/engine-384/",
-        "published": "2026-11-20T00:03:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Trump Signals No More Major Iran Strikes in 2026 — Economic Pressure Mounts on Tehran",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/11/19/trump-signals-no-more-major-iran-strikes-in-2026-economic-pressure-mounts-on-tehran/",
-        "published": "2026-11-19T23:26:20Z",
+        "title": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums",
+        "published": "2026-11-20T06:03:03Z",
         "sentiment": "danger"
       },
       {
-        "title": "Could the Houthis take Yemen’s last major government stronghold?",
-        "source": "Rt-english.com",
-        "url": "https://rt-english.com/news/649124-houthis-yemen-saudi-coalition/",
-        "published": "2026-11-19T23:11:32Z",
+        "title": "Iran Attacks Kuwait, Bahrain After U.S. Strike on Qeshm Island, Officials Say",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-11-20-iran-attacks-kuwait-after-us-strike-qeshm-island.html",
+        "published": "2026-11-20T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "China, Russia and U.S. have to work together to restore the 28 billion barrels of oil lost in the Iran War",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-11-20-china-russia-us-work-together-restore-oil-production.html",
+        "published": "2026-11-20T06:00:00Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Missiles hit Riyadh and tankers burn, but oilâs bounce barely makes a dent",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-11-20-missiles-riyadh-tankers-oil-dent.html",
+        "published": "2026-11-20T06:00:00Z",
         "sentiment": "watch"
       }
     ],
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
