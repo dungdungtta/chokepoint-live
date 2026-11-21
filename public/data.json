@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-21T16:02:48.636Z",
+    "generated_at": "2026-11-21T21:40:42.038Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Amazon - Pompeian Robust Extra Virgin Olive Oil, 68 fl oz (2 L) $17.09",
-        "source": "Dealcatcher.com",
-        "url": "https://www.dealcatcher.com/deals/grocery/pantry-staples/pompeian-robust-extra-virgin-olive-fl-oz-471329",
-        "published": "2026-11-20T15:16:50Z",
+        "title": "Trump: Iran Wants Deal but Not One He’ll Accept — Demands ‘Real Deal,’ Slams 51 Years of ‘Bullsh–ting’",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2026/11/20/trump-iran-wants-deal-but-not-one-hell-accept-demands-real-deal-slams-51-years-of-bullsh-ting/",
+        "published": "2026-11-20T21:33:04Z",
         "sentiment": "watch"
       },
       {
-        "title": "Amazon - Pompeian Robust Organic Extra Virgin Olive Oil, 68 fl oz $18.19",
-        "source": "Dealcatcher.com",
-        "url": "https://www.dealcatcher.com/deals/grocery/pantry-staples/pompeian-robust-organic-extra-virgin-olive-fl-oz-471302",
-        "published": "2026-11-20T15:16:35Z",
+        "title": "Tankers Carrying Russian Diesel Divert to Brazil After U.S. Buyers Balk – The Maritime Executive",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4403780/posts",
+        "published": "2026-11-20T21:16:51Z",
         "sentiment": "watch"
       },
       {
-        "title": "Amazon - Amazon Grocery Extra Virgin Olive Oil, 16.9 Fl Oz $4.71",
-        "source": "Dealcatcher.com",
-        "url": "https://www.dealcatcher.com/deals/grocery/pantry-staples/amazon-grocery-extra-virgin-olive-fl-oz-471354",
-        "published": "2026-11-20T15:12:48Z",
+        "title": "Lowe's Black Friday Outdoor Cooking and Grill Deals: Up to $466 off + free shipping w/ $25",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Lowes-Black-Friday-Outdoor-Cooking-and-Grill-Deals-Up-to-466-off-free-shipping-w-25/22415712.html",
+        "published": "2026-11-20T20:25:44Z",
         "sentiment": "watch"
       },
       {
-        "title": "USA Sour Crude's War Premium Vanishes",
+        "title": "Indian Refiners Race to Secure Oil Tankers",
         "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/usa_sour_crudes_war_premium_vanishes-20-nov-2026-185138-article/",
-        "published": "2026-11-20T14:45:02Z",
-        "sentiment": "danger"
+        "url": "https://www.rigzone.com/news/wire/indian_refiners_race_to_secure_oil_tankers-20-nov-2026-185139-article/",
+        "published": "2026-11-20T20:00:00Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Interactive Databricks Reference Architectures Across 70 Industries",
-        "source": "Databricks.com",
-        "url": "https://www.databricks.com/blog/interactive-databricks-reference-architectures-across-70-industries",
-        "published": "2026-11-20T14:08:29Z",
-        "sentiment": "watch"
+        "title": "Iran War Oil Premium Evaporates as Global Crude Supplies Surge",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/iran-war-oil-premium-evaporates-as-global-crude-supplies-surge/",
+        "published": "2026-11-20T19:35:22Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "What the Yalta Comparison Really Reveals About Shenzhen",
+        "source": "Foreign Policy",
+        "url": "https://foreignpolicy.com/2026/11/20/summit-trump-xi-putin-shenzhen-yalta-history-china/",
+        "published": "2026-11-20T18:12:07Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Why Taiwanese firms are reluctant to leave China, even as tensions rise",
         "source": "The Conversation Africa",
@@ -89,13 +96,6 @@
         "source": "Theaviationist.com",
         "url": "https://theaviationist.com/2026/11/19/taiwan-japan-intercept-russian-tu-95/",
         "published": "2026-11-19T21:54:50Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Xi tells Trump US must do 'the right thing' over Taiwan to avoid 'great turbulence'",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/xi-tells-trump-us-thing-taiwan-avoid-great/story?id=138283818",
-        "published": "2026-11-19T18:51:37Z",
         "sentiment": "watch"
       }
     ],
