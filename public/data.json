@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-22T08:52:55.512Z",
+    "generated_at": "2026-11-22T17:01:37.353Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "BRIAN VINER: I have watched every James Bond film and this is my ultimate ranking from best to worst. So where does YOUR favourite come?",
+        "title": "Russian Military-Linked Cargo Ship Burns After Suspected Drone Strike in Gulf of Finland",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/russian-military-linked-cargo-ship-burns-after-suspected-drone-strike-in-gulf-of-finland/",
+        "published": "2026-11-21T16:34:08Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "British ocean campaigner becomes first to swim the Strait of Hormuz - saying war-torn waterway is 'one of the most beautiful places I have ever visited'",
         "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/tv/article-14622387/James-Bond-films-ranking-best-worst-BRIAN-VINER.html",
-        "published": "2026-11-21T08:47:14Z",
+        "url": "https://www.dailymail.com/news/article-16311299/British-ocean-campaigner-swim-Strait-Hormuz.html",
+        "published": "2026-11-21T16:13:48Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping",
+        "published": "2026-11-21T15:01:18Z",
         "sentiment": "watch"
       },
       {
-        "title": "Athlete swims in Strait of Hormuz to highlight Iran war's impact on wildlife",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/endurance-athlete-swims-strait-hormuz-highlight-iran-wars-138338972",
-        "published": "2026-11-21T06:53:49Z",
+        "title": "Two tankers hit in Strait of Hormuz as hawks press Trump to resume Iran strikes",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/11/21/world-news/two-tankers-hit-in-strait-of-hormuz-as-hawks-press-trump-to-resume-iran-strikes/",
+        "published": "2026-11-21T14:40:55Z",
         "sentiment": "danger"
       },
       {
-        "title": "Saudi-led coalition strikes Houthi targets as rebels attack Saudi Arabia",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/saudi-led-coalition-strikes-houthi-targets-as-rebels-attack-saudi-arabia-126112100022_1.html",
-        "published": "2026-11-21T04:51:19Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Strait of Hormuz Latest: Tanker Struck Near Oman as Traffic Stays Far Below Normal and Iran Keeps Its Grip",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/tanker-fire-highlights-strait-hormuz-risks-1879040",
-        "published": "2026-11-21T04:10:28Z",
+        "title": "Hurry! Wild Planet Wild Sardines in EVOO & Sea Salt, 4.25 Oz Can, Pack of 12 | Sustainably Caught Skinless & Boneless Canned Sardines $13.87",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20363544-hurry-wild-planet-wild-sardines-in-evoo-sea-salt-4-25-oz-can-pack-of-12-sustainably-caught-skinless-boneless-canned-sardines-13-87",
+        "published": "2026-11-21T14:14:49Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Oil Prices Snap Back as Tanker Fire Near Hormuz Revives War Fears, but Brent Still Posts Third Weekly Loss",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/oil-prices-tanker-fire-strait-hormuz-weekly-loss-1879042",
-        "published": "2026-11-21T04:09:42Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
