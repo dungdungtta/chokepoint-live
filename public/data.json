@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-22T17:01:37.353Z",
+    "generated_at": "2026-11-22T22:29:01.336Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,32 @@
   "news": {
     "hormuz": [
       {
-        "title": "Russian Military-Linked Cargo Ship Burns After Suspected Drone Strike in Gulf of Finland",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/russian-military-linked-cargo-ship-burns-after-suspected-drone-strike-in-gulf-of-finland/",
-        "published": "2026-11-21T16:34:08Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "British ocean campaigner becomes first to swim the Strait of Hormuz - saying war-torn waterway is 'one of the most beautiful places I have ever visited'",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16311299/British-ocean-campaigner-swim-Strait-Hormuz.html",
-        "published": "2026-11-21T16:13:48Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+        "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
         "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping",
-        "published": "2026-11-21T15:01:18Z",
+        "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions",
+        "published": "2026-11-21T20:56:35Z",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Here's What Happened Today: Saturday",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/evening-fix-21-november-2026-7233717-Nov2026/",
+        "published": "2026-11-21T20:15:34Z",
         "sentiment": "watch"
       },
       {
-        "title": "Two tankers hit in Strait of Hormuz as hawks press Trump to resume Iran strikes",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/11/21/world-news/two-tankers-hit-in-strait-of-hormuz-as-hawks-press-trump-to-resume-iran-strikes/",
-        "published": "2026-11-21T14:40:55Z",
+        "title": "The eight US cities facing an economic death spiral as jobs disappear and neighborhoods are abandoned",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/real-estate/article-16282367/us-cities-economic-decline-flint-new-orleans.html",
+        "published": "2026-11-21T20:03:37Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/iran-strikes-3-tankers-shows-off-missile-launchers-138345075",
+        "published": "2026-11-21T19:13:24Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Hurry! Wild Planet Wild Sardines in EVOO & Sea Salt, 4.25 Oz Can, Pack of 12 | Sustainably Caught Skinless & Boneless Canned Sardines $13.87",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20363544-hurry-wild-planet-wild-sardines-in-evoo-sea-salt-4-25-oz-can-pack-of-12-sustainably-caught-skinless-boneless-canned-sardines-13-87",
-        "published": "2026-11-21T14:14:49Z",
-        "sentiment": "watch"
       }
     ],
     "taiwan": [
@@ -110,7 +103,7 @@
     ]
   },
   "zones": {
-    "hormuz": "red",
+    "hormuz": "amber",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
