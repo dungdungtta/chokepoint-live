@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-21T21:40:42.038Z",
+    "generated_at": "2026-11-22T01:39:18.645Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Caught-Between-a-Looming-Glut-and-Middle-East-Turmoil.html",
+        "published": "2026-11-21T00:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Nitro-Powered Jeron Quarter Classics Ferrari 801 1/4-Scale RC Car at No Reserve",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/go-kart-215/",
+        "published": "2026-11-20T21:56:08Z",
+        "sentiment": "watch"
+      },
+      {
         "title": "Trump: Iran Wants Deal but Not One He’ll Accept — Demands ‘Real Deal,’ Slams 51 Years of ‘Bullsh–ting’",
         "source": "Breitbart News",
         "url": "https://www.breitbart.com/politics/2026/11/20/trump-iran-wants-deal-but-not-one-hell-accept-demands-real-deal-slams-51-years-of-bullsh-ting/",
@@ -46,20 +60,6 @@
         "url": "https://www.dealnews.com/Lowes-Black-Friday-Outdoor-Cooking-and-Grill-Deals-Up-to-466-off-free-shipping-w-25/22415712.html",
         "published": "2026-11-20T20:25:44Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Indian Refiners Race to Secure Oil Tankers",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/indian_refiners_race_to_secure_oil_tankers-20-nov-2026-185139-article/",
-        "published": "2026-11-20T20:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran War Oil Premium Evaporates as Global Crude Supplies Surge",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/iran-war-oil-premium-evaporates-as-global-crude-supplies-surge/",
-        "published": "2026-11-20T19:35:22Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
