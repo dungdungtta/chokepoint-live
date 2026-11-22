@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-22T01:39:18.645Z",
+    "generated_at": "2026-11-22T08:52:55.512Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Caught-Between-a-Looming-Glut-and-Middle-East-Turmoil.html",
-        "published": "2026-11-21T00:00:00Z",
+        "title": "BRIAN VINER: I have watched every James Bond film and this is my ultimate ranking from best to worst. So where does YOUR favourite come?",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/tv/article-14622387/James-Bond-films-ranking-best-worst-BRIAN-VINER.html",
+        "published": "2026-11-21T08:47:14Z",
         "sentiment": "watch"
       },
       {
-        "title": "Nitro-Powered Jeron Quarter Classics Ferrari 801 1/4-Scale RC Car at No Reserve",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/go-kart-215/",
-        "published": "2026-11-20T21:56:08Z",
+        "title": "Athlete swims in Strait of Hormuz to highlight Iran war's impact on wildlife",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/endurance-athlete-swims-strait-hormuz-highlight-iran-wars-138338972",
+        "published": "2026-11-21T06:53:49Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Saudi-led coalition strikes Houthi targets as rebels attack Saudi Arabia",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/saudi-led-coalition-strikes-houthi-targets-as-rebels-attack-saudi-arabia-126112100022_1.html",
+        "published": "2026-11-21T04:51:19Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Strait of Hormuz Latest: Tanker Struck Near Oman as Traffic Stays Far Below Normal and Iran Keeps Its Grip",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/tanker-fire-highlights-strait-hormuz-risks-1879040",
+        "published": "2026-11-21T04:10:28Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump: Iran Wants Deal but Not One He’ll Accept — Demands ‘Real Deal,’ Slams 51 Years of ‘Bullsh–ting’",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/11/20/trump-iran-wants-deal-but-not-one-hell-accept-demands-real-deal-slams-51-years-of-bullsh-ting/",
-        "published": "2026-11-20T21:33:04Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Tankers Carrying Russian Diesel Divert to Brazil After U.S. Buyers Balk – The Maritime Executive",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4403780/posts",
-        "published": "2026-11-20T21:16:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Lowe's Black Friday Outdoor Cooking and Grill Deals: Up to $466 off + free shipping w/ $25",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Lowes-Black-Friday-Outdoor-Cooking-and-Grill-Deals-Up-to-466-off-free-shipping-w-25/22415712.html",
-        "published": "2026-11-20T20:25:44Z",
-        "sentiment": "watch"
+        "title": "Oil Prices Snap Back as Tanker Fire Near Hormuz Revives War Fears, but Brent Still Posts Third Weekly Loss",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/oil-prices-tanker-fire-strait-hormuz-weekly-loss-1879042",
+        "published": "2026-11-21T04:09:42Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Japan Caught Between China, Russia and Trump's Changing World Order",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/151478.php",
+        "published": "2026-11-21T02:44:59Z",
+        "sentiment": "watch"
+      },
       {
         "title": "What the Yalta Comparison Really Reveals About Shenzhen",
         "source": "Foreign Policy",
@@ -90,13 +97,6 @@
         "url": "https://foreignpolicy.com/2026/11/19/us-iran-strikes-bahrain-kuwait-trump/",
         "published": "2026-11-19T22:39:31Z",
         "sentiment": "danger"
-      },
-      {
-        "title": "Taiwan and Japan Intercept Russian Tu-95 Bombers Flying Back from Vietnam",
-        "source": "Theaviationist.com",
-        "url": "https://theaviationist.com/2026/11/19/taiwan-japan-intercept-russian-tu-95/",
-        "published": "2026-11-19T21:54:50Z",
-        "sentiment": "watch"
       }
     ],
     "malacca": [
@@ -110,7 +110,7 @@
     ]
   },
   "zones": {
-    "hormuz": "amber",
+    "hormuz": "red",
     "taiwan": "amber",
     "malacca": "amber",
     "suez": "amber",
