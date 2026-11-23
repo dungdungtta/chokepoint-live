@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-23T03:02:41.528Z",
+    "generated_at": "2026-11-23T12:56:16.200Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,31 +27,24 @@
   "news": {
     "hormuz": [
       {
-        "title": "Endurance athlete swims Strait of Hormuz despite Iran war",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-11-22/strait-of-hormuz-swimmer-highlights-iran-war-impact-on-wildlife/107414066",
-        "published": "2026-11-22T02:47:18Z",
-        "sentiment": "danger"
+        "title": "AI is becoming a disaster for the climate",
+        "source": "Bloodinthemachine.com",
+        "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+        "published": "2026-11-22T12:19:46Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Athlete swims Strait of Hormuz to highlight Iran war's wildlife toll",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/athlete-swims-strait-of-hormuz-iran-war-wildlife/",
-        "published": "2026-11-22T01:30:53Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+        "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
         "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions",
-        "published": "2026-11-21T20:56:35Z",
-        "sentiment": "neutral"
+        "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf",
+        "published": "2026-11-22T11:46:42Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Here's What Happened Today: Saturday",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/evening-fix-21-november-2026-7233717-Nov2026/",
-        "published": "2026-11-21T20:15:34Z",
+        "title": "How the Alberta government could fill a new pipeline with royalties paid in oil",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/canada/calgary/bakx-danielle-smith-pacific-link-royalties-in-kind-brik-9.7428691",
+        "published": "2026-11-22T09:00:00Z",
         "sentiment": "watch"
       }
     ],
