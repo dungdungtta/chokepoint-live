@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-22T22:29:01.336Z",
+    "generated_at": "2026-11-23T03:02:41.528Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,6 +27,20 @@
   "news": {
     "hormuz": [
       {
+        "title": "Endurance athlete swims Strait of Hormuz despite Iran war",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-11-22/strait-of-hormuz-swimmer-highlights-iran-war-impact-on-wildlife/107414066",
+        "published": "2026-11-22T02:47:18Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Athlete swims Strait of Hormuz to highlight Iran war's wildlife toll",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/athlete-swims-strait-of-hormuz-iran-war-wildlife/",
+        "published": "2026-11-22T01:30:53Z",
+        "sentiment": "danger"
+      },
+      {
         "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions",
@@ -39,20 +53,6 @@
         "url": "https://www.thejournal.ie/evening-fix-21-november-2026-7233717-Nov2026/",
         "published": "2026-11-21T20:15:34Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "The eight US cities facing an economic death spiral as jobs disappear and neighborhoods are abandoned",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/real-estate/article-16282367/us-cities-economic-decline-flint-new-orleans.html",
-        "published": "2026-11-21T20:03:37Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/wireStory/iran-strikes-3-tankers-shows-off-missile-launchers-138345075",
-        "published": "2026-11-21T19:13:24Z",
-        "sentiment": "danger"
       }
     ],
     "taiwan": [
