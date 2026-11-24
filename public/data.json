@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-24T00:42:56.117Z",
+    "generated_at": "2026-11-24T10:28:22.097Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Markets Are Betting on a Surplus That Hasn't Arrived Yet",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Markets-Are-Betting-on-a-Surplus-That-Hasnt-Arrived-Yet.html",
-        "published": "2026-11-23T00:00:00Z",
+        "title": "Oil prices dip as Middle East supply risks clash with rising global output",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oil-prices-dip-as-middle-east-supply-risks-clash-with-rising-global-output/",
+        "published": "2026-11-23T10:03:22Z",
         "sentiment": "watch"
       },
       {
-        "title": "Waiting For The World To Change",
-        "source": "Substack.com",
-        "url": "https://chinaarticles.substack.com/p/waiting-for-the-world-to-change",
-        "published": "2026-11-23T00:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Single-digit: Test of dropping inflation",
-        "source": "The Punch",
-        "url": "https://punchng.com/single-digit-test-of-dropping-inflation/",
-        "published": "2026-11-22T23:20:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Europe Is ‘Somewhere Between Peace And War’ With Russia, Former Finnish Defense Chief Says",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/lindberg-finland-sparta-russia-ukraine-war-europe/33903620.html",
-        "published": "2026-11-22T23:11:31Z",
+        "title": "Jared Kushner’s Wars",
+        "source": "New York Magazine",
+        "url": "https://nymag.com/intelligencer/article/jared-kushner-profile-diplomacy-trump.html",
+        "published": "2026-11-23T10:00:25Z",
         "sentiment": "danger"
       },
       {
-        "title": "Trump dares Iran to breach US naval blockade",
-        "source": "Rt-english.com",
-        "url": "https://rt-english.com/news/649229-trump-iran-naval-blockade/",
-        "published": "2026-11-22T23:02:48Z",
+        "title": "Oil prices slip with Mideast flows in focus",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/1123/1600267-world-oil-prices/",
+        "published": "2026-11-23T09:36:19Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Russian western oil exports curbed by bad weather, drones",
+        "source": "Economictimes.com",
+        "url": "https://m.economictimes.com/news/international/world-news/russian-western-oil-exports-curbed-by-bad-weather-drones/articleshow/136095993.cms",
+        "published": "2026-11-23T09:12:34Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Trump suggests Iran strikes could resume next year if peace talks fail",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/trump-suggests-iran-strikes-could-resume-next-year-if-peace-talks-fail-126112300523_1.html",
+        "published": "2026-11-23T08:24:36Z",
         "sentiment": "danger"
       }
     ],
