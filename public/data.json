@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-23T12:56:16.200Z",
+    "generated_at": "2026-11-24T00:42:56.117Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,25 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "AI is becoming a disaster for the climate",
-        "source": "Bloodinthemachine.com",
-        "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
-        "published": "2026-11-22T12:19:46Z",
+        "title": "Oil Markets Are Betting on a Surplus That Hasn't Arrived Yet",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Markets-Are-Betting-on-a-Surplus-That-Hasnt-Arrived-Yet.html",
+        "published": "2026-11-23T00:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf",
-        "published": "2026-11-22T11:46:42Z",
+        "title": "Waiting For The World To Change",
+        "source": "Substack.com",
+        "url": "https://chinaarticles.substack.com/p/waiting-for-the-world-to-change",
+        "published": "2026-11-23T00:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Single-digit: Test of dropping inflation",
+        "source": "The Punch",
+        "url": "https://punchng.com/single-digit-test-of-dropping-inflation/",
+        "published": "2026-11-22T23:20:33Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Europe Is ‘Somewhere Between Peace And War’ With Russia, Former Finnish Defense Chief Says",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/lindberg-finland-sparta-russia-ukraine-war-europe/33903620.html",
+        "published": "2026-11-22T23:11:31Z",
         "sentiment": "danger"
       },
       {
-        "title": "How the Alberta government could fill a new pipeline with royalties paid in oil",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/canada/calgary/bakx-danielle-smith-pacific-link-royalties-in-kind-brik-9.7428691",
-        "published": "2026-11-22T09:00:00Z",
-        "sentiment": "watch"
+        "title": "Trump dares Iran to breach US naval blockade",
+        "source": "Rt-english.com",
+        "url": "https://rt-english.com/news/649229-trump-iran-naval-blockade/",
+        "published": "2026-11-22T23:02:48Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
