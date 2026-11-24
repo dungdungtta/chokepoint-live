@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-24T10:28:22.097Z",
+    "generated_at": "2026-11-24T20:50:13.257Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil prices dip as Middle East supply risks clash with rising global output",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-prices-dip-as-middle-east-supply-risks-clash-with-rising-global-output/",
-        "published": "2026-11-23T10:03:22Z",
+        "title": "U.S. Targets Financial Networks Behind Iran’s Tanker Fleet and Oil Trade",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/u-s-targets-financial-networks-behind-irans-tanker-fleet-and-oil-trade/",
+        "published": "2026-11-23T20:36:51Z",
         "sentiment": "watch"
       },
       {
-        "title": "Jared Kushner’s Wars",
-        "source": "New York Magazine",
-        "url": "https://nymag.com/intelligencer/article/jared-kushner-profile-diplomacy-trump.html",
-        "published": "2026-11-23T10:00:25Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Oil prices slip with Mideast flows in focus",
-        "source": "RTE",
-        "url": "https://www.rte.ie/news/business/2026/1123/1600267-world-oil-prices/",
-        "published": "2026-11-23T09:36:19Z",
+        "title": "Trump Administration Targets Iran’s Global Financial Network With Sweeping New Sanctions",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/11/23/trump-administration-targets-irans-global-financial-network-with-sweeping-new-sanctions/",
+        "published": "2026-11-23T20:34:07Z",
         "sentiment": "watch"
       },
       {
-        "title": "Russian western oil exports curbed by bad weather, drones",
-        "source": "Economictimes.com",
-        "url": "https://m.economictimes.com/news/international/world-news/russian-western-oil-exports-curbed-by-bad-weather-drones/articleshow/136095993.cms",
-        "published": "2026-11-23T09:12:34Z",
+        "title": "1966 Chevrolet Corvette Coupe L79 327/350 4-Speed",
+        "source": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/1966-chevrolet-corvette-coupe-146/",
+        "published": "2026-11-23T19:55:07Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump suggests Iran strikes could resume next year if peace talks fail",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/trump-suggests-iran-strikes-could-resume-next-year-if-peace-talks-fail-126112300523_1.html",
-        "published": "2026-11-23T08:24:36Z",
-        "sentiment": "danger"
+        "title": "Treasury uncovers nearly $15B in possible Iranian shadow banking networks",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4404062/posts",
+        "published": "2026-11-23T19:35:14Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Stocks surge as Jensen Huang's reinstatement at Nvidia sparks stunning rally",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-surge-after-nvidia-reinstates-jensen-huang-182039397.html",
+        "published": "2026-11-23T18:20:39Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Not an alliance, but a strategic web: How India and Japan are tightening the net on China",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/defence/news/not-an-alliance-but-a-strategic-web-how-india-and-japan-are-tightening-the-net-on-china/articleshow/136105300.cms",
+        "published": "2026-11-23T14:04:21Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Japan Caught Between China, Russia and Trump's Changing World Order",
         "source": "Newsonjapan.com",
@@ -90,13 +97,6 @@
         "url": "https://www.israelnationalnews.com/news/436724",
         "published": "2026-11-20T13:15:57Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "The U.S. and Iran Are Back to Trading Strikes",
-        "source": "Foreign Policy",
-        "url": "https://foreignpolicy.com/2026/11/19/us-iran-strikes-bahrain-kuwait-trump/",
-        "published": "2026-11-19T22:39:31Z",
-        "sentiment": "danger"
       }
     ],
     "malacca": [
@@ -111,7 +111,7 @@
   },
   "zones": {
     "hormuz": "amber",
-    "taiwan": "amber",
+    "taiwan": "yellow",
     "malacca": "amber",
     "suez": "amber",
     "panama": "yellow",
