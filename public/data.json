@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-25T04:03:24.109Z",
+    "generated_at": "2026-11-25T14:29:16.797Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "Nvidia shares soar 31% as Jensen Huang's return sparks Wall Street rally",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/nvidia-shares-soar-31-as-jensen-huang-s-return-sparks-wall-street-rally-126112400047_1.html",
-        "published": "2026-11-24T03:11:15Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Coast Guard boards 2 foreign ships bound for US amid reports of Iranian hacking probe",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/us/coast-guard-boards-2-foreign-ships-bound-us-ports-amid-reports-iran-hacking-probe",
-        "published": "2026-11-24T03:07:21Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Japanese bond yields fall as lower oil prices ease inflation concerns",
-        "source": "Economictimes.com",
-        "url": "https://m.economictimes.com/markets/bonds/japanese-bond-yields-fall-as-lower-oil-prices-ease-inflation-concerns/articleshow/136118046.cms",
-        "published": "2026-11-24T03:04:17Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Oil holds near three-month low as rising supply offsets Hormuz threat",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-holds-near-three-month-low-rising-supply-offsets-hormuz-threat-6576896",
-        "published": "2026-11-24T02:56:38Z",
+        "title": "Could Russia-Ukraine war threaten Libya’s fragile reunification process?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process",
+        "published": "2026-11-24T14:16:33Z",
         "sentiment": "danger"
       },
       {
-        "title": "US probes Iran, Russia link after 50 vessels face cyberattack: Report",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-probes-iran-russia-link-after-50-vessels-face-cyberattack-report/articleshow/136117793.cms",
-        "published": "2026-11-24T02:47:29Z",
+        "title": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working",
+        "published": "2026-11-24T13:32:24Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Current price of oil as of November 24, 2026",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-11-24-2026/",
+        "published": "2026-11-24T13:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Zelenskyy Confirms Ukraine Hit Russian Ship in Gulf of Finland",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/zelenskyy-confirms-ukraine-hit-russian-ship-in-gulf-of-finland/",
+        "published": "2026-11-24T12:40:14Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "« Aucun itinéraire sûr » : une corvette russe au large des côtes libyennes coule après l'attaque « exemplaire » d'un drone ukrainien (Anglais)",
+        "source": "Kyivindependent.com",
+        "url": "https://kyivindependent.com/no-safe-routes-ukraine-sinks-russian-corvette-in-drone-attack-off-libyan-coast/",
+        "published": "2026-11-24T12:13:55Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
