@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-24T20:50:13.257Z",
+    "generated_at": "2026-11-25T04:03:24.109Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,39 +27,39 @@
   "news": {
     "hormuz": [
       {
-        "title": "U.S. Targets Financial Networks Behind Iran’s Tanker Fleet and Oil Trade",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/u-s-targets-financial-networks-behind-irans-tanker-fleet-and-oil-trade/",
-        "published": "2026-11-23T20:36:51Z",
+        "title": "Nvidia shares soar 31% as Jensen Huang's return sparks Wall Street rally",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/nvidia-shares-soar-31-as-jensen-huang-s-return-sparks-wall-street-rally-126112400047_1.html",
+        "published": "2026-11-24T03:11:15Z",
         "sentiment": "watch"
       },
       {
-        "title": "Trump Administration Targets Iran’s Global Financial Network With Sweeping New Sanctions",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/11/23/trump-administration-targets-irans-global-financial-network-with-sweeping-new-sanctions/",
-        "published": "2026-11-23T20:34:07Z",
+        "title": "Coast Guard boards 2 foreign ships bound for US amid reports of Iranian hacking probe",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/us/coast-guard-boards-2-foreign-ships-bound-us-ports-amid-reports-iran-hacking-probe",
+        "published": "2026-11-24T03:07:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "1966 Chevrolet Corvette Coupe L79 327/350 4-Speed",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/1966-chevrolet-corvette-coupe-146/",
-        "published": "2026-11-23T19:55:07Z",
+        "title": "Japanese bond yields fall as lower oil prices ease inflation concerns",
+        "source": "Economictimes.com",
+        "url": "https://m.economictimes.com/markets/bonds/japanese-bond-yields-fall-as-lower-oil-prices-ease-inflation-concerns/articleshow/136118046.cms",
+        "published": "2026-11-24T03:04:17Z",
         "sentiment": "watch"
       },
       {
-        "title": "Treasury uncovers nearly $15B in possible Iranian shadow banking networks",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4404062/posts",
-        "published": "2026-11-23T19:35:14Z",
-        "sentiment": "watch"
+        "title": "Oil holds near three-month low as rising supply offsets Hormuz threat",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/oil-holds-near-three-month-low-rising-supply-offsets-hormuz-threat-6576896",
+        "published": "2026-11-24T02:56:38Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Stocks surge as Jensen Huang's reinstatement at Nvidia sparks stunning rally",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-surge-after-nvidia-reinstates-jensen-huang-182039397.html",
-        "published": "2026-11-23T18:20:39Z",
-        "sentiment": "watch"
+        "title": "US probes Iran, Russia link after 50 vessels face cyberattack: Report",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-probes-iran-russia-link-after-50-vessels-face-cyberattack-report/articleshow/136117793.cms",
+        "published": "2026-11-24T02:47:29Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
