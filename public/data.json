@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-11-25T14:29:16.797Z",
+    "generated_at": "2026-11-25T23:15:51.041Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 92.94,
-      "change_pct": 0,
-      "date": "2026-11-17",
+      "price": 91.8,
+      "change_pct": 0.7,
+      "date": "2026-11-24",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Could Russia-Ukraine war threaten Libya’s fragile reunification process?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process",
-        "published": "2026-11-24T14:16:33Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working",
-        "published": "2026-11-24T13:32:24Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Current price of oil as of November 24, 2026",
-        "source": "Fortune",
-        "url": "https://fortune.com/article/price-of-oil-11-24-2026/",
-        "published": "2026-11-24T13:00:00Z",
+        "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/5cb6732f5431c925",
+        "published": "2026-11-24T21:24:02Z",
         "sentiment": "watch"
       },
       {
-        "title": "Zelenskyy Confirms Ukraine Hit Russian Ship in Gulf of Finland",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/zelenskyy-confirms-ukraine-hit-russian-ship-in-gulf-of-finland/",
-        "published": "2026-11-24T12:40:14Z",
+        "title": "Houthis Encircle Taiz and Close In on Aden as Saudi-Led Coalition Escalates Bombing in Yemen",
+        "source": "Thegatewaypundit.com",
+        "url": "https://www.thegatewaypundit.com/2026/11/houthis-encircle-taiz-close-aden-as-saudi-led/",
+        "published": "2026-11-24T21:20:34Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report | TechCrunch",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+        "published": "2026-11-24T21:11:45Z",
         "sentiment": "watch"
       },
       {
-        "title": "« Aucun itinéraire sûr » : une corvette russe au large des côtes libyennes coule après l'attaque « exemplaire » d'un drone ukrainien (Anglais)",
-        "source": "Kyivindependent.com",
-        "url": "https://kyivindependent.com/no-safe-routes-ukraine-sinks-russian-corvette-in-drone-attack-off-libyan-coast/",
-        "published": "2026-11-24T12:13:55Z",
+        "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
+        "published": "2026-11-24T21:04:50Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Greenworks 2100 PSI 1.2 GPM Electric Pressure Washer for $142 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Greenworks-2100-PSI-1-2-GPM-Electric-Pressure-Washer-for-142-free-shipping/22428536.html",
+        "published": "2026-11-24T20:32:16Z",
         "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Taiwan Is the West Berlin of Our Time",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4404180/posts",
+        "published": "2026-11-24T19:25:00Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Not an alliance, but a strategic web: How India and Japan are tightening the net on China",
         "source": "The Times of India",
@@ -89,13 +96,6 @@
         "source": "The Conversation Africa",
         "url": "https://theconversation.com/why-taiwanese-firms-are-reluctant-to-leave-china-even-as-tensions-rise-297000",
         "published": "2026-11-20T14:27:14Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Iran says Trump left China empty-handed, vows to keep Strait of Hormuz Closed",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/436724",
-        "published": "2026-11-20T13:15:57Z",
         "sentiment": "watch"
       }
     ],
