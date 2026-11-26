@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-11-26T05:22:38.601Z",
+    "generated_at": "2026-11-26T15:40:03.567Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 91.8,
-      "change_pct": 0.7,
-      "date": "2026-11-24",
+      "price": 92.94,
+      "change_pct": 0,
+      "date": "2026-11-17",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Trump-Xi-Putin Shenzhen Summit Left the Gulf Out of Its Peace Declaration",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/11/shenzhen-summit-declaration.html",
-        "published": "2026-11-25T05:06:30Z",
+        "title": "Onshoring India’s international commodity trading business",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/opinion/onshoring-indias-international-commodity-trading-business/article71742411.ece",
+        "published": "2026-11-25T15:20:33Z",
         "sentiment": "watch"
       },
       {
-        "title": "Has a great imperial Power on the downhill Slope ever gone quite this Crazy Before?",
-        "source": "Juancole.com",
-        "url": "https://www.juancole.com/2026/11/imperial-downhill-before.html",
-        "published": "2026-11-25T05:04:35Z",
+        "title": "Inflation, and monetary policy limitations",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/opinion/inflation-and-monetary-policy-limitations/article71743345.ece",
+        "published": "2026-11-25T15:02:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "Yemen's Houthis threaten to target Jeddah, other Saudi Red Sea ports",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/yemen-126112500117_1.html",
-        "published": "2026-11-25T03:46:44Z",
+        "title": "Yemeni military official brands Iran Houthis’ ‘godfather,’ says Tehran is directing war",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/yemeni-military-official-brands-iran-houthis-godfather-says-tehran-directing-war",
+        "published": "2026-11-25T14:50:17Z",
         "sentiment": "danger"
       },
       {
-        "title": "Risky Business #861 -- You can’t trust AI routers",
-        "source": "Risky.biz",
-        "url": "https://risky.biz/RB861/",
-        "published": "2026-11-25T03:26:28Z",
-        "sentiment": "watch"
+        "title": "Trump Wants to Quiet Quit the Iran War—but the War Won’t Let Him",
+        "source": "Thenation.com",
+        "url": "https://www.thenation.com/article/world/donald-trump-iran-war/",
+        "published": "2026-11-25T14:00:00Z",
+        "sentiment": "danger"
       },
       {
-        "title": "Oil correction gone too far; sharp rebound likely: Mirae Asset Sharekhan",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/oil-correction-gone-too-far-sharp-rebound-likely-mirae-asset-sharekhan-126112500068_1.html",
-        "published": "2026-11-25T02:08:12Z",
+        "title": "Black Friday + Cyber Week Sales Shopping Guide 2026",
+        "source": "Thebeautylookbook.com",
+        "url": "https://thebeautylookbook.com/2026/11/black-friday-cyber-week-sales-shopping-guide-2026.html",
+        "published": "2026-11-25T13:46:30Z",
         "sentiment": "watch"
       }
     ],
