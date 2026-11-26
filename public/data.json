@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-25T23:15:51.041Z",
+    "generated_at": "2026-11-26T05:22:38.601Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/5cb6732f5431c925",
-        "published": "2026-11-24T21:24:02Z",
+        "title": "Trump-Xi-Putin Shenzhen Summit Left the Gulf Out of Its Peace Declaration",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/11/shenzhen-summit-declaration.html",
+        "published": "2026-11-25T05:06:30Z",
         "sentiment": "watch"
       },
       {
-        "title": "Houthis Encircle Taiz and Close In on Aden as Saudi-Led Coalition Escalates Bombing in Yemen",
-        "source": "Thegatewaypundit.com",
-        "url": "https://www.thegatewaypundit.com/2026/11/houthis-encircle-taiz-close-aden-as-saudi-led/",
-        "published": "2026-11-24T21:20:34Z",
+        "title": "Has a great imperial Power on the downhill Slope ever gone quite this Crazy Before?",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/11/imperial-downhill-before.html",
+        "published": "2026-11-25T05:04:35Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Yemen's Houthis threaten to target Jeddah, other Saudi Red Sea ports",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/yemen-126112500117_1.html",
+        "published": "2026-11-25T03:46:44Z",
         "sentiment": "danger"
       },
       {
-        "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report | TechCrunch",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
-        "published": "2026-11-24T21:11:45Z",
+        "title": "Risky Business #861 -- You can’t trust AI routers",
+        "source": "Risky.biz",
+        "url": "https://risky.biz/RB861/",
+        "published": "2026-11-25T03:26:28Z",
         "sentiment": "watch"
       },
       {
-        "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
-        "published": "2026-11-24T21:04:50Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Greenworks 2100 PSI 1.2 GPM Electric Pressure Washer for $142 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Greenworks-2100-PSI-1-2-GPM-Electric-Pressure-Washer-for-142-free-shipping/22428536.html",
-        "published": "2026-11-24T20:32:16Z",
+        "title": "Oil correction gone too far; sharp rebound likely: Mirae Asset Sharekhan",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/oil-correction-gone-too-far-sharp-rebound-likely-mirae-asset-sharekhan-126112500068_1.html",
+        "published": "2026-11-25T02:08:12Z",
         "sentiment": "watch"
       }
     ],
