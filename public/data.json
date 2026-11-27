@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-11-27T00:03:22.792Z",
+    "generated_at": "2026-11-27T08:42:02.911Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 107.03,
-      "change_pct": -0.3,
-      "date": "2026-11-03",
+      "price": 92.94,
+      "change_pct": 0,
+      "date": "2026-11-17",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,42 +27,56 @@
   "news": {
     "hormuz": [
       {
-        "title": "Why Trump is sticking with tariffs despite voter anger and Republican losses",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/why-trump-is-sticking-with-tariffs-despite-voter-anger-and-republican-losses/article71745006.ece",
-        "published": "2026-11-25T23:53:37Z",
+        "title": "Oil Prices Mixed as Traders Weigh Middle East Supply Risks, OPEC+ Meeting",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/4aab4a886220b2a2",
+        "published": "2026-11-26T08:34:51Z",
         "sentiment": "watch"
       },
       {
-        "title": "Oil traders downplay Persian Gulf supply risks despite rising attacks",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/oil-traders-downplay-persian-gulf-supply-risks-despite-rising-attacks/",
-        "published": "2026-11-25T23:01:22Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Amazon Basics 2-Ply Soft Toilet Paper 6 Rolls for $5 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Amazon-Basics-2-Ply-Soft-Toilet-Paper-6-Rolls-for-5-free-shipping-w-Prime/22431683.html",
-        "published": "2026-11-25T21:44:51Z",
+        "title": "Strait Of Hormuz Latest: Iran Says More Tankers Hit Mines As Oil Prices Climb And Shipping Fears Grip Markets",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/iran-reports-tankers-hit-mines-strait-hormuz-1879433",
+        "published": "2026-11-26T08:32:35Z",
         "sentiment": "watch"
       },
       {
-        "title": "Amazon Basics 2-Ply Soft Toilet Paper 6 Rolls for $5 + free shipping w/ Prime",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Amazon-Basics-2-Ply-Soft-Toilet-Paper-6-Rolls-for-5-free-shipping-w-Prime/22431683.html",
-        "published": "2026-11-25T21:44:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Carhartt Men's Millbrook 5 Waterproof Steel Toe Wedge Work Boot Various sizes $61.90 - Amazon",
+        "title": "16-Oz Cetaphil Nourishing Oil to Foam Facial Cleanser $9.25 ($0.578/fl oz) w/ S&S",
         "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20398131-carhartt-men-s-millbrook-5-waterproof-steel-toe-wedge-work-boot-various-sizes-61-90-amazon",
-        "published": "2026-11-25T21:42:41Z",
+        "url": "https://slickdeals.net/f/20402691-16-oz-cetaphil-nourishing-oil-to-foam-facial-cleanser-9-25-0-578-fl-oz-w-s-s",
+        "published": "2026-11-26T08:30:56Z",
         "sentiment": "watch"
+      },
+      {
+        "title": "Do fish make vocal sounds?",
+        "source": "Lifesciencesworld.com",
+        "url": "https://www.lifesciencesworld.com/do-fish-make-vocal-sounds/",
+        "published": "2026-11-26T08:01:33Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Houthis Strike Saudi Ports on Red Sea",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/houthis_strike_saudi_ports_on_red_sea-26-nov-2026-185172-article/",
+        "published": "2026-11-26T07:46:45Z",
+        "sentiment": "danger"
       }
     ],
     "taiwan": [
+      {
+        "title": "Forget petrodollars, ‘chip-dollars’ show U.S. power now flows from tech dominance—but the new currency regime is ‘inherently riskier,’ analyst says",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/11/26/dollar-dominance-petrodollars-chipdollars-chip-trade-surplus-ai-boom-tech-stocks/",
+        "published": "2026-11-26T07:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Skeptical Science New Research for Week #48 2026",
+        "source": "Skepticalscience.com",
+        "url": "https://skepticalscience.com/new_research_2026_48.html",
+        "published": "2026-11-26T06:23:21Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Taiwan Is the West Berlin of Our Time",
         "source": "Freerepublic.com",
@@ -82,20 +96,6 @@
         "source": "Newsonjapan.com",
         "url": "https://newsonjapan.com/article/151478.php",
         "published": "2026-11-21T02:44:59Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "What the Yalta Comparison Really Reveals About Shenzhen",
-        "source": "Foreign Policy",
-        "url": "https://foreignpolicy.com/2026/11/20/summit-trump-xi-putin-shenzhen-yalta-history-china/",
-        "published": "2026-11-20T18:12:07Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Why Taiwanese firms are reluctant to leave China, even as tensions rise",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/why-taiwanese-firms-are-reluctant-to-leave-china-even-as-tensions-rise-297000",
-        "published": "2026-11-20T14:27:14Z",
         "sentiment": "watch"
       }
     ],
