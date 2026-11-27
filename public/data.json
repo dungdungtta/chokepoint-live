@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-11-26T15:40:03.567Z",
+    "generated_at": "2026-11-27T00:03:22.792Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 92.94,
-      "change_pct": 0,
-      "date": "2026-11-17",
+      "price": 107.03,
+      "change_pct": -0.3,
+      "date": "2026-11-03",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Onshoring India’s international commodity trading business",
+        "title": "Why Trump is sticking with tariffs despite voter anger and Republican losses",
         "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/opinion/onshoring-indias-international-commodity-trading-business/article71742411.ece",
-        "published": "2026-11-25T15:20:33Z",
+        "url": "https://www.thehindubusinessline.com/news/world/why-trump-is-sticking-with-tariffs-despite-voter-anger-and-republican-losses/article71745006.ece",
+        "published": "2026-11-25T23:53:37Z",
         "sentiment": "watch"
       },
       {
-        "title": "Inflation, and monetary policy limitations",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/opinion/inflation-and-monetary-policy-limitations/article71743345.ece",
-        "published": "2026-11-25T15:02:12Z",
+        "title": "Oil traders downplay Persian Gulf supply risks despite rising attacks",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/oil-traders-downplay-persian-gulf-supply-risks-despite-rising-attacks/",
+        "published": "2026-11-25T23:01:22Z",
+        "sentiment": "danger"
+      },
+      {
+        "title": "Amazon Basics 2-Ply Soft Toilet Paper 6 Rolls for $5 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Amazon-Basics-2-Ply-Soft-Toilet-Paper-6-Rolls-for-5-free-shipping-w-Prime/22431683.html",
+        "published": "2026-11-25T21:44:51Z",
         "sentiment": "watch"
       },
       {
-        "title": "Yemeni military official brands Iran Houthis’ ‘godfather,’ says Tehran is directing war",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/yemeni-military-official-brands-iran-houthis-godfather-says-tehran-directing-war",
-        "published": "2026-11-25T14:50:17Z",
-        "sentiment": "danger"
+        "title": "Amazon Basics 2-Ply Soft Toilet Paper 6 Rolls for $5 + free shipping w/ Prime",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Amazon-Basics-2-Ply-Soft-Toilet-Paper-6-Rolls-for-5-free-shipping-w-Prime/22431683.html",
+        "published": "2026-11-25T21:44:51Z",
+        "sentiment": "watch"
       },
       {
-        "title": "Trump Wants to Quiet Quit the Iran War—but the War Won’t Let Him",
-        "source": "Thenation.com",
-        "url": "https://www.thenation.com/article/world/donald-trump-iran-war/",
-        "published": "2026-11-25T14:00:00Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Black Friday + Cyber Week Sales Shopping Guide 2026",
-        "source": "Thebeautylookbook.com",
-        "url": "https://thebeautylookbook.com/2026/11/black-friday-cyber-week-sales-shopping-guide-2026.html",
-        "published": "2026-11-25T13:46:30Z",
+        "title": "Carhartt Men's Millbrook 5 Waterproof Steel Toe Wedge Work Boot Various sizes $61.90 - Amazon",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20398131-carhartt-men-s-millbrook-5-waterproof-steel-toe-wedge-work-boot-various-sizes-61-90-amazon",
+        "published": "2026-11-25T21:42:41Z",
         "sentiment": "watch"
       }
     ],
