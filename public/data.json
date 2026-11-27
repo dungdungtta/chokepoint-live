@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-11-27T08:42:02.911Z",
+    "generated_at": "2026-11-27T18:29:06.814Z",
     "source": "direct",
     "ttl_seconds": 900
   },
   "indicators": {
     "brent": {
-      "price": 92.94,
-      "change_pct": 0,
-      "date": "2026-11-17",
+      "price": 91.8,
+      "change_pct": 0.7,
+      "date": "2026-11-24",
       "unit": "USD/bbl"
     },
     "freight": {
@@ -27,42 +27,49 @@
   "news": {
     "hormuz": [
       {
-        "title": "Oil Prices Mixed as Traders Weigh Middle East Supply Risks, OPEC+ Meeting",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/4aab4a886220b2a2",
-        "published": "2026-11-26T08:34:51Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Strait Of Hormuz Latest: Iran Says More Tankers Hit Mines As Oil Prices Climb And Shipping Fears Grip Markets",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/iran-reports-tankers-hit-mines-strait-hormuz-1879433",
-        "published": "2026-11-26T08:32:35Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "16-Oz Cetaphil Nourishing Oil to Foam Facial Cleanser $9.25 ($0.578/fl oz) w/ S&S",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20402691-16-oz-cetaphil-nourishing-oil-to-foam-facial-cleanser-9-25-0-578-fl-oz-w-s-s",
-        "published": "2026-11-26T08:30:56Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Do fish make vocal sounds?",
-        "source": "Lifesciencesworld.com",
-        "url": "https://www.lifesciencesworld.com/do-fish-make-vocal-sounds/",
-        "published": "2026-11-26T08:01:33Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "Houthis Strike Saudi Ports on Red Sea",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/houthis_strike_saudi_ports_on_red_sea-26-nov-2026-185172-article/",
-        "published": "2026-11-26T07:46:45Z",
+        "title": "Carote 21-Piece Nonstick Ceramic Cookware Set w/ Steamer for $76 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Carote-21-Piece-Nonstick-Ceramic-Cookware-Set-w-Steamer-for-76-free-shipping/22434644.html",
+        "published": "2026-11-26T18:15:37Z",
         "sentiment": "danger"
+      },
+      {
+        "title": "Global maritime trade set for zero growth in 2026: UN",
+        "source": "Economictimes.com",
+        "url": "https://m.economictimes.com/news/international/world-news/global-maritime-trade-set-for-zero-growth-in-2026-un/articleshow/136200672.cms",
+        "published": "2026-11-26T18:01:39Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Sharpie Oil-Based Extra Fine Point Paint Marker $2.49 + Free Shipping w/ Prime or on $35+",
+        "source": "Slickdeals.net",
+        "url": "https://slickdeals.net/f/20406900-sharpie-oil-based-extra-fine-point-paint-marker-2-49-free-shipping-w-prime-or-on-35",
+        "published": "2026-11-26T17:40:17Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Treasury Dept. Reports Cyber Breach as U.S. Ports Face Relentless Hacking Attempts",
+        "source": "Legalinsurrection.com",
+        "url": "https://legalinsurrection.com/2026/11/treasury-dept-reports-cyber-breach-as-u-s-ports-face-relentless-hacking-attempts/",
+        "published": "2026-11-26T17:00:11Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "Aveda Rosemary Mint Purifying Shampoo 33.8-oz. for $48 + free shipping",
+        "source": "Dealnews.com",
+        "url": "https://www.dealnews.com/Aveda-Rosemary-Mint-Purifying-Shampoo-33-8-oz-for-48-free-shipping/22434460.html",
+        "published": "2026-11-26T16:44:45Z",
+        "sentiment": "watch"
       }
     ],
     "taiwan": [
+      {
+        "title": "Retired Rear Admiral: US 'Ignored The Lessons' From Ukraine's Battlefield",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/retired-us-rear-admiral-mark-montgomery-sees-coordinated-challenge-from-russia-iran-and-their-allies/33906216.html",
+        "published": "2026-11-26T09:22:33Z",
+        "sentiment": "watch"
+      },
       {
         "title": "Forget petrodollars, ‘chip-dollars’ show U.S. power now flows from tech dominance—but the new currency regime is ‘inherently riskier,’ analyst says",
         "source": "Fortune",
@@ -90,29 +97,14 @@
         "url": "https://timesofindia.indiatimes.com/defence/news/not-an-alliance-but-a-strategic-web-how-india-and-japan-are-tightening-the-net-on-china/articleshow/136105300.cms",
         "published": "2026-11-23T14:04:21Z",
         "sentiment": "watch"
-      },
-      {
-        "title": "Japan Caught Between China, Russia and Trump's Changing World Order",
-        "source": "Newsonjapan.com",
-        "url": "https://newsonjapan.com/article/151478.php",
-        "published": "2026-11-21T02:44:59Z",
-        "sentiment": "watch"
       }
     ],
-    "malacca": [
-      {
-        "title": "Not every maritime threat needs a warship: Why Singapore is turning to offshore patrol vessels",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/singapore/singapore-navy-warship-offshore-patrol-vessel-maritime-security-6478186",
-        "published": "2026-10-25T22:00:00Z",
-        "sentiment": "danger"
-      }
-    ]
+    "malacca": []
   },
   "zones": {
     "hormuz": "amber",
     "taiwan": "yellow",
-    "malacca": "amber",
+    "malacca": "yellow",
     "suez": "amber",
     "panama": "yellow",
     "korea": "yellow"
