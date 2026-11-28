@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-28T01:37:36.171Z",
+    "generated_at": "2026-11-28T09:28:42.579Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,31 @@
   "news": {
     "hormuz": [
       {
-        "title": "High energy costs, inefficient ports hurting Nigerian exports – NEXIM Bank",
-        "source": "The Punch",
-        "url": "https://punchng.com/high-energy-costs-inefficient-ports-hurting-nigerian-exports-nexim-bank-2/",
-        "published": "2026-11-27T01:08:12Z",
+        "title": "The 19+ best deals worth shopping from Target’s Black Friday sale",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/select/shopping/target-black-friday-deals-2026-rcna611469",
+        "published": "2026-11-27T08:53:05Z",
         "sentiment": "watch"
       },
       {
-        "title": "Standard Chartered: Oil Needs a New Shock to Fall Further",
+        "title": "Iraq Delays Up to 30 Million Barrels of Crude Oil Shipments",
         "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Oil-Prices/Standard-Chartered-Oil-Needs-a-New-Shock-to-Fall-Further.html",
-        "published": "2026-11-27T01:00:00Z",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Delays-Up-to-30-Million-Barrels-of-Crude-Oil-Shipments.html",
+        "published": "2026-11-27T08:30:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "NEXIM seeks more non-interest banks to widen export funding",
-        "source": "The Punch",
-        "url": "https://punchng.com/nexim-seeks-more-non-interest-banks-to-widen-export-funding/",
-        "published": "2026-11-27T00:50:43Z",
+        "title": "Brent to test $100 in coming days, says Mirae Asset Sharekhan; here's why",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/brent-to-test-100-in-coming-days-says-mirae-asset-sharekhan-here-s-why-126112700506_1.html",
+        "published": "2026-11-27T08:00:21Z",
         "sentiment": "watch"
       },
       {
-        "title": "Best of Black Friday Sales!",
-        "source": "Hisugarplum.com",
-        "url": "https://hisugarplum.com/best-of-black-friday-sales-3/",
-        "published": "2026-11-26T22:00:00Z",
-        "sentiment": "watch"
-      },
-      {
-        "title": "160 red-hot Black Friday deals we'd buy with our own money",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/guides/deals/best-black-friday-deals-2026-11-26",
-        "published": "2026-11-26T21:27:56Z",
+        "title": "Thanksgiving Gas Prices Near Record High Despite Dramatic 60-Cent Drop, yet Drivers Still Face Holiday Sticker Shock",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-11-27-thanksgiving-gas-record-high-holiday-sticker-shock.html",
+        "published": "2026-11-27T06:00:00Z",
         "sentiment": "watch"
       }
     ],
