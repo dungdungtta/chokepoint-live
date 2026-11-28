@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-27T18:29:06.814Z",
+    "generated_at": "2026-11-28T01:37:36.171Z",
     "source": "direct",
     "ttl_seconds": 900
   },
@@ -27,38 +27,38 @@
   "news": {
     "hormuz": [
       {
-        "title": "Carote 21-Piece Nonstick Ceramic Cookware Set w/ Steamer for $76 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Carote-21-Piece-Nonstick-Ceramic-Cookware-Set-w-Steamer-for-76-free-shipping/22434644.html",
-        "published": "2026-11-26T18:15:37Z",
-        "sentiment": "danger"
-      },
-      {
-        "title": "Global maritime trade set for zero growth in 2026: UN",
-        "source": "Economictimes.com",
-        "url": "https://m.economictimes.com/news/international/world-news/global-maritime-trade-set-for-zero-growth-in-2026-un/articleshow/136200672.cms",
-        "published": "2026-11-26T18:01:39Z",
+        "title": "High energy costs, inefficient ports hurting Nigerian exports – NEXIM Bank",
+        "source": "The Punch",
+        "url": "https://punchng.com/high-energy-costs-inefficient-ports-hurting-nigerian-exports-nexim-bank-2/",
+        "published": "2026-11-27T01:08:12Z",
         "sentiment": "watch"
       },
       {
-        "title": "Sharpie Oil-Based Extra Fine Point Paint Marker $2.49 + Free Shipping w/ Prime or on $35+",
-        "source": "Slickdeals.net",
-        "url": "https://slickdeals.net/f/20406900-sharpie-oil-based-extra-fine-point-paint-marker-2-49-free-shipping-w-prime-or-on-35",
-        "published": "2026-11-26T17:40:17Z",
+        "title": "Standard Chartered: Oil Needs a New Shock to Fall Further",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Oil-Prices/Standard-Chartered-Oil-Needs-a-New-Shock-to-Fall-Further.html",
+        "published": "2026-11-27T01:00:00Z",
         "sentiment": "watch"
       },
       {
-        "title": "Treasury Dept. Reports Cyber Breach as U.S. Ports Face Relentless Hacking Attempts",
-        "source": "Legalinsurrection.com",
-        "url": "https://legalinsurrection.com/2026/11/treasury-dept-reports-cyber-breach-as-u-s-ports-face-relentless-hacking-attempts/",
-        "published": "2026-11-26T17:00:11Z",
+        "title": "NEXIM seeks more non-interest banks to widen export funding",
+        "source": "The Punch",
+        "url": "https://punchng.com/nexim-seeks-more-non-interest-banks-to-widen-export-funding/",
+        "published": "2026-11-27T00:50:43Z",
         "sentiment": "watch"
       },
       {
-        "title": "Aveda Rosemary Mint Purifying Shampoo 33.8-oz. for $48 + free shipping",
-        "source": "Dealnews.com",
-        "url": "https://www.dealnews.com/Aveda-Rosemary-Mint-Purifying-Shampoo-33-8-oz-for-48-free-shipping/22434460.html",
-        "published": "2026-11-26T16:44:45Z",
+        "title": "Best of Black Friday Sales!",
+        "source": "Hisugarplum.com",
+        "url": "https://hisugarplum.com/best-of-black-friday-sales-3/",
+        "published": "2026-11-26T22:00:00Z",
+        "sentiment": "watch"
+      },
+      {
+        "title": "160 red-hot Black Friday deals we'd buy with our own money",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/guides/deals/best-black-friday-deals-2026-11-26",
+        "published": "2026-11-26T21:27:56Z",
         "sentiment": "watch"
       }
     ],
